@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sound_amplifier_html_description">Bộ khuếch đại âm thanh giúp bạn nghe rõ các âm thanh nhỏ mà không làm cho các âm thanh lớn trở nên quá ồn&lt;br/>&lt;br/> &lt;b>Cách dùng Bộ khuếch đại âm thanh&lt;/b>&lt;br/> 1. Cắm tai nghe có dây hoặc kết nối tai nghe Bluetooth&lt;br/> 2. Khởi động Bộ khuếch đại âm thanh</string>
+    <string name="sound_amplifier_intro">Sử dụng Bộ khuếch đại âm thanh cùng với tai nghe để nâng cao chất lượng âm thanh xung quanh và trên thiết bị của bạn</string>
+</resources>

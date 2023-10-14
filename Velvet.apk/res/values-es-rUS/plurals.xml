@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="other">Hace %d días</item>
+        <item quantity="one">Hace %d día</item>
+        <item quantity="many">Hace %d días</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="other">Hace %d min</item>
+        <item quantity="one">Hace %d min</item>
+        <item quantity="many">Hace %d min</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="other">Hace %d años</item>
+        <item quantity="one">Hace %d año</item>
+        <item quantity="many">Hace %d años</item>
+    </plurals>
+    <plurals name="assistant_custodio_device_list_fragment_legacy_linking_item_text">
+        <item quantity="other">%d dispositivos disponibles</item>
+        <item quantity="one">%d dispositivo disponible</item>
+        <item quantity="many">%d de dispositivos disponibles</item>
+    </plurals>
+    <plurals name="assistant_custodio_device_list_home_section_subtitle_text">
+        <item quantity="other">%d dispositivos</item>
+        <item quantity="one">%d dispositivo</item>
+        <item quantity="many">%d de dispositivos</item>
+    </plurals>
+    <plurals name="assistant_holiday_alarms_notification_content_text">
+        <item quantity="other">Tap to pause or cancel your alarms</item>
+        <item quantity="one">Tap to pause or cancel your %s alarm</item>
+    </plurals>
+    <plurals name="assistant_holiday_alarms_notification_pause_button_text">
+        <item quantity="other">Pause your alarms for the holiday</item>
+        <item quantity="one">Pause your %s alarm for the holiday</item>
+    </plurals>
+    <plurals name="assistant_post_task_migration_succeed_notification_title">
+        <item quantity="other">%1$d reminders set up in Google Tasks</item>
+        <item quantity="one">%1$d reminder set up in Google Tasks</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">Cada %d días</item>
+        <item quantity="one">Todos los días</item>
+        <item quantity="many">Cada %d días</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; %d veces</item>
+        <item quantity="one">; una sola vez</item>
+        <item quantity="many">; %d veces</item>
+    </plurals>
+    <plurals name="fa_message_preview_card_num_of_audio_messages">
+        <item quantity="other">%1$d mensajes de audio</item>
+        <item quantity="one">%1$d mensaje de audio</item>
+        <item quantity="many">%1$d de mensajes de audio</item>
+    </plurals>
+    <plurals name="fa_message_preview_card_num_of_pictures">
+        <item quantity="other">%1$d imágenes</item>
+        <item quantity="one">%1$d imagen</item>
+        <item quantity="many">%1$d de imágenes</item>
+    </plurals>
+    <plurals name="fa_message_preview_card_num_of_videos">
+        <item quantity="other">%1$d videos</item>
+        <item quantity="one">%1$d video</item>
+        <item quantity="many">%1$d de videos</item>
+    </plurals>
+    <plurals name="gestalt_duration_in_days_short">
+        <item quantity="other">%1$d días</item>
+        <item quantity="one">%1$d día</item>
+    </plurals>
+    <plurals name="gestalt_duration_in_hours_short">
+        <item quantity="other">%1$d horas</item>
+        <item quantity="one">%1$d hora</item>
+    </plurals>
+    <plurals name="gestalt_duration_in_minutes_short">
+        <item quantity="other">%1$d min</item>
+        <item quantity="one">%1$d min</item>
+    </plurals>
+    <plurals name="gestalt_duration_in_months_short">
+        <item quantity="other">%1$d meses</item>
+        <item quantity="one">%1$d mes</item>
+    </plurals>
+    <plurals name="gestalt_duration_in_years_short">
+        <item quantity="other">%1$d años</item>
+        <item quantity="one">%1$d año</item>
+    </plurals>
+    <plurals name="lens_region_search_area_percent">
+        <item quantity="other">%2$d%% desde la %1$s</item>
+        <item quantity="one">%2$d%% desde la %1$s</item>
+    </plurals>
+    <plurals name="monthly_interval">
+        <item quantity="other">Cada %1$d meses</item>
+        <item quantity="one">Todos los meses</item>
+        <item quantity="many">Cada %1$d meses</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d notificaciones nuevas</item>
+        <item quantity="one">%d notificación nueva</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">%1$d seleccionados</item>
+        <item quantity="one">%1$d seleccionado</item>
+    </plurals>
+    <plurals name="peoplekit_chips_copied_recipients">
+        <item quantity="other">Se copiaron %d destinatarios</item>
+        <item quantity="one">Se copió %d destinatario</item>
+    </plurals>
+    <plurals name="podcasts_days_ago">
+        <item quantity="other">Hace %1$d días</item>
+        <item quantity="one">Hace %1$d día</item>
+    </plurals>
+    <plurals name="podcasts_days_left_to_remove_downloads">
+        <item quantity="other">Después de %1$d días</item>
+        <item quantity="one">Después de %1$d día</item>
+    </plurals>
+    <plurals name="podcasts_enabled_podcasts_number_label">
+        <item quantity="other">Habilitada para %1$d de %2$d podcasts</item>
+        <item quantity="one">Habilitada para %1$d de %2$d podcast</item>
+    </plurals>
+    <plurals name="podcasts_episode_list_title_text">
+        <item quantity="other">%1$d episodios</item>
+        <item quantity="one">%1$d episodio</item>
+    </plurals>
+    <plurals name="podcasts_hours_abbreviated">
+        <item quantity="other">%s h</item>
+        <item quantity="one">%s h</item>
+    </plurals>
+    <plurals name="podcasts_hours_ago">
+        <item quantity="other">Hace %1$d horas</item>
+        <item quantity="one">Hace %1$d hora</item>
+    </plurals>
+    <plurals name="podcasts_hours_left_to_remove_downloads">
+        <item quantity="other">Después de %1$d horas</item>
+        <item quantity="one">Después de %1$d hora</item>
+    </plurals>
+    <plurals name="podcasts_minutes_abbreviated">
+        <item quantity="other">%s min</item>
+        <item quantity="one">%s min</item>
+    </plurals>
+    <plurals name="podcasts_minutes_ago">
+        <item quantity="other">Hace %1$d min</item>
+        <item quantity="one">Hace %1$d min</item>
+    </plurals>
+    <plurals name="public_notification_text">
+        <item quantity="other">%1$d notificaciones nuevas</item>
+        <item quantity="one">Tienes una notificación</item>
+    </plurals>
+    <plurals name="readaloud_number_of_minutes">
+        <item quantity="other">%d minutos</item>
+        <item quantity="one">%d minuto</item>
+    </plurals>
+    <plurals name="readaloud_number_of_seconds">
+        <item quantity="other">%d segundos</item>
+        <item quantity="one">%d segundo</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">%d veces</item>
+        <item quantity="one">%d vez</item>
+        <item quantity="many">%d veces</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">Cada %d días</item>
+        <item quantity="one">Cada %d día</item>
+        <item quantity="many">Cada %d días</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">Cada %d meses</item>
+        <item quantity="one">Cada %d mes</item>
+        <item quantity="many">Cada %d meses</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">Cada %d semanas</item>
+        <item quantity="one">Cada %d semana</item>
+        <item quantity="many">Cada %d semanas</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">Cada %d años</item>
+        <item quantity="one">Cada %d año</item>
+        <item quantity="many">Cada %d años</item>
+    </plurals>
+    <plurals name="share_eta_button">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+    </plurals>
+    <plurals name="share_eta_message">
+        <item quantity="other">Llegarás en %d minutos.</item>
+        <item quantity="one">Llegarás en %d minuto.</item>
+    </plurals>
+    <plurals name="share_imminent_eta_message">
+        <item quantity="other">Llegarás en %d minutos.</item>
+        <item quantity="one">Llegarás en %d minuto.</item>
+    </plurals>
+    <plurals name="survey_star_rating">
+        <item quantity="other">%1$d estrellas de %2$d</item>
+        <item quantity="one">%1$d estrella de %2$d</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">Cada %1$d semanas, los %2$s</item>
+        <item quantity="one">Todas las semanas, los %2$s</item>
+        <item quantity="many">Cada %1$d semanas, los %2$s</item>
+    </plurals>
+    <plurals name="yearly_interval_plain">
+        <item quantity="other">Cada %1$d años</item>
+        <item quantity="one">Todos los años</item>
+        <item quantity="many">Cada %1$d años</item>
+    </plurals>
+</resources>

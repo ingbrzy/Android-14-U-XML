@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dots">
+        <item quantity="other">կետեր %s</item>
+        <item quantity="one">կետ %s</item>
+    </plurals>
+    <plurals name="gestures_recorded_message">
+        <item quantity="other">Տեսագրվել է %d ժեստ</item>
+        <item quantity="one">Տեսագրվել է %d ժեստ</item>
+    </plurals>
+    <plurals name="label_num_keys_assigned_format">
+        <item quantity="other">Նշանակված է %d փոխանջատիչ</item>
+        <item quantity="one">Նշանակված է %d փոխանջատիչ</item>
+    </plurals>
+    <plurals name="label_num_scanning_loops_format">
+        <item quantity="other">%d սկանավորում</item>
+        <item quantity="one">%d սկանավորում</item>
+    </plurals>
+    <plurals name="line_speed_summary_format">
+        <item quantity="other">%.2f սմ/վ</item>
+        <item quantity="one">%.2f սմ/վ</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d նոր ծանուցում</item>
+        <item quantity="one">%d նոր ծանուցում</item>
+    </plurals>
+    <plurals name="time_delay_summary_format">
+        <item quantity="other">%.2f վայրկյան</item>
+        <item quantity="one">%.2f վայրկյան</item>
+    </plurals>
+</resources>

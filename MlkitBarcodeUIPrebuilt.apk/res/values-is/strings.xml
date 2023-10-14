@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">Fara upp</string>
+    <string name="abc_action_mode_done">Lokið</string>
+    <string name="abc_capital_off">SLÖKKT</string>
+    <string name="abc_capital_on">KVEIKT</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">eyða</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Aðgerðarlykill+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">bilslá</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Valmynd+</string>
+    <string name="abc_search_hint">Leita…</string>
+    <string name="abc_searchview_description_clear">Hreinsa fyrirspurn</string>
+    <string name="abc_searchview_description_search">Leit</string>
+    <string name="abc_searchview_description_submit">Senda fyrirspurn</string>
+    <string name="abc_searchview_description_voice">Raddleit</string>
+    <string name="abc_toolbar_collapse_description">Minnka</string>
+    <string name="bottom_sheet_button_contact_text">@string/common_view</string>
+    <string name="bottom_sheet_button_matter_text">Uppsetning</string>
+    <string name="bottom_sheet_button_no_apps_text">Leit</string>
+    <string name="bottom_sheet_button_wifi_text">@string/common_connect</string>
+    <string name="bottom_sheet_copy_error_toast">Ekki tókst að afrita texta yfir á klippiborð</string>
+    <string name="bottom_sheet_copy_success_toast">Texti afritaður á klippiborð</string>
+    <string name="bottom_sheet_image_view_description">Tákn forritsins sem birtist</string>
+    <string name="bottom_sheet_sub_title_no_apps">Leita í Google Play</string>
+    <string name="bottom_sheet_title">Opna með</string>
+    <string name="bottom_sheet_title_app_found">Opna með %1$s</string>
+    <string name="bottom_sheet_title_contact">Skoða upplýsingar um tengilið</string>
+    <string name="bottom_sheet_title_copy_text">Afrita texta</string>
+    <string name="bottom_sheet_title_copy_text_button_text">@string/common_copy</string>
+    <string name="bottom_sheet_title_copy_text_button_text_copied">Afritað</string>
+    <string name="bottom_sheet_title_matter">Settu tækið upp</string>
+    <string name="bottom_sheet_title_passkey">Nota lykilorð</string>
+    <string name="bottom_sheet_title_payment">Greiða með</string>
+    <string name="bottom_sheet_title_payment_setup">Setja upp greiðslu með</string>
+    <string name="bottom_sheet_title_payment_setup_single_app">Setja upp greiðslu með %1$s</string>
+    <string name="bottom_sheet_title_payment_single_app">Greiða með %1$s</string>
+    <string name="bottom_sheet_title_single_app_button_text">Opið</string>
+    <string name="bottom_sheet_title_wifi">Tengjast WiFi</string>
+    <string name="bottomsheet_action_expand_halfway">Stækka til hálfs</string>
+    <string name="bottomsheet_drag_handle_content_description">Dragkló</string>
+    <string name="camera_permission_dialog_button">Í lagi</string>
+    <string name="camera_permission_dialog_message">"Þjónusta Google Play þarf aðgang að myndavél tækisins til að skanna kóða fyrir %1$s.
+
+Veittu þjónustu Google Play aðgang að myndavél í stillingum til að virkja skönnun."</string>
+    <string name="camera_permission_dialog_message_platform">"Þjónusta Google Play þarf aðgang að myndavél tækisins til að skanna QR-kóða.
+
+Veittu þjónustu Google Play aðgang að myndavél í stillingum til að virkja skönnun."</string>
+    <string name="camera_permission_dialog_title">Myndavélarheimild áskilin</string>
+    <string name="cd_cancel_button">Loka kóðaskanna</string>
+    <string name="cd_info_button">Opna upplýsingaglugga</string>
+    <string name="cd_selected_photo_view">Birta valda mynd</string>
+    <string name="cd_settings_button">Opna skannastillingar</string>
+    <string name="cd_torch_button">Kveikja/slökkva á vasaljósi</string>
+    <string name="character_counter_content_description">Innslegnir stafir %1$d af %2$d</string>
+    <string name="character_counter_overflowed_content_description">Yfir hámarksstafafjölda, %1$d af %2$d</string>
+    <string name="clear_text_end_icon_content_description">Hreinsa texta</string>
+    <string name="common_connect">Tengjast</string>
+    <string name="common_continue">Áfram</string>
+    <string name="common_copy">Afrita</string>
+    <string name="common_google_play_services_enable_button">Kveikja</string>
+    <string name="common_google_play_services_enable_text">%1$s virkar ekki nema þú gerir þjónustu Google Play virka.</string>
+    <string name="common_google_play_services_enable_title">Virkja þjónustu Google Play</string>
+    <string name="common_google_play_services_install_button">Setja upp</string>
+    <string name="common_google_play_services_install_text">%1$s getur ekki keyrt án þjónustu Google Play, sem vantar í tækið þitt.</string>
+    <string name="common_google_play_services_install_title">Sækja þjónustu Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Staða þjónustu Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Villa í þjónustu Google Play</string>
+    <string name="common_google_play_services_unknown_issue">%1$s á í vandræðum með þjónustu Google Play. Reyndu aftur.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s getur ekki keyrt án þjónustu Google Play, sem er ekki studd af tækinu þínu.</string>
+    <string name="common_google_play_services_update_button">Uppfæra</string>
+    <string name="common_google_play_services_update_text">%1$s getur ekki keyrt nema þú uppfærir þjónustu Google Play.</string>
+    <string name="common_google_play_services_update_title">Uppfæra þjónustu Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s getur ekki keyrt án þjónustu Google Play, sem verið er að uppfæra.</string>
+    <string name="common_google_play_services_wear_update_text">Nýja útgáfu af þjónustu Google Play vantar. Hún uppfærir sig sjálf innan skamms.</string>
+    <string name="common_got_it">Ég skil</string>
+    <string name="common_no_apps_found">Engin forrit fundust</string>
+    <string name="common_open_on_phone">Opna í símanum</string>
+    <string name="common_view">Skoða</string>
+    <string name="error_a11y_label">Error: invalid</string>
+    <string name="error_icon_content_description">Villa</string>
+    <string name="exposed_dropdown_menu_content_description">Sýna fellivalmynd</string>
+    <string name="info_dialog_button">@string/common_got_it</string>
+    <string name="info_dialog_message">"%1$s biður um að þjónusta Google Play skanni kóða fyrir sína hönd. Engum myndagögnum verður deilt, aðeins niðurstöðum skönnunarinnar.
+
+Skönnun fer fram í tækinu þínu og Google vistar hvorki myndagögn né kóðana sem eru skannaðir."</string>
+    <string name="info_dialog_message_platform">Þjónusta Google Play opnar myndavél tækisins. Skönnuðum kóðum og myndum er ekki deilt og gögnin eru aðeins geymd í þessu tæki.</string>
+    <string name="info_dialog_title">Verndað af Google</string>
+    <string name="info_dialog_title_platform">Keyrt af Google</string>
+    <string name="manual_input_hint">Ýttu hér til að slá kóðann inn handvirkt</string>
+    <string name="mtrl_checkbox_state_description_checked">Checked</string>
+    <string name="mtrl_checkbox_state_description_indeterminate">Partially checked</string>
+    <string name="mtrl_checkbox_state_description_unchecked">Not checked</string>
+    <string name="password_toggle_content_description">Sýna aðgangsorð</string>
+    <string name="qr_detection_failure_dialog_message">Prófaðu að skanna af annarri mynd</string>
+    <string name="qr_detection_failure_dialog_title">Enginn QR-kóði fannst</string>
+    <string name="scan_from_photo_title">Skanna af mynd</string>
+    <string name="scanner_brand">Skannað af Google fyrir hönd %1$s</string>
+    <string name="scanner_brand_platform">@string/info_dialog_title_platform</string>
+    <string name="scanner_title">Skanna kóða</string>
+    <string name="scanner_title_platform">Skanna QR-kóða</string>
+</resources>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="call_captions_typing_predictions_post_system_message">
+        <item>ਸਤਿ ਸ੍ਰੀ ਅਕਾਲ, ਕੌਣ ਬੋਲ ਰਿਹਾ ਹੈ?</item>
+        <item>ਸਤਿ ਸ੍ਰੀ ਅਕਾਲ, ਤੁਸੀਂ ਕਿਵੇਂ ਹੋ?</item>
+        <item>ਕਿਰਪਾ ਕਰਕੇ ਇੱਕ ਮਿੰਟ ਰੁਕੋ</item>
+        <item>ਸਤਿ ਸ੍ਰੀ ਅਕਾਲ, ਕੀ ਤੁਸੀਂ ਬਾਅਦ ਵਿੱਚ ਵਾਪਸ ਕਾਲ ਕਰ ਸਕਦੇ ਹੋ?</item>
+        <item>ਸਤਿ ਸ੍ਰੀ ਅਕਾਲ! ਕਾਲ ਕਰਨ ਲਈ ਧੰਨਵਾਦ।</item>
+    </string-array>
+    <string-array name="captions_settings_enable_for_calls_choices_entries">
+        <item>ਹਰ ਵਾਰ ਪੁੱਛੋ</item>
+        <item>ਹਮੇਸ਼ਾਂ</item>
+        <item>ਬੰਦ</item>
+    </string-array>
+    <string-array name="captions_settings_typing_voice_names">
+        <item>ਅਵਾਜ਼ A</item>
+        <item>ਅਵਾਜ਼ B</item>
+        <item>ਅਵਾਜ਼ C</item>
+        <item>ਅਵਾਜ਼ D</item>
+        <item>ਅਵਾਜ਼ E</item>
+        <item>ਅਵਾਜ਼ F</item>
+        <item>ਅਵਾਜ਼ G</item>
+        <item>ਅਵਾਜ਼ H</item>
+        <item>ਅਵਾਜ਼ I</item>
+        <item>ਅਵਾਜ਼ J</item>
+        <item>ਅਵਾਜ਼ K</item>
+        <item>ਅਵਾਜ਼ L</item>
+        <item>ਅਵਾਜ਼ M</item>
+        <item>ਅਵਾਜ਼ N</item>
+        <item>ਅਵਾਜ਼ O</item>
+        <item>ਅਵਾਜ਼ P</item>
+    </string-array>
+    <string-array name="pref_download_policy_entries">
+        <item>ਮੋਬਾਈਲ + ਵਾਈ-ਫਾਈ</item>
+        <item>ਸਿਰਫ਼ ਵਾਈ-ਫਾਈ</item>
+        <item>ਅੱਪਡੇਟ ਨਾ ਕਰੋ</item>
+    </string-array>
+    <string-array name="pref_download_policy_entry_values_placeholder">
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+</resources>

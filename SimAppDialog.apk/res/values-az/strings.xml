@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sim Tətbiq Dialoqu</string>
+    <string name="call_notification_answer_action">Cavab verin</string>
+    <string name="call_notification_answer_video_action">Video</string>
+    <string name="call_notification_decline_action">İmtina edin</string>
+    <string name="call_notification_hang_up_action">Dəstəyi asın</string>
+    <string name="call_notification_incoming_text">Gələn zəng</string>
+    <string name="call_notification_ongoing_text">Davam edən zəng</string>
+    <string name="call_notification_screening_text">Gələn zəng göstərilir</string>
+    <string name="install_carrier_app_defer_action">İndi yox</string>
+    <string name="install_carrier_app_description">Yeni SIM kartınızın düzgün işləməsi üçün %1$s tətbiqini yükləməlisiniz</string>
+    <string name="install_carrier_app_description_default">Yeni SIM kartınızın düzgün işləməsi üçün operator tətbiqini yükləməlisiniz</string>
+    <string name="install_carrier_app_download_action">Tətbiqi endirin</string>
+    <string name="install_carrier_app_title">Mobil xidməti aktiv edin</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="suw_back_button_label">Geri</string>
+    <string name="suw_more_button_label">Daha çox</string>
+    <string name="suw_next_button_label">Növbəti</string>
+</resources>

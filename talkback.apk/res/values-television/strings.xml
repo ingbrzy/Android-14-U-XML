@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="privacy_policy_url">https://www.google.com/policies/privacy/</string>
+    <string name="tos_url">https://www.google.com/policies/terms/</string>
+    <string name="training_page_number">Tutorial Step %1$d of %2$d</string>
+</resources>

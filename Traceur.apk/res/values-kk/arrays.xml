@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="select_logpersist_summaries">
+        <item>Өшірулі</item>
+        <item>Барлық журнал буфері</item>
+        <item>Радио журналының буферлерінен басқасының барлығы</item>
+        <item>тек ядро журналының буфері</item>
+    </string-array>
+</resources>

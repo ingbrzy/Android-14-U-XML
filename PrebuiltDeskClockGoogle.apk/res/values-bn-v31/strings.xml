@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="analog_gadget">অ্যানালগ</string>
+    <string name="digital_gadget">ডিজিটাল</string>
+    <string name="analog_widget_clover_clock_name">ক্লোভার</string>
+    <string name="analog_widget_clover_content_description">ক্লোভারের মতো আকারের ঘড়ির ডায়াল</string>
+    <string name="analog_widget_config_activity_title">একটি ওয়াচফেস বেছে নিন</string>
+    <string name="analog_widget_day_clock_name">দিন</string>
+    <string name="analog_widget_day_content_description">মাসের তারিখ সহ ঘড়ির ডায়াল</string>
+    <string name="analog_widget_numeral_clock_name">সংখ্যা বিষয়ক</string>
+    <string name="analog_widget_numeral_content_description">বড় সংখ্যা দেওয়া ঘড়ির ডায়াল</string>
+    <string name="analog_widget_scallop_clock_name">স্ক্যালোপ</string>
+    <string name="analog_widget_scallop_content_description">বার ও মাসের নাম সহ ঘড়ির ডায়াল</string>
+    <string name="cities_widget_config_activity_subtitle">"'ঘড়ি' ট্যাব থেকে শহর যোগ করা যেতে পারে"</string>
+    <string name="cities_widget_config_activity_subtitle_button">Clock অ্যাপে শহর বেছে নিন</string>
+    <string name="cities_widget_preview_city_london">লন্ডন</string>
+    <string name="cities_widget_preview_city_mountain_view">মাউন্টেন ভিউ</string>
+    <string name="clock_widget_opaque_label">সলিড</string>
+    <string name="clock_widget_transparent_label">স্বচ্ছ</string>
+    <string name="digital_appwidget_config_activity_title">ঘড়ির স্টাইল বেছে নিন</string>
+    <string name="digital_cities_gadget">বিশ্ব</string>
+    <string name="digital_cities_gadget_description">Clock অ্যাপে শহর বেছে নিন</string>
+    <string name="digital_stacked_gadget">স্ট্যাক করা</string>
+    <string name="digital_widgets_preview_alarm">সোমবার ০৯:৩০</string>
+    <string name="stopwatch_gadget_description">Clock অ্যাপে স্টপওয়াচ কন্ট্রোল করুন</string>
+</resources>

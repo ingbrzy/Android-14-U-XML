@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="heads_up_location_permission_description">Tämän avulla Huomioilmoitukset tietää, kun olet ulkona. Valitse kahdesta seuraavasta kohdasta <b>Sovellusta käytettäessä > Salli aina</b>.</string>
+    <string name="wind_down_discovery_notification_text">{DEVICE_TYPE,select, DEVICE_PHONE{Hiljennä puhelin ja pidä näyttö pimeänä nukkuma-aikamoodilla, kun on aika käydä nukkumaan}DEVICE_TABLET{Hiljennä tabletti ja pidä näyttö pimeänä nukkuma-aikamoodilla, kun on aika käydä nukkumaan}other{Hiljennä laite ja pidä näyttö pimeänä nukkuma-aikamoodilla, kun on aika käydä nukkumaan}}</string>
+</resources>

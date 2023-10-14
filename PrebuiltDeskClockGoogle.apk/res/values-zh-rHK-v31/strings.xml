@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="analog_gadget">指針</string>
+    <string name="digital_gadget">數碼</string>
+    <string name="analog_widget_clover_clock_name">三葉草</string>
+    <string name="analog_widget_clover_content_description">狀似三葉草的時鐘鐘面</string>
+    <string name="analog_widget_config_activity_title">選取「時鐘鐘面」</string>
+    <string name="analog_widget_day_clock_name">日期</string>
+    <string name="analog_widget_day_content_description">帶有日期的時鐘鐘面</string>
+    <string name="analog_widget_numeral_clock_name">數字</string>
+    <string name="analog_widget_numeral_content_description">帶有大型數字的時鐘鐘面</string>
+    <string name="analog_widget_scallop_clock_name">扇形</string>
+    <string name="analog_widget_scallop_content_description">帶有星期和月份的時鐘鐘面</string>
+    <string name="cities_widget_config_activity_subtitle">您可以在「時鐘」分頁新增城市</string>
+    <string name="cities_widget_config_activity_subtitle_button">在「時鐘」應用程式中選擇城市</string>
+    <string name="cities_widget_preview_city_london">倫敦</string>
+    <string name="cities_widget_preview_city_mountain_view">山景城</string>
+    <string name="clock_widget_opaque_label">實線</string>
+    <string name="clock_widget_transparent_label">透明</string>
+    <string name="digital_appwidget_config_activity_title">選擇時鐘樣式</string>
+    <string name="digital_cities_gadget">世界</string>
+    <string name="digital_cities_gadget_description">在「時鐘」應用程式中選擇城市</string>
+    <string name="digital_stacked_gadget">堆疊</string>
+    <string name="digital_widgets_preview_alarm">週一 09:30</string>
+    <string name="stopwatch_gadget_description">在「時鐘」應用程式中控制秒錶</string>
+</resources>

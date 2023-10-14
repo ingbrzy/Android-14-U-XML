@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="android_messages_promo_deeplink_query_suggestions">
+        <item>שליחת הודעה</item>
+    </string-array>
+    <string-array name="assistant_settings_home_suggested_room_names">
+        <item>עליית גג</item>
+        <item>חדר רחצה</item>
+        <item>חצר אחורית</item>
+        <item>מרתף</item>
+        <item>חדר שינה</item>
+        <item>מרפסת</item>
+        <item>חדר טלוויזיה</item>
+        <item>חדר אוכל</item>
+        <item>כביש גישה לבית</item>
+        <item>קומה תחתונה</item>
+        <item>כניסה</item>
+        <item>חדר משפחה</item>
+        <item>חצר קדמית</item>
+        <item>מוסך</item>
+        <item>בית הארחה</item>
+        <item>חדר אורחים</item>
+        <item>מסדרון</item>
+        <item>מטבח</item>
+        <item>חדר מגורים</item>
+        <item>משרד</item>
+        <item>בחוץ</item>
+        <item>פטיו</item>
+        <item>חדר השינה הראשי</item>
+        <item>מחסן</item>
+        <item>קומה עליונה</item>
+    </string-array>
+    <string-array name="baseball_innings">
+        <item>האינינג הראשון</item>
+        <item>האינינג השני</item>
+        <item>האינינג השלישי</item>
+        <item>האינינג הרביעי</item>
+        <item>הסיבוב החמישי</item>
+        <item>האינינג השישי</item>
+        <item>האינינג השביעי</item>
+        <item>האינינג השמיני</item>
+        <item>האינינג התשיעי</item>
+        <item>האינינג העשירי</item>
+        <item>האינינג האחד עשר</item>
+        <item>האינינג השנים עשר</item>
+    </string-array>
+    <array name="chip_strings_afternoon" />
+    <string-array name="chip_strings_anytime">
+        <item>מה מזג האוויר?</item>
+        <item>הפעלת חדשות</item>
+    </string-array>
+    <string-array name="chip_strings_evening">
+        <item>איתור מתכונים לארוחת הערב</item>
+        <item>מה כדאי לי לבשל</item>
+        <item>הגדרת טיימר</item>
+        <item>איתור מסעדה</item>
+    </string-array>
+    <string-array name="chip_strings_night">
+        <item>הפעלת צלילים מרגיעים</item>
+        <item>הגדרת התראה</item>
+        <item>מה מזג האוויר שצפוי מחר?</item>
+    </string-array>
+    <string-array name="dialer_promo_deeplink_query_suggestions">
+        <item>התקשרות</item>
+    </string-array>
+    <string-array name="edit_reminder_day">
+        <item>היום</item>
+        <item>מחר</item>
+        <item>מדי פעם</item>
+        <item>הגדרת תאריך…</item>
+    </string-array>
+    <string-array name="edit_reminder_location">
+        <item>בית</item>
+        <item>עבודה</item>
+        <item>הגדרת מיקום…</item>
+    </string-array>
+    <string-array name="edit_reminder_time">
+        <item>בוקר</item>
+        <item>אחר הצהריים</item>
+        <item>ערב</item>
+        <item>לילה</item>
+        <item>כל היום</item>
+        <item>הגדרת שעה…</item>
+    </string-array>
+    <string-array name="hotword_enrollment_tisid_enrollment_phrases_v2">
+        <item>"‏What's the weather tomorrow? (מה מזג האוויר שצפוי מחר?)"</item>
+        <item>אני רוצה לקבל תזכורת להשקות את הצמחים כל יום שני.</item>
+        <item>make a call.‎</item>
+        <item>‏set a timer for five minutes. (הגדרת טיימר לחמש דקות.)</item>
+    </string-array>
+    <string-array name="lens_gleam_accessibility_place_price_values">
+        <item>לא יקר</item>
+        <item>קצת יקר</item>
+        <item>יקר במידה בינונית</item>
+        <item>יקר מאוד</item>
+    </string-array>
+    <string-array name="local_results_markers">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+    <string-array name="network_error_tts_messages">
+        <item>חיבור האינטרנט הזה לא מהימן עכשיו.</item>
+        <item>חיבור האינטרנט הזה לא יציב כעת.</item>
+        <item>חיבור האינטרנט הזה לא חזק מספיק עכשיו.</item>
+    </string-array>
+    <string-array name="nga_offline_wcyd_tips">
+        <item>צילום תמונת סלפי</item>
+        <item>‏לפתיחת Messages</item>
+        <item>הדלקת הפנס</item>
+        <item>אני רוצה להגדיר התראה לשעה 7 בבוקר</item>
+        <item>הגדרת טיימר ל-15 דקות</item>
+    </string-array>
+    <string-array name="nga_recurrence_long_day_format">
+        <item>שני</item>
+        <item>שלישי</item>
+        <item>רביעי</item>
+        <item>חמישי</item>
+        <item>שישי</item>
+        <item>שבת</item>
+        <item>ראשון</item>
+    </string-array>
+    <string-array name="nga_recurrence_short_day_format">
+        <item>"ב'"</item>
+        <item>"ג'"</item>
+        <item>"ד'"</item>
+        <item>"ה'"</item>
+        <item>"ו'"</item>
+        <item>"ש'"</item>
+        <item>"א'"</item>
+    </string-array>
+    <string-array name="opa_first_time_greeting_query_suggestion_message_array">
+        <item>אני רוצה להגדיר התראה לשעה 7 בבוקר</item>
+        <item>מה מזג האוויר שצפוי מחר?</item>
+        <item>אני רוצה לשלוח הודעה לחבר/ה הכי טוב/ה שלי</item>
+        <item>בית קפה בקרבת מקום</item>
+        <item>מה סדר היום שלי היום?</item>
+        <item>אני רוצה להגדיר טיימר לשתי דקות</item>
+        <item>כמה אונקיות יש בכוס?</item>
+        <item>אני רוצה להתקשר</item>
+        <item>‏אני רוצה לפתוח את YouTube</item>
+        <item>אני רוצה לקבל תזכורת להוציא את הזבל</item>
+        <item>סרטים בסביבה</item>
+        <item>הפעלת מוזיקה</item>
+        <item>מה מצב התנועה?</item>
+        <item>צילום תמונת סלפי</item>
+        <item>אני רוצה לשמוע חדשות</item>
+    </string-array>
+    <string-array name="opa_first_time_greeting_query_suggestion_word_array">
+        <item>הגדרה</item>
+        <item>חיפוש</item>
+        <item>שליחה</item>
+        <item>מפה</item>
+        <item>חיפוש</item>
+        <item>שעה</item>
+        <item>לביצוע</item>
+        <item>לביצוע</item>
+        <item>פתיחה</item>
+        <item>לביצוע</item>
+        <item>מפה</item>
+        <item>הפעלה</item>
+        <item>לביצוע</item>
+        <item>אוי</item>
+        <item>הפעלה</item>
+    </string-array>
+    <string-array name="opa_multi_day_upgrade_promo_notification_content">
+        <item>אפשר לשאול אותו שאלות ולבקש ממנו בקשות</item>
+        <item>‏Google Assistant תספר לך, רק צריך לבקש</item>
+        <item>‏Google Assistant תתקשר, רק צריך לבקש</item>
+        <item>‏Google Assistant תעזור, רק צריך לבקש</item>
+    </string-array>
+    <string-array name="opa_multi_day_upgrade_promo_notification_title">
+        <item>‏כעת ניתן לנסות את Google Assistant</item>
+        <item>רוצה לשמוע בדיחה?</item>
+        <item>רוצה לדבר עם חבר?</item>
+        <item>מנסה למצוא מקום לאכול בו?</item>
+    </string-array>
+    <string-array name="opa_tapas_text_input_rotational_hints">
+        <item>אפשר להקליד \"מזג אוויר\"</item>
+        <item>אפשר להקליד \"התראה\"</item>
+        <item>אפשר להקליד \"טיימר\"</item>
+        <item>אפשר להקליד \"תזכורת\"</item>
+        <item>אפשר להקליד \"ניווט\"</item>
+        <item>אפשר להקליד \"מצב התנועה\"</item>
+        <item>אפשר להקליד \"הפעלה\"</item>
+        <item>אפשר להקליד \"הודעה\"</item>
+    </string-array>
+    <string-array name="opa_tooltip_promo_notification_content">
+        <item>לקבלת עזרה, לוחצים לחיצה ארוכה על לחצן הבית</item>
+        <item>כדי להתחיל, לוחצים לחיצה ארוכה על לחצן הבית</item>
+        <item>כדי להתחיל, לוחצים לחיצה ארוכה על לחצן מסך הבית</item>
+    </string-array>
+    <string-array name="opa_tooltip_promo_notification_title">
+        <item>‏לנסות את Google Assistant</item>
+        <item>‏Google Assistant החדשה</item>
+        <item>‏Assistant מוכנה לפעולה</item>
+    </string-array>
+    <string-array name="opa_upgrade_promo_notification_content">
+        <item>אפשר לשאול אותה שאלות ולבקש ממנה בקשות</item>
+        <item>צריך לסיים את ההפעלה כדי להתחיל</item>
+    </string-array>
+    <string-array name="opa_upgrade_promo_notification_title">
+        <item>‏חדש! Google Assistant</item>
+        <item>‏התנסות ב-Google Assistant</item>
+    </string-array>
+    <string-array name="qp_bottom_baseball_innings">
+        <item>תחתית האינינג הראשון</item>
+        <item>תחתית האינינג השני</item>
+        <item>תחתית האינינג השלישי</item>
+        <item>תחתית האינינג הרביעי</item>
+        <item>תחתית האינינג החמישי</item>
+        <item>תחתית האינינג השישי</item>
+        <item>תחתית האינינג השביעי</item>
+        <item>תחתית האינינג השמיני</item>
+        <item>תחתית האינינג התשיעי</item>
+        <item>תחתית האינינג העשירי</item>
+        <item>תחתית האינינג האחד עשר</item>
+        <item>תחתית האינינג השניים עשר</item>
+    </string-array>
+    <string-array name="qp_top_baseball_innings">
+        <item>תחילת האינינג הראשון</item>
+        <item>תחילת האינינג השני</item>
+        <item>תחילת האינינג השלישי</item>
+        <item>תחילת האינינג הרביעי</item>
+        <item>תחילת האינינג החמישי</item>
+        <item>תחילת האינינג השישי</item>
+        <item>תחילת האינינג השביעי</item>
+        <item>תחילת האינינג השמיני</item>
+        <item>תחילת האינינג התשיעי</item>
+        <item>תחילת האינינג העשירי</item>
+        <item>תחילת האינינג האחד עשר</item>
+        <item>תחילת האינינג השניים עשר</item>
+    </string-array>
+    <string-array name="recurrence_freq">
+        <item>חוזר כל יום</item>
+        <item>חוזר כל שבוע</item>
+        <item>חוזר כל חודש</item>
+        <item>חוזר כל שנה</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>בכל יום שישי הראשון בכל חודש</item>
+        <item>בכל יום שישי השני בכל חודש</item>
+        <item>בכל יום שישי השלישי בכל חודש</item>
+        <item>בכל יום שישי הרביעי בכל חודש</item>
+        <item>בכל יום שישי האחרון בכל חודש</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>בכל יום שני הראשון בכל חודש</item>
+        <item>בכל יום שני השני בכל חודש</item>
+        <item>בכל יום שני השלישי בכל חודש</item>
+        <item>בכל יום שני הרביעי בכל חודש</item>
+        <item>בכל יום שני האחרון בכל חודש</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>בכל יום שבת הראשון בכל חודש</item>
+        <item>בכל יום שבת השני בכל חודש</item>
+        <item>בכל יום שבת השלישי בכל חודש</item>
+        <item>בכל יום שבת הרביעי בכל חודש</item>
+        <item>בכל יום שבת האחרון בכל חודש</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>בכל יום ראשון הראשון בכל חודש</item>
+        <item>בכל יום ראשון השני בכל חודש</item>
+        <item>בכל יום ראשון השלישי בכל חודש</item>
+        <item>בכל יום ראשון הרביעי בכל חודש</item>
+        <item>בכל יום ראשון האחרון בכל חודש</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>בכל יום חמישי הראשון בכל חודש</item>
+        <item>בכל יום חמישי השני בכל חודש</item>
+        <item>בכל יום חמישי השלישי בכל חודש</item>
+        <item>בכל יום חמישי הרביעי בכל חודש</item>
+        <item>בכל יום חמישי האחרון בכל חודש</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>בכל יום שלישי הראשון בכל חודש</item>
+        <item>בכל יום שלישי השני בכל חודש</item>
+        <item>בכל יום שלישי השלישי בכל חודש</item>
+        <item>בכל יום שלישי הרביעי בכל חודש</item>
+        <item>בכל יום שלישי האחרון בכל חודש</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>בכל יום רביעי הראשון בכל חודש</item>
+        <item>בכל יום רביעי השני בכל חודש</item>
+        <item>בכל יום רביעי השלישי בכל חודש</item>
+        <item>בכל יום רביעי הרביעי בכל חודש</item>
+        <item>בכל יום רביעי האחרון בכל חודש</item>
+    </string-array>
+    <string-array name="setup_complete_get_answer_queries">
+        <item>‏\"How long will it take to get to work?‎\" (כמה זמן ייקח לי להגיע לעבודה?)</item>
+        <item>‏\"?Do I need an umbrella today\" (האם צריך מטרייה היום?)</item>
+        <item>"‏\"What's Bnei Yehuda's score?‎\" (מה התוצאה של בני יהודה?)"</item>
+    </string-array>
+    <string-array name="setup_complete_home_control_queries">
+        <item>‏\"Turn the temperature down to 22\" (הורדת הטמפרטורה ל-22 מעלות)</item>
+        <item>‏\"Show my Nursery camera on the Living Room TV\" (אני רוצה לראות בטלוויזיה שבסלון את מה שהמצלמה בחדר הילדים קולטת)</item>
+        <item>‏\"Turn on the bedroom lights\" (הדלקת האורות בחדר השינה)</item>
+    </string-array>
+    <string-array name="setup_complete_manage_task_queries">
+        <item>"‏\"When's my first event tomorrow?‎\" (מתי האירוע הראשון שלי מחר?)"</item>
+        <item>‏\"Add milk to my shopping list\" (הוספת חלב לרשימת הקניות)</item>
+        <item>‏\"?How many teaspoons in a cup\" (כמה כפיות יש בכוס?)</item>
+    </string-array>
+</resources>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="call_captions_typing_predictions_post_system_message">
+        <item>Вітаю, хто гэта?</item>
+        <item>Прывітанне, як маецеся?</item>
+        <item>Калі ласка, пачакайце хвіліну</item>
+        <item>Прывітанне! Можаце пазваніць пазней?</item>
+        <item>Прывітанне! Дзякуй, што пазванілі нам.</item>
+    </string-array>
+    <string-array name="captions_settings_enable_for_calls_choices_entries">
+        <item>Заўсёды пытацца</item>
+        <item>Заўсёды</item>
+        <item>Выключана</item>
+    </string-array>
+    <string-array name="captions_settings_typing_voice_names">
+        <item>Голас A</item>
+        <item>Голас B</item>
+        <item>Голас C</item>
+        <item>Голас D</item>
+        <item>Голас E</item>
+        <item>Голас F</item>
+        <item>Голас G</item>
+        <item>Голас H</item>
+        <item>Голас I</item>
+        <item>Голас J</item>
+        <item>Голас K</item>
+        <item>Голас L</item>
+        <item>Голас M</item>
+        <item>Голас N</item>
+        <item>Голас O</item>
+        <item>Голас P</item>
+    </string-array>
+    <string-array name="pref_download_policy_entries">
+        <item>Мабільная перадача даных + Wi-Fi</item>
+        <item>Толькі Wi-Fi</item>
+        <item>Не абнаўляць</item>
+    </string-array>
+    <string-array name="pref_download_policy_entry_values_placeholder">
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+</resources>

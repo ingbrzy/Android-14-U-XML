@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">କ୍ରସ-ଡିଭାଇସ ସେବାଗୁଡ଼ିକ</string>
+    <string name="app_name_generic">ଏକ ଆପ</string>
+    <string name="app_stream_error_generic">ଆପ ସେୟାରିଂ ସମୟରେ ଏକ ତ୍ରୁଟି ହୋଇଛି</string>
+    <string name="app_stream_init_error_generic">ଆପଣଙ୍କ Chromebookରେ ଆପ ସେୟାରିଂ ବିଫଳ ହୋଇଛି</string>
+    <string name="audio_permission_rationale">ଆପ ସେୟାରିଂ ପାଇଁ ମାଇକ୍ରୋଫୋନ ଅନୁମତିକୁ ଅକ୍ଷମ କରାଯାଇଛି</string>
+    <string name="cancel_button_label">ବାତିଲ କରନ୍ତୁ</string>
+    <string name="chromebook_keyboard">Chromebook କୀବୋର୍ଡ</string>
+    <string name="chromebook_mouse">Chromebook ମାଉସ</string>
+    <string name="chromebook_touchscreen">Chromebook ଟଚସ୍କ୍ରିନ</string>
+    <string name="connect_device">ଆପଣଙ୍କ ଫୋନକୁ ରିମୋଟ ଡିଭାଇସ ସହ କନେକ୍ଟ କରାଯାଉଛି: %1$s</string>
+    <string name="decline_button_label">ଅଗ୍ରାହ୍ୟ କରନ୍ତୁ</string>
+    <string name="development_notification_channel_name">ଡେଭେଲପମେଣ୍ଟ</string>
+    <string name="device_camera_cannot_access">ଏହି Chromebookରୁ ଡିଭାଇସର କ୍ୟାମେରାକୁ ଆକ୍ସେସ କରାଯାଇପାରିବ ନାହିଁ</string>
+    <string name="done_button_label">ହୋଇଗଲା</string>
+    <string name="enable_button_label">ସକ୍ଷମ କରନ୍ତୁ</string>
+    <string name="foreground_service_notification_channel_name">ସାଧାରଣ</string>
+    <string name="foreground_service_notification_content">ସେଟିଂସ ପରିବର୍ତ୍ତନ କରିବାକୁ ଟାପ କରନ୍ତୁ</string>
+    <string name="foreground_service_notification_title">{0,plural, =1{#ଟି ଡିଭାଇସ ସହ ସଂଯୋଗ କରାଯାଇଛି}other{#ଟି ଡିଭାଇସ ସହ ସଂଯୋଗ କରାଯାଇଛି}}</string>
+    <string name="interactive_streaming_generic_notification">ଆପଣଙ୍କ Chromebook ପାଇଁ %1$s ଷ୍ଟ୍ରିମିଂ ହେଉଛି ଏବଂ ବିଜ୍ଞପ୍ତିଗୁଡ଼ିକ ସିଙ୍କ ହେଉଛି</string>
+    <string name="interactive_streaming_individual_notification">%1$s ଷ୍ଟ୍ରିମିଂ ହେଉଛି ଏବଂ %2$s ପାଇଁ ବିଜ୍ଞପ୍ତିଗୁଡ଼ିକୁ ସିଙ୍କ କରାଯାଉଛି</string>
+    <string name="interactive_streaming_notification">ଆପଣଙ୍କ Chromebookରେ ଷ୍ଟ୍ରିମିଂ ହେଉଛି</string>
+    <string name="keyboard_name">କ୍ରସ-ଡିଭାଇସ କୀବୋର୍ଡ</string>
+    <string name="lock_screen_notif_warning_content">ଲକ୍ ସ୍କ୍ରିନରେ ବିଜ୍ଞପ୍ତିଗୁଡ଼ିକୁ ସକ୍ଷମ କରନ୍ତୁ</string>
+    <string name="lock_screen_notif_warning_title">ବିଜ୍ଞପ୍ତିଗୁଡ଼ିକୁ ଫରୱାର୍ଡ୍ କରାଯିବ ନାହିଁ</string>
+    <string name="mouse_name">କ୍ରସ-ଡିଭାଇସ ମାଉସ</string>
+    <string name="new_connection_confirm">ସୁନିଶ୍ଚିତ କରନ୍ତୁ</string>
+    <string name="new_connection_deny">ଅଗ୍ରାହ୍ୟ କରନ୍ତୁ</string>
+    <string name="new_connection_title">ଷ୍ଟ୍ରିଙ୍ଗ ମେଳ ସୁନିଶ୍ଚିତ କର</string>
+    <string name="notification_access_missing">ବିଜ୍ଞପ୍ତି ଆକ୍ସେସ ଆବଶ୍ୟକ</string>
+    <string name="notification_access_missing_description">ଆପଣଙ୍କ Chromebookରେ ବିଜ୍ଞପ୍ତିଗୁଡ଼ିକୁ ଖୋଲିବା ପାଇଁ, ବିଜ୍ଞପ୍ତି ଆକ୍ସେସକୁ ଚାଲୁ କରନ୍ତୁ</string>
+    <string name="notification_channel_name">ସାଧାରଣ</string>
+    <string name="notification_listener_label">ଆପଣଙ୍କ Chromebook ମାଧ୍ୟମରେ ଆପ୍ସ ସେୟାର କରନ୍ତୁ</string>
+    <string name="open_source_licenses">ଓପନ ସୋର୍ସ ଲାଇସେନ୍ସଗୁଡ଼ିକ</string>
+    <string name="phone_permission_rationale">ଆପ ସେୟାରିଂ ପାଇଁ ଫୋନ କଲ ଅନୁମତିକୁ ଅକ୍ଷମ କରାଯାଇଛି</string>
+    <string name="prompt_switch_languages">ଆପଣଙ୍କ ଫୋନର Gboard ଭାଷାକୁ ସ୍ୱିଚ କରିବା ପାଇଁ shift + space ଦବାନ୍ତୁ</string>
+    <string name="settings_button">ସେଟିଂସ</string>
+    <string name="stop_sharing_button">ଷ୍ଟ୍ରିମ ଶେଷ କରନ୍ତୁ</string>
+    <string name="stream_termination_proximity_warning">ଆପଣଙ୍କ ଫୋନ ବହୁତ ଦୂରରେ ଅଛି। ଷ୍ଟ୍ରିମିଂ ଜାରି ରଖିବା ପାଇଁ ଏହାକୁ ପାଖକୁ ଆଣନ୍ତୁ।</string>
+    <string name="substitute_app_name">ସିଷ୍ଟମ</string>
+    <string name="summary_disable_wirecutter">ବନ୍ଦ ଅଛି</string>
+    <string name="summary_enable_wirecutter">ଚାଲୁ ଅଛି</string>
+    <string name="touchscreen_name">କ୍ରସ-ଡିଭାଇସ ଟଚସ୍କ୍ରିନ</string>
+</resources>

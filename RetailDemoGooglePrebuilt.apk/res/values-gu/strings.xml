@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_retaildemoCommunication">ઍપને રિટેલ ડેમો સંબંધી સેવાઓ સાથે ક્રિયાપ્રતિક્રિયા કરવાની મંજૂરી આપે છે. માત્ર રિટેલ ડેમોને આ પરવાનગી આપવી જોઈએ. જે ઍપને આ પરવાનગી આપવામાં આવશે, તે રિટેલ ડેમો મોડ માટે આરક્ષિત ક્રિયાઓ ટ્રિગર કરી શકશે.</string>
+    <string name="permlab_retaildemoCommunication">રિટેલ ડેમો સંબંધી સંદેશાવ્યવહાર</string>
+    <string name="retaildemo_preload_app_name">રિટેલ ડેમોની સેવાઓ</string>
+</resources>

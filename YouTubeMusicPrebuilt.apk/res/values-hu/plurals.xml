@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_duration_description_hours">
+        <item quantity="other">%d óra</item>
+        <item quantity="one">%d óra</item>
+    </plurals>
+    <plurals name="accessibility_duration_description_minutes">
+        <item quantity="other">%d perc</item>
+        <item quantity="one">%d perc</item>
+    </plurals>
+    <plurals name="accessibility_duration_description_seconds">
+        <item quantity="other">%d másodperc</item>
+        <item quantity="one">%d másodperc</item>
+    </plurals>
+    <plurals name="accessibility_skip_ad_in">
+        <item quantity="other">Hirdetés átugrása %1$d másodperc múlva</item>
+        <item quantity="one">Hirdetés átugrása 1 másodperc múlva</item>
+    </plurals>
+    <plurals name="auto_playlist_with_episode_count_item_subtitle">
+        <item quantity="other">Automatikus lejátszási lista • %1$d epizód</item>
+        <item quantity="one">Automatikus lejátszási lista • 1 epizód</item>
+    </plurals>
+    <plurals name="auto_playlist_with_size_item_subtitle">
+        <item quantity="other">Automatikus lejátszási lista • %1$d dal</item>
+        <item quantity="one">Automatikus lejátszási lista • 1 dal</item>
+    </plurals>
+    <plurals name="duration_hours">
+        <item quantity="other">%1$d óra</item>
+        <item quantity="one">%1$d óra</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%1$d perc</item>
+        <item quantity="one">%1$d perc</item>
+    </plurals>
+    <plurals name="hours_abbreviated">
+        <item quantity="other">%s ó</item>
+        <item quantity="one">%s ó</item>
+    </plurals>
+    <plurals name="menu_option_hours">
+        <item quantity="other">%s óra</item>
+        <item quantity="one">%s óra</item>
+    </plurals>
+    <plurals name="menu_option_minutes">
+        <item quantity="other">%s perc</item>
+        <item quantity="one">%s perc</item>
+    </plurals>
+    <plurals name="minutes_abbreviated">
+        <item quantity="other">%s p</item>
+        <item quantity="one">%s p</item>
+    </plurals>
+    <plurals name="notification_offline_playlist_progress_size">
+        <item quantity="other">%1$d/%2$d dal</item>
+        <item quantity="one">%1$d/1 dal</item>
+    </plurals>
+    <plurals name="notification_offline_playlist_progress_track_count">
+        <item quantity="other">%2$d/%1$d. szám</item>
+        <item quantity="one">%1$d/1. szám</item>
+    </plurals>
+    <plurals name="offline_playlist_detail_page_subtitle_with_size">
+        <item quantity="other">Lejátszási lista • %1$d dal</item>
+        <item quantity="one">Lejátszási lista • 1 dal</item>
+    </plurals>
+    <plurals name="offline_playlist_size">
+        <item quantity="other">%1$,d dal</item>
+        <item quantity="one">1 dal</item>
+    </plurals>
+    <plurals name="offline_podcast_playlist_size">
+        <item quantity="other">%1$,d epizód</item>
+        <item quantity="one">1 epizód</item>
+    </plurals>
+    <plurals name="playlist_subtitle_with_track_count">
+        <item quantity="other">Lejátszási lista • %1$d szám</item>
+        <item quantity="one">Lejátszási lista • 1 szám</item>
+    </plurals>
+    <plurals name="playlist_with_creator_and_size_item_subtitle">
+        <item quantity="other">%1$s • %2$d zeneszám</item>
+        <item quantity="one">%1$s • 1 zeneszám</item>
+    </plurals>
+    <plurals name="playlist_with_creator_and_track_count_item_subtitle">
+        <item quantity="other">%1$s • %2$d szám</item>
+        <item quantity="one">%1$s • 1 szám</item>
+    </plurals>
+    <plurals name="playlist_with_entity_type_and_creator_and_size_item_subtitle">
+        <item quantity="other">Lejátszási lista • %1$s • %2$d zeneszám</item>
+        <item quantity="one">Lejátszási lista • %1$s • 1 zeneszám</item>
+    </plurals>
+    <plurals name="playlist_with_entity_type_and_creator_and_track_count_item_subtitle">
+        <item quantity="other">Lejátszási lista • %1$s • %2$d szám</item>
+        <item quantity="one">Lejátszási lista • %1$s • 1 szám</item>
+    </plurals>
+    <plurals name="pref_enable_smart_download_recent_music_summary">
+        <item quantity="other">Legfeljebb %1$d zeneszámot fogunk letölteni a legutóbb lejátszott zenéid közül.</item>
+        <item quantity="one">Legfeljebb %1$d zeneszámot fogunk letölteni a legutóbb lejátszott zenéid közül.</item>
+    </plurals>
+    <plurals name="quick_seek_x_second">
+        <item quantity="other">%d másodperc</item>
+        <item quantity="one">%d másodperc</item>
+    </plurals>
+    <plurals name="smart_downloads_details_header_byline_explanation">
+        <item quantity="other">A rendszer %1$d dalt intelligensen letöltött.</item>
+        <item quantity="one">A rendszer %1$d dalt intelligensen letöltött.</item>
+    </plurals>
+    <plurals name="smart_downloads_num_songs_estimated_space">
+        <item quantity="other">%1$d zeneszám (~%2$s)</item>
+        <item quantity="one">%1$d zeneszám (~%2$s)</item>
+    </plurals>
+    <plurals name="song_count">
+        <item quantity="other">%1$d zeneszám</item>
+        <item quantity="one">1 zeneszám</item>
+    </plurals>
+    <plurals name="track_count">
+        <item quantity="other">%1$d zeneszám</item>
+        <item quantity="one">1 zeneszám</item>
+    </plurals>
+    <plurals name="user_education_quick_seek">
+        <item quantity="other">%d másodperc kihagyásához koppints duplán balra vagy jobbra</item>
+        <item quantity="one">%d másodperc kihagyásához koppints duplán balra vagy jobbra</item>
+    </plurals>
+</resources>

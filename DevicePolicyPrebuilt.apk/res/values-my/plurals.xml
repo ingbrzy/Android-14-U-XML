@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_install_failed_multi_app_desc">
+        <item quantity="other">သတ်မှတ်ထားသောအက်ပ် %1$d ခု ထည့်သွင်း၍ မရသဖြင့် စနစ်ထည့်သွင်းခြင်းကို အပြီးမသတ်နိုင်ပါ။ သင့်စနစ်စီမံခန့်ခွဲသူကို တိုက်ရိုက်ဆက်သွယ်ပါ။</item>
+        <item quantity="one">သတ်မှတ်ထားသောအက်ပ် %1$d ခု ထည့်သွင်း၍ မရသဖြင့် စနစ်ထည့်သွင်းခြင်းကို အပြီးမသတ်နိုင်ပါ။ သင့်စနစ်စီမံခန့်ခွဲသူကို တိုက်ရိုက်ဆက်သွယ်ပါ။</item>
+    </plurals>
+    <plurals name="app_install_failure_title">
+        <item quantity="other">အက်ပ်များကို ထည့်သွင်း၍ မရပါ</item>
+        <item quantity="one">အက်ပ်ကို ထည့်သွင်း၍ မရပါ</item>
+    </plurals>
+    <plurals name="app_install_progress_desc">
+        <item quantity="other">အက်ပ် %2$d ခု အနက် %1$d ခုကို ထည့်သွင်းထားသည်</item>
+        <item quantity="one">အက်ပ် %2$d ခု အနက် %1$d ခုကို ထည့်သွင်းထားသည်</item>
+    </plurals>
+    <plurals name="app_uninstall_button">
+        <item quantity="other">အက်ပ်များ ဖယ်ရှားရန်</item>
+        <item quantity="one">အက်ပ်ကို ဖယ်ရှားရန်</item>
+    </plurals>
+    <plurals name="days_left_message">
+        <item quantity="other">&lt;annotation id="numeric_time_left">^1&lt;/annotation> ရက်ကျန်သည်</item>
+        <item quantity="one">&lt;annotation id="numeric_time_left">^1&lt;/annotation> ရက်ကျန်သည်</item>
+    </plurals>
+    <plurals name="hours_left_message">
+        <item quantity="other">&lt;annotation id="numeric_time_left">^1&lt;/annotation> နာရီ ကျန်သည်</item>
+        <item quantity="one">&lt;annotation id="numeric_time_left">^1&lt;/annotation> နာရီ ကျန်သည်</item>
+    </plurals>
+    <plurals name="number_of_additional_apps">
+        <item quantity="other">နောက်ထပ်အက်ပ် %1$d ခု</item>
+        <item quantity="one">နောက်ထပ်အက်ပ် %1$d ခု</item>
+    </plurals>
+    <plurals name="number_of_required_apps">
+        <item quantity="other">လိုအပ်သော အက်ပ် %1$d ခု</item>
+        <item quantity="one">လိုအပ်သော အက်ပ် %1$d ခု</item>
+    </plurals>
+    <plurals name="policy_apps_list_summary">
+        <item quantity="other">%d အလုပ်သုံးအက်ပ်များကို မဖယ်ရှားနိုင်ပါ</item>
+        <item quantity="one">%d အလုပ်သုံးအက်ပ်ကို မဖယ်ရှားနိုင်ပါ</item>
+    </plurals>
+    <plurals name="preinstalled_apps">
+        <item quantity="other">အက်ပ် %2$d ခု အနက် %1$d ခုကို ထည့်သွင်းထားသည်</item>
+        <item quantity="one">အက်ပ် %2$d ခု အနက် %1$d ခုကို ထည့်သွင်းထားသည်</item>
+    </plurals>
+    <plurals name="readable_name_applications">
+        <item quantity="other">အက်ပ် %1$d ခု ရနိုင်သည် (%2$d ခု ထည့်သွင်းထားသည်၊ %3$d ခု ပိတ်ထားသည်)</item>
+        <item quantity="one">အက်ပ် %1$d ခု ရနိုင်သည် (%2$d ခု ထည့်သွင်းထားသည်၊ %3$d ခု ပိတ်ထားသည်)</item>
+    </plurals>
+</resources>

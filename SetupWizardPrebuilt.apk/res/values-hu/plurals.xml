@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="account_exists_text_multiple">
+        <item quantity="other">"A következő fiókok készen állnak:
+
+"&lt;annotation textAppearance="TextAppearance.SudDescription.Medium">^1&lt;/annotation></item>
+        <item quantity="one">"A következő fiók készen áll:
+
+"&lt;annotation textAppearance="TextAppearance.SudDescription.Medium">^1&lt;/annotation></item>
+    </plurals>
+    <plurals name="people_contacts_sync_failure_in_contacts_title_in_portal">
+        <item quantity="other">%2$,d/%1$,d névjegy szinkronizálása sikertelen</item>
+        <item quantity="one">%2$,d/%1$,d névjegy szinkronizálása sikertelen</item>
+    </plurals>
+    <plurals name="people_contacts_sync_failure_in_photos_title_in_portal">
+        <item quantity="other">%2$,d/%1$,d névjegyfotó szinkronizálása sikertelen</item>
+        <item quantity="one">%2$,d/%1$,d névjegyfotó szinkronizálása sikertelen</item>
+    </plurals>
+    <plurals name="people_contacts_sync_succeed_title_in_portal">
+        <item quantity="other">%,d névjegy szinkronizálva a Google Névjegyekkel</item>
+        <item quantity="one">%,d névjegy szinkronizálva a Google Névjegyekkel</item>
+    </plurals>
+    <plurals name="qr_provision_toast">
+        <item quantity="other">%d további koppintás a QR-kód beállításának megkezdéséhez</item>
+        <item quantity="one">%d további koppintás a QR-kód beállításának megkezdéséhez</item>
+    </plurals>
+    <plurals name="slots_selection_text">
+        <item quantity="other">%d számot adott hozzá az eszközhöz, azonban egyszerre csak egyet használhat.</item>
+        <item quantity="one">%d számot adott hozzá az eszközhöz, azonban egyszerre csak egyet használhat.</item>
+    </plurals>
+    <plurals name="survey_star_rating">
+        <item quantity="other">%1$d/%2$d csillag</item>
+        <item quantity="one">%1$d/%2$d csillag</item>
+    </plurals>
+</resources>

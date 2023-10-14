@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_install_failed_multi_app_desc">
+        <item quantity="other">Қажетті %1$d қолданба орнатылмағандықтан, параметрлер реттелмеді. Жүйе әкімшісіне тікелей хабарласыңыз.</item>
+        <item quantity="one">Қажетті %1$d қолданба орнатылмағандықтан, параметрлер реттелмеді. Жүйе әкімшісіне тікелей хабарласыңыз.</item>
+    </plurals>
+    <plurals name="app_install_failure_title">
+        <item quantity="other">Қолданбаларды орнату мүмкін емес.</item>
+        <item quantity="one">Қолданбаны орнату мүмкін емес.</item>
+    </plurals>
+    <plurals name="app_install_progress_desc">
+        <item quantity="other">%1$d/%2$d қолданба орнатылды</item>
+        <item quantity="one">%1$d/%2$d қолданба орнатылды</item>
+    </plurals>
+    <plurals name="app_uninstall_button">
+        <item quantity="other">Қолданбаларды жою</item>
+        <item quantity="one">Қолданбаны жою</item>
+    </plurals>
+    <plurals name="days_left_message">
+        <item quantity="other">&lt;annotation id="numeric_time_left">^1&lt;/annotation> күн қалды.</item>
+        <item quantity="one">&lt;annotation id="numeric_time_left">^1&lt;/annotation> күн қалды.</item>
+    </plurals>
+    <plurals name="hours_left_message">
+        <item quantity="other">&lt;annotation id="numeric_time_left">^1&lt;/annotation> сағат қалды.</item>
+        <item quantity="one">&lt;annotation id="numeric_time_left">^1&lt;/annotation> сағат қалды.</item>
+    </plurals>
+    <plurals name="number_of_additional_apps">
+        <item quantity="other">%1$d қосымша қолданба</item>
+        <item quantity="one">%1$d қосымша қолданба</item>
+    </plurals>
+    <plurals name="number_of_required_apps">
+        <item quantity="other">%1$d қажетті қолданба</item>
+        <item quantity="one">%1$d қажетті қолданба</item>
+    </plurals>
+    <plurals name="policy_apps_list_summary">
+        <item quantity="other">%d жұмыс қолданбасын жою мүмкін емес.</item>
+        <item quantity="one">%d жұмыс қолданбасын жою мүмкін емес.</item>
+    </plurals>
+    <plurals name="preinstalled_apps">
+        <item quantity="other">%1$d/%2$d қолданба орнатылды.</item>
+        <item quantity="one">%1$d/%2$d қолданба орнатылды.</item>
+    </plurals>
+    <plurals name="readable_name_applications">
+        <item quantity="other">%1$d қолданба бар (%2$d қолданба орнатылды, %3$d қолданба өшірілді)</item>
+        <item quantity="one">%1$d қолданба бар (%2$d қолданба орнатылды, %3$d қолданба өшірілді)</item>
+    </plurals>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bundle1_color_name">Koolstof</string>
+    <string name="bundle2_color_name">Papier</string>
+    <string name="bundle3_color_name">Son</string>
+    <string name="color_name_monochromatic">Monochromaties</string>
+    <string name="default_color_name">Klassiek</string>
+    <string name="fruit1_color_name">Tweekleurpalet met geel en rooi</string>
+    <string name="fruit2_color_name">Tweekleurpalet met groen en oranje</string>
+    <string name="fruit3_color_name">Tweekleurpalet met blou en groen</string>
+    <string name="fruit4_color_name">Tweekleurpalet met ligpers en blou</string>
+    <string name="fruit5_color_name">Tweekleurpalet met pienk en indigo</string>
+    <string name="rainbow1_color_name">Rooi</string>
+    <string name="rainbow2_color_name">Oranje</string>
+    <string name="rainbow3_color_name">Geel</string>
+    <string name="rainbow4_color_name">Groen</string>
+    <string name="rainbow5_color_name">Blou</string>
+    <string name="rainbow6_color_name">Indigo</string>
+    <string name="rainbow7_color_name">Viooltjiepers</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_retaildemoCommunication">Permite que la aplicación interactúe con servicios de demo para tiendas. Solo se debería dar este permiso a la demo para tiendas. Las aplicaciones que tengan este permiso pueden activar acciones reservadas para el modo demo para tiendas.</string>
+    <string name="permlab_retaildemoCommunication">Comunicaciones de demo para tiendas</string>
+    <string name="retaildemo_preload_app_name">Servicios de demo para tiendas</string>
+</resources>

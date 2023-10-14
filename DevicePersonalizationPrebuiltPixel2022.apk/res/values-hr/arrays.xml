@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="call_captions_typing_predictions_post_system_message">
+        <item>Pozdrav, tko je to?</item>
+        <item>Pozdrav, kako ste?</item>
+        <item>Pričekajte minutu</item>
+        <item>Pozdrav, mogu li vas nazvati kasnije?</item>
+        <item>Pozdrav! Hvala na pozivu.</item>
+    </string-array>
+    <string-array name="captions_settings_enable_for_calls_choices_entries">
+        <item>Pitaj svaki put</item>
+        <item>Uvijek</item>
+        <item>Isključi</item>
+    </string-array>
+    <string-array name="captions_settings_typing_voice_names">
+        <item>Glas A</item>
+        <item>Glas B</item>
+        <item>Glas C</item>
+        <item>Glas D</item>
+        <item>Glas E</item>
+        <item>Glas F</item>
+        <item>Glas G</item>
+        <item>Glas H</item>
+        <item>Glas I</item>
+        <item>Glas J</item>
+        <item>Glas K</item>
+        <item>Glas L</item>
+        <item>Glas M</item>
+        <item>Glas N</item>
+        <item>Glas O</item>
+        <item>Glas P</item>
+    </string-array>
+    <string-array name="pref_download_policy_entries">
+        <item>Mobilna i Wi-Fi mreža</item>
+        <item>Samo Wi-Fi</item>
+        <item>Nemoj ažurirati</item>
+    </string-array>
+    <string-array name="pref_download_policy_entry_values_placeholder">
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+</resources>

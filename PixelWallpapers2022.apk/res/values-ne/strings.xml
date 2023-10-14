@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="azure_title">अजुर जे</string>
+    <string name="blackswan_title">कालो हाँस</string>
+    <string name="cockatoo_title">कोकाटू</string>
+    <string name="come_alive_title">जीवन्त बन्नुहोस्</string>
+    <string name="feathers_attribution">फोटोग्राफर: Andrew Zuckerman</string>
+    <string name="feathers_description">प्वाँखका रूपमा रङ र त्यसको विवरण प्रदर्शन</string>
+    <string name="feathers_title">प्वाँखहरू</string>
+    <string name="greenwinged_title">हरिया पखेटा भएको मकाऊ</string>
+    <string name="king_title">किङ भल्चर</string>
+    <string name="living_universe_title">जीवन्त ब्रह्माण्ड</string>
+    <string name="photos_memory_gallery_title">तपाईंका यादगार क्षण</string>
+    <string name="pied_title">पाइड क्रो</string>
+    <string name="ringnecked_title">रिङ-नेक्ट प्याराकिट</string>
+    <string name="seagull_title">सिगल</string>
+</resources>

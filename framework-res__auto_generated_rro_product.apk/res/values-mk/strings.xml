@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_error_bad_calibration">Не може да се користи сензорот за отпечатоци. Однесете го на поправка или одете на g.co/pixel/fingerprintunlock</string>
+    <string name="fingerprint_recalibrate_notification_content">Однесете го на поправка или одете на g.co/pixel/fingerprintunlock</string>
+    <string name="battery_saver_description_with_learn_more">"За да го продолжи траењето на батеријата, „Штедачот на батерија“:
+
+• вклучува темна тема
+• исклучува или ограничува активност во заднина, некои визуелни ефекти и други функции како „Ok Google“
+• ги оптимизира мрежните врски
+
+"<annotation id="url">Дознајте повеќе</annotation></string>
+</resources>

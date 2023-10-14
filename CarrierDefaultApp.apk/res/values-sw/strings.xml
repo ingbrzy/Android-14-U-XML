@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_bar_label">Ingia katika akaunti ya mtandao wa simu</string>
+    <string name="android_system_label">Mtoa Huduma za Simu</string>
+    <string name="app_name">Mawasiliano ya Mtoa Huduma</string>
+    <string name="mobile_data_status_notification_channel_name">Hali ya data ya mtandao wa simu</string>
+    <string name="no_data_notification_detail">Tafadhali wasiliana na mtoa huduma wako %s</string>
+    <string name="no_data_notification_id">Data yako ya mtandao wa simu imezimwa</string>
+    <string name="no_mobile_data_connection">Ongeza mpango wa mitandao mingine au data kupitia %s</string>
+    <string name="no_mobile_data_connection_title">Hakuna muunganisho wa data kwa simu za mkononi</string>
+    <string name="performance_boost_notification_button_manage">Dhibiti</string>
+    <string name="performance_boost_notification_button_not_now">Si sasa</string>
+    <string name="performance_boost_notification_channel">Kuongeza utendaji</string>
+    <string name="performance_boost_notification_detail">Tembelea tovuti ya %s ili uone chaguo za hali ya matumizi ya programu yako</string>
+    <string name="performance_boost_notification_title">Chaguo za 5G kutoka kwa mtoa huduma wako</string>
+    <string name="portal_notification_detail">Gusa ili utembelee tovuti ya %s</string>
+    <string name="portal_notification_id">Data ya mtandao wa simu imekwisha</string>
+    <string name="slice_purchase_app_label">Nunua programu ya kuongeza utendaji.</string>
+    <string name="ssl_error_continue">Endelea hata hivyo kupitia kivinjari</string>
+    <string name="ssl_error_example">Kwa mfano, ukurasa wa kuingia katika akaunti unaweza usiwe unamilikiwa na shirika lililoonyeshwa.</string>
+    <string name="ssl_error_warning">Mtandao unaojaribu kujiunga nao una matatizo ya usalama.</string>
+</resources>

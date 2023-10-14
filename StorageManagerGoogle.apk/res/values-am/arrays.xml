@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="select_logpersist_summaries">
+        <item>ጠፍቷል</item>
+        <item>የሁሉም ምዝግብ ማስታወሻ ቋቶች</item>
+        <item>ከሬዲዮ ምዝግብ ማስታወሻ ቋቶች በስተቀር ሁሉም</item>
+        <item>የአውራ ከዋኝ ምዝግብ ማስታወሻ ቋት ብቻ</item>
+    </string-array>
+</resources>

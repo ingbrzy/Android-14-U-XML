@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="azure_title">นก Azure Jay</string>
+    <string name="blackswan_title">หงส์ดำ</string>
+    <string name="cockatoo_title">นกกระตั้ว</string>
+    <string name="come_alive_title">ปลุกชีวิตชีวา</string>
+    <string name="feathers_attribution">รูปภาพโดย Andrew Zuckerman</string>
+    <string name="feathers_description">ภาพนกที่เต็มไปด้วยสีสันและรายละเอียด</string>
+    <string name="feathers_title">ขนนก</string>
+    <string name="greenwinged_title">นกมาคอว์ปีกเขียว</string>
+    <string name="king_title">พญาแร้ง</string>
+    <string name="living_universe_title">จักรวาลที่มีชีวิต</string>
+    <string name="photos_memory_gallery_title">ความทรงจำของคุณ</string>
+    <string name="pied_title">อีกาลาย</string>
+    <string name="ringnecked_title">นกแก้วริงเน็ค</string>
+    <string name="seagull_title">นกนางนวล</string>
+</resources>

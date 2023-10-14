@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120000">
+        <item quantity="other">Wi-Fi gözlənilir</item>
+        <item quantity="one">Wi-Fi gözlənilir</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120002">
+        <item quantity="other">Bu cihazda (%d tətbiq)</item>
+        <item quantity="one">Bu cihazda (%d tətbiq)</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120003">
+        <item quantity="other">%1$s üçün xüsusiyyətlər</item>
+        <item quantity="one">%1$s üçün xüsusiyyət</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120004">
+        <item quantity="other">%d gün əvvəl quraşdırılıb</item>
+        <item quantity="one">%d gün əvvəl quraşdırılıb</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120005">
+        <item quantity="other">%d saat əvvəl quraşdırılıb</item>
+        <item quantity="one">%d saat əvvəl quraşdırılıb</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120006">
+        <item quantity="other">%d dəqiqə əvvəl quraşdırılıb</item>
+        <item quantity="one">%d dəqiqə əvvəl quraşdırılıb</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120007">
+        <item quantity="other">%1$d seçilib</item>
+        <item quantity="one">%1$d seçilib</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120008">
+        <item quantity="other">%d gün əvvəl güncəllənib</item>
+        <item quantity="one">%d gün əvvəl güncəllənib</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120009">
+        <item quantity="other">%d saat əvvəl güncəllənib</item>
+        <item quantity="one">%d saat əvvəl güncəllənib</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000a">
+        <item quantity="other">%d dəqiqə əvvəl güncəllənib</item>
+        <item quantity="one">%d dəqiqə əvvəl güncəllənib</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000b">
+        <item quantity="other">Sonuncu dəfə %d gün əvvəl istifadə edilib</item>
+        <item quantity="one">Sonuncu dəfə %d gün əvvəl istifadə edilib</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000c">
+        <item quantity="other">Sonuncu dəfə %d saat əvvəl istifadə edilib</item>
+        <item quantity="one">Sonuncu dəfə %d saat əvvəl istifadə edilib</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000d">
+        <item quantity="other">Sonuncu dəfə %d dəqiqə əvvəl istifadə edilib</item>
+        <item quantity="one">Sonuncu dəfə %d dəqiqə əvvəl istifadə edilib</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000f">
+        <item quantity="other">Tətbiqlər %d gün əvvəl skanlanıb</item>
+        <item quantity="one">Tətbiqlər %d gün əvvəl skanlanıb</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120010">
+        <item quantity="other">Tətbiqlər %d saat əvvəl skanlanıb</item>
+        <item quantity="one">Tətbiqlər %d saat əvvəl skanlanıb</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120011">
+        <item quantity="other">Tətbiqlər %d dəqiqə əvvəl skanlanıb</item>
+        <item quantity="one">Tətbiqlər %d dəqiqə əvvəl skanlanıb</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120014">
+        <item quantity="other">%1$d rəy</item>
+        <item quantity="one">%1$d rəy</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120015">
+        <item quantity="other">%2$d ulduz reytinqi üçün %1$d rəy</item>
+        <item quantity="one">%2$d ulduz reytinqi üçün %1$d rəy</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120016">
+        <item quantity="other">%1$d cihazda quraşdırın.</item>
+        <item quantity="one">%1$d cihazda quraşdırın.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120017">
+        <item quantity="other">%1$d cihazda quraşdırın. Daha çox cihaz əlçatandır.</item>
+        <item quantity="one">%1$d cihazda quraşdırın. Daha çox cihaz əlçatandır.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120018">
+        <item quantity="other">Bu tətbiq tezliklə %1$d cihazınızda quraşdırılacaq.</item>
+        <item quantity="one">Bu tətbiq tezliklə %1$d cihazınızda quraşdırılacaq.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120019">
+        <item quantity="other">%1$d əlavə əlçatandır</item>
+        <item quantity="one">%1$d əlavə əlçatandır</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001a">
+        <item quantity="other">Satınalma ilə %1$d əlavə əlçatandır</item>
+        <item quantity="one">Satınalma ilə %1$d əlavə əlçatandır</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001b">
+        <item quantity="other">%1$d Gün</item>
+        <item quantity="one">%1$d Gün</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001c">
+        <item quantity="other">%2$s rəydə orta reytinq %1$s ulduz</item>
+        <item quantity="one">1 rəydə orta reytinq %1$s ulduz</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001d">
+        <item quantity="other">%s rəy</item>
+        <item quantity="one">1 rəy</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001e">
+        <item quantity="other">İndi tərtibatçı olmağınıza %1$d addım qalıb.</item>
+        <item quantity="one">İndi tərtibatçı olmağınıza %1$d addım qalıb.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001f">
+        <item quantity="other">avtomobillər</item>
+        <item quantity="one">avtomobil</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120020">
+        <item quantity="other">"Chromebook'lar"</item>
+        <item quantity="one">Chromebook</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120021">
+        <item quantity="other">qatlana bilən cihaz</item>
+        <item quantity="one">qatlana bilən cihaz</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120022">
+        <item quantity="other">telefonlar</item>
+        <item quantity="one">telefon</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120023">
+        <item quantity="other">planşetlər</item>
+        <item quantity="one">planşet</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120024">
+        <item quantity="other">TV-lər</item>
+        <item quantity="one">TV</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120025">
+        <item quantity="other">cihaz</item>
+        <item quantity="one">cihaz</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120026">
+        <item quantity="other">saatlar</item>
+        <item quantity="one">saat</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120027">
+        <item quantity="other">%1$d Play Points əlçatandır.</item>
+        <item quantity="one">%1$d Play Point əlçatandır.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120028">
+        <item quantity="other">%1$d Saat</item>
+        <item quantity="one">%1$d Saat</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120029">
+        <item quantity="other">%1$d saat qalıb</item>
+        <item quantity="one">1 saat qalıb</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002a">
+        <item quantity="other">%1$d tətbiq quraşdırılır…</item>
+        <item quantity="one">%1$d tətbiq quraşdırılır…</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002b">
+        <item quantity="other">Quraşdırmaya fasilə verilib</item>
+        <item quantity="one">Quraşdırmaya fasilə verilib</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002c">
+        <item quantity="other">%1$d tətbiq quraşdırılacaq</item>
+        <item quantity="one">%1$d tətbiq quraşdırılacaq</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002d">
+        <item quantity="other">Sonuncu dəfə %d gün əvvəl güncəllənib</item>
+        <item quantity="one">Sonuncu dəfə %d gün əvvəl güncəllənib</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002e">
+        <item quantity="other">Sonuncu dəfə %d saat əvvəl güncəllənib</item>
+        <item quantity="one">Sonuncu dəfə%d saat əvvəl güncəllənib</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002f">
+        <item quantity="other">Sonuncu dəfə %d dəqiqə əvvəl güncəllənib</item>
+        <item quantity="one">Sonuncu dəfə %d dəqiqə əvvəl güncəllənib</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120033">
+        <item quantity="other">%1$d il əvvəl</item>
+        <item quantity="one">%1$d il əvvəl</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120034">
+        <item quantity="other">%1$d Dəqiqə</item>
+        <item quantity="one">%1$d Dəqiqə</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120035">
+        <item quantity="other">%1$d dəqiqə qalıb</item>
+        <item quantity="one">1 dəqiqə qalıb</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120037">
+        <item quantity="other">%1$d mesaj seçildi</item>
+        <item quantity="one">%1$d mesaj seçildi</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120038">
+        <item quantity="other">%1$d tətbiq arxivə atılır</item>
+        <item quantity="one">%1$d tətbiq arxivə atılır</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120039">
+        <item quantity="other">Seçilmiş tətbiqlər silinsin?</item>
+        <item quantity="one">Seçilmiş tətbiq silinsin?</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12003a">
+        <item quantity="other">%1$d tətbiq silindi</item>
+        <item quantity="one">%1$d tətbiq silindi</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12003d">
+        <item quantity="other">%1$d quraşdırma gözləyir</item>
+        <item quantity="one">%1$d quraşdırma gözləyir</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12003e">
+        <item quantity="other">%1$d quraşdırma davam edir</item>
+        <item quantity="one">%1$d quraşdırma davam edir</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120040">
+        <item quantity="other">%1$d güncəllənmə gözləyir</item>
+        <item quantity="one">%1$d güncəllənmə gözləyir</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120041">
+        <item quantity="other">%1$d güncəllənmə davam edir</item>
+        <item quantity="one">%1$d güncəllənmə davam edir</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120042">
+        <item quantity="other">%1$d tətbiq quraşdırılıb</item>
+        <item quantity="one">%1$d tətbiq quraşdırılıb</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120044">
+        <item quantity="other">%1$d saat əvvəl buraxılıb</item>
+        <item quantity="one">%1$d saat əvvəl buraxılıb</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120045">
+        <item quantity="other">%1$d gün əvvəl buraxılıb</item>
+        <item quantity="one">%1$d gün əvvəl buraxılıb</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120046">
+        <item quantity="other">Tətbiqlər silinib</item>
+        <item quantity="one">Tətbiq silinib</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120047">
+        <item quantity="other">%1$d güncəlləşməsinə təsdiq lazımdır</item>
+        <item quantity="one">%1$d güncəlləşməsinə təsdiq lazımdır</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120048">
+        <item quantity="other">%1$d yeni güncəllənmə</item>
+        <item quantity="one">%1$d yeni güncəllənmə</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120049">
+        <item quantity="other">%1$d güncəlləşməsi mövcuddur</item>
+        <item quantity="one">%1$d güncəlləşməsi mövcuddur</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004a">
+        <item quantity="other">Hamısını güncəlləşdirin</item>
+        <item quantity="one">Güncəlləşdirin</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004b">
+        <item quantity="other">%1$d tətbiq güncəlləndi</item>
+        <item quantity="one">%1$d tətbiq güncəlləndi</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004c">
+        <item quantity="other">%1$d saat ərzində bitəcək</item>
+        <item quantity="one">%1$d saat ərzində bitəcək</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004d">
+        <item quantity="other">%1$d gün ərzində bitəcək</item>
+        <item quantity="one">%1$d gün ərzində bitəcək</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004e">
+        <item quantity="other">%1$d dəqiqə</item>
+        <item quantity="one">%1$d dəqiqə</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004f">
+        <item quantity="other">%1$d saniyə</item>
+        <item quantity="one">%1$d saniyə</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120050">
+        <item quantity="other">Şəxsi tətbiqlər silinib</item>
+        <item quantity="one">Şəxsi tətbiq silinib</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120053">
+        <item quantity="other">Play Protect %d gün əvvəl skanlanıb</item>
+        <item quantity="one">Play Protect %d gün əvvəl skanlanıb</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120054">
+        <item quantity="other">Play Protect %d saat əvvəl skanlanıb</item>
+        <item quantity="one">Play Protect %d saat əvvəl skanlanıb</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120055">
+        <item quantity="other">Play Protect %d dəqiqə əvvəl skanlanıb</item>
+        <item quantity="one">Play Protect %d dəqiqə əvvəl skanlanıb</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120056">
+        <item quantity="other">Gələn il %2$s səviyyəsini qorumaq üçün %1$s bal qazanmalısınız</item>
+        <item quantity="one">Gələn il %2$s səviyyəsini qorumaq üçün 1 bal qazanmalısınız</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120057">
+        <item quantity="other">%2$s səviyyəsinə çatmağa %1$s bal qazanmalısınız</item>
+        <item quantity="one">%2$s səviyyəsinə çatmağa 1 bal qazanmalısınız</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120058">
+        <item quantity="other">Bu tətbiqlərə naməlum tətbiqləri quraşdırmaq icazəsi vermisiniz, bu da cihazınızı və şəxsi məlumatlarınızı riskə ata bilər. Onların quraşdırılmasına yol verməmək üçün icazədən imtina edin.</item>
+        <item quantity="one">Bu tətbiqə naməlum tətbiqləri quraşdırmaq icazəsi vermisiniz, bu da cihazınızı və şəxsi məlumatlarınızı riskə ata bilər. Onların quraşdırılmasına yol verməmək üçün icazədən imtina edin.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120059">
+        <item quantity="other">%1$d tətbiqə naməlum tətbiqləri quraşdırmaq icazəsi vermisiniz, bu da cihazınızı və şəxsi məlumatlarınızı riskə ata bilər</item>
+        <item quantity="one">1 tətbiqə naməlum tətbiqləri quraşdırmaq icazəsi vermisiniz, bu da cihazınızı və şəxsi məlumatlarınızı riskə ata bilər</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005a">
+        <item quantity="other">%1$d məxfilik xəbərdarlığı</item>
+        <item quantity="one">1 məxfilik xəbərdarlığı</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005b">
+        <item quantity="other">%1$d zərərli tətbiq tapıldı</item>
+        <item quantity="one">1 zərərli tətbiq tapıldı</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005c">
+        <item quantity="other">%1$d güvənlik bildirişi</item>
+        <item quantity="one">1 güvənlik bildirişi</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005d">
+        <item quantity="other">%1$d təhlükəsizlik güncəlləməsi</item>
+        <item quantity="one">1 təhlükəsizlik güncəlləməsi</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005e">
+        <item quantity="other">%1$d güvənsiz tətbiq tapıldı</item>
+        <item quantity="one">1 güvənsiz tətbiq tapıldı</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005f">
+        <item quantity="other">%1$d xəbərdarlıq</item>
+        <item quantity="one">1 xəbərdarlıq</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120060">
+        <item quantity="other">Güvənsiz tətbiqlər tapıldı</item>
+        <item quantity="one">Güvənsiz tətbiq tapıldı</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120061">
+        <item quantity="other">%1$d saat ərzində bitəcək</item>
+        <item quantity="one">%1$d saat ərzində bitəcək</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120062">
+        <item quantity="other">%1$d gün ərzində bitəcək</item>
+        <item quantity="one">%1$d gün ərzində bitəcək</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120063">
+        <item quantity="other">%1$d/%2$d addım tamamlanıb</item>
+        <item quantity="one">%1$d/%2$d addım tamamlanıb</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120064">
+        <item quantity="other">%1$d tətbiq quraşdırılmağa hazırdır</item>
+        <item quantity="one">%1$d tətbiq quraşdırılmağa hazırdır</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120065">
+        <item quantity="other">%1$s sizə %2$d tətbiq göndərəcək. Birləşdirmə kodunun uyğun olduğuna əmin olun.</item>
+        <item quantity="one">%1$s sizə %2$d tətbiq göndərəcək. Birləşdirmə kodunun uyğun olduğuna əmin olun.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120066">
+        <item quantity="other">\"%2$s\" cihazından %1$d tətbiq qəbul edilir…</item>
+        <item quantity="one">\"%2$s\" cihazından %1$d tətbiq qəbul edilir…</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006a">
+        <item quantity="other">%1$d istifadəçi bu rəyi faydalı hesab edir. Şərhi faydalı kimi işarələyin</item>
+        <item quantity="one">%1$d istifadəçi bu rəyi faydalı hesab edir. Şərhi faydalı kimi işarələyin</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006b">
+        <item quantity="other">%1$d istifadəçi bu rəyi faydalı hesab edir. Rəyin faydalı kimi işarələnməsini ləğv edin</item>
+        <item quantity="one">%1$d istifadəçi bu rəyi faydalı hesab edir. Rəyin faydalı kimi işarələnməsini ləğv edin</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006c">
+        <item quantity="other">%1$s nəfər bunu faydalı hesab edir</item>
+        <item quantity="one">%1$s nəfər bunu faydalı hesab edir</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006f">
+        <item quantity="other">%1$d Saniyə</item>
+        <item quantity="one">%1$d Saniyə</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120070">
+        <item quantity="other">%1$d saniyə qalıb</item>
+        <item quantity="one">1 saniyə qalıb</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120071">
+        <item quantity="other">%1$d seçilib • %2$s</item>
+        <item quantity="one">%1$d seçilib • %2$s</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120072">
+        <item quantity="other">%1$d tətbiq \"%2$s\" cihazına göndərilir…</item>
+        <item quantity="one">%1$d tətbiq \"%2$s\" cihazına göndərilir…</item>
+    </plurals>
+    <plurals name="setup_completed_installed">
+        <item quantity="other">%1$d tətbiq quraşdırılıb</item>
+        <item quantity="one">%1$d tətbiq quraşdırılıb</item>
+    </plurals>
+    <plurals name="setup_completed_installed_with_failures">
+        <item quantity="other">%1$d/%2$d tətbiqi quraşdırmaq mümkün olmadı</item>
+        <item quantity="one">%1$d/%2$d tətbiqi quraşdırmaq mümkün olmadı</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120075">
+        <item quantity="other">Son dəfə %1$d gün əvvəl istifadə edilmişdir</item>
+        <item quantity="one">Son dəfə %1$d gün əvvəl istifadə edilmişdir</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120076">
+        <item quantity="other">Seçilmiş %1$d tətbiqi bərpa edin</item>
+        <item quantity="one">Seçilmiş tətbiqi bərpa edin</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120078">
+        <item quantity="other">%1$d yeni dil endirilsin?</item>
+        <item quantity="one">Yeni dil endirilsin?</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007b">
+        <item quantity="other">%1$d sorğu cavabı hesabınızdan həmişəlik silinəcək.</item>
+        <item quantity="one">%1$d sorğu cavabı hesabınızdan həmişəlik silinəcək.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007c">
+        <item quantity="other">%1$d seçilib</item>
+        <item quantity="one">%1$d seçilib</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007d">
+        <item quantity="other">Play Points göstərin. %1$d xal əlçatandır.</item>
+        <item quantity="one">Play Points göstərin. %1$d xal əlçatandır.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007e">
+        <item quantity="other">%1$d Play Points əlçatandır.</item>
+        <item quantity="one">%1$d Play Points əlçatandır.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120080">
+        <item quantity="other">%1$s bal</item>
+        <item quantity="one">1 bal</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120081">
+        <item quantity="other">%1$d tətbiq \"%2$s\" ilə ötürülür…</item>
+        <item quantity="one">%1$d tətbiq \"%2$s\" ilə ötürülür…</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120082">
+        <item quantity="other">%1$d tətbiq cihazınızın sistemindən silinəcək.</item>
+        <item quantity="one">%1$d tətbiq cihazınızın sistemindən silinəcək.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120083">
+        <item quantity="other">Seçilmiş tətbiqlər sistemdən silinsin?</item>
+        <item quantity="one">Seçilmiş tətbiq sistemdən silinsin?</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120084">
+        <item quantity="other">Seçilmiş tətbiqlərin güncəlləmələri sistemdən silinsin?</item>
+        <item quantity="one">Seçilmiş tətbiqin güncəlləmələri sistemdən silinsin?</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120085">
+        <item quantity="other">%1$s tətbiq silinib və %2$s üçün kifayət qədər yer qalıb.</item>
+        <item quantity="one">%1$s tətbiq silinib və %2$s üçün kifayət qədər yer qalıb.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120086">
+        <item quantity="other">Tətbiq tezliklə quraşdırılacaq.</item>
+        <item quantity="one">Tətbiq tezliklə quraşdırılacaq.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120087">
+        <item quantity="other">Tətbiq tezliklə güncəllənəcək.</item>
+        <item quantity="one">Tətbiq tezliklə güncəllənəcək.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008a">
+        <item quantity="other">Son dəfə %1$d gün əvvəl istifadə edilmişdir</item>
+        <item quantity="one">Son dəfə %1$d gün əvvəl istifadə edilmişdir</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008b">
+        <item quantity="other">Son dəfə %1$d ay əvvəl istifadə edilmişdir</item>
+        <item quantity="one">Son dəfə %1$d ay əvvəl istifadə edilmişdir</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008c">
+        <item quantity="other">Bu cihazda tətbiqləri və ya güncəlləmələri quraşdırmaq üçün ehtiyacınız olmayan tətbiqləri silin. Həmçinin, Yaddaş Ayarlarında media fayllarını silməklə, yer boşalda bilərsiniz.</item>
+        <item quantity="one">Bu cihazda tətbiq və ya güncəlləməni quraşdırmaq üçün ehtiyacınız olmayan tətbiqləri silin. Həmçinin, Yaddaş Ayarlarında media fayllarını silməklə, yer boşalda bilərsiniz.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008d">
+        <item quantity="other">Bu cihazda tətbiqləri və ya güncəlləmələri quraşdırmaq üçün ehtiyacınız olmayan tətbiqləri silin. Həmçinin &lt;a href=\"\">Ayarlar > Yaddaş&lt;/a> bölməsindən media fayllarını silməklə yer boşalda bilərsiniz.</item>
+        <item quantity="one">Bu cihazda tətbiq və ya güncəlləməni quraşdırmaq üçün ehtiyacınız olmayan tətbiqləri silin. Həmçinin &lt;a href=\"\">Ayarlar > Yaddaş&lt;/a> bölməsindən media fayllarını silməklə yer boşalda bilərsiniz.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008e">
+        <item quantity="other">Bu cihazda tətbiqləri və ya güncəlləmələri quraşdırmaq üçün ehtiyacınız olmayan tətbiqləri silin. Həmçinin Ayarlar > Yaddaş bölməsindən media fayllarını silməklə yer boşalda bilərsiniz.</item>
+        <item quantity="one">Bu cihazda tətbiq və ya güncəlləməni quraşdırmaq üçün ehtiyacınız olmayan tətbiqləri silin. Həmçinin Ayarlar > Yaddaş bölməsindən media fayllarını silməklə yer boşalda bilərsiniz.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008f">
+        <item quantity="other">%1$d tətbiq sistemdən silindi</item>
+        <item quantity="one">%1$d tətbiq sistemdən silindi</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120090">
+        <item quantity="other">Çoxdandır istifadə etmədiyiniz %1$d tətbiq tapıldı. Onları silsəniz, %2$dMB yer boşaldacaqsınız</item>
+        <item quantity="one">Çoxdandır istifadə etmədiyiniz %1$d tətbiq tapıldı. Onu silsəniz, %2$dMB yer boşaldacaqsınız</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120091">
+        <item quantity="other">%1$d saat ərzində başlayacaq</item>
+        <item quantity="one">%1$d saat ərzində başlayacaq</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120092">
+        <item quantity="other">%1$d gün ərzində başlayacaq</item>
+        <item quantity="one">%1$d gün ərzində başlayacaq</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120093">
+        <item quantity="other">%1$d saat ərzində əlçatan olacaq</item>
+        <item quantity="one">%1$d saat ərzində əlçatan olacaq</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120094">
+        <item quantity="other">%1$d gün ərzində əlçatan olacaq</item>
+        <item quantity="one">%1$d gün ərzində əlçatan olacaq</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120095">
+        <item quantity="other">Bu cihazda %1$d aydan çoxdur ki, sistem güncəlləməsi olmayıb</item>
+        <item quantity="one">Bu cihazda %1$d aydan çoxdur ki, sistem güncəlləməsi olmayıb</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120096">
+        <item quantity="other">İş tətbiqləri silinib</item>
+        <item quantity="one">İş tətbiqi silinib</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120097">
+        <item quantity="other">%1$d il əvvəl</item>
+        <item quantity="one">%1$d il əvvəl</item>
+    </plurals>
+</resources>

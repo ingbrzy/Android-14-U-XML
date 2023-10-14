@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="azure_title">Kunguru wa buluu na kichwa cheusi</string>
+    <string name="blackswan_title">Bata bukini mweusi</string>
+    <string name="cockatoo_title">Kasuku mwenye shungi</string>
+    <string name="come_alive_title">Mandhari Hai</string>
+    <string name="feathers_attribution">Picha ilipigwa na Andrew Zuckerman</string>
+    <string name="feathers_description">Picha za ndege wenye sifa mbalimbali na manyoya yenye rangi</string>
+    <string name="feathers_title">Manyoya</string>
+    <string name="greenwinged_title">Kasuku mwenye rangi ya kijani</string>
+    <string name="king_title">Mfalme tai</string>
+    <string name="living_universe_title">Ulimwengu Halisi</string>
+    <string name="photos_memory_gallery_title">Kumbukumbu zako</string>
+    <string name="pied_title">Kunguru wa rangi nyeupe na nyeusi</string>
+    <string name="ringnecked_title">Kasuku mwenye shingo ya duara</string>
+    <string name="seagull_title">Shakwe</string>
+</resources>

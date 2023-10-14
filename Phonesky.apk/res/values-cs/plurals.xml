@@ -1,0 +1,765 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120000">
+        <item quantity="other">Čekání na síť Wi-Fi</item>
+        <item quantity="one">Čekání na síť Wi-Fi</item>
+        <item quantity="few">Čekání na síť Wi-Fi</item>
+        <item quantity="many">Čekání na síť Wi-Fi</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120002">
+        <item quantity="other">V tomto zařízení (%d aplikací)</item>
+        <item quantity="one">V tomto zařízení (%d aplikace)</item>
+        <item quantity="few">V tomto zařízení (%d aplikace)</item>
+        <item quantity="many">V tomto zařízení (%d aplikace)</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120003">
+        <item quantity="other">Funkce pro aplikaci %1$s</item>
+        <item quantity="one">Funkce pro aplikaci %1$s</item>
+        <item quantity="few">Funkce pro aplikaci %1$s</item>
+        <item quantity="many">Funkce pro aplikaci %1$s</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120004">
+        <item quantity="other">Nainstalováno před %d dny</item>
+        <item quantity="one">Nainstalováno před %d dnem</item>
+        <item quantity="few">Nainstalováno před %d dny</item>
+        <item quantity="many">Nainstalováno před %d dne</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120005">
+        <item quantity="other">Nainstalováno před %d hodinami</item>
+        <item quantity="one">Nainstalováno před %d hodinou</item>
+        <item quantity="few">Nainstalováno před %d hodinami</item>
+        <item quantity="many">Nainstalováno před %d hodiny</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120006">
+        <item quantity="other">Nainstalováno před %d minutami</item>
+        <item quantity="one">Nainstalováno před %d minutou</item>
+        <item quantity="few">Nainstalováno před %d minutami</item>
+        <item quantity="many">Nainstalováno před %d minuty</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120007">
+        <item quantity="other">%1$d vybraných aplikací</item>
+        <item quantity="one">%1$d vybraná aplikace</item>
+        <item quantity="few">%1$d vybrané aplikace</item>
+        <item quantity="many">%1$d vybrané aplikace</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120008">
+        <item quantity="other">Aktualizováno před %d dny</item>
+        <item quantity="one">Aktualizováno před %d dnem</item>
+        <item quantity="few">Aktualizováno před %d dny</item>
+        <item quantity="many">Aktualizováno před %d dne</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120009">
+        <item quantity="other">Aktualizováno před %d hodinami</item>
+        <item quantity="one">Aktualizováno před %d hodinou</item>
+        <item quantity="few">Aktualizováno před %d hodinami</item>
+        <item quantity="many">Aktualizováno před %d hodiny</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000a">
+        <item quantity="other">Aktualizováno před %d minutami</item>
+        <item quantity="one">Aktualizováno před %d minutou</item>
+        <item quantity="few">Aktualizováno před %d minutami</item>
+        <item quantity="many">Aktualizováno před %d minuty</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000b">
+        <item quantity="other">Naposledy použito před %d dny</item>
+        <item quantity="one">Naposledy použito před %d dnem</item>
+        <item quantity="few">Naposledy použito před %d dny</item>
+        <item quantity="many">Naposledy použito před %d dne</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000c">
+        <item quantity="other">Naposledy použito před %d hodinami</item>
+        <item quantity="one">Naposledy použito před %d hodinou</item>
+        <item quantity="few">Naposledy použito před %d hodinami</item>
+        <item quantity="many">Naposledy použito před %d hodiny</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000d">
+        <item quantity="other">Naposledy použito před %d minutami</item>
+        <item quantity="one">Naposledy použito před %d minutou</item>
+        <item quantity="few">Naposledy použito před %d minutami</item>
+        <item quantity="many">Naposledy použito před %d minuty</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000f">
+        <item quantity="other">Aplikace byly zkontrolovány před %d dny</item>
+        <item quantity="one">Aplikace byly zkontrolovány před %d dnem</item>
+        <item quantity="few">Aplikace byly zkontrolovány před %d dny</item>
+        <item quantity="many">Aplikace byly zkontrolovány před %d dne</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120010">
+        <item quantity="other">Aplikace byly zkontrolovány před %d hodinami</item>
+        <item quantity="one">Aplikace byly zkontrolovány před %d hodinou</item>
+        <item quantity="few">Aplikace byly zkontrolovány před %d hodinami</item>
+        <item quantity="many">Aplikace byly zkontrolovány před %d hodiny</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120011">
+        <item quantity="other">Aplikace byly zkontrolovány před %d minutami</item>
+        <item quantity="one">Aplikace byly zkontrolovány před %d minutou</item>
+        <item quantity="few">Aplikace byly zkontrolovány před %d minutami</item>
+        <item quantity="many">Aplikace byly zkontrolovány před %d minuty</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120014">
+        <item quantity="other">%1$d recenzí</item>
+        <item quantity="one">%1$d recenze</item>
+        <item quantity="few">%1$d recenze</item>
+        <item quantity="many">%1$d recenze</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120015">
+        <item quantity="other">%1$d recenzí s %2$dhvězdičkovým hodnocením</item>
+        <item quantity="one">%1$d recenze s %2$dhvězdičkovým hodnocením</item>
+        <item quantity="few">%1$d recenze s %2$dhvězdičkovým hodnocením</item>
+        <item quantity="many">%1$d recenze s %2$dhvězdičkovým hodnocením</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120016">
+        <item quantity="other">Nainstalovat do %1$d zařízení.</item>
+        <item quantity="one">Nainstalovat do %1$d zařízení.</item>
+        <item quantity="few">Nainstalovat do %1$d zařízení.</item>
+        <item quantity="many">Nainstalovat do %1$d zařízení.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120017">
+        <item quantity="other">Nainstalovat do %1$d zařízení. Jsou k dispozici další zařízení.</item>
+        <item quantity="one">Nainstalovat do %1$d zařízení. Jsou k dispozici další zařízení.</item>
+        <item quantity="few">Nainstalovat do %1$d zařízení. Jsou k dispozici další zařízení.</item>
+        <item quantity="many">Nainstalovat do %1$d zařízení. Jsou k dispozici další zařízení.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120018">
+        <item quantity="other">Tato aplikace bude nainstalována do vašich zařízení (%1$d).</item>
+        <item quantity="one">Tato aplikace bude nainstalována do vašeho zařízení (%1$d).</item>
+        <item quantity="few">Tato aplikace bude nainstalována do vašich zařízení (%1$d).</item>
+        <item quantity="many">Tato aplikace bude nainstalována do vašich zařízení (%1$d).</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120019">
+        <item quantity="other">K dispozici je %1$d bonusů</item>
+        <item quantity="one">K dispozici je %1$d bonus</item>
+        <item quantity="few">K dispozici jsou %1$d bonusy</item>
+        <item quantity="many">K dispozici je %1$d bonusu</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001a">
+        <item quantity="other">K nákupu dostanete %1$d bonusů</item>
+        <item quantity="one">K nákupu dostanete %1$d bonus</item>
+        <item quantity="few">K nákupu dostanete %1$d bonusy</item>
+        <item quantity="many">K nákupu dostanete %1$d bonusu</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001b">
+        <item quantity="other">%1$d dnů</item>
+        <item quantity="one">%1$d den</item>
+        <item quantity="few">%1$d dny</item>
+        <item quantity="many">%1$d dne</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001c">
+        <item quantity="other">Průměrné hodnocení hvězdičkami: %1$s z %2$s recenzí</item>
+        <item quantity="one">Průměrné hodnocení hvězdičkami: %1$s z 1 recenze</item>
+        <item quantity="few">Průměrné hodnocení hvězdičkami: %1$s ze %2$s recenzí</item>
+        <item quantity="many">Průměrné hodnocení hvězdičkami: %1$s z %2$s recenze</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001d">
+        <item quantity="other">%s recenzí</item>
+        <item quantity="one">1 recenze</item>
+        <item quantity="few">%s recenze</item>
+        <item quantity="many">%s recenze</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001e">
+        <item quantity="other">Jste %1$d kliknutí od toho, abyste se stali vývojářem.</item>
+        <item quantity="one">Jste %1$d kliknutí od toho, abyste se stali vývojářem.</item>
+        <item quantity="few">Jste %1$d kliknutí od toho, abyste se stali vývojářem.</item>
+        <item quantity="many">Jste %1$d kliknutí od toho, abyste se stali vývojářem.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001f">
+        <item quantity="other">auta</item>
+        <item quantity="one">auto</item>
+        <item quantity="few">auta</item>
+        <item quantity="many">auta</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120020">
+        <item quantity="other">Chromebooky</item>
+        <item quantity="one">Chromebook</item>
+        <item quantity="few">Chromebooky</item>
+        <item quantity="many">Chromebooky</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120021">
+        <item quantity="other">rozkládací</item>
+        <item quantity="one">rozkládací</item>
+        <item quantity="few">rozkládací</item>
+        <item quantity="many">rozkládací</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120022">
+        <item quantity="other">telefony</item>
+        <item quantity="one">telefon</item>
+        <item quantity="few">telefony</item>
+        <item quantity="many">telefony</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120023">
+        <item quantity="other">tablety</item>
+        <item quantity="one">tablet</item>
+        <item quantity="few">tablety</item>
+        <item quantity="many">tablety</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120024">
+        <item quantity="other">televize</item>
+        <item quantity="one">televize</item>
+        <item quantity="few">televize</item>
+        <item quantity="many">televize</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120025">
+        <item quantity="other">zařízení</item>
+        <item quantity="one">zařízení</item>
+        <item quantity="few">zařízení</item>
+        <item quantity="many">zařízení</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120026">
+        <item quantity="other">hodinky</item>
+        <item quantity="one">hodinky</item>
+        <item quantity="few">hodinky</item>
+        <item quantity="many">hodinky</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120027">
+        <item quantity="other">K dispozici je %1$d bodů Play.</item>
+        <item quantity="one">K dispozici je %1$d bod Play.</item>
+        <item quantity="few">K dispozici jsou %1$d body Play.</item>
+        <item quantity="many">K dispozici je %1$d bodu Play.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120028">
+        <item quantity="other">%1$d hodin</item>
+        <item quantity="one">%1$d hodina</item>
+        <item quantity="few">%1$d hodiny</item>
+        <item quantity="many">%1$d hodiny</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120029">
+        <item quantity="other">Zbývá %1$d hodin</item>
+        <item quantity="one">Zbývá 1 hodina</item>
+        <item quantity="few">Zbývají %1$d hodiny</item>
+        <item quantity="many">Zbývá %1$d hodiny</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002a">
+        <item quantity="other">Instaluje se %1$d aplikací…</item>
+        <item quantity="one">Instaluje se %1$d aplikace…</item>
+        <item quantity="few">Instalují se %1$d aplikace…</item>
+        <item quantity="many">Instaluje se %1$d aplikace…</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002b">
+        <item quantity="other">Instalace byly pozastaveny</item>
+        <item quantity="one">Instalace byla pozastavena</item>
+        <item quantity="few">Instalace byly pozastaveny</item>
+        <item quantity="many">Instalace byly pozastaveny</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002c">
+        <item quantity="other">Bude nainstalováno %1$d aplikací</item>
+        <item quantity="one">Bude nainstalována %1$d aplikace</item>
+        <item quantity="few">Budou nainstalovány %1$d aplikace</item>
+        <item quantity="many">Bude nainstalováno %1$d aplikace</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002d">
+        <item quantity="other">Naposledy aktualizováno před %d dny</item>
+        <item quantity="one">Naposledy aktualizováno před %d dnem</item>
+        <item quantity="few">Naposledy aktualizováno před %d dny</item>
+        <item quantity="many">Naposledy aktualizováno před %d dne</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002e">
+        <item quantity="other">Naposledy aktualizováno před %d hodinami</item>
+        <item quantity="one">Naposledy aktualizováno před %d hodinou</item>
+        <item quantity="few">Naposledy aktualizováno před %d hodinami</item>
+        <item quantity="many">Naposledy aktualizováno před %d hodiny</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002f">
+        <item quantity="other">Naposledy aktualizováno před %d minutami</item>
+        <item quantity="one">Naposledy aktualizováno před %d minutou</item>
+        <item quantity="few">Naposledy aktualizováno před %d minutami</item>
+        <item quantity="many">Naposledy aktualizováno před %d minuty</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120033">
+        <item quantity="other">před %1$d lety</item>
+        <item quantity="one">před %1$d rokem</item>
+        <item quantity="few">před %1$d lety</item>
+        <item quantity="many">před %1$d roku</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120034">
+        <item quantity="other">%1$d minut</item>
+        <item quantity="one">%1$d minuta</item>
+        <item quantity="few">%1$d minuty</item>
+        <item quantity="many">%1$d minuty</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120035">
+        <item quantity="other">Zbývá %1$d minut</item>
+        <item quantity="one">Zbývá 1 minuta</item>
+        <item quantity="few">Zbývají %1$d minuty</item>
+        <item quantity="many">Zbývá %1$d minuty</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120037">
+        <item quantity="other">Je vybráno %1$d položek</item>
+        <item quantity="one">Je vybrána %1$d položka</item>
+        <item quantity="few">Jsou vybrány %1$d položky</item>
+        <item quantity="many">Je vybráno %1$d položky</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120038">
+        <item quantity="other">Archivování %1$d aplikací</item>
+        <item quantity="one">Archivování %1$d aplikace</item>
+        <item quantity="few">Archivování %1$d aplikací</item>
+        <item quantity="many">Archivování %1$d aplikace</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120039">
+        <item quantity="other">Odstranit vybrané aplikace?</item>
+        <item quantity="one">Odstranit vybranou aplikaci?</item>
+        <item quantity="few">Odstranit vybrané aplikace?</item>
+        <item quantity="many">Odstranit vybrané aplikace?</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12003a">
+        <item quantity="other">Bylo odstraněno %1$d aplikací</item>
+        <item quantity="one">Byla odstraněna %1$d aplikace</item>
+        <item quantity="few">Byly odstraněny %1$d aplikace</item>
+        <item quantity="many">Bylo odstraněno %1$d aplikace</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12003d">
+        <item quantity="other">Čeká se na zahájení %1$d instalací</item>
+        <item quantity="one">Čeká se na zahájení %1$d instalace</item>
+        <item quantity="few">Čeká se na zahájení %1$d instalací</item>
+        <item quantity="many">Čeká se na zahájení %1$d instalace</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12003e">
+        <item quantity="other">Probíhá %1$d instalací</item>
+        <item quantity="one">Probíhá %1$d instalace</item>
+        <item quantity="few">Probíhají %1$d instalace</item>
+        <item quantity="many">Probíhá %1$d instalace</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120040">
+        <item quantity="other">%1$d čekajících aktualizací</item>
+        <item quantity="one">%1$d čekající aktualizace</item>
+        <item quantity="few">%1$d čekající aktualizace</item>
+        <item quantity="many">%1$d čekající aktualizace</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120041">
+        <item quantity="other">Probíhá %1$d aktualizací</item>
+        <item quantity="one">Probíhá %1$d aktualizace</item>
+        <item quantity="few">Probíhají %1$d aktualizace</item>
+        <item quantity="many">Probíhá %1$d aktualizace</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120042">
+        <item quantity="other">%1$d nainstalovaných aplikací</item>
+        <item quantity="one">%1$d nainstalovaná aplikace</item>
+        <item quantity="few">%1$d nainstalované aplikace</item>
+        <item quantity="many">%1$d nainstalované aplikace</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120044">
+        <item quantity="other">Vydáno před %1$d hodinami</item>
+        <item quantity="one">Vydáno před %1$d hodinou</item>
+        <item quantity="few">Vydáno před %1$d hodinami</item>
+        <item quantity="many">Vydáno před %1$d hodiny</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120045">
+        <item quantity="other">Vydáno před %1$d dny</item>
+        <item quantity="one">Vydáno před %1$d dnem</item>
+        <item quantity="few">Vydáno před %1$d dny</item>
+        <item quantity="many">Vydáno před %1$d dne</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120046">
+        <item quantity="other">Aplikace byly odstraněny</item>
+        <item quantity="one">Aplikace byla odstraněna</item>
+        <item quantity="few">Aplikace byly odstraněny</item>
+        <item quantity="many">Aplikace byly odstraněny</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120047">
+        <item quantity="other">%1$d aktualizací vyžaduje schválení</item>
+        <item quantity="one">%1$d aktualizace vyžaduje schválení</item>
+        <item quantity="few">%1$d aktualizace vyžadují schválení</item>
+        <item quantity="many">%1$d aktualizace vyžaduje schválení</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120048">
+        <item quantity="other">%1$d nových aktualizací</item>
+        <item quantity="one">%1$d nová aktualizace</item>
+        <item quantity="few">%1$d nové aktualizace</item>
+        <item quantity="many">%1$d nové aktualizace</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120049">
+        <item quantity="other">%1$d dostupných aktualizací</item>
+        <item quantity="one">%1$d dostupná aktualizace</item>
+        <item quantity="few">%1$d dostupné aktualizace</item>
+        <item quantity="many">%1$d dostupné aktualizace</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004a">
+        <item quantity="other">Aktualizovat vše</item>
+        <item quantity="one">Aktualizovat</item>
+        <item quantity="few">Aktualizovat vše</item>
+        <item quantity="many">Aktualizovat vše</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004b">
+        <item quantity="other">Bylo aktualizováno %1$d aplikací</item>
+        <item quantity="one">Byla aktualizována %1$d aplikace</item>
+        <item quantity="few">Byly aktualizovány %1$d aplikace</item>
+        <item quantity="many">Bylo aktualizováno %1$d aplikace</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004c">
+        <item quantity="other">Končí za %1$d hodin</item>
+        <item quantity="one">Končí za %1$d hodinu</item>
+        <item quantity="few">Končí za %1$d hodiny</item>
+        <item quantity="many">Končí za %1$d hodiny</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004d">
+        <item quantity="other">Končí za %1$d dnů</item>
+        <item quantity="one">Končí za %1$d den</item>
+        <item quantity="few">Končí za %1$d dny</item>
+        <item quantity="many">Končí za %1$d dne</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004e">
+        <item quantity="other">%1$d minut</item>
+        <item quantity="one">%1$d minuta</item>
+        <item quantity="few">%1$d minuty</item>
+        <item quantity="many">%1$d minuty</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004f">
+        <item quantity="other">%1$d sekund</item>
+        <item quantity="one">%1$d sekunda</item>
+        <item quantity="few">%1$d sekundy</item>
+        <item quantity="many">%1$d sekundy</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120050">
+        <item quantity="other">Osobní aplikace byly odstraněny</item>
+        <item quantity="one">Osobní aplikace byla odstraněna</item>
+        <item quantity="few">Osobní aplikace byly odstraněny</item>
+        <item quantity="many">Osobní aplikace byly odstraněny</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120053">
+        <item quantity="other">Kontrola Play Protect proběhla před %d dny</item>
+        <item quantity="one">Kontrola Play Protect proběhla před %d dnem</item>
+        <item quantity="few">Kontrola Play Protect proběhla před %d dny</item>
+        <item quantity="many">Kontrola Play Protect proběhla před %d dne</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120054">
+        <item quantity="other">Kontrola Play Protect proběhla před %d hodinami</item>
+        <item quantity="one">Kontrola Play Protect proběhla před %d hodinou</item>
+        <item quantity="few">Kontrola Play Protect proběhla před %d hodinami</item>
+        <item quantity="many">Kontrola Play Protect proběhla před %d hodiny</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120055">
+        <item quantity="other">Kontrola Play Protect proběhla před %d minutami</item>
+        <item quantity="one">Kontrola Play Protect proběhla před %d minutou</item>
+        <item quantity="few">Kontrola Play Protect proběhla před %d minutami</item>
+        <item quantity="many">Kontrola Play Protect proběhla před %d minuty</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120056">
+        <item quantity="other">%1$s bodů, abyste i příští rok měli %2$s</item>
+        <item quantity="one">1 bod, abyste i příští rok měli %2$s</item>
+        <item quantity="few">%1$s body, abyste i příští rok měli %2$s</item>
+        <item quantity="many">%1$s bodu, abyste i příští rok měli %2$s</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120057">
+        <item quantity="other">%1$s bodů do %2$s</item>
+        <item quantity="one">1 bod do %2$s</item>
+        <item quantity="few">%1$s body do %2$s</item>
+        <item quantity="many">%1$s bodu do %2$s</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120058">
+        <item quantity="other">Těmto aplikacím jste udělili oprávnění instalovat nebo aktualizovat neznámé aplikace, což může ohrozit zařízení a vaše osobní údaje. Zamítnutím oprávnění jim můžete v instalaci zabránit.</item>
+        <item quantity="one">Této aplikaci jste udělili oprávnění instalovat nebo aktualizovat neznámé aplikace, což může ohrozit zařízení a vaše osobní údaje. Zamítnutím oprávnění jí můžete v instalaci zabránit.</item>
+        <item quantity="few">Těmto aplikacím jste udělili oprávnění instalovat nebo aktualizovat neznámé aplikace, což může ohrozit zařízení a vaše osobní údaje. Zamítnutím oprávnění jim můžete v instalaci zabránit.</item>
+        <item quantity="many">Těmto aplikacím jste udělili oprávnění instalovat nebo aktualizovat neznámé aplikace, což může ohrozit zařízení a vaše osobní údaje. Zamítnutím oprávnění jim můžete v instalaci zabránit.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120059">
+        <item quantity="other">%1$d aplikacím jste udělili oprávnění instalovat nebo aktualizovat neznámé aplikace, což může ohrozit zařízení a vaše osobní údaje.</item>
+        <item quantity="one">Jedné aplikaci jste udělili oprávnění instalovat nebo aktualizovat neznámé aplikace, což může ohrozit zařízení a vaše osobní údaje.</item>
+        <item quantity="few">%1$d aplikacím jste udělili oprávnění instalovat nebo aktualizovat neznámé aplikace, což může ohrozit zařízení a vaše osobní údaje.</item>
+        <item quantity="many">%1$d aplikaci jste udělili oprávnění instalovat nebo aktualizovat neznámé aplikace, což může ohrozit zařízení a vaše osobní údaje.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005a">
+        <item quantity="other">%1$d upozornění na ochranu soukromí</item>
+        <item quantity="one">1 upozornění na ochranu soukromí</item>
+        <item quantity="few">%1$d upozornění na ochranu soukromí</item>
+        <item quantity="many">%1$d upozornění na ochranu soukromí</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005b">
+        <item quantity="other">Bylo nalezeno %1$d škodlivých aplikací</item>
+        <item quantity="one">Byla nalezena 1 škodlivá aplikace</item>
+        <item quantity="few">Byly nalezeny %1$d škodlivé aplikace</item>
+        <item quantity="many">Bylo nalezeno %1$d škodlivé aplikace</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005c">
+        <item quantity="other">%1$d oznámení o zabezpečení</item>
+        <item quantity="one">1 oznámení o zabezpečení</item>
+        <item quantity="few">%1$d oznámení o zabezpečení</item>
+        <item quantity="many">%1$d oznámení o zabezpečení</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005d">
+        <item quantity="other">%1$d aktualizací zabezpečení</item>
+        <item quantity="one">1 aktualizace zabezpečení</item>
+        <item quantity="few">%1$d aktualizace zabezpečení</item>
+        <item quantity="many">%1$d aktualizace zabezpečení</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005e">
+        <item quantity="other">Bylo nalezeno %1$d nebezpečných aplikací</item>
+        <item quantity="one">Byla nalezena 1 nebezpečná aplikace</item>
+        <item quantity="few">Byly nalezeny %1$d nebezpečné aplikace</item>
+        <item quantity="many">Bylo nalezeno %1$d nebezpečné aplikace</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005f">
+        <item quantity="other">%1$d upozornění</item>
+        <item quantity="one">1 upozornění</item>
+        <item quantity="few">%1$d upozornění</item>
+        <item quantity="many">%1$d upozornění</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120060">
+        <item quantity="other">Byly nalezeny nebezpečné aplikace</item>
+        <item quantity="one">Byla nalezena nebezpečná aplikace</item>
+        <item quantity="few">Byly nalezeny nebezpečné aplikace</item>
+        <item quantity="many">Byly nalezeny nebezpečné aplikace</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120061">
+        <item quantity="other">Končí za %1$d hodin</item>
+        <item quantity="one">Končí za %1$d hodinu</item>
+        <item quantity="few">Končí za %1$d hodiny</item>
+        <item quantity="many">Končí za %1$d hodiny</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120062">
+        <item quantity="other">Končí za %1$d dnů</item>
+        <item quantity="one">Končí za %1$d den</item>
+        <item quantity="few">Končí za %1$d dny</item>
+        <item quantity="many">Končí za %1$d dne</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120063">
+        <item quantity="other">Dokončené kroky: %1$d z %2$d</item>
+        <item quantity="one">Dokončené kroky: %1$d z %2$d</item>
+        <item quantity="few">Dokončené kroky: %1$d z %2$d</item>
+        <item quantity="many">Dokončené kroky: %1$d z %2$d</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120064">
+        <item quantity="other">%1$d aplikací je připraveno k instalaci</item>
+        <item quantity="one">%1$d aplikace je připravena k instalaci</item>
+        <item quantity="few">%1$d aplikace jsou připraveny k instalaci</item>
+        <item quantity="many">%1$d aplikace je připraveno k instalaci</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120065">
+        <item quantity="other">Zařízení %1$s vám pošle %2$d aplikací. Zkontrolujte, zda se párovací kódy shodují. Zkontrolujte, zda se párovací kódy shodují.</item>
+        <item quantity="one">Zařízení %1$s vám pošle %2$d aplikaci. Zkontrolujte, zda se párovací kódy shodují.</item>
+        <item quantity="few">Zařízení %1$s vám pošle %2$d aplikace. Zkontrolujte, zda se párovací kódy shodují. Zkontrolujte, zda se párovací kódy shodují.</item>
+        <item quantity="many">Zařízení %1$s vám pošle %2$d aplikace. Zkontrolujte, zda se párovací kódy shodují. Zkontrolujte, zda se párovací kódy shodují.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120066">
+        <item quantity="other">Přijímání %1$d aplikací ze zařízení %2$s…</item>
+        <item quantity="one">Přijímání %1$d aplikace ze zařízení %2$s…</item>
+        <item quantity="few">Přijímání %1$d aplikací ze zařízení %2$s…</item>
+        <item quantity="many">Přijímání %1$d aplikace ze zařízení %2$s…</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006a">
+        <item quantity="other">Tuto recenzi považuje za užitečnou %1$d uživatelů. Označit komentář jako užitečný</item>
+        <item quantity="one">Tuto recenzi považuje za užitečnou %1$d uživatel. Označit komentář jako užitečný</item>
+        <item quantity="few">Tuto recenzi považují za užitečnou %1$d uživatelé. Označit komentář jako užitečný</item>
+        <item quantity="many">Tuto recenzi považuje za užitečnou %1$d uživatele. Označit komentář jako užitečný</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006b">
+        <item quantity="other">Tuto recenzi považuje za užitečnou %1$d uživatelů. Zrušit označení komentáře jako užitečného</item>
+        <item quantity="one">Tuto recenzi považuje za užitečnou %1$d uživatel. Zrušit označení komentáře jako užitečného</item>
+        <item quantity="few">Tuto recenzi považují za užitečnou %1$d uživatelé. Zrušit označení komentáře jako užitečného</item>
+        <item quantity="many">Tuto recenzi považuje za užitečnou %1$d uživatele. Zrušit označení komentáře jako užitečného</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006c">
+        <item quantity="other">%1$s lidí považuje tuto recenzi za užitečnou</item>
+        <item quantity="one">%1$s člověk považuje tuto recenzi za užitečnou</item>
+        <item quantity="few">%1$s lidé považují tuto recenzi za užitečnou</item>
+        <item quantity="many">%1$s člověka považuje tuto recenzi za užitečnou</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006f">
+        <item quantity="other">%1$d sekund</item>
+        <item quantity="one">%1$d sekunda</item>
+        <item quantity="few">%1$d sekundy</item>
+        <item quantity="many">%1$d sekundy</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120070">
+        <item quantity="other">Zbývá %1$d sekund</item>
+        <item quantity="one">Zbývá 1 sekunda</item>
+        <item quantity="few">Zbývají %1$d sekundy</item>
+        <item quantity="many">Zbývá %1$d sekundy</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120071">
+        <item quantity="other">Vybráno: %1$d • %2$s</item>
+        <item quantity="one">Vybráno: %1$d • %2$s</item>
+        <item quantity="few">Vybráno: %1$d • %2$s</item>
+        <item quantity="many">Vybráno: %1$d • %2$s</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120072">
+        <item quantity="other">Odesílání %1$d aplikací do zařízení %2$s…</item>
+        <item quantity="one">Odesílání %1$d aplikace do zařízení %2$s…</item>
+        <item quantity="few">Odesílání %1$d aplikací do zařízení %2$s…</item>
+        <item quantity="many">Odesílání %1$d aplikace do zařízení %2$s…</item>
+    </plurals>
+    <plurals name="setup_completed_installed">
+        <item quantity="other">%1$d nainstalovaných aplikací</item>
+        <item quantity="one">%1$d nainstalovaná aplikace</item>
+        <item quantity="few">%1$d nainstalované aplikace</item>
+        <item quantity="many">%1$d nainstalované aplikace</item>
+    </plurals>
+    <plurals name="setup_completed_installed_with_failures">
+        <item quantity="other">%1$d z %2$d aplikací se nepodařilo nainstalovat</item>
+        <item quantity="one">%1$d z %2$d aplikace se nepodařilo nainstalovat</item>
+        <item quantity="few">%1$d ze %2$d aplikací se nepodařilo nainstalovat</item>
+        <item quantity="many">%1$d z %2$d aplikace se nepodařilo nainstalovat</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120075">
+        <item quantity="other">Naposledy použito před %1$d dny</item>
+        <item quantity="one">Naposledy použito před %1$d dnem</item>
+        <item quantity="few">Naposledy použito před %1$d dny</item>
+        <item quantity="many">Naposledy použito před %1$d dne</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120076">
+        <item quantity="other">Obnovit %1$d vybraných aplikací</item>
+        <item quantity="one">Obnovit vybranou aplikaci</item>
+        <item quantity="few">Obnovit %1$d vybrané aplikace</item>
+        <item quantity="many">Obnovit %1$d vybrané aplikace</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120078">
+        <item quantity="other">Stáhnout %1$d nových jazyků?</item>
+        <item quantity="one">Stáhnout nový jazyk?</item>
+        <item quantity="few">Stáhnout %1$d nové jazyky?</item>
+        <item quantity="many">Stáhnout %1$d nového jazyka?</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007b">
+        <item quantity="other">%1$d odpovědí na průzkum bude z vašeho účtu trvale odstraněno.</item>
+        <item quantity="one">%1$d odpověď na průzkum bude z vašeho účtu trvale odstraněna.</item>
+        <item quantity="few">%1$d odpovědi na průzkum budou z vašeho účtu trvale odstraněny.</item>
+        <item quantity="many">%1$d odpovědi na průzkum bude z vašeho účtu trvale odstraněno.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007c">
+        <item quantity="other">Je vybráno %1$d průzkumů</item>
+        <item quantity="one">Je vybrán %1$d průzkum</item>
+        <item quantity="few">Jsou vybrány %1$d průzkumy</item>
+        <item quantity="many">Je vybráno %1$d průzkumu</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007d">
+        <item quantity="other">Zobrazit body Play. K dispozici je %1$d bodů.</item>
+        <item quantity="one">Zobrazit body Play. K dispozici je %1$d bod.</item>
+        <item quantity="few">Zobrazit body Play. K dispozici jsou %1$d body.</item>
+        <item quantity="many">Zobrazit body Play. K dispozici je %1$d bodu.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007e">
+        <item quantity="other">K dispozici je %1$d bodů Play.</item>
+        <item quantity="one">K dispozici je %1$d bod Play.</item>
+        <item quantity="few">K dispozici jsou %1$d body Play.</item>
+        <item quantity="many">K dispozici je %1$d bodu Play.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120080">
+        <item quantity="other">%1$s bodů</item>
+        <item quantity="one">1 bod</item>
+        <item quantity="few">%1$s body</item>
+        <item quantity="many">%1$s bodu</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120081">
+        <item quantity="other">Přenos %1$d aplikací prostřednictvím zařízení %2$s…</item>
+        <item quantity="one">Přenos %1$d aplikace prostřednictvím zařízení %2$s…</item>
+        <item quantity="few">Přenos %1$d aplikací prostřednictvím zařízení %2$s…</item>
+        <item quantity="many">Přenos %1$d aplikace prostřednictvím zařízení %2$s…</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120082">
+        <item quantity="other">Ze zařízení bude odinstalováno %1$d aplikací.</item>
+        <item quantity="one">Ze zařízení bude odinstalována %1$d aplikace.</item>
+        <item quantity="few">Ze zařízení budou odinstalovány %1$d aplikace.</item>
+        <item quantity="many">Ze zařízení bude odinstalováno %1$d aplikace.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120083">
+        <item quantity="other">Odinstalovat vybrané aplikace?</item>
+        <item quantity="one">Odinstalovat vybranou aplikaci?</item>
+        <item quantity="few">Odinstalovat vybrané aplikace?</item>
+        <item quantity="many">Odinstalovat vybrané aplikace?</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120084">
+        <item quantity="other">Odinstalovat aktualizace vybraných aplikací?</item>
+        <item quantity="one">Odinstalovat aktualizace vybrané aplikace?</item>
+        <item quantity="few">Odinstalovat aktualizace vybraných aplikací?</item>
+        <item quantity="many">Odinstalovat aktualizace vybraných aplikací?</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120085">
+        <item quantity="other">%1$s aplikací bylo odstraněno a pro aplikaci %2$s už máte dost místa.</item>
+        <item quantity="one">%1$s aplikace byla odstraněna a pro aplikaci %2$s už máte dost místa.</item>
+        <item quantity="few">%1$s aplikace byly odstraněny a pro aplikaci %2$s už máte dost místa.</item>
+        <item quantity="many">%1$s aplikace bylo odstraněno a pro aplikaci %2$s už máte dost místa.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120086">
+        <item quantity="other">Brzy budou nainstalovány nové aplikace.</item>
+        <item quantity="one">Brzy bude nainstalována nová aplikace.</item>
+        <item quantity="few">Brzy budou nainstalovány nové aplikace.</item>
+        <item quantity="many">Brzy budou nainstalovány nové aplikace.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120087">
+        <item quantity="other">Brzy budou nainstalovány aktualizace aplikací.</item>
+        <item quantity="one">Brzy bude nainstalována aktualizace aplikace.</item>
+        <item quantity="few">Brzy budou nainstalovány aktualizace aplikací.</item>
+        <item quantity="many">Brzy budou nainstalovány aktualizace aplikací.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008a">
+        <item quantity="other">Naposledy použito před %1$d dny</item>
+        <item quantity="one">Naposledy použito před %1$d dnem</item>
+        <item quantity="few">Naposledy použito před %1$d dny</item>
+        <item quantity="many">Naposledy použito před %1$d dne</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008b">
+        <item quantity="other">Naposledy použito před %1$d měsíci</item>
+        <item quantity="one">Naposledy použito před %1$d měsícem</item>
+        <item quantity="few">Naposledy použito před %1$d měsíci</item>
+        <item quantity="many">Naposledy použito před %1$d měsíce</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008c">
+        <item quantity="other">Chcete-li do zařízení nainstalovat aplikace nebo aktualizace, odstraňte aplikace, které již nepotřebujete. Místo můžete uvolnit také tak, že v nastavení úložiště smažete soubory médií.</item>
+        <item quantity="one">Chcete-li do zařízení nainstalovat aplikaci nebo aktualizaci, odstraňte aplikace, které již nepotřebujete. Místo můžete uvolnit také tak, že v nastavení úložiště smažete soubory médií.</item>
+        <item quantity="few">Chcete-li do zařízení nainstalovat aplikace nebo aktualizace, odstraňte aplikace, které již nepotřebujete. Místo můžete uvolnit také tak, že v nastavení úložiště smažete soubory médií.</item>
+        <item quantity="many">Chcete-li do zařízení nainstalovat aplikace nebo aktualizace, odstraňte aplikace, které již nepotřebujete. Místo můžete uvolnit také tak, že v nastavení úložiště smažete soubory médií.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008d">
+        <item quantity="other">Chcete-li do zařízení nainstalovat aplikace nebo aktualizace, odstraňte aplikace, které již nepotřebujete. Místo můžete uvolnit také tak, že v &lt;a href=\"\">Nastavení > Úložiště&lt;/a> smažete soubory médií.</item>
+        <item quantity="one">Chcete-li do zařízení nainstalovat aplikaci nebo aktualizaci, odstraňte aplikace, které již nepotřebujete. Místo můžete uvolnit také tak, že v &lt;a href=\"\">Nastavení > Úložiště&lt;/a> smažete soubory médií.</item>
+        <item quantity="few">Chcete-li do zařízení nainstalovat aplikace nebo aktualizace, odstraňte aplikace, které již nepotřebujete. Místo můžete uvolnit také tak, že v &lt;a href=\"\">Nastavení > Úložiště&lt;/a> smažete soubory médií.</item>
+        <item quantity="many">Chcete-li do zařízení nainstalovat aplikace nebo aktualizace, odstraňte aplikace, které již nepotřebujete. Místo můžete uvolnit také tak, že v &lt;a href=\"\">Nastavení > Úložiště&lt;/a> smažete soubory médií.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008e">
+        <item quantity="other">Chcete-li do zařízení nainstalovat aplikace nebo aktualizace, odstraňte aplikace, které již nepotřebujete. Místo můžete uvolnit také tak, že v Nastavení > Úložiště smažete soubory médií.</item>
+        <item quantity="one">Chcete-li do zařízení nainstalovat aplikaci nebo aktualizaci, odstraňte aplikace, které již nepotřebujete. Místo můžete uvolnit také tak, že v Nastavení > Úložiště smažete soubory médií.</item>
+        <item quantity="few">Chcete-li do zařízení nainstalovat aplikace nebo aktualizace, odstraňte aplikace, které již nepotřebujete. Místo můžete uvolnit také tak, že v Nastavení > Úložiště smažete soubory médií.</item>
+        <item quantity="many">Chcete-li do zařízení nainstalovat aplikace nebo aktualizace, odstraňte aplikace, které již nepotřebujete. Místo můžete uvolnit také tak, že v Nastavení > Úložiště smažete soubory médií.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008f">
+        <item quantity="other">Bylo odinstalováno %1$d aplikací</item>
+        <item quantity="one">Byla odinstalována %1$d aplikace</item>
+        <item quantity="few">Byly odinstalovány %1$d aplikace</item>
+        <item quantity="many">Bylo odinstalováno %1$d aplikace</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120090">
+        <item quantity="other">Našli jsme %1$d aplikací, které jste nějakou dobu nepoužili. Odstraněním byste získali %2$d MB úložného prostoru.</item>
+        <item quantity="one">Našli jsme %1$d aplikaci, kterou jste nějakou dobu nepoužili. Odstraněním byste získali %2$d MB úložného prostoru.</item>
+        <item quantity="few">Našli jsme %1$d aplikace, které jste nějakou dobu nepoužili. Odstraněním byste získali %2$d MB úložného prostoru.</item>
+        <item quantity="many">Našli jsme %1$d aplikace, které jste nějakou dobu nepoužili. Odstraněním byste získali %2$d MB úložného prostoru.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120091">
+        <item quantity="other">Začíná za %1$d hodin</item>
+        <item quantity="one">Začíná za %1$d hodinu</item>
+        <item quantity="few">Začíná za %1$d hodiny</item>
+        <item quantity="many">Začíná za %1$d hodiny</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120092">
+        <item quantity="other">Začíná za %1$d dnů</item>
+        <item quantity="one">Začíná za %1$d den</item>
+        <item quantity="few">Začíná za %1$d dny</item>
+        <item quantity="many">Začíná za %1$d dne</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120093">
+        <item quantity="other">K dispozici za %1$d hodin</item>
+        <item quantity="one">K dispozici za %1$d hodinu</item>
+        <item quantity="few">K dispozici za %1$d hodiny</item>
+        <item quantity="many">K dispozici za %1$d hodiny</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120094">
+        <item quantity="other">K dispozici za %1$d dnů</item>
+        <item quantity="one">K dispozici za %1$d den</item>
+        <item quantity="few">K dispozici za %1$d dny</item>
+        <item quantity="many">K dispozici za %1$d dne</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120095">
+        <item quantity="other">Systém tohoto zařízení již více než %1$d měsíců nebyl aktualizován</item>
+        <item quantity="one">Systém tohoto zařízení již více než %1$d měsíc nebyl aktualizován</item>
+        <item quantity="few">Systém tohoto zařízení již více než %1$d měsíce nebyl aktualizován</item>
+        <item quantity="many">Systém tohoto zařízení již více než %1$d měsíce nebyl aktualizován</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120096">
+        <item quantity="other">Pracovní aplikace byly odstraněny</item>
+        <item quantity="one">Pracovní aplikace byla odstraněna</item>
+        <item quantity="few">Pracovní aplikace byly odstraněny</item>
+        <item quantity="many">Pracovní aplikace byly odstraněny</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120097">
+        <item quantity="other">Před %1$d roky</item>
+        <item quantity="one">Před %1$d rokem</item>
+        <item quantity="few">Před %1$d roky</item>
+        <item quantity="many">Před %1$d roku</item>
+    </plurals>
+</resources>

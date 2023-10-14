@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_error_bad_calibration">Det går inte att använda fingeravtryckssensorn. Besök ett reparationsställe eller g.co/pixel/fingerprintunlock</string>
+    <string name="fingerprint_recalibrate_notification_content">Besök ett reparationsställe eller g.co/pixel/fingerprintunlock</string>
+    <string name="battery_saver_description_with_learn_more">"Batterisparläget förlänger batteritiden genom att
+
+• aktivera Mörkt tema
+• inaktivera eller begränsa aktivitet i bakgrunden, vissa visuella effekter och andra funktioner, som ”Hey Google”
+• optimera nätverksanslutningar
+
+"<annotation id="url">Läs mer</annotation></string>
+</resources>

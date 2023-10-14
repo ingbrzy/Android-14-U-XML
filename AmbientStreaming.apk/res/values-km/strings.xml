@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">សេវាកម្មឆ្លងកាត់ឧបករណ៍</string>
+    <string name="app_name_generic">កម្មវិធី</string>
+    <string name="app_stream_error_generic">មានបញ្ហាបានកើតឡើង អំឡុងពេលចែករំលែកកម្មវិធី</string>
+    <string name="app_stream_init_error_generic">ការចែករំលែកកម្មវិធីទៅ Chromebook របស់អ្នកមិនបានជោគជ័យទេ</string>
+    <string name="audio_permission_rationale">ការអនុញ្ញាតមីក្រូហ្វូន​សម្រាប់ការចែករំលែក​កម្មវិធីត្រូវបានបិទ</string>
+    <string name="cancel_button_label">បោះបង់</string>
+    <string name="chromebook_keyboard">ក្ដារចុច Chromebook</string>
+    <string name="chromebook_mouse">កណ្ដុរ Chromebook</string>
+    <string name="chromebook_touchscreen">អេក្រង់ថាច់ Chromebook</string>
+    <string name="connect_device">កំពុងភ្ជាប់​ទូរសព្ទ​របស់អ្នក​ជាមួយឧបករណ៍​បញ្ជាពី​ចម្ងាយ៖ %1$s</string>
+    <string name="decline_button_label">បដិសេធ</string>
+    <string name="development_notification_channel_name">ការ​អភិវឌ្ឍ</string>
+    <string name="device_camera_cannot_access">មិនអាច​ចូលប្រើកាមេរ៉ា​ឧបករណ៍ពី Chromebook នេះ​បានទេ</string>
+    <string name="done_button_label">រួចរាល់</string>
+    <string name="enable_button_label">បើក</string>
+    <string name="foreground_service_notification_channel_name">ទូទៅ</string>
+    <string name="foreground_service_notification_content">ចុច​ដើម្បីកែ​ការកំណត់</string>
+    <string name="foreground_service_notification_title">{0,plural, =1{បានភ្ជាប់​ទៅឧបករណ៍ #}other{បានភ្ជាប់​ទៅឧបករណ៍ #}}</string>
+    <string name="interactive_streaming_generic_notification">កំពុងផ្សាយ %1$s និងធ្វើសមកាលកម្ម​ការជូនដំណឹងសម្រាប់ Chromebook របស់អ្នក</string>
+    <string name="interactive_streaming_individual_notification">កំពុងផ្សាយ %1$s និងធ្វើសមកាលកម្មការជូនដំណឹងសម្រាប់ %2$s</string>
+    <string name="interactive_streaming_notification">កំពុងផ្សាយទៅ Chromebook របស់អ្នក</string>
+    <string name="keyboard_name">ក្ដារចុចដែលឆ្លងកាត់ឧបករណ៍</string>
+    <string name="lock_screen_notif_warning_content">បើក​ការជូនដំណឹង​នៅលើ​អេក្រង់ចាក់សោ</string>
+    <string name="lock_screen_notif_warning_title">ការជូនដំណឹង​នឹងមិនត្រូវបាន​បញ្ជូនបន្តទេ</string>
+    <string name="mouse_name">កណ្ដុរ​ដែលឆ្លងកាត់ឧបករណ៍</string>
+    <string name="new_connection_confirm">បញ្ជាក់</string>
+    <string name="new_connection_deny">បដិសេធ</string>
+    <string name="new_connection_title">សូមបញ្ជាក់ឃ្លាដូចគ្នា</string>
+    <string name="notification_access_missing">តម្រូវ​ឱ្យមាន​សិទ្ធិចូល​ប្រើការជូនដំណឹង</string>
+    <string name="notification_access_missing_description">ដើម្បីបើក​ការជូនដំណឹង​នៅលើ Chromebook របស់អ្នក សូមបើក​សិទ្ធិចូលប្រើ​ការជូនដំណឹង</string>
+    <string name="notification_channel_name">ទូទៅ</string>
+    <string name="notification_listener_label">ចែករំលែកកម្មវិធីជាមួយ Chromebook របស់អ្នក</string>
+    <string name="open_source_licenses">អាជ្ញាបណ្ណ​កូដចំហ</string>
+    <string name="phone_permission_rationale">ការអនុញ្ញាតការហៅទូរសព្ទ​សម្រាប់ការចែករំលែក​កម្មវិធីត្រូវបានបិទ</string>
+    <string name="prompt_switch_languages">ចុច shift + ដក​ឃ្លា ដើម្បី​ប្ដូរ​ភាសា Gboard នៃ​ទូរសព្ទ​របស់​អ្នក</string>
+    <string name="settings_button">ការកំណត់</string>
+    <string name="stop_sharing_button">បញ្ចប់​ការផ្សាយ</string>
+    <string name="stream_termination_proximity_warning">ទូរសព្ទរបស់អ្នកនៅឆ្ងាយពេក។ សូមដាក់វាឱ្យជិតជាងនេះ ដើម្បីបន្តផ្សាយ។</string>
+    <string name="substitute_app_name">ប្រព័ន្ធ</string>
+    <string name="summary_disable_wirecutter">បិទ</string>
+    <string name="summary_enable_wirecutter">បើក</string>
+    <string name="touchscreen_name">អេក្រង់ថាច់​ដែលឆ្លងកាត់ឧបករណ៍</string>
+</resources>

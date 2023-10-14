@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bundle1_color_name">কার্বন</string>
+    <string name="bundle2_color_name">পেপার</string>
+    <string name="bundle3_color_name">সূর্য</string>
+    <string name="color_name_monochromatic">মোনোক্রোম্যাটিক</string>
+    <string name="default_color_name">ক্লাসিক</string>
+    <string name="fruit1_color_name">হলুদ ও লাল দুটি রঙের প্যালেট</string>
+    <string name="fruit2_color_name">সবুজ ও কমলা দুটি রঙের প্যালেট</string>
+    <string name="fruit3_color_name">নীল ও সবুজ দুটি রঙের প্যালেট</string>
+    <string name="fruit4_color_name">হালকা বেগুনি ও নীল দুটি রঙের প্যালেট</string>
+    <string name="fruit5_color_name">গোলাপী ও নীলচে বেগুনি দুটি রঙের প্যালেট</string>
+    <string name="rainbow1_color_name">লাল</string>
+    <string name="rainbow2_color_name">কমলা</string>
+    <string name="rainbow3_color_name">হলুদ</string>
+    <string name="rainbow4_color_name">সবুজ</string>
+    <string name="rainbow5_color_name">নীল</string>
+    <string name="rainbow6_color_name">নীলচে বেগুনি</string>
+    <string name="rainbow7_color_name">বেগুনি</string>
+</resources>

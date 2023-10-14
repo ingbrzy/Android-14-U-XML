@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_install_failed_multi_app_desc">
+        <item quantity="other">Талап кылынган %1$d колдонмо орнотулган жок, андыктан жөндөөнү аягына чыгаруу мүмкүн эмес. Түздөн-түз тутумуңуздун администраторуна байланышыңыз.</item>
+        <item quantity="one">Талап кылынган %1$d колдонмо орнотулган жок, андыктан жөндөөнү аягына чыгаруу мүмкүн эмес. Түздөн-түз тутумуңуздун администраторуна байланышыңыз.</item>
+    </plurals>
+    <plurals name="app_install_failure_title">
+        <item quantity="other">Колдонмолор орнотулбай жатат</item>
+        <item quantity="one">Колдонмо орнотулбай жатат</item>
+    </plurals>
+    <plurals name="app_install_progress_desc">
+        <item quantity="other">%2$d колдонмонун ичинен %1$d колдонмо орнотулду</item>
+        <item quantity="one">%2$d колдонмонун ичинен %1$d колдонмо орнотулду</item>
+    </plurals>
+    <plurals name="app_uninstall_button">
+        <item quantity="other">Колдонмолорду чыгарып салуу</item>
+        <item quantity="one">Колдонмону чыгарып салуу</item>
+    </plurals>
+    <plurals name="days_left_message">
+        <item quantity="other">&lt;annotation id="numeric_time_left">^1&lt;/annotation> күн калды</item>
+        <item quantity="one">&lt;annotation id="numeric_time_left">^1&lt;/annotation> күн калды</item>
+    </plurals>
+    <plurals name="hours_left_message">
+        <item quantity="other">&lt;annotation id="numeric_time_left">^1&lt;/annotation> саат калды</item>
+        <item quantity="one">&lt;annotation id="numeric_time_left">^1&lt;/annotation> саат калды</item>
+    </plurals>
+    <plurals name="number_of_additional_apps">
+        <item quantity="other">Кошумча колдонмолор (%1$d)</item>
+        <item quantity="one">Кошумча колдонмо (%1$d)</item>
+    </plurals>
+    <plurals name="number_of_required_apps">
+        <item quantity="other">Талап кылынган колдонмолор (%1$d)</item>
+        <item quantity="one">Талап кылынган колдонмо (%1$d)</item>
+    </plurals>
+    <plurals name="policy_apps_list_summary">
+        <item quantity="other">%d жумуш колдонмосун чыгарып салуу мүмкүн эмес</item>
+        <item quantity="one">%d жумуш колдонмосун чыгарып салуу мүмкүн эмес</item>
+    </plurals>
+    <plurals name="preinstalled_apps">
+        <item quantity="other">%2$d колдонмонун ичинен %1$d колдонмо орнотулду</item>
+        <item quantity="one">%2$d колдонмонун ичинен %1$d колдонмо орнотулду</item>
+    </plurals>
+    <plurals name="readable_name_applications">
+        <item quantity="other">%1$d колдонмо жеткиликтүү (%2$d орнотулду, %3$d өчүрүлдү)</item>
+        <item quantity="one">%1$d колдонмо жеткиликтүү (%2$d орнотулду, %3$d өчүрүлдү)</item>
+    </plurals>
+</resources>

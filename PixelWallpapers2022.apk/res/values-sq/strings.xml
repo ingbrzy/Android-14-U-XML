@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="azure_title">Grifshë blu</string>
+    <string name="blackswan_title">Mjellmë e zezë</string>
+    <string name="cockatoo_title">Papagall kokatu</string>
+    <string name="come_alive_title">Jepi jetë</string>
+    <string name="feathers_attribution">Fotografi nga Andrew Zuckerman</string>
+    <string name="feathers_description">Një shfaqje pendësh me ngjyra dhe detaje</string>
+    <string name="feathers_title">Pendë</string>
+    <string name="greenwinged_title">Makao krahëgjelbër</string>
+    <string name="king_title">Shkabë mbret</string>
+    <string name="living_universe_title">Universi i gjallë</string>
+    <string name="photos_memory_gallery_title">Kujtimet e tua</string>
+    <string name="pied_title">Korb gushëbardhë</string>
+    <string name="ringnecked_title">Papagall qafëunazë</string>
+    <string name="seagull_title">Pulëbardhë</string>
+</resources>

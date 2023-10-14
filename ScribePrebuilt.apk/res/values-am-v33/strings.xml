@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dolphin_html_description">እርስዎ ስለድምጽ ጥራት ግብረመልስ ለመላክ ካልመረጡ በስተቀር ኦዲዮ እና የዳራ ውይይቶች ወደ Google አይላኩም</string>
+    <string name="live_transcribe_html_description">የቀጥታ ጽሁፍ ግልባጭን በሚጠቀሙበት ጊዜ የሚከተሉትን ማድረግ ይችላሉ፦&lt;br/> &lt;ol> &lt;li> ማያ ገጹ ላይ ለሚያዩት የጽሁፍ ግልበጣ ምላሾችን መተየብ&lt;/li> &lt;li> ስምዎ ሲጠራ ማንቂያዎችን ማግኘት&lt;/li> &lt;li> የጽሁፍ ግልበጣዎች ውስጥ መፈለግ&lt;/li> &lt;/ol>&lt;br/> Google የእርስዎን ውይይቶች ያሰናዳል ነገር ግን በጭራሽ አያከማችም</string>
+    <string name="dolphin_intro">እንደ የጭስ ማንቂያ ሲጮህ ወይም ህፃን ሲያለቅስ ያሉ፣ ማሳወቂያ ማግኘት ስለሚፈልጉባቸው ድምጾች፣የእርስዎ መሣሪያ ፍተሻ ያደርጋል</string>
+    <string name="scribe_intro">በአካባቢዎ የሚገኙ ውይይቶች ላይ የበለጠ በቀላሉ መሳተፍ እንዲችሉ የቀጥታ ጽሁፍ ግልባጭ በማያ ገጽዎ ላይ ንግግርን እንደ ጽሁፍ ያሳያል</string>
+</resources>

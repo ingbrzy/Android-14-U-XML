@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_error_bad_calibration">Parmak izi sensörü kullanılamıyor. Bir onarım hizmeti sağlayıcıyı veya g.co/pixel/fingerprintunlock adresini ziyaret edin.</string>
+    <string name="fingerprint_recalibrate_notification_content">Bir onarım hizmeti sağlayıcıyı veya g.co/pixel/fingerprintunlock adresini ziyaret edin</string>
+    <string name="battery_saver_description_with_learn_more">"Pil ömrünü uzatmak için Pil Tasarrufu:
+
+• Koyu temayı açar
+• Arka plan etkinliğini, bazı görsel efektleri ve \"Ok Google\" gibi diğer özellikleri kapatır veya kısıtlar
+• Ağ bağlantılarınızı optimize eder
+
+"<annotation id="url">Daha fazla bilgi</annotation></string>
+</resources>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dlg_message_deletion_confirmation">
+        <item quantity="other">Nauhoituksesi poistetaan pysyvästi. Tätä toimintoa ei voi kumota.</item>
+        <item quantity="one">Nauhoituksesi poistetaan pysyvästi. Tätä toimintoa ei voi kumota.</item>
+    </plurals>
+    <plurals name="dlg_message_deletion_permanent_confirmation">
+        <item quantity="other">Nauhoituksia ei ole varmuuskopioitu. Nämä poistetaan pysyvästi. Toimintoa ei voi kumota.</item>
+        <item quantity="one">Nauhoitusta ei ole varmuuskopioitu. Tämä poistetaan pysyvästi. Toimintoa ei voi kumota.</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_confirmation">
+        <item quantity="other">Poistetaanko nauhoitukset?</item>
+        <item quantity="one">Poistetaanko nauhoitus?</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_permanent_confirmation">
+        <item quantity="other">Poistetaanko nämä nauhoitukset pysyvästi?</item>
+        <item quantity="one">Poistetaanko tämä nauhoitus pysyvästi?</item>
+    </plurals>
+    <plurals name="download_failure_description_storage_full">
+        <item quantity="other">Tallenteiden lataaminen ei onnistu, koska laitteen tallennustila on täynnä. Tarkista napauttamalla.</item>
+        <item quantity="one">Laitteen tallennustila on täynnä. Tarkista napauttamalla.</item>
+    </plurals>
+    <plurals name="downloading_description">
+        <item quantity="other">Ladataan %1$d tallennetta</item>
+        <item quantity="one">Ladataan %1$d tallennetta</item>
+    </plurals>
+    <plurals name="og_backup_failed_title">
+        <item quantity="other">%1$d kohteen varmuuskopiointi ei onnistunut</item>
+        <item quantity="one">%1$d kohteen varmuuskopiointi ei onnistunut</item>
+    </plurals>
+    <plurals name="og_backup_items_left">
+        <item quantity="other">%1$d jäljellä</item>
+        <item quantity="one">%1$d jäljellä</item>
+    </plurals>
+    <plurals name="og_backup_items_stopped_title">
+        <item quantity="other">%1$d kohdetta ei varmuuskopioitu</item>
+        <item quantity="one">%1$d kohdetta ei varmuuskopioitu</item>
+    </plurals>
+    <plurals name="peoplekit_chips_copied_recipients">
+        <item quantity="other">%d vastaanottajaa kopioitu</item>
+        <item quantity="one">%d vastaanottaja kopioitu</item>
+    </plurals>
+    <plurals name="search_results_count">
+        <item quantity="other">%1$d tulosta</item>
+        <item quantity="one">%1$d tulos</item>
+    </plurals>
+    <plurals name="search_results_position">
+        <item quantity="other">^1 / ^2 tuloksesta</item>
+        <item quantity="one">^1 / ^2 tuloksesta</item>
+    </plurals>
+    <plurals name="search_results_position_content_description">
+        <item quantity="other">%1$d / %2$d tuloksesta</item>
+        <item quantity="one">%1$d / %2$d tuloksesta</item>
+    </plurals>
+    <plurals name="selected_recording_quantity">
+        <item quantity="other">%1$d valittu</item>
+        <item quantity="one">%1$d valittu</item>
+    </plurals>
+    <plurals name="snackbar_message_download_failed_storage_full">
+        <item quantity="other">Laitteen tallennustila on täynnä. Tallenteita ei voi ladata.</item>
+        <item quantity="one">Laitteen tallennustila on täynnä. Tallennetta ei voi ladata.</item>
+    </plurals>
+    <plurals name="speaker_count">
+        <item quantity="other">%1$d kaiutinta</item>
+        <item quantity="one">%1$d kaiutin</item>
+    </plurals>
+    <plurals name="uploading_description">
+        <item quantity="other">Lähetetään %1$d tallennetta</item>
+        <item quantity="one">Lähetetään %1$d tallennetta</item>
+    </plurals>
+</resources>

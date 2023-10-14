@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="azure_title">ອາຊົວເຈ</string>
+    <string name="blackswan_title">ຫົງດຳ</string>
+    <string name="cockatoo_title">ຄັອກກາຕູ</string>
+    <string name="come_alive_title">ມີຊີວິດຊີວາ</string>
+    <string name="feathers_attribution">ຮູບພາບໂດຍ Andrew Zuckerman</string>
+    <string name="feathers_description">ການສະແດງສີ ແລະ ລາຍລະອຽດທີ່ນຸ້ມນວນ</string>
+    <string name="feathers_title">ຂົນນົກ</string>
+    <string name="greenwinged_title">ມາຄໍປີກຂຽວ</string>
+    <string name="king_title">ລາຊາແຮ້ງ</string>
+    <string name="living_universe_title">ຈັກກະວານທີ່ມີຊີວິດ</string>
+    <string name="photos_memory_gallery_title">ຄວາມຊົງຈຳຂອງທ່ານ</string>
+    <string name="pied_title">ກາລາຍຂາວ</string>
+    <string name="ringnecked_title">ນົກແກ້ວຣິງເນັກ</string>
+    <string name="seagull_title">ນົກນາງນວນ</string>
+</resources>

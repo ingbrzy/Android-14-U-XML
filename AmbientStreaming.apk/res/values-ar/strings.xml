@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">خدمات الجهاز الذي يعمل من خلال جهاز آخر</string>
+    <string name="app_name_generic">تطبيق</string>
+    <string name="app_stream_error_generic">حدث خطأ أثناء مشاركة التطبيق.</string>
+    <string name="app_stream_init_error_generic">تعذّرت مشاركة التطبيق مع جهاز Chromebook.</string>
+    <string name="audio_permission_rationale">إذن الميكروفون لمشاركة التطبيق غير مفعّل.</string>
+    <string name="cancel_button_label">إلغاء</string>
+    <string name="chromebook_keyboard">لوحة مفاتيح جهاز Chromebook</string>
+    <string name="chromebook_mouse">ماوس جهاز Chromebook</string>
+    <string name="chromebook_touchscreen">الشاشة التي تعمل باللمس لجهاز Chromebook</string>
+    <string name="connect_device">جارٍ ربط هاتفك بجهاز بعيد: %1$s.</string>
+    <string name="decline_button_label">رفض</string>
+    <string name="development_notification_channel_name">التطوير</string>
+    <string name="device_camera_cannot_access">لا يمكن الوصول إلى كاميرا الجهاز من جهاز Chromebook هذا.</string>
+    <string name="done_button_label">تم</string>
+    <string name="enable_button_label">تفعيل</string>
+    <string name="foreground_service_notification_channel_name">عام</string>
+    <string name="foreground_service_notification_content">انقر لضبط الإعدادات.</string>
+    <string name="foreground_service_notification_title">{0,plural, =1{تم الربط بجهاز واحد}zero{تم الربط بـ # جهاز}two{تم الربط بجهازين}few{تم الربط بـ # أجهزة}many{تم الربط بـ # جهازًا}other{تم الربط بـ # جهاز}}</string>
+    <string name="interactive_streaming_generic_notification">جارٍ بث محتوى %1$s إلى جهاز Chromebook ومزامنة الإشعارات معه.</string>
+    <string name="interactive_streaming_individual_notification">جارٍ بث تطبيق \"%1$s\" ومزامنة الإشعارات مع %2$s.</string>
+    <string name="interactive_streaming_notification">جارٍ البث إلى جهاز Chromebook.</string>
+    <string name="keyboard_name">لوحة مفاتيح فعلية تعمل من خلال جهاز آخر</string>
+    <string name="lock_screen_notif_warning_content">يجب تفعيل الإشعارات على شاشة القفل.</string>
+    <string name="lock_screen_notif_warning_title">لن تتم إعادة توجيه الإشعارات</string>
+    <string name="mouse_name">ماوس فعلي يعمل من خلال جهاز آخر</string>
+    <string name="new_connection_confirm">تأكيد</string>
+    <string name="new_connection_deny">رفض</string>
+    <string name="new_connection_title">يُرجى تأكيد تطابقات السلسلة</string>
+    <string name="notification_access_missing">يجب السماح بالوصول إلى الإشعارات</string>
+    <string name="notification_access_missing_description">لفتح الإشعارات على جهاز Chromebook، فعِّل إمكانية الوصول إلى الإشعارات.</string>
+    <string name="notification_channel_name">إشعارات عامة</string>
+    <string name="notification_listener_label">مشاركة التطبيقات باستخدام Chromebook</string>
+    <string name="open_source_licenses">تراخيص البرامج المفتوحة المصدر</string>
+    <string name="phone_permission_rationale">إذن إجراء المكالمات الهاتفية لمشاركة التطبيق غير مفعّل.</string>
+    <string name="prompt_switch_languages">انقر على shift + مفتاح المسافة لتبديل لغة Gboard على هاتفك.</string>
+    <string name="settings_button">إعدادات</string>
+    <string name="stop_sharing_button">إنهاء البثّ</string>
+    <string name="stream_termination_proximity_warning">هاتفك بعيد جدًا. قرّب هاتفك لمواصلة البث.</string>
+    <string name="substitute_app_name">النظام</string>
+    <string name="summary_disable_wirecutter">غير مفعّلة</string>
+    <string name="summary_enable_wirecutter">مفعّلة</string>
+    <string name="touchscreen_name">شاشة اللمس تعمل من خلال جهاز آخر</string>
+</resources>

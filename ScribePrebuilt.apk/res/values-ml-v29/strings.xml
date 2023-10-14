@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="live_transcribe_description">"Live Transcribe, ഉപകരണത്തിന്റെ മൈക്രോഫോണിൽ നിന്നുള്ള സംഭാഷണം സ്വീകരിച്ച് അത് ടെക്‌സ്‌റ്റായി പ്രദർശിപ്പിക്കുന്നു.
+
+Google നിങ്ങളുടെ സംഭാഷണങ്ങൾ പ്രോസസ് ചെയ്യുന്നുണ്ടെങ്കിലും അവ ഒരിക്കലും സംഭരിക്കില്ല."</string>
+</resources>

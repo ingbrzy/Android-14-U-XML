@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dots">
+        <item quantity="other">тачке %s</item>
+        <item quantity="one">тачке %s</item>
+        <item quantity="few">тачке %s</item>
+    </plurals>
+    <plurals name="gestures_recorded_message">
+        <item quantity="other">%d покрета је снимљено</item>
+        <item quantity="one">%d покрет је снимљен</item>
+        <item quantity="few">%d покрета су снимљена</item>
+    </plurals>
+    <plurals name="label_num_keys_assigned_format">
+        <item quantity="other">%d прекидача је додељено</item>
+        <item quantity="one">%d прекидач је додељен</item>
+        <item quantity="few">%d прекидача су додељена</item>
+    </plurals>
+    <plurals name="label_num_scanning_loops_format">
+        <item quantity="other">%d петљи</item>
+        <item quantity="one">%d петља</item>
+        <item quantity="few">%d петље</item>
+    </plurals>
+    <plurals name="line_speed_summary_format">
+        <item quantity="other">%.2f cm у секунди</item>
+        <item quantity="one">%.2f cm у секунди</item>
+        <item quantity="few">%.2f cm у секунди</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d нових обавештења</item>
+        <item quantity="one">%d ново обавештење</item>
+        <item quantity="few">%d нова обавештења</item>
+    </plurals>
+    <plurals name="time_delay_summary_format">
+        <item quantity="other">%.2f секунди</item>
+        <item quantity="one">%.2f секунда</item>
+        <item quantity="few">%.2f секунде</item>
+    </plurals>
+</resources>

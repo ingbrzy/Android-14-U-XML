@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="azure_title">မိုးပြာဗွတ်ကုလား</string>
+    <string name="blackswan_title">ငန်းနက်</string>
+    <string name="cockatoo_title">ကတ္တဝါ</string>
+    <string name="come_alive_title">သက်ဝင်လာသော ပုံများ</string>
+    <string name="feathers_attribution">Andrew Zuckerman ရိုက်ကူးသောဓာတ်ပုံ</string>
+    <string name="feathers_description">အရောင်နှင့် အသေးစိတ် ရိုက်ပြထားသော အမွေးအတောင်များ</string>
+    <string name="feathers_title">ငှက်မွေးများ</string>
+    <string name="greenwinged_title">အစိမ်းရောင်အတောင်ပံရှိသည့် ငှက်တော</string>
+    <string name="king_title">လင်းတဘုရင်</string>
+    <string name="living_universe_title">လှုပ်ရှားနေသော စကြဝဠာ</string>
+    <string name="photos_memory_gallery_title">သင့်အမှတ်တရများ</string>
+    <string name="pied_title">ဖြူနက်ကျား ကျီးကန်း</string>
+    <string name="ringnecked_title">လည်ရစ်ပါ ကျေးတမာ</string>
+    <string name="seagull_title">စင်ရော်</string>
+</resources>

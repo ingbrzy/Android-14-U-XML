@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dlg_message_deletion_confirmation">
+        <item quantity="other">Vos enregistrements seront supprimés définitivement. Cette action est irréversible.</item>
+        <item quantity="one">Votre enregistrement sera supprimé définitivement. Cette action est irréversible.</item>
+    </plurals>
+    <plurals name="dlg_message_deletion_permanent_confirmation">
+        <item quantity="other">Les enregistrements ne sont pas sauvegardés. Ils seront supprimés définitivement. Cette action est irréversible.</item>
+        <item quantity="one">"L'enregistrement n'est pas sauvegardé. Il sera supprimé définitivement. Cette action est irréversible."</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_confirmation">
+        <item quantity="other">Supprimer les enregistrements?</item>
+        <item quantity="one">"Supprimer l'enregistrement?"</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_permanent_confirmation">
+        <item quantity="other">Supprimer définitivement ces enregistrements?</item>
+        <item quantity="one">Supprimer définitivement cet enregistrement?</item>
+    </plurals>
+    <plurals name="download_failure_description_storage_full">
+        <item quantity="other">"Impossible de télécharger les enregistrements parce que l'espace de stockage de l'appareil est plein. Touchez pour examiner."</item>
+        <item quantity="one">"Impossible de télécharger l'enregistrement parce que l'espace de stockage de l'appareil est plein. Touchez pour examiner."</item>
+    </plurals>
+    <plurals name="downloading_description">
+        <item quantity="other">Téléchargement de %1$d enregistrements en cours…</item>
+        <item quantity="one">Téléchargement de %1$d enregistrement en cours…</item>
+    </plurals>
+    <plurals name="og_backup_failed_title">
+        <item quantity="other">Échec de la sauvegarde de %1$d éléments</item>
+        <item quantity="one">Échec de la sauvegarde de %1$d élément</item>
+    </plurals>
+    <plurals name="og_backup_items_left">
+        <item quantity="other">%1$d éléments restants</item>
+        <item quantity="one">%1$d élément restant</item>
+    </plurals>
+    <plurals name="og_backup_items_stopped_title">
+        <item quantity="other">%1$d éléments non sauvegardés</item>
+        <item quantity="one">%1$d élément non sauvegardé</item>
+    </plurals>
+    <plurals name="peoplekit_chips_copied_recipients">
+        <item quantity="other">%d destinataires ont été copiés</item>
+        <item quantity="one">%d destinataire a été copié</item>
+    </plurals>
+    <plurals name="search_results_count">
+        <item quantity="other">%1$d résultats</item>
+        <item quantity="one">%1$d résultat</item>
+    </plurals>
+    <plurals name="search_results_position">
+        <item quantity="other">^1 résultats sur ^2</item>
+        <item quantity="one">^1 résultat sur ^2</item>
+    </plurals>
+    <plurals name="search_results_position_content_description">
+        <item quantity="other">%1$d résultats sur %2$d</item>
+        <item quantity="one">%1$d résultat sur %2$d</item>
+    </plurals>
+    <plurals name="selected_recording_quantity">
+        <item quantity="other">%1$d éléments sélectionnés</item>
+        <item quantity="one">%1$d élément sélectionné</item>
+    </plurals>
+    <plurals name="snackbar_message_download_failed_storage_full">
+        <item quantity="other">"L'espace de stockage de l'appareil est plein. Impossible de télécharger les enregistrements."</item>
+        <item quantity="one">"L'espace de stockage de l'appareil est plein. Impossible de télécharger l'enregistrement."</item>
+    </plurals>
+    <plurals name="speaker_count">
+        <item quantity="other">%1$d haut-parleurs</item>
+        <item quantity="one">%1$d haut-parleur</item>
+    </plurals>
+    <plurals name="uploading_description">
+        <item quantity="other">Téléversement de %1$d enregistrements en cours…</item>
+        <item quantity="one">Téléversement de %1$d enregistrement en cours…</item>
+    </plurals>
+</resources>

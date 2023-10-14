@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bundle1_color_name">کاربن</string>
+    <string name="bundle2_color_name">کاغذ</string>
+    <string name="bundle3_color_name">سورج</string>
+    <string name="color_name_monochromatic">Monochromatic</string>
+    <string name="default_color_name">کلاسک</string>
+    <string name="fruit1_color_name">پیلے اور سرخ دو رنگ کا پیلیٹ</string>
+    <string name="fruit2_color_name">سبز اور نارنجی دو رنگوں کا پیلیٹ</string>
+    <string name="fruit3_color_name">نیلے اور سبز دو رنگ کا پیلیٹ</string>
+    <string name="fruit4_color_name">ہلکا جامنی اور نیلا دو رنگ کا پیلیٹ</string>
+    <string name="fruit5_color_name">گلابی اور گہرا نیلا دو رنگ کا پیلیٹ</string>
+    <string name="rainbow1_color_name">سرخ</string>
+    <string name="rainbow2_color_name">نارنجی</string>
+    <string name="rainbow3_color_name">پیلا</string>
+    <string name="rainbow4_color_name">سبز</string>
+    <string name="rainbow5_color_name">نیلا</string>
+    <string name="rainbow6_color_name">گہرا نیلا</string>
+    <string name="rainbow7_color_name">بیگنی</string>
+</resources>

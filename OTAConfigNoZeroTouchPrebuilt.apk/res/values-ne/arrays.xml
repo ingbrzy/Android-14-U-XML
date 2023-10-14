@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sim_locked_notification_custom_content_array">
+        <item>यो SIM कार्ड प्रयोग गर्न Device Unlock एप प्रयोग गरी आफ्नो फोन अनलक गर्नुहोस्।</item>
+        <item>कृपया आफ्नो मोबाइलको सेवा प्रदायकमा सम्पर्क गर्नुहोस्</item>
+    </string-array>
+</resources>

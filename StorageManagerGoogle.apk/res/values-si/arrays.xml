@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="select_logpersist_summaries">
+        <item>ක්‍රියාවිරහිතයි</item>
+        <item>සියලු ලොග අන්තරාචය</item>
+        <item>සියලු නමුත් රේඩියෝ ලොග අන්තරාචය</item>
+        <item>කර්නල ලොග් අන්තරාචය පමණි</item>
+    </string-array>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_retaildemoCommunication">Permite que a aplicación interactúe cos servizos de demostración comercial. Só se lle debería conceder este permiso á demostración comercial. As aplicacións que dispoñan deste permiso poden activar accións reservadas para o modo de demostración comercial.</string>
+    <string name="permlab_retaildemoCommunication">Comunicación con demostración comercial</string>
+    <string name="retaildemo_preload_app_name">Servs. dem. comerc.</string>
+</resources>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cross-Device Services</string>
+    <string name="app_name_generic">aplikazio bat</string>
+    <string name="app_stream_error_generic">Errore bat gertatu da aplikazioa partekatzean</string>
+    <string name="app_stream_init_error_generic">Ezin izan da partekatu aplikazioa Chromebook-arekin</string>
+    <string name="audio_permission_rationale">Aplikazioak partekatzean mikrofonoa erabiltzeko baimena desgaituta dago</string>
+    <string name="cancel_button_label">Utzi</string>
+    <string name="chromebook_keyboard">Chromebook-aren teklatua</string>
+    <string name="chromebook_mouse">Chromebook-aren sagua</string>
+    <string name="chromebook_touchscreen">Chromebook-aren ukipen-pantaila</string>
+    <string name="connect_device">Telefonoa urruneko gailuarekin konektatzen: %1$s</string>
+    <string name="decline_button_label">Baztertu</string>
+    <string name="development_notification_channel_name">Garapena</string>
+    <string name="device_camera_cannot_access">Ezin da atzitu gailuaren kamera Chromebook honetatik</string>
+    <string name="done_button_label">Eginda</string>
+    <string name="enable_button_label">Gaitu</string>
+    <string name="foreground_service_notification_channel_name">Orokorra</string>
+    <string name="foreground_service_notification_content">Sakatu ezarpenak aldatzeko</string>
+    <string name="foreground_service_notification_title">{0,plural, =1{Gailu batera konektatuta}other{# gailutara konektatuta}}</string>
+    <string name="interactive_streaming_generic_notification">Chromebook-era %1$s aplikazioa igortzen eta jakinarazpenak sinkronizatzen</string>
+    <string name="interactive_streaming_individual_notification">%1$s zuzenean igortzen eta \"%2$s\" gailuaren jakinarazpenak sinkronizatzen</string>
+    <string name="interactive_streaming_notification">Chromebook-era igortzen</string>
+    <string name="keyboard_name">Gailu bat baino gehiagotarako teklatua</string>
+    <string name="lock_screen_notif_warning_content">Gaitu jakinarazpenak pantaila blokeatuan</string>
+    <string name="lock_screen_notif_warning_title">Jakinarazpenak ez dira birbidaliko</string>
+    <string name="mouse_name">Gailu bat baino gehiagotarako sagua</string>
+    <string name="new_connection_confirm">Berretsi</string>
+    <string name="new_connection_deny">Ukatu</string>
+    <string name="new_connection_title">Berretsi kateak bat datozela</string>
+    <string name="notification_access_missing">Jakinarazpenak erabiltzeko baimena behar da</string>
+    <string name="notification_access_missing_description">Chromebook-ean jakinarazpenak irekitzeko, aktibatu jakinarazpenak erabiltzeko baimena</string>
+    <string name="notification_channel_name">Orokorrak</string>
+    <string name="notification_listener_label">Partekatu aplikazioak Chromebook-arekin</string>
+    <string name="open_source_licenses">Kode irekiko lizentziak</string>
+    <string name="phone_permission_rationale">Aplikazioak partekatzean telefono-deiak erabiltzeko baimena desgaituta dago</string>
+    <string name="prompt_switch_languages">Telefonoan Gboard-erako darabilzun hizkuntza aldatzeko, sakatu Maius + zuriune-barra</string>
+    <string name="settings_button">Ezarpenak</string>
+    <string name="stop_sharing_button">Utzi zuzenean igortzeari</string>
+    <string name="stream_termination_proximity_warning">Telefonoa urrunegi dago. Hurbil ezazu aplikazioa zuzenean exekutatzen jarraitzeko.</string>
+    <string name="substitute_app_name">Sistema</string>
+    <string name="summary_disable_wirecutter">Desaktibatuta</string>
+    <string name="summary_enable_wirecutter">Aktibatuta</string>
+    <string name="touchscreen_name">Gailu bat baino gehiagotarako ukipen-pantaila</string>
+</resources>

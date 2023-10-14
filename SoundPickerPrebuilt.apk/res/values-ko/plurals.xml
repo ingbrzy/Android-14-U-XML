@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="track_counts">
+        <item quantity="other">사운드 %1$d개</item>
+        <item quantity="one">사운드 %1$d개</item>
+    </plurals>
+</resources>

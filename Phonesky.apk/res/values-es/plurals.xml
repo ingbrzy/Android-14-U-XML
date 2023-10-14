@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120000">
+        <item quantity="other">Esperando conexión Wi‑Fi</item>
+        <item quantity="one">Esperando conexión Wi‑Fi</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120002">
+        <item quantity="other">En este dispositivo (%d aplicaciones)</item>
+        <item quantity="one">En este dispositivo (%d aplicación)</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120003">
+        <item quantity="other">Funciones de %1$s</item>
+        <item quantity="one">Función de %1$s</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120004">
+        <item quantity="other">Descargada hace %d días</item>
+        <item quantity="one">Descargada hace %d día</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120005">
+        <item quantity="other">Descargada hace %d horas</item>
+        <item quantity="one">Descargada hace %d hora</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120006">
+        <item quantity="other">Descargada hace %d minutos</item>
+        <item quantity="one">Descargada hace %d minuto</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120007">
+        <item quantity="other">%1$d seleccionados</item>
+        <item quantity="one">%1$d seleccionado</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120008">
+        <item quantity="other">Actualizado hace %d días</item>
+        <item quantity="one">Actualizado hace %d día</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120009">
+        <item quantity="other">Actualizado hace %d horas</item>
+        <item quantity="one">Actualizado hace %d hora</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000a">
+        <item quantity="other">Actualizado hace %d minutos</item>
+        <item quantity="one">Actualizado hace %d minuto</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000b">
+        <item quantity="other">Último uso hace %d días</item>
+        <item quantity="one">Último uso hace %d día</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000c">
+        <item quantity="other">Último uso hace %d horas</item>
+        <item quantity="one">Último uso hace %d hora</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000d">
+        <item quantity="other">Último uso hace %d minutos</item>
+        <item quantity="one">Último uso hace %d minuto</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000f">
+        <item quantity="other">Las aplicaciones se analizaron hace %d días</item>
+        <item quantity="one">Las aplicaciones se analizaron hace %d día</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120010">
+        <item quantity="other">Las aplicaciones se analizaron hace %d horas</item>
+        <item quantity="one">Las aplicaciones se analizaron hace %d hora</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120011">
+        <item quantity="other">Las aplicaciones se analizaron hace %d minutos</item>
+        <item quantity="one">Las aplicaciones se analizaron hace %d minuto</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120014">
+        <item quantity="other">%1$d reseñas</item>
+        <item quantity="one">%1$d reseña</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120015">
+        <item quantity="other">%1$d reseñas de la valoración por estrellas %2$d</item>
+        <item quantity="one">%1$d reseña de la valoración por estrellas %2$d</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120016">
+        <item quantity="other">Instalar en %1$d disp.</item>
+        <item quantity="one">Instalar en %1$d disp.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120017">
+        <item quantity="other">Instalar en %1$d dispositivos. Más dispositivos disponibles.</item>
+        <item quantity="one">Instalar en %1$d dispositivo. Más dispositivos disponibles.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120018">
+        <item quantity="other">Esta aplicación se instalará pronto en %1$d dispositivos.</item>
+        <item quantity="one">Esta aplicación se instalará pronto en %1$d dispositivo.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120019">
+        <item quantity="other">%1$d extras disponibles</item>
+        <item quantity="one">%1$d extra disponible</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001a">
+        <item quantity="other">%1$d extras disponibles al hacer una compra</item>
+        <item quantity="one">%1$d extra disponible al hacer una compra</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001b">
+        <item quantity="other">%1$d días</item>
+        <item quantity="one">%1$d día</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001c">
+        <item quantity="other">Puntuación media: %1$s estrellas con %2$s reseñas</item>
+        <item quantity="one">Puntuación media: %1$s estrellas con 1 reseña</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001d">
+        <item quantity="other">%s reseñas</item>
+        <item quantity="one">1 reseña</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001e">
+        <item quantity="other">Solo te quedan %1$d pasos para habilitar las opciones para desarrolladores.</item>
+        <item quantity="one">Solo te queda %1$d paso para habilitar las opciones para desarrolladores.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001f">
+        <item quantity="other">coches</item>
+        <item quantity="one">coche</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120020">
+        <item quantity="other">Chromebooks</item>
+        <item quantity="one">Chromebook</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120021">
+        <item quantity="other">plegables</item>
+        <item quantity="one">plegable</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120022">
+        <item quantity="other">teléfonos</item>
+        <item quantity="one">teléfono</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120023">
+        <item quantity="other">tablets</item>
+        <item quantity="one">tablet</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120024">
+        <item quantity="other">televisiones</item>
+        <item quantity="one">televisión</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120025">
+        <item quantity="other">dispositivos</item>
+        <item quantity="one">dispositivo</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120026">
+        <item quantity="other">relojes</item>
+        <item quantity="one">reloj</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120027">
+        <item quantity="other">%1$d Play Points disponibles.</item>
+        <item quantity="one">%1$d Play Point disponible.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120028">
+        <item quantity="other">%1$d horas</item>
+        <item quantity="one">%1$d hora</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120029">
+        <item quantity="other">Quedan %1$d horas</item>
+        <item quantity="one">Queda 1 hora</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002a">
+        <item quantity="other">Instalando %1$d aplicaciones…</item>
+        <item quantity="one">Instalando %1$d aplicación…</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002b">
+        <item quantity="other">Descargas en pausa</item>
+        <item quantity="one">Descarga en pausa</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002c">
+        <item quantity="other">Se van a instalar %1$d aplicaciones.</item>
+        <item quantity="one">Se va a instalar %1$d aplicación.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002d">
+        <item quantity="other">Última actualización hace %d días</item>
+        <item quantity="one">Última actualización hace %d día</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002e">
+        <item quantity="other">Última actualización hace %d horas</item>
+        <item quantity="one">Última actualización hace %d hora</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002f">
+        <item quantity="other">Última actualización hace %d minutos</item>
+        <item quantity="one">Última actualización hace %d minuto</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120033">
+        <item quantity="other">hace %1$d años</item>
+        <item quantity="one">hace %1$d año</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120034">
+        <item quantity="other">%1$d minutos</item>
+        <item quantity="one">%1$d minuto</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120035">
+        <item quantity="other">Quedan %1$d minutos</item>
+        <item quantity="one">Queda 1 minuto</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120037">
+        <item quantity="other">%1$d seleccionadas</item>
+        <item quantity="one">%1$d seleccionada</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120038">
+        <item quantity="other">Archivando %1$d aplicaciones</item>
+        <item quantity="one">Archivando %1$d aplicación</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120039">
+        <item quantity="other">¿Quitar las aplicaciones seleccionadas?</item>
+        <item quantity="one">¿Quitar la aplicación seleccionada?</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12003a">
+        <item quantity="other">%1$d aplicaciones quitadas</item>
+        <item quantity="one">%1$d aplicación quitada</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12003d">
+        <item quantity="other">%1$d instalaciones pendientes</item>
+        <item quantity="one">%1$d instalación pendiente</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12003e">
+        <item quantity="other">%1$d instalaciones en curso</item>
+        <item quantity="one">%1$d instalación en curso</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120040">
+        <item quantity="other">%1$d actualizaciones pendientes</item>
+        <item quantity="one">%1$d actualización pendiente</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120041">
+        <item quantity="other">%1$d actualizaciones en curso</item>
+        <item quantity="one">%1$d actualización en curso</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120042">
+        <item quantity="other">%1$d aplicaciones instaladas</item>
+        <item quantity="one">%1$d aplicación instalada</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120044">
+        <item quantity="other">Publicado hace %1$d horas</item>
+        <item quantity="one">Publicado hace %1$d hora</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120045">
+        <item quantity="other">Publicado hace %1$d días</item>
+        <item quantity="one">Publicado hace %1$d día</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120046">
+        <item quantity="other">Aplicaciones eliminadas</item>
+        <item quantity="one">Aplicación eliminada</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120047">
+        <item quantity="other">%1$d actualizaciones por aprobar</item>
+        <item quantity="one">%1$d actualización por aprobar</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120048">
+        <item quantity="other">%1$d nuevas actualizaciones</item>
+        <item quantity="one">%1$d nueva actualización</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120049">
+        <item quantity="other">%1$d actualizaciones disponibles</item>
+        <item quantity="one">%1$d actualización disponible</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004a">
+        <item quantity="other">Actualizar todas</item>
+        <item quantity="one">Actualizar</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004b">
+        <item quantity="other">%1$d aplicaciones actualizadas</item>
+        <item quantity="one">%1$d aplicación actualizada</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004c">
+        <item quantity="other">Termina dentro de %1$d horas</item>
+        <item quantity="one">Termina dentro de %1$d hora</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004d">
+        <item quantity="other">Termina dentro de %1$d días</item>
+        <item quantity="one">Termina dentro de %1$d día</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004e">
+        <item quantity="other">%1$d minutos</item>
+        <item quantity="one">%1$d minuto</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004f">
+        <item quantity="other">%1$d segundos</item>
+        <item quantity="one">%1$d segundo</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120050">
+        <item quantity="other">Aplicaciones personales eliminadas</item>
+        <item quantity="one">Aplicación personal eliminada</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120053">
+        <item quantity="other">Play Protect hizo un análisis hace %d días</item>
+        <item quantity="one">Play Protect hizo un análisis hace %d día</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120054">
+        <item quantity="other">Play Protect hizo un análisis hace %d horas</item>
+        <item quantity="one">Play Protect hizo un análisis hace %d hora</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120055">
+        <item quantity="other">Play Protect hizo un análisis hace %d minutos</item>
+        <item quantity="one">Play Protect hizo un análisis hace %d minuto</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120056">
+        <item quantity="other">%1$s puntos para conservar el nivel %2$s el próximo año</item>
+        <item quantity="one">1 punto para conservar el nivel %2$s el próximo año</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120057">
+        <item quantity="other">%1$s puntos para el nivel %2$s</item>
+        <item quantity="one">1 punto para el nivel %2$s</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120058">
+        <item quantity="other">Has dado permiso a estas aplicaciones para descargar o actualizar aplicaciones desconocidas, lo que podría poner en peligro tu dispositivo y tu información personal. Para evitarlo, deniega este permiso.</item>
+        <item quantity="one">Has dado permiso a esta aplicación para descargar o actualizar aplicaciones desconocidas, lo que podría poner en peligro tu dispositivo y tu información personal. Para evitarlo, deniega este permiso.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120059">
+        <item quantity="other">Has dado permiso a %1$d aplicaciones para descargar o actualizar aplicaciones desconocidas, lo que podría poner en peligro tu dispositivo y tu información personal.</item>
+        <item quantity="one">Has dado permiso a 1 aplicación para descargar o actualizar aplicaciones desconocidas, lo que podría poner en peligro tu dispositivo y tu información personal.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005a">
+        <item quantity="other">%1$d advertencias de privacidad</item>
+        <item quantity="one">1 advertencia de privacidad</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005b">
+        <item quantity="other">%1$d aplicaciones dañinas detectadas</item>
+        <item quantity="one">1 aplicación dañina detectada</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005c">
+        <item quantity="other">%1$d notificaciones de seguridad</item>
+        <item quantity="one">1 notificación de seguridad</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005d">
+        <item quantity="other">%1$d actualizaciones de seguridad</item>
+        <item quantity="one">1 actualización de seguridad</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005e">
+        <item quantity="other">Se han detectado %1$d aplicaciones no seguras</item>
+        <item quantity="one">Se ha detectado 1 aplicación no segura</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005f">
+        <item quantity="other">%1$d advertencias</item>
+        <item quantity="one">1 advertencia</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120060">
+        <item quantity="other">Detectadas aplicaciones no seguras</item>
+        <item quantity="one">Detectada aplicación no segura</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120061">
+        <item quantity="other">Termina dentro de %1$d horas</item>
+        <item quantity="one">Termina dentro de %1$d hora</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120062">
+        <item quantity="other">Termina dentro de %1$d días</item>
+        <item quantity="one">Termina dentro de %1$d día</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120063">
+        <item quantity="other">%1$d de %2$d pasos completados</item>
+        <item quantity="one">%1$d de %2$d paso completado</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120064">
+        <item quantity="other">%1$d aplicaciones listas para instalar</item>
+        <item quantity="one">%1$d aplicación lista para instalar</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120065">
+        <item quantity="other">%1$s va a enviarte %2$d aplicaciones. Asegúrate de que el código de vinculación coincida.</item>
+        <item quantity="one">%1$s va a enviarte %2$d aplicación. Asegúrate de que el código de vinculación coincida.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120066">
+        <item quantity="other">Recibiendo %1$d aplicaciones de %2$s…</item>
+        <item quantity="one">Recibiendo %1$d aplicación de %2$s…</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006a">
+        <item quantity="other">Esta reseña le ha parecido útil a %1$d usuarios. Marcar comentario como útil</item>
+        <item quantity="one">Esta reseña le ha parecido útil a %1$d usuario. Marcar comentario como útil</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006b">
+        <item quantity="other">Esta reseña le ha parecido útil a %1$d usuarios. Anular marca de comentario útil</item>
+        <item quantity="one">Esta reseña le ha parecido útil a %1$d usuario. Anular marca de comentario útil</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006c">
+        <item quantity="other">%1$s personas la han encontrado útil</item>
+        <item quantity="one">%1$s persona la ha encontrado útil</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006f">
+        <item quantity="other">%1$d segundos</item>
+        <item quantity="one">%1$d segundo</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120070">
+        <item quantity="other">Quedan %1$d segundos</item>
+        <item quantity="one">Queda 1 segundo</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120071">
+        <item quantity="other">%1$d seleccionadas • %2$s</item>
+        <item quantity="one">%1$d seleccionadas • %2$s</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120072">
+        <item quantity="other">Enviando %1$d aplicaciones a %2$s…</item>
+        <item quantity="one">Enviando %1$d aplicación a %2$s…</item>
+    </plurals>
+    <plurals name="setup_completed_installed">
+        <item quantity="other">%1$d aplicaciones instaladas</item>
+        <item quantity="one">%1$d aplicación instalada</item>
+    </plurals>
+    <plurals name="setup_completed_installed_with_failures">
+        <item quantity="other">No se han podido instalar %1$d de %2$d aplicaciones</item>
+        <item quantity="one">No se ha podido instalar %1$d de %2$d aplicación</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120075">
+        <item quantity="other">Utilizado por última vez hace %1$d días</item>
+        <item quantity="one">Utilizado por última vez hace %1$d día</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120076">
+        <item quantity="other">Restaurar %1$d aplicaciones seleccionadas</item>
+        <item quantity="one">Restaurar la aplicación seleccionada</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120078">
+        <item quantity="other">¿Quieres descargar %1$d nuevos idiomas?</item>
+        <item quantity="one">¿Quieres descargar un nuevo idioma?</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007b">
+        <item quantity="other">%1$d respuestas a encuestas se eliminarán permanentemente de tu cuenta.</item>
+        <item quantity="one">%1$d respuesta a encuestas se eliminará permanentemente de tu cuenta.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007c">
+        <item quantity="other">%1$d seleccionadas</item>
+        <item quantity="one">%1$d seleccionada</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007d">
+        <item quantity="other">Mostrar Play Points. %1$d puntos disponibles.</item>
+        <item quantity="one">Mostrar Play Points. %1$d punto disponible.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007e">
+        <item quantity="other">%1$d Play Points disponibles.</item>
+        <item quantity="one">%1$d Play Point disponible.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120080">
+        <item quantity="other">%1$s puntos</item>
+        <item quantity="one">1 punto</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120081">
+        <item quantity="other">Transfiriendo %1$d aplicaciones con \"%2$s\"…</item>
+        <item quantity="one">Transfiriendo %1$d aplicación con \"%2$s\"…</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120082">
+        <item quantity="other">Se desinstalarán %1$d aplicaciones del dispositivo.</item>
+        <item quantity="one">Se desinstalará %1$d aplicación del dispositivo.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120083">
+        <item quantity="other">¿Desinstalar las aplicaciones seleccionadas?</item>
+        <item quantity="one">¿Desinstalar la aplicación seleccionada?</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120084">
+        <item quantity="other">¿Desinstalar actualizaciones de las apps elegidas?</item>
+        <item quantity="one">¿Desinstalar actualizaciones de la app elegida?</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120085">
+        <item quantity="other">%1$s aplicaciones eliminadas. Hay espacio suficiente para el %2$s.</item>
+        <item quantity="one">%1$s aplicación eliminada. Hay espacio suficiente para el %2$s.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120086">
+        <item quantity="other">Se instalarán aplicaciones pronto.</item>
+        <item quantity="one">Se instalará una aplicación pronto.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120087">
+        <item quantity="other">Se instalarán actualización de aplicaciones pronto.</item>
+        <item quantity="one">Se instalará una actualización de aplicación pronto.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008a">
+        <item quantity="other">Utilizado por última vez hace %1$d días</item>
+        <item quantity="one">Utilizado por última vez hace %1$d día</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008b">
+        <item quantity="other">Utilizado por última vez hace %1$d meses</item>
+        <item quantity="one">Utilizado por última vez hace %1$d mes</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008c">
+        <item quantity="other">Para instalar aplicaciones o actualizaciones en este dispositivo, desinstala otras que ya no necesites. Para liberar espacio, también puedes eliminar archivos multimedia en Ajustes de almacenamiento.</item>
+        <item quantity="one">Para instalar una aplicación o actualización en este dispositivo, desinstala otras que ya no necesites. Para liberar espacio, también puedes eliminar archivos multimedia en Ajustes de almacenamiento.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008d">
+        <item quantity="other">Para instalar aplicaciones o actualizaciones, desinstala aplicaciones que ya no necesites. Para liberar espacio, también puedes eliminar archivos multimedia en &lt;a href=\"\">Ajustes > Almacenamiento&lt;/a>.</item>
+        <item quantity="one">Para instalar una aplicación o actualización, desinstala aplicaciones que ya no necesites. Para liberar espacio, también puedes eliminar archivos multimedia en &lt;a href=\"\">Ajustes > Almacenamiento&lt;/a>.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008e">
+        <item quantity="other">Para instalar aplicaciones o actualizaciones en este dispositivo, desinstala aplicaciones que no necesites. También puedes eliminar archivos multimedia en Ajustes > Almacenamiento para liberar espacio.</item>
+        <item quantity="one">Para instalar una aplicación o actualización en este dispositivo, desinstala aplicaciones que no necesites. También puedes eliminar archivos multimedia en Ajustes > Almacenamiento para liberar espacio.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008f">
+        <item quantity="other">%1$d aplicaciones desinstaladas</item>
+        <item quantity="one">%1$d aplicación desinstalada</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120090">
+        <item quantity="other">Hemos encontrado %1$d aplicaciones que hace tiempo que no usas. Si las desinstalas, liberarás %2$d MB de espacio de almacenamiento</item>
+        <item quantity="one">Hemos encontrado %1$d aplicación que hace tiempo que no usas. Si la desinstalas, liberarás %2$d MB de espacio de almacenamiento</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120091">
+        <item quantity="other">Empieza dentro de %1$d horas</item>
+        <item quantity="one">Empieza dentro de %1$d hora</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120092">
+        <item quantity="other">Empieza dentro de %1$d días</item>
+        <item quantity="one">Empieza dentro de %1$d día</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120093">
+        <item quantity="other">Disponible dentro de %1$d horas</item>
+        <item quantity="one">Disponible dentro de %1$d hora</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120094">
+        <item quantity="other">Disponible dentro de %1$d días</item>
+        <item quantity="one">Disponible dentro de %1$d día</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120095">
+        <item quantity="other">El sistema del dispositivo lleva sin actualizarse más de %1$d meses</item>
+        <item quantity="one">El sistema del dispositivo lleva sin actualizarse más de %1$d mes</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120096">
+        <item quantity="other">Aplicaciones de trabajo eliminadas</item>
+        <item quantity="one">Aplicación de trabajo eliminada</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120097">
+        <item quantity="other">Hace %1$d años</item>
+        <item quantity="one">Hace %1$d año</item>
+    </plurals>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bundle1_color_name">カーボン</string>
+    <string name="bundle2_color_name">紙</string>
+    <string name="bundle3_color_name">太陽</string>
+    <string name="color_name_monochromatic">モノクロ</string>
+    <string name="default_color_name">クラシック</string>
+    <string name="fruit1_color_name">黄色と赤の 2 色パレット</string>
+    <string name="fruit2_color_name">緑とオレンジ色の 2 色パレット</string>
+    <string name="fruit3_color_name">青と緑の 2 色パレット</string>
+    <string name="fruit4_color_name">明るい紫と青の 2 色パレット</string>
+    <string name="fruit5_color_name">ピンクと藍色の 2 色パレット</string>
+    <string name="rainbow1_color_name">赤</string>
+    <string name="rainbow2_color_name">オレンジ色</string>
+    <string name="rainbow3_color_name">黄色</string>
+    <string name="rainbow4_color_name">緑</string>
+    <string name="rainbow5_color_name">青</string>
+    <string name="rainbow6_color_name">藍色</string>
+    <string name="rainbow7_color_name">バイオレット</string>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dolphin_html_description">As Notificações sonoras ajudam a perceber o que está a acontecer em sua casa.&lt;br>&lt;br>Quando as Notificações sonoras estão ativadas, o dispositivo verifica permanentemente a existência de sons acerca dos quais quer receber notificações, como quando soa um detetor de fumo ou o bebé chora.&lt;br>&lt;br>O áudio e as conversas em segundo plano não são enviados para a Google, a menos que escolha enviar feedback acerca da qualidade de som.</string>
+    <string name="live_transcribe_html_description">A Transcrição instantânea mostra o discurso como texto no ecrã. Assim, pode participar nas conversas ao seu redor mais facilmente.&lt;br>&lt;br>Escreva respostas no ecrã enquanto vê a transcrição, receba alertas quando o seu nome for pronunciado e pesquise nas transcrições.&lt;br>&lt;br>A Google processa as conversas, mas nunca as guarda.</string>
+</resources>

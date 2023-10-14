@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_enable_button">Activează</string>
+    <string name="common_google_play_services_enable_text">%1$s nu va funcționa decât dacă activezi serviciile Google Play.</string>
+    <string name="common_google_play_services_enable_title">Activează serviciile Google Play</string>
+    <string name="common_google_play_services_install_button">Instalează</string>
+    <string name="common_google_play_services_install_text">%1$s nu va rula fără serviciile Google Play, care lipsesc de pe dispozitivul tău.</string>
+    <string name="common_google_play_services_install_title">Descarcă serviciile Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Disponibilitatea serviciilor Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Eroare a serviciilor Google Play</string>
+    <string name="common_google_play_services_unknown_issue">%1$s întâmpină probleme privind serviciile Google Play. Încearcă din nou.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s nu va rula fără serviciile Google Play, care nu sunt acceptate de dispozitivul tău.</string>
+    <string name="common_google_play_services_update_button">Actualizează</string>
+    <string name="common_google_play_services_update_text">%1$s nu va rula decât dacă actualizezi serviciile Google Play.</string>
+    <string name="common_google_play_services_update_title">Actualizează serviciile Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s nu va rula fără serviciile Google Play, care momentan se actualizează.</string>
+    <string name="common_google_play_services_wear_update_text">Este necesară o nouă versiune a serviciilor Google Play. Se vor actualiza automat în curând.</string>
+    <string name="common_open_on_phone">Deschide pe telefon</string>
+    <string name="native_body">Conținut</string>
+    <string name="native_headline">Titlu</string>
+    <string name="native_media_view">Afișarea fișierului media</string>
+    <string name="offline_notification_text">Atinge pentru a deschide anunțul</string>
+    <string name="offline_notification_title">Vezi anunțul salvat când erai offline</string>
+    <string name="offline_opt_in_confirm">OK</string>
+    <string name="offline_opt_in_confirmation">Vei primi o notificare cu linkul când revii online</string>
+    <string name="offline_opt_in_decline">Nu</string>
+    <string name="offline_opt_in_message">Îți vom trimite o notificare cu un link la site-ul advertiserului.</string>
+    <string name="offline_opt_in_title">Deschide anunțul când revii online.</string>
+    <string name="s1">Salvează imaginea</string>
+    <string name="s2">Permiți ca anunțul să stocheze imaginea în Galeria de fotografii?</string>
+    <string name="s3">Acceptă</string>
+    <string name="s4">Refuză</string>
+    <string name="s5">Creează un eveniment în calendar</string>
+    <string name="s6">Permiți ca anunțul să creeze un eveniment în calendar?</string>
+    <string name="s7">Anunț de probă</string>
+    <string name="watermark_label_prefix">AdMob –</string>
+</resources>

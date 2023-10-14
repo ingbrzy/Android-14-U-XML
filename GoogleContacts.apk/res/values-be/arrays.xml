@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="known_activity_embedding_certs">
+        <item>5859f2ff42b831b87bd78002e2b8de35ea0fc35adb57813fc10f2b9b87d7ada9</item>
+        <item>3257d599a49d2c961a471ca9843f59d341a405884583fc087df4237b733bbd6d</item>
+    </string-array>
+</resources>

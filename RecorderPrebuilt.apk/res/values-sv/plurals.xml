@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dlg_message_deletion_confirmation">
+        <item quantity="other">Inspelningarna raderas permanent. Det går inte att ångra åtgärden.</item>
+        <item quantity="one">Inspelningen raderas permanent. Det går inte att ångra åtgärden.</item>
+    </plurals>
+    <plurals name="dlg_message_deletion_permanent_confirmation">
+        <item quantity="other">Inspelningarna säkerhetskopieras inte. De raderas permanent. Det går inte att ångra den här åtgärden.</item>
+        <item quantity="one">Inspelningen säkerhetskopieras inte. Den raderas permanent. Det går inte att ångra den här åtgärden.</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_confirmation">
+        <item quantity="other">Vill du radera inspelningarna?</item>
+        <item quantity="one">Vill du radera inspelningen?</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_permanent_confirmation">
+        <item quantity="other">Vill du radera de här inspelningarna permanent?</item>
+        <item quantity="one">Vill du radera den här inspelningen permanent?</item>
+    </plurals>
+    <plurals name="download_failure_description_storage_full">
+        <item quantity="other">Det går inte att ladda ned inspelningar eftersom lagringsutrymmet är fullt. Tryck för att granska.</item>
+        <item quantity="one">Enhetens lagringsutrymme är fullt. Tryck för att granska.</item>
+    </plurals>
+    <plurals name="downloading_description">
+        <item quantity="other">Laddar ned %1$d inspelningar</item>
+        <item quantity="one">Laddar ner %1$d inspelning</item>
+    </plurals>
+    <plurals name="og_backup_failed_title">
+        <item quantity="other">Det gick inte att säkerhetskopiera %1$d objekt</item>
+        <item quantity="one">Det gick inte att säkerhetskopiera %1$d objekt</item>
+    </plurals>
+    <plurals name="og_backup_items_left">
+        <item quantity="other">%1$d objekt kvar</item>
+        <item quantity="one">%1$d objekt kvar</item>
+    </plurals>
+    <plurals name="og_backup_items_stopped_title">
+        <item quantity="other">%1$d objekt har inte säkerhetskopierats</item>
+        <item quantity="one">%1$d objekt har inte säkerhetskopierats</item>
+    </plurals>
+    <plurals name="peoplekit_chips_copied_recipients">
+        <item quantity="other">%d mottagare kopierades</item>
+        <item quantity="one">%d mottagare kopierades</item>
+    </plurals>
+    <plurals name="search_results_count">
+        <item quantity="other">%1$d resultat</item>
+        <item quantity="one">%1$d resultat</item>
+    </plurals>
+    <plurals name="search_results_position">
+        <item quantity="other">^1/^2 resultat</item>
+        <item quantity="one">^1/^2 resultat</item>
+    </plurals>
+    <plurals name="search_results_position_content_description">
+        <item quantity="other">%1$d av %2$d resultat</item>
+        <item quantity="one">%1$d av %2$d resultat</item>
+    </plurals>
+    <plurals name="selected_recording_quantity">
+        <item quantity="other">%1$d har valts</item>
+        <item quantity="one">%1$d har valts</item>
+    </plurals>
+    <plurals name="snackbar_message_download_failed_storage_full">
+        <item quantity="other">Enhetens lagringsutrymme är fullt. Det går inte att ladda ned inspelningarna.</item>
+        <item quantity="one">Enhetens lagringsutrymme är fullt. Det går inte att ladda ned inspelningen.</item>
+    </plurals>
+    <plurals name="speaker_count">
+        <item quantity="other">%1$d högtalare</item>
+        <item quantity="one">%1$d högtalare</item>
+    </plurals>
+    <plurals name="uploading_description">
+        <item quantity="other">%1$d inspelningar laddas upp</item>
+        <item quantity="one">%1$d inspelning laddas upp</item>
+    </plurals>
+</resources>

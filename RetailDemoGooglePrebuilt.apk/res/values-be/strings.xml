@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_retaildemoCommunication">Праграма зможа ўзаемадзейнічаць з праграмай \"Дэмаверсіі сэрвісаў\". Гэты дазвол можна даць толькі праграме \"Дэмарэжым для пунктаў продажу\". Маючы такі дазвол, праграма зможа запускаць дзеянні, зарэзерваваныя выключна для дэманстрацыйнага рэжыму ў пунктах продажу.</string>
+    <string name="permlab_retaildemoCommunication">Сувязь з праграмай Retail Demo Services</string>
+    <string name="retaildemo_preload_app_name">Retail Demo Services</string>
+</resources>

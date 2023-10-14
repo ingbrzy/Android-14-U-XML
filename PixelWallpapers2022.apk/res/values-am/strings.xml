@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="azure_title">ደማቅ ሰማያዊ ጄይ</string>
+    <string name="blackswan_title">ጥቁር ዝይ</string>
+    <string name="cockatoo_title">ኮካቱ</string>
+    <string name="come_alive_title">ነፍስ ያዝሩ</string>
+    <string name="feathers_attribution">ፎቶ በአንድሪው ዘከርማን</string>
+    <string name="feathers_description">በቀለም እና በዝርዝር የተሞላ የላባ ማሳያ</string>
+    <string name="feathers_title">ላባዎች</string>
+    <string name="greenwinged_title">ባለ አረንጓዴ ክንፍ ማካው</string>
+    <string name="king_title">ንጉስ ጥንብ አንሳ</string>
+    <string name="living_universe_title">ሕያው ሁለንተና</string>
+    <string name="photos_memory_gallery_title">የእርስዎ ትውስታዎች</string>
+    <string name="pied_title">ባለ ከፊል ቀለም ቁራ</string>
+    <string name="ringnecked_title">ባለ ቀለበት አንገት ፓራኪት</string>
+    <string name="seagull_title">ሳቢሳ</string>
+</resources>

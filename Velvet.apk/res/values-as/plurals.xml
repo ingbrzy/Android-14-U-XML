@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="other">%d দিন আগতে</item>
+        <item quantity="one">%d দিন আগতে</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="other">%d মিনিট আগতে</item>
+        <item quantity="one">%d মিনিট আগতে</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="other">%d বছৰ আগতে</item>
+        <item quantity="one">%d বছৰ আগতে</item>
+    </plurals>
+    <plurals name="assistant_custodio_device_list_fragment_legacy_linking_item_text">
+        <item quantity="other">%d devices available</item>
+        <item quantity="one">%d device available</item>
+    </plurals>
+    <plurals name="assistant_custodio_device_list_home_section_subtitle_text">
+        <item quantity="other">%d devices</item>
+        <item quantity="one">%d device</item>
+    </plurals>
+    <plurals name="assistant_holiday_alarms_notification_content_text">
+        <item quantity="other">Tap to pause or cancel your alarms</item>
+        <item quantity="one">Tap to pause or cancel your %s alarm</item>
+    </plurals>
+    <plurals name="assistant_holiday_alarms_notification_pause_button_text">
+        <item quantity="other">Pause your alarms for the holiday</item>
+        <item quantity="one">Pause your %s alarm for the holiday</item>
+    </plurals>
+    <plurals name="assistant_post_task_migration_succeed_notification_title">
+        <item quantity="other">%1$d reminders set up in Google Tasks</item>
+        <item quantity="one">%1$d reminder set up in Google Tasks</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">প্ৰতি %d দিনত</item>
+        <item quantity="one">প্ৰতি %d দিনত</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; %d বাৰ</item>
+        <item quantity="one">; %d বাৰ</item>
+    </plurals>
+    <plurals name="fa_message_preview_card_num_of_audio_messages">
+        <item quantity="other">%1$d audio messages</item>
+        <item quantity="one">%1$d audio message</item>
+    </plurals>
+    <plurals name="fa_message_preview_card_num_of_pictures">
+        <item quantity="other">%1$d pictures</item>
+        <item quantity="one">%1$d picture</item>
+    </plurals>
+    <plurals name="fa_message_preview_card_num_of_videos">
+        <item quantity="other">%1$d videos</item>
+        <item quantity="one">%1$d video</item>
+    </plurals>
+    <plurals name="gestalt_duration_in_days_short">
+        <item quantity="other">%1$d days</item>
+        <item quantity="one">%1$d day</item>
+    </plurals>
+    <plurals name="gestalt_duration_in_hours_short">
+        <item quantity="other">%1$d hours</item>
+        <item quantity="one">%1$d hour</item>
+    </plurals>
+    <plurals name="gestalt_duration_in_minutes_short">
+        <item quantity="other">%1$d mins</item>
+        <item quantity="one">%1$d min</item>
+    </plurals>
+    <plurals name="gestalt_duration_in_months_short">
+        <item quantity="other">%1$d months</item>
+        <item quantity="one">%1$d month</item>
+    </plurals>
+    <plurals name="gestalt_duration_in_years_short">
+        <item quantity="other">%1$d years</item>
+        <item quantity="one">%1$d year</item>
+    </plurals>
+    <plurals name="lens_region_search_area_percent">
+        <item quantity="other">%1$s %2$d percent</item>
+        <item quantity="one">%1$s %2$d percent</item>
+    </plurals>
+    <plurals name="monthly_interval">
+        <item quantity="other">প্ৰতি %1$d মাহত</item>
+        <item quantity="one">প্ৰতি %1$d মাহত</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d new notifications</item>
+        <item quantity="one">%d new notification</item>
+    </plurals>
+    <plurals name="peoplekit_chips_copied_recipients">
+        <item quantity="other">%d গৰাকী প্ৰাপকৰ নাম প্ৰতিলিপি কৰা হ’ল</item>
+        <item quantity="one">%d গৰাকী প্ৰাপকৰ নাম প্ৰতিলিপি কৰা হ’ল</item>
+    </plurals>
+    <plurals name="podcasts_days_ago">
+        <item quantity="other">%1$d days ago</item>
+        <item quantity="one">%1$d day ago</item>
+    </plurals>
+    <plurals name="podcasts_days_left_to_remove_downloads">
+        <item quantity="other">After %1$d days</item>
+        <item quantity="one">After %1$d day</item>
+    </plurals>
+    <plurals name="podcasts_enabled_podcasts_number_label">
+        <item quantity="other">Enabled for %1$d out of %2$d podcasts</item>
+        <item quantity="one">Enabled for %1$d out of %2$d podcasts</item>
+    </plurals>
+    <plurals name="podcasts_episode_list_title_text">
+        <item quantity="other">%1$d Episodes</item>
+        <item quantity="one">%1$d Episode</item>
+    </plurals>
+    <plurals name="podcasts_hours_abbreviated">
+        <item quantity="other">%s hr</item>
+        <item quantity="zero">%s hr</item>
+        <item quantity="one">%s hr</item>
+        <item quantity="two">%s hr</item>
+        <item quantity="few">%s hr</item>
+        <item quantity="many">%s hr</item>
+    </plurals>
+    <plurals name="podcasts_hours_ago">
+        <item quantity="other">%1$d hours ago</item>
+        <item quantity="one">%1$d hour ago</item>
+    </plurals>
+    <plurals name="podcasts_hours_left_to_remove_downloads">
+        <item quantity="other">After %1$d hours</item>
+        <item quantity="one">After %1$d hour</item>
+    </plurals>
+    <plurals name="podcasts_minutes_abbreviated">
+        <item quantity="other">%s min</item>
+        <item quantity="zero">%s min</item>
+        <item quantity="one">%s min</item>
+        <item quantity="two">%s min</item>
+        <item quantity="few">%s min</item>
+        <item quantity="many">%s min</item>
+    </plurals>
+    <plurals name="podcasts_minutes_ago">
+        <item quantity="other">%1$d mins ago</item>
+        <item quantity="one">%1$d min ago</item>
+    </plurals>
+    <plurals name="public_notification_text">
+        <item quantity="other">%1$d টা নতুন জাননী</item>
+        <item quantity="one">%1$d টা নতুন জাননী</item>
+    </plurals>
+    <plurals name="readaloud_number_of_minutes">
+        <item quantity="other">%d মিনিট</item>
+        <item quantity="one">%d মিনিট</item>
+    </plurals>
+    <plurals name="readaloud_number_of_seconds">
+        <item quantity="other">%d ছেকেণ্ড</item>
+        <item quantity="one">%d ছেকেণ্ড</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">%dটা কাৰ্যক্ৰমৰ বাবে</item>
+        <item quantity="one">%dটা কাৰ্যক্ৰমৰ বাবে</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">প্ৰতি %d দিনত</item>
+        <item quantity="one">প্ৰতি %d দিনত</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">প্ৰতি %d মাহত</item>
+        <item quantity="one">প্ৰতি %d মাহত</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">প্ৰতি %d সপ্তাহত</item>
+        <item quantity="one">প্ৰতি %d সপ্তাহত</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">প্ৰতি %d বছৰত</item>
+        <item quantity="one">প্ৰতি %d বছৰত</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">প্ৰতি %1$d সপ্তাহৰ %2$sত</item>
+        <item quantity="one">প্ৰতি %1$d সপ্তাহৰ %2$sত</item>
+    </plurals>
+    <plurals name="yearly_interval_plain">
+        <item quantity="other">প্ৰতি %1$d বছৰত</item>
+        <item quantity="one">প্ৰতি %1$d বছৰত</item>
+    </plurals>
+</resources>

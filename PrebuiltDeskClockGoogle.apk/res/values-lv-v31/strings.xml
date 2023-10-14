@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="analog_gadget">Analogais</string>
+    <string name="digital_gadget">Digitālais</string>
+    <string name="analog_widget_clover_clock_name">Āboliņš</string>
+    <string name="analog_widget_clover_content_description">Pulksteņa ekrāns āboliņa formā</string>
+    <string name="analog_widget_config_activity_title">Atlasiet pulksteņa ekrānu</string>
+    <string name="analog_widget_day_clock_name">Diena</string>
+    <string name="analog_widget_day_content_description">Pulksteņa ekrāns ar mēneša dienu</string>
+    <string name="analog_widget_numeral_clock_name">Cipari</string>
+    <string name="analog_widget_numeral_content_description">Pulksteņa ekrāns ar lieliem cipariem</string>
+    <string name="analog_widget_scallop_clock_name">Gliemežvāka forma</string>
+    <string name="analog_widget_scallop_content_description">Pulksteņa ekrāns ar nedēļas un mēneša dienu</string>
+    <string name="cities_widget_config_activity_subtitle">Varat pievienot pilsētas cilnē Pulkstenis</string>
+    <string name="cities_widget_config_activity_subtitle_button">Izvēlēties pilsētas lietotnē Pulkstenis</string>
+    <string name="cities_widget_preview_city_london">Londona</string>
+    <string name="cities_widget_preview_city_mountain_view">Mauntinvjū</string>
+    <string name="clock_widget_opaque_label">Necaurspīdīgs</string>
+    <string name="clock_widget_transparent_label">Caurspīdīgs</string>
+    <string name="digital_appwidget_config_activity_title">Izvēlieties pulksteņa stilu</string>
+    <string name="digital_cities_gadget">Pasaule</string>
+    <string name="digital_cities_gadget_description">Izvēlieties pilsētas lietotnē Pulkstenis</string>
+    <string name="digital_stacked_gadget">Vertikāls</string>
+    <string name="digital_widgets_preview_alarm">Pirmdiena, 9:30</string>
+    <string name="stopwatch_gadget_description">Kontrolējiet hronometru lietotnē Pulkstenis</string>
+</resources>

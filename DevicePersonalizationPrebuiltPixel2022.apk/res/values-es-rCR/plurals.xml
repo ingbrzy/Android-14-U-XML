@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="numberOfExtraItems">
+        <item quantity="other">+%d elementos</item>
+        <item quantity="one">+%d elemento</item>
+    </plurals>
+    <plurals name="song_card_multi_subtitle">
+        <item quantity="other">Se seleccionaron %d elementos</item>
+        <item quantity="one">Se seleccionó %d elemento</item>
+    </plurals>
+    <plurals name="translate_language_chooser_summary">
+        <item quantity="other">Subtítulos en %d idiomas</item>
+        <item quantity="one">Subtítulos en %d idioma</item>
+        <item quantity="many">Captions in %d languages</item>
+    </plurals>
+</resources>

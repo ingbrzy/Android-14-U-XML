@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_retaildemoCommunication">允许应用与零售演示模式服务交互。只能为零售演示模式应用授予此权限。获得此权限的应用可以触发为零售演示模式预留的操作。</string>
+    <string name="permlab_retaildemoCommunication">零售演示模式通信</string>
+    <string name="retaildemo_preload_app_name">Retail Demo Services</string>
+</resources>

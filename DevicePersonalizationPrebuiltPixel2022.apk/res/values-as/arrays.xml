@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="call_captions_typing_predictions_post_system_message">
+        <item>নমস্কাৰ, এয়া কোন?</item>
+        <item>নমস্কাৰ, আপুনি কেনে আছে?</item>
+        <item>অনুগ্ৰহ কৰি এক মিনিট হ’ল্ড কৰক</item>
+        <item>নমস্কাৰ, আপুনি পাছত কল কৰিব পাৰিব নেকি?</item>
+        <item>নমস্কাৰ! কল কৰাৰ বাবে ধন্যবাদ।</item>
+    </string-array>
+    <string-array name="captions_settings_enable_for_calls_choices_entries">
+        <item>প্ৰতিবাৰতে সোধক</item>
+        <item>সদায়</item>
+        <item>অফ আছে</item>
+    </string-array>
+    <string-array name="captions_settings_typing_voice_names">
+        <item>কণ্ঠস্বৰ A</item>
+        <item>কণ্ঠস্বৰ B</item>
+        <item>কণ্ঠস্বৰ C</item>
+        <item>কণ্ঠস্বৰ D</item>
+        <item>কণ্ঠস্বৰ E</item>
+        <item>কণ্ঠস্বৰ F</item>
+        <item>কণ্ঠস্বৰ G</item>
+        <item>কণ্ঠস্বৰ H</item>
+        <item>কণ্ঠস্বৰ I</item>
+        <item>কণ্ঠস্বৰ J</item>
+        <item>কণ্ঠস্বৰ K</item>
+        <item>কণ্ঠস্বৰ L</item>
+        <item>কণ্ঠস্বৰ M</item>
+        <item>কণ্ঠস্বৰ N</item>
+        <item>কণ্ঠস্বৰ O</item>
+        <item>কণ্ঠস্বৰ P</item>
+    </string-array>
+    <string-array name="pref_download_policy_entries">
+        <item>ম’বাইল + ৱাই-ফাই</item>
+        <item>কেৱল ৱাই-ফাই</item>
+        <item>আপডে’ট নকৰিব</item>
+    </string-array>
+    <string-array name="pref_download_policy_entry_values_placeholder">
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+</resources>

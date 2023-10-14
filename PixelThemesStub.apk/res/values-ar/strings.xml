@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bundle1_color_name">سواد الفحم</string>
+    <string name="bundle2_color_name">ورق</string>
+    <string name="bundle3_color_name">شمس</string>
+    <string name="color_name_monochromatic">أحادي اللون</string>
+    <string name="default_color_name">كلاسيكي</string>
+    <string name="fruit1_color_name">لوحة ألوان من اللونَين الأصفر والأحمر</string>
+    <string name="fruit2_color_name">لوحة ألوان من اللونَين الأخضر والبرتقالي</string>
+    <string name="fruit3_color_name">لوحة ألوان من اللونَين الأزرق والأخضر</string>
+    <string name="fruit4_color_name">لوحة ألوان من اللونَين الأزرق والأرجواني الفاتح</string>
+    <string name="fruit5_color_name">لوحة ألوان من اللونَين الوردي والنيلي</string>
+    <string name="rainbow1_color_name">أحمر</string>
+    <string name="rainbow2_color_name">برتقالي</string>
+    <string name="rainbow3_color_name">أصفر</string>
+    <string name="rainbow4_color_name">أخضر</string>
+    <string name="rainbow5_color_name">أزرق</string>
+    <string name="rainbow6_color_name">نيلي</string>
+    <string name="rainbow7_color_name">بنفسجي</string>
+</resources>

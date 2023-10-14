@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="azure_title">I-Azure jay</string>
+    <string name="blackswan_title">I-Black swan</string>
+    <string name="cockatoo_title">I-Cockatoo</string>
+    <string name="come_alive_title">Phila</string>
+    <string name="feathers_attribution">Isithombe sika-Andrew Zuckerman</string>
+    <string name="feathers_description">Isibonisi esinezimpaphe sombala nemininingwane</string>
+    <string name="feathers_title">Izinsiba</string>
+    <string name="greenwinged_title">I-Green-winged macaw</string>
+    <string name="king_title">I-King vulture</string>
+    <string name="living_universe_title">I-universe Ephilayo</string>
+    <string name="photos_memory_gallery_title">Izinkumbulo zakho</string>
+    <string name="pied_title">I-Pied crow</string>
+    <string name="ringnecked_title">I-Ring-necked parakeet</string>
+    <string name="seagull_title">I-Seagull</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="calendar_default_name">ডিফল্ট</string>
+    <string name="calendar_info">ক্যালেন্ডার সংক্রান্ত তথ্য</string>
+    <string name="calendar_info_error">সমস্যা</string>
+    <string name="calendar_info_events">ইভেন্ট: %1$d</string>
+    <string name="calendar_info_events_dirty">ইভেন্ট: %1$d, সেভ করা নয়: %2$d</string>
+    <string name="calendar_info_no_calendars">কোনও ক্যালেন্ডার নেই</string>
+    <string name="calendar_storage">ক্যালেন্ডারের স্টোরেজ</string>
+    <string name="debug_tool_delete_button">এখনই মুছে দিন</string>
+    <string name="debug_tool_email_body">অ্যাটাচমেন্টটি হল সব অ্যাপয়েন্টমেন্ট ও ব্যক্তিগত তথ্য সহ আমার Calendar-এর ডেটাবেস। সাবধানে ব্যবহার করবেন।</string>
+    <string name="debug_tool_email_sender_picker">আপনার ফাইল পাঠানোর জন্য একটি প্রোগ্রাম বেছে নিন</string>
+    <string name="debug_tool_email_subject">ক্যালেন্ডার Db অ্যাচাট করা হয়েছে</string>
+    <string name="debug_tool_message">আপনি ১) SD কার্ড/USB স্টোরেজে যেকোনও অ্যাপের উপযোগী ক্যালেন্ডার ডেটাবেসের কপি করতে এবং ২) সেটিকে ইমেল করতে চলেছেন। ডিভাইস থেকে এটি কপি হয়ে গেলে অথবা ইমেল পাওয়ার পরেই, মনে করে কপিটি মুছে ফেলবেন।</string>
+    <string name="debug_tool_start_button">শুরু করুন</string>
+    <string name="provider_label">ক্যালেন্ডার</string>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="switch_access_htmlDescription">"Vous pouvez vous servir des commutateurs pour sélectionner des éléments, faire défiler l'écran, taper du texte et plus."</string>
+    <string name="switch_access_intro">"Les commutateurs peuvent vous aider à contrôler votre appareil Android si l'interaction directe avec l'écran tactile pose problème. Un commutateur peut être connecté à votre appareil de manière externe, comme c'est le cas pour un clavier ou un grand bouton."</string>
+</resources>

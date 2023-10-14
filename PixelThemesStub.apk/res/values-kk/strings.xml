@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bundle1_color_name">Көмір</string>
+    <string name="bundle2_color_name">Қағаз</string>
+    <string name="bundle3_color_name">Күн</string>
+    <string name="color_name_monochromatic">Монохром</string>
+    <string name="default_color_name">Классика</string>
+    <string name="fruit1_color_name">Екі түсті палитра (сары және қызыл)</string>
+    <string name="fruit2_color_name">Екі түсті палитра (жасыл және қызғылт сары)</string>
+    <string name="fruit3_color_name">Екі түсті палитра (көк және жасыл)</string>
+    <string name="fruit4_color_name">Екі түсті палитра (ашық күлгін және көк)</string>
+    <string name="fruit5_color_name">Екі түсті палитра (қызғылт және индиго)</string>
+    <string name="rainbow1_color_name">Қызыл</string>
+    <string name="rainbow2_color_name">Қызғылт сары</string>
+    <string name="rainbow3_color_name">Сары</string>
+    <string name="rainbow4_color_name">Жасыл</string>
+    <string name="rainbow5_color_name">Көк</string>
+    <string name="rainbow6_color_name">Индиго</string>
+    <string name="rainbow7_color_name">Күлгін</string>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dots">
+        <item quantity="other">nöqtələr %s</item>
+        <item quantity="one">nöqtə %s</item>
+    </plurals>
+    <plurals name="gestures_recorded_message">
+        <item quantity="other">%d jest yazılıb</item>
+        <item quantity="one">1 jest yazılıb</item>
+    </plurals>
+    <plurals name="label_num_keys_assigned_format">
+        <item quantity="other">%d açar təyin edilib</item>
+        <item quantity="one">%d açar təyin edilib</item>
+    </plurals>
+    <plurals name="label_num_scanning_loops_format">
+        <item quantity="other">%d dövrə</item>
+        <item quantity="one">%d dövrə</item>
+    </plurals>
+    <plurals name="line_speed_summary_format">
+        <item quantity="other">Saniyədə %.2f sm</item>
+        <item quantity="one">Saniyədə 1 sm</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d yeni bildiriş</item>
+        <item quantity="one">%d yeni bildiriş</item>
+    </plurals>
+    <plurals name="time_delay_summary_format">
+        <item quantity="other">%.2f saniyə</item>
+        <item quantity="one">1 saniyə</item>
+    </plurals>
+</resources>

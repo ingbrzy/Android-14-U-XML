@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="switch_access_htmlDescription">Você pode usar interruptores para selecionar itens, rolar, digitar e muito mais.</string>
+    <string name="switch_access_intro">O uso de interruptores pode ajudar você a controlar seu dispositivo Android caso tenha dificuldade para interagir diretamente com a tela touchscreen. Um interruptor pode ser conectado externamente ao dispositivo, como um teclado ou um botão grande.</string>
+</resources>

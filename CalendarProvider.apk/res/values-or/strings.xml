@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="calendar_default_name">ଡିଫଲ୍ଟ</string>
+    <string name="calendar_info">କ୍ୟାଲେଣ୍ଡର ସୂଚନା</string>
+    <string name="calendar_info_error">ତ୍ରୁଟି</string>
+    <string name="calendar_info_events">ଇଭେଣ୍ଟ: %1$d</string>
+    <string name="calendar_info_events_dirty">ଇଭେଣ୍ଟ: %1$d, ସେଭ ହୋଇନଥିବା: %2$d</string>
+    <string name="calendar_info_no_calendars">କୌଣସି କ୍ୟାଲେଣ୍ଡର ନାହିଁ</string>
+    <string name="calendar_storage">କ୍ୟାଲେଣ୍ଡର ଷ୍ଟୋରେଜ</string>
+    <string name="debug_tool_delete_button">ଏବେ ଡିଲିଟ କରନ୍ତୁ</string>
+    <string name="debug_tool_email_body">ମୋର ସମସ୍ତ ଆପଏଣ୍ଟମେଣ୍ଟ ଏବଂ ବ୍ୟକ୍ତିଗତ ସୂଚନା ସହ ମୋ କ୍ୟାଲେଣ୍ଡର ଡାଟାବେସ ଆଟାଚ କରାଯାଇଛି। ଯତ୍ନର ସହ ପରିଚାଳନା କରନ୍ତୁ।</string>
+    <string name="debug_tool_email_sender_picker">ଆପଣଙ୍କ ଫାଇଲ ପଠାଇବାକୁ ଏକ ପ୍ରୋଗ୍ରାମ ବାଛନ୍ତୁ</string>
+    <string name="debug_tool_email_subject">କ୍ୟାଲେଣ୍ଡର Db ଆଟାଚ କରାଯାଇଛି</string>
+    <string name="debug_tool_message">ଆପଣ 1) SD କାର୍ଡ/USB ଷ୍ଟୋରେଜରେ ଆପଣଙ୍କ କ୍ୟାଲେଣ୍ଡର ଡାଟାବେସର ଏକ କପି ତିଆରି କରିବାକୁ ଯାଉଛନ୍ତି, ଯାହା ଯେ କୌଣସି ଆପ ଦ୍ୱାରା ପଢ଼ାଯାଇପାରିବ ଏବଂ 2) ଏହାକୁ ଇମେଲ କରିବାକୁ ଯାଉଛନ୍ତି। ଡିଭାଇସରୁ ସଫଳତାର ସହ ଆପଣ ଏହାକୁ କପି କରିବା କିମ୍ବା ଇମେଲ ପ୍ରାପ୍ତ କରାଯିବା ମାତ୍ରେ କପିକୁ ଡିଲିଟ କରିବା ପାଇଁ ମନେରଖନ୍ତୁ।</string>
+    <string name="debug_tool_start_button">ଆରମ୍ଭ କରନ୍ତୁ</string>
+    <string name="provider_label">କ୍ୟାଲେଣ୍ଡର</string>
+</resources>

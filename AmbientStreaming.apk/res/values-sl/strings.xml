@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Storitve za zunanje naprave</string>
+    <string name="app_name_generic">aplikacija</string>
+    <string name="app_stream_error_generic">Med deljenjem aplikacije je prišlo do napake.</string>
+    <string name="app_stream_init_error_generic">Deljenje aplikacije s Chromebookom ni bilo uspešno.</string>
+    <string name="audio_permission_rationale">Dovoljenje za mikrofon ni omogočeno za deljenje aplikacije.</string>
+    <string name="cancel_button_label">Prekliči</string>
+    <string name="chromebook_keyboard">Tipkovnica Chromebooka</string>
+    <string name="chromebook_mouse">Miška Chromebooka</string>
+    <string name="chromebook_touchscreen">Zaslon na dotik Chromebooka</string>
+    <string name="connect_device">Povezovanje telefona z oddaljeno napravo: %1$s</string>
+    <string name="decline_button_label">Zavrni</string>
+    <string name="development_notification_channel_name">Razvoj</string>
+    <string name="device_camera_cannot_access">Dostop do fotoaparata v napravi ni mogoč iz tega Chromebooka.</string>
+    <string name="done_button_label">Končano</string>
+    <string name="enable_button_label">Omogoči</string>
+    <string name="foreground_service_notification_channel_name">Splošno</string>
+    <string name="foreground_service_notification_content">Dotaknite se, če želite spremeniti nastavitve.</string>
+    <string name="foreground_service_notification_title">{0,plural, =1{Povezano z # napravo}one{Povezano z # napravo}two{Povezano s toliko napravami: #}few{Povezano s toliko napravami: #}other{Povezano s toliko napravami: #}}</string>
+    <string name="interactive_streaming_generic_notification">Pretočno predvajanje aplikacije %1$s in sinhroniziranje obvestil za Chromebook</string>
+    <string name="interactive_streaming_individual_notification">Predvajanje aplikacije %1$s in sinhronizacija obvestil za %2$s</string>
+    <string name="interactive_streaming_notification">Pretočno predvajanje v Chromebooku</string>
+    <string name="keyboard_name">Zunanja tipkovnica</string>
+    <string name="lock_screen_notif_warning_content">Omogočite prikaz obvestil na zaklenjenem zaslonu.</string>
+    <string name="lock_screen_notif_warning_title">Obvestila ne bodo posredovana.</string>
+    <string name="mouse_name">Zunanja miška</string>
+    <string name="new_connection_confirm">Potrdi</string>
+    <string name="new_connection_deny">Zavrni</string>
+    <string name="new_connection_title">Potrdi ujemanje niza</string>
+    <string name="notification_access_missing">Potreben je dostop do obvestil</string>
+    <string name="notification_access_missing_description">Če želite obvestila odpreti v Chromebooku, vklopite dostop do obvestil.</string>
+    <string name="notification_channel_name">Splošno</string>
+    <string name="notification_listener_label">Deljenje aplikacij s Chromebookom</string>
+    <string name="open_source_licenses">Odprtokodne licence</string>
+    <string name="phone_permission_rationale">Dovoljenje za telefonske klice ni omogočeno za deljenje aplikacije.</string>
+    <string name="prompt_switch_languages">Za preklop na jezik Gboarda v telefonu pritisnite tipko Shift in preslednico.</string>
+    <string name="settings_button">Nastavitve</string>
+    <string name="stop_sharing_button">Končaj predvajanje</string>
+    <string name="stream_termination_proximity_warning">Telefon je predaleč. Približajte ga, če želite nadaljevati s pretočnim predvajanjem.</string>
+    <string name="substitute_app_name">Sistem</string>
+    <string name="summary_disable_wirecutter">Izklopljeno</string>
+    <string name="summary_enable_wirecutter">Vklopljeno</string>
+    <string name="touchscreen_name">Zunanji zaslon na dotik</string>
+</resources>

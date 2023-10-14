@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="calendar_default_name">Կանխադրված</string>
+    <string name="calendar_info">Օրացույցի տեղեկություններ</string>
+    <string name="calendar_info_error">Սխալ</string>
+    <string name="calendar_info_events">Միջոցառումներ՝ %1$d</string>
+    <string name="calendar_info_events_dirty">Միջոցառումներ՝ %1$d, չպահված՝ %2$d</string>
+    <string name="calendar_info_no_calendars">Օրացույցներ չկան</string>
+    <string name="calendar_storage">Օրացույցի տարածք</string>
+    <string name="debug_tool_delete_button">Ջնջել</string>
+    <string name="debug_tool_email_body">Հաղորդագրությանը կցված է իմ օրացույցի տվյալների շտեմարանը՝ բոլոր հանդիպումներով և անձնական տեղեկություններով։ Վերաբերվեք խնամքով։</string>
+    <string name="debug_tool_email_sender_picker">Ընտրեք ծրագիր՝ ֆայլն ուղարկելու համար</string>
+    <string name="debug_tool_email_subject">Օրացույցի տվյալների շտեմարանը կցված է</string>
+    <string name="debug_tool_message">Դուք պատրաստվում եք 1) պատճենել ձեր օրացույցի տվյալների շտեմարանը SD քարտում/USB կրիչում, որն ընթեռնելի է ցանկացած հավելվածի կողմից և 2) էլփոստով ուղարկել այն։ Չմոռանաք ջնջել պատճենը՝ այն սարքից դուրս տեղափոխելուց կամ էլփոստով ուղարկելուց անմիջապես հետո։</string>
+    <string name="debug_tool_start_button">Սկսել</string>
+    <string name="provider_label">Օրացույց</string>
+</resources>

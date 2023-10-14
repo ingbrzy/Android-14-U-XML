@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dots">
+        <item quantity="other">pikat %s</item>
+        <item quantity="one">pika %s</item>
+    </plurals>
+    <plurals name="gestures_recorded_message">
+        <item quantity="other">U regjistruan %d gjeste</item>
+        <item quantity="one">U regjistrua 1 gjest</item>
+    </plurals>
+    <plurals name="label_num_keys_assigned_format">
+        <item quantity="other">%d çelësa të caktuar</item>
+        <item quantity="one">%d çelës i caktuar</item>
+    </plurals>
+    <plurals name="label_num_scanning_loops_format">
+        <item quantity="other">%d cikle</item>
+        <item quantity="one">%d cikël</item>
+    </plurals>
+    <plurals name="line_speed_summary_format">
+        <item quantity="other">%.2f cm për sekondë</item>
+        <item quantity="one">1 cm për sekondë</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d njoftime të reja</item>
+        <item quantity="one">%d njoftim i ri</item>
+    </plurals>
+    <plurals name="time_delay_summary_format">
+        <item quantity="other">%.2f sekonda</item>
+        <item quantity="one">1 sekondë</item>
+    </plurals>
+</resources>

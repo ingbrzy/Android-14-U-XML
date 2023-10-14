@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_retaildemoCommunication">Appen tillåts behörighet att användas med Tjänster för demo för återförsäljare. Endast Återförsäljardemo bör ha den här behörigheten. Appar som har den här behörigheten kan aktivera åtgärder i Återförsäljardemo-läget.</string>
+    <string name="permlab_retaildemoCommunication">Kommunikation för demo för återförsäljare</string>
+    <string name="retaildemo_preload_app_name">Demoförsäljartjänst</string>
+</resources>

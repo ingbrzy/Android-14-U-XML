@@ -1,0 +1,1440 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="MSG_DEFAULT_DISPLAY_NAME">فضای نامشخص</string>
+    <string name="MSG_UNDO_TASKS_COMPLETED">{NUM_TASKS_COMPLETED,plural, =1{تکلیف تکمیل شد}one{‏# تکلیف تکمیل شد}other{‏# تکلیف تکمیل شد}}</string>
+    <string name="MSG_UNDO_TASKS_DELETED">{NUM_TASKS_DELETED,plural, =1{کار حذف شد}one{‏# کار حذف شد}other{‏# کار حذف شد}}</string>
+    <string name="MSG_UNDO_TASKS_MOVED">{NUM_TASKS_MOVED,plural, =1{تکلیف به {TITLE} منتقل شد}one{‏# تکلیف به {TITLE} منتقل شد}other{‏# تکلیف به {TITLE} منتقل شد}}</string>
+    <string name="MSG_UNDO_TASKS_UNCOMPLETED">{NUM_TASKS_UNCOMPLETED,plural, =1{تکلیف به‌عنوان تکمیل‌نشده علامت‌گذاری شد}one{‏# تکلیف به‌عنوان تکمیل‌نشده علامت‌گذاری شد}other{‏# تکلیف به‌عنوان تکمیل‌نشده علامت‌گذاری شد}}</string>
+    <string name="MSG_UNDO_TASK_UNSTARRED">تکلیف از «موارد ستاره‌دار» حذف شد</string>
+    <string name="a11y_added_contact">مخاطب %s اضافه شد</string>
+    <string name="a11y_calendar_set">تقویم تنظیم شد: %s</string>
+    <string name="a11y_chat_button">گپ با مهمانان جلسه</string>
+    <string name="a11y_expand_all_day_events">بزرگ کردن رویدادهای تمام‌روز</string>
+    <string name="a11y_filter_require_audio">نیاز به تجهیزات کنفرانس صوتی</string>
+    <string name="a11y_filter_require_video">نیاز به تجهیزات کنفرانس ویدیویی</string>
+    <string name="a11y_location_image">تصویر مکان</string>
+    <string name="a11y_location_list">مکان‌ها</string>
+    <string name="a11y_mark_optional">علامت‌گذاری به عنوان اختیاری</string>
+    <string name="a11y_mark_required">علامت‌گذاری به عنوان ضروری</string>
+    <string name="a11y_marked_optional">%s به‌عنوان اختیاری علامت‌گذاری شد</string>
+    <string name="a11y_marked_required">%s به‌عنوان الزامی علامت‌گذاری شد</string>
+    <string name="a11y_recurrence_set">قاعده تکرار تنظیم شد: %s</string>
+    <string name="a11y_remove_contact">برداشتن مخاطب</string>
+    <string name="a11y_removed_contact">مخاطب %s برداشته شد</string>
+    <string name="a11y_respond_maybe_content_description">پاسخ «شاید»</string>
+    <string name="a11y_respond_no_content_description">پاسخ «خیر»</string>
+    <string name="a11y_respond_yes_content_description">پاسخ «بله»</string>
+    <string name="a11y_respond_yes_meeting_room_content_description">پاسخ دادن با «بله، در اتاق جلسه»</string>
+    <string name="a11y_respond_yes_unknown_content_description">پاسخ دادن با «بله»</string>
+    <string name="a11y_respond_yes_virtually_content_description">پاسخ با «بله، پیوستن مجازی»</string>
+    <string name="a11y_responded_yes_meeting_room_content_description">پاسخ «بله، در اتاق جلسه» داد</string>
+    <string name="a11y_responded_yes_unknown_content_description">پاسخ «بله» داد</string>
+    <string name="a11y_responded_yes_virtually_content_description">با «بله، پیوستن مجازی» پاسخ داد</string>
+    <string name="a11y_room_booking_added_room">اتاق اضافه‌شده: %s</string>
+    <string name="a11y_room_booking_removed_room">اتاق برداشته شد: %s</string>
+    <string name="a11y_room_booking_rooms_matching_page">اتاق‌های منطبق با %s</string>
+    <string name="a11y_room_booking_unavailable_room">غیرقابل دسترسی: %s</string>
+    <string name="a11y_rsvp_join_method_button_label">گزینه‌های روش پیوستن</string>
+    <string name="a11y_select_calendar">انتخاب تقویم</string>
+    <string name="a11y_share_event_link_content_description">هم‌رسانی با دیگران</string>
+    <string name="abc_action_bar_up_description">رفتن به بالا</string>
+    <string name="abc_action_mode_done">تمام</string>
+    <string name="abc_capital_off">خاموش</string>
+    <string name="abc_capital_on">روشن</string>
+    <string name="abc_menu_alt_shortcut_label">‎Alt+‎</string>
+    <string name="abc_menu_ctrl_shortcut_label">‎Ctrl+‎</string>
+    <string name="abc_menu_delete_shortcut_label">حذف</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">‎Function+‎</string>
+    <string name="abc_menu_meta_shortcut_label">‎Meta+‎</string>
+    <string name="abc_menu_shift_shortcut_label">‎Shift+‎</string>
+    <string name="abc_menu_space_shortcut_label">فاصله</string>
+    <string name="abc_menu_sym_shortcut_label">‎Sym+‎</string>
+    <string name="abc_prepend_shortcut_label">منو+</string>
+    <string name="abc_search_hint">جستجو…‏</string>
+    <string name="abc_searchview_description_clear">پاک کردن پُرسمان</string>
+    <string name="abc_searchview_description_search">جستجو</string>
+    <string name="abc_searchview_description_submit">ارسال پُرسمان</string>
+    <string name="abc_searchview_description_voice">جستجوی گفتاری</string>
+    <string name="abc_toolbar_collapse_description">کوچک کردن</string>
+    <string name="accept_action">پذیرش</string>
+    <string name="accept_scope_selection_title">پذیرش رویداد تکرارشونده</string>
+    <string name="access_code_format">کد دسترسی: %s</string>
+    <string name="access_code_item_host">میزبان: %s</string>
+    <string name="access_code_item_no_passcode">پیوستن بدون گذرنویسه</string>
+    <string name="access_code_item_participant">شرکت‌کننده: %s</string>
+    <string name="access_code_picker_dialog_positive_button">پیوستن</string>
+    <string name="access_code_picker_dialog_title">انتخاب گذرنویسه</string>
+    <string name="accessibility_accept_proposal">پذیرش</string>
+    <string name="accessibility_clear_search">پاک کردن جستجو</string>
+    <string name="accessibility_collapse_all_day">کوچک کردن بخش تمام‌روز</string>
+    <string name="accessibility_compose">ایجاد رویداد جدید و موارد دیگر</string>
+    <string name="accessibility_drawer_open">نمایش فهرست تقویم و کشوی تنظیمات</string>
+    <string name="accessibility_event_open">باز کردن رویداد</string>
+    <string name="accessibility_expand_all_day">بزرگ کردن بخش تمام‌روز</string>
+    <string name="accessibility_find_a_time_filters_title">فیلترها</string>
+    <string name="accessibility_find_a_time_list_title">یافتن یک صفحه پیشنهاد زمان</string>
+    <string name="accessibility_find_time_list_item">پیشنهاد زمان: %1$s، %2$s، %3$s</string>
+    <string name="accessibility_find_time_new_suggestion">زمان پیشنهادی جدید %1$s،‏ %2$s ایجاد شد</string>
+    <string name="accessibility_find_time_select_suggestion_button">انتخاب پیشنهاد</string>
+    <string name="accessibility_find_time_show_more_button">دکمه نمایش پیشنهادات بیشتر</string>
+    <string name="accessibility_find_time_slab_bar_format">%1$s،‏ %2$s</string>
+    <string name="accessibility_find_time_slab_bar_swipe_hint">برای رفتن به پیشنهاد بعدی انگشتتان را روی صفحه تند به‌راست بکشید</string>
+    <string name="accessibility_find_time_slab_bar_swipe_hint_rtl">برای رفتن به پیشنهاد بعدی انگشتتان را روی صفحه تند به‌چپ بکشید</string>
+    <string name="accessibility_find_time_timeframe_duration_label">مقدار فیلتر انتخابی: %s</string>
+    <string name="accessibility_hide_date_picker">مخفی کردن انتخابگر تاریخ</string>
+    <string name="accessibility_navigation_icon">برگشت</string>
+    <string name="accessibility_navigation_icon_search">جستجو</string>
+    <string name="accessibility_new_event">ایجاد رویداد جدید</string>
+    <string name="accessibility_pick_end_date">تاریخ پایان: %s</string>
+    <string name="accessibility_pick_end_time">تاریخ پایان: %s</string>
+    <string name="accessibility_pick_start_date">تاریخ شروع: %s</string>
+    <string name="accessibility_pick_start_time">تاریخ شروع: %s</string>
+    <string name="accessibility_send_proposal">ارسال</string>
+    <string name="accessibility_show_agenda_view">باز کردن نمای برنامه زمانی</string>
+    <string name="accessibility_show_date_picker">نمایش انتخابگر تاریخ</string>
+    <string name="accessibility_show_day_view">باز کردن نمای روز</string>
+    <string name="accessibility_speeddial_cancel">دکمه لغو</string>
+    <string name="accessibility_speeddial_event">دکمه رویداد</string>
+    <string name="accessibility_speeddial_ooo">دکمه بیرون از دفتر</string>
+    <string name="accessibility_speeddial_reminder">دکمه یادآوری</string>
+    <string name="accessibility_speeddial_task">دکمه کار</string>
+    <string name="accessibility_speeddial_working_location">دکمه محل کار</string>
+    <string name="accessibility_timely_chip_multi_day_count">%1$s (روز %2$d از %3$d)</string>
+    <string name="account_change_attachments">چون حساب تغییر کرده است، پیوست‌ها حذف شدند.</string>
+    <string name="account_lacks_calendar_features">این حساب از همه ویژگی‌های «تقویم» پشتیبانی نمی‌کند.</string>
+    <string name="account_lacks_features_switch_to_google">‏برای بهره بردن از تمام ویژگی‌های «تقویم»، به «حساب Google» بروید</string>
+    <string name="account_switch_dialog_subtitle">در آینده، اگر از %1$s استفاده کنید، حسابتان درصورت لزوم به‌طور خودکار عوض خواهد شد.</string>
+    <string name="account_switch_dialog_title">برای استفاده از %1$s، باید از حساب دیگری استفاده کنید</string>
+    <string name="account_switch_no_suitable_account_for_events">هنوز هیچ تقویمی با این دستگاه همگام‌سازی نشده است</string>
+    <string name="account_switch_toast">تقویم به %1$s (%2$s) به‌عنوان حساب اصلی تغییر کرد</string>
+    <string name="account_switch_toast_unnamed_account">تقویم به %1$s به‌عنوان حساب اصلی تغییر کرد</string>
+    <string name="account_switched_snackbar_message">حساب کنونی‌تان به %1$s تغییر کرد</string>
+    <string name="account_with_calendar_is_checked">%1$s، %2$s، انتخاب‌شده</string>
+    <string name="account_with_calendar_is_disabled">%1$s، %2$s، غیرفعال</string>
+    <string name="account_with_calendar_is_unchecked">%1$s، %2$s، انتخاب‌نشده</string>
+    <string name="acessibility_selected_checkmark_description">انتخاب شد</string>
+    <string name="action_apply">اعمال</string>
+    <string name="action_cancel_booked_event">لغو قرار</string>
+    <string name="action_delete">حذف</string>
+    <string name="action_done">تمام</string>
+    <string name="action_mark_as_done">علامت‌گذاری به‌عنوان تمام</string>
+    <string name="action_mark_as_not_done">علامت‌گذاری به‌عنوان ناتمام</string>
+    <string name="action_send_booked_event_cancellation">لغو ارسال</string>
+    <string name="activity_not_found_general">برنامه‌ای برای انجام این عملکرد پیدا نشد</string>
+    <string name="actual_scheduled_flight">"‏برنامه‌ریزی‌شده: %1$s
+فعلی: %2$s."</string>
+    <string name="add_additional_notification_label">افزودن اعلانی دیگر</string>
+    <string name="add_attachment">افزودن پیوست</string>
+    <string name="add_birthday_promo_message">برای تاریخ تولد افرادی که برایتان مهم هستند یادآوری دریافت کنید.</string>
+    <string name="add_birthday_promo_negative_button">اکنون نه</string>
+    <string name="add_birthday_promo_positive_button">افزودن تاریخ تولد</string>
+    <string name="add_birthday_promo_title">افزودن تاریخ‌های تولد</string>
+    <string name="add_calendar_no_network_connectivity_message">به‌محض اینکه آنلاین شوید، تقویم اضافه خواهد شد.</string>
+    <string name="add_calendar_timeout_message">تقویم درحال بار کردن است و وقتی آماده شد، نمایش داده می‌شود.</string>
+    <string name="add_date">افزودن تاریخ</string>
+    <string name="add_encryption">افزودن رمزگذاری</string>
+    <string name="add_encryption_data_loss_warning_dialog_attachment_message">همه فایل‌های بدون رمزگذاری را از رویداد «تقویم» حذف می‌کند</string>
+    <string name="add_encryption_data_loss_warning_dialog_attachments_only_message">برای محرمانه نگه داشتن اطلاعاتتان، این قابلیت همه فایل‌های بدون رمزگذاری را از رویداد «تقویم» حذف می‌کند</string>
+    <string name="add_encryption_data_loss_warning_dialog_conference_message">دیگر سرویس‌های کنفرانس ویدیویی را حذف می‌کند</string>
+    <string name="add_encryption_data_loss_warning_dialog_conference_only_message">‏برای محرمانه نگه داشتن اطلاعاتتان، این قابلیت دیگر تنظیمات کنفرانس ویدیویی را حذف می‌کند. استفاده صرف از Google Meet رمزگذاری تکمیلی این تماس را تضمین می‌کند</string>
+    <string name="add_location">افزودن مکان</string>
+    <string name="add_meet_conferencing">‏افزودن کنفرانس ویدیویی Google Meet</string>
+    <string name="add_note_edit_text_hint">افزودن یادداشت</string>
+    <string name="add_note_prefix">ویرایش یادداشت: %s</string>
+    <string name="add_note_saved">یادداشت ذخیره شد</string>
+    <string name="add_note_title">افزودن یادداشت</string>
+    <string name="add_notification">افزودن اعلان</string>
+    <string name="add_notification_label">افزودن اعلان</string>
+    <string name="add_ons_button">گزینه‌های دیگر کنفرانس</string>
+    <string name="add_other_location">افزودن مکانی دیگر</string>
+    <string name="add_people">افزودن افراد</string>
+    <string name="add_period">افزودن دوره</string>
+    <string name="add_room">افزودن اتاق</string>
+    <string name="add_to_email">افزودن به ایمیل</string>
+    <string name="add_video_conferencing">افزودن کنفرانس ویدیویی</string>
+    <string name="adding_conference_details">درحال افزودن جزئیات کنفرانس</string>
+    <string name="address_copied_to_clipboard">مکان کپی شد.</string>
+    <string name="agenda_view">زمان‌بندی تقویم</string>
+    <string name="agenda_view_label">برنامه زمانی</string>
+    <string name="agenda_view_label_full">نمای زمان‌بندی</string>
+    <string name="all_day_description_prefix">کل روز:</string>
+    <string name="all_day_reminder_time">%1$s قبل در ساعت %2$s</string>
+    <string name="all_day_string">تمام روز</string>
+    <string name="all_participants_can_attend">همه می‌توانند شرکت کنند</string>
+    <string name="all_rooms">همه فضاها</string>
+    <string name="alternate_calendar_hebrew_adar_ii">آذار دو</string>
+    <string name="anniversary_birth_date_hint">افزودن تاریخ تولد</string>
+    <string name="anniversary_birthday_title">🎂 تولد</string>
+    <string name="anniversary_birthday_title_name_ends_with_s">🎂 تولد %1$s</string>
+    <string name="anniversary_birthday_title_with_name">🎂 تولد %1$s</string>
+    <string name="anniversary_person_hint">افزودن نام</string>
+    <string name="another_location">مکانی دیگر</string>
+    <string name="another_office">دفتری دیگر</string>
+    <string name="app_label">تقویم</string>
+    <string name="appointment_schedule_booking_disclaimer_text">هر کسی که پیوند صفحه رزرو کردن را داشته باشد می‌تواند قرار رزرو کند.</string>
+    <string name="appointment_schedule_booking_help_link_text">درباره هم‌رسانی پیوند</string>
+    <string name="appointment_schedule_duration_text">قرارهای %1$d دقیقه‌ای</string>
+    <string name="appointment_schedule_edit_disclaimer_text">‏برای ویرایش، در رایانه به calendar.google.com بروید</string>
+    <string name="appointment_schedule_headline_text">زمان‌بندی قرار قابل‌رزرو</string>
+    <string name="appointment_schedule_inactive_appointment_headline_text">زمان‌بندی قرار غیرفعال</string>
+    <string name="appointment_schedule_meet_location_subtitle">‏بعداز رزرو، پیوند Meet ایجاد خواهد شد</string>
+    <string name="appointment_schedule_meet_location_title">‏کنفرانس ویدیویی Google Meet</string>
+    <string name="appointment_schedule_open_page_button">باز کردن صفحه</string>
+    <string name="appointment_schedule_phone_location_subtitle">فردی که قرار را ایجاد می‌کند شماره تلفن را ارائه خواهد داد.</string>
+    <string name="appointment_schedule_phone_location_title">تماس تلفنی</string>
+    <string name="appointment_schedule_see_all_appointment_schedules_text">دیدن همه زمان‌بندی‌های قرار</string>
+    <string name="appointment_schedule_share_button">هم‌رسانی</string>
+    <string name="appointment_schedule_short_link_dialog_cancel">لغو</string>
+    <string name="appointment_schedule_short_link_dialog_error_share_full">هم‌رسانی پیوند کامل</string>
+    <string name="appointment_schedule_short_link_dialog_error_title">این بار امکان دریافت پیوند کوتاه وجود ندارد</string>
+    <string name="appointment_schedule_short_link_dialog_error_try_again">امتحان مجدد</string>
+    <string name="appointment_schedule_short_link_dialog_share_full">هم‌رسانی پیوند کامل به‌جای پیوند کوتاه</string>
+    <string name="appointment_schedule_short_link_dialog_title">دریافت پیوند کوتاه برای هم‌رسانی</string>
+    <string name="appointment_slot_prefix">وقت قرار:</string>
+    <string name="appointment_slot_promo_got_it">متوجه‌ام</string>
+    <string name="appointment_slot_promo_learn_more">بیشتر بدانید</string>
+    <string name="appointment_slot_promo_text">‏می‌توانید صفحه رزرو کردن قرار مخصوص خودتان را ایجاد کنید. برای شروع کار، در رایانه به calendar.google.com بروید</string>
+    <string name="appointment_slot_promo_title">ساده کردن زمان‌بندی قرار</string>
+    <string name="appointment_slots_availability">دردسترس بودن</string>
+    <string name="appointment_slots_discard">می‌خواهید این پیشنهاد زمان را رد کنید؟</string>
+    <string name="appointment_slots_duration">مدت زمان رویداد</string>
+    <string name="appointment_slots_editor_half_collapsed_hint">با ضربه زدن در تقویم، نشان دهید چه زمان‌هایی آزاد هستید</string>
+    <string name="appointment_slots_more_info">اطلاعات بیشتر</string>
+    <string name="appointment_slots_title">عنوان رویداد</string>
+    <string name="appointment_slots_title_collapsed">پیدا کردن زمان برای ملاقات</string>
+    <string name="appointment_slots_title_hint">بیایید یکدیگر را ملاقات کنیم</string>
+    <string name="as_email">به عنوان ایمیل</string>
+    <string name="as_notification">به‌عنوان اعلان</string>
+    <string name="at_time">در ساعت %s</string>
+    <string name="at_time_of_event">در زمان رویداد</string>
+    <string name="attachment_encrypted_file_label">فایل رمزگذاری‌شده «%1$s»</string>
+    <string name="attachment_file_label">فایل «%1$s»</string>
+    <string name="attachment_no_activity">‏برنامه‌ای برای باز کردن فایل Google Drive پیدا نشد</string>
+    <string name="attendee_accepted">%s شرکت می‌کند</string>
+    <string name="attendee_accepted_in_a_meeting_room">%s به اتاق جلسه می‌پیوندد</string>
+    <string name="attendee_accepted_virtually">%s به‌صورت مجازی می‌پیوندد</string>
+    <string name="attendee_declined">%s دعوت را رد کرده است</string>
+    <string name="attendee_not_responded">%s پاسخ نداده است</string>
+    <string name="attendee_optional">اختیاری</string>
+    <string name="attendee_organizer">سازمان‌دهنده</string>
+    <string name="attendee_tentative">%s شاید شرکت کند</string>
+    <string name="auth_uncertified_close_button_label">بستن</string>
+    <string name="auth_uncertified_notification_play_protect_description2">‏دستگاهتان برای اجرای برنامه‌های Google یا استفاده از سرویس‌های Google گواهی ندارد. با سازنده یا فروشنده دستگاه تماس بگیرید و بخواهید دستگاهی دارای گواهی به شما ارائه دهد. <a href="https://g.co/AndroidCertifiedDevice">بیشتر بدانید</a></string>
+    <string name="authentication_accept_button">برطرف کردن مشکل</string>
+    <string name="authentication_cancel_button">حالا نه</string>
+    <string name="authentication_dialog_body">برای حفظ همگام‌سازی «تقویم»، مشکل مربوط به نحوه وارد شدن به سیستم %s را برطرف کنید</string>
+    <string name="authentication_dialog_title">درست به سیستم وارد نشده‌اید</string>
+    <string name="birthday_banner_add_another_birthday_button_text">افزودن تاریخ تولد دیگر</string>
+    <string name="birthday_banner_add_birthday_button_text">افزودن تاریخ تولد</string>
+    <string name="birthday_banner_body">برای تاریخ تولد افرادی که برایتان مهم هستند یادآوری دریافت کنید</string>
+    <string name="birthday_banner_dismiss_button_text">اکنون نه</string>
+    <string name="birthday_banner_title">افزودن تاریخ‌های تولد</string>
+    <string name="birthday_wish_action">تولدش را تبریک بگویید</string>
+    <string name="birthdays_on">تولدهای %s</string>
+    <string name="bottomsheet_action_expand_halfway">گسترده کردن تا نیمه</string>
+    <string name="bottomsheet_drag_handle_content_description">دستگیره کشاندن</string>
+    <string name="building_name_other">سایر موارد</string>
+    <string name="busy">مشغول</string>
+    <string name="button_calendar_permission_allow_label">دسترسی به تقویم مجاز است</string>
+    <string name="button_label">دکمه</string>
+    <string name="button_permissions_manage_label">رفتن به تنظیمات</string>
+    <string name="calendar">تقویم</string>
+    <string name="calendar_a11y_action_click_learn_more">بیشتر بدانید</string>
+    <string name="calendar_cannot_be_shown">تقویم نمایش داده نمی‌شود</string>
+    <string name="calendar_ignored_message">تقویم اضافه نشد.</string>
+    <string name="calendar_is_checked">%1$s، علامت‌زده‌شده</string>
+    <string name="calendar_is_disabled">%1$s، غیرفعال است</string>
+    <string name="calendar_is_unchecked">%1$s، علامت برداشته‌شده</string>
+    <string name="calendar_picker_account_info_segment_ooo">«بیرون از دفتر» برای این حساب دردسترس نیست</string>
+    <string name="calendar_picker_account_info_segment_working_location">«محل کار» برای این حساب دردسترس نیست</string>
+    <string name="calendar_refresh">بازآوری</string>
+    <string name="calendar_screen_blocked">به‌نظر می‌رسد برنامه دیگری صفحه‌نمایش را مسدود می‌کند. هر برنامه‌ای که ممکن است صفحه را بپوشاند خاموش کنید و دوباره امتحان کنید.</string>
+    <string name="calendar_segment_secondary_text">هم‌رسانی‌شده توسط %s</string>
+    <string name="calendar_storage_disabled_dialog_action">فعال کردن در تنظیمات</string>
+    <string name="calendar_storage_disabled_dialog_message">"‏وای، «فضای ذخیره‌سازی تقویم» غیرفعال است، تقویم‌ها و رویدادهایتان نشان داده نمی‌شوند.
+
+«فضای ذخیره‌سازی تقویم» را دوباره در «تنظیمات» روشن کنید."</string>
+    <string name="calendar_storage_disabled_dialog_title">«فضای ذخیره‌سازی تقویم» غیرفعال است</string>
+    <string name="calendar_successfully_added_message">تقویم باموفقیت اضافه شد.</string>
+    <string name="can_not_add_unencrypted_attachment">نمی‌توانید به رویداد رمزگذاری‌شده، فایل رمزگذاری‌نشده پیوست کنید</string>
+    <string name="cancel_booked_event_dialog_content">ایمیل لغو برای همه مهمانان ارسال خواهد شد</string>
+    <string name="cancel_booked_event_dialog_title">قرار لغو شود؟</string>
+    <string name="cancel_button">لغو</string>
+    <string name="cancel_encryption">لغو رمزگذاری</string>
+    <string name="cancel_speeddial">لغو</string>
+    <string name="cancellation_discard">صرف‌نظر کردن</string>
+    <string name="cancellation_keep_editing">ادامه ویرایش</string>
+    <string name="cannot_reschedule_completed_tasks">تکلیف‌های کامل‌شده را نمی‌توان زمان‌بندی کرد</string>
+    <string name="cannot_reschedule_cross_profile_entry">این رویداد را فقط در برنامه شخصی خود می‌توانید ویرایش کنید</string>
+    <string name="cannot_reschedule_cross_profile_entry_action">عوض کردن</string>
+    <string name="cannot_reschedule_event">نمی‌توانید زمان‌بندی این رویداد را تغییر دهید</string>
+    <string name="character_counter_content_description">نویسه‌های واردشده %1$d از %2$d</string>
+    <string name="character_counter_overflowed_content_description">محدودیت نویسه از حد مجاز %1$d از %2$d بیشتر شده است</string>
+    <string name="chat_status_segment_disabled">نمی‌توان وضعیت گپ را برای رویدادهای طولانی‌تر از ۲۴ ساعت تنظیم کرد.</string>
+    <string name="chat_status_segment_primary">مزاحم نشوید</string>
+    <string name="chat_status_segment_secondary">‏تنظیم وضعیت روی “مزاحم نشوید” و خاموش کردن اعلان‌های Chat</string>
+    <string name="chat_suggestion_description">‏براساس Chat</string>
+    <string name="check_in">اعلام حضور</string>
+    <string name="check_out">اعلام خروج</string>
+    <string name="chime_notification_title">&lt;b> %1$s &lt;/b></string>
+    <string name="choose_a_location">انتخاب مکان</string>
+    <string name="clear_text_end_icon_content_description">پاک کردن نوشتار</string>
+    <string name="clipboard_clip_label">پیوند کنفرانس</string>
+    <string name="close_label">بستن</string>
+    <string name="collapse_location">کوچک کردن %1$s</string>
+    <string name="collapse_sheet">کوچک کردن برگه رویداد</string>
+    <string name="collapse_task_sheet">کوچک کردن برگه کار</string>
+    <string name="collapse_working_location_sheet">جمع کردن برگ محل کار</string>
+    <string name="combined_notification_text">&lt;b> %1$s &lt;/b> %2$s</string>
+    <string name="comma_space">"، "</string>
+    <string name="common_google_play_services_enable_button">فعال کردن</string>
+    <string name="common_google_play_services_enable_text">‏تا وقتی «خدمات Google Play» را فعال نکنید، %1$s کار نمی‌کند.</string>
+    <string name="common_google_play_services_enable_title">‏‫فعال کردن «خدمات Google Play»</string>
+    <string name="common_google_play_services_install_button">نصب</string>
+    <string name="common_google_play_services_install_text">‏%1$s بدون خدمات Google Play که در دستگاه شما وجود ندارد اجرا نمی‌شود.</string>
+    <string name="common_google_play_services_install_title">‏دریافت «خدمات Google Play»</string>
+    <string name="common_google_play_services_notification_channel_name">‏دردسترس بودن خدمات Google Play</string>
+    <string name="common_google_play_services_notification_ticker">‏خطا در خدمات Google Play</string>
+    <string name="common_google_play_services_unknown_issue">‏%1$s برای استفاده از خدمات Google Play با مشکل روبرو است. لطفاً دوباره امتحان کنید.</string>
+    <string name="common_google_play_services_unsupported_text">‏%1$s بدون خدمات Google Play که در دستگاه شما پشتیبانی نمی‌شود، اجرا نخواهد شد.</string>
+    <string name="common_google_play_services_update_button">به‌روزرسانی</string>
+    <string name="common_google_play_services_update_text">‏تاز مانی که «خدمات Google Play» را به‌روزرسانی نکنید، %1$s اجرا نمی‌شود.</string>
+    <string name="common_google_play_services_update_title">‏‫به‌روزرسانی «خدمات Google Play»</string>
+    <string name="common_google_play_services_updating_text">‏%1$s بدون «خدمات Google Play» که درحال حاضر درحال به‌روزرسانی هستند، کار نمی‌کند.</string>
+    <string name="common_google_play_services_wear_update_text">‏نسخه جدید «خدمات Google Play» نیاز است. به‌زودی به‌طور خودکار به‌روزرسانی می‌شود.</string>
+    <string name="common_open_on_phone">باز کردن در تلفن</string>
+    <string name="completing_task_with_subtasks_body">‏این تکلیف حاوی تکالیف فرعی است. برای تکمیل آن و تکالیف فرعی‌اش، از برنامه Tasks استفاده کنید.</string>
+    <string name="completing_task_with_subtasks_title">نمی‌توانید تکلیفی را که حاوی تکالیف فرعی باشد کامل کنید</string>
+    <string name="conference_add_ons">برافزاها</string>
+    <string name="conference_authorization_required">مجوز لازم است</string>
+    <string name="conference_authorize_button">اجازه</string>
+    <string name="conference_creation_not_allowed">ایجاد کنفرانس مجاز نیست</string>
+    <string name="conference_entry_point_phone">تلفن</string>
+    <string name="conference_entry_point_sip">SIP</string>
+    <string name="conference_entry_point_video">ویدیو</string>
+    <string name="conference_internal_number">فقط داخلی</string>
+    <string name="conference_log_in_button">ورود به سیستم</string>
+    <string name="conference_log_in_required">ورود به سیستم لازم است</string>
+    <string name="conference_no_connection">اتصال اینترنت ندارید</string>
+    <string name="conference_phone_country">%1$s (%2$s)</string>
+    <string name="conference_phone_numbers_activity">شماره‌های تماس</string>
+    <string name="conference_phone_pin">پین: %s</string>
+    <string name="conference_solution_forbidden">استفاده از این راه‌حل کنفرانس مجاز نیست</string>
+    <string name="conference_try_again_button">تلاش مجدد</string>
+    <string name="conference_type_google_meet">Google Meet</string>
+    <string name="conference_type_hangouts">Hangouts</string>
+    <string name="conference_will_be_added">اضافه می‌شود</string>
+    <string name="conference_will_be_added_action">تماس تصویری</string>
+    <string name="confirm_rsvp_dialog_save_button">ذخیره</string>
+    <string name="confirm_rsvp_dialog_title">تأیید «لطفاً پاسخ دهید»</string>
+    <string name="confirm_subscription">بله</string>
+    <string name="confirmation_id">شماره تأیید: %s</string>
+    <string name="contact_picker_add_people">افزودن افراد</string>
+    <string name="contact_picker_added_guests">مهمان‌های اضافه‌شده</string>
+    <string name="contact_picker_done">تمام</string>
+    <string name="copied_to_clipboard">در بریده‌دان کپی شد</string>
+    <string name="copied_to_clipboard_phone">شماره تلفن در بریده‌دان کپی شد.</string>
+    <string name="copied_to_clipboard_sip">‏نشانی SIP در بریده‌دان کپی شد.</string>
+    <string name="copied_to_clipboard_video">پیوند کنفرانس در بریده‌دان کپی شد</string>
+    <string name="copy">کپی</string>
+    <string name="copy_display_name_field">نوشتار در بریده‌دان کپی شد</string>
+    <string name="country_holidays_hint">افزودن تعطیلات کشور</string>
+    <string name="country_holidays_section_title">تعطیلات رسمی</string>
+    <string name="create_an_account_desc">"‏Calendar با حساب Google بهتر کار می‌کند.
+
+• از هر مرورگر وبی به آن دسترسی دارید
+• از رویدادهای خود به‌طور امن پشتیبان تهیه کنید"</string>
+    <string name="create_event_dialog_save">ذخیره</string>
+    <string name="create_task_shortcat_long_label">کار جدید</string>
+    <string name="create_task_shortcat_short_label">کار جدید</string>
+    <string name="creating_event">رویداد ایجاد شد.</string>
+    <string name="creating_event_with_guest">‏دعوت‌نامه‎ها ارسال خواهند شد.</string>
+    <string name="creating_repeating_task">درحال ایجاد کار تکرارشونده…</string>
+    <string name="creating_repeating_task_no_connection">اتصال برقرار نیست. وقتی آنلاین شدید، کار تکرارشونده ایجاد خواهد شد.</string>
+    <string name="creation_cancellation_message">از این رویداد صرف‌نظر شود؟</string>
+    <string name="cross_profile_drawer_promo_text">برای اینکه همه رویدادهایتان را در اینجا ببینید، تقویم‌ها را از برنامه شخصی‌تان اضافه کنید</string>
+    <string name="cross_profile_drawer_promo_title">مشاهده تقویم‌های شخصی</string>
+    <string name="cross_profile_hide_promos_description">‏پنهان کردن اعلان‌های مربوط به دردسترس بودن ویژگی برنامه‌های متصل از کاربران نهایی در «تقویم Google»</string>
+    <string name="cross_profile_hide_promos_title">پنهان کردن اعلان‌های برنامه‌های متصل</string>
+    <string name="cross_profile_learn_more">افزودن تقویم</string>
+    <string name="cross_profile_promo_dismiss">رد کردن</string>
+    <string name="cross_profile_snackbar_switch_to_personal_app">به برنامه شخصی رفتید</string>
+    <string name="cross_profile_snackbar_switch_to_work_app">به برنامه کاری رفتید</string>
+    <string name="cross_profile_switch_to_personal_app">رفتن به برنامه شخصی</string>
+    <string name="crossprofile_dialog_positive">روشن کردن در «تنظیمات»</string>
+    <string name="crossprofile_dialog_text">‏«تقویم Google» اجازه‌های هم‌رسانی و نمایان بودن تقویم‌های شخصی شما را تغییر نمی‌دهد.</string>
+    <string name="crossprofile_dialog_title">نمایش تقویم‌های شخصی در برنامه کاری</string>
+    <string name="cse_add_encryption_data_loss_dialog_add_encryption_dialog_button">روشن کردن</string>
+    <string name="cse_add_encryption_data_loss_warning_dialog_title">رمزگذاری تکمیلی روشن شود؟</string>
+    <string name="cse_add_encryption_failed_snackbar">نمی‌توان رمزگذاری اضافه کرد</string>
+    <string name="cse_add_encryption_operation_failed_dialog_message">هنگام افزودن شرح بیشتر به این رویداد مشکلی پیش آمد.</string>
+    <string name="cse_add_encryption_operation_failed_dialog_title">نمی‌توان شرح اضافی اضافه کرد</string>
+    <string name="cse_cancel_decryption">لغو رمزگشایی</string>
+    <string name="cse_contents_encrypted">محتوا رمزگذاری شده است</string>
+    <string name="cse_contents_encrypted_by">محتوا توسط %1$s رمزگذاری شده است</string>
+    <string name="cse_decrypt_error_admin_setup_different_encryptor">شرح را نمی‌توان رمزگشایی کرد. اگر به دسترسی نیاز دارید، سازمان‌دهنده را مطلع کنید.</string>
+    <string name="cse_decrypt_error_admin_setup_same_encryptor">شرح را نمی‌توان رمزگشایی کرد. اگر خطا برطرف نشد، به پشتیبانی فنی سازمان اطلاع دهید.</string>
+    <string name="cse_decrypt_error_email_mismatch">شرح را نمی‌توان رمزگشایی کرد. مطمئن شوید از همان نشانی‌ای استفاده می‌کنید که با آن به سیستم «تقویم» و ارائه‌دهنده هویتتان وارد شده‌اید.</string>
+    <string name="cse_decrypt_error_email_mismatch_idp">شرح را نمی‌توان رمزگشایی کرد. مطمئن شوید از همان نشانی‌ای استفاده می‌کنید که با آن به سیستم «تقویم» و ارائه‌دهنده هویتتان «%1$s» وارد شده‌اید.</string>
+    <string name="cse_decrypt_error_generic">درحال‌حاضر شرح دردسترس نیست</string>
+    <string name="cse_decrypt_error_no_internet">درحال‌حاضر شرح دردسترس نیست. به اینترنت متصل نیستید.</string>
+    <string name="cse_decrypt_error_sign_in_required">شرح را نمی‌توان رمزگشایی کرد. برای ادامه، با ارائه‌دهنده هویتتان به سیستم وارد شوید.</string>
+    <string name="cse_decrypt_error_sign_in_required_idp">شرح را نمی‌توان رمزگشایی کرد. برای ادامه، با ارائه‌دهنده هویتتان «%1$s» به سیستم وارد شوید.</string>
+    <string name="cse_default_add_encryption_data_loss_warning_dialog_title">رمزگذاری اضافی به‌طور پیش‌فرض روشن خواهد شد</string>
+    <string name="cse_description_hint">افزودن توضیح</string>
+    <string name="cse_dialog_back">برگشت</string>
+    <string name="cse_dialog_cancel">لغو</string>
+    <string name="cse_dialog_learn_more">بیشتر بدانید</string>
+    <string name="cse_encrypt_description_failed_on_save_dialog_message">هنگام رمزگذاری شرح مشکلی روی داد. با ذخیره کردن، شرح از این رویداد برداشته خواهد شد.</string>
+    <string name="cse_encrypt_description_failed_on_save_dialog_title">شرح رمزگذاری نشد</string>
+    <string name="cse_encrypt_error_admin_setup">نمی‌توان رمزگذاری اضافه کرد. اگر خطا برطرف نشد، به پشتیبانی فنی سازمان اطلاع دهید.</string>
+    <string name="cse_encrypt_error_email_mismatch">نمی‌توان رمزگذاری اضافه کرد. مطمئن شوید از همان نشانی‌ای استفاده می‌کنید که با آن به سیستم «تقویم» و ارائه‌دهنده هویتتان وارد شده‌اید.</string>
+    <string name="cse_encrypt_error_email_mismatch_idp">نمی‌توان رمزگذاری اضافه کرد. مطمئن شوید از همان نشانی‌ای استفاده می‌کنید که با آن به سیستم «تقویم» و ارائه‌دهنده هویتتان «%1$s» وارد شده‌اید.</string>
+    <string name="cse_encrypt_error_generic">رمزگذاری درحال‌حاضر دردسترس نیست</string>
+    <string name="cse_encrypt_error_no_internet">نمی‌توان رمزگذاری اضافه کرد. به اینترنت وصل نیستید.</string>
+    <string name="cse_encrypt_error_sign_in_required">نمی‌توان رمزگذاری اضافه کرد. برای ادامه، با ارائه‌دهنده هویتتان به سیستم وارد شوید.</string>
+    <string name="cse_encrypt_error_sign_in_required_idp">نمی‌توان رمزگذاری اضافه کرد. برای ادامه، با ارائه‌دهنده هویتتان «%1$s» به سیستم وارد شوید.</string>
+    <string name="cse_error_action_sign_in">ورود به سیستم</string>
+    <string name="cse_error_action_try_again">امتحان مجدد</string>
+    <string name="cse_error_on_save_dialog_button">ذخیره کردن</string>
+    <string name="cse_error_on_save_dialog_cancel_button">بازگشت به ویرایش</string>
+    <string name="cse_event_copy_data_loss_dialog_button">کپی کردن این رویداد</string>
+    <string name="cse_event_copy_data_loss_dialog_title">این رویداد کپی شود؟</string>
+    <string name="cse_event_duplicate_data_loss_dialog_button">کپی کردن این رویداد</string>
+    <string name="cse_event_duplicate_data_loss_dialog_title">از این رویداد نسخه تکراری تهیه شود؟</string>
+    <string name="cse_explanation_dialog_do_not_show_again_checkbox_text">دیگر نشان داده نشود</string>
+    <string name="cse_explanation_dialog_information_box">‏کنفرانس ویدیویی Google Meet به تماسی ابتدایی که فقط صدا و تصویر دارد محدود خواهد شد</string>
+    <string name="cse_explanation_dialog_message_1">با رمزگذاری پیوست‌ها و شرح رویداد می‌توان آن‌ها را محرمانه نگه داشت. درصورت رمزگذاری اطلاعات، ویژگی‌هایی مثل جستجو و دسترسی آفلاین کار نخواهند کرد.</string>
+    <string name="cse_explanation_dialog_message_2">به‌دلیل تنظیمات انجام‌شده توسط سرپرست، فقط افراد مشخصی می‌توانند اطلاعات رمزگذاری‌شده را مشاهده کنند.</string>
+    <string name="cse_explanation_dialog_title">‏درحال رمزگذاری شرح، پیوست‌ها، و Google Meet</string>
+    <string name="cse_notes_segment_description">نکات</string>
+    <string name="cse_remove_encryption_data_loss_warning_dialog_title">رمزگذاری اضافی برداشته شود؟</string>
+    <string name="cse_unsupported_calendars_unavailable">برای محرمانه نگه داشتن اطلاعاتتان، برخی‌از حساب‌ها یا تقویم‌ها غیرفعال شده است</string>
+    <string name="cse_viewscreen_dialog_button">اطلاعات بیشتر درباره رمزگذاری</string>
+    <string name="cse_viewscreen_dialog_text">‏شرح، پیوست‌ها، و کنفرانس ویدیویی Google Meet هنگام اضافه شدن به این رویداد، رمزگذاری اضافه‌ای خواهند داشت.</string>
+    <string name="cse_viewscreen_icon_label">رویداد رمزگذاری‌شده</string>
+    <string name="custom">سفارشی…</string>
+    <string name="custom_duration_error_msg">لطفاً مدت زمان معتبری وارد کنید</string>
+    <string name="custom_notification_dialog_edit_text_error_message">زمانی قبل از شروع رویداد انتخاب کنید</string>
+    <string name="custom_notification_dialog_title">اعلان سفارشی</string>
+    <string name="custom_notification_override_announcement">مقدار به %s تغییر کرد</string>
+    <string name="data_loss_warning_dialog_description_message">شرح را حذف می‌کند</string>
+    <string name="data_loss_warning_dialog_description_only_message">برای محرمانه نگه داشتن اطلاعاتتان، این قابلیت شرح را حذف می‌کند</string>
+    <string name="data_loss_warning_dialog_meet_message">‏همه تنظیمات کنفرانس ویدیویی Meet را بازنشانی می‌کند</string>
+    <string name="data_loss_warning_dialog_meet_only_message">‏برای محرمانه نگه داشتن اطلاعاتتان، این قابلیت همه تنظیمات کنفرانس ویدیویی Meet را بازنشانی می‌کند</string>
+    <string name="data_loss_warning_dialog_message">برای محرمانه نگه داشتن داده‌هایتان، این قابلیت:</string>
+    <string name="date_duration_accessibility_description">در %s به پایان می‌رسد</string>
+    <string name="date_duration_label">در %s</string>
+    <string name="date_time_fmt">%1$s، %2$s</string>
+    <string name="date_year_toggle">سال لحاظ شود</string>
+    <string name="debug_channel_description">اعلان‌های اشکال‌زدایی</string>
+    <string name="decline_action">رد کردن</string>
+    <string name="decline_scope_selection_title">نپذیرفتن رویداد تکرارشونده</string>
+    <string name="decrypt_snackbar_error">شرح را نمی‌توان رمزگشایی کرد</string>
+    <string name="decrypt_snackbar_error_generic">درحال‌حاضر شرح دردسترس نیست</string>
+    <string name="default_for_organization">پیش‌فرض برای سازمان شما</string>
+    <string name="default_option">پیش‌فرض</string>
+    <string name="delete_proposal">حذف پیشنهاد</string>
+    <string name="delete_recurring_event_title">%s حذف شود؟</string>
+    <string name="delete_scope_selection_title_working_location">حذف محل کار</string>
+    <string name="delete_this_event_title">این رویداد حذف شود؟</string>
+    <string name="delete_this_reminder_title">این یادآوری حذف شود؟</string>
+    <string name="delete_this_task_title">این کار حذف شود؟</string>
+    <string name="delete_this_working_location_title">این محل کار حذف شود؟</string>
+    <string name="deleting_task_with_subtasks_body">‏این تکلیف حاوی تکالیف فرعی است. برای تکمیل آن و تکالیف فرعی‌اش، از برنامه Tasks استفاده کنید.</string>
+    <string name="deleting_task_with_subtasks_title">کار حاوی کارهای فرعی حذف نشد</string>
+    <string name="deletion_action">حذف</string>
+    <string name="deletion_scope_selection_title">حذف رویداد تکرارشونده</string>
+    <string name="deletion_scope_selection_title_reminder">حذف یادآوری تکراری</string>
+    <string name="deletion_scope_selection_title_task">کار تکرارشونده حذف شود؟</string>
+    <string name="demo_account_name">حساب نمایشی</string>
+    <string name="demo_calendar_name">حالت نمایشی تقویم</string>
+    <string name="describe_attachments_icon">پیوست</string>
+    <string name="describe_bus_icon">اطلاعات اتوبوس</string>
+    <string name="describe_calendar_icon">نام تقویم</string>
+    <string name="describe_confirmation_icon">مشاهده تأیید</string>
+    <string name="describe_date_icon">اطلاعات تاریخ</string>
+    <string name="describe_email_icon">ایمیل</string>
+    <string name="describe_event_icon">اطلاعات رویداد</string>
+    <string name="describe_flight_icon">اطلاعات پرواز</string>
+    <string name="describe_guests_icon">فهرست افراد</string>
+    <string name="describe_hotel_icon">اطلاعات هتل</string>
+    <string name="describe_location_icon">مکان</string>
+    <string name="describe_notes_icon">یادداشت‌ها</string>
+    <string name="describe_notification_icon">اعلان‌های تقویم</string>
+    <string name="describe_phone_icon">تلفن</string>
+    <string name="describe_repeat_icon">تکرار</string>
+    <string name="describe_restaurant_icon">اطلاعات رستوران</string>
+    <string name="describe_room_icon">اتاق</string>
+    <string name="describe_train_icon">اطلاعات قطار</string>
+    <string name="describe_visibility_icon">نمایان بودن</string>
+    <string name="description_hint">افزودن توضیح</string>
+    <string name="desk_label">میزکار: %s</string>
+    <string name="dialog_header_calendar_title">انتخاب تقویم</string>
+    <string name="dialog_header_email_title">انتخاب نشانی ایمیل</string>
+    <string name="dialog_header_phone_title">انتخاب شماره تلفن</string>
+    <string name="disambiguation_email_content_description">%1$d ایمیل از %2$d ایمیل. به %3$s ایمیل ارسال کنید: %4$s</string>
+    <string name="disambiguation_phone_content_description">^1 شماره تلفن از ^2 شماره تلفن. با ^3 تماس بگیرید: ^4</string>
+    <string name="disambiguation_sms_content_description">پیامک ^1 از ^2. پیامک ^3: ^4</string>
+    <string name="discard_dialog_body_existing_task">از تغییرات در این یادآوری صرف‌نظر شود؟</string>
+    <string name="discard_dialog_body_new_task">از این یادآوری صرف‌نظر شود؟</string>
+    <string name="discard_dialog_discard">صرف‌نظر کردن</string>
+    <string name="discard_dialog_keep_editing">ادامه ویرایش</string>
+    <string name="dismiss">رد شدن</string>
+    <string name="dismiss_warning">نادیده گرفتن هشدار</string>
+    <string name="dnd_auto_decline_default_message">چون در زمان تمرکز هستم، رد شد</string>
+    <string name="dnd_chat_status_primary">مزاحم نشوید</string>
+    <string name="dnd_chat_status_secondary">اعلان‌های گپ بی‌صدا شد</string>
+    <string name="does_not_have_audio_equipment">تجهیزات صوتی ندارد</string>
+    <string name="does_not_have_video_equipment">تجهیزات ویدیویی ندارد</string>
+    <string name="drawer_account_sync_compete">همگام‌سازی تمام شد</string>
+    <string name="drawer_account_sync_disabled">فعال کردن همگام‌سازی</string>
+    <string name="drawer_account_sync_error">خطای همگام‌سازی</string>
+    <string name="drawer_account_sync_syncing">در حال همگام‌سازی…</string>
+    <string name="drawer_account_unauthenticated">درست به سیستم وارد نشده‌اید</string>
+    <string name="drawer_birthdays_text">تولدها</string>
+    <string name="drawer_help_feedback">راهنما و بازخورد</string>
+    <string name="drawer_holidays_text">تعطیلات</string>
+    <string name="drawer_logo_lockup">‏تقویم Google</string>
+    <string name="drawer_settings">تنظیمات</string>
+    <string name="drive_installation_issue_metadata_not_available">‏برای پیوست کردن فایل به برنامه Google Drive نیاز است. لطفاً برنامه Drive را نصب یا به‌روزرسانی کنید و دوباره امتحان کنید.</string>
+    <string name="drive_installation_issue_metadata_not_available_title">فایل پیوست نشد</string>
+    <string name="drive_installation_issue_not_installed">‏برای افزودن پیوست، برنامه رایگان Drive را نصب کنید.</string>
+    <string name="drive_installation_issue_not_installed_title">‏نصب Google Drive</string>
+    <string name="drive_installation_issue_too_old">‏برای افزودن پیوست، برنامه Drive را به‌روزرسانی کنید.</string>
+    <string name="drive_installation_issue_too_old_title">‏به‌روزرسانی Google Drive</string>
+    <string name="edit_cancellation_message">از تغییرات در این رویداد صرف‌نظر شود؟</string>
+    <string name="edit_changes_cannot_be_saved_message">ترکیب تغییرات ایجاد‌شده در این رویداد نمی‌تواند هم‌زمان اعمال شود.</string>
+    <string name="edit_changes_cannot_be_saved_title">به‌روزرسانی معتبر نیست</string>
+    <string name="edit_color_default_color">رنگ پیش‌فرض</string>
+    <string name="edit_custom_notification">سفارشی…</string>
+    <string name="edit_custom_recurrence">سفارشی…</string>
+    <string name="edit_description_hint">افزودن یادداشت</string>
+    <string name="edit_error_event_not_found">رویداد درخواستی پیدا نشد.</string>
+    <string name="edit_error_generic">خطای داخلی روی داد.</string>
+    <string name="edit_error_no_calendar">هنوز هیچ تقویمی با این دستگاه همگام‌سازی نشده است</string>
+    <string name="edit_event_cancel">لغو</string>
+    <string name="edit_event_delete">حذف</string>
+    <string name="edit_label">ویرایش</string>
+    <string name="edit_label_all_day">کل روز</string>
+    <string name="edit_no_notification">اعلانی نیست</string>
+    <string name="edit_recurrence_none">تکرار نمی‌شود</string>
+    <string name="edit_scope_selection_title">ذخیره رویداد تکرارشونده</string>
+    <string name="edit_scope_selection_title_reminder">ذخیره یادآور تکرارشونده</string>
+    <string name="edit_scope_selection_title_task">ذخیره تکلیف تناوبی</string>
+    <string name="edit_scope_selection_title_working_location">ویرایش محل کار</string>
+    <string name="edit_screen_title">صفحه ویرایش</string>
+    <string name="edit_title_hint">عنوان وارد کنید</string>
+    <string name="edit_title_task_suggest_hint">یادآوری به من برای…</string>
+    <string name="ellipsized_text">%1$s…</string>
+    <string name="email_guests_label">ارسال ایمیل به مهمانان</string>
+    <string name="email_organizer_label">سازمان‌دهنده ایمیل</string>
+    <string name="email_picker_label">ایمیل با</string>
+    <string name="email_response_dialog_title">پاسخ ایمیل</string>
+    <string name="email_separator">،</string>
+    <string name="empty_suggestions_explanation">درحال‌حاضر اتاقی موجود نیست.</string>
+    <string name="encrypted_conference_label">کنفرانس رمزگذاری‌شده</string>
+    <string name="encrypted_contents_removed">رمزگذاری خاموش شد.</string>
+    <string name="end_by_date">؛ تا %s</string>
+    <string name="end_label">به پایان می‌رسد</string>
+    <string name="end_time_min">%d دقیقه</string>
+    <string name="ended_recurrence_prefix_content_description">تکرار زمان‌بندی متوقف شد: %1$s</string>
+    <string name="error_a11y_label">Error: invalid</string>
+    <string name="error_end_time_not_after_start_time">زمان پایان باید بعداز زمان شروع باشد</string>
+    <string name="error_generic">خطای داخلی روی داد.</string>
+    <string name="error_icon_content_description">خطا</string>
+    <string name="error_no_connection">خطایی رخ داد. اتصالتان را بررسی کنید.</string>
+    <string name="error_no_task_account">هیچ حسابی که از کارها پشتیبانی کند در دستگاه پیدا نشد.</string>
+    <string name="error_no_times_selected">قبل‌از افزودن زمان‌ها به ایمیل، آن‌ها را اضافه کنید یا در تقویم کلیک کنید</string>
+    <string name="error_offline_subtitle">لطفاً اتصالتان را بررسی و دوباره امتحان کنید.</string>
+    <string name="error_offline_title">ظاهراً آفلاین هستید</string>
+    <string name="error_opening_gmail_thread">مکالمه درخواست‌شده بار نشد.</string>
+    <string name="error_repeating_task_start_time_in_past">زمان شروع کار تکراری نمی‌تواند در گذشته باشد.</string>
+    <string name="error_start_time_after_end_time">زمان شروع نمی‌تواند پس از زمان پایان باشد.</string>
+    <string name="error_state_body">لطفاً بعداً دوباره امتحان کنید.</string>
+    <string name="error_state_title">خطایی روی داد</string>
+    <string name="error_working_location_missing">محل کار ضروری است.</string>
+    <string name="event">رویداد</string>
+    <string name="event_copy_to">کپی در…</string>
+    <string name="event_duplicate">تکثیر</string>
+    <string name="event_encrypted">رمزگذاری‌شده</string>
+    <string name="event_encrypted_by">توسط %1$s رمزگذاری شده است</string>
+    <string name="event_encrypted_details">‏شرح، پیوست‌ها، و کنفرانس ویدیویی Google Meet رمزگذاری تکمیلی دارند</string>
+    <string name="event_external_source">ازطریق منبع خارجی ایجاد شده است</string>
+    <string name="event_forward">بازارسال</string>
+    <string name="event_info_title">مشاهده رویداد</string>
+    <string name="event_not_found">رویداد پیدا نشد.</string>
+    <string name="event_report_spam">گزارش به‌عنوان هرزنامه</string>
+    <string name="event_report_spam_dialog_title">گزارش به‌عنوان هرزنامه</string>
+    <string name="every_weekday_lower">هر روز کاری (دوشنبه تا جمعه)</string>
+    <string name="everyone_declined_message">همه رویداد را رد کردند</string>
+    <string name="everyone_declined_prefix">سایر افراد رد کردند:</string>
+    <string name="ewl_prefix">محل کار:</string>
+    <string name="exception_during_external_activity_start">برنامه‌ای که این اقدام را انجام می‌دهد شروع نشد</string>
+    <string name="expand_button_title">پیشرفته</string>
+    <string name="expand_location">بزرگ کردن %1$s</string>
+    <string name="expand_sheet">بزرگ کردن برگه رویداد</string>
+    <string name="expand_task_sheet">بزرگ کردن برگه کار</string>
+    <string name="expand_working_location_sheet">گسترده کردن برگ محل کار</string>
+    <string name="expanded_location_title">اتاق برای %1$d در %2$s</string>
+    <string name="exposed_dropdown_menu_content_description">نمایش منوی کرکره‌ای</string>
+    <string name="failed_to_copy_to_clipboard">در بریده‌دان کپی نشد.</string>
+    <string name="failed_to_create_conference">کنفرانس ایجاد نشد</string>
+    <string name="feature_events">رویدادها</string>
+    <string name="feature_out_of_office">بیرون از دفتر</string>
+    <string name="feature_reminders">یادآوری‌ها</string>
+    <string name="feature_tasks">کارها</string>
+    <string name="feature_working_location">محل کار</string>
+    <string name="filter_capacity_max">%1$d+</string>
+    <string name="filter_capacity_title">تعداد صندلی موردنیاز</string>
+    <string name="filter_recurring_future_events">این رویداد و رویدادهای آینده</string>
+    <string name="filter_recurring_this_event">این رویداد</string>
+    <string name="find_a_time_bottom_filter_change">تغییر دادن</string>
+    <string name="find_a_time_button_label_more_to_grid">دکمه بیشتر - پیشنهاد زمان را در شبکه تقویم نشان می‌دهد</string>
+    <string name="find_a_time_consider_existing_rooms">درنظر گرفتن اتاق‌های موجود</string>
+    <string name="find_a_time_duration_timeframe_filter_around_custom">حدود %s</string>
+    <string name="find_a_time_duration_timeframe_filter_format">%1$s %2$s</string>
+    <string name="find_a_time_duration_timeframe_filter_on_custom">در %s</string>
+    <string name="find_a_time_event_busy">مشغول</string>
+    <string name="find_a_time_event_no_status">بدون وضعیت</string>
+    <string name="find_a_time_event_out_of_office">خارج از دفتر</string>
+    <string name="find_a_time_event_tentatively_busy">احتمالاً مشغول</string>
+    <string name="find_a_time_filters_title">فیلترها</string>
+    <string name="find_a_time_title">یافتن زمان</string>
+    <string name="find_time_custom_duration_dialog_title">مدت زمان سفارشی</string>
+    <string name="find_time_custom_duration_hour_input">ساعت</string>
+    <string name="find_time_custom_duration_max_error_msg">باید کمتر از ۲۴ ساعت باشد</string>
+    <string name="find_time_custom_duration_min_error_msg">حداقل باید ۱ دقیقه باشد</string>
+    <string name="find_time_custom_duration_minute_input">دقیقه</string>
+    <string name="find_time_duration_custom_option">سفارشی…</string>
+    <string name="find_time_duration_hour_minute_word_break" />
+    <string name="find_time_duration_picker_title">مدت‌زمان</string>
+    <string name="find_time_empty_list_failed_load_calendars_body_title">تقویم‌ها بار نشدند. لطفاً بعداً دوباره امتحان کنید.</string>
+    <string name="find_time_empty_list_failed_load_calendars_label_title">پیشنهادی وجود ندارد</string>
+    <string name="find_time_empty_list_label_body">برای دریافت نتایج بهتر، بازه زمانی یا مدت‌زمان را در زیر تغییر دهید</string>
+    <string name="find_time_empty_list_label_title">همه مشغول هستند</string>
+    <string name="find_time_empty_list_not_found_all_calendars_body_title">به تقویم هیچ مهمانی دسترسی ندارید.</string>
+    <string name="find_time_everyone_everyone_is_busy_snackbar_label">همه مشغولند.</string>
+    <string name="find_time_everyone_is_busy_snackbar_action">پیدا کردن</string>
+    <string name="find_time_find_later_on_snackbar_label">پیشنهادات را بعداً پیدا می‌کنید؟</string>
+    <string name="find_time_grid_slab_datetime_format">%1$s،‏ %2$s</string>
+    <string name="find_time_guest_does_not_take_meetings_at_this_time">%s معمولاً در این ساعت جلسه ندارد</string>
+    <string name="find_time_guest_is_unavailable">%s در دسترس نیست</string>
+    <string name="find_time_label_best_times">بهترین زمان‌ها</string>
+    <string name="find_time_not_considered">درنظر گرفته نشده: %s</string>
+    <string name="find_time_one_or_more_guests_have_conflict">یک یا چند مهمان دارای یک تداخل رویداد هستند</string>
+    <string name="find_time_plus_x_more">+%d رویداد دیگر</string>
+    <string name="find_time_room_booking_options_header">اتاق</string>
+    <string name="find_time_room_is_unavailable">%s در دسترس نیست</string>
+    <string name="find_time_several_guests_are_unavailable">برخی مهمان‌ها در دسترس نیستند</string>
+    <string name="find_time_several_guests_usually_do_not_take_meetings_at_this_time">تعداد زیادی از مهمانان معمولاً در این ساعت جلسه ندارند</string>
+    <string name="find_time_several_participants_are_unavailable">چند شرکت‌کننده در دسترس نیستند</string>
+    <string name="find_time_several_rooms_are_unavailable">چند اتاق در دسترس است</string>
+    <string name="find_time_timeframe_picker_on_a_date_label">در %s</string>
+    <string name="find_time_timeframe_picker_title">بازه زمانی</string>
+    <string name="find_time_timeframe_picker_within_a_date_label">حدود %s</string>
+    <string name="find_time_two_info">%1$s %2$s﻿</string>
+    <string name="find_time_two_lines_short_layout">%1$s: %2$s</string>
+    <string name="find_time_you_are_unavailable">در دسترس نیستید</string>
+    <string name="find_time_you_do_not_take_meetings_at_this_time">معمولاً در این ساعت جلسه ندارید</string>
+    <string name="fix_permission_sharing_option_comment">قادر به نظردادن</string>
+    <string name="fix_permission_sharing_option_edit">قادر به ویرایش</string>
+    <string name="fix_permission_sharing_option_view">قادر به مشاهده</string>
+    <string name="fix_permissions_add_collaborators_button">مهمان‌های این رویداد:</string>
+    <string name="fix_permissions_google_account_not_required_warning">‏لازم نیست مهمان‌ها حساب Google داشته باشند.</string>
+    <string name="fix_permissions_google_account_required_warning">‏مهمان‌ها باید حساب Google داشته باشند.</string>
+    <string name="fix_permissions_increase_domain_visibility_button">‏افراد در &lt;b>%1$s&lt;/b> که این پیوند را دارند:</string>
+    <string name="fix_permissions_increase_public_visibility_button">هرکسی که این پیوند را دارد:</string>
+    <string name="fix_permissions_more_options">گزینه‌های بیشتر</string>
+    <string name="fix_permissions_outside_domain_warning_title">مطمئنید؟</string>
+    <string name="fix_permissions_send_without_sharing">به‌اشتراک نگذارید</string>
+    <string name="fix_permissions_title">گزینه‌های هم‌رسانی</string>
+    <string name="flight_cancelled">لغو شد</string>
+    <string name="flight_duration">مدت پرواز</string>
+    <string name="flight_redirected">تغییر مسیر داد</string>
+    <string name="floor">طبقه %1$s</string>
+    <string name="floor_and_section">%1$s-%2$s</string>
+    <string name="floor_label">طبقه: %s</string>
+    <string name="floor_section_label">بخش: %s</string>
+    <string name="focus_time_prefix">زمان تمرکز:</string>
+    <string name="foreign_holiday">%1$s (%2$s)</string>
+    <string name="forward_event_chooser_title">بازارسال با</string>
+    <string name="forward_event_email_subject">بازارسال: %s</string>
+    <string name="forward_event_message_body">"‏از: %1$s
+موضوع: %2$s
+به: %3$s
+
+زمان: %4$s
+مکان: %5$s
+
+%6$s"</string>
+    <string name="forward_event_toast_title">درحال بازارسال رویداد…</string>
+    <string name="generic_error">خطا</string>
+    <string name="gms_core_unrecoverable_error">‏به دلیل خطای خدمات Google Play، «تقویم» راه‌اندازی نشد.</string>
+    <string name="go_to_calendar_website">به وب‌سایت «تقویم» بروید</string>
+    <string name="go_to_play_store">‏رفتن به فروشگاه Play</string>
+    <string name="google_play_protect_title">‏سپر ایمنی Google Play</string>
+    <string name="google_primary_calendar_name">رویدادها</string>
+    <string name="got_it">متوجه شدم</string>
+    <string name="goto_next_month">رفتن به ماه بعد</string>
+    <string name="goto_previous_month">رفتن به ماه قبل</string>
+    <string name="goto_tasks">‏باز کردن Tasks</string>
+    <string name="goto_today">رفتن به امروز</string>
+    <string name="guest_notification_prompt_cancellations_will_be_sent_message">‏برای مهمانان «تقویم Google» ایمیل لغو ارسال خواهد شد.</string>
+    <string name="guest_notification_prompt_create_message">‏برای مهمانان «تقویم Google» ایمیل دعوت ارسال شود؟</string>
+    <string name="guest_notification_prompt_delete_message">‏برای مهمانان «تقویم Google» ایمیل لغو ارسال شود؟</string>
+    <string name="guest_notification_prompt_invite_new_cancel_removed_guests">‏برای مهمانان جدید و حذف‌شده «تقویم Google» ایمیل ارسال شود؟</string>
+    <string name="guest_notification_prompt_invite_new_guests">‏برای مهمانان جدید «تقویم Google» ایمیل دعوت ارسال شود؟</string>
+    <string name="guest_notification_prompt_invite_new_guests_update_existing">‏برای مهمانان کنونی و جدید «تقویم Google» ایمیل ارسال شود؟</string>
+    <string name="guest_notification_prompt_invite_new_update_existing_cancel_removed_guests">‏برای مهمانان کنونی، جدید و حذف‌شده «تقویم Google» ایمیل ارسال شود؟</string>
+    <string name="guest_notification_prompt_learn_more">%s بیشتر بدانید</string>
+    <string name="guest_notification_prompt_negative_button">ارسال نشود</string>
+    <string name="guest_notification_prompt_positive_button">ارسال</string>
+    <string name="guest_notification_prompt_previous_changes_could_be_sent_message">%s تغییرات قبلی را که در این رویداد ایجاد کردید، می‌توانید لحاظ کنید.</string>
+    <string name="guest_notification_prompt_update_cancel_removed_guests_message">‏برای مهمانان حذف‌شده «تقویم Google» ایمیل لغو ارسال شود؟</string>
+    <string name="guest_notification_prompt_update_existing_cancel_removed_guests_message">‏برای مهمانان کنونی و حذف‌شده «تقویم Google» ایمیل ارسال شود؟</string>
+    <string name="guest_notification_prompt_update_message">‏برای مهمانان «تقویم Google» ایمیل به‌روزرسانی ارسال شود؟</string>
+    <string name="guest_notification_prompt_updates_will_be_sent_message">برای تغییرات قبلی و کنونی ایمیل ارسال خواهد شد.</string>
+    <string name="guests_can_header">مهمان می‌تواند:</string>
+    <string name="guests_can_item_invite_others">دعوت کردن دیگران</string>
+    <string name="guests_can_item_modify_event">رویداد را تغییر دهد</string>
+    <string name="guests_can_item_no_permissions">فقط جزئیات رویداد دیده شود</string>
+    <string name="guests_can_item_see_guest_list">فهرست مهمان را ببیند</string>
+    <string name="guests_hidden_large_event">کل فهرست مهمان نشان داده نمی‌شود زیرا تعداد آن‌ها بسیار زیاد است.</string>
+    <string name="guests_hidden_no_permission">فهرست کامل مهمان‌ها در درخواست سازمان‌دهنده پنهان است.</string>
+    <string name="hangout_action">‏‫پیوستن به Hangout</string>
+    <string name="happy_birthday">تولدت مبارک!</string>
+    <string name="has_audio_equipment">تجهیزات صوتی دارد</string>
+    <string name="has_video_equipment">تجهیزات ویدیویی دارد</string>
+    <string name="hide_account_list">پنهان کردن حساب</string>
+    <string name="holiday_settings_button_text">به‌روزرسانی تنظیمات تعطیلات</string>
+    <string name="home">خانه</string>
+    <string name="hourly_view_label">روز</string>
+    <string name="hourly_view_label_full">نمای روز</string>
+    <string name="ical_ask_delete_cancelled_event">رویداد «%s» لغو شده است. مایلید آن را از تقویمتان حذف کنید؟</string>
+    <string name="ical_event_existing">این رویداد از قبل در تقویم شما وجود دارد.</string>
+    <string name="ical_event_existing_newer_version">نسخه جدیدتری از این رویداد از قبل در تقویم شما وجود دارد.</string>
+    <string name="ical_event_launch_failed">رویداد راه‌اندازی نشد</string>
+    <string name="ical_file_unsupported">‏فایل ICS پشتیبانی نمی‌شود.</string>
+    <string name="ical_import_all">افزودن همه</string>
+    <string name="ical_import_all_failure">همه رویدادها به تقویمتان اضافه نشد.</string>
+    <string name="ical_import_all_success">همه رویدادها به تقویم شما اضافه شدند.</string>
+    <string name="ical_import_failed">رویداد اضافه نشد.</string>
+    <string name="ical_import_successful">رویداد به تقویمتان اضافه شد.</string>
+    <string name="ical_update_failed">رویداد به‌روزرسانی نشد.</string>
+    <string name="ical_update_successful">رویداد با موفقیت به‌روزرسانی شد.</string>
+    <string name="ics_file">‏فایل ICS</string>
+    <string name="illegal_times_selected_dialog_text">زمان شروع رویداد را به‌گونه‌ای تغییر دهید که قبل از زمان پایان رویداد باشد.</string>
+    <string name="import_event_action_prompt">افزودن به تقویم</string>
+    <string name="inferred_rsvp_location_promo_body_text">«تقویم» می‌تواند براساس محل کارتان، نحوه پیوستن شما را تعیین کند</string>
+    <string name="infinite_duration_accessibility_description">هرگز به پایان نمی‌رسد</string>
+    <string name="infinite_duration_label">هرگز</string>
+    <string name="instructions_for_calendar_permission_settings_screen">در «تنظیمات»، روی «اجازه‌ها» ضربه بزنید و «تقویم» را فعال کنید.</string>
+    <string name="interval_title">تکرار در هر</string>
+    <string name="item_is_selected">%1$s انتخاب شد</string>
+    <string name="join_by_phone_action_label">پیوستن با تلفن</string>
+    <string name="join_conference_with">پیوستن با %s</string>
+    <string name="join_from_non_google_system">پیوستن از سیستم شخص ثالث</string>
+    <string name="join_live_stream">تماشای جریان مستقیم</string>
+    <string name="join_video_conferencing">پیوستن به کنفرانس ویدیویی</string>
+    <string name="join_video_conferencing_short">پیوستن</string>
+    <string name="known_senders_opt_out_promo_body">دعوت‌های افرادی که ممکن است نشناسید به‌طور خودکار در تقویمتان نشان داده نمی‌شود. همچنان می‌توانید در ایمیل به این دعوت‌ها پاسخ دهید.</string>
+    <string name="known_senders_opt_out_promo_learn_more_link">درباره دعوت به رویدادها بیشتر بدانید</string>
+    <string name="known_senders_opt_out_promo_neutral_button">مدیریت تنظیم</string>
+    <string name="known_senders_opt_out_promo_positive_button">متوجه‌ام</string>
+    <string name="known_senders_opt_out_promo_title">اکنون مسدود کردن هرزنامه آسان‌تر است</string>
+    <string name="launcher_shortcut_event">رویداد جدید</string>
+    <string name="launcher_shortcut_event_long">رویداد جدید</string>
+    <string name="launcher_shortcut_reminder">یادآوری جدید</string>
+    <string name="launcher_shortcut_reminder_long">یادآوری جدید</string>
+    <string name="learn_more">بیشتر بدانید</string>
+    <string name="learn_more_google_accounts">درباره حساب‌ها بیشتر بدانید.</string>
+    <string name="legacy_holiday_label">%s (قدیمی)</string>
+    <string name="libraries_material_featurehighlight_dismiss">نپذیرفتن</string>
+    <string name="list_week_view_3days_label">۳ روز</string>
+    <string name="list_week_view_3days_label_full">نمای ۳ روزه</string>
+    <string name="loading">در حال بارگیری…</string>
+    <string name="loading_addons_error">نمی‌توان راه‌حل‌های کنفرانس را بار کرد</string>
+    <string name="loading_addons_error_no_connection">نمی‌توان راه‌حل‌های کنفرانس را بار کرد، زیرا اتصال اینترنت قطع است</string>
+    <string name="loading_attendees">‏درحال بارگیری شرکت‌کننده‌ها…</string>
+    <string name="local_account_deactivated_account_picker_popup_explanation">‏می‌توانید رویدادها را هنگام ایجاد به این حساب اضافه کنید. برای بهره بردن از تمام ویژگی‌های «تقویم»، از «حساب Google» استفاده کنید.</string>
+    <string name="local_account_deactivated_account_picker_popup_learn_more">درباره استفاده از حساب‌ها در «تقویم» بیشتر بدانید.</string>
+    <string name="location_conferencing_defer">هیچ‌کدام / بعداً مشخص می‌شود</string>
+    <string name="location_conferencing_error_subtext">مکانی را وارد کنید</string>
+    <string name="location_conferencing_in_person">جلسه حضوری</string>
+    <string name="location_conferencing_location_hint">افزودن مکان (الزامی)</string>
+    <string name="location_conferencing_meet">‏کنفرانس ویدیویی Google Meet</string>
+    <string name="location_conferencing_none">افزودن مکان یا کنفرانس</string>
+    <string name="location_conferencing_phone">تماس تلفنی</string>
+    <string name="location_conferencing_subtext_meet">‏بعداز تأیید زمان، پیوند Meet ایجاد خواهد شد</string>
+    <string name="location_conferencing_subtext_phone">فردی که زمان را تأیید می‌کند شماره تلفن را ارائه خواهد داد</string>
+    <string name="location_error">مکان اضافه نشد</string>
+    <string name="location_meeting_room">در اتاق جلسه</string>
+    <string name="location_picker_contacts">مخاطبین</string>
+    <string name="location_picker_hint">افزودن مکان</string>
+    <string name="location_picker_locations">مکان‌های اطراف</string>
+    <string name="location_remove">برداشتن</string>
+    <string name="location_show_on_map">نمایش روی نقشه</string>
+    <string name="location_time">%s (زمان محلی)</string>
+    <string name="location_virtually">به‌صورت مجازی</string>
+    <string name="map_label">نقشه</string>
+    <string name="maps_not_available">برنامه‌ای برای مشاهده این مکان پیدا نشد.</string>
+    <string name="meet_consumer_description_label">جزئیات کنفرانس ویدیویی اضافه شد</string>
+    <string name="meet_description_label">جزئیات کنفرانس ویدیویی و تماس ورودی اضافه شد</string>
+    <string name="meet_sharing_joining_info">‏اطلاعات پیوستن به Google Meet</string>
+    <string name="meet_sharing_more_phone_numbers">شماره تلفن‌های بیشتر: %s</string>
+    <string name="meet_sharing_phone_number">یا با این شماره تماس بگیرد: %s</string>
+    <string name="meet_sharing_sip">‏یا ازطریق SIP بپیوندید: %s</string>
+    <string name="meet_sharing_video_call">پیوند تماس ویدیویی: %s</string>
+    <string name="meeting_code_format">شناسه: %s</string>
+    <string name="meetings_decline_type_disabled_explanation">برای ورودی‌های تکرارشونده دردسترس نیست</string>
+    <string name="menu_category_general_preferences">موارد کلی</string>
+    <string name="menu_crossprofile_connection_off">نمایش داده نمی‌شود</string>
+    <string name="menu_crossprofile_connection_on">نمایش داده می‌شود</string>
+    <string name="menu_crossprofile_preferences">تقویم‌های شخصی</string>
+    <string name="menu_help">راهنما</string>
+    <string name="menu_item_help_feedback">راهنما و بازخورد</string>
+    <string name="menu_smartmail_preference_details">"‏Gmail می‌تواند به‌طور خودکار رویدادهایی ایجاد کند که می‌توان در تقویم نمایش داد. این رویدادها به شما کمک می‌کنند مواردی مثل پروازها و دیگر رزروها را ردیابی کنید.
+
+برای دریافت «رویدادها از Gmail»، باید "<b>شخصی‌سازی و ویژگی‌های هوشمند</b> را نیز در تنظیمات Gmail روشن کنید</string>
+    <string name="menu_smartmail_preferences">‏رویدادها از Gmail</string>
+    <string name="menu_working_hours_preferences">ساعت کار</string>
+    <string name="missing_permissions_dialog_button_negative">رد شدن</string>
+    <string name="missing_permissions_dialog_button_positive">رفتن به برنامه شخصی</string>
+    <string name="missing_permissions_dialog_text">برای دیدن همه تقویم‌هایتان، لطفاً اجازه‌های مربوط به برنامه «تقویم» شخصی را فعال کنید.</string>
+    <string name="missing_permissions_dialog_title">عدم امکان دسترسی به تقویم‌ها</string>
+    <string name="month_view">نمای ماه تقویم</string>
+    <string name="month_view_label">ماه</string>
+    <string name="month_view_label_full">نمای ماه</string>
+    <string name="monthly_date_frequency">ماهانه در روز %1$s</string>
+    <string name="more_info_card_call_content_description">تماس گرفتن با %1$s: %2$s</string>
+    <string name="more_info_card_email_content_description">ارسال ایمیل به %1$s: %2$s</string>
+    <string name="more_joining_options">گزینه‌های بیشتر برای پیوستن</string>
+    <string name="more_label">موارد بیشتر</string>
+    <string name="more_primary">دستورالعمل‌های پیوستن</string>
+    <string name="move_reminder_to_date">یادآوری به %s منتقل شد.</string>
+    <string name="mtrl_checkbox_state_description_checked">Checked</string>
+    <string name="mtrl_checkbox_state_description_indeterminate">Partially checked</string>
+    <string name="mtrl_checkbox_state_description_unchecked">Not checked</string>
+    <string name="mtrl_chip_close_icon_content_description">برداشتن %1$s</string>
+    <string name="mtrl_picker_a11y_next_month">تغییر به ماه بعدی</string>
+    <string name="mtrl_picker_a11y_prev_month">تغییر به ماه قبلی</string>
+    <string name="mtrl_picker_day_of_week_column_header">ستون روز: %1$s</string>
+    <string name="mtrl_picker_end_date_description">تاریخ پایان: %1$s</string>
+    <string name="mtrl_picker_navigate_to_current_year_description">پیمایش به سال فعلی %1$d</string>
+    <string name="mtrl_picker_navigate_to_year_description">رفتن به سال %1$d</string>
+    <string name="mtrl_picker_start_date_description">تاریخ شروع: %1$s</string>
+    <string name="mtrl_picker_today_description">امروز %1$s</string>
+    <string name="mtrl_picker_toggle_to_day_selection">برای رفتن به نمای «تقویم» ضربه بزنید</string>
+    <string name="mtrl_picker_toggle_to_year_selection">برای رفتن به نمای سال ضربه بزنید</string>
+    <string name="new_event_prefix">رویداد جدید:</string>
+    <string name="new_task_prefix">کار جدید:</string>
+    <string name="new_time_proposed">زمان جدید به سازمان‌دهنده پیشنهاد شد</string>
+    <string name="next_month">ماه بعد</string>
+    <string name="no_available_conferences">هیچ راه‌حل کنفرانسی دردسترس نیست</string>
+    <string name="no_available_dialer">شماره‌گیر دردسترس نیست.</string>
+    <string name="no_calendar_permission_message">‏«تقویم Google» برای ایجاد و نمایش رویدادهایتان به اجازه نیاز دارد.</string>
+    <string name="no_calendar_permission_title">دسترسی به تقویم شما ممکن نیست</string>
+    <string name="no_clock_role_message">‏برای اینکه اعلان‌های رویداد در زمان درست نشان داده شود، «تقویم Google» به اجازه شما برای تنظیم یادآوری نیاز دارد</string>
+    <string name="no_clock_role_title">اجازه دادن به «تقویم» برای یادآوری زمان دقیق</string>
+    <string name="no_end_time">بدون زمان پایان</string>
+    <string name="no_entries_after">فقط ورودی‌های پس‌از تاریخ %s در اینجا نمایش داده می‌شود</string>
+    <string name="no_events_for_day">چیزی برنامه‌ریزی نشده است. برای ایجاد، ضربه بزنید.</string>
+    <string name="no_events_today">امروز خبری نیست</string>
+    <string name="no_information">اطلاعاتی وجود ندارد</string>
+    <string name="no_more_events_today">امروز خبر دیگری نیست</string>
+    <string name="no_one_to_chat_with">هیچ فردی برای گپ زدن اینجا نیست</string>
+    <string name="no_reminder">بدون یادآوری</string>
+    <string name="no_results_events_and_reminders">رویداد یا یادآوری پیدا نشد</string>
+    <string name="no_results_with_quoted_text">نتیجه‌ای برای «%s» پیدا نشد</string>
+    <string name="no_title_label">(بدون عنوان)</string>
+    <string name="no_title_placeholder">(بدون عنوان)</string>
+    <string name="no_visible_calendars_action">متوجه شدم</string>
+    <string name="no_visible_calendars_body">"‏همه تقویم‌ها خاموشند، به همین دلیل چیزها قدری خالی به‌نظر می‌رسند.
+
+منوی سمت راست بالا را باز کنید و روی تقویمی برای دیدن رویدادها ضربه بزنید."</string>
+    <string name="no_visible_calendars_title">تقویم‌ها پنهان هستند</string>
+    <string name="non_google_account_attachments">‏پیوست‌ها حذف شدند زیرا Drive برای حساب‌های غیر Google پشتیبانی نمی‌شود.</string>
+    <string name="non_google_account_discouraged">‏ممکن است این حساب از همه ویژگی‌های «تقویم Google» پشتیبانی نکند</string>
+    <string name="not_set">تنظیم نشده</string>
+    <string name="notification_chat_button_description">گپ با مهمانان</string>
+    <string name="notification_chat_button_description_short">گپ</string>
+    <string name="notification_permission_explanation_page_allow_button">مجاز کردن اعلان‌ها</string>
+    <string name="notification_permission_explanation_page_message">برای دریافت هشدار برای رویدادها و تکالیف آتی، به «تقویم» اجازه دهید اعلان ارسال کند. می‌توانید اعلان‌ها را برای هر رویداد تنظیم کنید.</string>
+    <string name="notification_permission_explanation_page_skip_button">حالا نه</string>
+    <string name="notification_permission_explanation_page_title">هیچ‌چیز را از دست ندهید</string>
+    <string name="notification_tone_label">اعلان تقویم</string>
+    <string name="notifications_are_turned_off_in_settings">اعلان‌ها در تنظیمات این دستگاه خاموش هستند</string>
+    <string name="notifications_channel_description">اعلان‌های تقویم</string>
+    <string name="notifications_off_warning">اعلانی در این دستگاه دریافت نخواهید کرد زیرا اعلان‌های «تقویم» خاموش است.</string>
+    <string name="notifications_off_warning_directive">مجاز کردن اعلان‌ها</string>
+    <string name="notifications_off_warning_settings_target">رفتن به «تنظیمات»</string>
+    <string name="office">دفتر کار</string>
+    <string name="offline_warning">آفلاین هستید. برخی از زمان‌بندی‌ها را نمی‌توان بار کرد.</string>
+    <string name="og_a11y_close">بستن</string>
+    <string name="og_account_and_settings">حساب و تنظیمات.</string>
+    <string name="og_account_critical_alert_view_label_a11y">%1$s برای %2$s</string>
+    <string name="og_account_deactivated_a11y">جابه‌جایی بین حساب برای %1$s غیرفعال شده است</string>
+    <string name="og_account_particle_disc_no_accounts_available_a11y">ورود به سیستم</string>
+    <string name="og_account_switching_deactivated">عوض کردن حساب غیرفعال است</string>
+    <string name="og_add_another_account">افزودن یک حساب دیگر</string>
+    <string name="og_choose_an_account_title">حسابی را انتخاب کنید</string>
+    <string name="og_collapse_account_list_a11y">فهرست حساب را جمع کنید.</string>
+    <string name="og_continue">ادامه</string>
+    <string name="og_continue_as">ادامه دادن به‌عنوان %1$s</string>
+    <string name="og_critical_security_alert_badge_label_a11y">هشدار امنیتی جدی</string>
+    <string name="og_expand_account_list_a11y">فهرست حساب را گسترده کنید.</string>
+    <string name="og_google_one_account_a11y">‏حساب Google One</string>
+    <string name="og_got_it">متوجه‌ام</string>
+    <string name="og_important_account_alert_badge_a11y_label">هشدار مهم درباره حساب</string>
+    <string name="og_important_actions_available_a11y_label">%1$s مهمی دردسترس است</string>
+    <string name="og_loading_a11y">درحال بار کردن</string>
+    <string name="og_manage_accounts">مدیریت حساب‌ها در این دستگاه</string>
+    <string name="og_my_account_desc_long_length">‏مدیریت «حساب Google»</string>
+    <string name="og_my_account_desc_meduim_length">‏حساب Google</string>
+    <string name="og_my_account_desc_short_length">حساب</string>
+    <string name="og_obake_feature_a11y">تغییر عکس نمایه.</string>
+    <string name="og_privacy_policy">خط‌مشی رازداری</string>
+    <string name="og_recommended_actions_entry_point">اقدامات توصیه‌شده</string>
+    <string name="og_selected_account_a11y">%1$s انتخاب شد.</string>
+    <string name="og_sign_in_">ورود به سیستم</string>
+    <string name="og_signed_in_as_account">به‌عنوان %1$s به سیستم وارد شدید</string>
+    <string name="og_terms_of_service">شرایط و ضوابط</string>
+    <string name="og_use_account_a11y_no_period">استفاده از %1$s</string>
+    <string name="on_the_day_at">در آن روز در %s</string>
+    <string name="only_reschedule_reminders_to_future">یادآوری‌ها نمی‌توانند به گذشته منتقل شوند</string>
+    <string name="oobe_done">متوجه شدم</string>
+    <string name="oobe_next">صفحه بعد</string>
+    <string name="oobe_welcome_to_google_calendar">‏به «تقویم Google» خوش آمدید</string>
+    <string name="ooo">بیرون از دفتر</string>
+    <string name="ooo_auto_decline_default_message">چون خارج از دفتر هستم، رد شد</string>
+    <string name="ooo_auto_decline_disabled">جلسه‌ها رد نخواهند شد</string>
+    <string name="ooo_auto_decline_explanation">رد کردن خودکار جلسه‌ها</string>
+    <string name="ooo_auto_decline_message_label">پیام</string>
+    <string name="ooo_auto_decline_will_apply_to_existing_and_new_invitations">جلسه‌های جدید و موجود رد خواهد شد</string>
+    <string name="ooo_auto_decline_will_apply_to_new_invitations">فقط جلسه‌های جدید رد خواهد شد</string>
+    <string name="ooo_auto_reply_enabled">‏پاسخ خودکار در Gmail تنظیم شده است</string>
+    <string name="ooo_confirm_dialog_positive">ذخیره و رد کردن</string>
+    <string name="ooo_confirm_dialog_title">درطول این زمان، جلسه‌های جدید و موجود به‌طور خودکار رد شود؟</string>
+    <string name="ooo_confirm_dialog_title_decline_new_only">درطول این زمان، جلسه‌های جدید به‌طور خودکار رد شوند؟</string>
+    <string name="ooo_decline_new_and_existing_meetings">جلسه‌های موجود و جدید</string>
+    <string name="ooo_decline_new_meetings">فقط دعوت به جلسه‌های جدید</string>
+    <string name="ooo_decline_new_meetings_read_out">رد کردن %1$s</string>
+    <string name="ooo_default_title">بیرون از دفتر</string>
+    <string name="ooo_meetings_to_decline">جلسه‌هایی که لغو می‌شوند</string>
+    <string name="ooo_prefix">بیرون از دفتر</string>
+    <string name="ooo_visibility_disclaimer">‏«دردسترس بودن» ممکن است در سایر برنامه‌های Google نمایش داده شود. این تنظیم را می‌توانید در تنظیمات «تقویم» در رایانه‌تان تغییر دهید.</string>
+    <string name="open_source_licenses_title">مجوزهای منبع باز</string>
+    <string name="option_remove">برداشتن</string>
+    <string name="organizer">سازمان‌دهنده: %s</string>
+    <string name="out_of_office">بیرون از دفتر</string>
+    <string name="outside_working_hours">خارج از ساعت کاری</string>
+    <string name="overwrite_event_action_prompt">بازنویسی رویداد موجود</string>
+    <string name="palestine_display_name">فلسطین</string>
+    <string name="passcode_format">گذرنویسه: %s</string>
+    <string name="password_format">گذرواژه: %s</string>
+    <string name="password_toggle_content_description">نمایش گذرواژه</string>
+    <string name="people_intelligence_busy">مشغول - دوباره در %1$s دردسترس است</string>
+    <string name="people_intelligence_in_a_meeting">در جلسه - دوباره در %1$s دردسترس است</string>
+    <string name="people_intelligence_out_of_office">بیرون از دفتر است - %1$s برمی‌گردد</string>
+    <string name="people_intelligence_outside_working_hours">خارج از ساعت کاری معمول - زمان محلی %1$s است</string>
+    <string name="peoplekit_contact_selected">انتخاب‌شده</string>
+    <string name="peoplesheet_add_to_contacts">افزودن به مخاطبین</string>
+    <string name="peoplesheet_edit_contact">ویرایش مخاطب</string>
+    <string name="peoplesheet_more_info_card_more_info_link">باز کردن نمای پرجزئیات</string>
+    <string name="personal_profile_header_title">نمایه شخصی</string>
+    <string name="phone_number_with_pin_format">%1$s پین: %2$s</string>
+    <string name="pin_format">پین: %s</string>
+    <string name="play_protect_uncertified_device_notification_title">‏این دستگاه گواهی «سپر ایمنی Play» ندارد</string>
+    <string name="posting_to_chat_dialog_header">هم‌رسانی در مکالمه گپ</string>
+    <string name="posting_to_chat_dialog_save">ذخیره و هم‌رسانی</string>
+    <string name="posting_to_chat_dialog_text_group_with_title">‏وقتی اطلاعات این رویداد را ذخیره کنید، با “%1$s” هم‌رسانی خواهد شد</string>
+    <string name="posting_to_chat_dialog_text_one_on_one">وقتی اطلاعات این رویداد را ذخیره کنید، با %1$s هم‌رسانی خواهد شد</string>
+    <string name="preference_copied">«%1$s» در بریده‌دان کپی شد.</string>
+    <string name="preference_edit_alternate_calendar_header">تقویم جایگزین</string>
+    <string name="preference_edit_alternate_calendar_label_chinese_simplified">تقویم چینی - ساده‌شده</string>
+    <string name="preference_edit_alternate_calendar_label_chinese_traditional">تقویم چینی - سنتی</string>
+    <string name="preference_edit_alternate_calendar_label_hebrew">تقویم عبری</string>
+    <string name="preference_edit_alternate_calendar_label_hijri_civil">تقویم هجری قمری - مدنی</string>
+    <string name="preference_edit_alternate_calendar_label_hijri_kuwaiti">تقویم هجری قمری - کویت</string>
+    <string name="preference_edit_alternate_calendar_label_hijri_saudi">تقویم هجری قمری - سعودی</string>
+    <string name="preference_edit_alternate_calendar_label_indian">تقویم هندی - هندو (ساکا)</string>
+    <string name="preference_edit_alternate_calendar_label_korean">تقویم کره‌ای</string>
+    <string name="preference_edit_alternate_calendar_label_none">بدون تقویم جایگزین</string>
+    <string name="preference_edit_alternate_calendar_label_persian">هجری شمسی</string>
+    <string name="preference_edit_color_header">رنگ</string>
+    <string name="preference_edit_device_timezone_header">منطقه زمانی</string>
+    <string name="preference_edit_display_short_events_as_30_min">نمایش ورودی‌های کوتاه‌تر به‌کوتاهی ورودی‌های ۳۰ دقیقه‌ای</string>
+    <string name="preference_edit_family_label">مدیریت</string>
+    <string name="preference_edit_no_ringtone_string">هیچ‌کدام</string>
+    <string name="preference_edit_notifications_disabled_help">اعلانی دریافت نخواهید کرد، زیرا اعلان‌های «تقویم» در تنظیمات این دستگاه خاموش است.</string>
+    <string name="preference_edit_notifications_disclaimer">با رفتن به تقویم جداگانه مانند «رویدادها» می‌توانید اعلان‌های پیش‌فرض را تغییر دهید.</string>
+    <string name="preference_edit_notifications_header">اعلان‌ها</string>
+    <string name="preference_edit_notify">اعلام کردن دراین دستگاه</string>
+    <string name="preference_edit_ringtone_header">آهنگ</string>
+    <string name="preference_edit_show_declined">نمایش رویدادهای پذیرفته‌نشده</string>
+    <string name="preference_edit_show_month_illustrations">نمایش مصورسازی ماه</string>
+    <string name="preference_edit_show_more_events_description">غیرفعال کردن مصورسازی‌های فصلی</string>
+    <string name="preference_edit_show_more_events_label">نمایش رویدادهای بیشتر</string>
+    <string name="preference_edit_show_week_number">نمایش شماره هفته</string>
+    <string name="preference_edit_sync_header">همگام‌سازی</string>
+    <string name="preference_edit_theme_label">زمینه</string>
+    <string name="preference_edit_title_header">نام</string>
+    <string name="preference_edit_use_device_timezone_label">استفاده از منطقه زمانی دستگاه</string>
+    <string name="preference_edit_use_standard">استفاده از آهنگ استاندارد</string>
+    <string name="preference_edit_vibrate">لرزش</string>
+    <string name="preference_edit_week_start_header">شروع هفته</string>
+    <string name="preference_family_disclaimer">رویدادهای اضافه‌شده به این تقویم با همه اعضای خانواده شما به اشتراک گذاشته می‌شود</string>
+    <string name="preference_no_connection">اتصال برقرار نیست. هروقت آنلاین شدید، این تنظیمات به‌روزرسانی خواهد شد.</string>
+    <string name="preference_tasks_notifications_enabled">‏اعلان‌های Tasks</string>
+    <string name="preference_theme_dark_label">تیره</string>
+    <string name="preference_theme_header">انتخاب زمینه</string>
+    <string name="preference_theme_help_pre_q">‏در نسخه‌ای که از Android دارید، زمینه ابزارک و اعلان تغییر نمی‌کند.</string>
+    <string name="preference_theme_help_q">‏برای تغییر زمینه اعلان‌ها و ابزارک «تقویم»، <a href="https://support.google.com/android/answer/9084191?ref_topic=7651007">تنظیمات صفحه و نمایشگر</a> Android را مدیریت کنید.</string>
+    <string name="preference_theme_light_label">روشن</string>
+    <string name="preference_theme_set_by_battery_saver_label">تنظیم براساس «بهینه‌سازی باتری»</string>
+    <string name="preference_theme_system_default_label">پیش‌فرض سیستم</string>
+    <string name="preference_unlisted_color_label">رنگ فعلی</string>
+    <string name="preferences_edit_allday_notifications_header">اعلان‌های پیش‌فرض برای رویدادهای تمام‌روز</string>
+    <string name="preferences_edit_timed_notifications_header">اعلان‌های پیش‌فرض</string>
+    <string name="preferences_license_title">اعلان‌های شخص ثالث</string>
+    <string name="preferences_title">تنظیمات</string>
+    <string name="previous_month">ماه قبلی</string>
+    <string name="primary_calendar_display_name">رویدادها</string>
+    <string name="privacy_policy">خط‌مشی رازداری</string>
+    <string name="processing_subscription">درحال پردازش…</string>
+    <string name="promo_notification_text">برای اینکه همه رویدادهایتان را باهم ببینید، تقویم‌های شخصی را به برنامه کاری‌تان اضافه کنید. برای راه‌اندازی ضربه بزنید.</string>
+    <string name="promo_notification_title">افزودن تقویم‌های شخصی</string>
+    <string name="proposal_in_the_past">پیشنهادتان مربوط به گذشته است.</string>
+    <string name="proposal_same_as_event_time">پیشنهادتان با زمان رویداد یکی است.</string>
+    <string name="propose_new_time_optional_note">افزودن یادداشت اختیاری</string>
+    <string name="propose_new_time_show_less_text">نمایش کمتر</string>
+    <string name="propose_new_time_show_more_text">بیشتر ببینید</string>
+    <string name="propose_new_time_title_propose">پیشنهاد زمان جدید</string>
+    <string name="propose_new_time_title_review">مرور پیشنهادهای زمان</string>
+    <string name="propose_time_chip_text">پیشنهاد زمان جدید</string>
+    <string name="propose_time_proposal_prefix">پیشنهاد: %s</string>
+    <string name="propose_time_review_button_text">مرور زمان پیشنهادی</string>
+    <string name="public_holidays_only">فقط تعطیلات عمومی</string>
+    <string name="public_holidyays_and_others">تعطیلات رسمی و تعطیلات دیگر</string>
+    <string name="quick_actions_call_content_description">تماس با %s.</string>
+    <string name="quick_actions_chat_content_description">ارسال پیام Chat به %s</string>
+    <string name="quick_actions_email_content_description">ایمیل: %s</string>
+    <string name="quick_actions_meet_content_description">شروع جلسه تصویری با %s</string>
+    <string name="quick_actions_schedule_content_description">زمان‌بندی یک جلسه با %s</string>
+    <string name="quick_actions_type_call">تماس</string>
+    <string name="quick_actions_type_chat">گپ</string>
+    <string name="quick_actions_type_email">ایمیل</string>
+    <string name="quick_actions_type_meet">Meet</string>
+    <string name="quick_actions_type_schedule">زمان‌بندی</string>
+    <string name="quick_response_custom_msg">نوشتن ...</string>
+    <string name="quick_response_email_failed">برنامه ایمیل پیدا نشد</string>
+    <string name="quick_response_settings">پاسخ‌های سریع</string>
+    <string name="recurrence_month_pattern_last_day">آخرین روز ماه</string>
+    <string name="recurrence_picker_activity_label">انتخاب‌گر تکرار</string>
+    <string name="recurrence_toolbar_title">تکرار سفارشی</string>
+    <string name="reject_subscription">نه</string>
+    <string name="religious_holidays_hint">افزودن تعطیلات مذهبی</string>
+    <string name="religious_holidays_section_title">تعطیلات مذهبی</string>
+    <string name="reminder">یادآوری</string>
+    <string name="reminder_description_prefix">یادآوری:</string>
+    <string name="reminder_done_description_prefix">یادآوری انجام شد:</string>
+    <string name="reminder_full_item">%1$s به صورت %2$s</string>
+    <string name="reminder_info_title">مشاهده یادآوری</string>
+    <string name="reminders_calendar_name">یادآوری‌ها</string>
+    <string name="reminders_migrated">‏یادآوری‌ها اکنون به تکلیف تبدیل شده است. بااستفاده از Google Tasks، از کارهایتان مطلع شوید.</string>
+    <string name="reminders_migration_can_not_create_during_migration">نمی‌توانید یادآوری‌ها را وقتی درحال تبدیل شدن به تکالیف هستند اضافه کنید</string>
+    <string name="reminders_migration_card_button">در همین لحظه یادآوری‌هایم به تکلیف تبدیل شوند</string>
+    <string name="reminders_migration_card_description">‏برنامه Google Tasks با انعطاف‌پذیری بیشتر به شما اجازه می‌دهد وظایف و کارها را به‌شکل فهرست سازمان‌دهی کنید، و آن‌ها را در همه جای Google Workspace مدیریت کنید.</string>
+    <string name="reminders_migration_card_title">به‌زودی یادآوری‌هایتان به تکلیف ارتقا پیدا خواهند کرد</string>
+    <string name="reminders_migration_completed_tooltip_description">‏به‌عنوان %s، ازاین‌پس می‌توانید بااستفاده از تکلیف‌ها در هر جای Google Workspace که هستید، از کارهایتان مطلع شوید و آن‌ها را پیگیری کنید.</string>
+    <string name="reminders_migration_completed_tooltip_title">یادآوری‌ها اکنون به تکلیف تبدیل شده است</string>
+    <string name="reminders_migration_dialog_button">ادامه</string>
+    <string name="reminders_migration_dialog_description_completed_reminders_remark">همه یادآوری‌های کامل‌شده به تکلیف کامل‌شده تبدیل خواهند شد.</string>
+    <string name="reminders_migration_dialog_description_keep_remark">‏یادآوری‌های ایجادشده در Google Keep به تکلیف تبدیل نخواهند شد. آن‌ها را همچنان می‌توانید در Keep مدیریت کنید.</string>
+    <string name="reminders_migration_dialog_description_location_remark">اگر یادآوری دارای مکان باشد، در شرح تکلیف نشان داده خواهد شد. هیچ اعلان مکان‌مبنایی از آن دریافت نخواهید کرد.</string>
+    <string name="reminders_migration_dialog_description_more_than_remark">در هربار فقط می‌توان ۱٬۰۰۰ یادآوری را به تکلیف تبدیل کرد. باید این روند را برای هرکدام از یادآوری‌های باقی‌مانده تکرار کنید.</string>
+    <string name="reminders_migration_dialog_description_only_keep_reminders_remark">‏برای پیگیری کارهایتان در سراسر برنامه‌های Workspace، تکالیف را در «تقویم» امتحان کنید.</string>
+    <string name="reminders_migration_dialog_description_with_account">به‌عنوان %s، ازاین‌پس برای پیگیری فهرست کارهایتان در «تقویم»، به‌جای یادآوری‌ها از تکالیف استفاده می‌کنید.</string>
+    <string name="reminders_migration_dialog_more_than_title">تبدیل یادآوری‌ها به تکلیف</string>
+    <string name="reminders_migration_dialog_no_reminders_title">از تکالیف استفاده کنید</string>
+    <string name="reminders_migration_failure_toast">مشکلی پیش آمد. یادآوری‌هایتان به تکلیف تبدیل نشد.</string>
+    <string name="reminders_migration_force_completed_toast_completed_reminders_only">یادآوری‌ها اکنون به تکلیف تبدیل شده است. یادآوری‌های کامل‌شده مرتبط با %s به تکلیف تبدیل شد.</string>
+    <string name="reminders_migration_force_completed_with_only_keep_toast">‏یادآوری‌های %s از «تقویم» برداشته شد اما همچنان در Google Keep دردسترس است</string>
+    <string name="reminders_migration_only_keep_voluntary_completed_tooltip_title">‏با Tasks از کارهایتان مطلع شوید</string>
+    <string name="reminders_migration_partial_failure_toast_only_completed_reminders_migrated">یادآوری‌های کامل‌شده مرتبط با %s به تکلیف تبدیل شد. تعدادی از یادآوری‌ها باقی مانده است.</string>
+    <string name="reminders_migration_tasks_disabled_card_description">‏سازمان شما Google Tasks را برای حسابتان خاموش کرده است. برای ذخیره کردن داده‌های یادآوری «تقویم» و «دستیار»، با سرپرست Google Workspace تماس بگیرید و درخواست کنید به Tasks دسترسی پیدا کنید یا داده‌هایتان را بارگیری کنید.</string>
+    <string name="reminders_migration_tasks_disabled_card_title">به‌زودی یادآوری‌ها به تکلیف ارتقا پیدا خواهند کرد</string>
+    <string name="reminders_migration_tasks_disabled_toast">‏سازمانتان Google Tasks را برای %s غیرفعال کرده است. یادآوری‌هایتان به Tasks منتقل نشد و درنتیجه حذف شد.</string>
+    <string name="reminders_migration_tasks_disabled_tooltip_description">‏یادآوری‌های %s برداشته شد زیرا انتقال آن‌ها به Tasks ممکن نبود. سازمان شما Google Tasks را برای حسابتان غیرفعال کرده است.</string>
+    <string name="reminders_migration_tooltip_only_keep_reminders_remark">‏همه یادآوری‌هایتان همچنان در Google Keep دردسترس هستند.</string>
+    <string name="reminders_migration_tooltip_remark_only_completed_reminders_migrated">یادآوری‌های کامل‌شده به تکلیف تبدیل شد.</string>
+    <string name="reminders_migration_tooltip_with_keep_reminders_only_completed_reminders_migrated_remark">‏یادآوری‌های کامل‌شده به تکلیف تبدیل شد. یادآوری‌های ایجادشده در Google Keep تغییر داده نشده‌اند. این یادآوری از «تقویم» برداشته خواهد شد، اما همچنان می‌توانید آن را در Keep مدیریت کنید.</string>
+    <string name="reminders_migration_triggered_no_reminders_toast">اکنون از تکالیف استفاده می‌کنید</string>
+    <string name="reminders_migration_triggered_toast">درحال تبدیل یادآوری‌ها به تکلیف…</string>
+    <string name="reminders_migration_voluntary_completed_toast_completed_reminders_only">یادآوری‌های کامل‌شده مرتبط با %s به تکلیف تبدیل شد</string>
+    <string name="reminders_migration_voluntary_completed_tooltip_title">یادآوری‌هایتان اکنون تکلیف شده‌اند</string>
+    <string name="reminders_require_google_account">‏برای استفاده از یادآوری به حساب Google نیاز دارید.</string>
+    <string name="remove_attachment">حذف</string>
+    <string name="remove_conference">برداشتن کنفرانس</string>
+    <string name="remove_encryption">برداشتن رمزگذاری</string>
+    <string name="remove_encryption_data_loss_warning_dialog_attachment_keep_message">رمزگذاری اضافی روی همه فایل‌های پیوست‌شده حفظ می‌شود</string>
+    <string name="remove_encryption_data_loss_warning_dialog_attachments_drop_message">همه فایل‌های رمزگذاری‌شده را از رویداد «تقویم» حذف می‌کند</string>
+    <string name="remove_encryption_data_loss_warning_dialog_attachments_only_drop_message">برای محرمانه نگه داشتن اطلاعات شما، این قابلیت همه فایل‌های رمزگذاری‌شده را از رویداد «تقویم» حذف می‌کند</string>
+    <string name="remove_encryption_failure_notification">حذف اعلان خطا</string>
+    <string name="remove_notification_content_description">برداشتن اعلان</string>
+    <string name="remove_period">برداشتن دوره</string>
+    <string name="repeats_daily_label">هر روز</string>
+    <string name="repeats_monthly_label">هر ماه</string>
+    <string name="repeats_preamble">تکرار %s</string>
+    <string name="repeats_weekly_label">هر هفته</string>
+    <string name="repeats_yearly_label">هر سال</string>
+    <string name="report_spam_dialog_content">اگر «%1$s» را به‌عنوان هرزنامه علامت‌گذاری کنید، این رویداد از تقویمتان (%2$s) نیز حذف خواهد شد.</string>
+    <string name="report_spam_dialog_positive_action">گزارش تخلف</string>
+    <string name="report_spam_enable_known_senders_result_snackbar">این رویداد را به‌عنوان هرزنامه گزارش کرده‌اید و فرستندگان ناشناس آینده را مسدود کرده‌اید</string>
+    <string name="report_spam_known_senders_content_link">درباره دعوت به رویدادها بیشتر بدانید</string>
+    <string name="report_spam_known_senders_content_summary">اگر این رویداد را به‌عنوان هرزنامه علامت‌گذاری کنید، از تقویمتان (%1$s) نیز حذف خواهد شد.</string>
+    <string name="report_spam_known_senders_title">مسدود کردن دعوت‌های ارسالی از فرستندگان ناآشنا</string>
+    <string name="report_spam_result_snackbar">این رویداد را به‌عنوان هرزنامه گزارش کرده‌اید</string>
+    <string name="reschedule_action">زمان‌بندی مجدد</string>
+    <string name="reschedule_failed">خطایی روی داد. لطفاً بعداً دوباره امتحان کنید.</string>
+    <string name="reschedule_started">به %s منتقل شد</string>
+    <string name="reschedule_started_with_invites">به %s منتقل شد. به‌روزرسانی‌ها ارسال خواهند شد.</string>
+    <string name="reschedule_stop">واگرد</string>
+    <string name="reservation_for">رزرو برای %d</string>
+    <string name="response_inferred_location_explanation">اگر محل کارم تغییر کرد، نحوه پیوستنم به‌طور خودکار تغییر کند</string>
+    <string name="response_invited">بدون پاسخ</string>
+    <string name="response_maybe">شاید</string>
+    <string name="response_no">نه</string>
+    <string name="response_status">پاسخ: %s</string>
+    <string name="response_yes">بله</string>
+    <string name="response_yes_meeting_room">بله، در اتاق جلسه</string>
+    <string name="response_yes_unknown">بله</string>
+    <string name="response_yes_virtually">بله، پیوستن مجازی</string>
+    <string name="restart_device_dialog_text">متأسفانه، مشکلی مانع از شروع برنامه «تقویم» می‌شود. برای رفع آن، لطفاً دستگاهتان را راه‌اندازی مجدد کنید.</string>
+    <string name="room_booking_all_results">همه نتایج</string>
+    <string name="room_booking_duration_too_short_title">نمی‌توان به رویدادهایی که زمان پایانشان قبل یا هم‌زمان با زمان شروع است، اتاق اضافه کرد</string>
+    <string name="room_booking_empty_result_body">هیچ اتاقی برای زمان جلسه شما در دسترس نیست.</string>
+    <string name="room_booking_empty_result_title">اتاقی در دسترس نیست</string>
+    <string name="room_booking_filter_change_button">تغییر دادن</string>
+    <string name="room_booking_footer_filter_text_room_for_future_events">نمایش اتاق‌ها برای رویدادهای آینده</string>
+    <string name="room_booking_footer_filter_text_room_for_this_event">نمایش اتاق‌ها برای این رویداد</string>
+    <string name="room_booking_hierarchy_other">سایر</string>
+    <string name="room_booking_no_rooms_result_body">هیچ اتاقی با معیار جستجوی شما سازگار نبود.</string>
+    <string name="room_booking_no_rooms_result_title">اتاقی پیدا نشد</string>
+    <string name="room_booking_offline_body">اتاق‌های در دسترس بار نشدند.</string>
+    <string name="room_booking_offline_title">اتصال برقرار نیست</string>
+    <string name="room_booking_pagination_error">اتصال اینترنت موجود نیست</string>
+    <string name="room_booking_remove_room_button_label">برداشتن اتاق</string>
+    <string name="room_booking_search_hint">جستجوی همه فضاها</string>
+    <string name="room_booking_selected_rooms_collapse">نمایش کمتر</string>
+    <string name="room_booking_selected_rooms_expand">بیشتر ببینید</string>
+    <string name="room_booking_title">صفحه رزور اتاق</string>
+    <string name="room_details_screen_label">جزئیات اتاق</string>
+    <string name="room_location_compound">%1$s • %2$s</string>
+    <string name="room_more_info">مشاهده جزئیات اتاق‌</string>
+    <string name="rsvp_accepted">پاسخ «بله» داد.</string>
+    <string name="rsvp_declined">پاسخ «نه» داد.</string>
+    <string name="rsvp_location_promo_body_text">به دیگران اجازه دهید از نحوه پیوستن شما مطلع شوند.</string>
+    <string name="rsvp_location_promo_header_text">گزینه‌های «لطفاً پاسخ دهید» جدید</string>
+    <string name="rsvp_tentative">پاسخ «شاید» داد.</string>
+    <string name="save">ذخیره</string>
+    <string name="saving">درحال ذخیره کردن…</string>
+    <string name="saving_event">رویداد ذخیره شد.</string>
+    <string name="saving_event_with_guest">‏به‌روزرسانی‎ها ارسال خواهند شد.</string>
+    <string name="scope_selection_all_instances">همه رویدادها</string>
+    <string name="scope_selection_all_instances_tasks">همه تکلیف‌ها</string>
+    <string name="scope_selection_following_instances">این و رویدادهای بعدی</string>
+    <string name="scope_selection_following_instances_reminders">این و یادآوری‌های بعدی</string>
+    <string name="scope_selection_following_instances_tasks">این کار و کارهای بعدی</string>
+    <string name="scope_selection_this_instance">این رویداد</string>
+    <string name="scope_selection_this_instance_reminder">این یادآوری</string>
+    <string name="scope_selection_this_instance_task">این تکلیف</string>
+    <string name="scope_selection_weekly_routine_weekday_range_working_location">هر %1$s شروع از %2$s</string>
+    <string name="search">جستجو</string>
+    <string name="search_hint">جستجو</string>
+    <string name="search_title">جستجو در تقویم‌های من</string>
+    <string name="searching">در حال جستجو</string>
+    <string name="selected_account">به سیستم %1$s وارد شده‌اید</string>
+    <string name="self_view_format_string">%s (شما)</string>
+    <string name="send_anyway">اشتراک‌گذاری درهرحال</string>
+    <string name="settings_auto_add_conferencing_disabled">فقط سرپرستان می‌توانند این تنظیم را تغییر دهند</string>
+    <string name="settings_auto_add_conferencing_label">‏افزودن خودکار کنفرانس ویدیویی Google Meet به رویدادهایی که ایجاد می‌کنم</string>
+    <string name="settings_auto_add_conferencing_title_spinner">افزودن کنفرانس ویدیویی</string>
+    <string name="settings_birthday_contact">مخاطبین</string>
+    <string name="settings_birthday_label">‏تاریخ‌های تولد +Google فقط برای مخاطبینی است که در «حلقه‌های شما» هستند.</string>
+    <string name="settings_default_event_duration_label">"‏این مدت زمان پیش‌فرض رویداد ایجاد شده جدید است.
+برای حساب‌های غیر Google، زمان پیش‌فرض ۱ ساعت است."</string>
+    <string name="settings_default_event_duration_title_spinner">مدت زمان پیش‌فرض رویداد</string>
+    <string name="settings_invitation_behavior_confirm_dialog_title">نحوه اضافه شدن دعوت‌ها تغییر کند؟</string>
+    <string name="settings_invitation_behavior_confirm_from_all_to_known_or_responded">"‏این تنظیم بر دعوت‌هایی که قبلاً دریافت کرده‌اید تأثیری ندارد.
+
+برای دعوت‌های فرستندگان ناشناس ایمیل دریافت خواهید کرد."</string>
+    <string name="settings_invitation_behavior_confirm_from_all_to_responded">"‏این تنظیم بر دعوت‌هایی که قبلاً دریافت کرده‌اید تأثیری ندارد.
+
+برای همه دعوت‌های جدید ایمیل دریافت خواهید کرد."</string>
+    <string name="settings_invitation_behavior_confirm_other">این تنظیم بر دعوت‌هایی که قبلاً دریافت کرده‌اید تأثیری ندارد.</string>
+    <string name="settings_invitation_behavior_explainer_compact_link">درباره محافظت از تقویم دربرابر هرزنامه بیشتر بدانید</string>
+    <string name="settings_invitation_behavior_explainer_extended_link_general">"‏درباره دعوت‌های تقویم بیشتر بدانید
+"</string>
+    <string name="settings_invitation_behavior_explainer_extended_no_paragraph">"‏رویدادهایی که به آن‌ها دعوت شده‌اید در «تقویم» نمایش داده می‌شود. با این تنظیم می‌توانید نحوه اضافه شدن دعوت‌ها را تغییر دهید.
+"</string>
+    <string name="settings_invitation_behavior_hide_invitations_from_others">به دیگران اجازه داده شود اگر اجازه مشاهده یا ویرایش رویدادهای من را دارند همه دعوت‌ها را ببینند</string>
+    <string name="settings_invitation_behavior_option_from_all">از همه</string>
+    <string name="settings_invitation_behavior_option_from_known">فقط درصورتی که فرستنده آشنا باشد</string>
+    <string name="settings_invitation_behavior_option_responded">وقتی در ایمیل به دعوت پاسخ می‌دهم</string>
+    <string name="settings_invitation_behavior_setting_title">افزودن دعوت‌ها به تقویم من</string>
+    <string name="settings_invitation_behavior_title">افزودن دعوت</string>
+    <string name="settings_invitation_permission_explainer_extended">اجازه‌های دستگاه را بررسی کنید. اجازه ندهید برنامه‌های شخص ثالث نامطمئن به تقویمتان رویداد اضافه کنند.</string>
+    <string name="share_action">هم‌رسانی</string>
+    <string name="share_conference_details_description">هم‌رسانی جزئیات کنفرانس</string>
+    <string name="share_event_link">هم‌رسانی با دیگران</string>
+    <string name="shared_task_description">دیگران می‌توانند تغییراتی را که در این تکلیف اعمال می‌کنید ببینند</string>
+    <string name="shared_tasks_delete_learn_more">درباره حذف کردن تکالیف مشترک بیشتر بدانید</string>
+    <string name="shared_tasks_unassign_learn_more">درباره لغو واگذاری تکالیف مشترک بیشتر بدانید</string>
+    <string name="sharing_to_chat_disclaimer">هم‌رسانی در مکالمه گپ %1$s</string>
+    <string name="sheet_collapsed">برگه ویرایشگر کوچک شد</string>
+    <string name="sheet_expanded">برگه ویرایشگر بزرگ شد</string>
+    <string name="show_account_list">نمایش حساب‌ها</string>
+    <string name="show_all_rooms">نمایش همه اتاق‌ها</string>
+    <string name="show_all_rooms_in_building">نمایش همه اتاق‌ها</string>
+    <string name="show_calendars">نمایش تقویم‌ها</string>
+    <string name="show_more">بیشتر ببینید</string>
+    <string name="sign_in_cancel">لغو</string>
+    <string name="signed_in_as">به‌عنوان %1$s به سیستم وارد شده‌اید</string>
+    <string name="smart_rsvp_bottom_bar_toggle_label">کنش‌های پیگیری</string>
+    <string name="smart_rsvp_location_promo_body_text">مکان پیش‌فرض براساس محل کارتان تنظیم می‌شود</string>
+    <string name="smartmail_airline_flight">%1$s پرواز %2$s</string>
+    <string name="smartmail_airport_search">فرودگاه %s</string>
+    <string name="smartmail_arrives">ورود: %1$s</string>
+    <string name="smartmail_bus">اتوبوس %1$s</string>
+    <string name="smartmail_change_visibility_change_all_button_text">تغییر همه موارد</string>
+    <string name="smartmail_change_visibility_change_new_button_text">فقط تغییر رویدادهای جدید</string>
+    <string name="smartmail_change_visibility_dialog_text">‏آیا می‌خواهید نمایان بودن رویدادها از Gmail را که از قبل در تقویمتان هست تغییر دهید؟</string>
+    <string name="smartmail_departs">خروج: %1$s</string>
+    <string name="smartmail_duration">مدت زمان: %1$s</string>
+    <string name="smartmail_duration_hours">%d ساعت</string>
+    <string name="smartmail_duration_hours_minutes">%1$d ساعت و %2$d دقیقه</string>
+    <string name="smartmail_duration_minutes">%d دقیقه</string>
+    <string name="smartmail_flight_arrival">ورود: %1$s %2$s</string>
+    <string name="smartmail_flight_arrives">ورود به %1$s %2$s</string>
+    <string name="smartmail_flight_delayed">تأخیر داشت</string>
+    <string name="smartmail_flight_departs">حرکت از %1$s %2$s</string>
+    <string name="smartmail_flight_departure">خروج: %1$s %2$s</string>
+    <string name="smartmail_flight_duration">مدت پرواز: %1$s</string>
+    <string name="smartmail_flight_gate">ورودی %s</string>
+    <string name="smartmail_flight_landed">به زمین نشست</string>
+    <string name="smartmail_flight_terminal">پایانه %s</string>
+    <string name="smartmail_seat_row">ردیف %s</string>
+    <string name="smartmail_seat_section">قسمت %s</string>
+    <string name="smartmail_toggle_label">‏نمایش رویدادها از Gmail</string>
+    <string name="smartmail_train">قطار %1$s</string>
+    <string name="smartmail_train_platform">سکو: %1$s</string>
+    <string name="smartmail_updated_toggle_off_dialog_text">"‏دیگر رویدادهایی را که به‌طور خودکار از ایمیل‌هایتان ایجاد شده است نخواهید دید، ازجمله رویدادهایی که قبلاً اضافه شده‌اند
+
+برای اینکه Gmail دیگر این رویدادها را ایجاد نکند، باید "<b>شخصی‌سازی و ویژگی‌های هوشمند</b> را نیز در تنظیمات Gmail خاموش کنید</string>
+    <string name="smartmail_updated_toggle_on_dialog_text">"‏رویدادهایی را خواهید دید که به‌طور خودکار از ایمیل‌هایتان (مثل رزرو رستوران و سفر) ایجاد شده‌اند
+
+برای اینکه Gmail این رویدادها را ایجاد کند، باید "<b>شخصی‌سازی و ویژگی‌های هوشمند</b> را نیز در تنظیمات Gmail روشن کنید</string>
+    <string name="smartmail_visibility_label">حریم خصوصی رویدادهای ایمیل</string>
+    <string name="snack_bar_cross_profile_permissions_change_action">تغییر</string>
+    <string name="snack_bar_cross_profile_permissions_granted">تقویم‌های شخصی اکنون نمایش داده شده‌اند</string>
+    <string name="snack_bar_cross_profile_permissions_revoked">تقویم‌های شخصی دیگر نمایش داده نمی‌شوند</string>
+    <string name="snooze_allday_snackbar">زمان‌بندی تکلیف برای %s تغییر کرد</string>
+    <string name="snooze_custom">سفارشی کردن</string>
+    <string name="snooze_later_today">امروز در فرصتی دیگر (%s)</string>
+    <string name="snooze_later_today_snackbar">زمان‌بندی تکلیف برای %s تغییر کرد</string>
+    <string name="snooze_next_week">هفته بعد</string>
+    <string name="snooze_snackbar">زمان‌بندی تکلیف به %2$s ساعت %1$s تغییر کرد</string>
+    <string name="snooze_this_weekend">آخر این هفته</string>
+    <string name="snooze_tomorrow">فردا</string>
+    <string name="snooze_tomorrow_allday_snackbar">زمان‌بندی تکلیف برای فردا تغییر کرد</string>
+    <string name="snooze_tomorrow_snackbar">زمان‌بندی تکلیف به فردا ساعت %s تغییر کرد</string>
+    <string name="some_calendars_cannot_be_shown">برخی از تقویم‌ها نمایش داده نمی‌شود</string>
+    <string name="strip_note_formatting_prompt">ویرایش یادداشت‌ها باعث قالب‌بندی و در نتیجه از دست رفتن سبک‌ها خواهد شد.</string>
+    <string name="strip_note_formatting_prompt_continue">ادامه ویرایش</string>
+    <string name="sub_day_working_location_promo_body_text">اگر در چند محل کار می‌کنید، ازاین‌پس می‌توانید این موضوع را به دیگران اطلاع دهید</string>
+    <string name="sub_day_working_location_promo_header_text">تنظیم چند محل کار برای یک روز</string>
+    <string name="subscribe_to_calendar_confirmation_title">تقویم «%s» به حسابتان اضافه شود؟</string>
+    <string name="subscribe_to_calendar_picker_title">حسابی را که می‌خواهید تقویم «%s» به آن اضافه شود انتخاب کنید</string>
+    <string name="subscription_cancel">لغو</string>
+    <string name="subscription_failed_calendar_no_longer_exists">تقویم دیگر وجود ندارد.</string>
+    <string name="subscription_failed_no_access_to_calendar">به این تقویم دسترسی ندارید.</string>
+    <string name="sud_back_button_label">برگشت</string>
+    <string name="sud_more_button_label">بیشتر</string>
+    <string name="sud_next_button_label">بعدی</string>
+    <string name="suggest_time_best_times">بهترین زمان‌ها</string>
+    <string name="suggest_time_everyone_is_busy_subtitle">برای دریافت بهترین نتایج، تاریخ یا مدت‌زمان را تغییر دهید</string>
+    <string name="suggest_time_everyone_is_busy_title">همه مشغول هستند</string>
+    <string name="suggest_time_generic_error_subtitle">تقویم‌ها بار نشدند. لطفاً بعداً دوباره امتحان کنید.</string>
+    <string name="suggest_time_label">زمان‌های پیشنهادی</string>
+    <string name="suggest_time_no_access_subtitle">به تقویم هیچ مهمانی دسترسی ندارید.</string>
+    <string name="suggest_time_no_suggestions_title">پیشنهادی وجود ندارد</string>
+    <string name="suggest_time_not_considered">درنظر گرفته نشده‌اند: %1$s</string>
+    <string name="summary_collapsed_preference_list">%1$s، %2$s</string>
+    <string name="switch_account_button">عوض کردن حساب</string>
+    <string name="sync_device_offline">اتصال اینترنت موجود نیست</string>
+    <string name="sync_disabled_dialog_button_negative">@string/missing_permissions_dialog_button_negative</string>
+    <string name="sync_disabled_dialog_button_positive">فعال کردن</string>
+    <string name="sync_disabled_dialog_text">همگام‌سازی برای برخی از حساب‌های شخصی شما خاموش است. تغییراتی که اعمال می‌کنید پشتیبان‌گیری نمی‌شود.</string>
+    <string name="sync_disabled_dialog_title">فعال کردن همگام‌سازی</string>
+    <string name="sync_error">خطای همگام‌سازی</string>
+    <string name="sync_indicator_channel_name">همگام‌سازی پس‌زمینه</string>
+    <string name="sync_notification_text">همگام‌سازی تقویم</string>
+    <string name="sync_off_notification_action_dismiss">نپذیرفتن</string>
+    <string name="sync_off_notification_action_enable_sync">فعال کردن همگام‌سازی</string>
+    <string name="sync_off_notification_message_account">همگام‌سازی برای %s خاموش است. تغییرات انجام شده در این تقویم، پشتیبان گرفته نمی‌شوند.</string>
+    <string name="sync_off_notification_message_accounts">همگام‌سازی برای بعضی از حساب‌ها خاموش است. تغییراتی که ایجاد می‌کنید، پشتیبان گرفته نمی‌شوند.</string>
+    <string name="sync_off_notification_message_device">همگام‌سازی خودکار در این دستگاه خاموش است. تغییراتی که در اینجا یا برنامه‌های دیگر انجام می‌دهید پشتیبان‌گیری نمی‌شود.</string>
+    <string name="sync_off_notification_message_general">همگام‌سازی خاموش است. از تغییراتی که ایجاد می‌کنید پشتیبان گرفته نمی‌شود.</string>
+    <string name="talkback_activity_title">اطلاعات تماس با %s</string>
+    <string name="talkback_activity_title_no_id">اطلاعات تماس</string>
+    <string name="talkback_find_time_grid_showing_fragment">نمایش پیشنهاد زمان در شبکه تقویم</string>
+    <string name="talkback_find_time_suggestion_chip">پیشنهاد زمان</string>
+    <string name="task">کار</string>
+    <string name="task_action_mark_completed">علامت‌گذاری به‌عنوان کامل</string>
+    <string name="task_action_mark_incomplete">علامت‌گذاری به‌عنوان تکمیل‌نشده</string>
+    <string name="task_assigned_to_user">به شما محول شد</string>
+    <string name="task_completed">کار تکمیل شد.</string>
+    <string name="task_creation_cancellation_message">از این کار صرف‌نظر شود؟</string>
+    <string name="task_delete_for_doc_confirmation_dialog_description">با این کار، تکلیف هم از سند حذف خواهد شد. ممکن است مورد بازبینه همچنان نمایان باشد، اما دیگر به شما واگذار نخواهد شد.</string>
+    <string name="task_delete_for_space_confirmation_dialog_delete_button">حذف</string>
+    <string name="task_delete_for_space_confirmation_dialog_description">حذف این تکلیف، آن را از فهرست فضا هم حذف خواهد کرد. برای نگه داشتن تکلیف در فهرست فضا، درعوض واگذاری آن به خودتان را لغو کنید.</string>
+    <string name="task_delete_for_space_confirmation_dialog_unassign_button">لغو محول کردن</string>
+    <string name="task_description_hint">افزودن جزئیات</string>
+    <string name="task_description_prefix">کار:</string>
+    <string name="task_done_description_prefix">تکلیف کامل‌شده:</string>
+    <string name="task_edit_cancellation_message">از تغییرات در این کار صرف‌نظر شود؟</string>
+    <string name="task_empty_title">عنوان یادآوری نمی‌تواند خالی باشد.</string>
+    <string name="task_from_chat_title">گپ نامشخص</string>
+    <string name="task_from_comment_default_title">برگرفته از نظر</string>
+    <string name="task_from_docs_default_title">از سند</string>
+    <string name="task_from_drawings_default_title">از طراحی</string>
+    <string name="task_from_gmail_thread_title">مشاهده ایمیل مرتبط</string>
+    <string name="task_from_sheets_default_title">از برگ</string>
+    <string name="task_from_slides_default_title">از اسلاید</string>
+    <string name="task_from_space_title">فضای نامشخص</string>
+    <string name="task_info_title">مشاهده کار</string>
+    <string name="task_no_title_placeholder">(کار — بدون عنوان)</string>
+    <string name="task_not_found">یادآوری پیدا نشد.</string>
+    <string name="task_notification_channel">‏اعلان‌های Tasks</string>
+    <string name="task_recurrence_stop_confirmation_dialog_action">توقف تکرار</string>
+    <string name="task_recurrence_stop_confirmation_dialog_description">"‏همه رویدادهای آینده برداشته شود؟
+دیگر نمی‌توانید این تکلیف را دوباره تناوبی کنید."</string>
+    <string name="task_recurrence_stop_confirmation_dialog_title">توقف تکرار این تکلیف</string>
+    <string name="task_snooze_label">زمان‌بندی مجدد</string>
+    <string name="task_unassign_confirmation_dialog_action">لغو محول کردن و ذخیره کردن</string>
+    <string name="task_unassign_confirmation_dialog_description">با این کار، تکلیف از فهرست تکالیف شخصی‌تان برداشته می‌شود. همچنان می‌توانید آن را در فهرست تکالیف فضا پیدا کنید.</string>
+    <string name="task_unassign_confirmation_dialog_title">محول کردن تکلیف لغو و تکلیف ذخیره شود؟</string>
+    <string name="task_unassign_content_description">لغو محول کردن کار</string>
+    <string name="task_uncompleted">کار کامل نشده است.</string>
+    <string name="tasks_brickswitch_dialog_description">برای ایجاد و دیدن تکالیف زمان‌بندی‌شده، «تقویم» را به‌روزرسانی کنید.</string>
+    <string name="tasks_brickswitch_dialog_title">‏برای استفاده از Tasks، «تقویم» را به‌روزرسانی کنید</string>
+    <string name="tasks_brickswitch_snackbar">برای ایجاد و دیدن تکالیف زمان‌بندی‌شده، «تقویم» را به‌روزرسانی کنید.</string>
+    <string name="tasks_calendar_item_tooltip_description">همچنان برای تکالیف اعلان دریافت می‌کنید حتی وقتی در «تقویم» نشان داده نمی‌شوند. می‌توانید این مورد را در تنظیمات تغییر دهید.</string>
+    <string name="tasks_calendar_item_tooltip_title">‏اعلان‌های Tasks همچنان روشن است</string>
+    <string name="tasks_calendar_name">کارها</string>
+    <string name="tasks_killswitch_dialog_description">نمی‌توانید از این نسخه برنامه «تقویم» برای ایجاد و مشاهده تکالیف استفاده کنید.</string>
+    <string name="tasks_killswitch_dialog_title">‏Tasks دردسترس نیست</string>
+    <string name="tasks_killswitch_snackbar">‏Tasks در این نسخه از برنامه «تقویم» دردسترس نیست.</string>
+    <string name="tasks_promo_body_text">ایجاد، مشاهده، و ویرایش مستقیم کارها در «تقویم»</string>
+    <string name="tasks_promo_header_text">‏Tasks درحال حرکت</string>
+    <string name="tasks_report_spam_dialog_button">گزارش به‌عنوان هرزنامه</string>
+    <string name="tasks_report_spam_dialog_title">تکلیف به‌عنوان هرزتکلیف گزارش شود؟</string>
+    <string name="tasks_report_spam_message">با علامت‌گذاری این تکلیف به‌عنوان هرزنامه، این تکلیف از فهرست شما نیز حذف خواهد شد.</string>
+    <string name="tasks_report_spam_snackbar">تکلیف به‌عنوان هرزتکلیف گزارش شد</string>
+    <string name="tasks_rollover_dialog_information_menu_item">اطلاعات</string>
+    <string name="tasks_rollover_dialog_title">تکالیف درانتظار</string>
+    <string name="tasks_rollover_information_text">"‏تکالیف تکمیل‌نشده شما که تاریخ آن‌ها در ۳۰ روز گذشته باشد در اینجا نمایش داده می‌شود.
+
+می‌توانید نمایان بودن تکالیف را در تنظیمات «تقویم» تغییر دهید."</string>
+    <string name="tasks_sync_adapter">کارها در تقویم</string>
+    <string name="tentatively_accept_scope_selection_title">پذیرش احتمالی رویداد تکرارشونده</string>
+    <string name="terms_of_service">شرایط خدمات</string>
+    <string name="the_day_before_at">روز قبل در %s</string>
+    <string name="time_in_past">نمی‌توانید زمانی را انتخاب کنید که گذشته است.</string>
+    <string name="timed_reminder_after">%s پس‌از شروع</string>
+    <string name="timed_reminder_time">%s قبل</string>
+    <string name="timely_chip_multi_day_count">%1$s (روز %2$d/%3$d)</string>
+    <string name="timely_chip_time_location">%1$s در %2$s</string>
+    <string name="timely_chip_until">تا %s</string>
+    <string name="title_hint">افزودن عنوان</string>
+    <string name="today">امروز</string>
+    <string name="today_at_time_fmt_lowercase">امروز در %s</string>
+    <string name="today_lowercase">امروز</string>
+    <string name="today_template">امروز، %s</string>
+    <string name="toll">شماره تلفن غیررایگان</string>
+    <string name="toll_free">شماره تلفن رایگان</string>
+    <string name="tomorrow">فردا</string>
+    <string name="tomorrow_at_time_fmt_lowercase">فردا در %s</string>
+    <string name="tomorrow_lowercase">فردا</string>
+    <string name="too_many_participant_details">تعداد مهمانان برای اتاق گپ بیش‌ازحد زیاد است. به‌جای آن، می‌توانید یک گپ خالی ایجاد کنید و افراد موردنظر برای گپ زدن را اضافه کنید.</string>
+    <string name="too_many_participant_start_chat">شروع گپ</string>
+    <string name="try_again">امتحان مجدد</string>
+    <string name="tz_picker_activity_label">انتخابگر منطقه زمانی</string>
+    <string name="tz_picker_country_with_abbreviation">%1$s (%2$s)</string>
+    <string name="tz_picker_country_with_city">%1$s، %2$s</string>
+    <string name="tz_picker_no_results_found">نتیجه‌ای پیدا نشد</string>
+    <string name="tz_picker_search_hint">منطقه زمانی یا منطقه‌ای را وارد کنید</string>
+    <string name="tz_picker_timezone_with_abbreviation">%1$s (%2$s)</string>
+    <string name="unable_to_add_calendar_message">تقویم نمی‌تواند اضافه شود.</string>
+    <string name="unified_sync_toggle_label">‏تقویم Google</string>
+    <string name="update">به‌روزرسانی</string>
+    <string name="update_event_action_prompt">به‌روزرسانی رویداد‌ موجود</string>
+    <string name="v7_preference_off">خاموش</string>
+    <string name="v7_preference_on">روشن</string>
+    <string name="view_attachment">مشاهده</string>
+    <string name="view_email">مشاهده ایمیل مبدأ</string>
+    <string name="view_in_keep">‏مشاهده در Keep</string>
+    <string name="view_in_tasks">‏مشاهده در Tasks</string>
+    <string name="view_more_phones">شماره تلفن‌های بیشتر</string>
+    <string name="view_schedules">مشاهده زمان‌بندی‌ها</string>
+    <string name="view_source">مشاهده منبع</string>
+    <string name="view_subtasks">‏مشاهده کارهای فرعی در Google Tasks</string>
+    <string name="view_switcher">مشاهده تغییردهنده</string>
+    <string name="visibility_default">نمایان بودن پیش‌فرض</string>
+    <string name="visibility_default_available">در دسترس</string>
+    <string name="visibility_default_busy">مشغول</string>
+    <string name="visibility_private">خصوصی</string>
+    <string name="visibility_private_available">خصوصی - در دسترس</string>
+    <string name="visibility_private_busy">خصوصی - مشغول</string>
+    <string name="visibility_public">عمومی</string>
+    <string name="visibility_public_available">عمومی - در دسترس</string>
+    <string name="visibility_public_busy">عمومی - مشغول</string>
+    <string name="visibility_secret">فقط من</string>
+    <string name="warning">هشدار</string>
+    <string name="week_header_template">هفته‌ %s</string>
+    <string name="week_header_template_week_number">هفته %1$d، ‏%2$s</string>
+    <string name="week_in_year_string">هفته %s</string>
+    <string name="week_view_label">هفته</string>
+    <string name="week_view_label_full">نمای هفته</string>
+    <string name="weekday_buttons_label">تکرار روشن است</string>
+    <string name="weekly_by_day_simple_lower">هفتگی روزهای %1$s</string>
+    <string name="weekly_simple_lower">هفتگی</string>
+    <string name="widget_day_today">امروز، %1$s</string>
+    <string name="widget_day_tomorrow">فردا، %1$s</string>
+    <string name="widget_description">مشاهده تکالیف و رویدادهای آتی</string>
+    <string name="widget_no_events_scheduled">رویدادی برنامه‌ریزی نشده است</string>
+    <string name="widgetmonth_description">یک ماه از تقویم به‌صورت هم‌زمان نشان داده می‌شود</string>
+    <string name="work_profile_header_title">نمایه کاری</string>
+    <string name="working_hours_copy_time_text">کپی کردن زمان برای همه روزها</string>
+    <string name="working_hours_enable_text">فعال کردن ساعت کاری</string>
+    <string name="working_hours_end">پایان</string>
+    <string name="working_hours_help">«ساعت کاری» را فعال کنید تا افراد بدانند چه ساعاتی کار می‌کنید و چه زمانی برای جلسات دردسترس هستید. با این کار اگر کسی سعی داشته باشد خارج از ساعات کاری‌تان از شما برای پیوستن به جلسه‌ای دعوت کند، هشدار دریافت خواهد کرد.</string>
+    <string name="working_hours_set_text">تنظیم ساعت کاری</string>
+    <string name="working_hours_start">شروع</string>
+    <string name="working_location_banner_accept_text">مشاهده نحوه انجام کار</string>
+    <string name="working_location_banner_subtext">تنظیم چند محل کار ساعتی برای زمانی‌که در یک روز در مکان‌های مختلفی کار می‌کنید</string>
+    <string name="working_location_banner_title">تنظیم چند محل کار برای یک روز</string>
+    <string name="working_location_creation_cancellation_message">از این محل کار صرف‌نظر شود؟</string>
+    <string name="working_location_edit_cancellation_message">از تغییرات این محل کار صرف‌نظر شود؟</string>
+    <string name="working_location_info_title">مشاهده محل کار</string>
+    <string name="working_location_label">محل کار</string>
+    <string name="working_location_promo_body_text">به دیگران اطلاع دهید کجا کار می‌کنید تا آن‌ها راحت‌تر بتوانند قرارها را با شما زمان‌بندی کنند</string>
+    <string name="working_location_promo_header_text">محل کارتان را به‌راحتی هم‌رسانی کنید</string>
+    <string name="working_location_title_placeholder">محل کار</string>
+    <string name="working_location_title_with_location">محل کار: %s</string>
+    <string name="yesterday">دیروز</string>
+    <string name="your_chip_label">شما</string>
+</resources>

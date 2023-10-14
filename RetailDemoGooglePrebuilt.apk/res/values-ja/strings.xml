@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_retaildemoCommunication">販売店デモサービスの操作をアプリに許可します。この権限は、販売店デモのみに付与してください。この権限を付与されたアプリは、販売店デモモード用に予約されたアクションをトリガーできるようになります。</string>
+    <string name="permlab_retaildemoCommunication">Retail Demo との通信</string>
+    <string name="retaildemo_preload_app_name">Retail Demo Services</string>
+</resources>

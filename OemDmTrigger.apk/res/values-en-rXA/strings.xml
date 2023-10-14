@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">[ÖéḿÐḿŢŕîĝĝéŕ one two]</string>
+    <string name="call_notification_answer_action">[Åñšŵéŕ one two]</string>
+    <string name="call_notification_answer_video_action">[νîðéö one]</string>
+    <string name="call_notification_decline_action">[Ðéçļîñé one two]</string>
+    <string name="call_notification_hang_up_action">[Ĥåñĝ Ûþ one two]</string>
+    <string name="call_notification_incoming_text">[Îñçöḿîñĝ çåļļ one two]</string>
+    <string name="call_notification_ongoing_text">[Öñĝöîñĝ çåļļ one two]</string>
+    <string name="call_notification_screening_text">[Šçŕééñîñĝ åñ îñçöḿîñĝ çåļļ one two three four]</string>
+    <string name="status_bar_notification_info_overflow">[999+ one]</string>
+</resources>

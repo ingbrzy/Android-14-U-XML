@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sound_amplifier_html_description">Soinu-anplifikadoreak soinu ahulak handitzen ditu, soinu ozenak gehiegi handitu gabe.&lt;br/>&lt;br/> &lt;b>Soinu-anplifikadorea erabiltzeko argibideak&lt;/b>&lt;br/> 1. Entxufatu entzungailu kabledunak edo konektatu Bluetooth bidezkoak.&lt;br/> 2. Abiarazi soinu-anplifikadorea.</string>
+    <string name="sound_amplifier_intro">Erabili soinu-anplifikadorea entzungailuekin, zure inguruko nahiz gailuko audioaren kalitatea hobetzeko</string>
+</resources>

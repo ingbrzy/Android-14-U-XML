@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_install_failed_multi_app_desc">
+        <item quantity="other">"‏‮Set‬‏-‏‮up‬‏ ‏‮can‬‏'‏‮t‬‏ ‏‮be‬‏ ‏‮completed‬‏ ‏‮as‬‏ %1$d ‏‮required‬‏ ‏‮apps‬‏ ‏‮failed‬‏ ‏‮to‬‏ ‏‮install‬‏. ‏‮Please‬‏ ‏‮contact‬‏ ‏‮your‬‏ ‏‮system‬‏ ‏‮administrator‬‏ ‏‮directly‬‏."</item>
+        <item quantity="zero">"‏‮Set‬‏-‏‮up‬‏ ‏‮can‬‏'‏‮t‬‏ ‏‮be‬‏ ‏‮completed‬‏ ‏‮as‬‏ %1$d ‏‮required‬‏ ‏‮apps‬‏ ‏‮failed‬‏ ‏‮to‬‏ ‏‮install‬‏. ‏‮Please‬‏ ‏‮contact‬‏ ‏‮your‬‏ ‏‮system‬‏ ‏‮administrator‬‏ ‏‮directly‬‏."</item>
+        <item quantity="one">"‏‮Set‬‏-‏‮up‬‏ ‏‮can‬‏'‏‮t‬‏ ‏‮be‬‏ ‏‮completed‬‏ ‏‮as‬‏ %1$d ‏‮required‬‏ ‏‮app‬‏ ‏‮failed‬‏ ‏‮to‬‏ ‏‮install‬‏. ‏‮Please‬‏ ‏‮contact‬‏ ‏‮your‬‏ ‏‮system‬‏ ‏‮administrator‬‏ ‏‮directly‬‏."</item>
+        <item quantity="two">"‏‮Set‬‏-‏‮up‬‏ ‏‮can‬‏'‏‮t‬‏ ‏‮be‬‏ ‏‮completed‬‏ ‏‮as‬‏ %1$d ‏‮required‬‏ ‏‮apps‬‏ ‏‮failed‬‏ ‏‮to‬‏ ‏‮install‬‏. ‏‮Please‬‏ ‏‮contact‬‏ ‏‮your‬‏ ‏‮system‬‏ ‏‮administrator‬‏ ‏‮directly‬‏."</item>
+        <item quantity="few">"‏‮Set‬‏-‏‮up‬‏ ‏‮can‬‏'‏‮t‬‏ ‏‮be‬‏ ‏‮completed‬‏ ‏‮as‬‏ %1$d ‏‮required‬‏ ‏‮apps‬‏ ‏‮failed‬‏ ‏‮to‬‏ ‏‮install‬‏. ‏‮Please‬‏ ‏‮contact‬‏ ‏‮your‬‏ ‏‮system‬‏ ‏‮administrator‬‏ ‏‮directly‬‏."</item>
+        <item quantity="many">"‏‮Set‬‏-‏‮up‬‏ ‏‮can‬‏'‏‮t‬‏ ‏‮be‬‏ ‏‮completed‬‏ ‏‮as‬‏ %1$d ‏‮required‬‏ ‏‮apps‬‏ ‏‮failed‬‏ ‏‮to‬‏ ‏‮install‬‏. ‏‮Please‬‏ ‏‮contact‬‏ ‏‮your‬‏ ‏‮system‬‏ ‏‮administrator‬‏ ‏‮directly‬‏."</item>
+    </plurals>
+    <plurals name="app_install_failure_title">
+        <item quantity="other">"‏‮Can‬‏'‏‮t‬‏ ‏‮install‬‏ ‏‮apps‬‏"</item>
+        <item quantity="zero">"‏‮Can‬‏'‏‮t‬‏ ‏‮install‬‏ ‏‮apps‬‏"</item>
+        <item quantity="one">"‏‮Can‬‏'‏‮t‬‏ ‏‮install‬‏ ‏‮app‬‏"</item>
+        <item quantity="two">"‏‮Can‬‏'‏‮t‬‏ ‏‮install‬‏ ‏‮apps‬‏"</item>
+        <item quantity="few">"‏‮Can‬‏'‏‮t‬‏ ‏‮install‬‏ ‏‮apps‬‏"</item>
+        <item quantity="many">"‏‮Can‬‏'‏‮t‬‏ ‏‮install‬‏ ‏‮apps‬‏"</item>
+    </plurals>
+    <plurals name="app_install_progress_desc">
+        <item quantity="other">%1$d ‏‮of‬‏ %2$d ‏‮apps‬‏ ‏‮installed‬‏</item>
+        <item quantity="zero">%1$d ‏‮of‬‏ %2$d ‏‮apps‬‏ ‏‮installed‬‏</item>
+        <item quantity="one">%1$d ‏‮of‬‏ %2$d ‏‮app‬‏ ‏‮installed‬‏</item>
+        <item quantity="two">%1$d ‏‮of‬‏ %2$d ‏‮apps‬‏ ‏‮installed‬‏</item>
+        <item quantity="few">%1$d ‏‮of‬‏ %2$d ‏‮apps‬‏ ‏‮installed‬‏</item>
+        <item quantity="many">%1$d ‏‮of‬‏ %2$d ‏‮apps‬‏ ‏‮installed‬‏</item>
+    </plurals>
+    <plurals name="app_uninstall_button">
+        <item quantity="other">‏‮Uninstall‬‏ ‏‮apps‬‏</item>
+        <item quantity="zero">‏‮Uninstall‬‏ ‏‮apps‬‏</item>
+        <item quantity="one">‏‮Uninstall‬‏ ‏‮app‬‏</item>
+        <item quantity="two">‏‮Uninstall‬‏ ‏‮apps‬‏</item>
+        <item quantity="few">‏‮Uninstall‬‏ ‏‮apps‬‏</item>
+        <item quantity="many">‏‮Uninstall‬‏ ‏‮apps‬‏</item>
+    </plurals>
+    <plurals name="days_left_message">
+        <item quantity="other">&lt;annotation id="numeric_time_left">^1&lt;/annotation> ‏‮days‬‏ ‏‮left‬‏</item>
+        <item quantity="zero">&lt;annotation id="numeric_time_left">^1&lt;/annotation> ‏‮days‬‏ ‏‮left‬‏</item>
+        <item quantity="one">&lt;annotation id="numeric_time_left">^1&lt;/annotation> ‏‮day‬‏ ‏‮left‬‏</item>
+        <item quantity="two">&lt;annotation id="numeric_time_left">^1&lt;/annotation> ‏‮days‬‏ ‏‮left‬‏</item>
+        <item quantity="few">&lt;annotation id="numeric_time_left">^1&lt;/annotation> ‏‮days‬‏ ‏‮left‬‏</item>
+        <item quantity="many">&lt;annotation id="numeric_time_left">^1&lt;/annotation> ‏‮days‬‏ ‏‮left‬‏</item>
+    </plurals>
+    <plurals name="hours_left_message">
+        <item quantity="other">&lt;annotation id="numeric_time_left">^1&lt;/annotation> ‏‮hours‬‏ ‏‮left‬‏</item>
+        <item quantity="zero">&lt;annotation id="numeric_time_left">^1&lt;/annotation> ‏‮hours‬‏ ‏‮left‬‏</item>
+        <item quantity="one">&lt;annotation id="numeric_time_left">^1&lt;/annotation> ‏‮hour‬‏ ‏‮left‬‏</item>
+        <item quantity="two">&lt;annotation id="numeric_time_left">^1&lt;/annotation> ‏‮hours‬‏ ‏‮left‬‏</item>
+        <item quantity="few">&lt;annotation id="numeric_time_left">^1&lt;/annotation> ‏‮hours‬‏ ‏‮left‬‏</item>
+        <item quantity="many">&lt;annotation id="numeric_time_left">^1&lt;/annotation> ‏‮hours‬‏ ‏‮left‬‏</item>
+    </plurals>
+    <plurals name="number_of_additional_apps">
+        <item quantity="other">%1$d ‏‮additional‬‏ ‏‮apps‬‏</item>
+        <item quantity="zero">%1$d ‏‮additional‬‏ ‏‮apps‬‏</item>
+        <item quantity="one">%1$d ‏‮additional‬‏ ‏‮app‬‏</item>
+        <item quantity="two">%1$d ‏‮additional‬‏ ‏‮apps‬‏</item>
+        <item quantity="few">%1$d ‏‮additional‬‏ ‏‮apps‬‏</item>
+        <item quantity="many">%1$d ‏‮additional‬‏ ‏‮apps‬‏</item>
+    </plurals>
+    <plurals name="number_of_required_apps">
+        <item quantity="other">%1$d ‏‮required‬‏ ‏‮apps‬‏</item>
+        <item quantity="zero">%1$d ‏‮required‬‏ ‏‮apps‬‏</item>
+        <item quantity="one">%1$d ‏‮required‬‏ ‏‮app‬‏</item>
+        <item quantity="two">%1$d ‏‮required‬‏ ‏‮apps‬‏</item>
+        <item quantity="few">%1$d ‏‮required‬‏ ‏‮apps‬‏</item>
+        <item quantity="many">%1$d ‏‮required‬‏ ‏‮apps‬‏</item>
+    </plurals>
+    <plurals name="policy_apps_list_summary">
+        <item quantity="other">"%d ‏‮work‬‏ ‏‮apps‬‏ ‏‮can‬‏'‏‮t‬‏ ‏‮be‬‏ ‏‮uninstalled‬‏"</item>
+        <item quantity="zero">"%d ‏‮work‬‏ ‏‮apps‬‏ ‏‮can‬‏'‏‮t‬‏ ‏‮be‬‏ ‏‮uninstalled‬‏"</item>
+        <item quantity="one">"%d ‏‮work‬‏ ‏‮app‬‏ ‏‮can‬‏'‏‮t‬‏ ‏‮be‬‏ ‏‮uninstalled‬‏"</item>
+        <item quantity="two">"%d ‏‮work‬‏ ‏‮apps‬‏ ‏‮can‬‏'‏‮t‬‏ ‏‮be‬‏ ‏‮uninstalled‬‏"</item>
+        <item quantity="few">"%d ‏‮work‬‏ ‏‮apps‬‏ ‏‮can‬‏'‏‮t‬‏ ‏‮be‬‏ ‏‮uninstalled‬‏"</item>
+        <item quantity="many">"%d ‏‮work‬‏ ‏‮apps‬‏ ‏‮can‬‏'‏‮t‬‏ ‏‮be‬‏ ‏‮uninstalled‬‏"</item>
+    </plurals>
+    <plurals name="preinstalled_apps">
+        <item quantity="other">%1$d ‏‮of‬‏ %2$d ‏‮apps‬‏ ‏‮installed‬‏</item>
+        <item quantity="zero">%1$d ‏‮of‬‏ %2$d ‏‮apps‬‏ ‏‮installed‬‏</item>
+        <item quantity="one">%1$d ‏‮of‬‏ %2$d ‏‮app‬‏ ‏‮installed‬‏</item>
+        <item quantity="two">%1$d ‏‮of‬‏ %2$d ‏‮apps‬‏ ‏‮installed‬‏</item>
+        <item quantity="few">%1$d ‏‮of‬‏ %2$d ‏‮apps‬‏ ‏‮installed‬‏</item>
+        <item quantity="many">%1$d ‏‮of‬‏ %2$d ‏‮apps‬‏ ‏‮installed‬‏</item>
+    </plurals>
+    <plurals name="readable_name_applications">
+        <item quantity="other">%1$d ‏‮apps‬‏ ‏‮available‬‏ (%2$d ‏‮installed‬‏, %3$d ‏‮disabled‬‏)</item>
+        <item quantity="zero">%1$d ‏‮apps‬‏ ‏‮available‬‏ (%2$d ‏‮installed‬‏, %3$d ‏‮disabled‬‏)</item>
+        <item quantity="one">%1$d ‏‮app‬‏ ‏‮available‬‏ (%2$d ‏‮installed‬‏, %3$d ‏‮disabled‬‏)</item>
+        <item quantity="two">%1$d ‏‮apps‬‏ ‏‮available‬‏ (%2$d ‏‮installed‬‏, %3$d ‏‮disabled‬‏)</item>
+        <item quantity="few">%1$d ‏‮apps‬‏ ‏‮available‬‏ (%2$d ‏‮installed‬‏, %3$d ‏‮disabled‬‏)</item>
+        <item quantity="many">%1$d ‏‮apps‬‏ ‏‮available‬‏ (%2$d ‏‮installed‬‏, %3$d ‏‮disabled‬‏)</item>
+    </plurals>
+</resources>

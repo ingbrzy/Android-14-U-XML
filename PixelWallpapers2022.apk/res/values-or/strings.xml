@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="azure_title">ଆଜ୍ୟୁର ଜେ</string>
+    <string name="blackswan_title">କଳା ହଂସ</string>
+    <string name="cockatoo_title">କକାଟୁ</string>
+    <string name="come_alive_title">କମ୍ ଆଲାଇଭ୍</string>
+    <string name="feathers_attribution">ଆଣ୍ଡ୍ର୍ୟୁ ଜକରମ୍ୟାନଙ୍କ ଦ୍ୱାରା ଉଠାଯାଇଥିବା ଫଟୋ</string>
+    <string name="feathers_description">ପକ୍ଷୀ ପରର ରଙ୍ଗ ଏବଂ ବିବରଣୀର ଡିସପ୍ଲେ</string>
+    <string name="feathers_title">ପର</string>
+    <string name="greenwinged_title">ସବୁଜ-ଡେଣା ଥିବା ମାକାଓ</string>
+    <string name="king_title">ରାଜା ଶାଗୁଣା</string>
+    <string name="living_universe_title">ଲିଭିଂ ୟୁନିଭର୍ସ</string>
+    <string name="photos_memory_gallery_title">ଆପଣଙ୍କ ମେମୋରୀ</string>
+    <string name="pied_title">ପାଏଡ କ୍ରୋ</string>
+    <string name="ringnecked_title">ବେକରେ-ରିଂ ପରି ଦାଗ ଥିବା ଶୁଆ</string>
+    <string name="seagull_title">ସିଗଲ</string>
+</resources>

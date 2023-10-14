@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dlg_message_deletion_confirmation">
+        <item quantity="other">თქვენი ჩანაწერები სამუდამოდ წაიშლება. ამ მოქმედების გაუქმება შეუძლებელია.</item>
+        <item quantity="one">თქვენი ჩანაწერი სამუდამოდ წაიშლება. ამ მოქმედების გაუქმება შეუძლებელია.</item>
+    </plurals>
+    <plurals name="dlg_message_deletion_permanent_confirmation">
+        <item quantity="other">ჩანაწერები არ არის დარეზერვებული. ისინი სამუდამოდ წაიშლება. ამ მოქმედებას ვერ გააუქმებთ.</item>
+        <item quantity="one">ჩანაწერი არ არის დარეზერვებული. ის სამუდამოდ წაიშლება. ამ მოქმედებას ვერ გააუქმებთ.</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_confirmation">
+        <item quantity="other">გსურთ ჩანაწერების წაშლა?</item>
+        <item quantity="one">გსურთ ჩანაწერის წაშლა?</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_permanent_confirmation">
+        <item quantity="other">წაიშალოს ეს ჩანაწერები სამუდამოდ?</item>
+        <item quantity="one">წაიშალოს ეს ჩანაწერი სამუდამოდ?</item>
+    </plurals>
+    <plurals name="download_failure_description_storage_full">
+        <item quantity="other">ჩანაწერების ჩამოტვირთვა ვერ ხერხდება, რადგან მოწყობილობის მეხსიერება სავსეა. შეეხეთ გადასახედად.</item>
+        <item quantity="one">მოწყობილობის მეხსიერება სავსეა. შეეხეთ გადასახედად.</item>
+    </plurals>
+    <plurals name="downloading_description">
+        <item quantity="other">მიმდინარეობს %1$d ჩანაწერის ჩამოტვირთვა</item>
+        <item quantity="one">მიმდინარეობს %1$d ჩანაწერის ჩამოტვირთვა</item>
+    </plurals>
+    <plurals name="og_backup_failed_title">
+        <item quantity="other">%1$d ერთეულის სარეზერვო ასლის შექმნა ვერ მოხერხდა</item>
+        <item quantity="one">%1$d ერთეულის სარეზერვო ასლის შექმნა ვერ მოხერხდა</item>
+    </plurals>
+    <plurals name="og_backup_items_left">
+        <item quantity="other">დარჩენილია %1$d ერთეული</item>
+        <item quantity="one">დარჩენილია %1$d ერთეული</item>
+    </plurals>
+    <plurals name="og_backup_items_stopped_title">
+        <item quantity="other">%1$d ერთეულის სარეზერვო ასლი შექმნილი არ არის</item>
+        <item quantity="one">%1$d ერთეულის სარეზერვო ასლი შექმნილი არ არის</item>
+    </plurals>
+    <plurals name="peoplekit_chips_copied_recipients">
+        <item quantity="other">დაკოპირდა %d მიმღები</item>
+        <item quantity="one">დაკოპირდა %d მიმღები</item>
+    </plurals>
+    <plurals name="search_results_count">
+        <item quantity="other">%1$d შედეგი</item>
+        <item quantity="one">%1$d შედეგი</item>
+    </plurals>
+    <plurals name="search_results_position">
+        <item quantity="other">^1/^2 შედეგი</item>
+        <item quantity="one">^1/^2 შედეგი</item>
+    </plurals>
+    <plurals name="search_results_position_content_description">
+        <item quantity="other">%1$d შედეგი %2$d-დან</item>
+        <item quantity="one">%1$d შედეგი %2$d-დან</item>
+    </plurals>
+    <plurals name="selected_recording_quantity">
+        <item quantity="other">არჩეულია %1$d</item>
+        <item quantity="one">არჩეულია %1$d</item>
+    </plurals>
+    <plurals name="snackbar_message_download_failed_storage_full">
+        <item quantity="other">მოწყობილობის მეხსიერება სავსეა. ჩანაწერების ჩამოტვირთვა ვერ ხერხდება.</item>
+        <item quantity="one">მოწყობილობის მეხსიერება სავსეა. ჩანაწერის ჩამოტვირთვა ვერ ხერხდება.</item>
+    </plurals>
+    <plurals name="speaker_count">
+        <item quantity="other">%1$d დინამიკი</item>
+        <item quantity="one">%1$d დინამიკი</item>
+    </plurals>
+    <plurals name="uploading_description">
+        <item quantity="other">მიმდინარეობს %1$d ჩანაწერის ატვირთვა</item>
+        <item quantity="one">მიმდინარეობს %1$d ჩანაწერის ატვირთვა</item>
+    </plurals>
+</resources>

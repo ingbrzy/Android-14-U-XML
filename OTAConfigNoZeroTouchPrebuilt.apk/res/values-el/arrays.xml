@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sim_locked_notification_custom_content_array">
+        <item>Για να χρησιμοποιήσετε αυτήν την κάρτα SIM, ξεκλειδώστε το τηλέφωνό σας χρησιμοποιώντας την εφαρμογή Device Unlock.</item>
+        <item>Επικοινωνήστε με τον πάροχο υπηρεσιών κινητής τηλεφωνίας</item>
+    </string-array>
+</resources>

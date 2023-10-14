@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sound_amplifier_html_description">Hljóðmagnari hækkar í daufum hljóðum án þess að gera kraftmikil hljóð of hávær.&lt;br/>&lt;br/> &lt;b>Svona notarðu hljóðmagnara&lt;/b>&lt;br/> 1. Stingdu heyrnartólum með snúru í samband eða tengdu Bluetooth-heyrnartól&lt;br/> 2.  Kveiktu á hljóðmagnara</string>
+    <string name="sound_amplifier_intro">Notaðu hljóðmagnara með heyrnartólum til að auka hljómgæði í kringum þig og í tækinu</string>
+</resources>

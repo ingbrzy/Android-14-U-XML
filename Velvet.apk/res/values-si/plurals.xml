@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="other">දින %dකට පෙර</item>
+        <item quantity="one">දින %dකට පෙර</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="other">මිනි %dකට පෙර</item>
+        <item quantity="one">මිනි %dකට පෙර</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="other">වසර %dකට පෙර</item>
+        <item quantity="one">වසර %dකට පෙර</item>
+    </plurals>
+    <plurals name="assistant_custodio_device_list_fragment_legacy_linking_item_text">
+        <item quantity="other">උපාංග %d ක් තිබේ</item>
+        <item quantity="one">උපාංග %d ක් තිබේ</item>
+    </plurals>
+    <plurals name="assistant_custodio_device_list_home_section_subtitle_text">
+        <item quantity="other">උපාංග %dක්</item>
+        <item quantity="one">උපාංග %dක්</item>
+    </plurals>
+    <plurals name="assistant_holiday_alarms_notification_content_text">
+        <item quantity="other">Tap to pause or cancel your alarms</item>
+        <item quantity="one">Tap to pause or cancel your %s alarm</item>
+    </plurals>
+    <plurals name="assistant_holiday_alarms_notification_pause_button_text">
+        <item quantity="other">Pause your alarms for the holiday</item>
+        <item quantity="one">Pause your %s alarm for the holiday</item>
+    </plurals>
+    <plurals name="assistant_post_task_migration_succeed_notification_title">
+        <item quantity="other">%1$d reminders set up in Google Tasks</item>
+        <item quantity="one">%1$d reminder set up in Google Tasks</item>
+    </plurals>
+    <plurals name="assistantactions_n_phone_numbers">
+        <item quantity="other">%1$d numbers</item>
+        <item quantity="one">%1$d number</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">සෑම දින %dකම</item>
+        <item quantity="one">සෑම දින %dකම</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; වාර %dක් සඳහා</item>
+        <item quantity="one">; වාර %dක් සඳහා</item>
+    </plurals>
+    <plurals name="fa_message_preview_card_num_of_audio_messages">
+        <item quantity="other">ශ්‍රව්‍ය පණිවුඩ %1$dක්</item>
+        <item quantity="one">ශ්‍රව්‍ය පණිවුඩ %1$dක්</item>
+    </plurals>
+    <plurals name="fa_message_preview_card_num_of_pictures">
+        <item quantity="other">පින්තූර %1$dක්</item>
+        <item quantity="one">පින්තූර %1$dක්</item>
+    </plurals>
+    <plurals name="fa_message_preview_card_num_of_videos">
+        <item quantity="other">වීඩියෝ %1$dක්</item>
+        <item quantity="one">වීඩියෝ %1$dක්</item>
+    </plurals>
+    <plurals name="gestalt_duration_in_days_short">
+        <item quantity="other">දින %1$d</item>
+        <item quantity="one">දින %1$d</item>
+    </plurals>
+    <plurals name="gestalt_duration_in_hours_short">
+        <item quantity="other">පැය %1$d</item>
+        <item quantity="one">පැය %1$d</item>
+    </plurals>
+    <plurals name="gestalt_duration_in_minutes_short">
+        <item quantity="other">මිනි %1$d</item>
+        <item quantity="one">මිනි %1$d</item>
+    </plurals>
+    <plurals name="gestalt_duration_in_months_short">
+        <item quantity="other">මාස %1$d</item>
+        <item quantity="one">මාස %1$d</item>
+    </plurals>
+    <plurals name="gestalt_duration_in_years_short">
+        <item quantity="other">වසර %1$d</item>
+        <item quantity="one">වසර %1$d</item>
+    </plurals>
+    <plurals name="lens_region_search_area_percent">
+        <item quantity="other">%1$s සියයට %2$d</item>
+        <item quantity="one">%1$s සියයට %2$d</item>
+    </plurals>
+    <plurals name="monthly_interval">
+        <item quantity="other">සැම මාස %1$dකම</item>
+        <item quantity="one">සෑම මාස %1$dකම</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">නව දැනුම්දීම් %dක්</item>
+        <item quantity="one">නව දැනුම්දීම් %dක්</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">%1$dක් තෝරා ගන්නා ලදී</item>
+        <item quantity="one">%1$dක් තෝරා ගන්නා ලදී</item>
+    </plurals>
+    <plurals name="peoplekit_chips_copied_recipients">
+        <item quantity="other">ලබන්නන් %d දෙනෙක් පිටපත් කරන ලදි</item>
+        <item quantity="one">ලබන්නන් %d දෙනෙක් පිටපත් කරන ලදි</item>
+    </plurals>
+    <plurals name="podcasts_days_ago">
+        <item quantity="other">දින%1$dකට පෙර</item>
+        <item quantity="one">දින%1$dකට පෙර</item>
+    </plurals>
+    <plurals name="podcasts_days_left_to_remove_downloads">
+        <item quantity="other">දින %1$d කට පසු</item>
+        <item quantity="one">දින %1$d කට පසු</item>
+    </plurals>
+    <plurals name="podcasts_enabled_podcasts_number_label">
+        <item quantity="other">පොඩ්කාස්ට් %2$dකින් %1$dක් සබල කරන ලදී</item>
+        <item quantity="one">පොඩ්කාස්ට් %2$dකින් %1$dක් සබල කරන ලදී</item>
+    </plurals>
+    <plurals name="podcasts_episode_list_title_text">
+        <item quantity="other">කතාංග %1$d ක්</item>
+        <item quantity="one">කතාංග %1$d ක්</item>
+    </plurals>
+    <plurals name="podcasts_hours_abbreviated">
+        <item quantity="other">පැය %s</item>
+        <item quantity="one">පැය %s</item>
+    </plurals>
+    <plurals name="podcasts_hours_ago">
+        <item quantity="other">පැය %1$dකට පෙර</item>
+        <item quantity="one">පැය %1$dකට පෙර</item>
+    </plurals>
+    <plurals name="podcasts_hours_left_to_remove_downloads">
+        <item quantity="other">පැය %1$d කට පසු</item>
+        <item quantity="one">පැය %1$d කට පසු</item>
+    </plurals>
+    <plurals name="podcasts_minutes_abbreviated">
+        <item quantity="other">විනා %s</item>
+        <item quantity="one">විනා %s</item>
+    </plurals>
+    <plurals name="podcasts_minutes_ago">
+        <item quantity="other">මිනි %1$dකට පෙර</item>
+        <item quantity="one">මිනි %1$dකට පෙර</item>
+    </plurals>
+    <plurals name="public_notification_text">
+        <item quantity="other">%1$d new notifications</item>
+        <item quantity="one">You have a notification</item>
+    </plurals>
+    <plurals name="readaloud_number_of_minutes">
+        <item quantity="other">විනාඩි %d</item>
+        <item quantity="one">විනාඩි %d</item>
+    </plurals>
+    <plurals name="readaloud_number_of_seconds">
+        <item quantity="other">තත්පර %d</item>
+        <item quantity="one">තත්පර %d</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">සිදුවීම් %dක් සඳහා</item>
+        <item quantity="one">සිදුවීම් %dක් සඳහා</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">සෑම දින %dකම</item>
+        <item quantity="one">සෑම දින %dකම</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">සෑම මාස %dකම</item>
+        <item quantity="one">සෑම මාස %dකම</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">සෑම සති %dකම</item>
+        <item quantity="one">සෑම සති %dකම</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">සෑම වර්ෂ %dකම</item>
+        <item quantity="one">සෑම වර්ෂ %dකම</item>
+    </plurals>
+    <plurals name="share_eta_button">
+        <item quantity="other">මිනි %d</item>
+        <item quantity="one">මිනි %d</item>
+    </plurals>
+    <plurals name="share_eta_message">
+        <item quantity="other">මිනිත්තු %dකින් පමණ පැමිණේ.</item>
+        <item quantity="one">මිනිත්තු %dකින් පමණ පැමිණේ.</item>
+    </plurals>
+    <plurals name="share_imminent_eta_message">
+        <item quantity="other">මිනිත්තු %dකින් පැමිණේ.</item>
+        <item quantity="one">මිනිත්තු %dකින් පැමිණේ.</item>
+    </plurals>
+    <plurals name="survey_star_rating">
+        <item quantity="other">තරු %2$dකින් %1$dක්</item>
+        <item quantity="one">තරු %2$dකින් %1$dක්</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">සෑම සති %1$dකම %2$s දිනවල</item>
+        <item quantity="one">සෑම සති %1$dකම %2$s දිනවල</item>
+    </plurals>
+    <plurals name="yearly_interval_plain">
+        <item quantity="other">සෑම වර්ෂ %1$dකම</item>
+        <item quantity="one">සෑම වර්ෂ %1$dකම</item>
+    </plurals>
+</resources>

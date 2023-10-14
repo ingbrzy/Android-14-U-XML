@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="other">%d dagar sedan</item>
+        <item quantity="one">%d dag sedan</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="other">%d min sedan</item>
+        <item quantity="one">%d min sedan</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="other">%d år sedan</item>
+        <item quantity="one">%d år sedan</item>
+    </plurals>
+    <plurals name="accessibility_other_devices">
+        <item quantity="other">%d andra enheter</item>
+        <item quantity="one">%d annan enhet</item>
+    </plurals>
+    <plurals name="routines_settings_summary">
+        <item quantity="other">%d regler</item>
+        <item quantity="one">1 regel</item>
+    </plurals>
+</resources>

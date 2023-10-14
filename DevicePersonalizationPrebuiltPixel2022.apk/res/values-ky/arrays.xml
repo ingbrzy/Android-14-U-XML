@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="call_captions_typing_predictions_post_system_message">
+        <item>Салам, бул ким?</item>
+        <item>Салам, кандайсыз?</item>
+        <item>Бир мүнөт күтө туруңуз</item>
+        <item>Салам, бир аздан кийин кайра чаласызбы?</item>
+        <item>Салам! Телефон чалганыңыз үчүн рахмат.</item>
+    </string-array>
+    <string-array name="captions_settings_enable_for_calls_choices_entries">
+        <item>Ар дайым суралсын</item>
+        <item>Ар дайым</item>
+        <item>Өчүк</item>
+    </string-array>
+    <string-array name="captions_settings_typing_voice_names">
+        <item>A үнү</item>
+        <item>B үнү</item>
+        <item>C үнү</item>
+        <item>D үнү</item>
+        <item>E үнү</item>
+        <item>F үнү</item>
+        <item>G үнү</item>
+        <item>H үнү</item>
+        <item>I үнү</item>
+        <item>J үнү</item>
+        <item>К үнү</item>
+        <item>L үнү</item>
+        <item>М үнү</item>
+        <item>N үнү</item>
+        <item>O үнү</item>
+        <item>Р үнү</item>
+    </string-array>
+    <string-array name="pref_download_policy_entries">
+        <item>Мобилдик Интернет + WiFi</item>
+        <item>Wi-Fi гана</item>
+        <item>Жаңыртылбасын</item>
+    </string-array>
+    <string-array name="pref_download_policy_entry_values_placeholder">
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+</resources>

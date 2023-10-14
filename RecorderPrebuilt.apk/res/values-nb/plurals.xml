@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dlg_message_deletion_confirmation">
+        <item quantity="other">Opptakene blir permanent slettet. Denne handlingen kan ikke angres.</item>
+        <item quantity="one">Opptaket blir permanent slettet. Denne handlingen kan ikke angres.</item>
+    </plurals>
+    <plurals name="dlg_message_deletion_permanent_confirmation">
+        <item quantity="other">Opptakene er ikke sikkerhetskopiert. De blir slettet for godt. Denne handlingen kan ikke angres.</item>
+        <item quantity="one">Opptaket er ikke sikkerhetskopiert. Det blir slettet for godt. Denne handlingen kan ikke angres.</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_confirmation">
+        <item quantity="other">Vil du slette opptakene?</item>
+        <item quantity="one">Vil du slette opptaket?</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_permanent_confirmation">
+        <item quantity="other">Vil du slette disse opptakene for godt?</item>
+        <item quantity="one">Vil du slette dette opptaket for godt?</item>
+    </plurals>
+    <plurals name="download_failure_description_storage_full">
+        <item quantity="other">Kan ikke laste ned opptak fordi enhetslagringsplassen er full. Trykk for å gjennomgå.</item>
+        <item quantity="one">Enhetslagringsplassen er full. Trykk for å gjennomgå.</item>
+    </plurals>
+    <plurals name="downloading_description">
+        <item quantity="other">Laster ned %1$d opptak</item>
+        <item quantity="one">Laster ned %1$d opptak</item>
+    </plurals>
+    <plurals name="og_backup_failed_title">
+        <item quantity="other">Kunne ikke sikkerhetskopiere %1$d elementer</item>
+        <item quantity="one">Kunne ikke sikkerhetskopiere %1$d element</item>
+    </plurals>
+    <plurals name="og_backup_items_left">
+        <item quantity="other">%1$d elementer gjenstår</item>
+        <item quantity="one">%1$d element gjenstår</item>
+    </plurals>
+    <plurals name="og_backup_items_stopped_title">
+        <item quantity="other">%1$d elementer er ikke sikkerhetskopiert</item>
+        <item quantity="one">%1$d element er ikke sikkerhetskopiert</item>
+    </plurals>
+    <plurals name="peoplekit_chips_copied_recipients">
+        <item quantity="other">Kopierte %d mottakere</item>
+        <item quantity="one">Kopierte %d mottaker</item>
+    </plurals>
+    <plurals name="search_results_count">
+        <item quantity="other">%1$d resultater</item>
+        <item quantity="one">%1$d resultat</item>
+    </plurals>
+    <plurals name="search_results_position">
+        <item quantity="other">^1/^2 resultater</item>
+        <item quantity="one">^1/^2 resultat</item>
+    </plurals>
+    <plurals name="search_results_position_content_description">
+        <item quantity="other">%1$d av %2$d resultater</item>
+        <item quantity="one">%1$d av %2$d resultat</item>
+    </plurals>
+    <plurals name="selected_recording_quantity">
+        <item quantity="other">%1$d er valgt</item>
+        <item quantity="one">%1$d er valgt</item>
+    </plurals>
+    <plurals name="snackbar_message_download_failed_storage_full">
+        <item quantity="other">Enhetslagringsplassen er full. Kan ikke laste ned opptakene.</item>
+        <item quantity="one">Enhetslagringsplassen er full. Kan ikke laste ned opptaket.</item>
+    </plurals>
+    <plurals name="speaker_count">
+        <item quantity="other">%1$d høyttalere</item>
+        <item quantity="one">%1$d høyttaler</item>
+    </plurals>
+    <plurals name="uploading_description">
+        <item quantity="other">Laster opp %1$d opptak</item>
+        <item quantity="one">Laster opp %1$d opptak</item>
+    </plurals>
+</resources>

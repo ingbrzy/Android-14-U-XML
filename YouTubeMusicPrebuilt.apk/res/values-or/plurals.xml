@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_duration_description_hours">
+        <item quantity="other">%d ଘଣ୍ଟା</item>
+        <item quantity="one">%d ଘଣ୍ଟା</item>
+    </plurals>
+    <plurals name="accessibility_duration_description_minutes">
+        <item quantity="other">%d ମିନିଟ୍</item>
+        <item quantity="one">%d ମିନିଟ୍</item>
+    </plurals>
+    <plurals name="accessibility_duration_description_seconds">
+        <item quantity="other">%d ସେକେଣ୍ଡ</item>
+        <item quantity="one">%d ସେକେଣ୍ଡ</item>
+    </plurals>
+    <plurals name="accessibility_skip_ad_in">
+        <item quantity="other">%1$d ସେକେଣ୍ଡ ପରେ ବିଜ୍ଞାପନ ଛାଡନ୍ତୁ</item>
+        <item quantity="one">1 ସେକେଣ୍ଡ ପରେ ବିଜ୍ଞାପନ ଛାଡନ୍ତୁ</item>
+    </plurals>
+    <plurals name="quick_seek_x_second">
+        <item quantity="other">%d ସେକେଣ୍ଡ</item>
+        <item quantity="one">%d ସେକେଣ୍ଡ</item>
+    </plurals>
+    <plurals name="user_education_quick_seek">
+        <item quantity="other">%d ସେକେଣ୍ଡ ଛାଡ଼ିବା ପାଇଁ ବାମ କିମ୍ବା ଡ଼ାହାଣକୁ ଦୁଇଥର ଟାପ୍ କରନ୍ତୁ</item>
+        <item quantity="one">%d ସେକେଣ୍ଡ ଛାଡ଼ିବା ପାଇଁ ବାମ କିମ୍ବା ଡ଼ାହାଣକୁ ଦୁଇଥର ଟାପ୍ କରନ୍ତୁ</item>
+    </plurals>
+</resources>

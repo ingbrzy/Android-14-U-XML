@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bundle1_color_name">Ogle</string>
+    <string name="bundle2_color_name">Papīrs</string>
+    <string name="bundle3_color_name">Saule</string>
+    <string name="color_name_monochromatic">Vienkrāsains</string>
+    <string name="default_color_name">Klasika</string>
+    <string name="fruit1_color_name">Divu krāsu (sarkana un dzeltena) palete</string>
+    <string name="fruit2_color_name">Divu krāsu (zaļa un oranža) palete</string>
+    <string name="fruit3_color_name">Divu krāsu (zila un zaļa) palete</string>
+    <string name="fruit4_color_name">Divu krāsu (gaiši violeta un zila) palete</string>
+    <string name="fruit5_color_name">Divu krāsu (rozā un indigo) palete</string>
+    <string name="rainbow1_color_name">Sarkana</string>
+    <string name="rainbow2_color_name">Oranža</string>
+    <string name="rainbow3_color_name">Dzeltena</string>
+    <string name="rainbow4_color_name">Zaļa</string>
+    <string name="rainbow5_color_name">Zila</string>
+    <string name="rainbow6_color_name">Indigo</string>
+    <string name="rainbow7_color_name">Violeta</string>
+</resources>

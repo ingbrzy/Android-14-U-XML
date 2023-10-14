@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="azure_title">ਨੀਲਾ ਕਾਂ</string>
+    <string name="blackswan_title">ਕਾਲਾ ਹੰਸ</string>
+    <string name="cockatoo_title">ਕਾਕਟੂ</string>
+    <string name="come_alive_title">ਸਜੀਵ ਵਾਲਪੇਪਰ</string>
+    <string name="feathers_attribution">ਐਂਡਰਿਊ ਜ਼ੁਕਰਮੈਨ ਵੱਲੋਂ ਖਿੱਚੀ ਗਈ ਫ਼ੋਟੋ</string>
+    <string name="feathers_description">ਅਜਿਹਾ ਚਿੱਤਰ ਜਿਸ ਵਿੱਚ ਖੰਭ ਦੇ ਰੰਗ ਅਤੇ ਵੇਰਵੇ ਦਿਖਾਈ ਦਿੰਦੇ ਹਨ</string>
+    <string name="feathers_title">ਖੰਭ</string>
+    <string name="greenwinged_title">ਹਰੇ ਖੰਭਾਂ ਵਾਲਾ ਮਕੌ</string>
+    <string name="king_title">ਕਿੰਗ ਵਲਚਰ</string>
+    <string name="living_universe_title">ਸਜੀਵ ਬ੍ਰਹਿਮੰਡ</string>
+    <string name="photos_memory_gallery_title">ਤੁਹਾਡੀਆਂ ਯਾਦਾਂ</string>
+    <string name="pied_title">ਦੋ ਰੰਗਾ ਕਾਂ</string>
+    <string name="ringnecked_title">"ਗਰਦਨ 'ਤੇ ਮੁੰਦਰੀ ਵਾਲਾ ਪੈਰਾਕੀਟ"</string>
+    <string name="seagull_title">ਸਮੁੰਦਰੀ ਬੱਤਖ</string>
+</resources>

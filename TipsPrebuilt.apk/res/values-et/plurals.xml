@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="setup_info_module_tip_count_text">
+        <item quantity="other">%1$d nõuannet</item>
+        <item quantity="one">%1$d nõuanne</item>
+    </plurals>
+    <plurals name="tip_count_text">
+        <item quantity="other">%1$d vaadatud nõuannet %2$d-st</item>
+        <item quantity="one">%1$d vaadatud nõuanne %2$d-st</item>
+    </plurals>
+</resources>

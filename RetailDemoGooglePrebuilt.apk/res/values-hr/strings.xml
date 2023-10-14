@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_retaildemoCommunication">Dopušta aplikacijama interakciju s uslugama prodajnog demo-načina. Samo prodajni demo-način smije dobiti to dopuštenje. Aplikacije kojima se odobri to dopuštenje mogu pokrenuti radnje koje su rezervirane za prodajni demo-način.</string>
+    <string name="permlab_retaildemoCommunication">Komunikacija prodajnog demo-načina</string>
+    <string name="retaildemo_preload_app_name">Usluge prodajnog demo-načina</string>
+</resources>

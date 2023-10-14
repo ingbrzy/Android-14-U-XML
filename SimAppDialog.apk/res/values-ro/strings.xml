@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sim App Dialog</string>
+    <string name="call_notification_answer_action">Răspunde</string>
+    <string name="call_notification_answer_video_action">Video</string>
+    <string name="call_notification_decline_action">Respinge</string>
+    <string name="call_notification_hang_up_action">Închide</string>
+    <string name="call_notification_incoming_text">Apel primit</string>
+    <string name="call_notification_ongoing_text">Apel în desfășurare</string>
+    <string name="call_notification_screening_text">Se filtrează un apel primit</string>
+    <string name="install_carrier_app_defer_action">Nu acum</string>
+    <string name="install_carrier_app_description">Pentru ca noul card SIM să funcționeze corect, va trebui să instalezi aplicația %1$s</string>
+    <string name="install_carrier_app_description_default">Pentru ca noul card SIM să funcționeze corect, va trebui să instalezi aplicația operatorului</string>
+    <string name="install_carrier_app_download_action">Descarcă aplicația</string>
+    <string name="install_carrier_app_title">Activează serviciul mobil</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="suw_back_button_label">Înapoi</string>
+    <string name="suw_more_button_label">Mai mult</string>
+    <string name="suw_next_button_label">Înainte</string>
+</resources>

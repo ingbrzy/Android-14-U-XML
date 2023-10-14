@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="switch_access_htmlDescription">ניתן להשתמש במתגי הנגישות כדי לבחור פריטים, לגלול, להקליד ועוד.</string>
+    <string name="switch_access_intro">‏מתגי נגישות עוזרים לשלוט במכשיר Android כשקשה להשתמש ישירות במסך המגע. אפשר לחבר את מתג הנגישות למכשיר בחיבור חיצוני, למשל מקלדת או לחצן גדול.</string>
+</resources>

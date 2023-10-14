@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_retaildemoCommunication">Retail Demo Services ஆப்ஸை அணுக ஆப்ஸை அனுமதிக்கும். Retail Demo ஆப்ஸுக்கு மட்டுமே இந்த அனுமதி வழங்கப்பட வேண்டும். இந்த அனுமதி கிடைக்கப்பெற்ற ஆப்ஸால் விற்பனையாளர் டெமோ பயன்முறைக்கான செயல்பாடுகளைச் செய்ய முடியும்.</string>
+    <string name="permlab_retaildemoCommunication">Retail Demo Communication</string>
+    <string name="retaildemo_preload_app_name">Retail Demo Services</string>
+</resources>

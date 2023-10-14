@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">ზემოთ გადასვლა</string>
+    <string name="abc_action_mode_done">მზადაა</string>
+    <string name="abc_capital_off">გამორთვა</string>
+    <string name="abc_capital_on">ჩართვა</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">შორისი</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">ძიება…</string>
+    <string name="abc_searchview_description_clear">მოთხოვნის გასუფთავება</string>
+    <string name="abc_searchview_description_search">ძიება</string>
+    <string name="abc_searchview_description_submit">მოთხოვნის გადაგზავნა</string>
+    <string name="abc_searchview_description_voice">ხმოვანი ძიება</string>
+    <string name="abc_toolbar_collapse_description">ჩაკეცვა</string>
+    <string name="bottom_sheet_button_contact_text">@string/common_view</string>
+    <string name="bottom_sheet_button_matter_text">დაყენება</string>
+    <string name="bottom_sheet_button_no_apps_text">ძიება</string>
+    <string name="bottom_sheet_button_wifi_text">@string/common_connect</string>
+    <string name="bottom_sheet_copy_error_toast">ტექსტის გაცვლის ბუფერში კოპირება შეუძლებელია</string>
+    <string name="bottom_sheet_copy_success_toast">ტექსტი დაკოპირებულია გაცვლის ბუფერში</string>
+    <string name="bottom_sheet_image_view_description">ნაჩვენებია აპის ხატულა</string>
+    <string name="bottom_sheet_sub_title_no_apps">მოძიება Google Play-ში</string>
+    <string name="bottom_sheet_title">გახსნა აპით</string>
+    <string name="bottom_sheet_title_app_found">%1$s-ით გახსნა</string>
+    <string name="bottom_sheet_title_contact">კონტაქტის დეტალების ნახვა</string>
+    <string name="bottom_sheet_title_copy_text">ტექსტის კოპირება</string>
+    <string name="bottom_sheet_title_copy_text_button_text">@string/common_copy</string>
+    <string name="bottom_sheet_title_copy_text_button_text_copied">კოპირებულია</string>
+    <string name="bottom_sheet_title_matter">გამართეთ თქვენი მოწყობილობა</string>
+    <string name="bottom_sheet_title_passkey">წვდომის გასაღების გამოყენება</string>
+    <string name="bottom_sheet_title_payment">შემდეგით გადახდა:</string>
+    <string name="bottom_sheet_title_payment_setup">გადახდის დაყენება შემდეგით:</string>
+    <string name="bottom_sheet_title_payment_setup_single_app">გადახდის დაყენება %1$s-ით</string>
+    <string name="bottom_sheet_title_payment_single_app">გადახდის საშუალება: %1$s</string>
+    <string name="bottom_sheet_title_single_app_button_text">ღია</string>
+    <string name="bottom_sheet_title_wifi">Wi‑Fi ქსელთან დაკავშირება</string>
+    <string name="bottomsheet_action_expand_halfway">ნახევრამდე გაფართოება</string>
+    <string name="bottomsheet_drag_handle_content_description">სახელური ჩავლებისთვის</string>
+    <string name="camera_permission_dialog_button">კარგი</string>
+    <string name="camera_permission_dialog_message">"Google Play სერვისი საჭიროებს წვდომას თქვენი მოწყობილობის კამერაზე %1$s-(ი)ს კოდის სკანირებისთვის.
+
+ჩასართავად გთხოვთ, მიანიჭოთ კამერას ნებართვა Google Play სერვისებს პარამეტრებიდან."</string>
+    <string name="camera_permission_dialog_message_platform">"Google Play სერვისები საჭიროებს წვდომას თქვენი მოწყობილობის კამერაზე QR კოდის სკანირებისთვის.
+
+ჩასართავად გთხოვთ, მიანიჭოთ კამერის ნებართვა Google Play სერვისებს პარამეტრებიდან."</string>
+    <string name="camera_permission_dialog_title">საჭიროა კამერის ნებართვა</string>
+    <string name="cd_cancel_button">დახურეთ კოდის სკანერი</string>
+    <string name="cd_info_button">ინფორმაციის დიალოგის გახსნა</string>
+    <string name="cd_selected_photo_view">არჩეული სურათის ჩვენება</string>
+    <string name="cd_settings_button">სკანერის პარამეტრების გახსნა</string>
+    <string name="cd_torch_button">ფარანის გადართვა</string>
+    <string name="character_counter_content_description">შეყვანილია %2$d-დან %1$d სიმბოლო</string>
+    <string name="character_counter_overflowed_content_description">გადაჭარბებულია სიმბოლოთა ლიმიტი (%2$d-დან %1$d)</string>
+    <string name="clear_text_end_icon_content_description">ტექსტის გასუფთავება</string>
+    <string name="common_connect">დაკავშირება</string>
+    <string name="common_continue">გაგრძელება</string>
+    <string name="common_copy">კოპირება</string>
+    <string name="common_google_play_services_enable_button">ჩართვა</string>
+    <string name="common_google_play_services_enable_text">%1$s ვერ იმუშავებს Google Play Services-ის ჩართვამდე.</string>
+    <string name="common_google_play_services_enable_title">Google Play Services-ის ჩართვა</string>
+    <string name="common_google_play_services_install_button">ინსტალაცია</string>
+    <string name="common_google_play_services_install_text">%1$s ვერ გაეშვება Google Play Services-ის გარეშე, რომელიც აკლია თქვენს მოწყობილობას.</string>
+    <string name="common_google_play_services_install_title">Google Play Services-ის ჩამოტვირთვა</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play services-ის ხელმისაწვდომობა</string>
+    <string name="common_google_play_services_notification_ticker">Google Play Services-ის შეცდომა</string>
+    <string name="common_google_play_services_unknown_issue">%1$s-ს Google Play Services-თან პრობლემა შეექმნა. გთხოვთ, ცადოთ ხელახლა.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s ვერ გაეშვება Google Play Services-ის გარეშე, რომლებიც მხარდაუჭერელია თქვენი მოწყობილობის მიერ.</string>
+    <string name="common_google_play_services_update_button">განახლება</string>
+    <string name="common_google_play_services_update_text">%1$s ვერ გაეშვება, თუ Google Play სერვისებს არ განაახლებთ.</string>
+    <string name="common_google_play_services_update_title">განაახლეთ Google Play Services</string>
+    <string name="common_google_play_services_updating_text">%1$s ვერ გაეშვება Google Play Services-ის გარეშე, რომელთა განახლებაც ამჟამად მიმდინარეობს.</string>
+    <string name="common_google_play_services_wear_update_text">საჭიროა Google Play Services-ის ახალი ვერსია. ის მალე განახლდება.</string>
+    <string name="common_got_it">გასაგებია</string>
+    <string name="common_no_apps_found">აპები ვერ მოიძებნა</string>
+    <string name="common_open_on_phone">ტელეფონში გახსნა</string>
+    <string name="common_view">ნახვა</string>
+    <string name="error_a11y_label">Error: invalid</string>
+    <string name="error_icon_content_description">შეცდომა</string>
+    <string name="exposed_dropdown_menu_content_description">ჩამოსაშლელი მენიუს ჩვენება</string>
+    <string name="info_dialog_button">@string/common_got_it</string>
+    <string name="info_dialog_message">"%1$s ითხოვს, რომ Google Play სერვისებმა დაასკანიროს კოდი მისი სახელით. არ გაზიარდება სურათის მონაცემები, მხოლოდ სკანირების შედეგები.
+
+სკანირება შესრულებულია თქვენს მოწყობილობაზე და Google არ შეინახავს სურათის მონაცემებს ან დასკანირებულ კოდებს."</string>
+    <string name="info_dialog_message_platform">Google Play services-ს აქვს წვდომა ამ მოწყობილობის კამერაზე. კოდის სკანირებული მონაცემები და სურათები არ ინახება და არ ტოვებს ამ მოწყობილობას.</string>
+    <string name="info_dialog_title">უსაფრთხოებას უზრუნველყოფს Google</string>
+    <string name="info_dialog_title_platform">უზრუნველყოფს Google</string>
+    <string name="manual_input_hint">შეეხეთ აქ კოდის ხელით შესაყვანად</string>
+    <string name="mtrl_checkbox_state_description_checked">Checked</string>
+    <string name="mtrl_checkbox_state_description_indeterminate">Partially checked</string>
+    <string name="mtrl_checkbox_state_description_unchecked">Not checked</string>
+    <string name="password_toggle_content_description">პაროლის ჩვენება</string>
+    <string name="qr_detection_failure_dialog_message">ცადეთ სკანირება სხვა ფოტოდან</string>
+    <string name="qr_detection_failure_dialog_title">QR კოდი ვერ მოიძებნა</string>
+    <string name="scan_from_photo_title">სკანირება ფოტოდან</string>
+    <string name="scanner_brand">სკანირებულია Google-ის მიერ %1$s-ისთვის</string>
+    <string name="scanner_brand_platform">@string/info_dialog_title_platform</string>
+    <string name="scanner_title">კოდის სკანირება</string>
+    <string name="scanner_title_platform">QR კოდის სკანირება</string>
+</resources>

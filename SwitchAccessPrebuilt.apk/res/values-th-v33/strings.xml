@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="switch_access_htmlDescription">คุณใช้สวิตช์เพื่อเลือกรายการ เลื่อน พิมพ์ และอื่นๆ ได้</string>
+    <string name="switch_access_intro">สวิตช์จะช่วยควบคุมอุปกรณ์ Android ในกรณีที่คุณโต้ตอบกับหน้าจอสัมผัสโดยตรงได้ยาก ทั้งนี้สามารถเชื่อมต่อสวิตช์กับอุปกรณ์ของคุณเช่นเดียวกับแป้นพิมพ์หรือปุ่มใหญ่</string>
+</resources>

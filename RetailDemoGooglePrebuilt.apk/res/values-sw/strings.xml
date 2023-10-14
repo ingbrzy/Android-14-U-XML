@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_retaildemoCommunication">Huruhusu programu kutumia Huduma za Onyesho la Duka za Rejareja. Chaguo la Onyesho la Duka za Rejareja pekee linapaswa kupewa ruhusa hii. Programu zilizopewa ruhusa hii zinaweza kuanzisha vitendo vilivyohifadhiwa kwa chaguo la Hali ya Onyesho la Duka za Rejareja.</string>
+    <string name="permlab_retaildemoCommunication">Mawasiliano ya Onyesho la Duka za Rejareja</string>
+    <string name="retaildemo_preload_app_name">Huduma za Onyesho la Duka za Rejareja</string>
+</resources>

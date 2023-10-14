@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="account_exists_text_multiple">
+        <item quantity="other">"De volgende accounts zijn klaar:
+
+"&lt;annotation textAppearance="TextAppearance.SudDescription.Medium">^1&lt;/annotation></item>
+        <item quantity="one">"Het volgende account is klaar:
+
+"&lt;annotation textAppearance="TextAppearance.SudDescription.Medium">^1&lt;/annotation></item>
+    </plurals>
+    <plurals name="people_contacts_sync_failure_in_contacts_title_in_portal">
+        <item quantity="other">Kan %1$,d van %2$,d contacten niet synchroniseren</item>
+        <item quantity="one">Kan %1$,d van %2$,d contact niet synchroniseren</item>
+    </plurals>
+    <plurals name="people_contacts_sync_failure_in_photos_title_in_portal">
+        <item quantity="other">"Kan %1$,d van %2$,d contactfoto's niet synchroniseren"</item>
+        <item quantity="one">Kan %1$,d van %2$,d contactfoto niet synchroniseren</item>
+    </plurals>
+    <plurals name="people_contacts_sync_succeed_title_in_portal">
+        <item quantity="other">%,d contacten gesynchroniseerd met Google Contacten</item>
+        <item quantity="one">%,d contact gesynchroniseerd met Google Contacten</item>
+    </plurals>
+    <plurals name="qr_provision_toast">
+        <item quantity="other">Nog %d tikken om de configuratie via QR-code te starten</item>
+        <item quantity="one">Nog %d tik om de configuratie via QR-code te starten</item>
+    </plurals>
+    <plurals name="slots_selection_text">
+        <item quantity="other">Er zijn %d nummers aan dit apparaat toegevoegd, maar er kan maar één tegelijk worden gebruikt.</item>
+        <item quantity="one">Er is %d nummer aan dit apparaat toegevoegd, maar er kan maar één tegelijk worden gebruikt.</item>
+    </plurals>
+    <plurals name="survey_star_rating">
+        <item quantity="other">%1$d sterren van de %2$d</item>
+        <item quantity="one">%1$d ster van de %2$d</item>
+    </plurals>
+</resources>

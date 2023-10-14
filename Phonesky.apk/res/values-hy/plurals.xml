@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120000">
+        <item quantity="other">Սպասում ենք միացմանը Wi-Fi ցանցին</item>
+        <item quantity="one">Սպասում ենք միացմանը Wi-Fi ցանցին</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120002">
+        <item quantity="other">Այս սարքում (%d հավելված)</item>
+        <item quantity="one">Այս սարքում (%d հավելված)</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120003">
+        <item quantity="other">Նոր գործառույթ %1$s հավելվածի համար</item>
+        <item quantity="one">Նոր գործառույթ %1$s հավելվածի համար</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120004">
+        <item quantity="other">Տեղադրվել է %d օր առաջ</item>
+        <item quantity="one">Տեղադրվել է %d օր առաջ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120005">
+        <item quantity="other">Տեղադրվել է %d ժամ առաջ</item>
+        <item quantity="one">Տեղադրվել է %d ժամ առաջ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120006">
+        <item quantity="other">Տեղադրվել է %d րոպե առաջ</item>
+        <item quantity="one">Տեղադրվել է %d րոպե առաջ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120007">
+        <item quantity="other">Ընտրված է %1$d հավելված</item>
+        <item quantity="one">Ընտրված է %1$d հավելված</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120008">
+        <item quantity="other">Թարմացվել է %d օր առաջ</item>
+        <item quantity="one">Թարմացվել է %d օր առաջ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120009">
+        <item quantity="other">Թարմացվել է %d ժամ առաջ</item>
+        <item quantity="one">Թարմացվել է %d ժամ առաջ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000a">
+        <item quantity="other">Թարմացվել է %d րոպե առաջ</item>
+        <item quantity="one">Թարմացվել է %d րոպե առաջ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000b">
+        <item quantity="other">Վերջին անգամ օգտագործվել է %d օր առաջ</item>
+        <item quantity="one">Վերջին անգամ օգտագործվել է %d օր առաջ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000c">
+        <item quantity="other">Վերջին անգամ օգտագործվել է %d ժամ առաջ</item>
+        <item quantity="one">Վերջին անգամ օգտագործվել է %d ժամ առաջ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000d">
+        <item quantity="other">Վերջին անգամ օգտագործվել է %d րոպե առաջ</item>
+        <item quantity="one">Վերջին անգամ օգտագործվել է %d րոպե առաջ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000f">
+        <item quantity="other">Հավելվածները ստուգվել են %d օր առաջ</item>
+        <item quantity="one">Հավելվածները ստուգվել են %d օր առաջ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120010">
+        <item quantity="other">Հավելվածները ստուգվել են %d ժամ առաջ</item>
+        <item quantity="one">Հավելվածները ստուգվել են %d ժամ առաջ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120011">
+        <item quantity="other">Հավելվածները ստուգվել են %d րոպե առաջ</item>
+        <item quantity="one">Հավելվածները ստուգվել են %d րոպե առաջ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120014">
+        <item quantity="other">%1$d կարծիք</item>
+        <item quantity="one">%1$d կարծիք</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120015">
+        <item quantity="other">%1$d կարծիք %2$d գնահատականով</item>
+        <item quantity="one">%1$d կարծիք %2$d գնահատականով</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120016">
+        <item quantity="other">Տեղադրել %1$d սարքում։</item>
+        <item quantity="one">Տեղադրել %1$d սարքում։</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120017">
+        <item quantity="other">Տեղադրել %1$d սարքում։ Հասանելի են այլ սարքեր։</item>
+        <item quantity="one">Տեղադրել %1$d սարքում։ Հասանելի են այլ սարքեր։</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120018">
+        <item quantity="other">Այս հավելվածը շուտով կտեղադրվի ձեր %1$d սարքերում:</item>
+        <item quantity="one">Այս հավելվածը շուտով կտեղադրվի ձեր %1$d սարքերում:</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120019">
+        <item quantity="other">%1$d լրացուցիչ ֆիլմ</item>
+        <item quantity="one">%1$d լրացուցիչ ֆիլմ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001a">
+        <item quantity="other">%1$d լրացուցիչ ֆիլմ՝ գնում կատարելու դեպքում</item>
+        <item quantity="one">%1$d լրացուցիչ ֆիլմ՝ գնում կատարելու դեպքում</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001b">
+        <item quantity="other">%1$d օր</item>
+        <item quantity="one">%1$d օր</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001c">
+        <item quantity="other">Միջին գնահատականը %2$s կարծիքի հիման վրա՝ %1$s աստղ</item>
+        <item quantity="one">Միջին գնահատականը %2$s կարծիքի հիման վրա՝ %1$s աստղ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001d">
+        <item quantity="other">%s կարծիք</item>
+        <item quantity="one">%s կարծիք</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001e">
+        <item quantity="other">Մշակող դառնալու համար ձեզ մնացել է %1$d քայլ։</item>
+        <item quantity="one">Մշակող դառնալու համար ձեզ մնացել է %1$d քայլ։</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001f">
+        <item quantity="other">ավտոմեքենաներ</item>
+        <item quantity="one">ավտոմեքենաներ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120020">
+        <item quantity="other">Chromebook սարքեր</item>
+        <item quantity="one">Chromebook</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120021">
+        <item quantity="other">ծալվող սարքեր</item>
+        <item quantity="one">ծալվող սարք</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120022">
+        <item quantity="other">հեռախոսներ</item>
+        <item quantity="one">հեռախոսներ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120023">
+        <item quantity="other">պլանշետներ</item>
+        <item quantity="one">պլանշետներ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120024">
+        <item quantity="other">հեռուստացույցներ</item>
+        <item quantity="one">հեռուստացույցներ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120025">
+        <item quantity="other">սարքեր</item>
+        <item quantity="one">սարք</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120026">
+        <item quantity="other">ժամացույցներ</item>
+        <item quantity="one">ժամացույցներ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120027">
+        <item quantity="other">Հասանելի է %1$d Play միավոր։</item>
+        <item quantity="one">Հասանելի է %1$d Play միավոր։</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120028">
+        <item quantity="other">%1$d ժամ</item>
+        <item quantity="one">%1$d ժամ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120029">
+        <item quantity="other">Մնացել է %1$d ժամ</item>
+        <item quantity="one">Մնացել է %1$d ժամ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002a">
+        <item quantity="other">Տեղադրվում է %1$d հավելված…</item>
+        <item quantity="one">Տեղադրվում է %1$d հավելված…</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002b">
+        <item quantity="other">Տեղադրումները դադարեցվեցին</item>
+        <item quantity="one">Տեղադրումը դադարեցվեց</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002c">
+        <item quantity="other">Կտեղադրվի %1$d հավելված</item>
+        <item quantity="one">Կտեղադրվի %1$d հավելված</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002d">
+        <item quantity="other">Վերջին անգամ թարմացվել է %d օր առաջ</item>
+        <item quantity="one">Վերջին անգամ թարմացվել է %d օր առաջ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002e">
+        <item quantity="other">Վերջին անգամ թարմացվել է %d ժամ առաջ</item>
+        <item quantity="one">Վերջին անգամ թարմացվել է %d ժամ առաջ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002f">
+        <item quantity="other">Վերջին անգամ թարմացվել է %d րոպե առաջ</item>
+        <item quantity="one">Վերջին անգամ թարմացվել է %d րոպե առաջ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120033">
+        <item quantity="other">%1$d տարի առաջ</item>
+        <item quantity="one">%1$d տարի առաջ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120034">
+        <item quantity="other">%1$d րոպե</item>
+        <item quantity="one">%1$d րոպե</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120035">
+        <item quantity="other">Մնացել է %1$d րոպե</item>
+        <item quantity="one">Մնացել է %1$d րոպե</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120037">
+        <item quantity="other">Ընտրված է %1$d հավելված</item>
+        <item quantity="one">Ընտրված է %1$d հավելված</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120038">
+        <item quantity="other">Արխիվացվում է %1$d հավելված</item>
+        <item quantity="one">Արխիվացվում է %1$d հավելված</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120039">
+        <item quantity="other">Հեռացնե՞լ ընտրված հավելվածները</item>
+        <item quantity="one">Հեռացնե՞լ ընտրված հավելվածը</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12003a">
+        <item quantity="other">%1$d հավելված հեռացվեց</item>
+        <item quantity="one">%1$d հավելված հեռացվեց</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12003d">
+        <item quantity="other">%1$d installs pending</item>
+        <item quantity="one">%1$d install pending</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12003e">
+        <item quantity="other">%1$d installs in progress</item>
+        <item quantity="one">%1$d install in progress</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120040">
+        <item quantity="other">%1$d updates pending</item>
+        <item quantity="one">%1$d update pending</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120041">
+        <item quantity="other">%1$d updates in progress</item>
+        <item quantity="one">%1$d update in progress</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120042">
+        <item quantity="other">Տեղադրվել է %1$d հավելված</item>
+        <item quantity="one">Տեղադրվել է %1$d հավելված</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120044">
+        <item quantity="other">Թողարկվել է %1$d ժամ առաջ</item>
+        <item quantity="one">Թողարկվել է %1$d ժամ առաջ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120045">
+        <item quantity="other">Թողարկվել է %1$d օր առաջ</item>
+        <item quantity="one">Թողարկվել է %1$d օր առաջ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120046">
+        <item quantity="other">Հավելվածները հեռացվեցին</item>
+        <item quantity="one">Հավելվածները հեռացվեցին</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120047">
+        <item quantity="other">Անհրաժեշտ է հաստատել %1$d թարմացում</item>
+        <item quantity="one">Անհրաժեշտ է հաստատել %1$d թարմացում</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120048">
+        <item quantity="other">%1$d նոր թարմացում</item>
+        <item quantity="one">%1$d նոր թարմացում</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120049">
+        <item quantity="other">Հասանելի է %1$d թարմացում</item>
+        <item quantity="one">Հասանելի է %1$d թարմացում</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004a">
+        <item quantity="other">Թարմացնել բոլորը</item>
+        <item quantity="one">Թարմացնել</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004b">
+        <item quantity="other">%1$d հավելված թարմացվեց</item>
+        <item quantity="one">%1$d հավելված թարմացվեց</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004c">
+        <item quantity="other">Ավարտվում է %1$d ժամից</item>
+        <item quantity="one">Ավարտվում է %1$d ժամից</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004d">
+        <item quantity="other">Ավարտվում է %1$d օրից</item>
+        <item quantity="one">Ավարտվում է %1$d օրից</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004e">
+        <item quantity="other">%1$d րոպե</item>
+        <item quantity="one">%1$d րոպե</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004f">
+        <item quantity="other">%1$d վայրկյան</item>
+        <item quantity="one">%1$d վայրկյան</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120050">
+        <item quantity="other">Անձնական հավելվածները հեռացվեցին</item>
+        <item quantity="one">Անձնական հավելվածները հեռացվեցին</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120053">
+        <item quantity="other">Play Protect-ը ստուգել է %d օր առաջ</item>
+        <item quantity="one">Play Protect-ը ստուգել է %d օր առաջ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120054">
+        <item quantity="other">Play Protect-ը ստուգել է %d ժամ առաջ</item>
+        <item quantity="one">Play Protect-ը ստուգել է %d ժամ առաջ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120055">
+        <item quantity="other">Play Protect-ը ստուգել է %d րոպե առաջ</item>
+        <item quantity="one">Play Protect-ը ստուգել է %d րոպե առաջ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120056">
+        <item quantity="other">%1$s միավոր՝ «%2$s» մակարդակը հաջորդ տարի պահպանելու համար</item>
+        <item quantity="one">%1$s միավոր՝ «%2$s» մակարդակը հաջորդ տարի պահպանելու համար</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120057">
+        <item quantity="other">%1$s միավոր՝ «%2$s» մակարդակի համար</item>
+        <item quantity="one">%1$s միավոր՝ «%2$s» մակարդակի համար</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120058">
+        <item quantity="other">Դուք այս հավելվածներին թույլատրել եք տեղադրել և թարմացնել հավելվածներ անհայտ աղբյուրներից։ Դա կարող է վտանգել ձեր սարքն ու անձնական տվյալները։ Չեղարկեք թույլտվությունը՝ հավելվածների տեղադրումը կանխելու համար։</item>
+        <item quantity="one">Դուք այս հավելվածներին թույլատրել եք տեղադրել և թարմացնել հավելվածներ անհայտ աղբյուրներից։ Դա կարող է վտանգել ձեր սարքն ու անձնական տվյալները։ Չեղարկեք թույլտվությունը՝ հավելվածների տեղադրումը կանխելու համար։</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120059">
+        <item quantity="other">Դուք %1$d հավելվածի թույլատրել եք տեղադրել և թարմացնել հավելվածներ անհայտ աղբյուրներից։ Դա կարող է վտանգել ձեր սարքն ու անձնական տվյալները։</item>
+        <item quantity="one">Դուք %1$d հավելվածի թույլատրել եք տեղադրել և թարմացնել հավելվածներ անհայտ աղբյուրներից։ Դա կարող է վտանգել ձեր սարքն ու անձնական տվյալները։</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005a">
+        <item quantity="other">Գաղտնիության %1$d զգուշացում</item>
+        <item quantity="one">Գաղտնիության %1$d զգուշացում</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005b">
+        <item quantity="other">Հայտնաբերվել է %1$d վնասաբեր հավելված</item>
+        <item quantity="one">Հայտնաբերվել է %1$d վնասաբեր հավելված</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005c">
+        <item quantity="other">Անվտանգության հետ կապված %1$d ծանուցում</item>
+        <item quantity="one">Անվտանգության հետ կապված %1$d ծանուցում</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005d">
+        <item quantity="other">Անվտանգության %1$d թարմացում</item>
+        <item quantity="one">Անվտանգության %1$d թարմացում</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005e">
+        <item quantity="other">Հայտնաբերվել է %1$d վտանգավոր հավելված</item>
+        <item quantity="one">Հայտնաբերվել է %1$d վտանգավոր հավելված</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005f">
+        <item quantity="other">%1$d նախազգուշացում</item>
+        <item quantity="one">%1$d նախազգուշացում</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120060">
+        <item quantity="other">Հայտնաբերվել են վտանգավոր հավելվածներ</item>
+        <item quantity="one">Հայտնաբերվել է վտանգավոր հավելված</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120061">
+        <item quantity="other">Ավարտվում է %1$d ժամից</item>
+        <item quantity="one">Ավարտվում է %1$d ժամից</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120062">
+        <item quantity="other">Ավարտվում է %1$d օրից</item>
+        <item quantity="one">Ավարտվում է %1$d օրից</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120063">
+        <item quantity="other">Կատարված քայլեր՝ %1$d/%2$d</item>
+        <item quantity="one">Կատարված քայլեր՝ %1$d/%2$d</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120064">
+        <item quantity="other">%1$d հավելված պատրաստ է տեղադրման</item>
+        <item quantity="one">%1$d հավելված պատրաստ է տեղադրման</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120065">
+        <item quantity="other">%1$s սարքը ձեզ կուղարկի %2$d հավելված։ Համոզվեք, որ զուգակցման կոդերը համընկնում են։</item>
+        <item quantity="one">%1$s սարքը ձեզ կուղարկի %2$d հավելված։ Համոզվեք, որ զուգակցման կոդերը համընկնում են։</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120066">
+        <item quantity="other">%1$d հավելված ստացվում է «%2$s» սարքից…</item>
+        <item quantity="one">%1$d հավելված ստացվում է «%2$s» սարքից…</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006a">
+        <item quantity="other">%1$d օգտատեր այս կարծիքն օգտակար է համարել: Նշել մեկնաբանությունը որպես օգտակար</item>
+        <item quantity="one">%1$d users found this review helpful. Նշել մեկնաբանությունը որպես օգտակար</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006b">
+        <item quantity="other">%1$d օգտատեր այս կարծիքն օգտակար է համարել: Հեռացնել «օգտակար» նշումը</item>
+        <item quantity="one">%1$d օգտատեր այս կարծիքն օգտակար է համարել: Հեռացնել «օգտակար» նշումը</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006c">
+        <item quantity="other">%1$s օգտատեր նշել է կարծիքը որպես օգտակար</item>
+        <item quantity="one">%1$s օգտատեր նշել է կարծիքը որպես օգտակար</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006f">
+        <item quantity="other">%1$d վայրկյան</item>
+        <item quantity="one">%1$d վայրկյան</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120070">
+        <item quantity="other">Մնացել է %1$d վայրկյան</item>
+        <item quantity="one">Մնացել է %1$d վայրկյան</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120071">
+        <item quantity="other">%1$d ընտրված • %2$s</item>
+        <item quantity="one">%1$d ընտրված • %2$s</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120072">
+        <item quantity="other">%1$d հավելված ուղարկվում է «%2$s» սարք…</item>
+        <item quantity="one">%1$d հավելված ուղարկվում է «%2$s» սարք…</item>
+    </plurals>
+    <plurals name="setup_completed_installed">
+        <item quantity="other">Տեղադրվել է %1$d հավելված</item>
+        <item quantity="one">Տեղադրվել է %1$d հավելված</item>
+    </plurals>
+    <plurals name="setup_completed_installed_with_failures">
+        <item quantity="other">Չհաջողվեց տեղադրել %2$d հավելվածից %1$d-ը</item>
+        <item quantity="one">Չհաջողվեց տեղադրել %2$d հավելվածից %1$d-ը</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120075">
+        <item quantity="other">Վերջին անգամ օգտագործվել է %1$d օր առաջ</item>
+        <item quantity="one">Վերջին անգամ օգտագործվել է %1$d օր առաջ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120076">
+        <item quantity="other">Վերականգնել ընտրված %1$d հավելվածները</item>
+        <item quantity="one">Վերականգնել ընտրված %1$d հավելվածը</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120078">
+        <item quantity="other">Ներբեռնե՞լ %1$d նոր լեզվի փաթեթ</item>
+        <item quantity="one">Ներբեռնե՞լ %1$d նոր լեզվի փաթեթ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007b">
+        <item quantity="other">Հարցման %1$d պատասխան ընդմիշտ կհեռացվի ձեր հաշվից։</item>
+        <item quantity="one">Հարցման %1$d պատասխան ընդմիշտ կհեռացվի ձեր հաշվից։</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007c">
+        <item quantity="other">Ընտրված է %1$d հարցում</item>
+        <item quantity="one">Ընտրված է %1$d հարցում</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007d">
+        <item quantity="other">Ցուցադրել Play միավորները։ Հասանելի է %1$d միավոր։</item>
+        <item quantity="one">Ցուցադրել Play միավորները։ Հասանելի է %1$d միավոր։</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007e">
+        <item quantity="other">Հասանելի է %1$d Play միավոր։</item>
+        <item quantity="one">Հասանելի է %1$d Play միավոր։</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120080">
+        <item quantity="other">%1$s միավոր</item>
+        <item quantity="one">%1$s միավոր</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120081">
+        <item quantity="other">%1$d հավելված տեղափոխվում է «%2$s» սարք</item>
+        <item quantity="one">%1$d հավելված տեղափոխվում է «%2$s» սարք</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120082">
+        <item quantity="other">Ձեր սարքից կապատեղադրվի %1$d հավելված։</item>
+        <item quantity="one">Ձեր սարքից կապատեղադրվի %1$d հավելված։</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120083">
+        <item quantity="other">Ապատեղադրե՞լ ընտրված հավելվածները</item>
+        <item quantity="one">Ապատեղադրե՞լ ընտրված հավելվածները</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120084">
+        <item quantity="other">Ապատեղադրե\"լ ընտրված հավելվածների թարմացումները</item>
+        <item quantity="one">Ապատեղադրե\"լ ընտրված հավելվածների թարմացումները</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120085">
+        <item quantity="other">%1$s հավելված հեռացվեց։ %2$sը կարող է տեղադրվել սարքում։</item>
+        <item quantity="one">%1$s հավելված հեռացվեց։ %2$sը կարող է տեղադրվել սարքում։</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120086">
+        <item quantity="other">Հավելվածները շուտով կտեղադրվեն:</item>
+        <item quantity="one">Հավելվածը շուտով կտեղադրվի:</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120087">
+        <item quantity="other">Հավելվածները շուտով կթարմացվեն:</item>
+        <item quantity="one">Հավելվածը շուտով կթարմացվի:</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008a">
+        <item quantity="other">Վերջին անգամ օգտագործվել է %1$d օր առաջ</item>
+        <item quantity="one">Վերջին անգամ օգտագործվել է %1$d օր առաջ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008b">
+        <item quantity="other">Վերջին անգամ օգտագործվել է %1$d ամիս առաջ</item>
+        <item quantity="one">Վերջին անգամ օգտագործվել է %1$d ամիս առաջ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008c">
+        <item quantity="other">Սարքում հավելվածներ կամ թարմացումներ տեղադրելու համար ջնջեք հավելվածները, որոնք այլևս չեք օգռագործում: Տարածք կարող եք ազատել նաև հիշողության կարգավորումներում մեդիա ֆայլեր ջնջելով։</item>
+        <item quantity="one">Սարքում հավելվածներ կամ թարմացումներ տեղադրելու համար ջնջեք հավելվածները, որոնք այլևս չեք օգռագործում: Տարածք կարող եք ազատել նաև հիշողության կարգավորումներում մեդիա ֆայլեր ջնջելով։</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008d">
+        <item quantity="other">Սարքում հավելվածներ կամ թարմացումներ տեղադրելու համար ջնջեք հավելվածները, որոնք այլևս չեք օգռագործում: Տարածք կարող եք ազատել նաև՝ անցնելով &lt;a href=\"\">Կարգավորումներ > Պահոց&lt;/a> և հեռացնելով որոշ մեդիա ֆայլեր:</item>
+        <item quantity="one">Սարքում հավելվածներ կամ թարմացումներ տեղադրելու համար ջնջեք հավելվածները, որոնք այլևս չեք օգռագործում: Տարածք կարող եք ազատել նաև՝ անցնելով &lt;a href=\"\">Կարգավորումներ > Պահոց&lt;/a> և հեռացնելով որոշ մեդիա ֆայլեր:</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008e">
+        <item quantity="other">Սարքում հավելվածներ կամ թարմացումներ տեղադրելու համար ջնջեք հավելվածները, որոնք այլևս չեք օգռագործում: Տարածք կարող եք ազատել նաև՝ անցնելով Կարգավորումներ > Պահոց և հեռացնելով որոշ մեդիա ֆայլեր:</item>
+        <item quantity="one">Սարքում հավելվածներ կամ թարմացումներ տեղադրելու համար ջնջեք հավելվածները, որոնք այլևս չեք օգռագործում: Տարածք կարող եք ազատել նաև՝ անցնելով Կարգավորումներ > Պահոց և հեռացնելով որոշ մեդիա ֆայլեր:</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008f">
+        <item quantity="other">%1$d հավելված ապատեղադրվեց</item>
+        <item quantity="one">%1$d հավելված ապատեղադրվեց</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120090">
+        <item quantity="other">Մենք գտել ենք %1$d հավելված, որոնք դուք որոշ ժամանակ չեք օգտագործել: Դրանք հեռացնելու դեպքում դուք կազատեք %2$d ՄԲ տարածք:</item>
+        <item quantity="one">Մենք գտել ենք %1$d հավելված, որոնք դուք որոշ ժամանակ չեք օգտագործել: Դրանք հեռացնելու դեպքում դուք կազատեք %2$d ՄԲ տարածք:</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120091">
+        <item quantity="other">Սկսվում է %1$d ժամից</item>
+        <item quantity="one">Սկսվում է %1$d ժամից</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120092">
+        <item quantity="other">Սկսվում է %1$d օրից</item>
+        <item quantity="one">Սկսվում է %1$d օրից</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120093">
+        <item quantity="other">Հասանելի կլինի %1$d ժամից</item>
+        <item quantity="one">Հասանելի կլինի %1$d ժամից</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120094">
+        <item quantity="other">Հասանելի կլինի %1$d օրից</item>
+        <item quantity="one">Հասանելի կլինի %1$d օրից</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120095">
+        <item quantity="other">Այս սարքը ավելի քան %1$d ամսվա ընթացքում համակարգի թարմացում չի ունեցել</item>
+        <item quantity="one">Այս սարքը ավելի քան %1$d ամսվա ընթացքում համակարգի թարմացում չի ունեցել</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120096">
+        <item quantity="other">Աշխատանքային հավելվածները հեռացվեցին</item>
+        <item quantity="one">Աշխատանքային հավելվածները հեռացվեցին</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120097">
+        <item quantity="other">%1$d տարի առաջ</item>
+        <item quantity="one">%1$d տարի առաջ</item>
+    </plurals>
+</resources>

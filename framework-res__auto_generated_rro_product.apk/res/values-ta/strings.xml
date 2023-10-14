@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_error_bad_calibration">கைரேகை சென்சாரைப் பயன்படுத்த முடியாது. பழுதுபார்ப்புச் சேவை வழங்குநரைத் தொடர்புகொள்ளவும் அல்லது g.co/pixel/fingerprintunlock இணைப்பிற்குச் செல்லவும்</string>
+    <string name="fingerprint_recalibrate_notification_content">பழுதுபார்ப்புச் சேவை வழங்குநரைத் தொடர்புகொள்ளவும் அல்லது g.co/pixel/fingerprintunlock இணைப்பிற்குச் செல்லவும்</string>
+    <string name="battery_saver_description_with_learn_more">"பேட்டரி நிலையை நீட்டிப்பதற்காக, பேட்டரி சேமிப்பான்:
+
+• டார்க் தீமினை ஆன் செய்யும்
+• பின்னணிச் செயல்பாடு, சில விஷுவல் எஃபெக்ட்கள், \"Ok Google\" போன்ற பிற அம்சங்களை ஆஃப் செய்யும் அல்லது கட்டுப்படுத்தும்
+• உங்கள் நெட்வொர்க் இணைப்புகளை மேம்படுத்தும்
+
+"<annotation id="url">மேலும் அறிக</annotation></string>
+</resources>

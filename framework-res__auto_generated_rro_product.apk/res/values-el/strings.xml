@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_error_bad_calibration">Δεν είναι δυνατή η χρήση του αισθητήρα δακτυλικών αποτυπωμάτων. Επισκεφτείτε έναν πάροχο υπηρεσιών επισκευής ή τη διεύθυνση g.co/pixel/fingerprintunlock</string>
+    <string name="fingerprint_recalibrate_notification_content">Επισκεφτείτε έναν πάροχο υπηρεσιών επισκευής ή τη διεύθυνση g.co/pixel/fingerprintunlock</string>
+    <string name="battery_saver_description_with_learn_more">"Για την επέκταση της διάρκειας ζωής της μπαταρίας, η Εξοικονόμηση μπαταρίας:
+
+• Ενεργοποιεί το Σκούρο θέμα.
+• Απενεργοποιεί ή περιορίζει τη δραστηριότητα στο παρασκήνιο, ορισμένα οπτικά εφέ και άλλες λειτουργίες, όπως την εντολή Ok Google.
+• Βελτιστοποιεί τις συνδέσεις δικτύου.
+
+"<annotation id="url">Μάθετε περισσότερα</annotation></string>
+</resources>

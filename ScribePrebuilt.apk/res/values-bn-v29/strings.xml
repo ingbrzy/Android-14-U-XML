@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="live_transcribe_description">"'লাইভ ট্রানস্ক্রাইব' অ্যাপ ফোনের মাইক্রোফোনের মাধ্যমে স্পিচ ক্যাপচার করে সেটিকে টেক্সট হিসেবে ডিসপ্লে করে।
+
+Google আপনার কথোপকথন প্রসেস করে ঠিকই, কিন্তু কখনওই সেভ করে না।"</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bundle1_color_name">ካርቦን</string>
+    <string name="bundle2_color_name">ወረቀት</string>
+    <string name="bundle3_color_name">ፀሐይ</string>
+    <string name="color_name_monochromatic">ሞኖክሮማቲክ</string>
+    <string name="default_color_name">ነባር</string>
+    <string name="fruit1_color_name">ቢጫ እና ቀይ ባለ-ሁለት የቀለም ቤተ ስዕል</string>
+    <string name="fruit2_color_name">አረንጓዴ እና ብርቱካናማ ባለ-ሁለት የቀለም ቤተ ስዕል</string>
+    <string name="fruit3_color_name">ሰማያዊ እና አረንጓዴ ባለ-ሁለት የቀለም ቤተ ስዕል</string>
+    <string name="fruit4_color_name">ፈዛዛ ወይን ጠጅ እና ሰማያዊ ባለ-ሁለት የቀለም ቤተ ስዕል</string>
+    <string name="fruit5_color_name">ፒንክ እና ኢንዲጎ ባለ-ሁለት የቀለም ቤተ ስዕል</string>
+    <string name="rainbow1_color_name">ቀይ</string>
+    <string name="rainbow2_color_name">ብርቱካናማ</string>
+    <string name="rainbow3_color_name">ቢጫ</string>
+    <string name="rainbow4_color_name">አረንጓዴ</string>
+    <string name="rainbow5_color_name">ሰማያዊ</string>
+    <string name="rainbow6_color_name">ኢንዲጎ</string>
+    <string name="rainbow7_color_name">ሐምራዊ</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="azure_title">Cyanocorax caeruleus</string>
+    <string name="blackswan_title">Zisne beltza</string>
+    <string name="cockatoo_title">Kakatua</string>
+    <string name="come_alive_title">Eman bizia</string>
+    <string name="feathers_attribution">Argazkilaria: Andrew Zuckerman</string>
+    <string name="feathers_description">Koloreen eta xehetasunen erakusketa lumadun bat</string>
+    <string name="feathers_title">Lumak</string>
+    <string name="greenwinged_title">Guakamaio gorri-berdea</string>
+    <string name="king_title">Sarcoramphus papa</string>
+    <string name="living_universe_title">Unibertso biziduna</string>
+    <string name="photos_memory_gallery_title">Zure oroitzapenak</string>
+    <string name="pied_title">Bele azpizuria</string>
+    <string name="ringnecked_title">Psittacula krameri</string>
+    <string name="seagull_title">Kaioa</string>
+</resources>

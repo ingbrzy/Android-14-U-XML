@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dots">
+        <item quantity="other">점 %s</item>
+        <item quantity="one">점 %s</item>
+    </plurals>
+    <plurals name="gestures_recorded_message">
+        <item quantity="other">동작 %d개 녹화됨</item>
+        <item quantity="one">동작 1개 녹화됨</item>
+    </plurals>
+    <plurals name="label_num_keys_assigned_format">
+        <item quantity="other">스위치 %d개 할당됨</item>
+        <item quantity="one">스위치 %d개 할당됨</item>
+    </plurals>
+    <plurals name="label_num_scanning_loops_format">
+        <item quantity="other">루프 %d회</item>
+        <item quantity="one">루프 %d회</item>
+    </plurals>
+    <plurals name="line_speed_summary_format">
+        <item quantity="other">%.2fcm/초</item>
+        <item quantity="one">1cm/초</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">새 알림 %d개</item>
+        <item quantity="one">새 알림 %d개</item>
+    </plurals>
+    <plurals name="time_delay_summary_format">
+        <item quantity="other">%.2f초</item>
+        <item quantity="one">1초</item>
+    </plurals>
+</resources>

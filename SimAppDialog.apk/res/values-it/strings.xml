@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sim App Dialog</string>
+    <string name="call_notification_answer_action">Rispondi</string>
+    <string name="call_notification_answer_video_action">Video</string>
+    <string name="call_notification_decline_action">Rifiuta</string>
+    <string name="call_notification_hang_up_action">Riaggancia</string>
+    <string name="call_notification_incoming_text">Chiamata in arrivo</string>
+    <string name="call_notification_ongoing_text">Chiamata in corso</string>
+    <string name="call_notification_screening_text">Applicazione filtro a chiamata in arrivo</string>
+    <string name="install_carrier_app_defer_action">Non ora</string>
+    <string name="install_carrier_app_description">"Affinché la tua nuova SIM possa funzionare correttamente, devi installare l'app %1$s"</string>
+    <string name="install_carrier_app_description_default">"Affinché la tua nuova SIM possa funzionare correttamente, devi installare l'app dell'operatore"</string>
+    <string name="install_carrier_app_download_action">Scarica app</string>
+    <string name="install_carrier_app_title">Attiva il servizio dati mobile</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="suw_back_button_label">Indietro</string>
+    <string name="suw_more_button_label">Altro</string>
+    <string name="suw_next_button_label">Avanti</string>
+</resources>

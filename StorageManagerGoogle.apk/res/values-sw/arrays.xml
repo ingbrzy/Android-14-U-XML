@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="select_logpersist_summaries">
+        <item>Imezimwa</item>
+        <item>Akiba ya kumbukumbu zote</item>
+        <item>Zote isipokuwa akiba ya kumbukumbu za redio</item>
+        <item>akiba ya kumbukumbu ya keneli pekee</item>
+    </string-array>
+</resources>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="call_captions_typing_predictions_post_system_message">
+        <item>Ola; quen é?</item>
+        <item>Ola; como estás?</item>
+        <item>Agarda un minuto</item>
+        <item>Ola; podes volver chamar máis tarde?</item>
+        <item>Ola! Grazas por chamar.</item>
+    </string-array>
+    <string-array name="captions_settings_enable_for_calls_choices_entries">
+        <item>Preguntar sempre</item>
+        <item>Sempre</item>
+        <item>Nunca</item>
+    </string-array>
+    <string-array name="captions_settings_typing_voice_names">
+        <item>Voz A</item>
+        <item>Voz B</item>
+        <item>Voz C</item>
+        <item>Voz D</item>
+        <item>Voz E</item>
+        <item>Voz F</item>
+        <item>Voz G</item>
+        <item>Voz H</item>
+        <item>Voz I</item>
+        <item>Voz J</item>
+        <item>Voz K</item>
+        <item>Voz L</item>
+        <item>Voz M</item>
+        <item>Voz N</item>
+        <item>Voz O</item>
+        <item>Voz P</item>
+    </string-array>
+    <string-array name="pref_download_policy_entries">
+        <item>Por datos móbiles e wifi</item>
+        <item>Só por wifi</item>
+        <item>Non actualizar</item>
+    </string-array>
+    <string-array name="pref_download_policy_entry_values_placeholder">
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+</resources>

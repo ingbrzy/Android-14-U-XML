@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_install_failed_multi_app_desc">
+        <item quantity="other">Ekki er hægt að ljúka uppsetningunni vegna þess að uppsetning %1$d nauðsynlegra forrita mistókst. Hafðu samband við kerfisstjórann þinn.</item>
+        <item quantity="one">Ekki er hægt að ljúka uppsetningunni vegna þess að uppsetning %1$d nauðsynlegs forrits mistókst. Hafðu samband við kerfisstjórann þinn.</item>
+    </plurals>
+    <plurals name="app_install_failure_title">
+        <item quantity="other">Ekki er hægt að setja upp forrit</item>
+        <item quantity="one">Ekki er hægt að setja upp forrit</item>
+    </plurals>
+    <plurals name="app_install_progress_desc">
+        <item quantity="other">%1$d forrit uppsett af %2$d</item>
+        <item quantity="one">%1$d forrit uppsett af %2$d</item>
+    </plurals>
+    <plurals name="app_uninstall_button">
+        <item quantity="other">Fjarlægja forrit</item>
+        <item quantity="one">Fjarlægja forrit</item>
+    </plurals>
+    <plurals name="days_left_message">
+        <item quantity="other">&lt;annotation id="numeric_time_left">^1&lt;/annotation> dagar eftir</item>
+        <item quantity="one">&lt;annotation id="numeric_time_left">^1&lt;/annotation> dagur eftir</item>
+    </plurals>
+    <plurals name="hours_left_message">
+        <item quantity="other">&lt;annotation id="numeric_time_left">^1&lt;/annotation> klukkustundir eftir</item>
+        <item quantity="one">&lt;annotation id="numeric_time_left">^1&lt;/annotation> klukkustund eftir</item>
+    </plurals>
+    <plurals name="number_of_additional_apps">
+        <item quantity="other">%1$d forrit til viðbótar</item>
+        <item quantity="one">%1$d forrit til viðbótar</item>
+    </plurals>
+    <plurals name="number_of_required_apps">
+        <item quantity="other">%1$d áskilin forrit</item>
+        <item quantity="one">%1$d áskilið forrit</item>
+    </plurals>
+    <plurals name="policy_apps_list_summary">
+        <item quantity="other">Ekki er hægt að fjarlægja %d vinnuforrit</item>
+        <item quantity="one">Ekki er hægt að fjarlægja %d vinnuforrit</item>
+    </plurals>
+    <plurals name="preinstalled_apps">
+        <item quantity="other">%1$d forrit uppsett af %2$d</item>
+        <item quantity="one">%1$d forrit uppsett af %2$d</item>
+    </plurals>
+    <plurals name="readable_name_applications">
+        <item quantity="other">%1$d forrit tiltæk (%2$d uppsett, %3$d óvirkt)</item>
+        <item quantity="one">%1$d forrit tiltækt (%2$d uppsett, %3$d óvirkt)</item>
+    </plurals>
+</resources>

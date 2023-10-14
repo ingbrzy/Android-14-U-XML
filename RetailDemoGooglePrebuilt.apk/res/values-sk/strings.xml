@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_retaildemoCommunication">Umožňuje interakciu aplikácií so službami predajnej ukážky. Toto povolenie by malo byť udelené iba predajnej ukážke. Aplikácie s týmto povolením môžu spúšťať akcie vyhradené pre režim predajnej ukážky.</string>
+    <string name="permlab_retaildemoCommunication">Komunikácia v rámci predajnej ukážky</string>
+    <string name="retaildemo_preload_app_name">Služby pred. ukážky</string>
+</resources>

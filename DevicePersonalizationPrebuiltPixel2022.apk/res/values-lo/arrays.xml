@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="call_captions_typing_predictions_post_system_message">
+        <item>ສະບາຍດີ, ນີ້ແມ່ນໃຜ?</item>
+        <item>ສະບາຍດີ, ເຈົ້າເປັນແນວໃດ?</item>
+        <item>ກະລຸນາຖືສາຍລໍຖ້າ</item>
+        <item>ສະບາຍດີ, ເຈົ້າໂທມາໃນພາຍຫຼັງໄດ້ບໍ່?</item>
+        <item>ສະບາຍດີ! ຂອບໃຈທີ່ໂທມາ.</item>
+    </string-array>
+    <string-array name="captions_settings_enable_for_calls_choices_entries">
+        <item>ຖາມທຸກເທື່ອ</item>
+        <item>ທຸກເທື່ອ</item>
+        <item>ປິດ</item>
+    </string-array>
+    <string-array name="captions_settings_typing_voice_names">
+        <item>ສຽງ A</item>
+        <item>ສຽງ B</item>
+        <item>ສຽງ C</item>
+        <item>ສຽງ D</item>
+        <item>ສຽງ E</item>
+        <item>ສຽງ F</item>
+        <item>ສຽງ G</item>
+        <item>ສຽງ H</item>
+        <item>ສຽງ I</item>
+        <item>ສຽງ J</item>
+        <item>ສຽງ K</item>
+        <item>ສຽງ L</item>
+        <item>ສຽງ M</item>
+        <item>ສຽງ N</item>
+        <item>ສຽງ O</item>
+        <item>ສຽງ P</item>
+    </string-array>
+    <string-array name="pref_download_policy_entries">
+        <item>ມືຖື + WiFi</item>
+        <item>WiFi ເທົ່ານັ້ນ</item>
+        <item>ຢ່າອັບເດດ</item>
+    </string-array>
+    <string-array name="pref_download_policy_entry_values_placeholder">
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+</resources>

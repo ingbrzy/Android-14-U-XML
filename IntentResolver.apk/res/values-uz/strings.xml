@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Boshiga o‘tish</string>
+    <string name="abc_action_bar_up_description">Yopish</string>
+    <string name="abc_action_menu_overflow_description">Yana</string>
+    <string name="abc_action_mode_done">OK</string>
+    <string name="abc_activity_chooser_view_see_all">Hammasi</string>
+    <string name="abc_activitychooserview_choose_application">Ilovani tanlang</string>
+    <string name="abc_capital_off">YOQILMAGAN</string>
+    <string name="abc_capital_on">YONIQ</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Fn+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">Probel</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menyu+</string>
+    <string name="abc_search_hint">Qidirish…</string>
+    <string name="abc_searchview_description_clear">So‘rovni o‘chirish</string>
+    <string name="abc_searchview_description_query">Qidiruv so‘rovi</string>
+    <string name="abc_searchview_description_search">Qidiruv</string>
+    <string name="abc_searchview_description_submit">So‘rov yaratish</string>
+    <string name="abc_searchview_description_voice">Ovozli qidiruv</string>
+    <string name="abc_shareactionprovider_share_with">Ulashish</string>
+    <string name="abc_shareactionprovider_share_with_application">%s orqali ulashish</string>
+    <string name="abc_toolbar_collapse_description">Yig‘ish</string>
+    <string name="activity_resolver_use_always">Har doim</string>
+    <string name="activity_resolver_use_once">Faqat shu safar</string>
+    <string name="activity_resolver_work_profiles_support">%1$s ishchi profilda ishlamaydi</string>
+    <string name="call_notification_answer_action">Javob berish</string>
+    <string name="call_notification_answer_video_action">Video</string>
+    <string name="call_notification_decline_action">Rad etish</string>
+    <string name="call_notification_hang_up_action">Tugatish</string>
+    <string name="call_notification_incoming_text">Kiruvchi chaqiruv</string>
+    <string name="call_notification_ongoing_text">Joriy chaqiruv</string>
+    <string name="call_notification_screening_text">Kiruvchi chaqiruvni filtrlash</string>
+    <string name="chooseActivity">Amalni tanlash</string>
+    <string name="chooser_no_direct_share_targets">Ulashish uchun hech kim tavsiya qilinmagan</string>
+    <string name="exclude_link">Havolani chiqarib tashlash</string>
+    <string name="exclude_text">Matnni chiqarib tashlash</string>
+    <string name="file_preview_a11y_description">Faylga razm solish eskizi</string>
+    <string name="forward_intent_to_owner">Siz ushbu ilovadan ishchi profilingizdan tashqarida foydalanmoqdasiz</string>
+    <string name="forward_intent_to_work">Siz ushbu ilovadan ishchi profilingizda foydalanmoqdasiz</string>
+    <string name="image_preview_a11y_description">Rasmga razm solish eskizi</string>
+    <string name="include_link">Havolani kiritish</string>
+    <string name="include_text">Matnni kiritish</string>
+    <string name="miniresolver_open_in_personal">%s shaxsiy profilda ochilsinmi?</string>
+    <string name="miniresolver_open_in_work">%s shaxsiy profilda ochilsinmi?</string>
+    <string name="miniresolver_use_personal_browser">Shaxsiy brauzerdan foydalanish</string>
+    <string name="miniresolver_use_work_browser">Ishga oid brauzerdan foydalanish</string>
+    <string name="more_files">{count,plural, =1{+ yana # ta fayl}other{+ yana # ta fayl}}</string>
+    <string name="noApplications">Hech qanday ilova ushbu amalni bajara olmaydi.</string>
+    <string name="other_files">{count,plural, =1{+ # ta fayl}other{+ # ta fayl}}</string>
+    <string name="pin_specific_target">Mahkamlash: %1$s</string>
+    <string name="resolver_cant_access_personal_apps_explanation">Bu kontent shaxsiy ilovalar bilan ochilmaydi</string>
+    <string name="resolver_cant_access_work_apps_explanation">Bu kontent ishga oid ilovalar bilan ochilmaydi</string>
+    <string name="resolver_cant_share_with_personal_apps_explanation">Bu kontent shaxsiy ilovalar bilan ulashilmaydi</string>
+    <string name="resolver_cant_share_with_work_apps_explanation">Bu kontent ishga oid ilovalar bilan ulashilmaydi</string>
+    <string name="resolver_cross_profile_blocked">Administratoringiz tomonidan bloklangan</string>
+    <string name="resolver_no_personal_apps_available">Shaxsiy ilovalar topilmadi</string>
+    <string name="resolver_no_work_apps_available">Ishga oid ilovalar topilmadi</string>
+    <string name="resolver_personal_tab">Shaxsiy</string>
+    <string name="resolver_personal_tab_accessibility">Shaxsiy rejim</string>
+    <string name="resolver_switch_on_work">Davom ettirish</string>
+    <string name="resolver_turn_on_work_apps">Ishga oid ilovalar pauza qilingan</string>
+    <string name="resolver_work_tab">Ish</string>
+    <string name="resolver_work_tab_accessibility">Ishchi rejim</string>
+    <string name="screenshot_edit">Tahrirlash</string>
+    <string name="search_menu_title">Qidiruv</string>
+    <string name="sharing_files">{count,plural, =1{# ta fayl ulashilmoqda}other{# ta fayl ulashilmoqda}}</string>
+    <string name="sharing_files_only">{count,plural, =1{Faqat fayl}other{Faqat fayllar}}</string>
+    <string name="sharing_files_with_link">{count,plural, =1{Havolali faylni yuborish}other{# ta havolali faylni yuborish}}</string>
+    <string name="sharing_files_with_text">{count,plural, =1{Matnli faylni yuborish}other{# ta matnli faylni yuborish}}</string>
+    <string name="sharing_images">{count,plural, =1{Rasm ulashilmoqda}other{# ta rasm ulashilmoqda}}</string>
+    <string name="sharing_images_only">{count,plural, =1{Faqat rasm}other{Faqat rasmlar}}</string>
+    <string name="sharing_images_with_link">{count,plural, =1{Havolali rasmni yuborish}other{# ta havolali rasmni yuborish}}</string>
+    <string name="sharing_images_with_text">{count,plural, =1{Matnli havolani yuborish}other{# ta matnli havolani yuborish}}</string>
+    <string name="sharing_link">Havola ulashilmoqda</string>
+    <string name="sharing_text">Matn ulashilmoqda</string>
+    <string name="sharing_videos">{count,plural, =1{Video ulashilmoqda}other{# ta video ulashilmoqda}}</string>
+    <string name="sharing_videos_only">{count,plural, =1{Faqat video}other{Faqat videolar}}</string>
+    <string name="sharing_videos_with_link">{count,plural, =1{Havolali videoni yuborish}other{# ta havolali videoni yuborish}}</string>
+    <string name="sharing_videos_with_text">{count,plural, =1{Matnli videoni yuborish}other{# ta matnli videoni yuborish}}</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="unpin_specific_target">Yechib olish: %1$s</string>
+    <string name="usb_device_resolve_prompt_warn">Bu ilovaga yozib olish ruxsati berilmagan, lekin shu USB orqali ovozlarni yozib olishi mumkin.</string>
+    <string name="use_a_different_app">Boshqa ilova</string>
+    <string name="video_preview_a11y_description">Videoga razm solish eskizi</string>
+    <string name="whichApplication">Nima ishlatilsin?</string>
+    <string name="whichApplicationLabel">Amalni bajarish</string>
+    <string name="whichApplicationNamed">%1$s orqali amal bajarish</string>
+    <string name="whichEditApplication">Tahrirlash…</string>
+    <string name="whichEditApplicationLabel">Tahrirlash</string>
+    <string name="whichEditApplicationNamed">%1$s orqali tahrirlash</string>
+    <string name="whichGiveAccessToApplicationLabel">Ruxsat berish</string>
+    <string name="whichHomeApplication">Bosh ilovani tanlang</string>
+    <string name="whichHomeApplicationLabel">Suratga olish</string>
+    <string name="whichHomeApplicationNamed">%1$s bosh ilova boʻlsin</string>
+    <string name="whichImageCaptureApplication">Suratga olish uchun ilovani tanlang:</string>
+    <string name="whichImageCaptureApplicationLabel">Suratga olish</string>
+    <string name="whichImageCaptureApplicationNamed">%1$s orqali suratga olish</string>
+    <string name="whichOpenHostLinksWith">%1$s havolalarini quyidagi orqali ochish</string>
+    <string name="whichOpenHostLinksWithApp">%1$s havolalarini %2$s orqali ochish</string>
+    <string name="whichOpenLinksWith">Havolalarni quyidagi orqali ochish</string>
+    <string name="whichOpenLinksWithApp">Havolalarni %1$s orqali ochish</string>
+    <string name="whichSendApplication">Ulashish</string>
+    <string name="whichSendApplicationLabel">Ulashish</string>
+    <string name="whichSendApplicationNamed">%1$s orqali ulashish</string>
+    <string name="whichSendToApplication">Ilovani tanlang</string>
+    <string name="whichSendToApplicationLabel">Yuborish</string>
+    <string name="whichSendToApplicationNamed">%1$s orqali fayl yuborish</string>
+    <string name="whichViewApplication">Ochish…</string>
+    <string name="whichViewApplicationLabel">Ochish</string>
+    <string name="whichViewApplicationNamed">%1$s orqali ochish</string>
+</resources>

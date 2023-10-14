@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bundle1_color_name">കാർബൺ</string>
+    <string name="bundle2_color_name">പേപ്പർ</string>
+    <string name="bundle3_color_name">സൂര്യൻ</string>
+    <string name="color_name_monochromatic">മോണോക്രൊമാറ്റിക്</string>
+    <string name="default_color_name">ക്ലാസിക്</string>
+    <string name="fruit1_color_name">മഞ്ഞ, ചുവപ്പ് ദ്വിവർണ്ണ പാലെറ്റ്</string>
+    <string name="fruit2_color_name">പച്ച, ഓറഞ്ച് ദ്വിവർണ്ണ പാലെറ്റ്</string>
+    <string name="fruit3_color_name">നീല, പച്ച ദ്വിവർണ്ണ പാലെറ്റ്</string>
+    <string name="fruit4_color_name">ഇളം പർപ്പിൾ, നീല ദ്വിവർണ്ണ പാലെറ്റ്</string>
+    <string name="fruit5_color_name">പിങ്ക്, ഇൻഡിഗോ ദ്വിവർണ്ണ പാലെറ്റ്</string>
+    <string name="rainbow1_color_name">ചുവപ്പ്</string>
+    <string name="rainbow2_color_name">ഓറഞ്ച്</string>
+    <string name="rainbow3_color_name">മഞ്ഞ</string>
+    <string name="rainbow4_color_name">പച്ച</string>
+    <string name="rainbow5_color_name">നീല</string>
+    <string name="rainbow6_color_name">ഇൻഡിഗോ</string>
+    <string name="rainbow7_color_name">വയലറ്റ്</string>
+</resources>

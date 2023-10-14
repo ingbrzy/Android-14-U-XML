@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="select_logpersist_summaries">
+        <item>Af</item>
+        <item>Alle loglêerbuffers</item>
+        <item>Alles behalwe radiologlêerbuffers</item>
+        <item>net kernloglêerbuffer</item>
+    </string-array>
+</resources>

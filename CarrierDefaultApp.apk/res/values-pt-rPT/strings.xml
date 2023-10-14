@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_bar_label">Iniciar sessão na rede móvel</string>
+    <string name="android_system_label">Operador móvel</string>
+    <string name="app_name">Comunicações do operador</string>
+    <string name="mobile_data_status_notification_channel_name">Estado dos dados móveis</string>
+    <string name="no_data_notification_detail">Contacte o seu fornecedor de serviços %s</string>
+    <string name="no_data_notification_id">Os seus dados móveis foram desativados</string>
+    <string name="no_mobile_data_connection">Adicionar dados ou um plano de roaming através de %s</string>
+    <string name="no_mobile_data_connection_title">Sem ligação de dados móveis</string>
+    <string name="performance_boost_notification_button_manage">Gerir</string>
+    <string name="performance_boost_notification_button_not_now">Agora não</string>
+    <string name="performance_boost_notification_channel">Aumento do desempenho</string>
+    <string name="performance_boost_notification_detail">Visite o Website de %s para ver opções para a experiência da sua app</string>
+    <string name="performance_boost_notification_title">Opções 5G do seu operador</string>
+    <string name="portal_notification_detail">Tocar para aceder ao Website %s</string>
+    <string name="portal_notification_id">Dados móveis esgotados</string>
+    <string name="slice_purchase_app_label">Compre um aumento do desempenho.</string>
+    <string name="ssl_error_continue">Continuar mesmo assim através do navegador</string>
+    <string name="ssl_error_example">Por exemplo, a página de início de sessão pode não pertencer à entidade apresentada.</string>
+    <string name="ssl_error_warning">A rede à qual está a tentar aceder tem problemas de segurança.</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="select_logpersist_summaries">
+        <item>বন্ধ আছে</item>
+        <item>সমস্ত লগ বাফার</item>
+        <item>সমস্ত কিন্তু রেডিও লগ বাফারগুলি</item>
+        <item>শুধুমাত্র কার্নেল লগ বাফার</item>
+    </string-array>
+</resources>

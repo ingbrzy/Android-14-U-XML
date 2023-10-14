@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dots">
+        <item quantity="other">punkt %s</item>
+        <item quantity="one">punkt %s</item>
+        <item quantity="few">punkt %s</item>
+        <item quantity="many">punkt %s</item>
+    </plurals>
+    <plurals name="gestures_recorded_message">
+        <item quantity="other">Zarejestrowano %d gestu</item>
+        <item quantity="one">Zarejestrowano 1 gest</item>
+        <item quantity="few">Zarejestrowano %d gesty</item>
+        <item quantity="many">Zarejestrowano %d gestów</item>
+    </plurals>
+    <plurals name="label_num_keys_assigned_format">
+        <item quantity="other">Przypisano %d przełącznika</item>
+        <item quantity="one">Przypisano %d przełącznik</item>
+        <item quantity="few">Przypisano %d przełączniki</item>
+        <item quantity="many">Przypisano %d przełączników</item>
+    </plurals>
+    <plurals name="label_num_scanning_loops_format">
+        <item quantity="other">%d pętli</item>
+        <item quantity="one">%d pętla</item>
+        <item quantity="few">%d pętle</item>
+        <item quantity="many">%d pętli</item>
+    </plurals>
+    <plurals name="line_speed_summary_format">
+        <item quantity="other">%.2f cm na sekundę</item>
+        <item quantity="one">1 cm na sekundę</item>
+        <item quantity="few">%.2f cm na sekundę</item>
+        <item quantity="many">%.2f cm na sekundę</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nowego powiadomienia</item>
+        <item quantity="one">%d nowe powiadomienie</item>
+        <item quantity="few">%d nowe powiadomienia</item>
+        <item quantity="many">%d nowych powiadomień</item>
+    </plurals>
+    <plurals name="time_delay_summary_format">
+        <item quantity="other">%.2f sekundy</item>
+        <item quantity="one">1 sekunda</item>
+        <item quantity="few">%.2f sekundy</item>
+        <item quantity="many">%.2f sekund</item>
+    </plurals>
+</resources>

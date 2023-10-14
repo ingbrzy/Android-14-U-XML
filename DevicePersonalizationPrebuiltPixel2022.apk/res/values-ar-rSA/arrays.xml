@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="call_captions_typing_predictions_post_system_message">
+        <item>مرحبًا، مَن المتحدث؟</item>
+        <item>مرحبًا، كيف حالك؟</item>
+        <item>يُرجى الانتظار لحظة.</item>
+        <item>مرحبًا، هل يمكنك الاتصال لاحقًا؟</item>
+        <item>مرحبًا، شكرًا على اتصالك.</item>
+    </string-array>
+    <string-array name="captions_settings_enable_for_calls_choices_entries">
+        <item>السؤال في كل مرة</item>
+        <item>دائمًا</item>
+        <item>غير مفعّل</item>
+    </string-array>
+    <string-array name="captions_settings_typing_voice_names">
+        <item>الصوت \"أ\"</item>
+        <item>الصوت \"ب\"</item>
+        <item>الصوت \"ج\"</item>
+        <item>الصوت \"د\"</item>
+        <item>الصوت \"هـ\"</item>
+        <item>الصوت \"و\"</item>
+        <item>الصوت \"ز\"</item>
+        <item>الصوت \"ح\"</item>
+        <item>الصوت \"ط\"</item>
+        <item>الصوت \"ي\"</item>
+        <item>الصوت \"ك\"</item>
+        <item>الصوت \"ل\"</item>
+        <item>الصوت \"م\"</item>
+        <item>الصوت \"ن\"</item>
+        <item>الصوت \"س\"</item>
+        <item>الصوت \"ع\"</item>
+    </string-array>
+</resources>

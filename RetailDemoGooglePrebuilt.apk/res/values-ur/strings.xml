@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_retaildemoCommunication">ایپ کو ریٹیل ڈیمو کی سروسز کے ساتھ تعامل کرنے کی اجازت دیتا ہے۔ یہ اجازت صرف ریٹیل ڈیمو کو دی جانی چاہیے۔ جن ایپس کو یہ اجازت دی گئی ہے وہ ریٹیل ڈیمو موڈ کے لیے مخصوص کارروائیاں متحرک کر سکتی ہیں۔</string>
+    <string name="permlab_retaildemoCommunication">ریٹیل ڈیمو کی مواصلت</string>
+    <string name="retaildemo_preload_app_name">ریٹیل ڈیمو کی سروسز</string>
+</resources>

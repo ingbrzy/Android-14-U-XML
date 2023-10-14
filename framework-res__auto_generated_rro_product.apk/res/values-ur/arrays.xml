@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>اپنی انگلی منتقل کریں۔ پھر کوشش کریں۔</item>
+        <item>پہلے سے اندراج شدہ انگلی ایک مختلف انگلی کا استعمال کرتی ہے۔</item>
+        <item>تصویر کی ناقص کوالٹی۔ پھر کوشش کریں۔</item>
+        <item></item>
+        <item>تصویر کی ناقص کوالٹی۔ پھر کوشش کریں۔</item>
+        <item></item>
+        <item></item>
+        <item>داغ کا پتہ چلا، اسکرین صاف کریں۔ پھر کوشش کریں۔</item>
+        <item>تصویر کو پڑھنے میں ناکامی۔ پھر کوشش کریں۔</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>دوبارہ اندراج درکار ہے۔</item>
+    </string-array>
+    <string-array name="fingerprint_error_vendor">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>خراب ڈیٹا۔ پھر کوشش کریں۔</item>
+        <item>انگلی کے اندراج میں ناکام۔ پھر کوشش کریں۔</item>
+    </string-array>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="azure_title">Mavi rəngli sərçə</string>
+    <string name="blackswan_title">Qara qu quşu</string>
+    <string name="cockatoo_title">Kakadu</string>
+    <string name="come_alive_title">Canlanma</string>
+    <string name="feathers_attribution">Fotonun müəllifi: Endryu Zukerman</string>
+    <string name="feathers_description">Rəng və detalların nümayişi</string>
+    <string name="feathers_title">Lələklər</string>
+    <string name="greenwinged_title">Yaşıl qanadlı ara</string>
+    <string name="king_title">Kral qarğa</string>
+    <string name="living_universe_title">Real Zamanda Kainat</string>
+    <string name="photos_memory_gallery_title">Xatirələriniz</string>
+    <string name="pied_title">Adi qarğa</string>
+    <string name="ringnecked_title">Halqa boğazlı tutuquşu</string>
+    <string name="seagull_title">Qağayı</string>
+</resources>

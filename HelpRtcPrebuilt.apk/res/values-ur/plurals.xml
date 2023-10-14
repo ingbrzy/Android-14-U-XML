@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="gh_yt_video_num_views">
+        <item quantity="other">‏%1$s ملاحظات</item>
+        <item quantity="one">1 ملاحظہ</item>
+    </plurals>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="select_logpersist_summaries">
+        <item>ປິດ</item>
+        <item>ບັບເຟີບັນທຶກທັງໝົດ</item>
+        <item>ທັງໝົດຍົກເວັ້ນບັບເຟີບັນທຶກວິທະຍຸ</item>
+        <item>ບັບເຟີບັນທຶກເຄີນເນວເທົ່ານັ້ນ</item>
+    </string-array>
+</resources>

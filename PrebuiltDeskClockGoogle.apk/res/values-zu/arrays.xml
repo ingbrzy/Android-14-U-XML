@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_set">
+        <item>I-alamu isethelwe iminithi elingaphansi ku-1 kusukela manje.</item>
+        <item>I-alamu isethelwe %1$s ukusuka manje.</item>
+        <item>I-alamu ihlelelwe angu-%2$s ukusuka manje.</item>
+        <item>I-alamu isethelwe %1$s %2$s ukusuka manje.</item>
+        <item>i-alamu isethelwe %3$s ukusuka manje.</item>
+        <item>I-Alamu isethelwe %1$s %3$s ukusuka manje.</item>
+        <item>I-alamu ihlelelwe u-%2$s kanye no-%3$s ukusuka manje.</item>
+        <item>I-alamu isethelwe %1$s, %2$s, %3$s kusuka manje.</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>1 iminithi</item>
+        <item>5 amaminithi</item>
+        <item>amaminithi ayi-10</item>
+        <item>15 amaminithi</item>
+        <item>amaminithi angama-20</item>
+        <item>25 amaminithi</item>
+        <item>@string/auto_silence_entry_never</item>
+    </string-array>
+    <string-array name="bedtime_reminder_entries">
+        <item>Amaminithi angu-15 ngaphambi kwesikhathi sokulala</item>
+        <item>Amaminithi angu-30 ngaphambi kwesikhathi sokulala</item>
+        <item>Amaminithi angu-45 ngaphambi kwesikhathi sokulala</item>
+        <item>Ihora elingu-1 ngaphambi kwesikhathi sokulala</item>
+        <item>Valiwe</item>
+    </string-array>
+    <string-array name="clock_style_entries">
+        <item>I-Analog</item>
+        <item>Idijithali</item>
+    </string-array>
+    <string-array name="crescendo_entries">
+        <item>@string/crescendo_entry_never</item>
+        <item>5 amasekhondi</item>
+        <item>10 amasekhondi</item>
+        <item>15 amasekhondi</item>
+        <item>20 amasekhondi</item>
+        <item>25 amasekhondi</item>
+        <item>30 amasekhondi</item>
+        <item>35 amasekhondi</item>
+        <item>40 amasekhondi</item>
+        <item>45 amasekhondi</item>
+        <item>50 amasekhondi</item>
+        <item>55 amasekhondi</item>
+        <item>60 amasekhondi</item>
+    </string-array>
+    <string-array name="sleep_duration">
+        <item>%2$s</item>
+        <item>%1$s</item>
+        <item>%1$s %2$s</item>
+    </string-array>
+    <string-array name="sleep_sound_length_content_descriptions">
+        <item>Yima emuva kwemizuzu eyi-10</item>
+        <item>Yima emuva kwemizuzu engama-20</item>
+        <item>Yima emuva kwemizuzu engama-30</item>
+        <item>Yima emuva kwemizuzu engama-40</item>
+        <item>Yima emuva kwemizuzu engama-50</item>
+        <item>Yima emuva kwehora elingu-1</item>
+    </string-array>
+    <string-array name="sleep_sound_length_descriptions">
+        <item>Yima emuva kuka-10 min</item>
+        <item>Yima emuva kuka-20 min</item>
+        <item>Yima emuva kuka-30 min</item>
+        <item>Yima emuva kuka-40 min</item>
+        <item>Yima emuva kuka-50 min</item>
+        <item>Yima emuva kwehora elingu-1</item>
+    </string-array>
+    <string-array name="sleep_sound_length_entries">
+        <item>amaminithi ayi-10</item>
+        <item>amaminithi angama-20</item>
+        <item>amaminithi angama-30</item>
+        <item>Imizuzu engama-40</item>
+        <item>Imizuzu engama-50</item>
+        <item>ihora eli-1</item>
+    </string-array>
+    <string-array name="snooze_duration_entries">
+        <item>1 iminithi</item>
+        <item>2 amaminithi</item>
+        <item>3 amaminithi</item>
+        <item>4 amaminithi</item>
+        <item>5 amaminithi</item>
+        <item>6 amaminithi</item>
+        <item>7 amaminithi</item>
+        <item>8 amaminithi</item>
+        <item>9 amaminithi</item>
+        <item>amaminithi ayi-10</item>
+        <item>11 amaminithi</item>
+        <item>12 amaminithi</item>
+        <item>13 amaminithi</item>
+        <item>14 amaminithi</item>
+        <item>15 amaminithi</item>
+        <item>16 amaminithi</item>
+        <item>17 amaminithi</item>
+        <item>18 amaminithi</item>
+        <item>19 amaminithi</item>
+        <item>amaminithi angama-20</item>
+        <item>21 amaminithi</item>
+        <item>22 amaminithi</item>
+        <item>23 amaminithi</item>
+        <item>24 amaminithi</item>
+        <item>25 amaminithi</item>
+        <item>26 amaminithi</item>
+        <item>27 amaminithi</item>
+        <item>28 amaminithi</item>
+        <item>29 amaminithi</item>
+        <item>amaminithi angama-30</item>
+    </string-array>
+    <string-array name="timer_duration">
+        <item>Isibalisikhathi</item>
+        <item>isibalisikhathi se-%3$s</item>
+        <item>isibalisikhathi se-%2$s</item>
+        <item>Isibalisikhathi se-%2$s %3$s</item>
+        <item>isibalisikhathi se-%1$s</item>
+        <item>Isibalisikhathi se-%1$s %3$s</item>
+        <item>Isibalisikhathi se-%1$s %2$s</item>
+        <item>Isibalisikhathi se-%1$s %2$s %3$s</item>
+    </string-array>
+    <string-array name="timer_duration_short">
+        <item>Isibalisikhathi</item>
+        <item>Isibalisikhathi %3$s</item>
+        <item>Isibalisikhathi %2$s</item>
+        <item>Isibalisikhathi %2$s %3$s</item>
+        <item>Isibalisikhathi %1$s</item>
+        <item>Isibalisikhathi %1$s %3$s</item>
+        <item>Isibalisikhathi %1$s %2$s</item>
+        <item>Isibalisikhathi %1$s %2$s %3$s</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>esase-Marshall Islands</item>
+        <item>esase-Midway Island</item>
+        <item>esase-Hawaii</item>
+        <item>esase-Alaskae</item>
+        <item>esase-Pacific Time</item>
+        <item>esase-Tijuana</item>
+        <item>esase-Arizona</item>
+        <item>sase-Chihuahua</item>
+        <item>esase-Mountain Time</item>
+        <item>esase-Central America</item>
+        <item>esase-Central Time</item>
+        <item>esase-Mexico City</item>
+        <item>esase-Saskatchewan</item>
+        <item>esase-Bogota</item>
+        <item>esase-Eastern Time</item>
+        <item>esase-Venezuela</item>
+        <item>esase-Atlantic Time (Barbados)</item>
+        <item>esase-Atlantic Time (Canada)</item>
+        <item>esase-Manaus</item>
+        <item>esase-Santiago</item>
+        <item>esase-Newfoundland</item>
+        <item>esase-Brasilia</item>
+        <item>esase-Buenos Aires</item>
+        <item>esase-Greenland</item>
+        <item>esase-Montevideo</item>
+        <item>esase-Mid-Atlantic</item>
+        <item>esase-Azores</item>
+        <item>esase-Cape Verde Islands</item>
+        <item>esase-Casablanca</item>
+        <item>esase-London, Dublin</item>
+        <item>esase-Amsterdam, Berlin</item>
+        <item>esase-Belgrade</item>
+        <item>esase-Brussels</item>
+        <item>esase-Sarajevo</item>
+        <item>esase-Windhoek</item>
+        <item>esase-W. Africa Time</item>
+        <item>esase-Amman, Jordan</item>
+        <item>esese-Athens, Istanbul</item>
+        <item>esase-Beirut, Lebanon</item>
+        <item>esase-Cairo</item>
+        <item>esase-Helsinki</item>
+        <item>esase-Jerusalem</item>
+        <item>esase-Minsk</item>
+        <item>esase-Harare</item>
+        <item>esase-Baghdad</item>
+        <item>esase-Moscow</item>
+        <item>esase-Kuwait</item>
+        <item>esase-Nairobi</item>
+        <item>esase-Tehran</item>
+        <item>esase-Baku</item>
+        <item>esase-Tbilisi</item>
+        <item>esase-Yerevan</item>
+        <item>esase-Dubai</item>
+        <item>esase-Kabul</item>
+        <item>esase-Islamabad, Karachi</item>
+        <item>"esase-Ural'sk"</item>
+        <item>esase-Yekaterinburg</item>
+        <item>esase-Kolkata</item>
+        <item>esase-Sri Lanka</item>
+        <item>esase-Kathmandu</item>
+        <item>esase-Astana</item>
+        <item>esase-Yangon</item>
+        <item>esase-Krasnoyarsk</item>
+        <item>esase-Bangkok</item>
+        <item>esase-Beijing</item>
+        <item>esase-Hong Kong</item>
+        <item>esase-Irkutsk</item>
+        <item>esase-Kuala Lumpur</item>
+        <item>esase-Perth</item>
+        <item>esase-Taipei</item>
+        <item>esase-Seoul</item>
+        <item>esase-Tokyo, Osaka</item>
+        <item>esase-Yakutsk</item>
+        <item>esase-Adelaide</item>
+        <item>esase-Darwin</item>
+        <item>esase-Brisbane</item>
+        <item>esase-Hobart</item>
+        <item>esase-Sydney, Canberra</item>
+        <item>esase-Vladivostok</item>
+        <item>esase-Guam</item>
+        <item>esase-Magadan</item>
+        <item>esase-Auckland</item>
+        <item>esase-Fiji</item>
+        <item>esase-Tonga</item>
+        <item>I-Jakarta</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>@string/alarm_alert_snooze_text</item>
+        <item>Misa</item>
+        <item>Lawula ivolomu</item>
+        <item>Ungenzi lutho</item>
+    </string-array>
+    <string-array name="wakeup_alarm_description">
+        <item>I-alamu yakho yokuvuka ingaphansi komzuzu o-1 ukusuka manje</item>
+        <item>I-alamu yakho yokuvuka ingu-%1$s ukusuka manje</item>
+        <item>I-alamu yakho yokuvuka ingu-%2$s ukusuka manje</item>
+        <item>I-alamu yakho yokuvuka ingu-%1$s no-%2$s ukusuka manje</item>
+        <item>I-alamu yakho yokuvuka ingu-%3$s ukusuka manje</item>
+        <item>I-alamu yakho yokuvuka ingu-%1$s no-%3$s ukusuka manje</item>
+        <item>I-alamu yakho yokuvuka ingu-%2$s no-%3$s ukusuka manje</item>
+        <item>I-alamu yakho yokuvuka ingu-%1$s no-%2$sno-%3$s ukusuka manje</item>
+    </string-array>
+    <string-array name="week_start_entries">
+        <item>uLwesihlanu</item>
+        <item>uMgqibelo</item>
+        <item>iSonto</item>
+        <item>uMsombuluko</item>
+    </string-array>
+</resources>

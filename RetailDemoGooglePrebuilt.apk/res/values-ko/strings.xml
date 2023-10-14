@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_retaildemoCommunication">앱이 소매 데모 서비스와 상호작용하도록 허용합니다. 소매 데모에만 이 권한을 부여해야 합니다. 이 권한을 부여받은 앱은 소매 데모 모드 전용 작업을 실행할 수 있게 됩니다.</string>
+    <string name="permlab_retaildemoCommunication">소매 데모 커뮤니케이션</string>
+    <string name="retaildemo_preload_app_name">소매 데모 서비스</string>
+</resources>

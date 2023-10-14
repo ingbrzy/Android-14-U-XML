@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">บริการหลายอุปกรณ์</string>
+    <string name="app_name_generic">แอป</string>
+    <string name="app_stream_error_generic">เกิดข้อผิดพลาดระหว่างแชร์แอป</string>
+    <string name="app_stream_init_error_generic">แชร์แอปกับ Chromebook ไม่สำเร็จ</string>
+    <string name="audio_permission_rationale">ปิดใช้สิทธิ์เข้าถึงไมโครโฟนสำหรับการแชร์แอปอยู่</string>
+    <string name="cancel_button_label">ยกเลิก</string>
+    <string name="chromebook_keyboard">แป้นพิมพ์ Chromebook</string>
+    <string name="chromebook_mouse">เมาส์ Chromebook</string>
+    <string name="chromebook_touchscreen">หน้าจอสัมผัส Chromebook</string>
+    <string name="connect_device">การเชื่อมต่อโทรศัพท์กับอุปกรณ์ระยะไกล: %1$s</string>
+    <string name="decline_button_label">ปฏิเสธ</string>
+    <string name="development_notification_channel_name">การพัฒนา</string>
+    <string name="device_camera_cannot_access">เข้าถึงกล้องของอุปกรณ์ได้จาก Chromebook เครื่องนี้</string>
+    <string name="done_button_label">เสร็จ</string>
+    <string name="enable_button_label">เปิดใช้</string>
+    <string name="foreground_service_notification_channel_name">ทั่วไป</string>
+    <string name="foreground_service_notification_content">แตะเพื่อแก้ไขการตั้งค่า</string>
+    <string name="foreground_service_notification_title">{0,plural, =1{เชื่อมต่อกับอุปกรณ์แล้ว # เครื่อง}other{เชื่อมต่อกับอุปกรณ์แล้ว # เครื่อง}}</string>
+    <string name="interactive_streaming_generic_notification">กำลังสตรีม \"%1$s\" และซิงค์การแจ้งเตือนสำหรับ Chromebook</string>
+    <string name="interactive_streaming_individual_notification">กำลังสตรีม %1$s และซิงค์การแจ้งเตือนสำหรับ %2$s</string>
+    <string name="interactive_streaming_notification">กำลังสตรีมไปยัง Chromebook</string>
+    <string name="keyboard_name">แป้นพิมพ์แบบหลายอุปกรณ์</string>
+    <string name="lock_screen_notif_warning_content">เปิดใช้การแจ้งเตือนในหน้าจอล็อก</string>
+    <string name="lock_screen_notif_warning_title">ระบบจะไม่โอนการแจ้งเตือน</string>
+    <string name="mouse_name">เมาส์แบบใช้ได้กับหลายอุปกรณ์</string>
+    <string name="new_connection_confirm">ยืนยัน</string>
+    <string name="new_connection_deny">ปฏิเสธ</string>
+    <string name="new_connection_title">ยืนยันการจับคู่สตริง</string>
+    <string name="notification_access_missing">ต้องได้รับสิทธิ์เข้าถึงการแจ้งเตือน</string>
+    <string name="notification_access_missing_description">เปิดการเข้าถึงการแจ้งเตือนเพื่อเปิดการแจ้งเตือนใน Chromebook</string>
+    <string name="notification_channel_name">ทั่วไป</string>
+    <string name="notification_listener_label">แชร์แอปกับ Chromebook</string>
+    <string name="open_source_licenses">ใบอนุญาตโอเพนซอร์ส</string>
+    <string name="phone_permission_rationale">ปิดใช้สิทธิ์เข้าถึงการโทรสำหรับการแชร์แอปอยู่</string>
+    <string name="prompt_switch_languages">กดปุ่ม Shift + Space เพื่อเปลี่ยนภาษา Gboard ของโทรศัพท์</string>
+    <string name="settings_button">การตั้งค่า</string>
+    <string name="stop_sharing_button">สิ้นสุดสตรีม</string>
+    <string name="stream_termination_proximity_warning">โทรศัพท์อยู่ไกลเกินไป นำโทรศัพท์มาไว้ใกล้ๆ เพื่อการสตรีมที่ต่อเนื่อง</string>
+    <string name="substitute_app_name">ระบบ</string>
+    <string name="summary_disable_wirecutter">ปิด</string>
+    <string name="summary_enable_wirecutter">เปิด</string>
+    <string name="touchscreen_name">หน้าจอสัมผัสแบบใช้ได้กับหลายอุปกรณ์</string>
+</resources>

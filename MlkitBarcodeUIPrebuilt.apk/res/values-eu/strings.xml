@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">Joan gora</string>
+    <string name="abc_action_mode_done">Eginda</string>
+    <string name="abc_capital_off">DESAKTIBATU</string>
+    <string name="abc_capital_on">AKTIBATU</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ktrl +</string>
+    <string name="abc_menu_delete_shortcut_label">ezabatu</string>
+    <string name="abc_menu_enter_shortcut_label">sartu</string>
+    <string name="abc_menu_function_shortcut_label">Funtzioa +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Maius +</string>
+    <string name="abc_menu_space_shortcut_label">zuriunea</string>
+    <string name="abc_menu_sym_shortcut_label">Sym +</string>
+    <string name="abc_prepend_shortcut_label">Menua +</string>
+    <string name="abc_search_hint">Bilatu…</string>
+    <string name="abc_searchview_description_clear">Garbitu kontsulta</string>
+    <string name="abc_searchview_description_search">Bilatu</string>
+    <string name="abc_searchview_description_submit">Bidali kontsulta</string>
+    <string name="abc_searchview_description_voice">Ahozko bilaketa</string>
+    <string name="abc_toolbar_collapse_description">Tolestu</string>
+    <string name="bottom_sheet_button_contact_text">@string/common_view</string>
+    <string name="bottom_sheet_button_matter_text">Konfigurazioa</string>
+    <string name="bottom_sheet_button_no_apps_text">Bilatu</string>
+    <string name="bottom_sheet_button_wifi_text">@string/common_connect</string>
+    <string name="bottom_sheet_copy_error_toast">Ezin izan da kopiatu testua arbelean</string>
+    <string name="bottom_sheet_copy_success_toast">Kopiatu da testua arbelean</string>
+    <string name="bottom_sheet_image_view_description">Ikusgai dagoen aplikazioaren ikonoa</string>
+    <string name="bottom_sheet_sub_title_no_apps">Bilatu Google Play-n</string>
+    <string name="bottom_sheet_title">Ireki honekin</string>
+    <string name="bottom_sheet_title_app_found">Ireki %1$s aplikazioaren bidez</string>
+    <string name="bottom_sheet_title_contact">Ikusi kontaktuaren xehetasunak</string>
+    <string name="bottom_sheet_title_copy_text">Kopiatu testua</string>
+    <string name="bottom_sheet_title_copy_text_button_text">@string/common_copy</string>
+    <string name="bottom_sheet_title_copy_text_button_text_copied">Kopiatu da</string>
+    <string name="bottom_sheet_title_matter">Konfiguratu gailua</string>
+    <string name="bottom_sheet_title_passkey">Erabili pasakodea</string>
+    <string name="bottom_sheet_title_payment">Ordaindu honekin</string>
+    <string name="bottom_sheet_title_payment_setup">Konfiguratu honen bidezko ordainketa:</string>
+    <string name="bottom_sheet_title_payment_setup_single_app">Konfiguratu %1$s bidezko ordainketa</string>
+    <string name="bottom_sheet_title_payment_single_app">Ordaindu %1$s bidez</string>
+    <string name="bottom_sheet_title_single_app_button_text">Ireki</string>
+    <string name="bottom_sheet_title_wifi">Konektatu wifi-sare batera</string>
+    <string name="bottomsheet_action_expand_halfway">Zabaldu erdiraino</string>
+    <string name="bottomsheet_drag_handle_content_description">Arrastatzeko kontrol-puntua</string>
+    <string name="camera_permission_dialog_button">Ados</string>
+    <string name="camera_permission_dialog_message">"Google Play Services-ek gailuaren kamera atzitu behar du %1$s zerbitzuaren izenean kode bat eskaneatzeko.
+
+Aukera hori gaitzeko, eman kamera erabiltzeko baimena Google Play Services-i Ezarpenak atalean."</string>
+    <string name="camera_permission_dialog_message_platform">"Google Play Services-ek gailuaren kamera atzitu behar du QR kode bat eskaneatzeko.
+
+Aukera hori gaitzeko, eman kamera erabiltzeko baimena Google Play Services-i Ezarpenak atalean."</string>
+    <string name="camera_permission_dialog_title">Kamera erabiltzeko baimena behar da</string>
+    <string name="cd_cancel_button">Itxi kodeen eskanerra</string>
+    <string name="cd_info_button">Ireki informazioaren leihoa</string>
+    <string name="cd_selected_photo_view">Bistaratu hautatutako irudia</string>
+    <string name="cd_settings_button">Ireki eskanerraren ezarpenak</string>
+    <string name="cd_torch_button">Linterna pizteko eta itzaltzeko botoia</string>
+    <string name="character_counter_content_description">%1$d/%2$d karaktere idatzi dira</string>
+    <string name="character_counter_overflowed_content_description">Karaktere-muga gainditu da: %1$d/%2$d</string>
+    <string name="clear_text_end_icon_content_description">Garbitu testua</string>
+    <string name="common_connect">Konektatu</string>
+    <string name="common_continue">Egin aurrera</string>
+    <string name="common_copy">Kopiatu</string>
+    <string name="common_google_play_services_enable_button">Gaitu</string>
+    <string name="common_google_play_services_enable_text">%1$s aplikazioak ez du funtzionatuko Google Play Services gaitzen ez baduzu.</string>
+    <string name="common_google_play_services_enable_title">Gaitu Google Play Services</string>
+    <string name="common_google_play_services_install_button">Instalatu</string>
+    <string name="common_google_play_services_install_text">%1$s ez da exekutatuko Google Play Services gabe, baina ez dago halakorik gailuan.</string>
+    <string name="common_google_play_services_install_title">Lortu Google Play Services</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play Services-en erabilgarritasuna</string>
+    <string name="common_google_play_services_notification_ticker">Google Play Services-en errorea</string>
+    <string name="common_google_play_services_unknown_issue">%1$s aplikazioak arazoak ditu Google Play Services-ekin. Saiatu berriro.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s aplikazioa ezin da erabili Google Play Services gabe, baina zure gailua ez da harekin bateragarria.</string>
+    <string name="common_google_play_services_update_button">Eguneratu</string>
+    <string name="common_google_play_services_update_text">%1$s ez da exekutatuko Google Play Services eguneratzen ez baduzu.</string>
+    <string name="common_google_play_services_update_title">Eguneratu Google Play Services</string>
+    <string name="common_google_play_services_updating_text">%1$s ez da exekutatuko Google Play Services gabe; zerbitzu hori eguneratzen ari da.</string>
+    <string name="common_google_play_services_wear_update_text">Google Play Services-en bertsio berria behar da. Berehala eguneratuko da automatikoki.</string>
+    <string name="common_got_it">Ados</string>
+    <string name="common_no_apps_found">Ez da aurkitu aplikaziorik</string>
+    <string name="common_open_on_phone">Ireki telefonoan</string>
+    <string name="common_view">Ikusi</string>
+    <string name="error_a11y_label">Error: invalid</string>
+    <string name="error_icon_content_description">Errorea</string>
+    <string name="exposed_dropdown_menu_content_description">Erakutsi goitibeherako menua</string>
+    <string name="info_dialog_button">@string/common_got_it</string>
+    <string name="info_dialog_message">"Bere izenean kode bat eskanea dezala eskatzen ari zaio %1$s Google Play Services-i. Ez da partekatuko irudien daturik, eskaneatutakoa soilik.
+
+Gailuan eskaneatuko da, eta Google-k ez du gordeko irudien daturik edo eskaneatutako koderik."</string>
+    <string name="info_dialog_message_platform">Gailuaren kamera atzitzen ari da Google Play Services. Eskaneatutako kodearen datuak eta irudiak ez dira gordetzen eta ez dira aterako gailu honetatik.</string>
+    <string name="info_dialog_title">Google-k babestua</string>
+    <string name="info_dialog_title_platform">Google-ren teknologiarekin</string>
+    <string name="manual_input_hint">Sakatu hau kodea eskuz idazteko</string>
+    <string name="mtrl_checkbox_state_description_checked">Checked</string>
+    <string name="mtrl_checkbox_state_description_indeterminate">Partially checked</string>
+    <string name="mtrl_checkbox_state_description_unchecked">Not checked</string>
+    <string name="password_toggle_content_description">Erakutsi pasahitza</string>
+    <string name="qr_detection_failure_dialog_message">Eskaneatu beste argazki bat</string>
+    <string name="qr_detection_failure_dialog_title">Ez da aurkitu QR koderik</string>
+    <string name="scan_from_photo_title">Eskaneatu argazki bat</string>
+    <string name="scanner_brand">Google-k %1$s zerbitzuaren izenean aztertua</string>
+    <string name="scanner_brand_platform">@string/info_dialog_title_platform</string>
+    <string name="scanner_title">Eskaneatu kodea</string>
+    <string name="scanner_title_platform">Eskaneatu QR kodea</string>
+</resources>

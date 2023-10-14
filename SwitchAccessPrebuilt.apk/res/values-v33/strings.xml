@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="switch_access_htmlDescription">You can use switches to select items, scroll, type, and more.</string>
+    <string name="switch_access_intro">"Switches can help you control your Android device if it's difficult to directly interact with the touchscreen. A switch can be externally connected to your device, like a keyboard or large button."</string>
+</resources>

@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">กลับ</string>
+    <string name="abc_action_mode_done">เสร็จ</string>
+    <string name="abc_capital_off">ปิด</string>
+    <string name="abc_capital_on">เปิด</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">ลบ</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">Space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">เมนู+</string>
+    <string name="abc_search_hint">ค้นหา…</string>
+    <string name="abc_searchview_description_clear">ล้างคำค้นหา</string>
+    <string name="abc_searchview_description_search">ค้นหา</string>
+    <string name="abc_searchview_description_submit">ส่งคำค้นหา</string>
+    <string name="abc_searchview_description_voice">ค้นหาด้วยเสียง</string>
+    <string name="abc_toolbar_collapse_description">ยุบ</string>
+    <string name="app_has_in_app_purchases">การซื้อในแอป</string>
+    <string name="app_has_permissions">สิทธิ์: %s</string>
+    <string name="app_has_runtime_permissions">แอปจะขอสิทธิ์</string>
+    <string name="app_picker_group_default_title">แอปของคุณ</string>
+    <string name="app_picker_group_title_format">%1$s (%2$d)</string>
+    <string name="app_picker_loading">กำลังค้นหาแอปที่พร้อมใช้งาน…</string>
+    <string name="app_picker_loading_toast">แอปที่พร้อมใช้งานจะโหลดในไม่ช้า</string>
+    <string name="app_picker_no_apps">ไม่มีแอปที่เลือกไว้</string>
+    <string name="app_picker_no_apps_found">ไม่พบแอป</string>
+    <string name="app_picker_whatsapp_description">ประวัติการแชทและสื่อ •</string>
+    <string name="apps_permissions_described_message">"การซื้อในแอปส่วนใหญ่จะโอนไม่ได้ คุณค้นหาแอปเพิ่มเติมได้ใน Play Store เมื่อการติดตั้งเสร็จสมบูรณ์
+
+คุณอาจต้องให้สิทธิ์เข้าถึงความสามารถหรือข้อมูลหนึ่งๆ ในอุปกรณ์แก่แอปบางแอป สิทธิ์ต่างๆ จะจัดอยู่ในกลุ่มสิทธิ์ การเลือกที่จะติดตั้งแอปเหล่านี้หมายความว่าคุณยอมรับสิทธิ์ที่อยู่ในแต่ละกลุ่ม ดูคำอธิบายของกลุ่มสิทธิ์แต่ละกลุ่มได้ที่ด้านล่าง
+
+แอปบางแอปอาจไม่กำหนดว่าคุณต้องยอมรับสิทธิ์ เมื่อใช้แอปใดแอปหนึ่งเหล่านี้ คุณจะอนุญาตหรือปฏิเสธคำขอสิทธิ์แต่ละรายการก่อนที่แอปจะใช้ข้อมูลประเภทนั้นๆ ได้
+
+^1"</string>
+    <string name="apps_permissions_described_title">จับคู่แอป Android ได้กับแอป iOS® ฟรียอดนิยมเท่านั้น</string>
+    <string name="auto_synced_item_gmail">Gmail</string>
+    <string name="auto_synced_item_gmail_calendar_drive">Gmail, ปฏิทิน และไดรฟ์</string>
+    <string name="auto_synced_item_google_calendar">Google ปฏิทิน</string>
+    <string name="auto_synced_item_google_contacts">Google Contacts</string>
+    <string name="auto_synced_item_google_photos">Google Photos</string>
+    <string name="auto_synced_title">ซิงค์อัตโนมัติ</string>
+    <string name="automatically_synced_section_header">ซิงค์อัตโนมัติ</string>
+    <string name="backup_d2d_migration_tool_activity_name">เครื่องมือสำหรับโอนข้อมูล</string>
+    <string name="bottomsheet_action_expand_halfway">ขยายรายการครึ่งหนึ่ง</string>
+    <string name="button_dont_copy">ไม่คัดลอก</string>
+    <string name="button_dont_restore">ไม่กู้คืน</string>
+    <string name="button_dont_restore_apps">ไม่ต้องคืนค่าแอป</string>
+    <string name="cancel_copy_button">หยุดคัดลอก</string>
+    <string name="character_counter_content_description">ป้อนอักขระแล้ว %1$d จาก %2$d ตัว</string>
+    <string name="character_counter_overflowed_content_description">เกินจำนวนอักขระสูงสุด %1$d จาก %2$d</string>
+    <string name="clear_text_end_icon_content_description">ล้างข้อความ</string>
+    <string name="close_button_label">ปิด</string>
+    <string name="cloud_restore_app_picker_description_no_apps">คุณไม่มีแอปที่สำรองข้อมูลไว้เลย</string>
+    <string name="cloud_restore_app_picker_title">เลือกแอปที่จะคืนค่า</string>
+    <string name="common_allow">อนุญาต</string>
+    <string name="common_cancel">ยกเลิก</string>
+    <string name="common_dont_allow">ไม่อนุญาต</string>
+    <string name="common_go_back">ย้อนกลับ</string>
+    <string name="common_google_play_services_enable_button">เปิดใช้</string>
+    <string name="common_google_play_services_enable_text">%1$s จะไม่ทำงานจนกว่าคุณจะเปิดใช้บริการ Google Play</string>
+    <string name="common_google_play_services_enable_title">เปิดใช้บริการ Google Play</string>
+    <string name="common_google_play_services_install_button">ติดตั้ง</string>
+    <string name="common_google_play_services_install_text">%1$s จะไม่ทำงานหากไม่มีบริการ Google Play ซี่งไม่มีในอุปกรณ์ของคุณ</string>
+    <string name="common_google_play_services_install_title">ติดตั้งบริการ Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">ความพร้อมใช้งานของบริการ Google Play</string>
+    <string name="common_google_play_services_notification_ticker">ข้อผิดพลาดของบริการ Google Play</string>
+    <string name="common_google_play_services_unknown_issue">%1$s มีปัญหาเกี่ยวกับบริการของ Google Play โปรดลองอีกครั้ง</string>
+    <string name="common_google_play_services_unsupported_text">%1$s จะไม่ทำงานหากไม่มีบริการ Google Play ซึ่งอุปกรณ์ของคุณไม่สนับสนุน</string>
+    <string name="common_google_play_services_update_button">อัปเดต</string>
+    <string name="common_google_play_services_update_text">%1$s จะไม่ทำงานจนกว่าคุณจะอัปเดตบริการ Google Play</string>
+    <string name="common_google_play_services_update_title">อัปเดตบริการ Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s จะไม่ทำงานหากไม่มีบริการ Google Play ซึ่งกำลังอัปเดตอยู่ในขณะนี้</string>
+    <string name="common_google_play_services_wear_update_text">จำเป็นต้องใช้บริการ Google Play เวอร์ชันใหม่ ซึ่งจะอัปเดตอัตโนมัติในอีกไม่ช้า</string>
+    <string name="common_ok">ตกลง</string>
+    <string name="common_open_on_phone">เปิดบนโทรศัพท์</string>
+    <string name="common_restore">คืนค่า</string>
+    <string name="common_skip">ข้าม</string>
+    <string name="common_try_again">ลองอีกครั้ง</string>
+    <string name="contacts_no_number_device_and_sim">รายชื่อติดต่อในอุปกรณ์และซิม</string>
+    <string name="contacts_number_device_and_icloud">%1$d รายการใน iCloud®, %2$d รายการในเครื่อง</string>
+    <string name="content_selector_ui_title">เลือกรายการที่จะคืนค่า</string>
+    <string name="continue_button">ต่อไป</string>
+    <string name="continue_setup_description">คุณตั้งค่า ^1 ต่อได้</string>
+    <string name="copied_contacts_group_label">คัดลอกจาก %1$s</string>
+    <string name="copied_contacts_group_label_default">คัดลอกทางการโอนผ่านสายสัญญาณ</string>
+    <string name="copied_contacts_group_label_ios">คัดลอกจาก iOS</string>
+    <string name="copy_button">คัดลอก</string>
+    <string name="copy_without_cable_button">คัดลอกโดยไม่ใช้สายโอนข้อมูล</string>
+    <string name="d2d_app_picker_description_no_apps">เราไม่พบแอปใดเลย</string>
+    <string name="d2d_app_picker_title">แอป</string>
+    <string name="data_copied_fragment_description">ถอดสายออกได้แล้ว</string>
+    <string name="data_copied_fragment_description_cancel">คุณเลือกที่จะหยุดคัดลอก จึงมีข้อมูลเพียงบางส่วนได้รับการคัดลอกไปยังอุปกรณ์เครื่องใหม่</string>
+    <string name="data_copied_fragment_description_cancel_no_data">คุณเลือกหยุดคัดลอก จึงไม่มีการคัดลอกข้อมูลใดๆ ไปยังอุปกรณ์เครื่องใหม่</string>
+    <string name="data_copied_fragment_description_error">มีข้อผิดพลาดเกิดขึ้น เราจึงไม่สามารถคัดลอกทุกอย่างได้</string>
+    <string name="data_copied_fragment_description_error_no_data">มีข้อผิดพลาดเกิดขึ้น เราจึงไม่สามารถคัดลอกข้อมูลได้</string>
+    <string name="data_copied_fragment_no_data_title">คัดลอกไม่สำเร็จ</string>
+    <string name="data_copied_fragment_some_data_title">คัดลอกข้อมูลได้บางส่วน</string>
+    <string name="data_copied_fragment_title">คัดลอกเสร็จแล้ว</string>
+    <string name="device_not_supported_fragment_new_device">คุณเชื่อมต่ออยู่กับอุปกรณ์ใหม่ ให้เชื่อมต่อกับเครื่องก่อนหน้าอีกครั้งเพื่อดำเนินการต่อ</string>
+    <string name="device_not_supported_fragment_new_device_title">เชื่อมต่อกับอุปกรณ์ก่อนหน้าอีกครั้ง</string>
+    <string name="device_not_supported_fragment_no_data_cable">ลองใช้สายประเภทอื่น หากอุปกรณ์เครื่องเก่าของคุณคือ iPhone® ให้ปลดล็อกไว้ตลอด</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">เชื่อมต่อกับอุปกรณ์เครื่องเก่าไม่ได้</string>
+    <string name="device_not_supported_fragment_other_ways_btn">คัดลอกด้วยวิธีอื่น</string>
+    <string name="device_not_supported_fragment_retry_description">ตรวจสอบว่าอุปกรณ์เครื่องเก่าปลดล็อกอยู่ จากนั้นถอดสายแล้วเสียบเข้าไปใหม่</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">มีข้อผิดพลาดเกิดขึ้น</string>
+    <string name="device_not_supported_ios_supervised_description">เนื่องจาก iPhone® ของคุณอยู่ภายใต้การดูแล คุณต้องเลือกการคัดลอกข้อมูลวิธีอื่น</string>
+    <string name="device_picker_empty">ไม่มีข้อมูลสำรองที่ลิงก์กับ %1$s</string>
+    <string name="device_picker_empty_title">ไม่พบข้อมูลสำรอง</string>
+    <string name="device_picker_item">ข้อมูลสำรองของ %1$s</string>
+    <string name="device_picker_summary">เลือกข้อมูลสำรองด้านล่าง</string>
+    <string name="device_picker_summary_work_profile">กู้คืนแอปสำหรับการทำงานจากอุปกรณ์เครื่องเก่า</string>
+    <string name="device_picker_title">กู้คืนข้อมูลจากอุปกรณ์เครื่องเก่า</string>
+    <string name="device_picker_title_work_profile">เลือกอุปกรณ์</string>
+    <string name="dialog_continue_button_label">ต่อไป</string>
+    <string name="dont_transfer">ไม่โอน</string>
+    <string name="download_file_description">คัดลอกมาจากอุปกรณ์อื่น</string>
+    <string name="drive_backup_content_callhistory_title">ประวัติการโทร</string>
+    <string name="drive_backup_content_contacts_title">รายชื่อติดต่อ</string>
+    <string name="drive_backup_content_devicesettings_title">การตั้งค่าอุปกรณ์</string>
+    <string name="durationDays">%1$s</string>
+    <string name="durationDaysHours">%1$s %2$s</string>
+    <string name="durationHoursMinutes">%1$s %2$s</string>
+    <string name="durationMinutes">%1$s</string>
+    <string name="encryption_warning_fragment_description">"การเข้ารหัสข้อมูลสำรองเปิดอยู่ใน iPhone® ของคุณ หากคุณไม่ได้เปิดฟีเจอร์นี้เอง ผู้ดูแลระบบไอทีของคุณอาจเป็นผู้เปิดใช้งาน
+
+มีเพียงรูปถ่าย เพลง และวิดีโอเท่านั้นที่สามารถคัดลอกไปได้ สำหรับข้อมูลเพิ่มเติม โปรดไปที่ "<b>g.c/datatransferhelp</b></string>
+    <string name="encryption_warning_fragment_title">การเข้ารหัสข้อมูลสำรอง</string>
+    <string name="error_icon_content_description">ข้อผิดพลาด</string>
+    <string name="exposed_dropdown_menu_content_description">แสดงเมนูแบบเลื่อนลง</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="flow_choice_description_text_new">คุณเลือกโอนแอป, รูปภาพ, รายชื่อติดต่อ, บัญชี Google และอื่นๆ ได้</string>
+    <string name="flow_choice_title">คัดลอกแอปและข้อมูล</string>
+    <string name="fragment_app_picker_d2d_title">เลือกแอป</string>
+    <string name="fragment_app_picker_description_d2d_ios_v2">"เราพบรายการที่ตรงกับแอป iOS® ของคุณ ^1 แอปจาก ^2 แอป ระบบอาจไม่โอนสินค้าที่ซื้อในแอปบางรายการ
+
+การติดตั้งแอปแต่ละแอปหมายความว่าคุณยอมรับสิทธิ์ของแอป "<annotation id="apps_permissions_learn_more">ดูข้อมูลเพิ่มเติม</annotation></string>
+    <string name="fragment_connecting_title">กำลังเชื่อมต่ออุปกรณ์เครื่องเก่า…</string>
+    <string name="fragment_indexing_description">เลือกสิ่งที่จะคัดลอกในหน้าจอถัดไป</string>
+    <string name="fragment_indexing_title">กำลังเตรียมคัดลอก…</string>
+    <string name="fragment_indexing_verify_password_title">กำลังยืนยันรหัสผ่าน…</string>
+    <string name="fragment_ios_copy_calendar_events_description">หากต้องการคัดลอกกิจกรรมในปฏิทิน ให้เชื่อมต่อกับ Wi-Fi หรือเครือข่ายมือถือแล้วลองอีกครั้ง</string>
+    <string name="fragment_ios_copy_calendar_events_title">ต้องการคัดลอกกิจกรรมในปฏิทินใช่ไหม</string>
+    <string name="fragment_ios_couldnt_sign_in_description">เชื่อมต่ออินเทอร์เน็ตแล้วลองอีกครั้ง</string>
+    <string name="fragment_ios_couldnt_sign_in_title">ลงชื่อเข้าใช้ไม่ได้</string>
+    <string name="fragment_ios_decryption_description">ป้อนรหัสผ่านสำหรับการสำรองข้อมูล iTunes® เพื่อโอนแอป, ข้อความ SMS และรายชื่อติดต่อ</string>
+    <string name="fragment_ios_decryption_forgot_password_button">ลืมรหัสผ่านหรือ</string>
+    <string name="fragment_ios_decryption_forgot_password_description">เราโอนเนื้อหาที่เข้ารหัสโดยไม่มีรหัสผ่านสำรองของ iTunes® ไม่ได้ เนื้อหาที่ไม่ได้เข้ารหัสจะยังโอนไปที่ ^1 ใหม่ของคุณได้</string>
+    <string name="fragment_ios_decryption_forgot_password_title">โอนเนื้อหาที่เข้ารหัสไม่ได้</string>
+    <string name="fragment_ios_decryption_password_hint">ป้อนรหัสผ่านสำหรับการสำรองข้อมูลของ iTunes®</string>
+    <string name="fragment_ios_decryption_skip_button">ข้ามเนื้อหาที่เข้ารหัส</string>
+    <string name="fragment_ios_decryption_title">iPhone® ของคุณมีการเข้ารหัส</string>
+    <string name="fragment_ios_decryption_wrong_password_error">รหัสผ่านไม่ถูกต้อง โปรดลองอีกครั้ง</string>
+    <string name="fragment_ios_device_management_confirm_title">ยืนยันการนำการจัดการออก</string>
+    <string name="fragment_ios_device_management_detected_description">"iPhone® ของคุณจัดการโดยองค์กรและมีเนื้อหาที่เข้ารหัส
+
+หากต้องการโอนรายชื่อติดต่อใน iCloud®, รายชื่อติดต่อในอุปกรณ์ และข้อความใน iMessage® คุณจะต้องนำการจัดการอุปกรณ์ใน iPhone® ออก"</string>
+    <string name="fragment_ios_device_management_detected_title">เนื้อหาบางส่วนมีการเข้ารหัส</string>
+    <string name="fragment_ios_device_management_next_button_first_screen">แสดงขั้นตอน</string>
+    <string name="fragment_ios_device_management_not_removed_description">"การจัดการอุปกรณ์ยังคงเปิดใช้อยู่ใน iPhone® ของคุณ หากต้องการนำออก ให้ทำตามขั้นตอนก่อนหน้านี้
+
+หากไม่นำการจัดการอุปกรณ์ออก เราจะโอนเนื้อหาที่เข้ารหัสไปยัง ^1 เครื่องใหม่ไม่ได้"</string>
+    <string name="fragment_ios_device_management_not_removed_title">โอนเนื้อหาที่เข้ารหัสไม่ได้</string>
+    <string name="fragment_ios_device_management_open_settings_description">ใน iPhone® ให้ไปที่<b>การตั้งค่า > ทั่วไป</b> จากนั้นแตะ<b>การจัดการอุปกรณ์</b> หากติดตั้งโปรไฟล์ไว้ ให้แตะ<b>โปรไฟล์และการจัดการอุปกรณ์</b></string>
+    <string name="fragment_ios_device_management_open_settings_title">เปิดการตั้งค่าการจัดการ</string>
+    <string name="fragment_ios_device_management_passcode_title">ป้อนรหัสผ่าน</string>
+    <string name="fragment_ios_device_management_remove_title">นำการจัดการออก</string>
+    <string name="fragment_ios_device_management_risk_description">"เมื่อนำการจัดการอุปกรณ์ออกแล้ว คุณอาจเข้าถึงทรัพยากรในการทำงานไม่ได้อีกต่อไป
+
+หากมีปัญหาในการติดตั้งการจัดการอุปกรณ์ใหม่หลังจากตั้งค่า โปรดติดต่อผู้ดูแลระบบไอที"</string>
+    <string name="fragment_ios_device_management_risk_title">การนำการจัดการอุปกรณ์ออก</string>
+    <string name="fragment_ios_device_management_select_management_title">แตะตัวเลือกใต้ \"การจัดการอุปกรณ์เคลื่อนที่\"</string>
+    <string name="fragment_ios_device_management_skip_button">ข้ามเนื้อหาที่เข้ารหัส</string>
+    <string name="fragment_ios_indexing_description">หากมีข้อมูลจำนวนมากใน iPhone® ขั้นตอนนี้อาจใช้เวลาครู่หนึ่ง</string>
+    <string name="fragment_ios_instructions_description">หากต้องการดำเนินการต่อ ให้ตรวจสอบ iPhone® และอนุมัติการเชื่อมต่อ</string>
+    <string name="fragment_ios_instructions_reconnect_cable">หากพบปัญหา ให้ลองถอดปลั๊กแล้วเชื่อมต่ออุปกรณ์อีกครั้ง</string>
+    <string name="fragment_ios_recoverable_error_description">หากต้องการลองใหม่ ให้ถอดปลั๊กแล้วเชื่อมต่ออุปกรณ์อีกครั้ง</string>
+    <string name="fragment_ios_recoverable_error_title">ถอดรหัส iPhone® ไม่ได้</string>
+    <string name="fragment_ios_skip_encrypted_data_dialog_description">ระบบจะไม่โอนแอป, รายชื่อติดต่อใน iCloud®, รายชื่อติดต่อในอุปกรณ์ และข้อความใน iMessage®</string>
+    <string name="fragment_ios_skip_encrypted_data_dialog_title">ข้ามเนื้อหาที่เข้ารหัสไหม</string>
+    <string name="fragment_ios_wifi_reconnecting_description">ตรวจสอบว่าอุปกรณ์ทั้งสองอยู่ใกล้กัน</string>
+    <string name="fragment_ios_wifi_reconnecting_title">กำลังเชื่อมต่อ iPhone หรือ iPad อีกครั้ง…</string>
+    <string name="fragment_keep_devices_close_description">โปรดเปิดอุปกรณ์ทั้ง 2 เครื่องและวางไว้ใกล้กัน</string>
+    <string name="fragment_long_waiting_title">รออีกสักครู่…</string>
+    <string name="fragment_restore_choice_title">เลือกข้อมูลที่จะคัดลอก</string>
+    <string name="fragment_short_waiting_title">รอสักครู่…</string>
+    <string name="fragment_smart_device_ui_finished_title">กำลังรับข้อมูลบัญชี…</string>
+    <string name="fragment_target_connected_description_with_permissions">คุณอาจต้องให้สิทธิ์ในอุปกรณ์เครื่องเก่า</string>
+    <string name="fragment_target_connected_title">เชื่อมต่ออุปกรณ์แล้ว</string>
+    <string name="fragment_target_photos_and_videos_option_description">%1$s %2$s ตั้งแต่ %3$s</string>
+    <string name="fragment_target_photos_and_videos_option_title_all">ทั้งหมด</string>
+    <string name="fragment_target_photos_and_videos_option_title_all_photos">รูปภาพทั้งหมด</string>
+    <string name="fragment_target_photos_and_videos_option_title_none">ไม่มี</string>
+    <string name="fragment_target_photos_and_videos_picker_description">รูปภาพและวิดีโอจะใช้พื้นที่ในอุปกรณ์ %d%%</string>
+    <string name="fragment_target_photos_and_videos_picker_include_videos_title">รวมวิดีโอ</string>
+    <string name="fragment_target_photos_and_videos_picker_title">เลือกรูปภาพและวิดีโอ</string>
+    <string name="fragment_usb_cable_doesnt_fit">หากใช้สายนี้ไม่ได้</string>
+    <string name="fragment_usb_cant_find_adapter">หากไม่มีอะแดปเตอร์</string>
+    <string name="fragment_usb_connect_both_phones_title">เชื่อมต่ออุปกรณ์ทั้ง 2 เครื่องโดยใช้สาย</string>
+    <string name="fragment_usb_connect_cable_into_adapter_description">Quick Switch Adapter อยู่ในกล่องเดียวกับ ^1</string>
+    <string name="fragment_usb_connect_cable_into_adapter_title">เสียบสายเข้ากับอะแดปเตอร์เพื่อเชื่อมต่ออุปกรณ์ทั้ง 2 เครื่อง</string>
+    <string name="fragment_usb_dialog_cancel_description">คุณจะได้เนื้อหามากที่สุด ซึ่งได้แก่ รูปภาพ วิดีโอ และข้อความ MMS หากคุณใช้สาย</string>
+    <string name="fragment_usb_dialog_cancel_description_v2">คุณจะโอนเนื้อหาได้เร็วขึ้นหากใช้สายเคเบิลแบบเดียวกับที่คุณใช้ชาร์จอุปกรณ์เครื่องเก่า</string>
+    <string name="fragment_usb_dialog_cancel_description_v3">การคัดลอกข้อมูลโดยไม่ใช้สายอาจใช้เวลานานกว่าปกติและอุปกรณ์นี้อาจตัดการเชื่อมต่อจาก Wi-Fi ชั่วคราว</string>
+    <string name="fragment_usb_dialog_cancel_title">คัดลอกโดยไม่ใช้สายโอนข้อมูลไหม</string>
+    <string name="fragment_usb_dialog_without_old_phone_description">"คุณจะกู้คืนข้อมูลเพิ่มเติมรวมถึงรูปภาพและวิดีโอได้เมื่อใช้อุปกรณ์เครื่องเก่า
+
+หากต้องการกู้คืนข้อมูลโดยไม่ใช้อุปกรณ์เครื่องเก่า ให้ลงชื่อเข้าใช้ด้วยชื่อผู้ใช้และรหัสผ่านในหน้าจอถัดไป"</string>
+    <string name="fragment_usb_dialog_without_old_phone_title">กู้คืนข้อมูลโดยไม่ใช้อุปกรณ์เครื่องเก่าใช่ไหม</string>
+    <string name="fragment_usb_dont_have_cable">หากไม่มีสาย</string>
+    <string name="fragment_usb_find_cable_animation_description">สาย USB-C, สาย Lightning, สายไมโคร USB</string>
+    <string name="fragment_usb_find_cable_description">ใช้สายที่เหมาะกับอุปกรณ์เครื่องเก่าได้ ซึ่งปกติแล้วจะเป็นสายสำหรับชาร์จ</string>
+    <string name="fragment_usb_find_cable_title">หาสายของอุปกรณ์เครื่องเก่า</string>
+    <string name="fragment_usb_initial_description">คุณต้องใช้อุปกรณ์ Android หรือ iPhone® เครื่องเก่า โดยเปิดเครื่องและปลดล็อกไว้ตลอด</string>
+    <string name="fragment_usb_initial_title">ใช้อุปกรณ์เครื่องเก่า</string>
+    <string name="fragment_usb_missing_data_description">คุณยังตั้งค่า ^1 ต่อไปได้ในระหว่างที่โอนข้อมูล</string>
+    <string name="fragment_usb_missing_data_title">คัดลอกข้อมูลกันเลย</string>
+    <string name="fragment_usb_plug_cable">เสียบสายเข้ากับอุปกรณ์เครื่องเก่า</string>
+    <string name="fragment_wifi_d2d_unsupported_description">เกิดปัญหาในการเชื่อมต่อกับอุปกรณ์เครื่องเก่า</string>
+    <string name="fragment_wifi_d2d_unsupported_title">คัดลอกแบบไร้สายไม่ได้</string>
+    <string name="fragment_wifi_reconnecting_title">กำลังพยายามเชื่อมต่ออีกครั้ง…</string>
+    <string name="fragment_wifi_restore_choice_title">ใช้อุปกรณ์เครื่องเก่าโอนข้อมูลแบบไร้สาย</string>
+    <string name="fragment_wifi_restore_choice_use_ios_button">หากเปลี่ยนมาจาก iPhone® หรือ iPad®</string>
+    <string name="gigabyteShort">GB</string>
+    <string name="google_contacts_will_sync">Google Contacts จะซิงค์</string>
+    <string name="google_photos_available_in_photos_app">ดูใน Google Photos</string>
+    <string name="icloud_data_not_included">• ไม่รวมข้อมูลใน iCloud®</string>
+    <string name="imessage_deregistration_description">หากต้องการรับ SMS จากผู้ใช้ iPhone® ต่อไป คุณต้องปิด iMessage ในโทรศัพท์เครื่องเก่า</string>
+    <string name="imessage_deregistration_done_button">เสร็จ</string>
+    <string name="imessage_deregistration_extra_description">คุณยังใช้ iMessage ในอุปกรณ์ Apple® อื่นๆ ได้อยู่</string>
+    <string name="imessage_deregistration_procedure_first_step">1. ใช้กล้อง iPhone สแกนคิวอาร์โค้ดนี้ หรือไปที่ <b>การตั้งค่า > ข้อความ</b></string>
+    <string name="imessage_deregistration_procedure_second_step">2. ปิด iMessage</string>
+    <string name="imessage_deregistration_procedure_steps_without_qr_code">ไปที่<b>การตั้งค่า > ข้อความ</b> จากนั้น<b>ปิด iMessage</b></string>
+    <string name="imessage_deregistration_title">ปิด iMessage®</string>
+    <string name="instructions_fragment_title">ตรวจสอบอุปกรณ์เครื่องอื่น</string>
+    <string name="ios_connected_fragment_add_account_description">"คุณจะลงชื่อเข้าใช้บัญชี Google หรือสร้างบัญชีใหม่ได้ในหน้าจอถัดไป
+
+หากไม่เพิ่มบัญชี Google ระบบจะไม่คัดลอกกิจกรรมใน iOS® Calendar"</string>
+    <string name="ios_connected_fragment_add_account_title">เพิ่มบัญชี Google</string>
+    <string name="ios_connected_fragment_description_has_account">เราจะใช้บัญชี Google ของคุณในการโอนแอปและกิจกรรมใน iOS® Calendar</string>
+    <string name="ios_connected_fragment_description_has_account_with_notes">เราจะใช้บัญชี Google ของคุณในการโอนแอป กิจกรรมใน iOS® Calendar และ iOS® Notes</string>
+    <string name="ios_connected_fragment_description_no_account">"คุณจะลงชื่อเข้าใช้บัญชี Google หรือสร้างบัญชีใหม่ได้ในหน้าจอถัดไป
+
+หากไม่เพิ่มบัญชี Google ระบบจะไม่โอนแอปต่างๆ รวมทั้งกิจกรรมใน iOS® Calendar"</string>
+    <string name="ios_connected_fragment_description_no_account_with_notes">"คุณจะลงชื่อเข้าใช้บัญชี Google หรือสร้างบัญชีใหม่ได้ในหน้าจอถัดไป
+
+หากไม่เพิ่มบัญชี Google ระบบจะไม่โอนแอป กิจกรรมใน iOS® Calendar และ iOS® Notes"</string>
+    <string name="ios_migration_default_calendar_title">ปฏิทิน</string>
+    <string name="ios_migration_other_contact_relation">อื่นๆ</string>
+    <string name="ios_photos_and_videos_dialog_icloud_got_it_button">รับทราบ</string>
+    <string name="ios_photos_and_videos_dialog_icloud_message">"คุณจะส่งคำขอคัดลอกรูปภาพและวิดีโอบน iCloud เพื่อถ่ายโอนไปยัง Google Photos ได้
+
+ ไปที่ "<b>g.co/datatransferhelp</b> เพื่อดูวิธีการ</string>
+    <string name="ios_photos_and_videos_dialog_icloud_title">คัดลอก iCloud® รูปภาพและวิดีโอไปยัง Google Photos</string>
+    <string name="ios_settings_dialog_bullet_points">"
+● ^1"</string>
+    <string name="ios_settings_dialog_message">"ไปที่การตั้งค่าของอุปกรณ์เครื่องใหม่เพื่อเปลี่ยนแปลงสิ่งต่อไปนี้
+^1"</string>
+    <string name="ios_settings_dialog_title">โอนการตั้งค่าบางอย่างไม่ได้</string>
+    <string name="ios_trademarks_disclaimer">iPhone, iPad, iOS, iTunes, iMessage, Safari และ iCloud เป็นเครื่องหมายการค้าของ Apple Inc. ซึ่งจดทะเบียนในสหรัฐอเมริกาและประเทศอื่นๆ</string>
+    <string name="ios_whatsapp_description">สแกนคิวอาร์โค้ดด้วย iPhone เพื่อเปิด WhatsApp แล้วแตะ<b>เริ่ม</b></string>
+    <string name="ios_whatsapp_export_description">ปลดล็อก iPhone และเปิด WhatsApp ไว้</string>
+    <string name="ios_whatsapp_export_title">กำลังเตรียมความพร้อมของแชท…</string>
+    <string name="ios_whatsapp_message">หากพบปัญหาในการสแกน ใน iPhone ให้เปิด WhatsApp แล้วไปที่<b>การตั้งค่า > แชท > ย้ายแชทไปยัง Android</b></string>
+    <string name="ios_whatsapp_title">โอนแชทของ WhatsApp</string>
+    <string name="ios_wifi_hotspot_description">การดำเนินการนี้จะติดตั้งแอป Switch to Android และเชื่อมต่ออุปกรณ์โดยใช้เครือข่าย Wi-Fi %1$s</string>
+    <string name="ios_wifi_hotspot_description_legacy">เมื่อเปิดแอป Switch to Android ใน iPhone หรือ iPad แล้ว ให้ทำตามวิธีการ</string>
+    <string name="ios_wifi_hotspot_instructions_first_step">ขั้นตอนที่ 1</string>
+    <string name="ios_wifi_hotspot_instructions_first_step_message">เปิด Safari แล้วไปที่ <b>^1</b> เพื่อดาวน์โหลดแอป Switch to Android</string>
+    <string name="ios_wifi_hotspot_instructions_fourth_step">หากดาวน์โหลดแอปไม่ได้</string>
+    <string name="ios_wifi_hotspot_instructions_fourth_step_message">เปิด<b>การตั้งค่า</b> แตะ<b>ทั่วไป > การอัปเดตซอฟต์แวร์</b>" แล้วลองอีกครั้ง
+
+หรือคุณจะกลับไปและคัดลอกข้อมูลโดยใช้สายก็ได้"</string>
+    <string name="ios_wifi_hotspot_instructions_second_step">ขั้นตอนที่ 2</string>
+    <string name="ios_wifi_hotspot_instructions_second_step_message">เปิดแอปแล้วแตะ <b>เริ่มต้น > หากสแกนคิวอาร์โค้ดไม่ได้</b></string>
+    <string name="ios_wifi_hotspot_instructions_second_step_message_content_description">เปิดแอปแล้วแตะ \"เริ่มต้น\" ตามด้วย \"หากสแกนคิวอาร์โค้ดไม่ได้\"</string>
+    <string name="ios_wifi_hotspot_instructions_third_step">ขั้นตอนที่ 3</string>
+    <string name="ios_wifi_hotspot_instructions_third_step_message">"ป้อนรายละเอียดต่อไปนี้
+ชื่อเครือข่าย: "<b>^1</b>"
+รหัสผ่าน: "<b>^2</b>"
+ที่อยู่ IP: "<b>^3</b></string>
+    <string name="ios_wifi_hotspot_instructions_title">ทำตามขั้นตอนเหล่านี้ใน iPhone หรือ iPad</string>
+    <string name="ios_wifi_hotspot_qr_code_alternative">หากสแกนคิวอาร์โค้ดไม่ได้</string>
+    <string name="ios_wifi_hotspot_reconnecting_description">การคัดลอกจะดำเนินการต่อเมื่ออุปกรณ์ของคุณเชื่อมต่อแล้ว</string>
+    <string name="ios_wifi_hotspot_reconnecting_title">สแกนคิวอาร์โค้ดอีกครั้งเพื่อเชื่อมต่อใหม่</string>
+    <string name="ios_wifi_hotspot_title">สแกนคิวอาร์โค้ดนี้ด้วยกล้องของ iPhone หรือ iPad</string>
+    <string name="ios_wifi_indexing_description">ระบบจะขอให้คุณเลือกวันที่ที่จะโอนและให้สิทธิ์แก่ ‘Switch to Android’</string>
+    <string name="ios_wifi_indexing_title">ดำเนินการต่อใน iPhone®</string>
+    <string name="ios_wifi_location_permission_description">"%s ของ Google ต้องมีสิทธิ์เข้าถึงตำแหน่งของคุณเพื่อคัดลอกข้อมูลแบบไร้สาย
+
+หากคุณไม่ให้สิทธิ์เข้าถึง จะไม่มีการคัดลอกข้อมูลใดๆ ไปยังอุปกรณ์เครื่องใหม่
+
+จะมีการใช้ข้อมูลตำแหน่งเพื่อสร้างการเชื่อมต่อแบบไร้สายกับ iPhone ของคุณเท่านั้นและจะคงอยู่ในอุปกรณ์ของคุณ"</string>
+    <string name="ios_wifi_location_permission_title">ตำแหน่งจะต้องคัดลอกแบบไร้สาย</string>
+    <string name="ios_wifi_nearby_devices_permission_description">"\"%s\" จาก Google ต้องได้รับสิทธิ์ในการค้นหาและเชื่อมต่อกับอุปกรณ์ที่อยู่ใกล้เคียงโดยใช้เครือข่าย Wi-Fi
+
+หากคุณไม่ให้สิทธิ์นี้ ระบบจะไม่คัดลอกข้อมูลใดๆ ไปยังอุปกรณ์เครื่องใหม่"</string>
+    <string name="ios_wifi_nearby_devices_permission_title">อนุญาตให้เข้าถึงอุปกรณ์ที่อยู่ใกล้เคียง</string>
+    <string name="key_recovery_instruction_description">หากต้องการถอดรหัสข้อมูลสำรอง ให้ป้อนการล็อกหน้าจอของอุปกรณ์ในหน้าจอถัดไป</string>
+    <string name="key_recovery_instruction_title">ยืนยันการล็อกหน้าจอแบบเดิมของ %s</string>
+    <string name="kilobyteShort">KB</string>
+    <string name="lock_screen_entry_title">ยืนยันการล็อกหน้าจอแบบเดิมของ %s</string>
+    <string name="lskfui_confirm">ยืนยัน</string>
+    <string name="lskfui_lock_screen_error_other">เกิดข้อผิดพลาด โปรดลองอีกครั้งในภายหลัง</string>
+    <string name="lskfui_lock_screen_error_wrong_password">รหัสผ่านไม่ถูกต้อง</string>
+    <string name="lskfui_lock_screen_error_wrong_pattern">รูปแบบไม่ถูกต้อง</string>
+    <string name="lskfui_lock_screen_error_wrong_pin">PIN ไม่ถูกต้อง</string>
+    <string name="lskfui_lockscreen_access_pattern_area">พื้นที่สำหรับรูปแบบ</string>
+    <string name="lskfui_lockscreen_access_pattern_cell_added_verbose">เพิ่มเซลล์ %d แล้ว</string>
+    <string name="lskfui_lockscreen_access_pattern_cleared">ล้างรูปแบบแล้ว</string>
+    <string name="lskfui_lockscreen_access_pattern_detected">วาดรูปแบบเสร็จสิ้น</string>
+    <string name="lskfui_lockscreen_access_pattern_start">เริ่มวาดรูปแบบแล้ว</string>
+    <string name="lskfui_save_lskf_password_desc">ใช้รหัสผ่านในอุปกรณ์นี้</string>
+    <string name="lskfui_save_lskf_pattern_desc">ใช้รูปแบบในอุปกรณ์นี้</string>
+    <string name="lskfui_save_lskf_pin_desc">ใช้ PIN ในอุปกรณ์นี้</string>
+    <string name="lskfui_vault_almost_locked_dialog_title">ลองได้อีก %d ครั้ง</string>
+    <string name="lskfui_vault_almost_locked_password_dialog_text">คุณป้อนรหัสผ่านไม่ถูกต้อง %1$d ครั้งแล้ว หากป้อนไม่ถูกอีก %2$d ครั้ง ระบบจะลบข้อมูลสำรองของ %3$s</string>
+    <string name="lskfui_vault_almost_locked_pattern_dialog_text">คุณป้อนรูปแบบที่ไม่ถูกต้อง %1$d ครั้งแล้ว หากป้อนไม่ถูกอีก %2$d ครั้ง ระบบจะลบข้อมูลสำรองของ %3$s</string>
+    <string name="lskfui_vault_almost_locked_pin_dialog_text">คุณป้อน PIN ไม่ถูกต้อง %1$d ครั้งแล้ว หากป้อนไม่ถูกอีก %2$d ครั้ง ระบบจะลบข้อมูลสำรองของ %3$s</string>
+    <string name="manage_storage_button">จัดการพื้นที่เก็บข้อมูล</string>
+    <string name="megabyteShort">MB</string>
+    <string name="migrate_from_ios_description">ทำตามขั้นตอนต่อไปนี้เพื่อดึงรายชื่อติดต่อ กิจกรรมในปฏิทิน รวมถึงรูปภาพและวิดีโอ</string>
+    <string name="migrate_from_ios_header">ดึงข้อมูลของคุณจาก iPhone</string>
+    <string name="migrate_from_ios_instructions_1">1. เปิดเว็บเบราว์เซอร์</string>
+    <string name="migrate_from_ios_instructions_2">2. ไปที่ <b>android.com/switch</b></string>
+    <string name="migrate_from_ios_instructions_3">3. ทำตามวิธีการ</string>
+    <string name="oem_use_old_device_description">คุณต้องใช้อุปกรณ์ Android, iPhone® หรือ iPad® เครื่องเดิม</string>
+    <string name="oem_use_old_device_title">ใช้อุปกรณ์เครื่องเดิม</string>
+    <string name="password_toggle_content_description">แสดงรหัสผ่าน</string>
+    <string name="petabyteShort">PB</string>
+    <string name="photos_and_videos_picker_no_items">ไม่ได้เลือก</string>
+    <string name="progressing_description">อาจใช้เวลาสักครู่</string>
+    <string name="qrcode_description">คิวอาร์โค้ด</string>
+    <string name="restore_apk_title">เครื่องมือกู้คืนข้อมูล</string>
+    <string name="restore_choice_android_device_label">Android</string>
+    <string name="restore_choice_data_disclaimer">ข้อมูลบางอย่างอาจไม่โอนไปยัง ^1 <annotation id="restore_choice_data_disclaimer_learn_more">ดูข้อมูลเพิ่มเติม</annotation></string>
+    <string name="restore_choice_data_disclaimer_from_newer_version">ข้อมูลสำรองนี้มาจากอุปกรณ์ที่ใช้ Android เวอร์ชันใหม่กว่า ระบบอาจกู้คืนข้อมูลบางส่วนมาไว้ในอุปกรณ์เครื่องใหม่ไม่ได้</string>
+    <string name="restore_choice_data_disclaimer_v2_cloud">อาจโอนข้อมูลบางอย่างมายัง ^1 ไม่ได้</string>
+    <string name="restore_choice_deselect_some_content">ยกเลิกการเลือกเนื้อหาบางอย่างเพื่อดำเนินการต่อ</string>
+    <string name="restore_choice_dont_have_old_phone">หากใช้อุปกรณ์เก่าไม่ได้</string>
+    <string name="restore_choice_ios_device_label">iPhone</string>
+    <string name="restore_choice_learn_more_android_message">"ไม่สามารถคัดลอกข้อมูลบางอย่างต่อไปนี้จากอุปกรณ์เครื่องเก่าโดยอัตโนมัติ
+
+ ● การดาวน์โหลด (เช่น ไฟล์ PDF)
+
+ ● รูปภาพ วิดีโอ และเพลงที่จัดเก็บอยู่ในโฟลเดอร์ที่ซ่อนไว้
+
+ ● รูปภาพ วิดีโอ และเพลงที่ได้รับทาง SMS
+
+ ● แอปที่ไม่ได้มาจาก Google Play Store
+
+ ● ข้อมูลแอป (หากแอปไม่ได้ใช้การสำรองข้อมูล Android)
+
+ ● การตั้งค่าบางอย่างของอุปกรณ์
+
+ ● บัญชีที่ไม่ใช่ของ Google (และข้อมูลที่เชื่อมโยง)
+
+ ● รายชื่อติดต่อและปฏิทินที่ซิงค์กับบริการที่ไม่ใช่ Google
+
+ ● เสียงเรียกเข้า
+
+ ดูรายละเอียดเพิ่มเติมและรับความช่วยเหลือในการคัดลอกข้อมูลบางอย่างได้ที่ g.co/datatransferhelp"</string>
+    <string name="restore_choice_learn_more_android_title">คัดลอกข้อมูลบางอย่างไม่ได้</string>
+    <string name="restore_choice_learn_more_ios_message">"ไม่สามารถคัดลอกข้อมูลบางอย่างต่อไปนี้จากอุปกรณ์เครื่องเก่าโดยอัตโนมัติ
+
+ ● แอปที่ไม่ได้ติดตั้งจาก App Store
+
+ ● แอปที่ไม่พร้อมใช้งานจาก Play Store
+
+ ● ข้อมูลแอป
+
+ ● รูปภาพที่ไม่มีไฟล์ต้นฉบับจัดเก็บไว้ในอุปกรณ์ (เช่น หากเปิดการตั้งค่า \"เพิ่มประสิทธิภาพพื้นที่เก็บข้อมูล\" รูปที่เป็นไฟล์ต้นฉบับจะจัดเก็บอยู่ใน iCloud®)
+
+ ● ไฟล์และเอกสารที่จัดเก็บไว้ใน iCloud®
+
+ ● การตั้งค่าอุปกรณ์ (เช่น รหัสผ่าน Wi-Fi)
+
+ ● เพลงที่ปกป้องโดยการจัดการสิทธิ์ดิจิทัล (DRM) (เช่น เพลงจาก iTunes® ที่ซื้อก่อนเดือนเมษายน 2009 หรือเพลงที่ดาวน์โหลดไว้ฟังออฟไลน์ในแอปสตรีมมิงเพลง)
+
+ ● บัญชีที่ไม่ใช่บัญชี Google (และข้อมูลที่เชื่อมโยง)
+
+ ● รายชื่อติดต่อและปฏิทินที่ซิงค์กับบริการที่ไม่ใช่ Google หรือ iCloud®
+
+ ● บุ๊กมาร์กจาก Safari®
+
+ ดูรายละเอียดเพิ่มเติมและรับความช่วยเหลือในการคัดลอกข้อมูลบางอย่างได้ที่ g.co/datatransferhelp"</string>
+    <string name="restore_choice_learn_more_ios_title">คัดลอกข้อมูลบางอย่างไม่ได้</string>
+    <string name="restore_choice_not_enough_space">พื้นที่จัดเก็บไม่พอ</string>
+    <string name="restore_choice_select_some_content_cloud">เลือกเนื้อหาที่จะคืนค่า</string>
+    <string name="restore_choice_select_some_content_d2d">เลือกเนื้อหาที่จะคัดลอก</string>
+    <string name="restore_choice_sync_disclaimer_android">รายชื่อติดต่อในอุปกรณ์และซิมจะบันทึกเป็น Google Contacts ไปยัง %1$s</string>
+    <string name="restore_choice_sync_disclaimer_cloud">รายชื่อติดต่อในอุปกรณ์และซิมจะบันทึกเป็น Google Contacts ไปยัง %1$s</string>
+    <string name="restore_choice_sync_disclaimer_ios">รายชื่อติดต่อและ iOS® Calendar จะบันทึกไปยัง %1$s</string>
+    <string name="restore_choice_sync_disclaimer_ios_no_contacts">ปฏิทิน iOS® จะบันทึกไปยัง %1$s</string>
+    <string name="restore_choice_sync_disclaimer_ios_no_contacts_with_notes">ระบบจะบันทึก iOS® Calendar และ iOS® Notes ลงใน %1$s</string>
+    <string name="restore_choice_sync_disclaimer_ios_with_notes">ระบบจะบันทึกรายชื่อติดต่อ, iOS® Calendar และ iOS® Notes ลงใน %1$s</string>
+    <string name="restore_choice_title">เลือกอุปกรณ์เครื่องเก่าของคุณ</string>
+    <string name="restore_continue_suw_title">กำลังคืนค่า...</string>
+    <string name="restore_estimated_time_v2">ใช้เวลาประมาณ ^1ในการโอน</string>
+    <string name="restore_from_an_android_dialog_message">"หากต้องการโอนรูปภาพและวิดีโอ ให้สำรองไว้โดยใช้แอป Google Photos ในอุปกรณ์เครื่องเก่า และไฟล์เหล่านั้นจะซิงค์กับโทรศัพท์เครื่องนี้โดยอัตโนมัติ
+
+การสำรองข้อมูล Android จะรวมถึงแอป รายชื่อติดต่อ ประวัติการโทร ข้อความ และการตั้งค่าอุปกรณ์"</string>
+    <string name="restore_from_an_android_dialog_title">ดึงรูปภาพและวิดีโอ</string>
+    <string name="restore_item_alarms">การปลุก</string>
+    <string name="restore_item_apps">แอป</string>
+    <string name="restore_item_brightness">ความสว่าง</string>
+    <string name="restore_item_calendar">ปฏิทิน</string>
+    <string name="restore_item_calendar_ical_description">iOS® Calendar</string>
+    <string name="restore_item_call_logs">ประวัติการโทร</string>
+    <string name="restore_item_contacts">รายชื่อติดต่อ</string>
+    <string name="restore_item_device_settings_description">รหัสผ่าน Wi-Fi และอื่นๆ</string>
+    <string name="restore_item_downloads">การดาวน์โหลด</string>
+    <string name="restore_item_email">อีเมล</string>
+    <string name="restore_item_email_description">Gmail จะซิงค์</string>
+    <string name="restore_item_font_size">ขนาดตัวอักษร</string>
+    <string name="restore_item_home_screen_layout">เลย์เอาต์หน้าจอหลัก</string>
+    <string name="restore_item_ios_device_settings_description">เครือข่าย Wi-Fi, วอลเปเปอร์ และอื่นๆ</string>
+    <string name="restore_item_message_attachments">ไฟล์แนบของข้อความ</string>
+    <string name="restore_item_messages">ข้อความ</string>
+    <string name="restore_item_mms">ข้อความ MMS</string>
+    <string name="restore_item_mms_attachments">ไฟล์แนบ MMS</string>
+    <string name="restore_item_music">เพลงและเสียงอื่นๆ</string>
+    <string name="restore_item_note_description">iOS® Notes</string>
+    <string name="restore_item_notes">โน้ต</string>
+    <string name="restore_item_photos">รูปภาพ</string>
+    <string name="restore_item_photos_and_videos">รูปภาพและวิดีโอ</string>
+    <string name="restore_item_screen_timeout">ระยะหมดเวลาหน้าจอ</string>
+    <string name="restore_item_settings">การตั้งค่าอุปกรณ์</string>
+    <string name="restore_item_sms">ข้อความ SMS</string>
+    <string name="restore_item_video">วิดีโอ</string>
+    <string name="restore_item_wallpaper">วอลเปเปอร์</string>
+    <string name="restore_item_wifi_networks">เครือข่าย Wi-Fi</string>
+    <string name="restore_qs_finishsetup_fragment_description_may_take_a_few_min">อาจใช้เวลาสักครู่</string>
+    <string name="restore_qs_finishsetup_fragment_title_getting_yourdevice_ready">{DEVICE_TYPE,select, PHONE{กำลังเตรียมโทรศัพท์ให้พร้อมใช้งาน…}TABLET{กำลังเตรียมแท็บเล็ตให้พร้อมใช้งาน…}other{กำลังเตรียมอุปกรณ์ให้พร้อมใช้งาน…}}</string>
+    <string name="restore_qs_init_fragment_title_just_a_few_moments">รออีกสักครู่…</string>
+    <string name="restore_qs_startrestore_cant_use_old_device_q">หากใช้อุปกรณ์เก่าไม่ได้</string>
+    <string name="restore_qs_startrestore_dont_copy">ไม่คัดลอก</string>
+    <string name="restore_qs_startrestore_fragment_start_restore_description_you_can_choose_to_transfer">คุณเลือกโอนแอป รูปภาพ รายชื่อติดต่อ และอื่นๆ ได้</string>
+    <string name="restore_qs_startrestore_fragment_start_restore_title_copy_apps_and_data">คัดลอกแอปและข้อมูล</string>
+    <string name="restore_qs_startrestore_fragment_use_old_device_description">คุณต้องใช้อุปกรณ์ Android, iPhone® หรือ iPad® เครื่องเดิม</string>
+    <string name="restore_qs_startrestore_fragment_use_old_device_title">ใช้อุปกรณ์เครื่องเดิม</string>
+    <string name="restore_qs_workprofilesetup_fragment_work_profile_setup_description">หากต้องการตั้งค่าโปรไฟล์งาน ให้เพิ่มบัญชีงาน ในหน้าจอถัดไป</string>
+    <string name="restore_qs_workprofilesetup_fragment_work_profile_setup_title">เตรียมอุปกรณ์ให้พร้อมสำหรับการทำงาน</string>
+    <string name="restore_selected_size_and_device_space_text"><annotation id="selected_size">^1</annotation> ^2 จาก ^3</string>
+    <string name="retail_mode_warning_dialog_message">การดำเนินการนี้จะเล่นวิดีโอการสาธิตสำหรับร้านค้าปลีกไปเรื่อยๆ จนกว่าจะมีการรีเซ็ตอุปกรณ์เป็นค่าเริ่มต้น โหมดนี้มีไว้สำหรับผู้ค้าปลีกเท่านั้น ไม่ใช่สำหรับการใช้ส่วนตัว</string>
+    <string name="retail_mode_warning_dialog_title">เล่นวิดีโอสาธิต</string>
+    <string name="skip_transfer">ข้ามการโอน</string>
+    <string name="small_time_duration">น้อยกว่า 1 นาที</string>
+    <string name="some_whatsapp_chats_not_exported">• ไม่ได้โอนแชท WhatsApp บางรายการ</string>
+    <string name="stop_copying_dialog_continue_button">ปิด</string>
+    <string name="stop_copying_dialog_message_before_transfer">ระบบจะไม่คัดลอกข้อมูลไปยังอุปกรณ์เครื่องใหม่</string>
+    <string name="stop_copying_dialog_message_before_transfer_initial_setup">คุณยังโอนเนื้อหาจากอุปกรณ์เครื่องเก่าได้หลังจากตั้งค่า</string>
+    <string name="stop_copying_dialog_message_during_transfer">ระบบจะไม่คัดลอกข้อมูลบางอย่างไปยังอุปกรณ์เครื่องใหม่</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">หยุด</string>
+    <string name="stop_copying_dialog_title_before_transfer">ไม่คัดลอกใช่ไหม</string>
+    <string name="stop_copying_dialog_title_during_transfer">หยุดคัดลอกไหม</string>
+    <string name="stop_restoring_dialog_message_before_transfer">ระบบจะไม่คืนค่าข้อมูลไปยังอุปกรณ์เครื่องใหม่</string>
+    <string name="stop_restoring_dialog_message_before_transfer_initial_setup">คุณยังคืนค่าเนื้อหาจากอุปกรณ์เครื่องเก่าได้หลังจากตั้งค่า</string>
+    <string name="stop_restoring_dialog_title_before_transfer">ไม่คืนค่าใช่ไหม</string>
+    <string name="sud_back_button_label">กลับ</string>
+    <string name="sud_more_button_label">เพิ่มเติม</string>
+    <string name="sud_next_button_label">ถัดไป</string>
+    <string name="sud_skip_button_label">ข้าม</string>
+    <string name="target_default_source_device_model">อุปกรณ์เครื่องเก่า</string>
+    <string name="target_device_not_supported_cant_continue_description">คุณต้องเลือกการคัดลอกข้อมูลวิธีอื่น</string>
+    <string name="target_device_not_supported_cant_continue_title">ไม่รองรับอุปกรณ์อื่น</string>
+    <string name="target_device_not_supported_try_restarting_description">"ถอดสายและรีสตาร์ทอุปกรณ์เครื่องเก่า จากนั้นเสียบเข้าไปใหม่แล้วทำตามวิธีการใน ^1
+
+หากยังเห็นข้อผิดพลาดนี้ คุณอาจต้องลองคัดลอกด้วยวิธีอื่น"</string>
+    <string name="target_device_not_supported_try_restarting_title">ระบบอาจไม่รองรับอุปกรณ์</string>
+    <string name="target_fragment_msg_reconnect_cable">เชื่อมต่อสายอีกครั้ง</string>
+    <string name="target_fragment_msg_wifi_disconnected">ลองนำอุปกรณ์มาอยู่ใกล้กันมากขึ้น</string>
+    <string name="target_pixelmigrate_notification_description">พร้อมใช้งานหรืออยู่ระหว่างดำเนินการ</string>
+    <string name="target_pixelmigrate_notification_title">การโอนข้อมูล</string>
+    <string name="target_smart_device_timeout_add_account">เพิ่มบัญชี</string>
+    <string name="target_smart_device_timeout_description">คุณอาจลองเพิ่มบัญชีด้วยตนเองหากต้องการ</string>
+    <string name="target_smart_device_timeout_dismiss">ปิด</string>
+    <string name="target_smart_device_timeout_title">หากพบปัญหา</string>
+    <string name="terabyteShort">TB</string>
+    <string name="toast_phones_connected">เชื่อมต่ออุปกรณ์แล้ว</string>
+    <string name="toast_reconnect_cable">เชื่อมต่อสายอีกครั้ง</string>
+    <string name="toast_wifi_disconnected">เชื่อมต่ออุปกรณ์ไม่ได้ หยุดการโอนข้อมูลไว้ชั่วคราว</string>
+    <string name="transfer_finished_fragment_description">อาจใช้เวลาสักครู่</string>
+    <string name="transfer_finished_fragment_readying_device_title">{DEVICE_TYPE,select, PHONE{กำลังเตรียมโทรศัพท์ให้พร้อมใช้งาน…}TABLET{กำลังเตรียมแท็บเล็ตให้พร้อมใช้งาน…}other{กำลังเตรียมอุปกรณ์ให้พร้อมใช้งาน…}}</string>
+    <string name="transfer_finished_fragment_title">กำลังดำเนินการขั้นสุดท้าย…</string>
+    <string name="transfer_finished_fragment_work_setup_tile">กำลังเตรียมอุปกรณ์สำหรับการตั้งค่าการทำงาน…</string>
+    <string name="transfer_summary_fragment_description_for_cable_d2d">คุณถอดสายออกได้</string>
+    <string name="transfer_summary_fragment_description_for_ios_wifi_d2d">ตั้งค่าต่อหรือทำตามขั้นตอนใน iPhone</string>
+    <string name="transfer_summary_fragment_done_button">เสร็จสิ้น</string>
+    <string name="transfer_summary_fragment_dtp_description_for_ios_wifi_d2d">หากต้องการคัดลอกรูปภาพและวิดีโอจาก iCloud ไปยัง Google Photos ให้ทำตามคำแนะนำในแอป Switch to Android หรือดูข้อมูลเพิ่มเติมที่ <b>g.co/transferfromicloud</b></string>
+    <string name="transfer_summary_fragment_title">คัดลอกเสร็จแล้ว</string>
+    <string name="transfer_summary_icloud_data_not_copied">ไม่ได้คัดลอกข้อมูลใน iCloud®</string>
+    <string name="transfer_summary_not_copied">ไม่ได้คัดลอกข้อมูล</string>
+    <string name="transfer_summary_nothing_to_copy">ไม่มีรายการในอุปกรณ์ที่จะแก้ไข</string>
+    <string name="transfer_summary_partial">คัดลอกแล้ว %1$s / %2$s รายการ</string>
+    <string name="transferring_fragment_calculating_remaining_time">กำลังคำนวณเวลาที่เหลือ…</string>
+    <string name="transferring_fragment_description_final_hold">ให้อุปกรณ์เชื่อมต่อและเปิดอยู่เสมอ</string>
+    <string name="transferring_fragment_disabling_back_key">คุณจะย้อนกลับไม่ได้จนกว่าการคัดลอกจะเสร็จสิ้น</string>
+    <string name="transferring_fragment_header">กำลังคัดลอกข้อมูลของคุณ…</string>
+    <string name="transferring_fragment_remaining_time_v2">เหลืออีกประมาณ %1$s</string>
+    <string name="transferring_fragment_restoring_content">กำลังคืนค่าเนื้อหา…</string>
+    <string name="trust_instructions_trademark_disclaimer">iPhone, iPad, iMessage, iCloud, Safari และ iTunes เป็นเครื่องหมายการค้าของ Apple Inc. ซึ่งจดทะเบียนในสหรัฐอเมริกาและประเทศอื่นๆ</string>
+    <string name="unlock_ios_fragment_description">หากต้องการดำเนินการต่อ ให้ปลดล็อก iPhone® และปลดล็อกไว้ตลอดระหว่างการโอนข้อมูล</string>
+    <string name="unlock_ios_fragment_title">ปลดล็อก iPhone®</string>
+    <string name="vault_confirm_cancel_message">ระบบจะไม่คืนค่าข้อมูลของคุณไปยังอุปกรณ์ใหม่</string>
+    <string name="vault_confirm_cancel_title">ดำเนินการต่อโดยไม่คืนค่าข้อมูลหรือไม่</string>
+    <string name="vault_locked_dialog_text">คุณป้อนหน้าจอล็อกของ %s ไม่ถูกต้องหลายครั้งเกินไป ลบข้อมูลสำรองของคุณแล้ว</string>
+    <string name="vault_locked_dialog_title">ลบข้อมูลสำรองแล้ว</string>
+    <string name="whatsapp_chats_not_exported">• ไม่มีการโอนแชท WhatsApp</string>
+    <string name="wifi_settings_button">การตั้งค่า Wi-Fi</string>
+    <string name="work_profile_setup_description">หากต้องการตั้งค่าโปรไฟล์งาน ให้เพิ่มบัญชีงาน ในหน้าจอถัดไป</string>
+    <string name="work_profile_setup_skip">ข้าม</string>
+    <string name="work_profile_setup_title">เตรียมอุปกรณ์ให้พร้อมสำหรับการทำงาน</string>
+</resources>

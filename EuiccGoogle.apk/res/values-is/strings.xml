@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">Fara upp</string>
+    <string name="abc_action_mode_done">Lokið</string>
+    <string name="abc_capital_off">SLÖKKT</string>
+    <string name="abc_capital_on">KVEIKT</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">eyða</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Aðgerðarlykill+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">bilslá</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Valmynd+</string>
+    <string name="abc_search_hint">Leita…</string>
+    <string name="abc_searchview_description_clear">Hreinsa fyrirspurn</string>
+    <string name="abc_searchview_description_search">Leit</string>
+    <string name="abc_searchview_description_submit">Senda fyrirspurn</string>
+    <string name="abc_searchview_description_voice">Raddleit</string>
+    <string name="abc_toolbar_collapse_description">Minnka</string>
+    <string name="activation_code_scan_button">Skanna frekar QR-kóða</string>
+    <string name="activation_code_text">Sláðu inn kóðann sem þú fékkst frá símafyrirtækinu þínu</string>
+    <string name="activation_code_title">Bæta við símafyrirtæki</string>
+    <string name="add_profile_title">Bæta símafyrirtæki við</string>
+    <string name="asked_for_eid">Virkja í verslun? Ef fulltrúi biður þig um EID-númerið þitt geturðu %1$s.</string>
+    <string name="back_button_error_msg">Til að koma í veg fyrir villur er ekki hægt að loka þessum skjá á meðan uppsetning er í gangi</string>
+    <string name="body_check_qr_code_or_go_back">Gakktu úr skugga um að þú sért að skanna réttan QR-kóða.</string>
+    <string name="body_device_is_locked">%1$s hefur læst tækinu.</string>
+    <string name="body_device_is_locked_no_name">Tækið er læst.</string>
+    <string name="body_issue_with_sim_profile">Eitthvað fór úrskeiðis varðandi SIM. Hafðu samband við %1$s í síma %2$s til að fá lausn á vandamálinu.</string>
+    <string name="body_issue_with_sim_profile_maximum_attempts">Þú hefur náð hámarksfjölda tilrauna. Hafðu samband við %1$s í síma %2$s til að fá aðstoð við að tengjast.</string>
+    <string name="body_issue_with_sim_profile_maximum_attempts_no_name">Þú hefur náð hámarksfjölda tilrauna. Hafðu samband við símafyrirtækið þitt til að fá aðstoð við að tengjast</string>
+    <string name="body_issue_with_sim_profile_maximum_attempts_no_tel">Þú hefur náð hámarksfjölda tilrauna. Hafðu samband við %1$s til að fá aðstoð við að tengjast.</string>
+    <string name="body_issue_with_sim_profile_no_name">Eitthvað fór úrskeiðis varðandi SIM. Hafðu samband við símafyrirtækið þitt til að fá lausn á vandamálinu.</string>
+    <string name="body_issue_with_sim_profile_no_tel">Eitthvað fór úrskeiðis varðandi SIM. Hafðu samband við %1$s til að fá lausn á vandamálinu.</string>
+    <string name="body_issue_with_sim_profile_used_on_another_device">Þetta SIM er í notkun í öðru tæki. Hafðu samband við %1$s í síma %2$s til að fá lausn á vandamálinu.</string>
+    <string name="body_issue_with_sim_profile_used_on_another_device_no_name">Þetta SIM er í notkun í öðru tæki. Hafðu samband við símafyrirtækið þitt til að fá lausn á vandamálinu.</string>
+    <string name="body_issue_with_sim_profile_used_on_another_device_no_tel">Þetta SIM er í notkun í öðru tæki. Hafðu samband við %1$s til að fá lausn á vandamálinu.</string>
+    <string name="body_make_sure_not_already_downloaded">"Gakktu úr skugga um að valið SIM hafi ekki verið sótt í þetta tæki eða annað tæki.
+
+Hafðu samband við %1$s í síma %2$s til að fá meiri aðstoð"</string>
+    <string name="body_make_sure_not_already_downloaded_no_name">"Gakktu úr skugga um að valið SIM hafi ekki verið sótt í þetta tæki eða annað tæki.
+
+Hafðu samband við símafyrirtækið þitt til að fá meiri aðstoð."</string>
+    <string name="body_make_sure_not_already_downloaded_no_tel">"Gakktu úr skugga um að valið SIM hafi ekki verið sótt í þetta tæki eða annað tæki.
+
+Hafðu samband við %1$s til að fá meiri aðstoð"</string>
+    <string name="body_need_wifi_connection">Þú þarft að vera með WiFi-tengingu til að sækja eSIM.</string>
+    <string name="body_need_wifi_or_mobile_connection">Þú þarft að vera með WiFi- eða farsímatengingu til að sækja eSIM.</string>
+    <string name="body_not_enough_space_to_download">Ekki er nóg pláss til að sækja þetta SIM.</string>
+    <string name="body_sim_has_expired">"eSIM er útrunnið.
+Hafðu samband við %1$s í síma %2$s til að fá nýtt SIM"</string>
+    <string name="body_sim_has_expired_no_name">"eSIM er útrunnið.
+Hafðu samband við símafyrirtækið þitt til að fá nýtt SIM."</string>
+    <string name="body_sim_has_expired_no_tel">"eSIM er útrunnið.
+Hafðu samband við%1$s til að fá nýtt SIM"</string>
+    <string name="body_something_went_wrong">Eitthvað fór úrskeiðis við að virkja númerið þitt.</string>
+    <string name="bottomsheet_action_expand_halfway">Stækka til hálfs</string>
+    <string name="button_text_close">Loka</string>
+    <string name="button_text_settings">Stillingar</string>
+    <string name="cancel_button">Hætta við</string>
+    <string name="cant_get_eid_please_contact_carrier">Eitthvað fór úrskeiðis og EID-númer tækisins fannst ekki. Hafðu samband við símafyrirtækið þitt til að fá aðstoð.</string>
+    <string name="carrier_confirm_subtitle">Þú ættir nú þegar að vera skráð(ur) hjá símafyrirtækinu</string>
+    <string name="carrier_confirm_title">Staðfestu símkerfið þitt</string>
+    <string name="carrier_selection_msg">Veldu símafyrirtækið sem þú ert þegar með reikning hjá og vilt nota í þessum síma</string>
+    <string name="carrier_selection_psim">Nota SIM-kort í staðinn</string>
+    <string name="carrier_selection_title">Staðfestu símafyrirtækið</string>
+    <string name="choose_carrier_title">Veldu símafyrirtæki til að nota</string>
+    <string name="choose_number_activating">Virkjar…</string>
+    <string name="choose_number_could_not_activate">Ekki er hægt að virkja eins og er</string>
+    <string name="choose_number_error_no_space">Til að nota önnur númer eða kerfi þarftu fyrst að losa um pláss með því að eyða fyrirliggjandi númerum úr þessu tæki.</string>
+    <string name="choose_number_error_perm">Til að nota önnur númer eða kerfi skaltu biðja símafyrirtæki um aðstoð.</string>
+    <string name="choose_number_error_temp">Til að nota önnur númer eða kerfi skaltu virkja þau síðar í stillingum</string>
+    <string name="choose_number_item_summary_unknown">Óþekkt númer</string>
+    <string name="choose_number_subtitle">{count,plural, =1{Einu númeri hefur verið bætt við þetta tæki en aðeins er hægt að nota eitt í einu}one{# númeri hefur verið bætt við þetta tæki en aðeins er hægt að nota eitt í einu}other{# númerum hefur verið bætt við þetta tæki en aðeins er hægt að nota eitt í einu}}</string>
+    <string name="choose_number_title">Veldu númerið sem á að nota</string>
+    <string name="choose_second_number_subtitle">Þú getur notað annað númer í þessu tæki ásamt núverandi númeri</string>
+    <string name="choose_second_number_subtitle_with_psim_carrier_name">Þú getur notað annað númer í þessu tæki ásamt %1$s númerinu</string>
+    <string name="choose_second_number_subtitle_with_psim_phone_number">Þú getur notað annað númer í þessu tæki ásamt %1$s</string>
+    <string name="choose_second_number_title">Veldu annað númer</string>
+    <string name="common_google_play_services_enable_button">Kveikja</string>
+    <string name="common_google_play_services_enable_text">%1$s virkar ekki nema þú gerir þjónustu Google Play virka.</string>
+    <string name="common_google_play_services_enable_title">Virkja þjónustu Google Play</string>
+    <string name="common_google_play_services_install_button">Setja upp</string>
+    <string name="common_google_play_services_install_text">%1$s getur ekki keyrt án þjónustu Google Play, sem vantar í tækið þitt.</string>
+    <string name="common_google_play_services_install_title">Sækja þjónustu Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Staða þjónustu Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Villa í þjónustu Google Play</string>
+    <string name="common_google_play_services_unknown_issue">%1$s á í vandræðum með þjónustu Google Play. Reyndu aftur.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s getur ekki keyrt án þjónustu Google Play, sem er ekki studd af tækinu þínu.</string>
+    <string name="common_google_play_services_update_button">Uppfæra</string>
+    <string name="common_google_play_services_update_text">%1$s getur ekki keyrt nema þú uppfærir þjónustu Google Play.</string>
+    <string name="common_google_play_services_update_title">Uppfæra þjónustu Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s getur ekki keyrt án þjónustu Google Play, sem verið er að uppfæra.</string>
+    <string name="common_google_play_services_wear_update_text">Nýja útgáfu af þjónustu Google Play vantar. Hún uppfærir sig sjálf innan skamms.</string>
+    <string name="common_open_on_phone">Opna í símanum</string>
+    <string name="complete_service_setup_text">Þú hefur virkjað þjónustu %1$s</string>
+    <string name="complete_service_setup_title">Uppsetningu %1$s lokið</string>
+    <string name="complete_update_esim_notification_body_text">Ýttu til að ljúka hugbúnaðaruppfærslunni</string>
+    <string name="complete_update_esim_notification_title">Ljúktu við að tengjast farsímakerfinu þínu</string>
+    <string name="confirm_acti_no_space_sub1">Til að nota annað númer þarftu fyrst að losa um pláss með því að eyða fyrirliggjandi númerum úr þessu tæki. Þú getur gert þetta síðar í stillingum.</string>
+    <string name="confirm_acti_no_space_sub1_multi">Til að nota annað númer eða kerfi þarftu fyrst að losa um pláss með því að eyða fyrirliggjandi númerum úr þessu tæki. Þú getur gert þetta síðar í stillingum.</string>
+    <string name="confirm_acti_perm_error_sub1">Til að nota önnur númer skaltu hafa samband við %1$s í síma %2$s til að fá aðstoð. Þú þarft EID-númerið fyrir þetta tæki:</string>
+    <string name="confirm_acti_perm_error_sub1_multi">Til að nota önnur númer eða kerfi skaltu hafa samband við %1$s í síma %2$s til að fá aðstoð. Þú þarft EID-númerið fyrir þetta tæki:</string>
+    <string name="confirm_acti_perm_error_sub1_multi_no_carrier_name">Til að nota önnur númer eða kerfi skaltu hafa samband við símafyrirtækið til að fá aðstoð. Þú þarft EID-númerið fyrir þetta tæki:</string>
+    <string name="confirm_acti_perm_error_sub1_multi_no_phone">Til að nota önnur númer eða kerfi skaltu hafa samband við %1$s til að fá aðstoð. Þú þarft EID-númerið fyrir þetta tæki:</string>
+    <string name="confirm_acti_perm_error_sub1_no_carrier_name">Til að nota önnur númer skaltu hafa samband við símafyrirtækið til að fá aðstoð. Þú þarft EID-númerið fyrir þetta tæki:</string>
+    <string name="confirm_acti_perm_error_sub1_no_eid">Til að nota önnur númer skaltu hafa samband við %1$s í síma %2$s til að fá aðstoð</string>
+    <string name="confirm_acti_perm_error_sub1_no_eid_multi">Til að nota önnur númer eða kerfi skaltu hafa samband við %1$s í síma %2$s til að fá aðstoð</string>
+    <string name="confirm_acti_perm_error_sub1_no_eid_multi_no_phone">Til að nota önnur númer eða kerfi skaltu hafa samband við %1$s til að fá aðstoð</string>
+    <string name="confirm_acti_perm_error_sub1_no_eid_no_carrier_name">Til að nota önnur númer skaltu hafa samband við símafyrirtækið til að fá aðstoð</string>
+    <string name="confirm_acti_perm_error_sub1_no_eid_no_phone">Til að nota önnur númer skaltu hafa samband við %1$s til að fá aðstoð</string>
+    <string name="confirm_acti_perm_error_sub1_no_phone">Til að nota önnur númer skaltu hafa samband við %1$s til að fá aðstoð. Þú þarft EID-númerið fyrir þetta tæki:</string>
+    <string name="confirm_acti_success_sub_title">%1$s ætti að vera tilbúið til notkunar</string>
+    <string name="confirm_acti_success_sub_title_no_phone">Númerið þitt ætti að vera tilbúið til notkunar</string>
+    <string name="confirm_acti_success_sub_title_w_app">Til að ljúka við virkjun %1$s þarftu að sækja %2$s forritið. Nú skulum við einbeita okkur að því að setja upp símann þinn.</string>
+    <string name="confirm_acti_success_sub_title_w_app_no_name">Til að ljúka við virkjun %1$s þarftu að sækja forrit símafyrirtækisins. Nú skulum við einbeita okkur að því að setja upp símann þinn.</string>
+    <string name="confirm_acti_success_sub_title_w_app_no_name_setting">Til að ljúka við virkjun %1$s þarftu að sækja forrit símafyrirtækisins</string>
+    <string name="confirm_acti_success_sub_title_w_app_no_phone">Til að ljúka við virkjun númersins þarftu að sækja %1$s forritið. Nú skulum við einbeita okkur að því að setja upp símann þinn.</string>
+    <string name="confirm_acti_success_sub_title_w_app_no_phone_no_name">Til að ljúka við virkjun númersins þarftu að sækja forrit símafyrirtækisins. Nú skulum við einbeita okkur að því að setja upp símann þinn.</string>
+    <string name="confirm_acti_success_sub_title_w_app_no_phone_no_name_setting">Til að ljúka við virkjun númersins þarftu að sækja forrit símafyrirtækisins</string>
+    <string name="confirm_acti_success_sub_title_w_app_no_phone_setting">Til að ljúka við virkjun númersins þarftu að sækja %1$s forritið</string>
+    <string name="confirm_acti_success_sub_title_w_app_setting">Til að ljúka við virkjun %1$s þarftu að sækja %2$s forritið</string>
+    <string name="confirm_acti_success_title">Tengt við %1$s</string>
+    <string name="confirm_acti_success_title_no_carrier_name">Símafyrirtækið er virkt</string>
+    <string name="confirm_acti_success_title_with_app">Tengjast við %1$s síðar</string>
+    <string name="confirm_acti_success_title_with_app_no_name">Tengjast við símafyrirtækið síðar</string>
+    <string name="confirm_acti_temp_error_sub1">Til að nota önnur númer skaltu virkja þau síðar í stillingum</string>
+    <string name="confirm_acti_temp_error_sub1_multi">Til að nota önnur númer eða kerfi skaltu virkja þau síðar í stillingum</string>
+    <string name="confirm_code_try_again">Rangur kóði. Reyndu aftur.</string>
+    <string name="confirm_transfer_single_carrier_dsds_msg">Þegar %1$s hefur verið flutt mun það ekki lengur virka í gamla tækinu. Þú getur flutt annað númer eftir uppsetningu með því að setja inn SIM-kort.</string>
+    <string name="confirm_transfer_single_carrier_msg">Þegar %1$s hefur verið flutt mun það ekki lengur virka í gamla tækinu</string>
+    <string name="confirm_transfer_single_carrier_title">Viltu flytja %1$s númer?</string>
+    <string name="confirmation_code_body_text">Þú ættir að vera með staðfestingarkóða frá símafyrirtækinu. Sláðu hann inn til að tengjast netinu.</string>
+    <string name="confirmation_code_body_text_with_carrier">Þú ættir að vera með staðfestingarkóða frá %1$s. Sláðu hann inn til að tengjast netinu.</string>
+    <string name="confirmation_code_title">Sláðu inn staðfestingarkóða</string>
+    <string name="confirmation_code_what">Hvað er þetta?</string>
+    <string name="contact_carrier_description">Þú þarft að hafa samband við %1$s í númerinu %2$s til að setja upp SIM-kortið þitt</string>
+    <string name="contact_carrier_description_eid">EID-númer tækisins.</string>
+    <string name="contact_carrier_description_eid_additional">"
+
+Þú þarft hugsanlega"</string>
+    <string name="contact_carrier_title">Hafa samband við %1$s</string>
+    <string name="continue_button">Áfram</string>
+    <string name="copy">Afrita</string>
+    <string name="customer_service_activate_service">Starfsmaður í þjónustudeild getur notað þetta EID-númer til að hjálpa þér að virkja þjónustu:</string>
+    <string name="data_plan_select_subtitle">Þegar símanúmerið hefur verið flutt mun það ekki lengur virka í gamla tækinu</string>
+    <string name="data_plan_select_title">Veldu númer til að flytja</string>
+    <string name="def_notif_activating_title">Verið er að virkja %1$s númerið…</string>
+    <string name="def_notif_activation_fail_subtitle">Ýttu til að sjá upplýsingar</string>
+    <string name="def_notif_activation_fail_title">Ekki var hægt að virkja %1$s númerið</string>
+    <string name="def_notif_activation_success_dsds_subtitle">Veldu stillingar fyrir símtöl, skilaboð og gögn</string>
+    <string name="def_notif_activation_success_dsds_title">Númerin þín ættu að vera tilbúin til notkunar</string>
+    <string name="def_notif_activation_success_title">%1$s númerið þitt var virkjað</string>
+    <string name="default_display_name">SIM</string>
+    <string name="default_profile_nickname_format">%1$s %2$d</string>
+    <string name="deferred_setup_notification_description">Ready to connect to mobile network</string>
+    <string name="deferred_setup_notification_title">Set you your %1$s SIM</string>
+    <string name="detail_contact_carrier_for_more_help">Hafðu samband við símafyrirtækið þitt til að fá meiri aðstoð.</string>
+    <string name="detail_contact_carrier_to_unlock">Hafðu samband við %1$s í síma %2$s til að athuga hvort hægt sé að fjarlægja læsingu tækisins.</string>
+    <string name="detail_contact_carrier_to_unlock_no_name">Hafðu samband við símafyrirtækið þitt til að athuga hvort hægt sé að fjarlægja læsingu tækisins.</string>
+    <string name="detail_contact_carrier_to_unlock_no_tel">Hafðu samband við %1$s til að athuga hvort hægt sé að fjarlægja læsingu tækisins.</string>
+    <string name="detail_delete_a_profile_before_retrying">Til að losa um pláss skaltu opna stillingarnar og eyða SIM. Reyndu svo aftur.</string>
+    <string name="detail_may_need_eid_number">EID: %1$s</string>
+    <string name="detail_provide_info_to_carrier">"Þú getur gefið símafyrirtækinu upp eftirfarandi upplýsingar:
+%1$s
+%2$s"</string>
+    <string name="detail_try_adding_again">Þegar þú tengist skaltu reyna aftur að bæta við farsímakerfi.</string>
+    <string name="disable_carrier_dialog_text">"Þetta tæki verður strax aftengt frá símkerfinu
+
+Þessi aðgerð segir ekki upp neinni áskrift hjá farsímafyrirtæki."</string>
+    <string name="disable_carrier_dialog_text_with_carrier">"Þetta tæki verður strax aftengt frá %1$s.
+
+Þessi aðgerð segir ekki upp neinni áskrift hjá farsímafyrirtæki."</string>
+    <string name="disable_carrier_dialog_title">Viltu gera símafyrirtæki óvirkt?</string>
+    <string name="disable_fail_text">Eitthvað fór úrskeiðis og ekki var hægt að gera símafyrirtæki óvirkt.</string>
+    <string name="disable_fail_title">Ekki hægt að gera símafyrirtæki óvirkt</string>
+    <string name="disable_profile_title">Gera óvirkt</string>
+    <string name="disabled_profiles_title">Símafyrirtæki í boði</string>
+    <string name="disabling_carrier">Gerir símafyrirtæki óvirkt…</string>
+    <string name="done_button">Lokið</string>
+    <string name="download_complete_text">Farðu í stillingarnar til að kveikja á þessu SIM-korti</string>
+    <string name="download_complete_text_with_carrier">Opnaðu „Stillingar“ til að kveikja á %1$s</string>
+    <string name="download_complete_title">eSIM var sótt</string>
+    <string name="download_esim_button">Download eSIM</string>
+    <string name="download_fail_dialog_text">Ekki er hægt að sækja þetta eSIM-kort sökum villu. Prófaðu aftur og ef vandamálið er viðvarandi skaltu hafa samband við %1$s.</string>
+    <string name="download_fail_dialog_text_no_carrier_name">Ekki er hægt að sækja þetta eSIM-kort sökum villu. Prófaðu aftur og ef vandamálið er viðvarandi skaltu hafa samband við símafyrirtækið þitt.</string>
+    <string name="download_fail_dialog_title">Ekki hægt að sækja eSIM</string>
+    <string name="download_sub_multi_carriers_text">{count,plural, =1{Við erum að sækja &lt;b>%2$d númer&lt;/b> hjá %1$s og einu öðru símafyrirtæki. Þetta getur tekið smátíma.}one{Við erum að sækja &lt;b>%2$d númer&lt;/b> hjá %1$s og %3$d öðru símafyrirtæki. Þetta getur tekið smátíma.}other{Við erum að sækja &lt;b>%2$d númer&lt;/b> hjá %1$s og %3$d öðrum símafyrirtækjum. Þetta getur tekið smátíma.}}</string>
+    <string name="download_sub_text">{count,plural, =1{Við erum að sækja númerið þitt hjá %1$s. Þetta getur tekið smátíma.}one{Við erum að sækja &lt;b>%2$d númer&lt;/b> hjá %1$s. Þetta getur tekið smátíma.}other{Við erum að sækja &lt;b>%2$d númer&lt;/b> hjá %1$s. Þetta getur tekið smátíma.}}</string>
+    <string name="download_sub_title">{count,plural, =1{Bætir við númerinu þínu…}one{Bætir við númerunum þínum…}other{Bætir við númerunum þínum…}}</string>
+    <string name="download_sub_transform_title">Athugar þjónustu…</string>
+    <string name="download_switch_confirm_mep_dialog_message">Þetta tæki getur verið með 2 virk SIM-kort í einu. Slökktu á virku SIM-korti til að sækja og nota annað SIM-kort.</string>
+    <string name="download_switch_confirm_mep_dialog_title">Slökkva á SIM-korti til að halda áfram</string>
+    <string name="download_web_sub_text">Þetta ætti ekki að taka meira en örfáar mínútur</string>
+    <string name="download_web_sub_title">Setur upp þjónustu…</string>
+    <string name="downloading_no_carrier_name_title">Sækir eSIM…</string>
+    <string name="downloading_with_carrier_name_title">Sækir eSIM frá %1$s…</string>
+    <string name="dsds_activation_failure_body_msg1">Fjarlægðu SIM-kortið og settu það inn aftur. Ef vandamálið leysist ekki skaltu endurræsa tækið.</string>
+    <string name="dsds_activation_failure_body_msg2">Prófaðu að kveikja aftur á SIM-kortinu. Ef vandamálið leysist ekki skaltu endurræsa tækið.</string>
+    <string name="dsds_activation_failure_title">Ekki er hægt að virkja SIM-kort</string>
+    <string name="dsds_activation_text">Virkjar SIM-kort…</string>
+    <string name="dsds_activation_text_in_esim_activation">Uppfærir…</string>
+    <string name="dsds_choose_number_text">%1$d númer eru tiltæk í þessu tæki en aðeins er hægt að nota eitt í einu</string>
+    <string name="dsds_choose_number_title">Veldu númerið sem á að nota</string>
+    <string name="dsds_choose_second_number_text">Þú getur notað tvö númer í einu í þessu tæki. %1$s er þegar virkt.</string>
+    <string name="dsds_choose_second_number_title">Veldu annað númer</string>
+    <string name="dsds_learn_more_button">Frekari upplýsingar</string>
+    <string name="dsds_notification_after_reboot_text">Ýttu til að uppfæra stillingar SIM-korts</string>
+    <string name="dsds_notification_after_reboot_text_carrier">Ýttu til að uppfæra stillingar %1$s</string>
+    <string name="dsds_notification_after_reboot_title_carrier">%1$s er virkt</string>
+    <string name="dsds_notification_after_reboot_title_phone">%1$s er virkt</string>
+    <string name="dsds_notification_after_suw_text">Veldu virkt SIM-kort eða notaðu tvö SIM-kort í einu</string>
+    <string name="dsds_notification_after_suw_title">Setja upp annað SIM</string>
+    <string name="dsds_switch_dialog_no_switch_text">Til að nota farsímagögn, símtalseiginleika og SMS-skilaboð síðar skaltu fara í símkerfisstillingar</string>
+    <string name="dsds_switch_dialog_no_switch_title">Ekkert virkt SIM-kort í boði</string>
+    <string name="dsds_switch_dialog_progress_text">Skiptir yfir í %1$s…</string>
+    <string name="dsds_switch_dialog_text">%1$s verður notað fyrir farsímagögn, símtöl og SMS-skilaboð.</string>
+    <string name="dsds_switch_dialog_title">Viltu nota %1$s?</string>
+    <string name="eid_not_found">EID-númer tækis fannst ekki</string>
+    <string name="eid_number">Sýna upplýsingar</string>
+    <string name="eid_qr_code_dialog_error_msg">QR-kóði fyrir EID er ekki tiltækur.</string>
+    <string name="eid_qr_code_dialog_title">EID-númer tækis</string>
+    <string name="enable_carrier_dialog_text">"Þetta tæki tengist %1$s í stað %2$s.
+
+Þessi aðgerð segir ekki upp neinni áskrift hjá farsímafyrirtæki."</string>
+    <string name="enable_carrier_dialog_text_from_removable">"Þetta tæki tengist %1$s í stað núverandi SIM-korts.
+
+Þessi aðgerð segir ekki upp neinni áskrift hjá farsímafyrirtæki."</string>
+    <string name="enable_carrier_dialog_text_to_removable">"Þetta tæki tengist SIM-kortinu í tækinu í stað %1$s.
+
+Þessi aðgerð segir ekki upp neinni áskrift hjá farsímafyrirtæki."</string>
+    <string name="enable_carrier_dialog_title">Skipta um símafyrirtæki?</string>
+    <string name="enable_fail_text">Ekki er hægt að skipta um símafyrirtæki sökum villu.</string>
+    <string name="enable_fail_title">Ekki hægt að skipta um símafyrirtæki</string>
+    <string name="enable_profile_title">Kveikja</string>
+    <string name="enabling_carrier">Tengist farsímakerfi…</string>
+    <string name="enter_manually_button">Slá inn handvirkt</string>
+    <string name="enter_qr_code_button_title">Slá kóða inn handvirkt</string>
+    <string name="erase_sim_confirm_button">Hreinsa</string>
+    <string name="erase_sim_dialog_text">"Ef þessu SIM-korti er eytt verður þjónusta %1$s fjarlægð úr þessu tæki.
+
+Þjónustu %1$s verður ekki sagt upp."</string>
+    <string name="erase_sim_dialog_title">Eyða þessu eSIM?</string>
+    <string name="erase_sim_fail_text">"Ekki er hægt að eyða þessu SIM-korti vegna villu.
+
+Endurræstu tækið og reyndu aftur."</string>
+    <string name="erase_sim_fail_title">Ekki er hægt að eyða SIM</string>
+    <string name="erasing_carriers">Endurstillir símafyrirtæki…</string>
+    <string name="erasing_sim">Eyðir SIM-korti…</string>
+    <string name="error_code_text">Villukóði</string>
+    <string name="error_screen_title_multiple_carrier">Net eru ekki virkjuð</string>
+    <string name="error_screen_title_single_carrier">%1$s ekki virkjað</string>
+    <string name="error_screen_title_single_carrier_no_name">Net ekki virkjað</string>
+    <string name="esim_setup_channel_id">Virkjun símkerfis</string>
+    <string name="esim_warning_title">Sæktu eSIM</string>
+    <string name="esim_warning_txt_default">Þetta kemur í stað venjulegra SIM-korta og er alveg jafnöruggt</string>
+    <string name="esim_warning_txt_default_tmo_esim_primary">Tengstu við farsímakerfið þitt með því að hlaða niður upplýsingunum sem yfirleitt má finna á SIM-korti. Þetta kemur í stað venjulegs SIM-korts og er alveg jafnöruggt.</string>
+    <string name="euicc_settings_title">Vélbúnaðarstillingar</string>
+    <string name="euicc_title">SIM stjórnun</string>
+    <string name="expand_button_title">Ítarlegt</string>
+    <string name="find_it_here">fundið það hér</string>
+    <string name="get_default_sub_title">Athugar upplýsingar netkerfis…</string>
+    <string name="get_help_ask_for_eid_v2">Símafyrirtækið þitt biður þig hugsanlega um %1$s, sem auðkennir þennan síma.</string>
+    <string name="get_help_skip_mobile_setup">Sleppa farsímauppsetningu</string>
+    <string name="get_help_text">Sérðu ekki númerið þitt? Hringdu í %1$s til að fá aðstoð í síma %2$s</string>
+    <string name="get_help_text_multiple_carriers_no_phone">Ef eitt af símafyrirtækjunum þínum er með fleiri númer en þú áttir von á skaltu hafa samband við það til að fá aðstoð</string>
+    <string name="get_help_text_no_phone">Sérðu ekki númerið þitt? Hafðu samband við %1$s til að fá aðstoð.</string>
+    <string name="get_help_text_single_carrier">Ef þú bjóst ekki við %3$d númerum skaltu hafa samband við %1$s í síma %2$s til að fá aðstoð</string>
+    <string name="get_help_text_single_carrier_no_phone">Ef þú bjóst ekki við %2$d númerum skaltu hafa samband við %1$s til að fá aðstoð</string>
+    <string name="get_help_text_single_carrier_no_phone_with_eid">Ef þú bjóst ekki við %2$d númerum skaltu hafa samband við %1$s til að fá aðstoð Þú þarft EID-númerið fyrir þetta tæki:</string>
+    <string name="get_help_title">Fá aðstoð við uppsetningu</string>
+    <string name="get_metadata_fail_title">Ekki tókst að hlaða upplýsingum um farsímakerfi</string>
+    <string name="help_add_network_info1_msg1_v2">Áttu í vandræðum með að skanna QR-kóðann? %1$s</string>
+    <string name="help_add_network_info2_msg1">Þú getur einnig tengst kerfinu með því að %1$s</string>
+    <string name="help_add_network_info3">Enn í rugli? Hafðu samband við símafyrirtækið þitt til að fá aðstoð á %1$s</string>
+    <string name="help_add_network_info3_no_phone">Enn í rugli? Hafðu samband við símafyrirtækið þitt til að fá aðstoð</string>
+    <string name="help_add_network_subtitle">QR-kóðinn gæti verið á blaði sem fylgdi með tækinu þínu eða í tölvupósti frá símafyrirtækinu þínu.</string>
+    <string name="help_add_network_title">Hjálp við að bæta við kerfi</string>
+    <string name="insert_psim_button">setja inn venjulegt SIM-kort</string>
+    <string name="insert_text">Settu SIM-kortið í núna ef þú ert með það</string>
+    <string name="insert_title">Tengjast farsímakerfi</string>
+    <string name="install_system_update_dialog_body_text">Þú þarft nýjustu kerfisuppfærsluna fyrir þennan síman til að sækja SIM-kort. Þetta tekur nokkrar mínútur.</string>
+    <string name="install_system_update_dialog_title">Viltu setja upp kerfisuppfærslu?</string>
+    <string name="install_update_button">Setja upp uppfærslu</string>
+    <string name="insufficient_space_description_q">{count,plural, =1{Til að nota númerið þitt þarftu fyrst að losa um pláss með því að eyða fyrirliggjandi númerum úr þessu tæki. Þú getur gert þetta síðar í stillingum.}one{Til að nota númerin þín þarftu fyrst að losa um pláss með því að eyða fyrirliggjandi númerum úr þessu tæki. Þú getur gert þetta síðar í stillingum.}other{Til að nota númerin þín þarftu fyrst að losa um pláss með því að eyða fyrirliggjandi númerum úr þessu tæki. Þú getur gert þetta síðar í stillingum.}}</string>
+    <string name="legal_notices">%1$s, %2$s og %3$s</string>
+    <string name="low_battery_alert_body_text">Stingdu símanum í samand við rafmagn til að koma í veg fyrir truflun á uppfærslunni.</string>
+    <string name="low_battery_alert_title">Rafhlaða símans er að tæmast</string>
+    <string name="manually_add_msg1_v2">Ef þú ert með QR-kóða skaltu %1$s. Ef starfsmaður í verslun biður um EID-númerið þitt geturðu %2$s.</string>
+    <string name="mobile_network_connection_alert_description">Ef þú sleppir þessu skrefi tengistu ekki farsímakerfi. Þú getur tengst síðar með því að bæta við SIM í stillingunum.</string>
+    <string name="mobile_network_connection_alert_title">Sleppa uppsetningu farsímakerfis?</string>
+    <string name="msg_choose_download_type">Veldu leið til að virkja númerið þitt í þessu tæki á öruggan hátt</string>
+    <string name="msg_install_app_notification">Ýttu til að halda áfram</string>
+    <string name="msg_portal_intro">Þú þarft að skrá þig inn með %1$s notandanafni og aðgangsorði</string>
+    <string name="msg_sign_in_button">Skráðu þig inn á %1$s</string>
+    <string name="msg_transfer_type_portal">Þú þarft að hafa notandanafnið þitt og lykilorð</string>
+    <string name="msg_transfer_type_qr">%1$s kann að hafa sent þér kóða</string>
+    <string name="mtrl_checkbox_state_description_checked">Checked</string>
+    <string name="mtrl_checkbox_state_description_indeterminate">Partially checked</string>
+    <string name="mtrl_checkbox_state_description_unchecked">Not checked</string>
+    <string name="multiple_carrier_download_number_count">{count,plural, =1{1 númer}one{# númer}other{# númer}}</string>
+    <string name="next_button">Áfram</string>
+    <string name="no_licenses_found_error">Leyfi finnast ekki vegna villu.</string>
+    <string name="no_qr_code_info_insert_btn">Setja inn SIM-kort í staðinn</string>
+    <string name="no_qr_code_info_text">QR-kóðinn gæti verið á blaði sem fylgdi með tækinu þínu eða í tölvupósti frá símafyrirtækinu þínu. Bættu við símafyrirtæki síðar ef þú ert ekki með QR-kóða.</string>
+    <string name="no_qr_code_scan_button">Skanna QR-kóða</string>
+    <string name="no_qr_code_title">Uppsetningarmöguleikar</string>
+    <string name="no_thanks_button">Nei, takk</string>
+    <string name="no_wifi_dialog_message">Þú þarf að sækja SIM-kort</string>
+    <string name="no_wifi_dialog_title">Tengjast Wi-Fi</string>
+    <string name="not_set">Ekki stillt</string>
+    <string name="notification_carrier_unknown">{count,plural, =1{Nú geturðu bætt við 1 aukanúmeri}one{Nú geturðu bætt við # aukanúmeri}other{Nú geturðu bætt við # aukanúmerum}}</string>
+    <string name="notification_channel_ota_update">Uppfærslur símafyrirtækis</string>
+    <string name="notification_multiple_carrier_name_known">{count,plural, =1{Nú geturðu bætt við númerinu hjá %1$s og %2$d símafyrirtæki í viðbót}one{Nú geturðu bætt við númerunum hjá %1$s og %2$d símafyrirtæki í viðbót}other{Nú geturðu bætt við númerunum hjá %1$s og %2$d símafyrirtækjum í viðbót}}</string>
+    <string name="notification_single_carrier_name_known">{count,plural, =1{Nú geturðu bætt við númerinu hjá %1$s}one{Nú geturðu bætt við númerunum hjá %1$s}other{Nú geturðu bætt við númerunum hjá %1$s}}</string>
+    <string name="notification_tap_setup">Ýttu til að setja upp</string>
+    <string name="open_source_licenses">Leyfi opins kóða</string>
+    <string name="operation_code_text">Aðgerðarkóði</string>
+    <string name="os_version">Útgáfa stýrikerfis</string>
+    <string name="ota_error_notification_msg">Farsímaþjónusta heldur áfram eftir endurræsingu.</string>
+    <string name="ota_error_notification_title">Uppfærsla símafyrirtækis mistókst</string>
+    <string name="ota_notification_msg">Farsímaþjónusta heldur áfram eftir uppfærslu</string>
+    <string name="ota_notification_title">Lýkur við uppfærslu símafyrirtækis…</string>
+    <string name="perm_error_description_q">{count,plural, =1{Eitthvað fór úrskeiðis við að virkja númerið þitt. Hringdu í %1$s til að fá aðstoð í síma %2$s.}one{Eitthvað fór úrskeiðis við að virkja númerin þín. Hringdu í %1$s til að fá aðstoð í síma %2$s.}other{Eitthvað fór úrskeiðis við að virkja númerin þín. Hringdu í %1$s til að fá aðstoð í síma %2$s.}}</string>
+    <string name="perm_error_description_q_multi_carrier">Eitthvað fór úrskeiðis við að virkja númerin þín. Hafðu samband við símafyrirtækin til að fá aðstoð.</string>
+    <string name="perm_error_description_q_no_phone">{count,plural, =1{Eitthvað fór úrskeiðis við að virkja númerið þitt. Hafðu samband við %1$s til að fá aðstoð.}one{Eitthvað fór úrskeiðis við að virkja númerin þín. Hafðu samband við %1$s til að fá aðstoð.}other{Eitthvað fór úrskeiðis við að virkja númerin þín. Hafðu samband við %1$s til að fá aðstoð.}}</string>
+    <string name="perm_error_description_q_no_phone_no_carrier_name">{count,plural, =1{Eitthvað fór úrskeiðis við að virkja númerið þitt. Hafðu samband við símafyrirtækið til að fá aðstoð.}one{Eitthvað fór úrskeiðis við að virkja númerin þín. Hafðu samband við símafyrirtækin til að fá aðstoð.}other{Eitthvað fór úrskeiðis við að virkja númerin þín. Hafðu samband við símafyrirtækin til að fá aðstoð.}}</string>
+    <string name="perm_error_q_sub2_eid">Þú gætir þurft að hafa %1$s fyrir þetta tæki</string>
+    <string name="pixel_support_page_button">hjálparsíðu Pixel</string>
+    <string name="pre_activation_ota_update_complete_subtitle">Hugbúnaðurinn var uppfærður. Nú getur þú haldið áfram að sækja SIM-kortið.</string>
+    <string name="pre_activation_ota_update_complete_title">Uppfærslu lokið</string>
+    <string name="pre_activation_ota_update_error_msg1">Síminn getur ekki sótt SIM-kort.</string>
+    <string name="pre_activation_ota_update_error_msg2_v2">"Þú getur notað SIM-kort í staðinn eða fengið aðstoð á
+%1$s."</string>
+    <string name="pre_activation_ota_update_error_title">Uppfærslu ekki lokið</string>
+    <string name="pre_activation_ota_update_subtitle">%1$d%% lokið. Haltu þig á þessum skjá á meðan uppfærslan fer fram.</string>
+    <string name="pre_activation_ota_update_title">Uppfærir…</string>
+    <string name="pre_activation_ota_user_consent_msg1">Þú þarft nýjustu SIM stjórnun til að geta sótt SIM-kort. Þetta tekur 4–5 mínútur.</string>
+    <string name="pre_activation_ota_user_consent_msg2">Ekki fara af þessum skjá til að koma í veg fyrir truflun á uppfærslunni. Eingöngu er hægt að hringja neyðarsímtöl á meðan uppfærslan fer fram.</string>
+    <string name="pre_activation_ota_user_consent_title">Viltu uppfæra SIM-hugbúnaðinn?</string>
+    <string name="preference_copied">„%1$s“ afritað á klippiborðið.</string>
+    <string name="privacy_policy">Persónuverndarstefna</string>
+    <string name="privacy_warning_message">Með því að halda áfram leyfir þú %1$s að staðfesta upplýsingar sem auðkenna þetta tæki á netinu.</string>
+    <string name="privileged_action_disable_sub_dialog_progress">Slekkur á SIM…</string>
+    <string name="privileged_action_disable_sub_dialog_text">Ef slökkt er á %1$s verður %2$s virkt símafyrirtæki þitt.</string>
+    <string name="privileged_action_disable_sub_dialog_title">Viltu slökkva á %1$s?</string>
+    <string name="privileged_action_enable_sub_dialog_title">Viltu kveikja á %1$s?</string>
+    <string name="privileged_action_switch_psim_dialog_title">Viltu skipta yfir í að nota SIM-kort?</string>
+    <string name="privileged_action_switch_sub_dialog_confirm">Skipta yfir í %1$s</string>
+    <string name="privileged_action_switch_sub_dialog_progress">Skiptir yfir í %1$s</string>
+    <string name="privileged_action_switch_sub_dialog_text">"Aðeins eitt SIM-kort getur verið virkt í einu.
+
+Þótt þú skiptir yfir í %1$s verður þjónustu þinni hjá %2$s ekki sagt upp."</string>
+    <string name="privileged_action_switch_sub_dialog_text_downloaded">"Aðeins er hægt að vera með 1 eSIM virkt í einu.
+
+Þótt þú skiptir yfir í %1$s verður þjónustunni þinni hjá %2$s ekki sagt upp."</string>
+    <string name="privileged_action_switch_sub_dialog_text_no_to">"Aðeins eitt SIM-kort getur verið virkt í einu.
+
+Þótt þú skiptir yfir verður þjónustu þinni hjá %1$s ekki sagt upp."</string>
+    <string name="privileged_action_switch_sub_dialog_title">Skipta yfir í %1$s?</string>
+    <string name="privileged_action_turn_on_sub_dialog_progress">Kveikir á %1$s</string>
+    <string name="profile_disabled">Slökkt</string>
+    <string name="profile_disabled_confirmation_body_text">Sláðu inn PIN-númer til að virkja eSIM</string>
+    <string name="profile_disabled_confirmation_title">eSIM óvirkt</string>
+    <string name="profile_enabled">Virkt</string>
+    <string name="profile_enabled_with_phone_number">Virkt, %1$s</string>
+    <string name="profile_list_action_bar_title">Símafyrirtæki</string>
+    <string name="profile_transfer_activation_fail_available_phone_number_description">"Eitthvað fór úrskeiðis. %1$s SIM-kortið þitt var flutt í þetta tæki en er ekki tilbúið til notkunar. 
+
+ Hafðu samband við %2$s í síma %3$s. til að fá aðstoð
+
+Þú gætir þurft EID-númer þessa tækis:
+
+%4$s"</string>
+    <string name="profile_transfer_activation_fail_available_phone_number_title">Ekki er hægt að virkja númer</string>
+    <string name="profile_transfer_activation_fail_unavailable_phone_number_description">"Eitthvað fór úrskeiðis. %1$s-númerið þitt, %2$s, var flutt í þetta tæki en er ekki tengt við netið. 
+
+ Hafðu samband við %3$s í síma %4$s. til að fá aðstoð
+
+Þú gætir þurft EID-númer þessa tækis:
+
+%5$s"</string>
+    <string name="profile_transfer_activation_fail_unavailable_phone_number_title">Ekki er hægt að virkja farsímakerfi</string>
+    <string name="profile_transfer_connecting_description">Tengist…</string>
+    <string name="profile_transfer_downloading_deferred_notification_content">Tengist við %1$s-þjón…</string>
+    <string name="profile_transfer_downloading_deferred_notification_title">Sækir %1$s</string>
+    <string name="profile_transfer_error_deferred_notification_title">Ekki tókst að flytja %1$s</string>
+    <string name="profile_transfer_error_title">Ekki tókst að flytja SIM-kort fyrir %1$s</string>
+    <string name="profile_transfer_non_recoverable_error_deferred_notification_action">Nánari upplýsingar</string>
+    <string name="profile_transfer_non_recoverable_error_deferred_notification_content">Eitthvað fór úrskeiðis þegar reynt var að flytja SIM-kortið þitt. Hafðu samband við %1$s í síma %2$s til að fá aðstoð.</string>
+    <string name="profile_transfer_non_recoverable_error_description">"Eitthvað fór úrskeiðis þegar reynt var að flytja SIM-kortið þitt. Hafðu samband við %1$s í síma %2$s til að fá aðstoð
+
+Þú gætir þurft EID-númer fyrir þetta tæki:
+
+%3$s"</string>
+    <string name="profile_transfer_recoverable_error_deferred_notification_content">Eitthvað fór úrskeiðis þegar reynt var að flytja SIM-kortið þitt. Þú getur reynt aftur til að leysa vandamálið</string>
+    <string name="profile_transfer_recoverable_error_description">Eitthvað fór úrskeiðis þegar reynt var að flytja SIM-kortið þitt.</string>
+    <string name="profile_transfer_retry_button">Reyna aftur</string>
+    <string name="profile_transfer_success_deferred_notification_content">%1$s ætti að vera tilbúið til notkunar</string>
+    <string name="profile_transfer_success_deferred_notification_title">Flutningur SIM-korts tókst</string>
+    <string name="profile_transfer_suw_recoverable_error_description">Eitthvað fór úrskeiðis þegar reynt var að flytja SIM-kortið þitt. Þú getur reynt aftur til að leysa vandamálið.</string>
+    <string name="psim_guide_dialog_message">Þú finnur SIM-kortabakkann á brún símans. Notaðu verkfærið til að taka SIM-kort úr eða bréfaklemmu til að opna kortabakkann og setja SIM-kort í.</string>
+    <string name="psim_guide_dialog_title">Settu SIM-kort í</string>
+    <string name="q_download_sub_text">Þetta gæti tekið nokkrar mínútur</string>
+    <string name="q_download_sub_title">Tengist %1$s…</string>
+    <string name="q_multiple_carrier_confirm_title">Veldu netkerfi til að virkja</string>
+    <string name="q_multiple_carrier_metadata_confirm_subtitle">{count,plural, =1{1 númer er í boði fyrir þetta tæki. Símafyrirtækið þitt byrjar hugsanlega að rukka fyrir þjónustuna þegar þú virkjar númerið.}one{# númer er í boði fyrir þetta tæki. Símafyrirtækið þitt byrjar hugsanlega að rukka fyrir þjónustuna þegar þú virkjar númerið.}other{# númer eru í boði fyrir þetta tæki. Símafyrirtækið þitt byrjar hugsanlega að rukka fyrir þjónustuna þegar þú virkjar númerið.}}</string>
+    <string name="q_result_download_metadata_text">{count,plural, =1{1 númer frá %1$s er í boði fyrir þetta tæki. %1$s mun hugsanlega byrja að rukka fyrir þjónustuna þegar þú tengist.}one{# númer frá %1$s er í boði fyrir þetta tæki. %1$s mun hugsanlega byrja að rukka fyrir þjónustuna þegar þú tengist.}other{# númer frá %1$s eru í boði fyrir þetta tæki. %1$s mun hugsanlega byrja að rukka fyrir þjónustuna þegar þú tengist.}}</string>
+    <string name="qr_scanner_end_button">Finnurðu þetta ekki?</string>
+    <string name="qr_scanner_failed_msg">Eitthvað fór úrskeiðis með myndavélina. Reyndu aftur síðar.</string>
+    <string name="qr_scanner_failed_title">Ekki er hægt að nota myndavélina</string>
+    <string name="qr_scanner_msg">Ef símafyrirtækið þitt lét þig fá QR-kóða skaltu skanna hann núna með því að hafa kóðann í miðju rammans</string>
+    <string name="qr_scanner_msg_q">Ef %1$s lét þig fá QR-kóða skaltu skanna hann núna með því að hafa kóðann í miðju rammans</string>
+    <string name="qr_scanner_msg_q_no_carrier_name">Ef símafyrirtækið þitt lét þig fá QR-kóða skaltu skanna hann núna fyrir miðju rammans</string>
+    <string name="qr_scanner_title">Bæta við símafyrirtæki með QR-kóða</string>
+    <string name="qr_scanner_title_q">Skannaðu QR-kóða frá %1$s</string>
+    <string name="qr_scanner_title_q_no_carrier_name">Skannaðu QR-kóða frá símafyrirtækinu</string>
+    <string name="reactivate_error_dialog_body">Eitthvað fór úrskeiðis við að virkja númerið þitt. Reyndu aftur eða settu SIM-kortið aftur í.</string>
+    <string name="reactivate_error_dialog_title_with_carrier_name">%1$s ekki virkjað</string>
+    <string name="reactivate_error_dialog_title_without_carrier_name">SIM ekki virkjað</string>
+    <string name="reason_code_text">Ástæðukóði</string>
+    <string name="reboot_button_title">Endurræsa síma</string>
+    <string name="remove_carrier_dialog_text_disabled">"Þetta tæki mun ekki lengur geta tengst við %1$s.
+
+Þessi aðgerð segir ekki upp neinni áskrift hjá farsímafyrirtæki."</string>
+    <string name="remove_carrier_dialog_text_enabled">"Þetta tæki verður strax aftengt frá %1$s.
+
+Þessi aðgerð segir ekki upp neinni áskrift hjá farsímafyrirtæki."</string>
+    <string name="remove_carrier_dialog_title">Eyða símafyrirtæki?</string>
+    <string name="remove_fail_text">Eitthvað fór úrskeiðis og ekki var hægt að eyða símafyrirtækinu.</string>
+    <string name="remove_fail_title">Ekki er hægt að eyða símafyrirtæki</string>
+    <string name="remove_profile_title">Eyða</string>
+    <string name="removing_carrier">Eyðir símafyrirtæki…</string>
+    <string name="res_activate_profile_later_button">Virkja seinna</string>
+    <string name="res_activation_button">Tengja</string>
+    <string name="res_continue_info1_general_multi_carriers">{count,plural, =1{Við gátum því miður ekki bætt við númerum þínum hjá %1$s og %2$d símafyrirtæki í viðbót.}one{Við gátum því miður ekki bætt við númerum þínum hjá %1$s og %2$d símafyrirtæki í viðbót.}other{Við gátum því miður ekki bætt við númerum þínum hjá %1$s og %2$d símafyrirtækjum í viðbót.}}</string>
+    <string name="res_continue_info1_general_no_carrier">{count,plural, =1{Við gátum því miður ekki bætt við &lt;b>1 númeri&lt;/b> hjá símafyrirtækinu þínu.}one{Við gátum því miður ekki bætt við númerum hjá neinu símafyrirtæki.}other{Við gátum því miður ekki bætt við númerum hjá neinu símafyrirtæki.}}</string>
+    <string name="res_continue_info1_general_single_carrier">{count,plural, =1{Við gátum því miður ekki bætt við &lt;b>%2$d númeri&lt;/b> hjá %1$s.}one{Við gátum því miður ekki bætt við &lt;b>%2$d númeri&lt;/b> hjá %1$s.}other{Við gátum því miður ekki bætt við &lt;b>%2$d númerum&lt;/b> hjá %1$s.}}</string>
+    <string name="res_continue_info1_no_mem_multi_carriers">{count,plural, =1{Ekki var nóg pláss til að bæta við númerum hjá %1$s og %2$d símafyrirtæki í viðbót.}one{Ekki var nóg pláss til að bæta við númerum hjá %1$s og %2$d símafyrirtæki í viðbót.}other{Ekki var nóg pláss til að bæta við númerum hjá %1$s og %2$d símafyrirtækjum í viðbót.}}</string>
+    <string name="res_continue_info1_no_mem_no_carrier">{count,plural, =1{Ekki var nóg pláss til að bæta við &lt;b>1 númeri&lt;/b>.}one{Ekki var nóg pláss til að bæta við númerum hjá neinu símafyrirtæki.}other{Ekki var nóg pláss til að bæta við númerum hjá neinu símafyrirtæki.}}</string>
+    <string name="res_continue_info1_no_mem_single_carrier">{count,plural, =1{Ekki var nóg pláss til að bæta við &lt;b>%2$d númeri&lt;/b> hjá %1$s.}one{Ekki var nóg pláss til að bæta við &lt;b>%2$d númeri&lt;/b> hjá %1$s.}other{Ekki var nóg pláss til að bæta við &lt;b>%2$d númerum&lt;/b> hjá %1$s.}}</string>
+    <string name="res_continue_info_item_2">Ef þú nærð ekki sambandi skaltu leita aðstoðar hjá %1$s</string>
+    <string name="res_continue_info_item_2_no_carrier_name">Ef ekkert samband er til staðar skaltu hafa samband við símafyrirtækið þitt til að fá aðstoð</string>
+    <string name="res_continue_text_partial_complete_multiple_carriers">{count,plural, =1{Þú hefur bætt við &lt;b>%1$d númerum&lt;/b> hjá %2$s og %3$s}=2{Þú hefur bætt við &lt;b>%1$d númerum&lt;/b> hjá %2$s, %3$s og %4$d öðrum símafyrirtækjum}one{Þú hefur bætt við &lt;b>%1$d númerum&lt;/b> hjá %2$s, %3$s og %4$d öðru símafyrirtæki}other{Þú hefur bætt við &lt;b>%1$d númerum&lt;/b> hjá %2$s, %3$s og %4$d öðrum símafyrirtækjum}}</string>
+    <string name="res_continue_text_partial_complete_single_carrier">{count,plural, =1{Þú hefur bætt við &lt;b>%1$d númeri&lt;/b> hjá %2$s}one{Þú hefur bætt við &lt;b>%1$d númeri&lt;/b> hjá %2$s}other{Þú hefur bætt við &lt;b>%1$d númerum&lt;/b> hjá %2$s}}</string>
+    <string name="res_continue_title_all_success">{count,plural, =1{Símanúmeri bætt við}one{# númeri bætt við}other{# númerum bætt við}}</string>
+    <string name="res_continue_title_partial_success">%1$d af %2$d númerum bætt við</string>
+    <string name="res_download_button">Sækja</string>
+    <string name="res_enter_pin_button">Slá inn PIN-númer</string>
+    <string name="res_need_help_button">Þarftu aðstoð?</string>
+    <string name="res_start_button">Byrja</string>
+    <string name="reset_button">Endurstilla</string>
+    <string name="reset_dialog_carriers_body">Eyða öllum símafyrirtækjum úr tækinu þínu? Ekki er hægt að afturkalla þessa aðgerð.</string>
+    <string name="reset_dialog_carriers_title">Endurstilla símafyrirtæki?</string>
+    <string name="reset_fail_text">Eitthvað fór úrskeiðis og ekki var hægt að endurstilla símafyrirtæki.</string>
+    <string name="reset_fail_title">Ekki hægt að endurstilla símafyrirtæki</string>
+    <string name="reset_screen_text_bottom">Þetta segir ekki upp neinni áskrift hjá símafyrirtæki.</string>
+    <string name="reset_screen_text_top">Þetta fjarlægir öll símafyrirtæki úr tækinu:</string>
+    <string name="reset_screen_title">Endurstilla símafyrirtæki</string>
+    <string name="result_connect_title">Viltu tengjast %1$s?</string>
+    <string name="result_download_metadata_text">{count,plural, =1{1 Númer hjá %1$s er í boði fyrir þetta tæki.}one{# Númer hjá %1$s er í boði fyrir þetta tæki.}other{# Númer hjá %1$s eru í boði fyrir þetta tæki.}}</string>
+    <string name="result_download_text">{count,plural, =1{Nú er hægt að bæta númerinu þínu hjá %1$s við símann}one{Nú er hægt að bæta &lt;b>%2$d&lt;/b> númeri hjá %1$s við símann}other{Nú er hægt að bæta &lt;b>%2$d&lt;/b> númerum hjá %1$s við símann}}</string>
+    <string name="result_download_title">Viltu sækja eSIM frá %1$s?</string>
+    <string name="scan_it_now">skanna hann núna</string>
+    <string name="send_feedback">Senda ábendingu</string>
+    <string name="set_up_button">Set up</string>
+    <string name="settings_gear_label">Stillingar</string>
+    <string name="sim_action_switch_sub_dialog_carrier_list_item_for_turning_off">Slökkva á %1$s</string>
+    <string name="sim_action_switch_sub_dialog_info_outline_for_turning_off">Þjónustunni verður ekki sagt upp þótt slökkt sé á SIM-korti</string>
+    <string name="sim_card_label">SIM-kort</string>
+    <string name="sim_illustration_bottom_alt_text">Snúðu skjánum að þér og finndu hleðslutengið. SIM-kortsraufin er vinstra megin við hleðslutengið, neðan á símanum. Raufin er slétt með litlum hökum á báðum hliðum. Vinstra megin á raufinni er lítið gat. Stingdu endanum á bréfaklemmu eða verkfæri til að opna SIM-kortsrauf inn í gatið til að opna raufina. Til að setja SIM-kortið í skaltu láta hakið á því passa inn í raufina. SIM-kortið passar aðeins á einn hátt.</string>
+    <string name="sim_illustration_bottom_left_alt_text">Snúðu skjánum að þér og finndu hleðslutengið. Strjúktu fingrinum upp eftir vinstri hlið símans. SIM-kortsraufin er slétt með litlum hökum á báðum hliðum. Ofarlega á raufinni er lítið gat. Stingdu endanum á bréfaklemmu eða verkfæri til að opna SIM-kortsrauf inn í gatið til að opna raufina. Til að setja SIM-kortið í skaltu láta hakið á því passa inn í raufina. SIM-kortið passar aðeins á einn hátt.</string>
+    <string name="sim_illustration_top_left_alt_text">Snúðu skjánum að þér og finndu hleðslutengið. Strjúktu fingrinum upp eftir vinstri hlið símans. SIM-kortsraufin er slétt með litlum hökum á báðum hliðum. Ofarlega á raufinni er lítið gat. Stingdu endanum á bréfaklemmu eða verkfæri til að opna SIM-kortsrauf inn í gatið til að opna raufina. Til að setja SIM-kortið í skaltu láta hakið á því passa inn í raufina. SIM-kortið passar aðeins á einn hátt.</string>
+    <string name="sim_locked_text">"Þessi sími er læstur fyrir annað símafyrirtæki. Þú þarft að nota gilt SIM-kort.
+
+Eftir að þú setur SIM-kortið í gætu nokkrar sekúndur liðið áður en það verður virkt."</string>
+    <string name="sim_locked_title">SIM er ekki stutt</string>
+    <string name="sim_missing_activity_esim_button_title">Sækja nýtt eSIM</string>
+    <string name="sim_missing_activity_esim_transfer_button_title">Flytja SIM-kort úr gömlum síma</string>
+    <string name="sim_missing_activity_psim_hint">Kynntu þér hvernig þú notar SIM-kort</string>
+    <string name="sim_missing_activity_subtitle_no_psim">Sæktu eSIM eða settu SIM-kortið í núna.</string>
+    <string name="sim_missing_activity_subtitle_psim_exists">"Til að bæta öðru SIM-korti við skaltu sækja nýtt eSIM.
+
+Til að nota annað SIM-kort þarftu fyrst að fjarlægja núverandi SIM-kort símans"</string>
+    <string name="sim_missing_activity_subtitle_tmo_esim_primary">Þú getur sótt SIM eða sett SIM-kortið í núna</string>
+    <string name="sim_missing_activity_subtitle_with_psim">Til að nota nýtt SIM-kort skaltu fjarlægja það sem er í tækinu núna.</string>
+    <string name="sim_missing_activity_with_tmo_esim_primary_button_title">Sækja SIM-kort</string>
+    <string name="sim_ready_message">Númer hefur áður verið sett upp í símanum</string>
+    <string name="sim_ready_message_carrier_app">Til að ljúka við virkjun %1$s þarftu að sækja %2$s-forritið en byrjum á því að ljúka uppsetningu símans.</string>
+    <string name="sim_ready_message_invalid_phone_number_carrier_app">Til að ljúka við að virkja númerið þitt þarftu að sækja %1$s-forritið en byrjum á því að ljúka uppsetningu símans.</string>
+    <string name="sim_ready_title">eSIM fannst</string>
+    <string name="sim_ready_title_carrier_app">Tengjast %1$s síðar</string>
+    <string name="skip_button">Sleppa</string>
+    <string name="status_title">Staða</string>
+    <string name="subject_code_text">Efniskóði</string>
+    <string name="sud_back_button_label">Til baka</string>
+    <string name="sud_more_button_label">Meira</string>
+    <string name="sud_next_button_label">Áfram</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="suw_carrier_support_to_complete_activation_no_carrier_v2">Til að virkja þjónustu skaltu hafa samband við símafyrirtækið þitt til að fá aðstoð.</string>
+    <string name="suw_default_failed_msg_no_carrier">Því miður fór eitthvað úrskeiðis og engu símanúmeri var bætt við</string>
+    <string name="suw_failed_title">Uppsetningu er ekki lokið</string>
+    <string name="suw_pii_sent_msg">Tilteknar upplýsingar um tæki sem eru nauðsynlegar fyrir uppsetningu verða sendar til Google, símafyrirtækisins og samstarfsaðila þeirra.</string>
+    <string name="suw_setting_up_phone_info">Innan við mínúta eftir</string>
+    <string name="suw_setting_up_phone_title">Setur símann upp…</string>
+    <string name="suw_sim_missing_activity_for_delayed_setup_decription">"When you're done setting up your phone, go to Settings to connect to your mobile network. Or, if you have a SIM card, insert it now."</string>
+    <string name="suw_sim_missing_activity_for_delayed_setup_title">Connect to mobile network after setup</string>
+    <string name="switch_button">Skipta</string>
+    <string name="switch_confirm_mep_dialog_message">Þetta tæki getur verið með 2 virk SIM-kort í einu.</string>
+    <string name="switch_confirm_mep_dialog_title">Slökkva á SIM-korti til að nota %1$s</string>
+    <string name="switch_confirm_message">%1$s verður tímabundið aftengt</string>
+    <string name="switch_confirm_message_no_carrier">Farsímakerfið þitt verður tímabundið aftengt</string>
+    <string name="switch_confirm_new_title">Sækja SIM-kort með Wi-Fi</string>
+    <string name="switch_confirm_no_active_profile_message">Leyfðu símafyrirtækinu þínu að hlaða niður SIM-korti</string>
+    <string name="switch_confirm_no_active_profile_title">SIM-kortinu verður hlaðið niður fljótlega</string>
+    <string name="switch_confirm_no_wifi_message">Þetta gerir þér kleift að nota annað kerfi</string>
+    <string name="switch_confirm_no_wifi_title">Viltu aftengjast frá %1$s?</string>
+    <string name="switch_confirm_no_wifi_title_no_carrier">Viltu aftengjast frá farsímakerfinu þínu?</string>
+    <string name="switch_restriction_message_to_connect_to">Til að tengjast %2$s í stað %1$s skaltu fjarlægja SIM-kortið frá %1$s og reyna svo aftur.</string>
+    <string name="switch_restriction_message_to_switch_from">Til að skipta úr %1$s skaltu fjarlægja SIM-kortið frá %1$s og reyna svo aftur.</string>
+    <string name="switch_restriction_title_remove_sim">Fjarlægja SIM</string>
+    <string name="sys_notification_5g_enable_dsds_text">"Þetta tæki getur verið með tvö SIM-kort virk í einu.
+
+Þegar tvö SIM-kort eru notuð takmarkast símiinn við notkun á 4G. %1$s"</string>
+    <string name="sys_notification_after_dsds_reboot_text">Ýttu til að ljúka við gera hitt SIM-kortið virkt</string>
+    <string name="sys_notification_after_dsds_reboot_title">Nú er hægt að nota tvö SIM-kort í einu</string>
+    <string name="sys_notification_enable_dsds_text">Þetta tæki getur verið með tvö SIM-kort virk í einu. Ýttu á „Nei takk“ til að halda áfram að nota eitt SIM-kort í einu.</string>
+    <string name="sys_notification_enable_dsds_title">Viltu nota tvö SIM-kort?</string>
+    <string name="sys_notification_no_thanks">Nei, takk</string>
+    <string name="sys_notification_reboot">Endurræsa</string>
+    <string name="sys_notification_restart_text">Endurræstu tækið til að hefjast handa. Eftir það geturðu bætt öðru SIM-korti við.</string>
+    <string name="sys_notification_restart_title">Endurræsa tæki?</string>
+    <string name="sys_notification_selected_text">Skipt var um farsímakerfi</string>
+    <string name="sys_notification_switched_title">Skipt yfir til %1$s</string>
+    <string name="sys_notification_switched_title_no_carrier_name">Skipt yfir til annars símafyrirtækis</string>
+    <string name="sys_notification_title">Skipt um símafyrirtæki</string>
+    <string name="temp_error_description_q">{count,plural, =1{Eitthvað fór úrskeiðis við að virkja númerið þitt. Þú getur prófað aftur síðar í stillingum.}one{Eitthvað fór úrskeiðis við að virkja númerin þín. Þú getur prófað aftur síðar í stillingum.}other{Eitthvað fór úrskeiðis við að virkja númerin þín. Þú getur prófað aftur síðar í stillingum.}}</string>
+    <string name="terms_of_service">Þjónustuskilmálar</string>
+    <string name="text_bottom_transfer_carrier_info">Finnurðu ekki símafyrirtækið þitt? Hafðu samband við símafyrirtækið til að fá aðstoð.</string>
+    <string name="title_app_required">Tengjast við %1$s síðar</string>
+    <string name="title_cannot_connect_to_network_no_name">Gat ekki tengst netkerfi</string>
+    <string name="title_cannot_download">Ekki tekst að sækja SIM</string>
+    <string name="title_choose_download_type">Virkja %1$s númerið þitt</string>
+    <string name="title_choose_transfer_type">Veldu leið til að flytja %1$s númerið þitt</string>
+    <string name="title_incorrect_qr_code">Rangur QR-kóði</string>
+    <string name="title_install_app_notification">Fáðu %1$s forritið til að setja upp númerið þitt</string>
+    <string name="title_network_not_activated">Net ekki virkjað</string>
+    <string name="title_no_connection">Ekki næst samband við netið</string>
+    <string name="title_portal_intro">Flytja %1$s númerið þitt</string>
+    <string name="title_profile_already_downloaded">SIM hefur þegar verið sótt</string>
+    <string name="title_transfer_type_portal">Skráðu þig inn á %1$s reikninginn þinn</string>
+    <string name="title_transfer_type_qr">Skanna QR-kóða</string>
+    <string name="transfer_button">Flytja</string>
+    <string name="transfer_device_transfer_error">(ekki hægt að flytja)</string>
+    <string name="transfer_in_device_name">Í %1$s%2$s</string>
+    <string name="transfer_profile_downloading_description">Þú getur haldið áfram að setja upp %1$s</string>
+    <string name="transfer_single_description_with_esim">"%1$s will be transferred to this phone.
+
+After you transfer your SIM to this phone, it will no longer work on your other device."</string>
+    <string name="transfer_single_description_with_psim">"You can convert your SIM card into an eSIM and
+transfer it to this phone. After it's been
+converted, your SIM card can't be used again."</string>
+    <string name="transfer_single_psim_hint">Learn how to use a SIM card</string>
+    <string name="transfer_single_psim_sub_info">Or, insert the SIM card now.</string>
+    <string name="transfer_single_subItem_title_with_number">Ekki rétt númer?</string>
+    <string name="transfer_single_subItem_title_without_number_esim">Ekki rétt eSIM?</string>
+    <string name="transfer_single_subItem_title_without_number_unknown">Ekki rétt SIM?</string>
+    <string name="transfer_single_title">Transfer %1$s SIM?</string>
+    <string name="transfer_subItem_desc">Sæktu nýtt eSIM í staðinn</string>
+    <string name="transfer_subItem_title_with_number">Ekki rétt númer?</string>
+    <string name="transfer_subItem_title_without_number_esim">Ekki rétt eSIM?</string>
+    <string name="transfer_subItem_title_without_number_unknown">Ekki rétt SIM?</string>
+    <string name="transfer_title_unknown_sim">Veldu SIM til að flytja</string>
+    <string name="transfer_title_with_number">Veldu númer til að flytja</string>
+    <string name="transfer_title_without_number">Veldu eSIM til að flytja</string>
+    <string name="update_button">Uppfæra</string>
+    <string name="use_different_network">Nota annað net</string>
+    <string name="use_different_network_button">Nota annað net</string>
+    <string name="user_consent_download_active_profile_body_text">Slökkt verður á %1$s meðan á niðurhali stendur</string>
+    <string name="user_consent_download_mobile_data_body_text">SIM-kortið þitt verður sótt í gegnum farsímakerfið</string>
+    <string name="user_consent_download_no_name_body_text">Slökkt verður á virka SIM-kortinu meðan á niðurhali stendur</string>
+    <string name="user_consent_download_over_wifi_title">Sækja SIM-kort með Wi‑Fi?</string>
+    <string name="user_consent_download_ss_no_profile_title">Leyfa símafyrirtækinu að sækja SIM-kort?</string>
+    <string name="user_consent_download_ss_no_profile_wifi_body_text">SIM-kortið verður sótt með Wi‑Fi</string>
+    <string name="user_consent_download_switch_body_text">"Til að sækja og nota annað SIM-kort skaltu slökkva á %1$s.
+
+Þjónustunni verður ekki sagt upp þótt slökkt sé á %1$s."</string>
+    <string name="user_consent_download_switch_dsds_no_name_body_text">"Til að sækja og nota annað SIM-kort skaltu slökkva á virku SIM-korti.
+
+Þjónustunni verður ekki sagt upp þótt slökkt sé á SIM-kortinu."</string>
+    <string name="user_consent_download_switch_dsds_no_name_title">Slökkva á SIM-korti?</string>
+    <string name="user_consent_download_switch_no_profile_body_text">SIM-kortið þitt verður notað strax að niðurhali loknu</string>
+    <string name="user_consent_download_switch_ss_no_name_body_text">"Til að sækja og nota annað SIM-kort skaltu slökkva á virka SIM-kortinu.
+
+Þjónustunni verður ekki sagt upp þótt slökkt sé á SIM-kortinu."</string>
+    <string name="user_consent_download_switch_ss_no_name_title">Slökkva á SIM-korti?</string>
+    <string name="user_consent_switch_dsds_body_text">"Þetta tæki getur aðeins verið með 1 virkt eSIM.
+
+Slökkt verður á %1$s en það segir ekki upp áskrift þinni að þjónustunni."</string>
+    <string name="user_consent_switch_dsds_no_name_body_text">"Þetta tæki getur aðeins verið með 1 virkt eSIM.
+
+Slökkt verður á núverandi SIM-korti en það segir ekki upp áskrift þinni að þjónustunni."</string>
+    <string name="user_consent_switch_mep_dsds_body_text">Slökkt verður á %1$s en það segir ekki upp áskrift þinni að þjónustunni.</string>
+    <string name="user_consent_switch_mep_dsds_no_name_body_text">Slökkt verður á núverandi SIM-korti en það segir ekki upp áskrift þinni að þjónustunni.</string>
+    <string name="user_consent_switch_no_name_title">Nota nýtt SIM-kort?</string>
+    <string name="user_consent_switch_ss_body_text">"Þetta tæki getur aðeins verið með 1 virkt SIM-kort.
+
+Slökkt verður á %1$s en það segir ekki upp áskrift þinni að þjónustunni."</string>
+    <string name="user_consent_switch_ss_no_name_body_text">"Þetta tæki getur aðeins verið með 1 virkt SIM-kort.
+
+Slökkt verður á núverandi SIM-korti en það segir ekki upp áskrift þinni að þjónustunni."</string>
+    <string name="user_consent_switch_title">Viltu nota %1$s?</string>
+    <string name="v7_preference_off">SLÖKKT</string>
+    <string name="v7_preference_on">KVEIKT</string>
+    <string name="wait_msg">Augnablik…</string>
+    <string name="wrong_code_dialog_text">"Sum símafyrirtæki gera kröfu um staðfestingarkóða í öryggisskyni. Þú kannt að finna kóðann:
+
+• Á miða sem fylgdi tækinu
+• Í tölvupósti frá símafyrirtækinu
+• Í textaskilaboðum sem voru send í gamla tækið"</string>
+    <string name="yes_button">Já</string>
+</resources>

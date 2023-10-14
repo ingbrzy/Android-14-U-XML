@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="download_cancel">‏‮Cancel‬‏</string>
+    <string name="download_language_pack_details">‏‮Download‬‏ ‏‮this‬‏ ‏‮update‬‏ (%1$s) ‏‮to‬‏ ‏‮use‬‏ ‏‮speech‬‏ ‏‮recognition‬‏ ‏‮offline‬‏</string>
+    <string name="download_prompt">‏‮Download‬‏</string>
+    <string name="download_title">‏‮Download‬‏ %1$s ‏‮update‬‏</string>
+    <string name="language_pack_download_notification_title">‏‮Downloading‬‏ %1$s ‏‮Update‬‏</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="azure_title">Cyanocorax caeruleus</string>
+    <string name="blackswan_title">Lebădă neagră</string>
+    <string name="cockatoo_title">Cacadu</string>
+    <string name="come_alive_title">Trezire la viață</string>
+    <string name="feathers_attribution">Fotografie de Andrew Zuckerman</string>
+    <string name="feathers_description">Detalii cu pene și culori</string>
+    <string name="feathers_title">Pene</string>
+    <string name="greenwinged_title">Papagal cu aripi verzi</string>
+    <string name="king_title">Sarcoramphus papa</string>
+    <string name="living_universe_title">Univers viu</string>
+    <string name="photos_memory_gallery_title">Amintirile tale</string>
+    <string name="pied_title">Corvus albus</string>
+    <string name="ringnecked_title">Papagal cu guler</string>
+    <string name="seagull_title">Pescăruș</string>
+</resources>

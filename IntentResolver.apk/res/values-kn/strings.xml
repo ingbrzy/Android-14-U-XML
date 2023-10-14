@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">ಹೋಮ್‌ಗೆ ನ್ಯಾವಿಗೇಟ್ ಮಾಡಿ</string>
+    <string name="abc_action_bar_up_description">ಮೇಲಕ್ಕೆ ನ್ಯಾವಿಗೇಟ್ ಮಾಡಿ</string>
+    <string name="abc_action_menu_overflow_description">ಇನ್ನಷ್ಟು ಆಯ್ಕೆಗಳು</string>
+    <string name="abc_action_mode_done">ಮುಗಿದಿದೆ</string>
+    <string name="abc_activity_chooser_view_see_all">ಎಲ್ಲವನ್ನೂ ನೋಡಿ</string>
+    <string name="abc_activitychooserview_choose_application">ಆ್ಯಪ್‌ವೊಂದನ್ನು ಆಯ್ಕೆಮಾಡಿ</string>
+    <string name="abc_capital_off">ಆಫ್</string>
+    <string name="abc_capital_on">ಆನ್</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">ಹುಡುಕಿ…</string>
+    <string name="abc_searchview_description_clear">ಪ್ರಶ್ನೆಯನ್ನು ತೆರವುಗೊಳಿಸಿ</string>
+    <string name="abc_searchview_description_query">ಪ್ರಶ್ನೆಯನ್ನು ಹುಡುಕಿ</string>
+    <string name="abc_searchview_description_search">ಹುಡುಕಿ</string>
+    <string name="abc_searchview_description_submit">ಪ್ರಶ್ನೆಯನ್ನು ಸಲ್ಲಿಸಿ</string>
+    <string name="abc_searchview_description_voice">ಧ್ವನಿ ಹುಡುಕಾಟ</string>
+    <string name="abc_shareactionprovider_share_with">ಇವರೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳಿ</string>
+    <string name="abc_shareactionprovider_share_with_application">%s ನೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳಿ</string>
+    <string name="abc_toolbar_collapse_description">ಕುಗ್ಗಿಸಿ</string>
+    <string name="activity_resolver_use_always">ಯಾವಾಗಲೂ</string>
+    <string name="activity_resolver_use_once">ಒಮ್ಮೆ ಮಾತ್ರ</string>
+    <string name="activity_resolver_work_profiles_support">%1$s ಉದ್ಯೋಗದ ಪ್ರೊಫೈಲ್ ಅನ್ನು ಬೆಂಬಲಿಸುವುದಿಲ್ಲ</string>
+    <string name="call_notification_answer_action">ಉತ್ತರಿಸಿ</string>
+    <string name="call_notification_answer_video_action">ವೀಡಿಯೊ</string>
+    <string name="call_notification_decline_action">ನಿರಾಕರಿಸಿ</string>
+    <string name="call_notification_hang_up_action">ಕರೆ ಕೊನೆಗೊಳಿಸಿ</string>
+    <string name="call_notification_incoming_text">ಒಳಬರುವ ಕರೆ</string>
+    <string name="call_notification_ongoing_text">ಚಾಲ್ತಿಯಲ್ಲಿರುವ ಕರೆ</string>
+    <string name="call_notification_screening_text">ಒಳಬರುವ ಕರೆಯನ್ನು ಸ್ಕ್ರೀನ್ ಮಾಡಲಾಗುತ್ತಿದೆ</string>
+    <string name="chooseActivity">ಕ್ರಿಯೆಯನ್ನು ಆಯ್ಕೆಮಾಡಿ</string>
+    <string name="chooser_no_direct_share_targets">ಹಂಚಿಕೊಳ್ಳಲು ಶಿಫಾರಸು ಮಾಡಲಾದವರು ಯಾರೂ ಇಲ್ಲ</string>
+    <string name="exclude_link">ಲಿಂಕ್ ಹೊರತುಪಡಿಸಿ</string>
+    <string name="exclude_text">ಪಠ್ಯವನ್ನು ಹೊರತುಪಡಿಸಿ</string>
+    <string name="file_preview_a11y_description">ಫೈಲ್ ಪೂರ್ವವೀಕ್ಷಣೆಯ ಥಂಬ್‌ನೇಲ್</string>
+    <string name="forward_intent_to_owner">ನಿಮ್ಮ ಕೆಲಸದ ಪ್ರೊಫೈಲ್‌ನ ಹೊರಗೆ ನೀವು ಈ ಅಪ್ಲಿಕೇಶನ್‌ ಅನ್ನು ಬಳಸುತ್ತಿರುವಿರಿ</string>
+    <string name="forward_intent_to_work">ನಿಮ್ಮ ಕೆಲಸದ ಪ್ರೊಫೈಲ್‌ನಲ್ಲಿ ನೀವು ಈ ಅಪ್ಲಿಕೇಶನ್‌ ಅನ್ನು ಬಳಸುತ್ತಿರುವಿರಿ</string>
+    <string name="image_preview_a11y_description">ಚಿತ್ರ ಪೂರ್ವವೀಕ್ಷಣೆಯ ಥಂಬ್‌ನೇಲ್</string>
+    <string name="include_link">ಲಿಂಕ್ ಸೇರಿಸಿ</string>
+    <string name="include_text">ಪಠ್ಯವನ್ನು ಸೇರಿಸಿ</string>
+    <string name="miniresolver_open_in_personal">ನಿಮ್ಮ ವೈಯಕ್ತಿಕ ಪ್ರೊಫೈಲ್‌ನಲ್ಲಿ %s ಅನ್ನು ತೆರೆಯಬೇಕೆ?</string>
+    <string name="miniresolver_open_in_work">ನಿಮ್ಮ ಉದ್ಯೋಗದ ಪ್ರೊಫೈಲ್‌ನಲ್ಲಿ %s ಅನ್ನು ತೆರೆಯಬೇಕೆ?</string>
+    <string name="miniresolver_use_personal_browser">ವೈಯಕ್ತಿಕ ಬ್ರೌಸರ್ ಬಳಸಿ</string>
+    <string name="miniresolver_use_work_browser">ಉದ್ಯೋಗ ಬ್ರೌಸರ್ ಬಳಸಿ</string>
+    <string name="more_files">{count,plural, =1{+ # ಇನ್ನಷ್ಟು ಫೈಲ್}one{+ # ಇನ್ನಷ್ಟು ಫೈಲ್‌ಗಳು}other{+ # ಇನ್ನಷ್ಟು ಫೈಲ್‌ಗಳು}}</string>
+    <string name="noApplications">ಯಾವುದೇ ಅಪ್ಲಿಕೇಶನ್‌ಗಳು ಈ ಕ್ರಿಯೆಗಾಗಿ ಬದ್ಧತೆ ತೋರಿಸುವುದಿಲ್ಲ.</string>
+    <string name="other_files">{count,plural, =1{+ # ಫೈಲ್‌}one{+ # ಫೈಲ್‌ಗಳು}other{+ # ಫೈಲ್‌ಗಳು}}</string>
+    <string name="pin_specific_target">%1$s ಪಿನ್ ಮಾಡಿ</string>
+    <string name="resolver_cant_access_personal_apps_explanation">ವೈಯಕ್ತಿಕ ಆ್ಯಪ್‌ಗಳ ಮೂಲಕ ಈ ವಿಷಯವನ್ನು ತೆರೆಯಲಾಗುವುದಿಲ್ಲ</string>
+    <string name="resolver_cant_access_work_apps_explanation">ಕೆಲಸಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ಆ್ಯಪ್‌ಗಳ ಈ ವಿಷಯವನ್ನು ತೆರೆಯಲಾಗುವುದಿಲ್ಲ</string>
+    <string name="resolver_cant_share_with_personal_apps_explanation">ವೈಯಕ್ತಿಕ ಆ್ಯಪ್‌ಗಳ ಮೂಲಕ ಈ ವಿಷಯವನ್ನು ಹಂಚಿಕೊಳ್ಳಲಾಗುವುದಿಲ್ಲ</string>
+    <string name="resolver_cant_share_with_work_apps_explanation">ಕೆಲಸಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ಆ್ಯಪ್‌ಗಳ ಈ ವಿಷಯವನ್ನು ಹಂಚಿಕೊಳ್ಳಲಾಗುವುದಿಲ್ಲ</string>
+    <string name="resolver_cross_profile_blocked">ನಿಮ್ಮ IT ನಿರ್ವಾಹಕರಿಂದ ನಿರ್ಬಂಧಿಸಲಾಗಿದೆ</string>
+    <string name="resolver_no_personal_apps_available">ಯಾವುದೇ ವೈಯಕ್ತಿಕ ಆ್ಯಪ್‌ಗಳಿಲ್ಲ</string>
+    <string name="resolver_no_work_apps_available">ಯಾವುದೇ ಕೆಲಸಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ಆ್ಯಪ್‌ಗಳಿಲ್ಲ</string>
+    <string name="resolver_personal_tab">ವೈಯಕ್ತಿಕ</string>
+    <string name="resolver_personal_tab_accessibility">ವೈಯಕ್ತಿಕ ವೀಕ್ಷಣೆ</string>
+    <string name="resolver_switch_on_work">ವಿರಾಮವನ್ನು ರದ್ದುಗೊಳಿಸಿ</string>
+    <string name="resolver_turn_on_work_apps">ಕೆಲಸಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ಆ್ಯಪ್‌ಗಳನ್ನು ವಿರಾಮಗೊಳಿಸಲಾಗಿದೆ</string>
+    <string name="resolver_work_tab">ಕೆಲಸ</string>
+    <string name="resolver_work_tab_accessibility">ಕೆಲಸದ ವೀಕ್ಷಣೆ</string>
+    <string name="screenshot_edit">ಎಡಿಟ್</string>
+    <string name="search_menu_title">ಹುಡುಕಿ</string>
+    <string name="sharing_files">{count,plural, =1{# ಫೈಲ್ ಅನ್ನು ಹಂಚಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ}one{# ಫೈಲ್‌ಗಳನ್ನು ಹಂಚಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ}other{# ಫೈಲ್‌ಗಳನ್ನು ಹಂಚಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ}}</string>
+    <string name="sharing_files_only">{count,plural, =1{ಫೈಲ್ ಮಾತ್ರ}one{ಫೈಲ್‌ಗಳು ಮಾತ್ರ}other{ಫೈಲ್‌ಗಳು ಮಾತ್ರ}}</string>
+    <string name="sharing_files_with_link">{count,plural, =1{ಲಿಂಕ್‌ನೊಂದಿಗೆ ಫೈಲ್ ಅನ್ನು ಹಂಚಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ}one{ಲಿಂಕ್‌ನೊಂದಿಗೆ # ಫೈಲ್‌ಗಳನ್ನು ಹಂಚಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ}other{ಲಿಂಕ್‌ನೊಂದಿಗೆ # ಫೈಲ್‌ಗಳನ್ನು ಹಂಚಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ}}</string>
+    <string name="sharing_files_with_text">{count,plural, =1{ಪಠ್ಯದೊಂದಿಗೆ ಫೈಲ್ ಅನ್ನು ಹಂಚಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ}one{ಪಠ್ಯದೊಂದಿಗೆ # ಫೈಲ್‌ಗಳನ್ನು ಹಂಚಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ}other{ಪಠ್ಯದೊಂದಿಗೆ # ಫೈಲ್‌ಗಳನ್ನು ಹಂಚಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ}}</string>
+    <string name="sharing_images">{count,plural, =1{ಚಿತ್ರವನ್ನು ಹಂಚಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ}one{# ಚಿತ್ರಗಳನ್ನು ಹಂಚಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ}other{# ಚಿತ್ರಗಳನ್ನು ಹಂಚಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ}}</string>
+    <string name="sharing_images_only">{count,plural, =1{ಚಿತ್ರ ಮಾತ್ರ}one{ಚಿತ್ರಗಳು ಮಾತ್ರ}other{ಚಿತ್ರಗಳು ಮಾತ್ರ}}</string>
+    <string name="sharing_images_with_link">{count,plural, =1{ಲಿಂಕ್‌ನೊಂದಿಗೆ ಚಿತ್ರವನ್ನು ಹಂಚಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ}one{ಲಿಂಕ್‌ನೊಂದಿಗೆ # ಚಿತ್ರಗಳನ್ನು ಹಂಚಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ}other{ಲಿಂಕ್‌ನೊಂದಿಗೆ # ಚಿತ್ರಗಳನ್ನು ಹಂಚಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ}}</string>
+    <string name="sharing_images_with_text">{count,plural, =1{ಪಠ್ಯದೊಂದಿಗೆ ಚಿತ್ರವನ್ನು ಹಂಚಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ}one{ಪಠ್ಯದೊಂದಿಗೆ # ಚಿತ್ರಗಳನ್ನು ಹಂಚಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ}other{ಪಠ್ಯದೊಂದಿಗೆ # ಚಿತ್ರಗಳನ್ನು ಹಂಚಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ}}</string>
+    <string name="sharing_link">ಲಿಂಕ್ ಹಂಚಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ</string>
+    <string name="sharing_text">ಪಠ್ಯ ಹಂಚಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ</string>
+    <string name="sharing_videos">{count,plural, =1{ವೀಡಿಯೊವನ್ನು ಹಂಚಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ}one{# ವೀಡಿಯೊಗಳನ್ನು ಹಂಚಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ}other{# ವೀಡಿಯೊಗಳನ್ನು ಹಂಚಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ}}</string>
+    <string name="sharing_videos_only">{count,plural, =1{ವೀಡಿಯೊ ಮಾತ್ರ}one{ವೀಡಿಯೊಗಳು ಮಾತ್ರ}other{ವೀಡಿಯೊಗಳು ಮಾತ್ರ}}</string>
+    <string name="sharing_videos_with_link">{count,plural, =1{ಲಿಂಕ್‌ನೊಂದಿಗೆ ವೀಡಿಯೊವನ್ನು ಹಂಚಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ}one{ಲಿಂಕ್‌ನೊಂದಿಗೆ # ವೀಡಿಯೊಗಳನ್ನು ಹಂಚಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ}other{ಲಿಂಕ್‌ನೊಂದಿಗೆ # ವೀಡಿಯೊಗಳನ್ನು ಹಂಚಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ}}</string>
+    <string name="sharing_videos_with_text">{count,plural, =1{ಪಠ್ಯದೊಂದಿಗೆ ವೀಡಿಯೊವನ್ನು ಹಂಚಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ}one{ಪಠ್ಯದೊಂದಿಗೆ # ವೀಡಿಯೊಗಳನ್ನು ಹಂಚಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ}other{ಪಠ್ಯದೊಂದಿಗೆ # ವೀಡಿಯೊಗಳನ್ನು ಹಂಚಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ}}</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="unpin_specific_target">%1$s ಅನ್ನು ಅನ್‌ಪಿನ್ ಮಾಡಿ</string>
+    <string name="usb_device_resolve_prompt_warn">ಈ ಆ್ಯಪ್‌ಗೆ ರೆಕಾರ್ಡ್ ಅನುಮತಿಯನ್ನು ನೀಡಲಾಗಿಲ್ಲ, ಆದರೆ ಈ USB ಸಾಧನದ ಮೂಲಕ ಆಡಿಯೊವನ್ನು ಸೆರೆಹಿಡಿಯಬಲ್ಲದು.</string>
+    <string name="use_a_different_app">ಬೇರೊಂದು ಆ್ಯಪ್ ಬಳಸಿ</string>
+    <string name="video_preview_a11y_description">ವೀಡಿಯೊ ಪೂರ್ವವೀಕ್ಷಣೆಯ ಥಂಬ್‌ನೇಲ್</string>
+    <string name="whichApplication">ಇದನ್ನು ಬಳಸಿಕೊಂಡು ಕ್ರಿಯೆಯನ್ನು ಪೂರ್ಣಗೊಳಿಸಿ</string>
+    <string name="whichApplicationLabel">ಕ್ರಿಯೆಯನ್ನು ಪೂರ್ಣಗೊಳಿಸಿ</string>
+    <string name="whichApplicationNamed">%1$s ಬಳಸಿಕೊಂಡು ಕ್ರಿಯೆ ಪೂರ್ಣಗೊಳಿಸಿ</string>
+    <string name="whichEditApplication">ಇವರ ಜೊತೆಗೆ ಎಡಿಟ್ ಮಾಡಿ</string>
+    <string name="whichEditApplicationLabel">ಎಡಿಟ್</string>
+    <string name="whichEditApplicationNamed">%1$s ಮೂಲಕ ಎಡಿಟ್ ಮಾಡಿ</string>
+    <string name="whichGiveAccessToApplicationLabel">ಆ್ಯಕ್ಸೆಸ್ ನೀಡಿ</string>
+    <string name="whichHomeApplication">ಮುಖಪುಟ‌ ಅಪ್ಲಿಕೇಶನ್‌ ಆಯ್ಕೆಮಾಡಿ</string>
+    <string name="whichHomeApplicationLabel">ಚಿತ್ರ ಕ್ಯಾಪ್ಚರ್ ಮಾಡಿ</string>
+    <string name="whichHomeApplicationNamed">%1$s ಅನ್ನು ಹೋಮ್ ಆಗಿ ಬಳಸಿ</string>
+    <string name="whichImageCaptureApplication">ಇದರ ಜೊತೆಗೆ ಚಿತ್ರ ಕ್ಯಾಪ್ಚರ್ ಮಾಡಿ</string>
+    <string name="whichImageCaptureApplicationLabel">ಚಿತ್ರ ಕ್ಯಾಪ್ಚರ್ ಮಾಡಿ</string>
+    <string name="whichImageCaptureApplicationNamed">%1$s ಮೂಲಕ ಚಿತ್ರ ಕ್ಯಾಪ್ಚರ್ ಮಾಡಿ</string>
+    <string name="whichOpenHostLinksWith">ಇವುಗಳ ಮೂಲಕ %1$s ಲಿಂಕ್‌ಗಳನ್ನು ತೆರೆಯಿರಿ</string>
+    <string name="whichOpenHostLinksWithApp">%2$s ಮೂಲಕ %1$s ಲಿಂಕ್‌ಗಳನ್ನು ತೆರೆಯಿರಿ</string>
+    <string name="whichOpenLinksWith">ಇವುಗಳ ಮೂಲಕ ಲಿಂಕ್‌ಗಳನ್ನು ತೆರೆಯಿರಿ</string>
+    <string name="whichOpenLinksWithApp">%1$s ಮೂಲಕ ಲಿಂಕ್‌ಗಳನ್ನು ತೆರೆಯಿರಿ</string>
+    <string name="whichSendApplication">ಹಂಚಿಕೊಳ್ಳಿ</string>
+    <string name="whichSendApplicationLabel">ಹಂಚಿಕೊಳ್ಳಿ</string>
+    <string name="whichSendApplicationNamed">%1$s ಜೊತೆ ಹಂಚಿಕೊಳ್ಳಿ</string>
+    <string name="whichSendToApplication">ಇದನ್ನು ಬಳಸಿಕೊಂಡು ಕಳುಹಿಸಿ</string>
+    <string name="whichSendToApplicationLabel">ಕಳುಹಿಸು</string>
+    <string name="whichSendToApplicationNamed">%1$s ಬಳಸಿ ಕಳುಹಿಸಿ</string>
+    <string name="whichViewApplication">ಇದರ ಮೂಲಕ ತೆರೆಯಿರಿ</string>
+    <string name="whichViewApplicationLabel">ತೆರೆಯಿರಿ</string>
+    <string name="whichViewApplicationNamed">%1$s ಜೊತೆ ತೆರೆಯಿರಿ</string>
+</resources>

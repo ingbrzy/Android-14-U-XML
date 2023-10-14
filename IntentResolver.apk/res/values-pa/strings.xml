@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">"ਹੋਮ 'ਤੇ ਜਾਓ"</string>
+    <string name="abc_action_bar_up_description">ਉੱਪਰ ਜਾਓ</string>
+    <string name="abc_action_menu_overflow_description">ਹੋਰ ਵਿਕਲਪ</string>
+    <string name="abc_action_mode_done">ਹੋ ਗਿਆ</string>
+    <string name="abc_activity_chooser_view_see_all">ਸਭ ਦੇਖੋ</string>
+    <string name="abc_activitychooserview_choose_application">ਇੱਕ ਐਪ ਚੁਣੋ</string>
+    <string name="abc_capital_off">ਬੰਦ</string>
+    <string name="abc_capital_on">ਚਾਲੂ</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">ਮਿਟਾਓ</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">ਖੋਜ…</string>
+    <string name="abc_searchview_description_clear">ਪੁੱਛਗਿੱਛ ਕਲੀਅਰ ਕਰੋ</string>
+    <string name="abc_searchview_description_query">ਖੋਜ ਪੁੱਛਗਿੱਛ</string>
+    <string name="abc_searchview_description_search">ਖੋਜ</string>
+    <string name="abc_searchview_description_submit">ਪੁੱਛਗਿੱਛ ਸਪੁਰਦ ਕਰੋ</string>
+    <string name="abc_searchview_description_voice">ਅਵਾਜ਼ੀ ਖੋਜ</string>
+    <string name="abc_shareactionprovider_share_with">ਇਸ ਨਾਲ ਸਾਂਝਾ ਕਰੋ</string>
+    <string name="abc_shareactionprovider_share_with_application">%s ਨਾਲ ਸਾਂਝਾ ਕਰੋ</string>
+    <string name="abc_toolbar_collapse_description">ਸਮੇਟੋ</string>
+    <string name="activity_resolver_use_always">ਹਮੇਸ਼ਾਂ</string>
+    <string name="activity_resolver_use_once">ਕੇਵਲ ਇੱਕ ਵਾਰ</string>
+    <string name="activity_resolver_work_profiles_support">%1$s ਕਾਰਜ ਪ੍ਰੋਫਾਈਲ ਦਾ ਸਮਰਥਨ ਨਹੀਂ ਕਰਦੀ ਹੈ</string>
+    <string name="call_notification_answer_action">ਜਵਾਬ ਦਿਓ</string>
+    <string name="call_notification_answer_video_action">ਵੀਡੀਓ</string>
+    <string name="call_notification_decline_action">ਅਸਵੀਕਾਰ ਕਰੋ</string>
+    <string name="call_notification_hang_up_action">ਸਮਾਪਤ ਕਰੋ</string>
+    <string name="call_notification_incoming_text">ਇਨਕਮਿੰਗ ਕਾਲ</string>
+    <string name="call_notification_ongoing_text">ਜਾਰੀ ਕਾਲ</string>
+    <string name="call_notification_screening_text">ਇਨਕਮਿੰਗ ਕਾਲ ਦੀ ਸਕ੍ਰੀਨਿੰਗ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ</string>
+    <string name="chooseActivity">ਕਾਰਵਾਈ ਚੁਣੋ</string>
+    <string name="chooser_no_direct_share_targets">ਸਾਂਝਾ ਕਰਨ ਲਈ ਕੋਈ ਸਿਫ਼ਾਰਸ਼ ਕੀਤੇ ਲੋਕ ਨਹੀਂ</string>
+    <string name="exclude_link">ਲਿੰਕ ਨੂੰ ਸ਼ਾਮਲ ਨਾ ਕਰੋ</string>
+    <string name="exclude_text">ਲਿਖਤ ਨੂੰ ਸ਼ਾਮਲ ਨਾ ਕਰੋ</string>
+    <string name="file_preview_a11y_description">ਫ਼ਾਈਲ ਦੀ ਪੂਰਵ-ਝਲਕ ਦਾ ਲਘੂ-ਚਿੱਤਰ</string>
+    <string name="forward_intent_to_owner">ਤੁਸੀਂ ਇਹ ਐਪ ਆਪਣੀ ਕਾਰਜ ਪ੍ਰੋਫਾਈਲ ਦੇ ਬਾਹਰ ਵਰਤ ਰਹੇ ਹੋ</string>
+    <string name="forward_intent_to_work">ਤੁਸੀਂ ਇਹ ਐਪ ਆਪਣੀ ਕਾਰਜ ਪ੍ਰੋਫਾਈਲ ਵਿੱਚ ਵਰਤ ਰਹੇ ਹੋ</string>
+    <string name="image_preview_a11y_description">ਚਿੱਤਰ ਦੀ ਪੂਰਵ-ਝਲਕ ਦਾ ਲਘੂ-ਚਿੱਤਰ</string>
+    <string name="include_link">ਲਿੰਕ ਸ਼ਾਮਲ ਕਰੋ</string>
+    <string name="include_text">ਲਿਖਤ ਨੂੰ ਸ਼ਾਮਲ ਕਰੋ</string>
+    <string name="miniresolver_open_in_personal">ਕੀ ਆਪਣੇ ਨਿੱਜੀ ਪ੍ਰੋਫਾਈਲ ਵਿੱਚ %s ਨੂੰ ਖੋਲ੍ਹਣਾ ਹੈ?</string>
+    <string name="miniresolver_open_in_work">ਕੀ ਆਪਣੇ ਕਾਰਜ ਪ੍ਰੋਫਾਈਲ ਵਿੱਚ %s ਨੂੰ ਖੋਲ੍ਹਣਾ ਹੈ?</string>
+    <string name="miniresolver_use_personal_browser">ਨਿੱਜੀ ਬ੍ਰਾਊਜ਼ਰ ਵਰਤੋ</string>
+    <string name="miniresolver_use_work_browser">ਕੰਮ ਸੰਬੰਧੀ ਬ੍ਰਾਊਜ਼ਰ ਵਰਤੋ</string>
+    <string name="more_files">{count,plural, =1{+ # ਹੋਰ ਫ਼ਾਈਲ}one{+ # ਹੋਰ ਫ਼ਾਈਲ}other{+ # ਹੋਰ ਫ਼ਾਈਲਾਂ}}</string>
+    <string name="noApplications">ਕੋਈ ਐਪਾਂ ਇਸ ਕਾਰਵਾਈ ਨੂੰ ਨਹੀਂ ਕਰ ਸਕਦੀਆਂ।</string>
+    <string name="other_files">{count,plural, =1{+ # ਫ਼ਾਈਲ}one{+ # ਫ਼ਾਈਲ}other{+ # ਫ਼ਾਈਲਾਂ}}</string>
+    <string name="pin_specific_target">%1$s ਨੂੰ ਪਿੰਨ ਕਰੋ</string>
+    <string name="resolver_cant_access_personal_apps_explanation">ਇਸ ਸਮੱਗਰੀ ਨੂੰ ਨਿੱਜੀ ਐਪਾਂ ਨਾਲ ਨਹੀਂ ਖੋਲ੍ਹਿਆ ਜਾ ਸਕਦਾ</string>
+    <string name="resolver_cant_access_work_apps_explanation">ਇਸ ਸਮੱਗਰੀ ਨੂੰ ਕੰਮ ਸੰਬੰਧੀ ਐਪਾਂ ਨਾਲ ਨਹੀਂ ਖੋਲ੍ਹਿਆ ਜਾ ਸਕਦਾ</string>
+    <string name="resolver_cant_share_with_personal_apps_explanation">ਇਸ ਸਮੱਗਰੀ ਨੂੰ ਨਿੱਜੀ ਐਪਾਂ ਨਾਲ ਸਾਂਝਾ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ</string>
+    <string name="resolver_cant_share_with_work_apps_explanation">ਇਸ ਸਮੱਗਰੀ ਨੂੰ ਕੰਮ ਸੰਬੰਧੀ ਐਪਾਂ ਨਾਲ ਸਾਂਝਾ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ</string>
+    <string name="resolver_cross_profile_blocked">ਤੁਹਾਡੇ ਆਈ.ਟੀ. ਪ੍ਰਸ਼ਾਸਕ ਵੱਲੋਂ ਬਲਾਕ ਕੀਤਾ ਗਿਆ</string>
+    <string name="resolver_no_personal_apps_available">ਕੋਈ ਨਿੱਜੀ ਐਪ ਨਹੀਂ</string>
+    <string name="resolver_no_work_apps_available">ਕੋਈ ਕੰਮ ਸੰਬੰਧੀ ਐਪ ਨਹੀਂ</string>
+    <string name="resolver_personal_tab">ਨਿੱਜੀ</string>
+    <string name="resolver_personal_tab_accessibility">ਵਿਅਕਤੀਗਤ ਦ੍ਰਿਸ਼</string>
+    <string name="resolver_switch_on_work">ਰੋਕ ਹਟਾਓ</string>
+    <string name="resolver_turn_on_work_apps">ਕੰਮ ਸੰਬੰਧੀ ਐਪਾਂ ਨੂੰ ਰੋਕਿਆ ਗਿਆ ਹੈ</string>
+    <string name="resolver_work_tab">ਕੰਮ ਸੰਬੰਧੀ</string>
+    <string name="resolver_work_tab_accessibility">ਕਾਰਜ ਦ੍ਰਿਸ਼</string>
+    <string name="screenshot_edit">ਸੰਪਾਦਨ ਕਰੋ</string>
+    <string name="search_menu_title">ਖੋਜ</string>
+    <string name="sharing_files">{count,plural, =1{# ਫ਼ਾਈਲ ਸਾਂਝੀ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ}one{# ਫ਼ਾਈਲ ਸਾਂਝੀ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ}other{# ਫ਼ਾਈਲਾਂ ਸਾਂਝੀਆਂ ਕੀਤੀਆਂ ਜਾ ਰਹੀਆਂ ਹਨ}}</string>
+    <string name="sharing_files_only">{count,plural, =1{ਸਿਰਫ਼ ਫ਼ਾਈਲ}one{ਸਿਰਫ਼ ਫ਼ਾਈਲ}other{ਸਿਰਫ਼ ਫ਼ਾਈਲਾਂ}}</string>
+    <string name="sharing_files_with_link">{count,plural, =1{ਲਿੰਕ ਨਾਲ ਫ਼ਾਈਲ ਨੂੰ ਸਾਂਝਾ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ}one{ਲਿੰਕ ਨਾਲ # ਫ਼ਾਈਲ ਨੂੰ ਸਾਂਝਾ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ}other{ਲਿੰਕ ਨਾਲ # ਫ਼ਾਈਲਾਂ ਨੂੰ ਸਾਂਝਾ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ}}</string>
+    <string name="sharing_files_with_text">{count,plural, =1{ਲਿਖਤ ਸੁਨੇਹੇ ਨਾਲ ਫ਼ਾਈਲ ਨੂੰ ਸਾਂਝਾ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ}one{ਲਿਖਤ ਸੁਨੇਹੇ ਨਾਲ # ਫ਼ਾਈਲ ਨੂੰ ਸਾਂਝਾ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ}other{ਲਿਖਤ ਸੁਨੇਹੇ ਨਾਲ # ਫ਼ਾਈਲਾਂ ਨੂੰ ਸਾਂਝਾ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ}}</string>
+    <string name="sharing_images">{count,plural, =1{ਚਿੱਤਰ ਸਾਂਝਾ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ}one{# ਚਿੱਤਰ ਸਾਂਝਾ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ}other{# ਚਿੱਤਰ ਸਾਂਝੇ ਕੀਤੇ ਜਾ ਰਹੇ ਹਨ}}</string>
+    <string name="sharing_images_only">{count,plural, =1{ਸਿਰਫ਼ ਚਿੱਤਰ}one{ਸਿਰਫ਼ ਚਿੱਤਰ}other{ਸਿਰਫ਼ ਚਿੱਤਰ}}</string>
+    <string name="sharing_images_with_link">{count,plural, =1{ਲਿੰਕ ਨਾਲ ਚਿੱਤਰ ਨੂੰ ਸਾਂਝਾ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ}one{ਲਿੰਕ ਨਾਲ # ਚਿੱਤਰ ਨੂੰ ਸਾਂਝਾ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ}other{ਲਿੰਕ ਨਾਲ # ਚਿੱਤਰਾਂ ਨੂੰ ਸਾਂਝਾ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ}}</string>
+    <string name="sharing_images_with_text">{count,plural, =1{ਲਿਖਤ ਸੁਨੇਹੇ ਨਾਲ ਚਿੱਤਰ ਨੂੰ ਸਾਂਝਾ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ}one{ਲਿਖਤ ਸੁਨੇਹੇ ਨਾਲ # ਚਿੱਤਰ ਨੂੰ ਸਾਂਝਾ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ}other{ਲਿਖਤ ਸੁਨੇਹੇ ਨਾਲ # ਚਿੱਤਰਾਂ ਨੂੰ ਸਾਂਝਾ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ}}</string>
+    <string name="sharing_link">ਲਿੰਕ ਸਾਂਝਾ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ</string>
+    <string name="sharing_text">ਲਿਖਤ ਸਾਂਝੀ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ</string>
+    <string name="sharing_videos">{count,plural, =1{ਵੀਡੀਓ ਸਾਂਝਾ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ}one{# ਵੀਡੀਓ ਸਾਂਝਾ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ}other{# ਵੀਡੀਓ ਸਾਂਝੇ ਕੀਤੇ ਜਾ ਰਹੇ ਹਨ}}</string>
+    <string name="sharing_videos_only">{count,plural, =1{ਸਿਰਫ਼ ਵੀਡੀਓ}one{ਸਿਰਫ਼ ਵੀਡੀਓ}other{ਸਿਰਫ਼ ਵੀਡੀਓ}}</string>
+    <string name="sharing_videos_with_link">{count,plural, =1{ਲਿੰਕ ਨਾਲ ਵੀਡੀਓ ਸਾਂਝਾ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ}one{ਲਿੰਕ ਨਾਲ # ਵੀਡੀਓ ਸਾਂਝਾ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ}other{ਲਿੰਕ ਨਾਲ # ਵੀਡੀਓ ਸਾਂਝੇ ਕੀਤੇ ਜਾ ਰਹੇ ਹਨ}}</string>
+    <string name="sharing_videos_with_text">{count,plural, =1{ਲਿਖਤ ਸੁਨੇਹੇ ਨਾਲ ਵੀਡੀਓ ਸਾਂਝਾ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ}one{ਲਿਖਤ ਸੁਨੇਹੇ ਨਾਲ # ਵੀਡੀਓ ਸਾਂਝਾ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ}other{ਲਿਖਤ ਸੁਨੇਹੇ ਨਾਲ # ਵੀਡੀਓ ਸਾਂਝੇ ਕੀਤੇ ਜਾ ਰਹੇ ਹਨ}}</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="unpin_specific_target">%1$s ਨੂੰ ਅਨਪਿੰਨ ਕਰੋ</string>
+    <string name="usb_device_resolve_prompt_warn">ਇਸ ਐਪ ਨੂੰ ਰਿਕਾਰਡ ਕਰਨ ਦੀ ਇਜਾਜ਼ਤ ਨਹੀਂ ਦਿੱਤੀ ਗਈ ਪਰ ਇਹ USB ਡੀਵਾਈਸ ਰਾਹੀਂ ਆਡੀਓ ਕੈਪਚਰ ਕਰ ਸਕਦੀ ਹੈ।</string>
+    <string name="use_a_different_app">ਇੱਕ ਵੱਖਰਾ ਖਾਤਾ ਵਰਤੋ</string>
+    <string name="video_preview_a11y_description">ਵੀਡੀਓ ਦੀ ਪੂਰਵ-ਝਲਕ ਦਾ ਲਘੂ-ਚਿੱਤਰ</string>
+    <string name="whichApplication">ਇਸਨੂੰ ਵਰਤਦੇ ਹੋਏ ਕਾਰਵਾਈ ਪੂਰੀ ਕਰੋ</string>
+    <string name="whichApplicationLabel">ਕਾਰਵਾਈ ਪੂਰੀ ਕਰੋ</string>
+    <string name="whichApplicationNamed">%1$s ਦੀ ਵਰਤੋਂ ਨਾਲ ਕਾਰਵਾਈ ਪੂਰੀ ਕਰੋ</string>
+    <string name="whichEditApplication">ਇਸ ਨਾਲ ਸੰਪਾਦਨ ਕਰੋ</string>
+    <string name="whichEditApplicationLabel">ਸੰਪਾਦਨ ਕਰੋ</string>
+    <string name="whichEditApplicationNamed">%1$s ਨਾਲ ਸੰਪਾਦਨ ਕਰੋ</string>
+    <string name="whichGiveAccessToApplicationLabel">ਪਹੁੰਚ ਦਿਓ</string>
+    <string name="whichHomeApplication">ਇੱਕ ਹੋਮ ਐਪ ਚੁਣੋ</string>
+    <string name="whichHomeApplicationLabel">ਚਿਤਰ ਕੈਪਚਰ ਕਰੋ</string>
+    <string name="whichHomeApplicationNamed">%1$s ਨੂੰ ਘਰ ਵਜੋਂ ਵਰਤੋ</string>
+    <string name="whichImageCaptureApplication">ਇਸ ਨਾਲ ਚਿਤਰ ਕੈਪਚਰ ਕਰੋ</string>
+    <string name="whichImageCaptureApplicationLabel">ਚਿਤਰ ਕੈਪਚਰ ਕਰੋ</string>
+    <string name="whichImageCaptureApplicationNamed">%1$s ਨਾਲ ਚਿੱਤਰ ਨੂੰ ਕੈਪਚਰ ਕਰੋ</string>
+    <string name="whichOpenHostLinksWith">%1$s ਲਿੰਕਾਂ ਨੂੰ ਇਸ ਨਾਲ ਖੋਲ੍ਹੋ</string>
+    <string name="whichOpenHostLinksWithApp">%1$s ਲਿੰਕਾਂ ਨੂੰ %2$s ਨਾਲ ਖੋਲ੍ਹੋ</string>
+    <string name="whichOpenLinksWith">ਲਿੰਕਾਂ ਨੂੰ ਇਸ ਨਾਲ ਖੋਲ੍ਹੋ</string>
+    <string name="whichOpenLinksWithApp">ਲਿੰਕਾਂ ਨੂੰ %1$s ਨਾਲ ਖੋਲ੍ਹੋ</string>
+    <string name="whichSendApplication">ਸਾਂਝਾ ਕਰੋ</string>
+    <string name="whichSendApplicationLabel">ਸਾਂਝਾ ਕਰੋ</string>
+    <string name="whichSendApplicationNamed">%1$s ਨਾਲ ਸਾਂਝਾ ਕਰੋ</string>
+    <string name="whichSendToApplication">ਇਸ ਦੀ ਵਰਤੋਂ ਨਾਲ ਭੇਜੋ</string>
+    <string name="whichSendToApplicationLabel">ਭੇਜੋ</string>
+    <string name="whichSendToApplicationNamed">%1$s ਦੀ ਵਰਤੋਂ ਨਾਲ ਭੇਜੋ</string>
+    <string name="whichViewApplication">ਨਾਲ ਖੋਲ੍ਹੋ</string>
+    <string name="whichViewApplicationLabel">ਖੋਲ੍ਹੋ</string>
+    <string name="whichViewApplicationNamed">%1$s ਨਾਲ ਖੋਲ੍ਹੋ</string>
+</resources>

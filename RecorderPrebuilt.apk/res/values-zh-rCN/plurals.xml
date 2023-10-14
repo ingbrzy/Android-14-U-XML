@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="og_backup_failed_title">
+        <item quantity="other">%1$d 项内容备份失败</item>
+        <item quantity="one">%1$d 项内容备份失败</item>
+    </plurals>
+    <plurals name="og_backup_items_left">
+        <item quantity="other">还剩 %1$d 项</item>
+        <item quantity="one">还剩 %1$d 项</item>
+    </plurals>
+    <plurals name="og_backup_items_stopped_title">
+        <item quantity="other">%1$d 项内容未备份</item>
+        <item quantity="one">%1$d 项内容未备份</item>
+    </plurals>
+    <plurals name="peoplekit_chips_copied_recipients">
+        <item quantity="other">已复制 %d 个收件人</item>
+        <item quantity="one">已复制 %d 个收件人</item>
+    </plurals>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="select_logpersist_summaries">
+        <item>Naka-off</item>
+        <item>Lahat ng buffer ng log</item>
+        <item>Lahat maliban sa buffer ng log ng radyo</item>
+        <item>kernel log buffer lang</item>
+    </string-array>
+</resources>

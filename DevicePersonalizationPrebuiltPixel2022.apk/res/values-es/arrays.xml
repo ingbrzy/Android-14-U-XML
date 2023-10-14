@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="call_captions_typing_predictions_post_system_message">
+        <item>Hola, ¿con quién hablo?</item>
+        <item>Hola, ¿qué tal?</item>
+        <item>Por favor, espera un momento</item>
+        <item>Hola, ¿puedes llamar más tarde?</item>
+        <item>¡Hola! Gracias por llamarnos.</item>
+    </string-array>
+    <string-array name="captions_settings_enable_for_calls_choices_entries">
+        <item>Preguntar cada vez</item>
+        <item>Siempre</item>
+        <item>Desactivado</item>
+    </string-array>
+    <string-array name="captions_settings_typing_voice_names">
+        <item>Voz A</item>
+        <item>Voz B</item>
+        <item>Voz C</item>
+        <item>Voz D</item>
+        <item>Voz E</item>
+        <item>Voz F</item>
+        <item>Voz G</item>
+        <item>Voz H</item>
+        <item>Voz I</item>
+        <item>Voz J</item>
+        <item>Voz K</item>
+        <item>Voz L</item>
+        <item>Voz M</item>
+        <item>Voz N</item>
+        <item>Voz O</item>
+        <item>Voz P</item>
+    </string-array>
+    <string-array name="pref_download_policy_entries">
+        <item>Por redes móviles y Wi-Fi</item>
+        <item>Solo por Wi-Fi</item>
+        <item>No actualizar</item>
+    </string-array>
+    <string-array name="pref_download_policy_entry_values_placeholder">
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+</resources>

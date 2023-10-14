@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_install_failed_multi_app_desc">
+        <item quantity="other">Non se puido completar a configuración, xa que se produciu un erro ao instalar %1$d aplicacións necesarias. Ponte en contacto directamente coa persoa que administra o sistema.</item>
+        <item quantity="one">Non se puido completar a configuración, xa que se produciu un erro ao instalar %1$d aplicación necesaria. Ponte en contacto directamente coa persoa que administra o sistema.</item>
+    </plurals>
+    <plurals name="app_install_failure_title">
+        <item quantity="other">Non se puideron instalar as aplicacións</item>
+        <item quantity="one">Non se puido instalar a aplicación</item>
+    </plurals>
+    <plurals name="app_install_progress_desc">
+        <item quantity="other">Instaláronse %1$d de %2$d aplicacións</item>
+        <item quantity="one">Instalouse %1$d de %2$d aplicacións</item>
+    </plurals>
+    <plurals name="app_uninstall_button">
+        <item quantity="other">Desinstalar aplicacións</item>
+        <item quantity="one">Desinstalar aplicación</item>
+    </plurals>
+    <plurals name="days_left_message">
+        <item quantity="other">Quedan &lt;annotation id="numeric_time_left">^1&lt;/annotation> días</item>
+        <item quantity="one">Queda &lt;annotation id="numeric_time_left">^1&lt;/annotation> día</item>
+    </plurals>
+    <plurals name="hours_left_message">
+        <item quantity="other">Quedan &lt;annotation id="numeric_time_left">^1&lt;/annotation> horas</item>
+        <item quantity="one">Queda &lt;annotation id="numeric_time_left">^1&lt;/annotation> hora</item>
+    </plurals>
+    <plurals name="number_of_additional_apps">
+        <item quantity="other">%1$d aplicacións adicionais</item>
+        <item quantity="one">%1$d aplicación adicional</item>
+    </plurals>
+    <plurals name="number_of_required_apps">
+        <item quantity="other">%1$d aplicación requiridas</item>
+        <item quantity="one">%1$d aplicación requirida</item>
+    </plurals>
+    <plurals name="policy_apps_list_summary">
+        <item quantity="other">Non se puideron instalar %d aplicacións do traballo</item>
+        <item quantity="one">Non se puido instalar %d aplicación do traballo</item>
+    </plurals>
+    <plurals name="preinstalled_apps">
+        <item quantity="other">Instaláronse %1$d de %2$d aplicacións</item>
+        <item quantity="one">Instalouse %1$d de %2$d aplicacións</item>
+    </plurals>
+    <plurals name="readable_name_applications">
+        <item quantity="other">%1$d aplicacións dispoñibles (%2$d instaladas e %3$d desactivadas)</item>
+        <item quantity="one">%1$d aplicación dispoñible (%2$d instalada e %3$d desactivada)</item>
+    </plurals>
+</resources>

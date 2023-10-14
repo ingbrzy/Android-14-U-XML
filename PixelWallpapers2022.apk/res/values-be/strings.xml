@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="azure_title">Ультрамарынавая сойка</string>
+    <string name="blackswan_title">Чорны лебедзь</string>
+    <string name="cockatoo_title">Какаду</string>
+    <string name="come_alive_title">Жывы экран</string>
+    <string name="feathers_attribution">Аўтар фота: Andrew Zuckerman</string>
+    <string name="feathers_description">Неймаверная дакладнасць колеру і дэталей</string>
+    <string name="feathers_title">"Пер'е"</string>
+    <string name="greenwinged_title">Зялёнакрылы ара</string>
+    <string name="king_title">Каралеўскі грыф</string>
+    <string name="living_universe_title">Жывы сусвет</string>
+    <string name="photos_memory_gallery_title">Вашы ўспаміны</string>
+    <string name="pied_title">Пярэстая варона</string>
+    <string name="ringnecked_title">Індыйскі кольчаты папугай</string>
+    <string name="seagull_title">Чайка</string>
+</resources>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="duration_min">
+        <item quantity="other">%d хв</item>
+        <item quantity="one">%d хв</item>
+        <item quantity="few">%d хв</item>
+        <item quantity="many">%d хв</item>
+    </plurals>
+    <plurals name="echo_smartspace_duration_hr">
+        <item quantity="other">%d гадз</item>
+        <item quantity="one">%d гадз</item>
+        <item quantity="few">%d гадз</item>
+        <item quantity="many">%d гадз</item>
+    </plurals>
+    <plurals name="echo_smartspace_duration_min">
+        <item quantity="other">%d хв</item>
+        <item quantity="one">%d хв</item>
+        <item quantity="few">%d хв</item>
+        <item quantity="many">%d хв</item>
+    </plurals>
+    <plurals name="jam_clock_timer_a_hour_b_minute_c_second_timer">
+        <item quantity="other">%1$dh %2$dm %3$ds Timer</item>
+        <item quantity="one">%1$dh %2$dm %3$ds Timer</item>
+        <item quantity="two">%1$dh %2$dm %3$ds Timer</item>
+    </plurals>
+    <plurals name="jam_clock_timer_a_hour_b_minute_timer">
+        <item quantity="other">%1$dh %2$dm Timer</item>
+        <item quantity="one">%1$dh %2$dm Timer</item>
+        <item quantity="two">%1$dh %2$dm Timer</item>
+    </plurals>
+    <plurals name="jam_clock_timer_a_hour_c_second_timer">
+        <item quantity="other">%1$dh %2$ds Timer</item>
+        <item quantity="one">%1$dh %2$ds Timer</item>
+        <item quantity="two">%1$dh %2$ds Timer</item>
+    </plurals>
+    <plurals name="jam_clock_timer_a_hour_timer">
+        <item quantity="other">%1$dh Timer</item>
+        <item quantity="one">%1$dh Timer</item>
+    </plurals>
+    <plurals name="jam_clock_timer_appx_a_hour_b_minute_left">
+        <item quantity="other">Approximately %1$dh %2$dm left</item>
+        <item quantity="one">Approximately %1$dh %2$dm left</item>
+        <item quantity="two">Approximately %1$dh %2$dm left</item>
+    </plurals>
+    <plurals name="jam_clock_timer_appx_a_hour_left">
+        <item quantity="other">Approximately %1$dh left</item>
+        <item quantity="one">Approximately %1$dh left</item>
+    </plurals>
+    <plurals name="jam_clock_timer_appx_a_minute_left">
+        <item quantity="other">Approximately %1$dm left</item>
+        <item quantity="one">Approximately %1$dm left</item>
+    </plurals>
+    <plurals name="jam_clock_timer_b_minute_c_second_timer">
+        <item quantity="other">%1$dm %2$ds Timer</item>
+        <item quantity="one">%1$dm %2$ds Timer</item>
+        <item quantity="two">%1$dm %2$ds Timer</item>
+    </plurals>
+    <plurals name="jam_clock_timer_b_minute_timer">
+        <item quantity="other">%1$dm Timer</item>
+        <item quantity="one">%1$dm Timer</item>
+    </plurals>
+    <plurals name="jam_clock_timer_c_second_timer">
+        <item quantity="other">%1$ds Timer</item>
+        <item quantity="one">%1$ds Timer</item>
+    </plurals>
+    <plurals name="numberOfExtraItems">
+        <item quantity="other">+%d элемента</item>
+        <item quantity="one">+%d элемент</item>
+        <item quantity="few">+%d элементы</item>
+        <item quantity="many">+%d элементаў</item>
+    </plurals>
+    <plurals name="song_card_multi_subtitle">
+        <item quantity="other">Выбрана %d элемента</item>
+        <item quantity="one">Выбраны %d элемент</item>
+        <item quantity="few">Выбрана %d элементы</item>
+        <item quantity="many">Выбрана %d элементаў</item>
+    </plurals>
+    <plurals name="translate_language_chooser_summary">
+        <item quantity="other">Субцітры на %d мовы</item>
+        <item quantity="one">Субцітры на %d мове</item>
+        <item quantity="few">Субцітры на %d мовах</item>
+        <item quantity="many">Субцітры на %d мовах</item>
+    </plurals>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bundle1_color_name">ნახშირბადი</string>
+    <string name="bundle2_color_name">ქაღალდი</string>
+    <string name="bundle3_color_name">მზე</string>
+    <string name="color_name_monochromatic">მონოქრომატული</string>
+    <string name="default_color_name">კლასიკური</string>
+    <string name="fruit1_color_name">ყვითელი და წითელი ორფერიანი პალიტრა</string>
+    <string name="fruit2_color_name">მწვანე და ნარინჯისფერი ორფერიანი პალიტრა</string>
+    <string name="fruit3_color_name">ლურჯი და მწვანე ორფერიანი პალიტრა</string>
+    <string name="fruit4_color_name">ღია იისფერი და ლურჯი ორფერიანი პალიტრა</string>
+    <string name="fruit5_color_name">ვარდისფერი და მუქი ლურჯი ორფერიანი პალიტრა</string>
+    <string name="rainbow1_color_name">წითელი</string>
+    <string name="rainbow2_color_name">ნარინჯისფერი</string>
+    <string name="rainbow3_color_name">ყვითელი</string>
+    <string name="rainbow4_color_name">მწვანე</string>
+    <string name="rainbow5_color_name">ლურჯი</string>
+    <string name="rainbow6_color_name">მუქი ლურჯი</string>
+    <string name="rainbow7_color_name">იისფერი</string>
+</resources>

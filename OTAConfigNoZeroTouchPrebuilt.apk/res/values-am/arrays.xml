@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sim_locked_notification_custom_content_array">
+        <item>ይህንን SIM ካርድ ለመጠቀም የመሣሪያ መክፈቻ መተግበሪያን በመጠቀም ስልክዎን ይክፈቱ።</item>
+        <item>እባክዎ የሞባይል አገልግሎት አቅራቢዎን ያነጋግሩ</item>
+    </string-array>
+</resources>

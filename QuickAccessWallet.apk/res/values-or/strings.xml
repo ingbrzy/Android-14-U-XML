@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_menu">ମେନୁ</string>
+    <string name="call_notification_answer_action">ଉତ୍ତର ଦିଅନ୍ତୁ</string>
+    <string name="call_notification_answer_video_action">ଭିଡିଓ</string>
+    <string name="call_notification_decline_action">ଅଗ୍ରାହ୍ୟ କର</string>
+    <string name="call_notification_hang_up_action">ସମାପ୍ତ କରନ୍ତୁ</string>
+    <string name="call_notification_incoming_text">ଇନକମିଂ କଲ୍</string>
+    <string name="call_notification_ongoing_text">ଚାଲିଥିବା କଲ୍</string>
+    <string name="call_notification_screening_text">ଏକ ଇନକମିଂ କଲକୁ ସ୍କ୍ରିନ୍ କରୁଛି</string>
+    <string name="error_generic">ଆପଣଙ୍କ କାର୍ଡଗୁଡ଼ିକ ପାଇବାରେ କୌଣସି ସମସ୍ୟା ହୋଇଥିଲା, ଦୟାକରି ପରେ ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ</string>
+    <string name="error_user_locked">ଆପଣଙ୍କର ପେମେଣ୍ଟ ସୂଚନା ଲୋଡ୍ କରିବା ପାଇଁ ଆପଣଙ୍କର ଫୋନ୍ ଅନ୍‌ଲକ୍ କରନ୍ତୁ</string>
+    <string name="settings">ସେଟିଂସ୍</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

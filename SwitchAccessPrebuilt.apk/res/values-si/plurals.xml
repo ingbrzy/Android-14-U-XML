@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dots">
+        <item quantity="other">තිත් %s</item>
+        <item quantity="one">තිත් %s</item>
+    </plurals>
+    <plurals name="gestures_recorded_message">
+        <item quantity="other">ඉංගිත %dක් පටිගත කරන ලදි</item>
+        <item quantity="one">ඉංගිත %dක් පටිගත කරන ලදි</item>
+    </plurals>
+    <plurals name="label_num_keys_assigned_format">
+        <item quantity="other">ස්විච %dක් පවරන ලදී</item>
+        <item quantity="one">ස්විච %dක් පවරන ලදී</item>
+    </plurals>
+    <plurals name="label_num_scanning_loops_format">
+        <item quantity="other">ලූප %d</item>
+        <item quantity="one">ලූප %d</item>
+    </plurals>
+    <plurals name="line_speed_summary_format">
+        <item quantity="other">තත්පරයකට %.2f cm</item>
+        <item quantity="one">තත්පරයකට %.2f cm</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">නව දැනුම්දීම් %dක්</item>
+        <item quantity="one">නව දැනුම්දීම් %dක්</item>
+    </plurals>
+    <plurals name="time_delay_summary_format">
+        <item quantity="other">තත්පර %.2f</item>
+        <item quantity="one">තත්පර %.2f</item>
+    </plurals>
+</resources>

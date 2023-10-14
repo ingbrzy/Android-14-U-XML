@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Услуги за различни устройства</string>
+    <string name="app_name_generic">приложение</string>
+    <string name="app_stream_error_generic">По време на споделянето на приложение възникна грешка</string>
+    <string name="app_stream_init_error_generic">Споделянето на приложение на вашия Chromebook не бе успешно</string>
+    <string name="audio_permission_rationale">Разрешението за микрофона с цел споделяне на приложение е деактивирано</string>
+    <string name="cancel_button_label">Отказ</string>
+    <string name="chromebook_keyboard">Клавиатура на Chromebook</string>
+    <string name="chromebook_mouse">Мишка на Chromebook</string>
+    <string name="chromebook_touchscreen">Сензорен екран на Chromebook</string>
+    <string name="connect_device">Телефонът ви се свързва с отдалеченото устройство: %1$s</string>
+    <string name="decline_button_label">Отхвърляне</string>
+    <string name="development_notification_channel_name">Програмиране</string>
+    <string name="device_camera_cannot_access">Не може да се осъществи достъп до камерата на устройството от този Chromebook</string>
+    <string name="done_button_label">Готово</string>
+    <string name="enable_button_label">Активиране</string>
+    <string name="foreground_service_notification_channel_name">Общи</string>
+    <string name="foreground_service_notification_content">Докоснете, за да промените настройките</string>
+    <string name="foreground_service_notification_title">{0,plural, =1{Има връзка с # устройство}other{Има връзка с(ъс) # у-ва}}</string>
+    <string name="interactive_streaming_generic_notification">%1$s се предава поточно и известията се синхронизират за вашия Chromebook</string>
+    <string name="interactive_streaming_individual_notification">%1$s се предава поточно, а известия­та за %2$s се синхронизират</string>
+    <string name="interactive_streaming_notification">Предава се поточно към вашия Chromebook</string>
+    <string name="keyboard_name">Клавиатура за различни устройства</string>
+    <string name="lock_screen_notif_warning_content">Активирайте известията на заключения екран</string>
+    <string name="lock_screen_notif_warning_title">Известията няма да се пренасочват</string>
+    <string name="mouse_name">Мишка за различни устройства</string>
+    <string name="new_connection_confirm">Потвърждаване</string>
+    <string name="new_connection_deny">Отказ</string>
+    <string name="new_connection_title">Потвърдете, че низът съвпада</string>
+    <string name="notification_access_missing">Необходим е достъп до известията</string>
+    <string name="notification_access_missing_description">За да отворите известията на своя Chromebook, включете достъпа до тях</string>
+    <string name="notification_channel_name">Общи</string>
+    <string name="notification_listener_label">Споделяне на приложения с вашия Chromebook</string>
+    <string name="open_source_licenses">Лицензи за отворен код</string>
+    <string name="phone_permission_rationale">Разрешението за телефонни обаждания с цел споделяне на приложение е деактивирано</string>
+    <string name="prompt_switch_languages">Натиснете Shift + клавиша за интервал, за да превкл. езика за Gboard на телефона</string>
+    <string name="settings_button">Настройки</string>
+    <string name="stop_sharing_button">Край на предаването</string>
+    <string name="stream_termination_proximity_warning">Телефонът ви е твърде далеч. Приближете го, за да продължите да предавате поточно.</string>
+    <string name="substitute_app_name">Система</string>
+    <string name="summary_disable_wirecutter">Изключено</string>
+    <string name="summary_enable_wirecutter">Включено</string>
+    <string name="touchscreen_name">Сензорен екран за различни устройства</string>
+</resources>

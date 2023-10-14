@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="analog_gadget">ಅನಲಾಗ್</string>
+    <string name="digital_gadget">ಡಿಜಿಟಲ್</string>
+    <string name="analog_widget_clover_clock_name">ಕ್ಲೋವರ್</string>
+    <string name="analog_widget_clover_content_description">ಗಡಿಯಾರದ ಮುಖವು ಕ್ಲೋವರ್ ಆಕಾರದಲ್ಲಿದೆ</string>
+    <string name="analog_widget_config_activity_title">ಗಡಿಯಾರದ ಮುಖವನ್ನು ಆಯ್ಕೆಮಾಡಿ</string>
+    <string name="analog_widget_day_clock_name">ದಿನ</string>
+    <string name="analog_widget_day_content_description">ತಿಂಗಳ ದಿನವನ್ನು ಹೊಂದಿರುವ ಗಡಿಯಾರ ಮುಖ</string>
+    <string name="analog_widget_numeral_clock_name">ಸಾಂಖ್ಯಿಕ</string>
+    <string name="analog_widget_numeral_content_description">ದೊಡ್ಡ ಸಂಖ್ಯೆಗಳನ್ನು ಹೊಂದಿರುವ ಗಡಿಯಾರ ಮುಖ</string>
+    <string name="analog_widget_scallop_clock_name">ಸ್ಕಾಲಪ್</string>
+    <string name="analog_widget_scallop_content_description">ವಾರದ ಮತ್ತು ತಿಂಗಳ ದಿನವನ್ನು ಹೊಂದಿರುವ ಗಡಿಯಾರ ಮುಖ</string>
+    <string name="cities_widget_config_activity_subtitle">ಗಡಿಯಾರ ಟ್ಯಾಬ್ ಮೂಲಕ ನಗರಗಳನ್ನು ಸೇರಿಸಬಹುದು</string>
+    <string name="cities_widget_config_activity_subtitle_button">ಗಡಿಯಾರ ಆ್ಯಪ್‌ನಲ್ಲಿ ನಗರಗಳನ್ನು ಆಯ್ಕೆಮಾಡಿ</string>
+    <string name="cities_widget_preview_city_london">ಲಂಡನ್</string>
+    <string name="cities_widget_preview_city_mountain_view">ಮೌಂಟೇನ್‌ ವ್ಯೂ</string>
+    <string name="clock_widget_opaque_label">ಘನ</string>
+    <string name="clock_widget_transparent_label">ಪಾರದರ್ಶಕ</string>
+    <string name="digital_appwidget_config_activity_title">ಗಡಿಯಾರದ ಶೈಲಿಯನ್ನು ಆಯ್ಕೆಮಾಡಿ</string>
+    <string name="digital_cities_gadget">ಜಾಗತಿಕ ಗಡಿಯಾರ</string>
+    <string name="digital_cities_gadget_description">ಗಡಿಯಾರ ಆ್ಯಪ್‌‌ನಲ್ಲಿ ನಗರಗಳನ್ನು ಆಯ್ಕೆಮಾಡಿ</string>
+    <string name="digital_stacked_gadget">ಸಂಗ್ರಹಿಸಲಾಗಿದೆ</string>
+    <string name="digital_widgets_preview_alarm">ಸೋಮ 09:30</string>
+    <string name="stopwatch_gadget_description">ಗಡಿಯಾರ ಆ್ಯಪ್‌‌ನಲ್ಲಿ ಸ್ಟಾಪ್‌ವಾಚ್ ಅನ್ನು ನಿಯಂತ್ರಿಸಿ</string>
+</resources>

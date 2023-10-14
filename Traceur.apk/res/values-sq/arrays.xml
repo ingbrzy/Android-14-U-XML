@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="select_logpersist_summaries">
+        <item>Joaktive</item>
+        <item>Të gjitha memoriet e regjistrit</item>
+        <item>Të gjitha memoriet e regjistrit, përveç atyre radio</item>
+        <item>vetëm memoria e regjistrimit të bërthamës</item>
+    </string-array>
+</resources>

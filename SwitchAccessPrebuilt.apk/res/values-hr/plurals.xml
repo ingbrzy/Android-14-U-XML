@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dots">
+        <item quantity="other">točke %s</item>
+        <item quantity="one">točke %s</item>
+        <item quantity="few">točke %s</item>
+    </plurals>
+    <plurals name="gestures_recorded_message">
+        <item quantity="other">Snimljeno %d pokreta</item>
+        <item quantity="one">Snimljen %d pokret</item>
+        <item quantity="few">Snimljena %d pokreta</item>
+    </plurals>
+    <plurals name="label_num_keys_assigned_format">
+        <item quantity="other">%d prekidača dodijeljeno</item>
+        <item quantity="one">%d prekidač dodijeljen</item>
+        <item quantity="few">%d prekidača dodijeljena</item>
+    </plurals>
+    <plurals name="label_num_scanning_loops_format">
+        <item quantity="other">%d petlji</item>
+        <item quantity="one">%d petlja</item>
+        <item quantity="few">%d petlje</item>
+    </plurals>
+    <plurals name="line_speed_summary_format">
+        <item quantity="other">%.2f cm u sekundi</item>
+        <item quantity="one">%.2f cm u sekundi</item>
+        <item quantity="few">%.2f cm u sekundi</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d novih obavijesti</item>
+        <item quantity="one">%d nova obavijest</item>
+        <item quantity="few">%d nove obavijesti</item>
+    </plurals>
+    <plurals name="time_delay_summary_format">
+        <item quantity="other">%.2f sekundi</item>
+        <item quantity="one">%.2f sekunda</item>
+        <item quantity="few">%.2f sekunde</item>
+    </plurals>
+</resources>

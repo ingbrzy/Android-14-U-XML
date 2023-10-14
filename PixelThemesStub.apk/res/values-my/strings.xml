@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bundle1_color_name">မီးသွေး</string>
+    <string name="bundle2_color_name">စာရွက်</string>
+    <string name="bundle3_color_name">နေ</string>
+    <string name="color_name_monochromatic">တစ်ရောင်တည်းအသွေးစုံ</string>
+    <string name="default_color_name">မူရင်း</string>
+    <string name="fruit1_color_name">အဝါနှင့် အနီ နှစ်ရောင်အစုအဖွဲ့</string>
+    <string name="fruit2_color_name">အစိမ်းနှင့် လိမ္မော် နှစ်ရောင်အစုအဖွဲ့</string>
+    <string name="fruit3_color_name">အပြာနှင့် အစိမ်း နှစ်ရောင်အစုအဖွဲ့</string>
+    <string name="fruit4_color_name">ခရမ်းဖျော့နှင့် အပြာ နှစ်ရောင်အစုအဖွဲ့</string>
+    <string name="fruit5_color_name">ပန်းရောင်နှင့် မဲနယ် နှစ်ရောင်အစုအဖွဲ့</string>
+    <string name="rainbow1_color_name">အနီ</string>
+    <string name="rainbow2_color_name">လိမ္မော်</string>
+    <string name="rainbow3_color_name">အဝါ</string>
+    <string name="rainbow4_color_name">အစိမ်း</string>
+    <string name="rainbow5_color_name">အပြာ</string>
+    <string name="rainbow6_color_name">မဲနယ်</string>
+    <string name="rainbow7_color_name">ခရမ်း</string>
+</resources>

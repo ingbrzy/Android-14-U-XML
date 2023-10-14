@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sim App Dialog</string>
+    <string name="call_notification_answer_action">Vastaa</string>
+    <string name="call_notification_answer_video_action">Video</string>
+    <string name="call_notification_decline_action">Hylkää</string>
+    <string name="call_notification_hang_up_action">Lopeta puhelu</string>
+    <string name="call_notification_incoming_text">Saapuva puhelu</string>
+    <string name="call_notification_ongoing_text">Käynnissä oleva puhelu</string>
+    <string name="call_notification_screening_text">Seulotaan saapuvaa puhelua</string>
+    <string name="install_carrier_app_defer_action">Ei nyt</string>
+    <string name="install_carrier_app_description">Jotta uusi SIM-korttisi toimii kunnolla, sinun on asennettava %1$s</string>
+    <string name="install_carrier_app_description_default">Jotta uusi SIM-korttisi toimii kunnolla, sinun on asennettava operaattorin sovellus</string>
+    <string name="install_carrier_app_download_action">Lataa sovellus</string>
+    <string name="install_carrier_app_title">Aktivoi mobiilipalvelu</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="suw_back_button_label">Takaisin</string>
+    <string name="suw_more_button_label">Lisää</string>
+    <string name="suw_next_button_label">Seuraava</string>
+</resources>

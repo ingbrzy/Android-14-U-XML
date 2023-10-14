@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_set">
+        <item>Der Wecker klingelt in weniger als einer Minute.</item>
+        <item>Der Wecker klingelt in %1$s.</item>
+        <item>Der Wecker klingelt in %2$s.</item>
+        <item>Der Wecker klingelt in %1$s und %2$s.</item>
+        <item>Der Wecker klingelt in %3$s.</item>
+        <item>Der Wecker klingelt in %1$s und %3$s.</item>
+        <item>Der Wecker klingelt in %2$s und %3$s.</item>
+        <item>Der Wecker klingelt in %1$s, %2$s und %3$s.</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>1 Minute</item>
+        <item>5 Minuten</item>
+        <item>10 Minuten</item>
+        <item>15 Minuten</item>
+        <item>20 Minuten</item>
+        <item>25 Minuten</item>
+        <item>@string/auto_silence_entry_never</item>
+    </string-array>
+    <string-array name="bedtime_reminder_entries">
+        <item>15 Minuten vor der Schlafenszeit</item>
+        <item>30 Minuten vor der Schlafenszeit</item>
+        <item>45 Minuten vor der Schlafenszeit</item>
+        <item>1 Stunde vor der Schlafenszeit</item>
+        <item>Aus</item>
+    </string-array>
+    <string-array name="clock_style_entries">
+        <item>Analog</item>
+        <item>Digital</item>
+    </string-array>
+    <string-array name="crescendo_entries">
+        <item>@string/crescendo_entry_never</item>
+        <item>5 Sekunden</item>
+        <item>10 Sekunden</item>
+        <item>15 Sekunden</item>
+        <item>20 Sekunden</item>
+        <item>25 Sekunden</item>
+        <item>30 Sekunden</item>
+        <item>35 Sekunden</item>
+        <item>40 Sekunden</item>
+        <item>45 Sekunden</item>
+        <item>50 Sekunden</item>
+        <item>55 Sekunden</item>
+        <item>60 Sekunden</item>
+    </string-array>
+    <string-array name="sleep_duration">
+        <item>%2$s</item>
+        <item>%1$s</item>
+        <item>%1$s %2$s</item>
+    </string-array>
+    <string-array name="sleep_sound_length_content_descriptions">
+        <item>Nach 10 Minuten beenden</item>
+        <item>Nach 20 Minuten beenden</item>
+        <item>Nach 30 Minuten beenden</item>
+        <item>Nach 40 Minuten beenden</item>
+        <item>Nach 50 Minuten beenden</item>
+        <item>Beenden nach 1 Stunde</item>
+    </string-array>
+    <string-array name="sleep_sound_length_descriptions">
+        <item>Beenden nach 10 Min.</item>
+        <item>Beenden nach 20 Min.</item>
+        <item>Beenden nach 30 Min.</item>
+        <item>Beenden nach 40 Min.</item>
+        <item>Beenden nach 50 Min.</item>
+        <item>Beenden nach 1 Stunde</item>
+    </string-array>
+    <string-array name="sleep_sound_length_entries">
+        <item>10 Minuten</item>
+        <item>20 Minuten</item>
+        <item>30 Minuten</item>
+        <item>40 Minuten</item>
+        <item>50 Minuten</item>
+        <item>1 Stunde</item>
+    </string-array>
+    <string-array name="snooze_duration_entries">
+        <item>1 Minute</item>
+        <item>2 Minuten</item>
+        <item>3 Minuten</item>
+        <item>4 Minuten</item>
+        <item>5 Minuten</item>
+        <item>6 Minuten</item>
+        <item>7 Minuten</item>
+        <item>8 Minuten</item>
+        <item>9 Minuten</item>
+        <item>10 Minuten</item>
+        <item>11 Minuten</item>
+        <item>12 Minuten</item>
+        <item>13 Minuten</item>
+        <item>14 Minuten</item>
+        <item>15 Minuten</item>
+        <item>16 Minuten</item>
+        <item>17 Minuten</item>
+        <item>18 Minuten</item>
+        <item>19 Minuten</item>
+        <item>20 Minuten</item>
+        <item>21 Minuten</item>
+        <item>22 Minuten</item>
+        <item>23 Minuten</item>
+        <item>24 Minuten</item>
+        <item>25 Minuten</item>
+        <item>26 Minuten</item>
+        <item>27 Minuten</item>
+        <item>28 Minuten</item>
+        <item>29 Minuten</item>
+        <item>30 Minuten</item>
+    </string-array>
+    <string-array name="timer_duration">
+        <item>Timer</item>
+        <item>Timer: %3$s</item>
+        <item>Timer: %2$s</item>
+        <item>Timer: %2$s %3$s</item>
+        <item>Timer: %1$s</item>
+        <item>Timer: %1$s %3$s</item>
+        <item>Timer: %1$s %2$s</item>
+        <item>Timer: %1$s %2$s %3$s</item>
+    </string-array>
+    <string-array name="timer_duration_short">
+        <item>Timer</item>
+        <item>Timer: %3$s</item>
+        <item>Timer: %2$s</item>
+        <item>Timer: %2$s %3$s</item>
+        <item>Timer: %1$s</item>
+        <item>Timer: %1$s %3$s</item>
+        <item>Timer: %1$s %2$s</item>
+        <item>Timer: %1$s %2$s %3$s</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>Marshallinseln</item>
+        <item>Midwayinseln</item>
+        <item>Hawaii</item>
+        <item>Alaska</item>
+        <item>Pacific Time</item>
+        <item>Tijuana</item>
+        <item>Arizona</item>
+        <item>Chihuahua</item>
+        <item>Mountain Time</item>
+        <item>Mittelamerika</item>
+        <item>Central Time</item>
+        <item>Mexiko-Stadt</item>
+        <item>Saskatchewan</item>
+        <item>Bogotá</item>
+        <item>Eastern Time</item>
+        <item>Venezuela</item>
+        <item>Atlantik (Barbados)</item>
+        <item>Atlantik (Kanada)</item>
+        <item>Manaus</item>
+        <item>Santiago</item>
+        <item>Neufundland</item>
+        <item>Brasília</item>
+        <item>Buenos Aires</item>
+        <item>Grönland</item>
+        <item>Montevideo</item>
+        <item>Mittlerer Atlantik</item>
+        <item>Azoren</item>
+        <item>Kapverdische Inseln</item>
+        <item>Casablanca</item>
+        <item>London, Dublin</item>
+        <item>Amsterdam, Berlin</item>
+        <item>Belgrad</item>
+        <item>Brüssel</item>
+        <item>Sarajevo</item>
+        <item>Windhoek</item>
+        <item>West Africa Time</item>
+        <item>Amman, Jordanien</item>
+        <item>Athen, Istanbul</item>
+        <item>Beirut, Libanon</item>
+        <item>Kairo</item>
+        <item>Helsinki</item>
+        <item>Jerusalem</item>
+        <item>Minsk</item>
+        <item>Harare</item>
+        <item>Bagdad</item>
+        <item>Moskau</item>
+        <item>Kuwait</item>
+        <item>Nairobi</item>
+        <item>Teheran</item>
+        <item>Baku</item>
+        <item>Tiflis</item>
+        <item>Eriwan</item>
+        <item>Dubai</item>
+        <item>Kabul</item>
+        <item>Islamabad, Karatschi</item>
+        <item>Oral</item>
+        <item>Yekaterinburg</item>
+        <item>Kalkutta</item>
+        <item>Sri Lanka</item>
+        <item>Kathmandu</item>
+        <item>Astana</item>
+        <item>Rangun</item>
+        <item>Krasnoyarsk</item>
+        <item>Bangkok</item>
+        <item>Peking</item>
+        <item>Hongkong</item>
+        <item>Irkutsk</item>
+        <item>Kuala Lumpur</item>
+        <item>Perth</item>
+        <item>Taipeh</item>
+        <item>Seoul</item>
+        <item>Tokio, Osaka</item>
+        <item>Yakutsk</item>
+        <item>Adelaide</item>
+        <item>Darwin</item>
+        <item>Brisbane</item>
+        <item>Hobart</item>
+        <item>Sydney, Canberra</item>
+        <item>Vladivostok</item>
+        <item>Guam</item>
+        <item>Magadan</item>
+        <item>Auckland</item>
+        <item>Fidschi</item>
+        <item>Tonga</item>
+        <item>Jakarta</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>@string/alarm_alert_snooze_text</item>
+        <item>Beenden</item>
+        <item>Lautstärke regeln</item>
+        <item>Nichts tun</item>
+    </string-array>
+    <string-array name="wakeup_alarm_description">
+        <item>Dein Wecker klingelt in weniger als 1 Minute</item>
+        <item>Dein Wecker klingelt in %1$s</item>
+        <item>Dein Wecker klingelt in %2$s</item>
+        <item>Dein Wecker klingelt in %1$s und %2$s</item>
+        <item>Dein Wecker klingelt in %3$s</item>
+        <item>Dein Wecker klingelt in %1$s und %3$s</item>
+        <item>Dein Wecker klingelt in %2$s und %3$s</item>
+        <item>Dein Wecker klingelt in %1$s, %2$s und %3$s</item>
+    </string-array>
+    <string-array name="week_start_entries">
+        <item>Freitag</item>
+        <item>Samstag</item>
+        <item>Sonntag</item>
+        <item>Montag</item>
+    </string-array>
+</resources>

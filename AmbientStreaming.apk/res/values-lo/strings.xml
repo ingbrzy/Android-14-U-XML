@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ບໍລິການຂ້າມອຸປະກອນ</string>
+    <string name="app_name_generic">ແອັບ</string>
+    <string name="app_stream_error_generic">ເກີດຂໍ້ຜິດພາດຂຶ້ນໃນລະຫວ່າງການແບ່ງປັນແອັບ</string>
+    <string name="app_stream_init_error_generic">ການແບ່ງປັນໄປຫາ Chromebook ຂອງທ່ານບໍ່ສຳເລັດ</string>
+    <string name="audio_permission_rationale">ການອະນຸຍາດໄມໂຄຣໂຟນສຳລັບການແບ່ງປັນແອັບຖືກປິດການນຳໃຊ້ໄວ້</string>
+    <string name="cancel_button_label">ຍົກເລີກ</string>
+    <string name="chromebook_keyboard">ແປ້ນພິມ Chromebook</string>
+    <string name="chromebook_mouse">ເມົ້າ Chromebook</string>
+    <string name="chromebook_touchscreen">ໜ້າຈໍສຳຜັດ Chromebook</string>
+    <string name="connect_device">ກຳລັງເຊື່ອມຕໍ່ໂທລະສັບຂອງທ່ານຫາອຸປະກອນທາງໄກ: %1$s</string>
+    <string name="decline_button_label">ປະຕິເສດ</string>
+    <string name="development_notification_channel_name">ການພັດທະນາ</string>
+    <string name="device_camera_cannot_access">ບໍ່ສາມາດເຂົ້າເຖິງກ້ອງຖ່າຍຮູບອຸປະກອນຈາກ Chromebook ນີ້ໄດ້</string>
+    <string name="done_button_label">ແລ້ວໆ</string>
+    <string name="enable_button_label">ເປີດການນຳໃຊ້</string>
+    <string name="foreground_service_notification_channel_name">ທົ່ວໄປ</string>
+    <string name="foreground_service_notification_content">ແຕະເພື່ອແກ້ໄຂການຕັ້ງຄ່າ</string>
+    <string name="foreground_service_notification_title">{0,plural, =1{ເຊື່ອມຕໍ່ຫາ # ອຸປະກອນແລ້ວ}other{ເຊື່ອມຕໍ່ຫາ # ອຸປະກອນແລ້ວ}}</string>
+    <string name="interactive_streaming_generic_notification">ການສະຕຣີມ %1$s ແລະ ການແຈ້ງເຕືອນການຊິ້ງຂໍ້ມູນສຳລັບ Chromebook ຂອງທ່ານ</string>
+    <string name="interactive_streaming_individual_notification">ກຳລັງສະຕຣີມ %1$s ແລະ ຊິ້ງຂໍ້ມູນການແຈ້ງເຕືອນສຳລັບ %2$s</string>
+    <string name="interactive_streaming_notification">ການສະຕຣີມໄປໃສ່ Chromebook ຂອງທ່ານ</string>
+    <string name="keyboard_name">ແປ້ນພິມຂ້າມອຸປະກອນ</string>
+    <string name="lock_screen_notif_warning_content">ເປີດການນຳໃຊ້ການແຈ້ງເຕືອນຢູ່ໜ້າຈໍລັອກ</string>
+    <string name="lock_screen_notif_warning_title">ລະບົບຈະບໍ່ສົ່ງຕໍ່ການແຈ້ງເຕືອນ</string>
+    <string name="mouse_name">ເມົ້າແບບຂ້າມອຸປະກອນ</string>
+    <string name="new_connection_confirm">ຢືນຢັນ</string>
+    <string name="new_connection_deny">ປະຕິເສດ</string>
+    <string name="new_connection_title">ກະລຸນາຢືນຢັນການຈັບຄູ່ສະຕຣິງ</string>
+    <string name="notification_access_missing">ຕ້ອງໃຊ້ການເຂົ້າເຖິງການແຈ້ງເຕືອນ</string>
+    <string name="notification_access_missing_description">ເພື່ອເປີດການແຈ້ງເຕືອນຢູ່ Chromebook ຂອງທ່ານ, ກະລຸນາເປີດໃຊ້ການເຂົ້າເຖິງການແຈ້ງເຕືອນກ່ອນ</string>
+    <string name="notification_channel_name">ທົ່ວໄປ</string>
+    <string name="notification_listener_label">ແບ່ງປັນແອັບກັບ Chromebook ຂອງທ່ານ</string>
+    <string name="open_source_licenses">ໃບອະນຸຍາດໂອເພນຊອດ</string>
+    <string name="phone_permission_rationale">ການອະນຸຍາດການໂທລະສັບສຳລັບການແບ່ງປັນແອັບຖືກປິດການນຳໃຊ້ໄວ້</string>
+    <string name="prompt_switch_languages">ກົດປຸ່ມ shift + ຍະຫວ່າງ ເພື່ອສະຫຼັບພາສາ Gboard ໃນໂທລະສັບຂອງທ່ານ</string>
+    <string name="settings_button">ການຕັ້ງຄ່າ</string>
+    <string name="stop_sharing_button">ສິ້ນສຸດການສະຕຣີມ</string>
+    <string name="stream_termination_proximity_warning">ໂທລະສັບຂອງທ່ານຢູ່ໄກເກີນໄປ. ໃຫ້ນຳມັນມາໃກ້ຂຶ້ນເພື່ອສືບຕໍ່ການສະຕຣີມ.</string>
+    <string name="substitute_app_name">ລະບົບ</string>
+    <string name="summary_disable_wirecutter">ປິດ</string>
+    <string name="summary_enable_wirecutter">ເປີດ</string>
+    <string name="touchscreen_name">ໜ້າຈໍສຳຜັດແບບຂ້າມອຸປະກອນ</string>
+</resources>

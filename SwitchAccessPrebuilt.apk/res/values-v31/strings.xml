@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_font">google-sans</string>
+    <string name="accessibility_font_medium">google-sans-medium</string>
+    <string name="bodyFont">@font/settingslib_config_bodyFontFamily</string>
+    <string name="headlineFont">@font/settingslib_config_headlineFontFamilyMedium</string>
+</resources>

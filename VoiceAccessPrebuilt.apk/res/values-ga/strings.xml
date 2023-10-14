@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mdd_foreground_service_notification_title">Ag íoslódáil</string>
+    <string name="service_description_supported_languages">Ligeann Voice Access duit do ghléas Android a rialú lámhshaor. Úsáid orduithe gutha chun aipeanna a oscailt, cnaipí a thapáil, scrollú, clóscríobh agus tuilleadh. Ar fáil i mBéarla, Fraincis, Iodáilis, Gearmáinis agus Spáinnis faoi láthair.</string>
+    <string name="service_summary">Rialaigh gléas le guth</string>
+    <string name="voice_access_htmlDescription">Labhair le Voice Access agus rialaigh do ghléas lámhshaor. Bain triail as:&lt;br> &lt;br> &lt;ul> &lt;li>téigh abhaile &lt;li>téigh siar &lt;li>taispeáin fógraí &lt;li>cliceáil OK &lt;li>oscail grianghraif &lt;/ul> &lt;br> Tacaítear le go leor orduithe eile. Nuair atá Voice Access ag éisteacht, abair \"céard is féidir liom a rá?\" má theastaíonn tuilleadh faisnéise uait.</string>
+</resources>

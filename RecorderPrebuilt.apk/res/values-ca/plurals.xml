@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dlg_message_deletion_confirmation">
+        <item quantity="other">Les gravacions se suprimiran permanentment. Aquesta acció no es pot desfer.</item>
+        <item quantity="one">La gravació se suprimirà permanentment. Aquesta acció no es pot desfer.</item>
+    </plurals>
+    <plurals name="dlg_message_deletion_permanent_confirmation">
+        <item quantity="other">No hi ha cap còpia de seguretat de les gravacions. Se suprimiran permanentment. Aquesta acció no es pot desfer.</item>
+        <item quantity="one">No hi ha cap còpia de seguretat de la gravació. Se suprimirà permanentment. Aquesta acció no es pot desfer.</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_confirmation">
+        <item quantity="other">Vols suprimir les gravacions?</item>
+        <item quantity="one">Vols suprimir la gravació?</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_permanent_confirmation">
+        <item quantity="other">Vols suprimir permanentment aquestes gravacions?</item>
+        <item quantity="one">Vols suprimir permanentment aquesta gravació?</item>
+    </plurals>
+    <plurals name="download_failure_description_storage_full">
+        <item quantity="other">"No es poden baixar gravacions perquè l'emmagatzematge del dispositiu és ple. Toca per revisar-ho."</item>
+        <item quantity="one">"L'emmagatzematge del dispositiu és ple. Toca per revisar-ho."</item>
+    </plurals>
+    <plurals name="downloading_description">
+        <item quantity="other">"S'estan baixant %1$d gravacions"</item>
+        <item quantity="one">"S'està baixant %1$d gravació"</item>
+    </plurals>
+    <plurals name="og_backup_failed_title">
+        <item quantity="other">"No s'ha pogut fer la còpia de seguretat de %1$d elements"</item>
+        <item quantity="one">"No s'ha pogut fer la còpia de seguretat d‘%1$d element"</item>
+    </plurals>
+    <plurals name="og_backup_items_left">
+        <item quantity="other">Queden %1$d elements</item>
+        <item quantity="one">Queda %1$d element</item>
+    </plurals>
+    <plurals name="og_backup_items_stopped_title">
+        <item quantity="other">Hi ha %1$d elements sense còpia de seguretat</item>
+        <item quantity="one">Hi ha %1$d element sense còpia de seguretat</item>
+    </plurals>
+    <plurals name="peoplekit_chips_copied_recipients">
+        <item quantity="other">"S'han copiat %d destinataris"</item>
+        <item quantity="one">"S'ha copiat %d destinatari"</item>
+    </plurals>
+    <plurals name="search_results_count">
+        <item quantity="other">%1$d resultats</item>
+        <item quantity="one">%1$d resultat</item>
+    </plurals>
+    <plurals name="search_results_position">
+        <item quantity="other">^1/^2 resultats</item>
+        <item quantity="one">^1/^2 resultat</item>
+    </plurals>
+    <plurals name="search_results_position_content_description">
+        <item quantity="other">%1$d de %2$d resultats</item>
+        <item quantity="one">%1$d d‘%2$d resultat</item>
+    </plurals>
+    <plurals name="selected_recording_quantity">
+        <item quantity="other">%1$d seleccionades</item>
+        <item quantity="one">%1$d seleccionada</item>
+    </plurals>
+    <plurals name="snackbar_message_download_failed_storage_full">
+        <item quantity="other">"L'emmagatzematge del dispositiu és ple. No es poden baixar les gravacions."</item>
+        <item quantity="one">"L'emmagatzematge del dispositiu és ple. No es pot baixar la gravació."</item>
+    </plurals>
+    <plurals name="speaker_count">
+        <item quantity="other">%1$d interlocutors</item>
+        <item quantity="one">%1$d interlocutor</item>
+    </plurals>
+    <plurals name="uploading_description">
+        <item quantity="other">"S'estan penjant %1$d gravacions"</item>
+        <item quantity="one">"S'està penjant %1$d gravació"</item>
+    </plurals>
+</resources>

@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120000">
+        <item quantity="other">正在等待连接到 WLAN</item>
+        <item quantity="one">正在等待连接到 WLAN</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120002">
+        <item quantity="other">在此设备上（%d 个应用）</item>
+        <item quantity="one">在此设备上（%d 个应用）</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120003">
+        <item quantity="other">“%1$s”的功能</item>
+        <item quantity="one">“%1$s”的功能</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120004">
+        <item quantity="other">%d 天前安装</item>
+        <item quantity="one">%d 天前安装</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120005">
+        <item quantity="other">%d 小时前安装</item>
+        <item quantity="one">%d 小时前安装</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120006">
+        <item quantity="other">%d 分钟前安装</item>
+        <item quantity="one">%d 分钟前安装</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120007">
+        <item quantity="other">已选择 %1$d 个</item>
+        <item quantity="one">已选择 %1$d 个</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120008">
+        <item quantity="other">更新时间：%d 天前</item>
+        <item quantity="one">更新时间：%d 天前</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120009">
+        <item quantity="other">更新时间：%d 小时前</item>
+        <item quantity="one">更新时间：%d 小时前</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000a">
+        <item quantity="other">更新时间：%d 分钟前</item>
+        <item quantity="one">更新时间：%d 分钟前</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000b">
+        <item quantity="other">上次使用时间：%d 天前</item>
+        <item quantity="one">上次使用时间：%d 天前</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000c">
+        <item quantity="other">上次使用时间：%d 小时前</item>
+        <item quantity="one">上次使用时间：%d 小时前</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000d">
+        <item quantity="other">上次使用时间：%d 分钟前</item>
+        <item quantity="one">上次使用时间：%d 分钟前</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000f">
+        <item quantity="other">%d 天前扫描过应用</item>
+        <item quantity="one">%d 天前扫描过应用</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120010">
+        <item quantity="other">%d 小时前扫描过应用</item>
+        <item quantity="one">%d 小时前扫描过应用</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120011">
+        <item quantity="other">%d 分钟前扫描过应用</item>
+        <item quantity="one">%d 分钟前扫描过应用</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120014">
+        <item quantity="other">%1$d 条评价</item>
+        <item quantity="one">%1$d 条评价</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120015">
+        <item quantity="other">%1$d 条 %2$d 颗星的评价</item>
+        <item quantity="one">%1$d 条 %2$d 颗星的评价</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120016">
+        <item quantity="other">在 %1$d 台设备上安装。</item>
+        <item quantity="one">在 %1$d 台设备上安装。</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120017">
+        <item quantity="other">在 %1$d 台设备上安装。还有更多可用设备。</item>
+        <item quantity="one">在 %1$d 台设备上安装。还有更多可用设备。</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120018">
+        <item quantity="other">即将在您的%1$d台设备上安装此应用。</item>
+        <item quantity="one">即将在您的%1$d台设备上安装此应用。</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120019">
+        <item quantity="other">可额外享受 %1$d 个</item>
+        <item quantity="one">可额外享受 %1$d 个</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001a">
+        <item quantity="other">购买即可额外享受 %1$d 个</item>
+        <item quantity="one">购买即可额外享受 %1$d 个</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001b">
+        <item quantity="other">%1$d 天</item>
+        <item quantity="one">%1$d 天</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001c">
+        <item quantity="other">共 %2$s条评价，平均评分为 %1$s 星</item>
+        <item quantity="one">共 1 条评价，平均评分为 %1$s 星</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001d">
+        <item quantity="other">%s条评价</item>
+        <item quantity="one">1 条评价</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001e">
+        <item quantity="other">现在只需再执行 %1$d 步操作即可进入开发者模式。</item>
+        <item quantity="one">现在只需再执行 %1$d 步操作即可进入开发者模式。</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001f">
+        <item quantity="other">汽车</item>
+        <item quantity="one">汽车</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120020">
+        <item quantity="other">Chromebook</item>
+        <item quantity="one">Chromebook</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120021">
+        <item quantity="other">可折叠设备</item>
+        <item quantity="one">可折叠设备</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120022">
+        <item quantity="other">手机</item>
+        <item quantity="one">手机</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120023">
+        <item quantity="other">平板电脑</item>
+        <item quantity="one">平板电脑</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120024">
+        <item quantity="other">电视</item>
+        <item quantity="one">电视</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120025">
+        <item quantity="other">设备</item>
+        <item quantity="one">设备</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120026">
+        <item quantity="other">手表</item>
+        <item quantity="one">手表</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120027">
+        <item quantity="other">共有 %1$d 个 Play 积分。</item>
+        <item quantity="one">共有 %1$d 个 Play 积分。</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120028">
+        <item quantity="other">%1$d 小时</item>
+        <item quantity="one">%1$d 小时</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120029">
+        <item quantity="other">还剩 %1$d 小时</item>
+        <item quantity="one">还剩 1 小时</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002a">
+        <item quantity="other">正在安装 %1$d 个应用…</item>
+        <item quantity="one">正在安装 %1$d 个应用…</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002b">
+        <item quantity="other">多项安装操作已暂停</item>
+        <item quantity="one">一项安装操作已暂停</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002c">
+        <item quantity="other">将会安装 %1$d 个应用</item>
+        <item quantity="one">将会安装 %1$d 个应用</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002d">
+        <item quantity="other">上次更新时间：%d 天前</item>
+        <item quantity="one">上次更新时间：%d 天前</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002e">
+        <item quantity="other">上次更新时间：%d 小时前</item>
+        <item quantity="one">上次更新时间：%d 小时前</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002f">
+        <item quantity="other">上次更新时间：%d 分钟前</item>
+        <item quantity="one">上次更新时间：%d 分钟前</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120033">
+        <item quantity="other">%1$d 年前</item>
+        <item quantity="one">%1$d 年前</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120034">
+        <item quantity="other">%1$d 分钟</item>
+        <item quantity="one">%1$d 分钟</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120035">
+        <item quantity="other">还剩 %1$d 分钟</item>
+        <item quantity="one">还剩 1 分钟</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120037">
+        <item quantity="other">已选择 %1$d 个</item>
+        <item quantity="one">已选择 %1$d 个</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120038">
+        <item quantity="other">正在归档 %1$d 个应用</item>
+        <item quantity="one">正在归档 %1$d 个应用</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120039">
+        <item quantity="other">要移除所选应用吗？</item>
+        <item quantity="one">要移除所选应用吗？</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12003a">
+        <item quantity="other">已移除 %1$d 个应用</item>
+        <item quantity="one">已移除 %1$d 个应用</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12003d">
+        <item quantity="other">%1$d 个待安装项目</item>
+        <item quantity="one">%1$d 个待安装项目</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12003e">
+        <item quantity="other">正在进行 %1$d 项安装</item>
+        <item quantity="one">正在进行 %1$d 项安装</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120040">
+        <item quantity="other">%1$d 个待更新项</item>
+        <item quantity="one">%1$d 个待更新项</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120041">
+        <item quantity="other">正在进行 %1$d 项更新</item>
+        <item quantity="one">正在进行 %1$d 项更新</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120042">
+        <item quantity="other">已安装 %1$d 个应用</item>
+        <item quantity="one">已安装 %1$d 个应用</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120044">
+        <item quantity="other">%1$d 小时前发布</item>
+        <item quantity="one">%1$d 小时前发布</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120045">
+        <item quantity="other">%1$d 天前发布</item>
+        <item quantity="one">%1$d 天前发布</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120046">
+        <item quantity="other">已移除多个应用</item>
+        <item quantity="one">已移除一个应用</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120047">
+        <item quantity="other">%1$d 项更新需要批准</item>
+        <item quantity="one">%1$d 项更新需要批准</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120048">
+        <item quantity="other">有 %1$d 项更新</item>
+        <item quantity="one">有 %1$d 项更新</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120049">
+        <item quantity="other">有 %1$d 项更新</item>
+        <item quantity="one">有 %1$d 项更新</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004a">
+        <item quantity="other">全部更新</item>
+        <item quantity="one">更新</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004b">
+        <item quantity="other">已更新 %1$d 个应用</item>
+        <item quantity="one">已更新 %1$d 个应用</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004c">
+        <item quantity="other">%1$d 小时后结束</item>
+        <item quantity="one">%1$d 小时后结束</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004d">
+        <item quantity="other">%1$d 天后结束</item>
+        <item quantity="one">%1$d 天后结束</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004e">
+        <item quantity="other">%1$d 分钟</item>
+        <item quantity="one">%1$d 分钟</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004f">
+        <item quantity="other">%1$d 秒</item>
+        <item quantity="one">%1$d 秒</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120050">
+        <item quantity="other">已移除多个个人应用</item>
+        <item quantity="one">已移除一个个人应用</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120053">
+        <item quantity="other">Play 保护机制在 %d 天前进行了扫描</item>
+        <item quantity="one">Play 保护机制在 %d 天前进行了扫描</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120054">
+        <item quantity="other">Play 保护机制在 %d 小时前进行了扫描</item>
+        <item quantity="one">Play 保护机制在 %d 小时前进行了扫描</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120055">
+        <item quantity="other">Play 保护机制在 %d 分钟前进行了扫描</item>
+        <item quantity="one">Play 保护机制在 %d 分钟前进行了扫描</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120056">
+        <item quantity="other">再赢得 %1$s 积分可获取下一年的%2$s会员资格</item>
+        <item quantity="one">再赢得 1 积分可获取下一年的%2$s会员资格</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120057">
+        <item quantity="other">再赢得 %1$s 积分可晋升为%2$s会员</item>
+        <item quantity="one">再赢得 1 积分可晋升为%2$s会员</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120058">
+        <item quantity="other">您已向这些应用授予安装或更新未知应用的权限，这可能会使您的设备和个人信息面临风险。拒绝授予该权限即可阻止安装未知应用。</item>
+        <item quantity="one">您已向此应用授予安装或更新未知应用的权限，这可能会使您的设备和个人信息面临风险。拒绝授予该权限即可阻止安装未知应用。</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120059">
+        <item quantity="other">您已向 %1$d 款应用授予安装或更新未知应用的权限，这可能会使您的设备和个人信息面临风险</item>
+        <item quantity="one">您已向 1 款应用授予安装或更新未知应用的权限，这可能会使您的设备和个人信息面临风险</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005a">
+        <item quantity="other">%1$d 个隐私权警告</item>
+        <item quantity="one">1 个隐私权警告</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005b">
+        <item quantity="other">发现 %1$d 个有害应用</item>
+        <item quantity="one">发现 1 个有害应用</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005c">
+        <item quantity="other">%1$d 个安全通知</item>
+        <item quantity="one">1 个安全通知</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005d">
+        <item quantity="other">%1$d 项安全更新</item>
+        <item quantity="one">1 项安全更新</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005e">
+        <item quantity="other">发现 %1$d 个不安全的应用</item>
+        <item quantity="one">发现 1 个不安全的应用</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005f">
+        <item quantity="other">%1$d 个警告</item>
+        <item quantity="one">1 个警告</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120060">
+        <item quantity="other">发现不安全的应用</item>
+        <item quantity="one">发现不安全的应用</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120061">
+        <item quantity="other">%1$d 小时后结束</item>
+        <item quantity="one">%1$d 小时后结束</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120062">
+        <item quantity="other">%1$d 天后结束</item>
+        <item quantity="one">%1$d 天后结束</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120063">
+        <item quantity="other">已完成 %1$d 步，共 %2$d 步</item>
+        <item quantity="one">已完成 %1$d 步，共 %2$d 步</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120064">
+        <item quantity="other">%1$d 个应用已可安装</item>
+        <item quantity="one">%1$d 个应用已可安装</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120065">
+        <item quantity="other">“%1$s”将向您发送 %2$d 个应用。请确保配对码一致。</item>
+        <item quantity="one">“%1$s”将向您发送 %2$d 个应用。请确保配对码一致。</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120066">
+        <item quantity="other">正在接收来自“%2$s”的 %1$d 个应用…</item>
+        <item quantity="one">正在接收来自“%2$s”的 %1$d 个应用…</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006a">
+        <item quantity="other">%1$d 位用户认为此评价有用。将该评论标记为有用</item>
+        <item quantity="one">%1$d 位用户认为此评价有用。将该评论标记为有用</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006b">
+        <item quantity="other">%1$d 位用户认为此评价有用。取消该评论的有用标记</item>
+        <item quantity="one">%1$d 位用户认为此评价有用。取消该评论的有用标记</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006c">
+        <item quantity="other">%1$s 人认为这条评价有帮助</item>
+        <item quantity="one">%1$s 人认为这条评价有帮助</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006f">
+        <item quantity="other">%1$d 秒</item>
+        <item quantity="one">%1$d 秒</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120070">
+        <item quantity="other">还剩 %1$d 秒</item>
+        <item quantity="one">还剩 1 秒</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120071">
+        <item quantity="other">已选择 %1$d 个应用 • 总大小 %2$s</item>
+        <item quantity="one">已选择 %1$d 个应用 • 总大小 %2$s</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120072">
+        <item quantity="other">正在将 %1$d 个应用发送到“%2$s”…</item>
+        <item quantity="one">正在将 %1$d 个应用发送到“%2$s”…</item>
+    </plurals>
+    <plurals name="setup_completed_installed">
+        <item quantity="other">已安装 %1$d 个应用</item>
+        <item quantity="one">已安装 %1$d 个应用</item>
+    </plurals>
+    <plurals name="setup_completed_installed_with_failures">
+        <item quantity="other">%1$d 个应用无法安装（共有 %2$d 个应用）</item>
+        <item quantity="one">%1$d 个应用无法安装（共有 %2$d 个应用）</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120075">
+        <item quantity="other">上次使用：%1$d 天前</item>
+        <item quantity="one">上次使用：%1$d 天前</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120076">
+        <item quantity="other">恢复所选的 %1$d 个应用</item>
+        <item quantity="one">恢复所选的应用</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120078">
+        <item quantity="other">要下载 %1$d 种新语言吗？</item>
+        <item quantity="one">要下载新语言吗？</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007b">
+        <item quantity="other">%1$d 项调查问卷填答内容将会从您的帐号中永久移除。</item>
+        <item quantity="one">%1$d 项调查问卷填答内容将会从您的帐号中永久移除。</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007c">
+        <item quantity="other">已选择 %1$d 个</item>
+        <item quantity="one">已选择 %1$d 个</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007d">
+        <item quantity="other">显示 Play 积分。共有 %1$d 积分。</item>
+        <item quantity="one">显示 Play 积分。共有 %1$d 积分。</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007e">
+        <item quantity="other">共有 %1$d 个 Play 积分。</item>
+        <item quantity="one">共有 %1$d 个 Play 积分。</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120080">
+        <item quantity="other">%1$s 积分</item>
+        <item quantity="one">1 积分</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120081">
+        <item quantity="other">正在本机与“%2$s”之间传输 %1$d 个应用…</item>
+        <item quantity="one">正在本机与“%2$s”之间传输 %1$d 个应用…</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120082">
+        <item quantity="other">系统将从您的设备中卸载 %1$d 个应用。</item>
+        <item quantity="one">系统将从您的设备中卸载 %1$d 个应用。</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120083">
+        <item quantity="other">要卸载所选应用吗？</item>
+        <item quantity="one">要卸载所选应用吗？</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120084">
+        <item quantity="other">要卸载所选应用的更新吗？</item>
+        <item quantity="one">要卸载所选应用的更新吗？</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120085">
+        <item quantity="other">已移除 %1$s 个应用，现在有足够的空间可供%2$s使用了。</item>
+        <item quantity="one">已移除 %1$s 个应用，现在有足够的空间可供%2$s使用了。</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120086">
+        <item quantity="other">系统很快就会安装多个应用。</item>
+        <item quantity="one">系统很快就会安装一个应用。</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120087">
+        <item quantity="other">系统很快就会安装多项应用更新。</item>
+        <item quantity="one">系统很快就会安装一项应用更新。</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008a">
+        <item quantity="other">上次使用：%1$d 天前</item>
+        <item quantity="one">上次使用：%1$d 天前</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008b">
+        <item quantity="other">上次使用：%1$d 个月前</item>
+        <item quantity="one">上次使用：%1$d 个月前</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008c">
+        <item quantity="other">要在这台设备上安装应用或更新，请移除您不再需要的应用。您还可以通过在存储空间设置中删除媒体文件来释放空间。</item>
+        <item quantity="one">要在这台设备上安装应用或更新，请移除您不再需要的应用。您还可以通过在存储空间设置中删除媒体文件来释放空间。</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008d">
+        <item quantity="other">要在这台设备上安装应用或更新，请移除您不再需要的应用。您还可以通过在&lt;a href=\"\">“设置”>“存储空间”&lt;/a>中删除媒体文件来释放空间。</item>
+        <item quantity="one">要在这台设备上安装应用或更新，请移除您不再需要的应用。您还可以通过在&lt;a href=\"\">“设置”>“存储空间”&lt;/a>中删除媒体文件来释放空间。</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008e">
+        <item quantity="other">要在这台设备上安装应用或更新，请移除您不再需要的应用。您还可以通过在“设置”>“存储空间”中删除媒体文件来释放空间。</item>
+        <item quantity="one">要在这台设备上安装应用或更新，请移除您不再需要的应用。您还可以通过在“设置”>“存储空间”中删除媒体文件来释放空间。</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008f">
+        <item quantity="other">已卸载 %1$d 个应用</item>
+        <item quantity="one">已卸载 %1$d 个应用</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120090">
+        <item quantity="other">我们发现您的设备上有 %1$d 个应用已经有一段时间未使用了。移除这些应用可释放 %2$dMB 的存储空间</item>
+        <item quantity="one">我们发现您的设备上有 %1$d 个应用已经有一段时间未使用了。移除该应用可释放 %2$dMB 的存储空间</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120091">
+        <item quantity="other">%1$d 小时后开始</item>
+        <item quantity="one">%1$d 小时后开始</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120092">
+        <item quantity="other">%1$d 天后开始</item>
+        <item quantity="one">%1$d 天后开始</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120093">
+        <item quantity="other">%1$d 小时后上线</item>
+        <item quantity="one">%1$d 小时后上线</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120094">
+        <item quantity="other">%1$d 天后上线</item>
+        <item quantity="one">%1$d 天后上线</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120095">
+        <item quantity="other">此设备已超过 %1$d 个月未执行系统更新</item>
+        <item quantity="one">此设备已超过 %1$d 个月未执行系统更新</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120096">
+        <item quantity="other">已移除多个工作应用</item>
+        <item quantity="one">已移除一个工作应用</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120097">
+        <item quantity="other">%1$d 年前</item>
+        <item quantity="one">%1$d 年前</item>
+    </plurals>
+</resources>

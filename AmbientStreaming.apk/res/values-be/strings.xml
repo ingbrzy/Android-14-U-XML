@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Сэрвісы для некалькіх прылад</string>
+    <string name="app_name_generic">праграма</string>
+    <string name="app_stream_error_generic">Падчас абагульвання праграмы ўзнікла памылка</string>
+    <string name="app_stream_init_error_generic">Не ўдалося абагуліць праграму з вашай прыладай Chromebook</string>
+    <string name="audio_permission_rationale">Выключаны дазвол на доступ да мікрафона з мэтай абагульвання праграмы</string>
+    <string name="cancel_button_label">Скасаваць</string>
+    <string name="chromebook_keyboard">Клавіятура Chromebook</string>
+    <string name="chromebook_mouse">Мыш Chromebook</string>
+    <string name="chromebook_touchscreen">Сэнсарны экран Chromebook</string>
+    <string name="connect_device">Ваш тэлефон падключаецца да аддаленай прылады: %1$s</string>
+    <string name="decline_button_label">Адхіліць</string>
+    <string name="development_notification_channel_name">Для распрацоўшчыкаў</string>
+    <string name="device_camera_cannot_access">Не ўдалося атрымаць доступ да камеры прылады з Chromebook</string>
+    <string name="done_button_label">Гатова</string>
+    <string name="enable_button_label">Уключыць</string>
+    <string name="foreground_service_notification_channel_name">Агульныя апавяшчэнні</string>
+    <string name="foreground_service_notification_content">Націсніце, каб змяніць налады</string>
+    <string name="foreground_service_notification_title">{0,plural, =1{Падключана да # прылады}one{Падключана да # прылады}few{Падключана да # прылад}many{Падключана да # прылад}other{Падключана да # прылады}}</string>
+    <string name="interactive_streaming_generic_notification">Перадача плынню праграмы \"%1$s\" і сінхранізацыя апавяшчэнняў для вашага Chromebook</string>
+    <string name="interactive_streaming_individual_notification">Трансляцыя праграммы \"%1$s\" і сінхранізацыя апавяшчэнняў для ўліковага запісу %2$s</string>
+    <string name="interactive_streaming_notification">Перадача плынню на Chromebook</string>
+    <string name="keyboard_name">Клавіятура для некалькіх прылад</string>
+    <string name="lock_screen_notif_warning_content">Уключыце паказ апавяшчэнняў на экране блакіроўкі</string>
+    <string name="lock_screen_notif_warning_title">Апавяшчэнні не будуць пераадрасоўвацца</string>
+    <string name="mouse_name">Мыш для дзеянняў на некалькіх прыладах</string>
+    <string name="new_connection_confirm">Пацвердзіць</string>
+    <string name="new_connection_deny">Адмовіць</string>
+    <string name="new_connection_title">Ухваліце супадзенні</string>
+    <string name="notification_access_missing">Патрабуецца доступ да апавяшчэнняў</string>
+    <string name="notification_access_missing_description">Каб адкрыць апавяшчэнні на прыладзе Chromebook, уключыце доступ да Апавяшчэнняў</string>
+    <string name="notification_channel_name">Агульныя апавяшчэнні</string>
+    <string name="notification_listener_label">Абагульваць праграмы з прыладай Chromebook</string>
+    <string name="open_source_licenses">Ліцэнзіі на ПЗ з адкрытым зыходным кодам</string>
+    <string name="phone_permission_rationale">Выключаны дазвол на доступ да выклікаў на тэлефоне з мэтай абагульвання праграмы</string>
+    <string name="prompt_switch_languages">Для пераключэння мовы Gboard на тэлефоне націсніце shift + прабел</string>
+    <string name="settings_button">Налады</string>
+    <string name="stop_sharing_button">Завяршыць трансляцыю</string>
+    <string name="stream_termination_proximity_warning">Тэлефон знаходзіцца занадта далёка. Паднясіце яго бліжэй, каб працягнуць перадачу плынню.</string>
+    <string name="substitute_app_name">Сістэма</string>
+    <string name="summary_disable_wirecutter">Выключана</string>
+    <string name="summary_enable_wirecutter">Уключана</string>
+    <string name="touchscreen_name">Сэнсарны экран для некалькіх прылад</string>
+</resources>

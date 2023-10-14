@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="close_popup_content_desc">အျခားနည္းလမ္းမ်ားကို ဖယ္ရွားလိုက္ပါၿပီ</string>
+    <string name="emoji_category_activity">လုပ္ေဆာင္ခ်က္ႏွင့္ အစီအစဉ္မ်ား</string>
+    <string name="emoji_category_activity_content_desc">လုပ္ေဆာင္ခ်က္ႏွင့္ အစီအစဉ္မ်ား</string>
+    <string name="emoji_category_animals_nature">တိရစၧာန္မ်ားႏွင့္ သဘာဝ</string>
+    <string name="emoji_category_animals_nature_content_desc">တိရိစၧာန္မ်ားႏွင့္ သဘာဝ</string>
+    <string name="emoji_category_emotions">စမိုင္းလီႏွင့္ ခံစားခ်က္မ်ား</string>
+    <string name="emoji_category_emotions_content_desc">စမိုင္းလီမ်ားႏွင့္ ခံစားခ်က္မ်ား</string>
+    <string name="emoji_category_flags">အလံမ်ား</string>
+    <string name="emoji_category_flags_content_desc">အလံမ်ား</string>
+    <string name="emoji_category_food_drink">အစားအေသာက္</string>
+    <string name="emoji_category_food_drink_content_desc">အစားအေသာက္</string>
+    <string name="emoji_category_objects">အရာဝတၴုမ်ား</string>
+    <string name="emoji_category_objects_content_desc">အရာဝတၴုမ်ား</string>
+    <string name="emoji_category_people">လူမ်ား</string>
+    <string name="emoji_category_people_content_desc">လူမ်ား</string>
+    <string name="emoji_category_recent">လတ္တေလာသံုးထားသည္မ်ား</string>
+    <string name="emoji_category_suggestions">အႀကံျပဳခ်က္မ်ား</string>
+    <string name="emoji_category_symbols">သေကၤတမ်ား</string>
+    <string name="emoji_category_symbols_content_desc">သေကၤတမ်ား</string>
+    <string name="emoji_category_travel_places">ခရီးသြားျခင္းႏွင့္ အရပ္ေဒသမ်ား</string>
+    <string name="emoji_category_travel_places_content_desc">ခရီးသြားျခင္းႏွင့္ အရပ္ေဒသမ်ား</string>
+    <string name="emoji_empty_non_recent_category">အီမိုဂ်ီမ်ား မရႏိုင္ပါ</string>
+    <string name="emoji_empty_recent_category">သင္ အီမိုဂ်ီ အသံုးမျပဳရေသးပါ</string>
+    <string name="emoji_placeholder_content_desc">အီမိုဂ်ီ ဖြင့္ေနသည္</string>
+    <string name="emoji_recent_content_desc">လတ္တေလာ</string>
+    <string name="emoji_skin_tone_dark_content_desc">ညိုသၫ့္ အသားအေရာင္</string>
+    <string name="emoji_skin_tone_light_content_desc">ျဖဴသည့္ အသားအေရာင္</string>
+    <string name="emoji_skin_tone_medium_content_desc">အလယ္အလတ္ အသားအေရာင္</string>
+    <string name="emoji_skin_tone_medium_dark_content_desc">အနည္းငယ္ညိုသၫ့္ အသားအေရာင္</string>
+    <string name="emoji_skin_tone_medium_light_content_desc">အနည္းငယ္ျဖဴသၫ့္ အသားအေရာင္</string>
+    <string name="open_popup_content_desc">အျခားနည္းလမ္းမ်ား ရရိွႏိုင္ပါသည္</string>
+    <string name="recent_category_switch_prompt_text">%s သို႔ ေျပာင္းပါ</string>
+</resources>

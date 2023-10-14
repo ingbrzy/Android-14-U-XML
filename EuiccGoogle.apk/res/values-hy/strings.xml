@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">Անցնել վերև</string>
+    <string name="abc_action_mode_done">Պատրաստ է</string>
+    <string name="abc_capital_off">ԱՆՋԱՏԵԼ</string>
+    <string name="abc_capital_on">ՄԻԱՑՆԵԼ</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">բացատ</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Որոնում…</string>
+    <string name="abc_searchview_description_clear">Ջնջել հարցումը</string>
+    <string name="abc_searchview_description_search">Որոնել</string>
+    <string name="abc_searchview_description_submit">Ուղարկել հարցումը</string>
+    <string name="abc_searchview_description_voice">Ձայնային որոնում</string>
+    <string name="abc_toolbar_collapse_description">Ծալել</string>
+    <string name="activation_code_scan_button">Սկանավորել QR կոդը</string>
+    <string name="activation_code_text">Մուտքագրեք ցանցի մատակարարի տրամադրած կոդը</string>
+    <string name="activation_code_title">Ավելացրեք ցանցի մատակարար</string>
+    <string name="add_profile_title">Ավելացնել օպերատոր</string>
+    <string name="asked_for_eid">Խանութո՞ւմ եք ակտիվացնում: Եթե ներկայացուցիչը պահանջի EID համարը, կարող եք %1$s:</string>
+    <string name="back_button_error_msg">Այս պատուհանը չի կարելի փակել, քանի դեռ կարգավորումը չի ավարտվել։</string>
+    <string name="body_check_qr_code_or_go_back">Համոզվեք, որ ճիշտ QR կոդ եք սկանավորում։</string>
+    <string name="body_device_is_locked">Ձեր սարքը կողպվել է %1$s օպերատորի կողմից։</string>
+    <string name="body_device_is_locked_no_name">Ձեր սարքը կողպված է։</string>
+    <string name="body_issue_with_sim_profile">Ձեր SIM քարտի հետ կապված սխալ է առաջացել։ Խնդիրը վերացնելու համար կապվեք %1$s օպերատորի հետ %2$s հեռախոսահամարով։</string>
+    <string name="body_issue_with_sim_profile_maximum_attempts">Դուք առավելագույն թույլատրելի թվով փորձեր եք կատարել։ Միացման հետ կապված օգնություն ստանալու համար կապվեք %1$s օպերատորի հետ %2$s հեռախոսահամարով։</string>
+    <string name="body_issue_with_sim_profile_maximum_attempts_no_name">Դուք առավելագույն թույլատրելի թվով փորձեր եք կատարել։ Միացման հետ կապված օգնություն ստանալու համար կապվեք օպերատորի հետ։</string>
+    <string name="body_issue_with_sim_profile_maximum_attempts_no_tel">Դուք առավելագույն թույլատրելի թվով փորձեր եք կատարել։ Միացման հետ կապված օգնություն ստանալու համար կապվեք %1$s օպերատորի հետ։</string>
+    <string name="body_issue_with_sim_profile_no_name">Ձեր SIM քարտի հետ կապված սխալ է առաջացել։ Խնդիրը վերացնելու համար կապվեք օպերատորի հետ։</string>
+    <string name="body_issue_with_sim_profile_no_tel">Ձեր SIM քարտի հետ կապված սխալ է առաջացել։ Խնդիրը վերացնելու համար կապվեք %1$s օպերատորի հետ։</string>
+    <string name="body_issue_with_sim_profile_used_on_another_device">Այս SIM քարտն ուրիշ սարքում է օգտագործվում։ Խնդիրը վերացնելու համար կապվեք %1$s օպերատորի հետ %2$s հեռախոսահամարով։</string>
+    <string name="body_issue_with_sim_profile_used_on_another_device_no_name">Այս SIM քարտն ուրիշ սարքում է օգտագործվում։ Խնդիրը վերացնելու համար կապվեք օպերատորի հետ։</string>
+    <string name="body_issue_with_sim_profile_used_on_another_device_no_tel">Այս SIM քարտն ուրիշ սարքում է օգտագործվում։ Խնդիրը վերացնելու համար կապվեք %1$s օպերատորի հետ։</string>
+    <string name="body_make_sure_not_already_downloaded">"Համոզվեք, որ ընտրված SIM քարտը չի ներբեռնվել այս կամ մեկ այլ սարքում։
+
+Օգնություն ստանալու համար կապվեք %1$s օպերատորի հետ %2$s հեռախոսահամարով։"</string>
+    <string name="body_make_sure_not_already_downloaded_no_name">"Համոզվեք, որ ընտրված SIM քարտը չի ներբեռնվել այս կամ մեկ այլ սարքում։
+
+Օգնություն ստանալու համար կապվեք օպերատորի հետ։"</string>
+    <string name="body_make_sure_not_already_downloaded_no_tel">"Համոզվեք, որ ընտրված SIM քարտը չի ներբեռնվել այս կամ մեկ այլ սարքում։
+
+Օգնություն ստանալու համար կապվեք %1$s օպերատորի հետ։"</string>
+    <string name="body_need_wifi_connection">eSIM ներբեռնելու համար անհրաժեշտ է Wi-Fi կապ։</string>
+    <string name="body_need_wifi_or_mobile_connection">eSIM ներբեռնելու համար անհրաժեշտ է Wi-Fi կամ բջջային կապ։</string>
+    <string name="body_not_enough_space_to_download">SIM քարտը ներբեռնելու համար բավարար տարածք չկա։</string>
+    <string name="body_sim_has_expired">"Ձեր eSIM-ի ժամկետը սպառվել է։
+Նոր SIM քարտ ստանալու համար կապվեք %1$s օպերատորի հետ %2$s հեռախոսահամարով։"</string>
+    <string name="body_sim_has_expired_no_name">"Ձեր eSIM-ի ժամկետը սպառվել է։
+Նոր SIM քարտ ստանալու համար կապվեք օպերատորի հետ։"</string>
+    <string name="body_sim_has_expired_no_tel">"Ձեր eSIM-ի ժամկետը սպառվել է։
+Նոր SIM քարտ ստանալու համար կապվեք %1$s օպերատորի հետ։"</string>
+    <string name="body_something_went_wrong">Չհաջողվեց ակտիվացնել հեռախոսահամարը։</string>
+    <string name="bottomsheet_action_expand_halfway">Ծավալել կիսով չափ</string>
+    <string name="button_text_close">Փակել</string>
+    <string name="button_text_settings">Կարգավորումներ</string>
+    <string name="cancel_button">Չեղարկել</string>
+    <string name="cant_get_eid_please_contact_carrier">Սխալ առաջացավ, և սարքի EID համարը չհաջողվեց գտնել: Օգնության համար դիմեք ձեր օպերատորին:</string>
+    <string name="carrier_confirm_subtitle">Դուք պետք է որ արդեն գրանցված լինեք ցանցում</string>
+    <string name="carrier_confirm_title">Հաստատեք ձեր ցանցը</string>
+    <string name="carrier_selection_msg">Ընտրեք օպերատորին, որի հաշիվը ցանկանում եք օգտագործել այս սարքում</string>
+    <string name="carrier_selection_psim">Օգտագործել SIM քարտ</string>
+    <string name="carrier_selection_title">Հաստատեք ձեր օպերատորին</string>
+    <string name="choose_carrier_title">Ընտրեք կապի օպերատորներին</string>
+    <string name="choose_number_activating">Ակտիվացում…</string>
+    <string name="choose_number_could_not_activate">Չհաջողվեց ակտիվացնել պրոֆիլը</string>
+    <string name="choose_number_error_no_space">Այլ համարներ կամ ցանցեր օգտագործելու համար նախ անհրաժեշտ է տարածք ազատել՝ կարգավորումներում ջնջելով 1 կամ ավելի ընթացիկ համար</string>
+    <string name="choose_number_error_perm">Այլ համարներ ու ցանցեր օգտագործելու համար կապվեք ձեր ցանցի մատակարարների հետ</string>
+    <string name="choose_number_error_temp">Այլ համարներ ու ցանցեր օգտագործելու համար կարող եք ակտիվացնել դրանք կարգավորումներում</string>
+    <string name="choose_number_item_summary_unknown">Անհայտ համար</string>
+    <string name="choose_number_subtitle">{count,plural, =1{Սարքում ավելացվել է 1 համար, սակայն միաժամանակ կարող եք օգտագործել միայն մեկը}one{Սարքում ավելացվել է # համար, սակայն միաժամանակ կարող եք օգտագործել միայն մեկը}other{Սարքում ավելացվել է # համար, սակայն միաժամանակ կարող եք օգտագործել միայն մեկը}}</string>
+    <string name="choose_number_title">Ընտրեք համար</string>
+    <string name="choose_second_number_subtitle">Այս սարքում ձեր ընթացիկ համարից բացի կարող եք օգտագործել ևս մեկ համար</string>
+    <string name="choose_second_number_subtitle_with_psim_carrier_name">Այս սարքում ձեր %1$s համարից բացի կարող եք օգտագործել ևս մեկ համար</string>
+    <string name="choose_second_number_subtitle_with_psim_phone_number">Այս սարքում %1$s համարից բացի կարող եք օգտագործել ևս մեկ համար</string>
+    <string name="choose_second_number_title">Ընտրեք երկրորդ համարը</string>
+    <string name="common_google_play_services_enable_button">Միացնել</string>
+    <string name="common_google_play_services_enable_text">%1$s հավելվածը չի աշխատի մինչև չմիացնեք Google Play ծառայությունները:</string>
+    <string name="common_google_play_services_enable_title">Միացնել Google Play ծառայությունները</string>
+    <string name="common_google_play_services_install_button">Տեղադրել</string>
+    <string name="common_google_play_services_install_text">%1$s հավելվածը չի աշխատի առանց Google Play ծառայությունների, որոնք չկան ձեր սարքում:</string>
+    <string name="common_google_play_services_install_title">Տեղադրել Google Play ծառայությունները</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play ծառայությունների հասանելիություն</string>
+    <string name="common_google_play_services_notification_ticker">Google Play ծառայությունների սխալ կա</string>
+    <string name="common_google_play_services_unknown_issue">%1$s հավելվածը Google Play ծառայությունների հետ կապված խնդիր ունի: Փորձեք նորից:</string>
+    <string name="common_google_play_services_unsupported_text">%1$s հավելվածը չի աշխատի առանց Google Play ծառայությունների, որոնք ձեր սարքում չեն աջակցվում:</string>
+    <string name="common_google_play_services_update_button">Թարմացնել</string>
+    <string name="common_google_play_services_update_text">%1$s հավելվածը չի աշխատի մինչև չթարմացնեք Google Play ծառայությունները:</string>
+    <string name="common_google_play_services_update_title">Թարմացնել Google Play ծառայությունները</string>
+    <string name="common_google_play_services_updating_text">%1$s հավելվածը չի աշխատի առանց Google Play ծառայությունների, որոնք այս պահին թարմացվում են:</string>
+    <string name="common_google_play_services_wear_update_text">Անհրաժեշտ է Google Play ծառայությունների նոր տարբերակը: Այն շուտով կթարմացվի ավտոմատ կերպով:</string>
+    <string name="common_open_on_phone">Բացել հեռախոսով</string>
+    <string name="complete_service_setup_text">%1$s-ն ակտիվացված է</string>
+    <string name="complete_service_setup_title">%1$s-ի կարգավորումն ավարտված է</string>
+    <string name="complete_update_esim_notification_body_text">Հպեք՝ ծրագրակազմի թարմացումն ավարտելու համար</string>
+    <string name="complete_update_esim_notification_title">Ավարտեք բջջային ցանցին միացումը</string>
+    <string name="confirm_acti_no_space_sub1">Այլ համարներ օգտագործելու համար նախ անհրաժեշտ է տարածք ազատել՝ ջնջելով ընթացիկ համարներն այս սարքից։ Հետագայում սա կարող եք անել կարգավորումներում:</string>
+    <string name="confirm_acti_no_space_sub1_multi">Այլ համարներ կամ ցանցեր օգտագործելու համար նախ անհրաժեշտ է տարածք ազատել՝ ջնջելով ընթացիկ համարներն այս սարքից։ Հետագայում սա կարող եք անել կարգավորումներում:</string>
+    <string name="confirm_acti_perm_error_sub1">Այլ համարներ օգտագործելու համար կապվեք %1$s-ի հետ՝ %2$s: Ձեզ կարող է անհրաժեշտ լինել այս սարքի EID համարը՝</string>
+    <string name="confirm_acti_perm_error_sub1_multi">Այլ համարներ և ցանցեր օգտագործելու համար կապվեք %1$s-ի հետ՝ %2$s: Ձեզ կարող է անհրաժեշտ լինել այս սարքի EID համարը՝</string>
+    <string name="confirm_acti_perm_error_sub1_multi_no_carrier_name">Այլ համարներ ու ցանցեր օգտագործելու համար կապվեք ձեր ցանցի մատակարարի հետ։ Ձեզ կարող է անհրաժեշտ լինել այս սարքի EID համարը՝</string>
+    <string name="confirm_acti_perm_error_sub1_multi_no_phone">Այլ համարներ և ցանցեր օգտագործելու համար կապվեք %1$s-ի աջակցման թիմի հետ։ Ձեզ կարող է անհրաժեշտ լինել այս սարքի EID համարը՝</string>
+    <string name="confirm_acti_perm_error_sub1_no_carrier_name">Այլ համարներ օգտագործելու համար կապվեք ձեր ցանցի մատակարարի հետ։ Ձեզ կարող է անհրաժեշտ լինել այս սարքի EID համարը՝</string>
+    <string name="confirm_acti_perm_error_sub1_no_eid">Այլ համարներ օգտագործելու համար կապվեք %1$s-ի հետ՝ %2$s:</string>
+    <string name="confirm_acti_perm_error_sub1_no_eid_multi">Այլ համարներ և ցանցեր օգտագործելու համար կապվեք %1$s-ի աջակցման թիմի հետ՝ %2$s։</string>
+    <string name="confirm_acti_perm_error_sub1_no_eid_multi_no_phone">Այլ համարներ և ցանցեր օգտագործելու համար կապվեք %1$s-ի հետ։</string>
+    <string name="confirm_acti_perm_error_sub1_no_eid_no_carrier_name">Այլ համարներ օգտագործելու համար կապվեք ձեր ցանցի մատակարարի հետ։</string>
+    <string name="confirm_acti_perm_error_sub1_no_eid_no_phone">Այլ համարներ օգտագործելու համար կապվեք %1$s-ի աջակցման թիմի հետ։</string>
+    <string name="confirm_acti_perm_error_sub1_no_phone">Այլ համարներ օգտագործելու համար կապվեք %1$s-ի աջակցման թիմի հետ։ Ձեզ կարող է անհրաժեշտ լինել այս սարքի EID համարը՝</string>
+    <string name="confirm_acti_success_sub_title">%1$s հեռախոսահամարը պատրաստ է օգտագործման</string>
+    <string name="confirm_acti_success_sub_title_no_phone">Ձեր հեռախոսահամարը պատրաստ է օգտագործման</string>
+    <string name="confirm_acti_success_sub_title_w_app">Ներբեռնեք %2$s-ի հավելվածը՝ %1$s հեռախոսահամարի ակտիվացումն ավարտելու համար: Այժմ ավարտեք հեռախոսի կարգավորումը։</string>
+    <string name="confirm_acti_success_sub_title_w_app_no_name">Ներբեռնեք ցանցի մատակարարի հավելվածը՝ %1$s համարի ակտիվացումն ավարտելու համար: Այժմ ավարտեք հեռախոսի կարգավորումը։</string>
+    <string name="confirm_acti_success_sub_title_w_app_no_name_setting">Ներբեռնեք ցանցի մատակարարի հավելվածը՝ %1$s համարի ակտիվացումն ավարտելու համար</string>
+    <string name="confirm_acti_success_sub_title_w_app_no_phone">Հեռախոսահամարի ակտիվացումն ավարտելու համար ներբեռնեք %1$s-ի հավելվածը: Այժմ ավարտեք հեռախոսի կարգավորումը։</string>
+    <string name="confirm_acti_success_sub_title_w_app_no_phone_no_name">Հեռախոսահամարի ակտիվացումն ավարտելու համար ներբեռնեք ցանցի մատակարարի հավելվածը: Այժմ ավարտեք հեռախոսի կարգավորումը։</string>
+    <string name="confirm_acti_success_sub_title_w_app_no_phone_no_name_setting">Հեռախոսահամարի ակտիվացումն ավարտելու համար ներբեռնեք ցանցի մատակարարի հավելվածը</string>
+    <string name="confirm_acti_success_sub_title_w_app_no_phone_setting">Հեռախոսահամարի ակտիվացումն ավարտելու համար ներբեռնեք %1$s հավելվածը</string>
+    <string name="confirm_acti_success_sub_title_w_app_setting">Ներբեռնեք %2$s-ի հավելվածը՝ %1$s համարի ակտիվացումն ավարտելու համար</string>
+    <string name="confirm_acti_success_title">Դուք միացաք %1$s-ին</string>
+    <string name="confirm_acti_success_title_no_carrier_name">Ցանցն ակտիվ է</string>
+    <string name="confirm_acti_success_title_with_app">Ավելի ուշ միացեք %1$s-ին</string>
+    <string name="confirm_acti_success_title_with_app_no_name">Ավելի ուշ միացեք ձեր ցանցին</string>
+    <string name="confirm_acti_temp_error_sub1">Այլ համարներ օգտագործելու համար անհրաժեշտ է ակտիվացնել դրանք կարգավորումներում։</string>
+    <string name="confirm_acti_temp_error_sub1_multi">Այլ համարներ ու ցանցեր օգտագործելու համար անհրաժեշտ է ակտիվացնել դրանք կարգավորումներում</string>
+    <string name="confirm_code_try_again">Կոդը սխալ է: Նորից փորձեք:</string>
+    <string name="confirm_transfer_single_carrier_dsds_msg">Տեղափոխելուց հետո %1$s հեռախոսահամարն այլևս չի աշխատի ձեր հին սարքում։ Երկրորդ համարը տեղափոխելու համար կարգավորումից հետո SIM քարտը տեղադրեք հեռախոսում։</string>
+    <string name="confirm_transfer_single_carrier_msg">Փոխանցվելուց հետո %1$s հեռախոսահամարն այլևս չի աշխատի ձեր հին սարքում</string>
+    <string name="confirm_transfer_single_carrier_title">Փոխանցե՞լ %1$s-ի համարը</string>
+    <string name="confirmation_code_body_text">Ցանցին միանալու համար մուտքագրեք հաստատման կոդը, որը ստացել եք կապի օպերատորից։</string>
+    <string name="confirmation_code_body_text_with_carrier">Ցանցին միանալու համար մուտքագրեք հաստատման կոդը, որը ստացել եք %1$s-ից։</string>
+    <string name="confirmation_code_title">Մուտքագրեք հաստատման կոդ</string>
+    <string name="confirmation_code_what">Ի՞նչ է սա:</string>
+    <string name="contact_carrier_description">SIM քարտը կարգավորելու համար հարկավոր է դիմել %1$s-ին %2$s հեռախոսահամարով</string>
+    <string name="contact_carrier_description_eid">EID համարը։</string>
+    <string name="contact_carrier_description_eid_additional">"
+
+Ձեզ կարող է պետք գալ այս սարքի"</string>
+    <string name="contact_carrier_title">Դիմեք %1$s-ին</string>
+    <string name="continue_button">Շարունակել</string>
+    <string name="copy">Պատճենել</string>
+    <string name="customer_service_activate_service">Հաճախորդների սպասարկման մասնագետը կարող է EID համարի միջոցով օգնել ձեզ ակտիվացնել ծառայությունը՝</string>
+    <string name="data_plan_select_subtitle">Համարը տեղափոխելուց հետո այն այլևս չի աշխատի ձեր հին սարքում</string>
+    <string name="data_plan_select_title">Ընտրեք հեռախոսահամարը՝ տեղափոխելու համար</string>
+    <string name="def_notif_activating_title">%1$s-ի հեռախոսահամարն ակտիվացվում է…</string>
+    <string name="def_notif_activation_fail_subtitle">Հպեք՝ ավելին իմանալու համար</string>
+    <string name="def_notif_activation_fail_title">Չհաջողվեց ակտիվացնել %1$s-ի հեռախոսահամարը</string>
+    <string name="def_notif_activation_success_dsds_subtitle">Ընտրեք զանգերի, SMS-ների և թրաֆիկի կարգավորումները</string>
+    <string name="def_notif_activation_success_dsds_title">Ձեր հեռախոսահամարները պատրաստ են օգտագործման</string>
+    <string name="def_notif_activation_success_title">%1$s-ի համարն ակտիվացվել է</string>
+    <string name="default_display_name">SIM քարտ</string>
+    <string name="default_profile_nickname_format">%1$s %2$d</string>
+    <string name="deferred_setup_notification_description">Ready to connect to mobile network</string>
+    <string name="deferred_setup_notification_title">Set you your %1$s SIM</string>
+    <string name="detail_contact_carrier_for_more_help">Օգնություն ստանալու համար դիմեք ձեր օպերատորին։</string>
+    <string name="detail_contact_carrier_to_unlock">Կապվեք %1$s օպերատորի հետ %2$s հեռախոսահամարով և պարզեք՝ արդյոք սարքը հնարավոր է ապակողպել։</string>
+    <string name="detail_contact_carrier_to_unlock_no_name">Կապվեք օպերատորի հետ և պարզեք՝ արդյոք սարքը հնարավոր է ապակողպել։</string>
+    <string name="detail_contact_carrier_to_unlock_no_tel">Կապվեք %1$s օպերատորի հետ և պարզեք՝ արդյոք սարքը հնարավոր է ապակողպել։</string>
+    <string name="detail_delete_a_profile_before_retrying">Տարածք ազատելու համար անցեք Կարգավորումներ և ջնջեք SIM քարտը։ Այնուհետև նորից փորձեք։</string>
+    <string name="detail_may_need_eid_number">EID՝ %1$s</string>
+    <string name="detail_provide_info_to_carrier">"Դուք կարող եք օպերատորին փոխանցել հետևյալ տեղեկությունները․
+%1$s
+%2$s"</string>
+    <string name="detail_try_adding_again">Միանալուց հետո նորից փորձեք ավելացնել բջջային ցանցը։</string>
+    <string name="disable_carrier_dialog_text">"Այս սարքն անմիջապես կանջատվի ցանցից։
+
+Բջջային կապի սակագնային պլանները չեն չեղարկվի։"</string>
+    <string name="disable_carrier_dialog_text_with_carrier">"Այս սարքն անմիջապես կանջատվի %1$s-ից։
+
+Բջջային կապի սակագնային պլանները չեն չեղարկվի։"</string>
+    <string name="disable_carrier_dialog_title">Անջատե՞լ օպերատորին։</string>
+    <string name="disable_fail_text">Առաջացավ սխալ, որի պատճառով հնարավոր չէ անջատել ձեր օպերատորին։</string>
+    <string name="disable_fail_title">Չհաջողվեց անջատել օպերատորին</string>
+    <string name="disable_profile_title">Անջատել</string>
+    <string name="disabled_profiles_title">Հասանելի օպերատորներ</string>
+    <string name="disabling_carrier">Օպերատորն անջատվում է…</string>
+    <string name="done_button">Փակել</string>
+    <string name="download_complete_text">Անցեք կարգավորումներ՝ այս SIM քարտը միացնելու համար</string>
+    <string name="download_complete_text_with_carrier">%1$s-ին միանալու համար անցեք կարգավորումներ</string>
+    <string name="download_complete_title">eSIM-ը ներբեռնվեց</string>
+    <string name="download_esim_button">Download eSIM</string>
+    <string name="download_fail_dialog_text">Սխալի պատճառով չհաջողվեց ներբեռնել էլեկտրոնային SIM քարտը։ Փորձեք նորից, և եթե խնդիրը չվերանա, դիմեք %1$s-ին։</string>
+    <string name="download_fail_dialog_text_no_carrier_name">Էլեկտրոնային SIM քարտը հնարավոր չէ ներբեռնել սխալի պատճառով: Նորից փորձեք, և եթե խնդիրը չլուծվի, դիմեք ձեր օպերատորին:</string>
+    <string name="download_fail_dialog_title">Հնարավոր չէ ներբեռնել eSIM-ը</string>
+    <string name="download_sub_multi_carriers_text">{count,plural, =1{%1$s-ի ու ևս 1 օպերատորի ձեր &lt;b>%2$d համարները&lt;/b> բեռնվում են։ Սա կարող է որոշ ժամանակ տևել։}one{%1$s-ի ու ևս %3$d օպերատորի ձեր &lt;b>%2$d համարները&lt;/b> բեռնվում են։ Սա կարող է որոշ ժամանակ տևել։}other{%1$s-ի ու ևս %3$d օպերատորի ձեր &lt;b>%2$d համարները&lt;/b> բեռնվում են։ Սա կարող է որոշ ժամանակ տևել։}}</string>
+    <string name="download_sub_text">{count,plural, =1{%1$s-ի ձեր համարը բեռնվում է։ Սա կարող է որոշ ժամանակ տևել։}one{%1$s-ի ձեր &lt;b>%2$d համարները&lt;/b> բեռնվում են։ Սա կարող է որոշ ժամանակ տևել։}other{%1$s-ի ձեր &lt;b>%2$d համարները&lt;/b> բեռնվում են։ Սա կարող է որոշ ժամանակ տևել։}}</string>
+    <string name="download_sub_title">{count,plural, =1{Հեռախոսահամարն ավելացվում է…}one{Հեռախոսահամարներն ավելացվում են…}other{Հեռախոսահամարներն ավելացվում են…}}</string>
+    <string name="download_sub_transform_title">Ծառայությունը ստուգվում է…</string>
+    <string name="download_switch_confirm_mep_dialog_message">Այս սարքում հնարավոր է օգտագործել միաժամանակ 2 SIM քարտ։ Այլ SIM քարտ ներբեռնելու և օգտագործելու համար անջատեք ակտիվ SIM քարտերից մեկը։</string>
+    <string name="download_switch_confirm_mep_dialog_title">Շարունակելու համար անջատեք SIM քարտը</string>
+    <string name="download_web_sub_text">Կարգավորումը կտևի մի քանի րոպե</string>
+    <string name="download_web_sub_title">Օպերատորի կարգարվորում…</string>
+    <string name="downloading_no_carrier_name_title">eSIM-ի ներբեռնում…</string>
+    <string name="downloading_with_carrier_name_title">%1$s-ի eSIM-ի ներբեռնում…</string>
+    <string name="dsds_activation_failure_body_msg1">Հանեք, այնուհետև նորից տեղադրեք SIM-ը։ Եթե խնդիրը չվերանա, վերագործարկեք սարքը։</string>
+    <string name="dsds_activation_failure_body_msg2">Փորձեք նորից միացնել SIM-ը։ Եթե խնդիրը չվերանա, վերագործարկեք սարքը։</string>
+    <string name="dsds_activation_failure_title">Չհաջողվեց ակտիվացնել SIM-ը</string>
+    <string name="dsds_activation_text">SIM-ն ակտիվացվում է…</string>
+    <string name="dsds_activation_text_in_esim_activation">Թարմացվում է…</string>
+    <string name="dsds_choose_number_text">Սարքում հասանելի է %1$d համար, սակայն միաժամանակ կարող եք օգտագործել միայն մեկը</string>
+    <string name="dsds_choose_number_title">Ընտրեք համար</string>
+    <string name="dsds_choose_second_number_text">Դուք կարող եք միաժամանակ 2 համար օգտագործել այս սարքում: Այս հեռախոսահամարն արդեն ակտիվ է՝ %1$s:</string>
+    <string name="dsds_choose_second_number_title">Ընտրեք երկրորդ համարը</string>
+    <string name="dsds_learn_more_button">Իմանալ ավելին</string>
+    <string name="dsds_notification_after_reboot_text">Հպեք՝ SIM քարտի կարգավորումները թարմացնելու համար</string>
+    <string name="dsds_notification_after_reboot_text_carrier">Հպեք՝ %1$s-ի կարգավորումները թարմացնելու համար</string>
+    <string name="dsds_notification_after_reboot_title_carrier">%1$s ցանցն ակտիվ է</string>
+    <string name="dsds_notification_after_reboot_title_phone">%1$s համարն ակտիվ է</string>
+    <string name="dsds_notification_after_suw_text">Ընտրեք ձեր ակտիվ SIM քարտը կամ օգտագործեք միաժամանակ երկուսը</string>
+    <string name="dsds_notification_after_suw_title">Կարգավորեք մյուս SIM քարտը</string>
+    <string name="dsds_switch_dialog_no_switch_text">Բջջային թրաֆիկը, զանգերի գործառույթները և SMS-ներն ավելի ուշ օգտագործելու համար անցեք ցանցի կարգավորումներ</string>
+    <string name="dsds_switch_dialog_no_switch_title">Ակտիվ SIM քարտեր չկան</string>
+    <string name="dsds_switch_dialog_progress_text">Անցում %1$s-ին…</string>
+    <string name="dsds_switch_dialog_text">%1$s-ի հեռախոսահամարը կօգտագործվի բջջային ինտերնետի, զանգերի և SMS-ների համար։</string>
+    <string name="dsds_switch_dialog_title">Օգտվե՞լ %1$s-ից</string>
+    <string name="eid_not_found">Սարքի EID համարը չի գտնվել</string>
+    <string name="eid_number">Ցուցադրել մանրամասները</string>
+    <string name="eid_qr_code_dialog_error_msg">EID-ի QR կոդը հասանելի չէ։</string>
+    <string name="eid_qr_code_dialog_title">Ձեր սարքի EID համարը</string>
+    <string name="enable_carrier_dialog_text">"%2$s-ի փոխարեն սարքը կմիանա %1$s-ին։
+
+Բջջային կապի սակագնային պլանները չեն չեղարկվի։"</string>
+    <string name="enable_carrier_dialog_text_from_removable">"Ընթացիկ SIM քարտի փոխարեն սարքը կմիանա %1$s-ին։
+
+Բջջային կապի սակագնային պլանները չեն չեղարկվի։"</string>
+    <string name="enable_carrier_dialog_text_to_removable">"%1$s-ի փոխարեն սարքը կմիանա տեղադրված SIM քարտին։
+
+Բջջային կապի սակագնային պլանները չեն չեղարկվի։"</string>
+    <string name="enable_carrier_dialog_title">Փոխե՞լ օպերատորին։</string>
+    <string name="enable_fail_text">Սխալի պատճառով հնարավոր չէ փոխել օպերատորին։</string>
+    <string name="enable_fail_title">Հնարավոր չէ փոխել օպերատորին</string>
+    <string name="enable_profile_title">Միացնել</string>
+    <string name="enabling_carrier">Սարքը միանում է ցանցին…</string>
+    <string name="enter_manually_button">Մուտքագրել ձեռքով</string>
+    <string name="enter_qr_code_button_title">Մուտքագրել կոդը ձեռքով</string>
+    <string name="erase_sim_confirm_button">Ջնջել</string>
+    <string name="erase_sim_dialog_text">"Այս SIM քարտը ջնջելու դեպքում %1$s-ի ծառայությունը կհեռացվի սարքից։
+
+%1$s-ի ծառայությունը չի չեղարկվի։"</string>
+    <string name="erase_sim_dialog_title">Ջնջե՞լ այս eSIM քարտը</string>
+    <string name="erase_sim_fail_text">"Սխալի պատճառով չհաջողվեց ջնջել SIM քարտը։
+
+Վերագործարկեք սարքը և նորից փորձեք։"</string>
+    <string name="erase_sim_fail_title">SIM քարտի տվյալները հնարավոր չէ ջնջել</string>
+    <string name="erasing_carriers">Օպերատորները վերակայվում են…</string>
+    <string name="erasing_sim">SIM քարտի տվյալները ջնջվում են…</string>
+    <string name="error_code_text">Սխալի կոդը</string>
+    <string name="error_screen_title_multiple_carrier">Ցանցն ակտիվացված չէ</string>
+    <string name="error_screen_title_single_carrier">%1$s-ի ցանցն ակտիվացված չէ</string>
+    <string name="error_screen_title_single_carrier_no_name">Ցանցն ակտիվացված չէ</string>
+    <string name="esim_setup_channel_id">Ցանցի ակտիվացում</string>
+    <string name="esim_warning_title">Ներբեռնեք ձեր eSIM-ը</string>
+    <string name="esim_warning_txt_default">Այն փոխարինում է սովորական SIM քարտին և նույնպես անվտանգ է</string>
+    <string name="esim_warning_txt_default_tmo_esim_primary">Բջջային ցանցին միանալու համար ներբեռնեք տվյալները, որոնք սովորաբար լինում են SIM քարտում։ Այն փոխարինում է սովորական SIM քարտին և նույնքան անվտանգ է։</string>
+    <string name="euicc_settings_title">Սարքակազմի կարգավորումներ</string>
+    <string name="euicc_title">SIM Manager</string>
+    <string name="expand_button_title">Լրացուցիչ</string>
+    <string name="find_it_here">գտնել այն այստեղ</string>
+    <string name="get_default_sub_title">Ցանցի տվյալների ստուգում…</string>
+    <string name="get_help_ask_for_eid_v2">Օպերատորը կարող է հարցնել ձեզանից %1$s, որը նույնականացնում է ձեր հեռախոսը։</string>
+    <string name="get_help_skip_mobile_setup">Բաց թողնել բջջային կարգավորումները</string>
+    <string name="get_help_text">Հեռախոսահամարը չի՞ ցուցադրվում: Կապվեք %1$s-ի աջակցման թիմի հետ %2$s հեռախոսահամարով</string>
+    <string name="get_help_text_multiple_carriers_no_phone">Եթե համարներն ավելի շատ են, քան նախատեսել էիք, դիմեք օպերատորին</string>
+    <string name="get_help_text_no_phone">Հեռախոսահամարը չի՞ ցուցադրվում: Կապվեք %1$s-ի աջակցման թիմի հետ:</string>
+    <string name="get_help_text_single_carrier">Եթե չէիք նախատեսում %3$d համար, կապվեք %1$s-ի հետ այս համարով՝ %2$s</string>
+    <string name="get_help_text_single_carrier_no_phone">Եթե չէիք նախատեսում %2$d համար, կապվեք %1$s-ի հետ</string>
+    <string name="get_help_text_single_carrier_no_phone_with_eid">Եթե չէիք նախատեսում %2$d համար, կապվեք %1$s-ի հետ։ Ձեզ կարող է անհրաժեշտ լինել այս սարքի EID համարը՝</string>
+    <string name="get_help_title">Կարգավորման օգնություն</string>
+    <string name="get_metadata_fail_title">Չհաջողվեց բեռնել բջջային ցանցի տվյալները</string>
+    <string name="help_add_network_info1_msg1_v2">Չի՞ հաջողվում սկանավորել QR կոդը: %1$s</string>
+    <string name="help_add_network_info2_msg1">Դուք կարող եք նաև միանալ ցանցին՝ %1$s</string>
+    <string name="help_add_network_info3">Խնդիրը դեռ չի՞ լուծվել: Օգնության համար կապվեք ձեր օպերատորի հետ հետևյալ %1$s համարով</string>
+    <string name="help_add_network_info3_no_phone">Խնդիրը դեռ չի՞ լուծվել: Օգնության համար կապվեք ձեր օպերատորի հետ։</string>
+    <string name="help_add_network_subtitle">Կոդը կարող է նշված լինել սարքին կից թերթիկի վրա կամ օպերատորի ուղարկած նամակի մեջ:</string>
+    <string name="help_add_network_title">Ցանցի ավելացում</string>
+    <string name="insert_psim_button">տեղադրելով սովորական SIM քարտ</string>
+    <string name="insert_text">Եթե ունեք SIM քարտ, տեղադրեք այն հիմա</string>
+    <string name="insert_title">Միացեք բջջային ցանցին</string>
+    <string name="install_system_update_dialog_body_text">SIM քարտը ներբեռնելու համար անհրաժեշտ է տեղադրել այս հեռախոսի համակարգի վերջին թարմացումը։ Դա կտևի մի քանի րոպե։</string>
+    <string name="install_system_update_dialog_title">Տեղադրե՞լ համակարգի թարմացումը</string>
+    <string name="install_update_button">Տեղադրել թարմացումը</string>
+    <string name="insufficient_space_description_q">{count,plural, =1{Հեռախոսահամարն օգտագործելու համար նախ անհրաժեշտ է տարածք ազատել՝ ջնջելով ընթացիկ համարներն այս սարքից։ Հետագայում դա կարող եք անել Կարգավորումներում։}one{Հեռախոսահամարներն օգտագործելու համար նախ անհրաժեշտ է տարածք ազատել՝ ջնջելով ընթացիկ համարներն այս սարքից։ Հետագայում դա կարող եք անել Կարգավորումներում։}other{Հեռախոսահամարներն օգտագործելու համար նախ անհրաժեշտ է տարածք ազատել՝ ջնջելով ընթացիկ համարներն այս սարքից։ Հետագայում դա կարող եք անել Կարգավորումներում։}}</string>
+    <string name="legal_notices">%1$s, %2$s և %3$s</string>
+    <string name="low_battery_alert_body_text">Որպեսզի թարմացումը չընդհատվի, հեռախոսը միացրեք հոսանքին։</string>
+    <string name="low_battery_alert_title">Հեռախոսի մարտկոցի լիցքը սպառվում է</string>
+    <string name="manually_add_msg1_v2">Եթե ունեք QR կոդ, %1$s։ Եթե վաճառողը պահանջի EID համարը, կարող եք %2$s:</string>
+    <string name="mobile_network_connection_alert_description">Եթե բաց թողնեք այս քայլը, չեք միանա բջջային ցանցին։ Դուք կարող եք ավելի ուշ միանալ դրան՝ Կարգավորումներում ավելացնելով SIM քարտ։</string>
+    <string name="mobile_network_connection_alert_title">Բաց թողնե՞լ ձեր բջջային ցանցի կարգավորումը</string>
+    <string name="msg_choose_download_type">Ընտրեք հեռախոսահամարն այս սարքում ակտիվացնելու անվտանգ եղանակ</string>
+    <string name="msg_install_app_notification">Հպեք՝ շարունակելու համար</string>
+    <string name="msg_portal_intro">Դուք պետք է մուտք գործեք %1$s-ի ձեր օգտանունով և գաղտնաբառով</string>
+    <string name="msg_sign_in_button">Մուտք գործել %1$s</string>
+    <string name="msg_transfer_type_portal">Ձեզ անհրաժեշտ կլինի ձեր օգտանունն ու գաղտնաբառը</string>
+    <string name="msg_transfer_type_qr">Ստուգեք, արդյոք %1$s-ից QR կոդ եք ստացել</string>
+    <string name="mtrl_checkbox_state_description_checked">Checked</string>
+    <string name="mtrl_checkbox_state_description_indeterminate">Partially checked</string>
+    <string name="mtrl_checkbox_state_description_unchecked">Not checked</string>
+    <string name="multiple_carrier_download_number_count">{count,plural, =1{1 հեռախոսահամար}one{# հեռախոսահամար}other{# հեռախոսահամար}}</string>
+    <string name="next_button">Առաջ</string>
+    <string name="no_licenses_found_error">Սխալի պատճառով արտոնագրերը չհաջողվեց գտնել։</string>
+    <string name="no_qr_code_info_insert_btn">Փոխարենը տեղադրեք SIM քարտ</string>
+    <string name="no_qr_code_info_text">Կոդը կարող է նշված լինել սարքին կից թերթիկի վրա կամ օպերատորի ուղարկած նամակի մեջ: Եթե QR կոդ չունեք, օպերատորին կարող եք ավելի ուշ ավելացնել:</string>
+    <string name="no_qr_code_scan_button">Սկանավորել QR կոդ</string>
+    <string name="no_qr_code_title">Կարգավորման եղանակներ</string>
+    <string name="no_thanks_button">Ոչ, շնորհակալություն</string>
+    <string name="no_wifi_dialog_message">Դա անհրաժեշտ է SIM քարտը ներբեռնելու համար</string>
+    <string name="no_wifi_dialog_title">Միացեք Wi-Fi-ին</string>
+    <string name="not_set">Կարգավորված չէ</string>
+    <string name="notification_carrier_unknown">{count,plural, =1{Կարող եք ավելացնել ևս 1 համար}one{Կարող եք ավելացնել ևս # համար}other{Կարող եք ավելացնել ևս # համար}}</string>
+    <string name="notification_channel_ota_update">Օպերատորի թարմացումներ</string>
+    <string name="notification_multiple_carrier_name_known">{count,plural, =1{Կարող եք ավելացնել %1$s-ի ձեր համարը ու ևս %2$d-ը}one{Կարող եք ավելացնել %1$s-ի ձեր համարները ու ևս %2$d-ը}other{Կարող եք ավելացնել %1$s-ի ձեր համարները ու ևս %2$d-ը}}</string>
+    <string name="notification_single_carrier_name_known">{count,plural, =1{Կարող եք ավելացնել %1$s-ի ձեր համարը}one{Կարող եք ավելացնել %1$s-ի ձեր համարները}other{Կարող եք ավելացնել %1$s-ի ձեր համարները}}</string>
+    <string name="notification_tap_setup">Հպեք՝ կարգավորելու համար</string>
+    <string name="open_source_licenses">Բաց կոդով ծրագրակազմի լիցենզիաներ</string>
+    <string name="operation_code_text">Գործառնության կոդը</string>
+    <string name="os_version">Օպերացիոն համակարգի տարբերակը</string>
+    <string name="ota_error_notification_msg">Բջջային ծառայության տրամադրումը կվերսկսվի վերագործարկումից հետո:</string>
+    <string name="ota_error_notification_title">Չհաջողվեց թարմացնել օպերատորին</string>
+    <string name="ota_notification_msg">Բջջային ծառայության տրամադրումը կվերսկսվի թարմացումից հետո</string>
+    <string name="ota_notification_title">Օպերատորի թարմացումն ավարտվում է…</string>
+    <string name="perm_error_description_q">{count,plural, =1{Չհաջողվեց ակտիվացնել հեռախոսահամարը։ Դիմեք %1$s-ի աջակցման ծառայությանը %2$s հեռախոսահամարով։}one{Չհաջողվեց ակտիվացնել հեռախոսահամարները։ Դիմեք %1$s-ի աջակցման ծառայությանը %2$s հեռախոսահամարով։}other{Չհաջողվեց ակտիվացնել հեռախոսահամարները։ Դիմեք %1$s-ի աջակցման ծառայությանը %2$s հեռախոսահամարով։}}</string>
+    <string name="perm_error_description_q_multi_carrier">Չհաջողվեց ակտիվացնել հեռախոսահամարները։ Օգնության համար դիմեք ցանցի օպերատորներին։</string>
+    <string name="perm_error_description_q_no_phone">{count,plural, =1{Չհաջողվեց ակտիվացնել հեռախոսահամարը։ Դիմեք %1$s-ի աջակցման ծառայությանը։}one{Չհաջողվեց ակտիվացնել հեռախոսահամարները։ Դիմեք %1$s-ի աջակցման ծառայությանը։}other{Չհաջողվեց ակտիվացնել հեռախոսահամարները։ Դիմեք %1$s-ի աջակցման ծառայությանը։}}</string>
+    <string name="perm_error_description_q_no_phone_no_carrier_name">{count,plural, =1{Չհաջողվեց ակտիվացնել հեռախոսահամարը։ Օգնության համար դիմեք ցանցի օպերատորին։}one{Չհաջողվեց ակտիվացնել հեռախոսահամարները։ Օգնության համար դիմեք օպերատորին։}other{Չհաջողվեց ակտիվացնել հեռախոսահամարները։ Օգնության համար դիմեք օպերատորներին։}}</string>
+    <string name="perm_error_q_sub2_eid">Ձեզ կարող է անհրաժեշտ լինել այս սարքի %1$sը</string>
+    <string name="pixel_support_page_button">Pixel-ի աջակցման ծառայությունում</string>
+    <string name="pre_activation_ota_update_complete_subtitle">Ծրագրակազմը թարմացված է։ Այժմ կարող եք շարունակել ներբեռնել ձեր SIM քարտը։</string>
+    <string name="pre_activation_ota_update_complete_title">Թարմացումն ավարտվեց</string>
+    <string name="pre_activation_ota_update_error_msg1">Այս հեռախոսում հնարավոր չէ SIM քարտ ներբեռնել։</string>
+    <string name="pre_activation_ota_update_error_msg2_v2">"Դուք կարող եք նաև օգտագործել SIM քարտ կամ օգնություն ստանալ այստեղ՝
+%1$s։"</string>
+    <string name="pre_activation_ota_update_error_title">Թարմացումը չի ավարտվել</string>
+    <string name="pre_activation_ota_update_subtitle">Կատարված է %1$d%%։ Մնացեք այս էկրանում, քանի դեռ թարմացումն ընթացքի մեջ է։</string>
+    <string name="pre_activation_ota_update_title">Թարմացում…</string>
+    <string name="pre_activation_ota_user_consent_msg1">SIM քարտը ներբեռնելու համար անհրաժեշտ է թարմացնել SIM Manager-ը վերջին տարբերակով։ Սա 4-5 րոպե կտևի։</string>
+    <string name="pre_activation_ota_user_consent_msg2">Մնացեք այս էկրանում, որպեսզի թարմացումը չընդհատվի։ Թարմացման ընթացքում միայն շտապ կանչեր է հնարավոր անել։</string>
+    <string name="pre_activation_ota_user_consent_title">Թարմացնե՞լ SIM քարտի ծրագրակազմը</string>
+    <string name="preference_copied">«%1$s». պատճենվեց սեղմատախտակին:</string>
+    <string name="privacy_policy">Գաղտնիության քաղաքականություն</string>
+    <string name="privacy_warning_message">Շարունակելով՝ դուք թույլատրում եք %1$s-ին ստուգել այս սարքը նույնականացնող տվյալները:</string>
+    <string name="privileged_action_disable_sub_dialog_progress">SIM քարտն անջատվում է…</string>
+    <string name="privileged_action_disable_sub_dialog_text">Երբ անջատեք %1$s օպերատորի ծառայությունը, կակտիվանա %2$s-ի ծառայությունը։</string>
+    <string name="privileged_action_disable_sub_dialog_title">Անջատե՞լ %1$s ծառայությունը</string>
+    <string name="privileged_action_enable_sub_dialog_title">Միացնե՞լ %1$s ծառայությունը</string>
+    <string name="privileged_action_switch_psim_dialog_title">Անցնե՞լ SIM քարտին</string>
+    <string name="privileged_action_switch_sub_dialog_confirm">Անցնել %1$s-ի ցանցին</string>
+    <string name="privileged_action_switch_sub_dialog_progress">Անցում %1$s-ի ցանցին…</string>
+    <string name="privileged_action_switch_sub_dialog_text">"Միաժամանակ ակտիվ կարող է լինել միայն մեկ SIM քարտ։
+
+%1$s-ին անցնելու դեպքում %2$s-ի ծառայությունը չի չեղարկվի։"</string>
+    <string name="privileged_action_switch_sub_dialog_text_downloaded">"Միաժամանակ ակտիվ կարող է լինել միայն մեկ eSIM քարտ։
+
+%1$s-ին անցնելու դեպքում %2$s-ի ծառայությունը չի չեղարկվի։"</string>
+    <string name="privileged_action_switch_sub_dialog_text_no_to">"Միաժամանակ ակտիվ կարող է լինել միայն մեկ SIM քարտ։
+
+Այլ օպերատորի անցնելու դեպքում %1$s-ի ծառայությունը չի չեղարկվի։"</string>
+    <string name="privileged_action_switch_sub_dialog_title">Անցնե՞լ %1$s-ի ցանցին</string>
+    <string name="privileged_action_turn_on_sub_dialog_progress">%1$s-ի միացում…</string>
+    <string name="profile_disabled">Անջատված է</string>
+    <string name="profile_disabled_confirmation_body_text">eSIM քարտն ակտիվացնելու համար մուտքագրեք PIN կոդը</string>
+    <string name="profile_disabled_confirmation_title">eSIM քարտն անջատված է</string>
+    <string name="profile_enabled">Միացված է</string>
+    <string name="profile_enabled_with_phone_number">Միացված է, %1$s</string>
+    <string name="profile_list_action_bar_title">Օպերատոր</string>
+    <string name="profile_transfer_activation_fail_available_phone_number_description">"Սխալ առաջացավ։ Ձեր %1$s SIM քարտը տեղափոխվել է այս սարք, սակայն պատրաստ չէ օգտագործման։ 
+
+ Դիմեք %2$s-ի աջակցման ծառայությանը՝ %3$s.։
+
+Ձեզանից կարող է պահանջվել այս սարքի EID համարը՝
+
+%4$s"</string>
+    <string name="profile_transfer_activation_fail_available_phone_number_title">Չհաջողվեց ակտիվացնել համարը</string>
+    <string name="profile_transfer_activation_fail_unavailable_phone_number_description">"Սխալ առաջացավ։ Ձեր %1$s համարը (%2$s) տեղափոխվել է այս սարք, սակայն միացված չէ ցանցին։ 
+
+ Դիմեք %3$s-ի աջակցման ծառայությանը՝ %4$s.։
+
+Ձեզանից կարող է պահանջվել այս սարքի EID համարը՝
+
+%5$s"</string>
+    <string name="profile_transfer_activation_fail_unavailable_phone_number_title">Չհաջողվեց ակտիվացնել բջջային ցանցը</string>
+    <string name="profile_transfer_connecting_description">Միացում…</string>
+    <string name="profile_transfer_downloading_deferred_notification_content">Միանում է %1$s-ի սերվերին…</string>
+    <string name="profile_transfer_downloading_deferred_notification_title">%1$s պրոֆիլի ներբեռնում</string>
+    <string name="profile_transfer_error_deferred_notification_title">Չհաջողվեց տեղափոխել %1$s պրոֆիլը</string>
+    <string name="profile_transfer_error_title">Չհաջողվեց տեղափոխել %1$s-ի SIM քարտը</string>
+    <string name="profile_transfer_non_recoverable_error_deferred_notification_action">Իմացեք ավելին</string>
+    <string name="profile_transfer_non_recoverable_error_deferred_notification_content">SIM քարտը տեղափոխելիս սխալ առաջացավ։ Դիմեք %1$s-ի աջակցման ծառայությանը՝ %2$s</string>
+    <string name="profile_transfer_non_recoverable_error_description">"SIM քարտը տեղափոխելիս սխալ առաջացավ։ Դիմեք %1$s-ի աջակցման ծառայությանը՝ %2$s
+
+Հնարավոր է՝ այս սարքի համար ձեր պահանջվի EID համարը՝
+
+%3$s"</string>
+    <string name="profile_transfer_recoverable_error_deferred_notification_content">SIM քարտը տեղափոխելիս սխալ առաջացավ։ Խնդիրը լուծելու համար կարող եք նորից փորձել</string>
+    <string name="profile_transfer_recoverable_error_description">SIM քարտը տեղափոխելիս սխալ առաջացավ։</string>
+    <string name="profile_transfer_retry_button">Նորից փորձել</string>
+    <string name="profile_transfer_success_deferred_notification_content">%1$s հեռախոսահամարը կարող է արդեն օգտագործվել</string>
+    <string name="profile_transfer_success_deferred_notification_title">SIM քարտը տեղափոխվեց</string>
+    <string name="profile_transfer_suw_recoverable_error_description">SIM քարտը տեղափոխելիս սխալ առաջացավ։ Խնդիրը լուծելու համար կարող եք նորից փորձել։</string>
+    <string name="psim_guide_dialog_message">SIM քարտի պնակը գտնվում է հեռախոսի կողային հատվածում։ SIM քարտի հեռացման գործիքի կամ ամրակի միջոցով բացեք պնակը և տեղադրեք SIM քարտը։</string>
+    <string name="psim_guide_dialog_title">Տեղադրեք SIM քարտ</string>
+    <string name="q_download_sub_text">Սա կարող է տևել մի քանի րոպե</string>
+    <string name="q_download_sub_title">Միանում է %1$s-ին…</string>
+    <string name="q_multiple_carrier_confirm_title">Ընտրեք ցանցեր՝ ակտիվացնելու համար</string>
+    <string name="q_multiple_carrier_metadata_confirm_subtitle">{count,plural, =1{Այս սարքին հասանելի է 1 հեռախոսահամար։ Ակտիվացումից հետո ձեր կապի օպերատորը կարող է սկսել վճարներ գանձել ծառայության համար։}one{Այս սարքին հասանելի է # հեռախոսահամար։ Ակտիվացումից հետո ձեր կապի օպերատորը կարող է սկսել վճարներ գանձել ծառայության համար։}other{Այս սարքին հասանելի է # հեռախոսահամար։ Ակտիվացումից հետո ձեր կապի օպերատորը կարող է սկսել վճարներ գանձել ծառայության համար։}}</string>
+    <string name="q_result_download_metadata_text">{count,plural, =1{Այս սարքին հասանելի է %1$s-ի 1 հեռախոսահամար։ Երբ միանաք, %1$s օպերատորը կարող է սկսել վճարներ գանձել ծառայության համար։}one{Այս սարքին հասանելի է %1$s-ի # հեռախոսահամար։ Երբ միանաք, %1$s օպերատորը կարող է սկսել վճարներ գանձել ծառայության համար։}other{Այս սարքին հասանելի է %1$s-ի # հեռախոսահամար։ Երբ միանաք, %1$s օպերատորը կարող է սկսել վճարներ գանձել ծառայության համար։}}</string>
+    <string name="qr_scanner_end_button">Չե՞ք գտնում QR կոդը</string>
+    <string name="qr_scanner_failed_msg">Տեսախցիկի հետ կապված սխալ առաջացավ: Նորից փորձեք:</string>
+    <string name="qr_scanner_failed_title">Տեսախցիկն անհասանելի է</string>
+    <string name="qr_scanner_msg">Եթե կապի օպերատորը ձեզ QR կոդ է տրամադրել, սկանավորեք այն՝ պահելով կոդը վանդակի կենտրոնում:</string>
+    <string name="qr_scanner_msg_q">Եթե %1$s օպերատորը ձեզ QR կոդ է տրամադրել, սկանավորեք այն՝ պահելով կոդը վանդակի կենտրոնում:</string>
+    <string name="qr_scanner_msg_q_no_carrier_name">Եթե ցանցի մատակարարը ձեզ QR կոդ է տրամադրել, սկանավորեք այն՝ պահելով կոդը վանդակի կենտրոնում:</string>
+    <string name="qr_scanner_title">Ավելացրեք օպերատոր QR կոդի միջոցով</string>
+    <string name="qr_scanner_title_q">Սկանավորեք %1$s-ի տրամադրած QR կոդը</string>
+    <string name="qr_scanner_title_q_no_carrier_name">Սկանավորեք ցանցից ստացած QR կոդը</string>
+    <string name="reactivate_error_dialog_body">Չհաջողվեց ակտիվացնել հեռախոսահամարը։ Կրկնեք կամ նորից տեղադրեք SIM քարտը:</string>
+    <string name="reactivate_error_dialog_title_with_carrier_name">%1$s-ի ցանցն ակտիվացված չէ</string>
+    <string name="reactivate_error_dialog_title_without_carrier_name">SIM քարտն ակտիվացված չէ</string>
+    <string name="reason_code_text">Պատճառի կոդը</string>
+    <string name="reboot_button_title">Վերագործարկել հեռախոսը</string>
+    <string name="remove_carrier_dialog_text_disabled">"Սարքն այլևս չի կարողանա միանալ %1$s-ին։
+
+Բջջային կապի սակագնային պլանները չեն չեղարկվի։"</string>
+    <string name="remove_carrier_dialog_text_enabled">"Այս սարքն անմիջապես կանջատվի %1$s-ից։
+
+Բջջային կապի սակագնային պլանները չեն չեղարկվի։"</string>
+    <string name="remove_carrier_dialog_title">Ջնջե՞լ օպերատորին</string>
+    <string name="remove_fail_text">Սխալ առաջացավ, որի պատճառով օպերատորին հնարավոր չէ հեռացնել։</string>
+    <string name="remove_fail_title">Չհաջողվեց հեռացնել օպերատորին</string>
+    <string name="remove_profile_title">Ջնջել</string>
+    <string name="removing_carrier">Օպերատորը հեռացվում է…</string>
+    <string name="res_activate_profile_later_button">Ակտիվացնել ավելի ուշ</string>
+    <string name="res_activation_button">Միանալ</string>
+    <string name="res_continue_info1_general_multi_carriers">{count,plural, =1{Չհաջողվեց ավելացնել %1$s-ի ու ևս %2$d օպերատորի համարները։}one{Չհաջողվեց ավելացնել %1$s-ի ու ևս %2$d օպերատորի համարները։}other{Չհաջողվեց ավելացնել %1$s-ի ու ևս %2$d օպերատորի համարները։}}</string>
+    <string name="res_continue_info1_general_no_carrier">{count,plural, =1{Չհաջողվեց ավելացնել &lt;b>1 համար&lt;/b>։}one{Չհաջողվեց ավելացնել համարները։}other{Չհաջողվեց ավելացնել համարները։}}</string>
+    <string name="res_continue_info1_general_single_carrier">{count,plural, =1{Չհաջողվեց ավելացնել %1$s-ի &lt;b>այս %2$d համարը&lt;/b>։}one{Չհաջողվեց ավելացնել %1$s-ի &lt;b>%2$d համարները&lt;/b>։}other{Չհաջողվեց ավելացնել %1$s-ի &lt;b>%2$d համարները&lt;/b>։}}</string>
+    <string name="res_continue_info1_no_mem_multi_carriers">{count,plural, =1{Սարքում բավարար տարածք չկա %1$s-ի ու ևս %2$d օպերատորի համարներն ավելացնելու համար։}one{Սարքում բավարար տարածք չկա %1$s-ի ու ևս %2$d օպերատորի համարներն ավելացնելու համար։}other{Սարքում բավարար տարածք չկա %1$s-ի ու ևս %2$d օպերատորի համարներն ավելացնելու համար։}}</string>
+    <string name="res_continue_info1_no_mem_no_carrier">{count,plural, =1{Չհաջողվեց ավելացնել &lt;b>համարը&lt;/b>, քանի որ սարքում բավարար տարածք չկա։}one{Չհաջողվեց ավելացնել համարները, քանի որ սարքում բավարար տարածք չկա։}other{Չհաջողվեց ավելացնել համարները, քանի որ սարքում բավարար տարածք չկա։}}</string>
+    <string name="res_continue_info1_no_mem_single_carrier">{count,plural, =1{Չհաջողվեց ավելացնել %1$s-ի &lt;b>այս %2$d համարը&lt;/b>, քանի որ սարքում բավարար տարածք չկա։}one{Չհաջողվեց ավելացնել %1$s-ի &lt;b>%2$d համարները&lt;/b>, քանի որ սարքում բավարար տարածք չկա։}other{Չհաջողվեց ավելացնել %1$s-ի &lt;b>%2$d համարները&lt;/b>, քանի որ սարքում բավարար տարածք չկա։}}</string>
+    <string name="res_continue_info_item_2">Եթե ձեր բջջային ցանցը չի սպասարկվում, կապ հաստատեք %1$s-ի հետ օգնության համար:</string>
+    <string name="res_continue_info_item_2_no_carrier_name">Եթե ծառայությունն անհասանելի է, դիմեք ձեր օպերատորին օգնության համար</string>
+    <string name="res_continue_text_partial_complete_multiple_carriers">{count,plural, =1{Դուք ավելացրել եք %2$s-ի և %3$s-ի &lt;b>%1$d համար&lt;/b>}=2{Դուք ավելացրել եք %2$s-ի, %3$s-ի ու ևս %4$d օպերատորի &lt;b>%1$d համար&lt;/b>}one{Դուք ավելացրել եք %2$s-ի, %3$s-ի ու ևս %4$d օպերատորի &lt;b>%1$d համար&lt;/b>}other{Դուք ավելացրել եք %2$s-ի, %3$s-ի ու ևս %4$d օպերատորի &lt;b>%1$d համար&lt;/b>}}</string>
+    <string name="res_continue_text_partial_complete_single_carrier">{count,plural, =1{Դուք ավելացրել եք %2$s-ի &lt;b>%1$d համար&lt;/b>}one{Դուք ավելացրել եք %2$s-ի &lt;b>%1$d համար&lt;/b>}other{Դուք ավելացրել եք %2$s-ի &lt;b>%1$d համար&lt;/b>}}</string>
+    <string name="res_continue_title_all_success">{count,plural, =1{Ավելացվեց 1 հեռախոսահամար}one{Ավելացվեց # հեռախոսահամար}other{Ավելացվեց # հեռախոսահամար}}</string>
+    <string name="res_continue_title_partial_success">Ավելացված համարներ՝ %1$d/%2$d</string>
+    <string name="res_download_button">Ներբեռնել</string>
+    <string name="res_enter_pin_button">Մուտքագրել PIN կոդը</string>
+    <string name="res_need_help_button">Օգնությո՞ւն է հարկավոր</string>
+    <string name="res_start_button">Սկսել</string>
+    <string name="reset_button">Վերակայել</string>
+    <string name="reset_dialog_carriers_body">Ջնջե՞լ բոլոր օպերատորներին ձեր սարքից: Գործողությունը հետարկելի չէ:</string>
+    <string name="reset_dialog_carriers_title">Վերակայե՞լ օպերատորներին։</string>
+    <string name="reset_fail_text">Առաջացավ սխալ, որի պատճառով հնարավոր չէ վերակայել ձեր օպերատորներին։</string>
+    <string name="reset_fail_title">Հնարավոր չէ վերակայել օպերատորներին</string>
+    <string name="reset_screen_text_bottom">Բջջային կապի սակագնային պլանները չեն չեղարկվի:</string>
+    <string name="reset_screen_text_top">Արդյունքում ձեր սարքից կջնջվեն բոլոր օպերատորները՝</string>
+    <string name="reset_screen_title">Վերակայել օպերատորներին</string>
+    <string name="result_connect_title">Միանա՞լ %1$s-ին</string>
+    <string name="result_download_metadata_text">{count,plural, =1{Այս սարքին հասանելի է 1 համար %1$s-ից։}one{Այս սարքին հասանելի է # համար %1$s-ից։}other{Այս սարքին հասանելի է # համար %1$s-ից։}}</string>
+    <string name="result_download_text">{count,plural, =1{%1$s-ի համարը կարող եք արդեն ավելացնել ձեր հեռախոսում}one{%1$s-ի &lt;b>%2$d համարները&lt;/b> կարող եք արդեն ավելացնել այս հեռախոսում}other{%1$s-ի &lt;b>%2$d համարները&lt;/b> կարող եք արդեն ավելացնել այս հեռախոսում}}</string>
+    <string name="result_download_title">Ներբեռնե՞լ %1$s-ի eSIM-ը</string>
+    <string name="scan_it_now">սկանավորեք այն</string>
+    <string name="send_feedback">Կարծիք հայտնել</string>
+    <string name="set_up_button">Set up</string>
+    <string name="settings_gear_label">Կարգավորումներ</string>
+    <string name="sim_action_switch_sub_dialog_carrier_list_item_for_turning_off">Անջատել %1$s օպերատորի ցանցը</string>
+    <string name="sim_action_switch_sub_dialog_info_outline_for_turning_off">SIM քարտն անջատելու դեպքում ձեր ծառայությունը չի չեղարկվի</string>
+    <string name="sim_card_label">SIM քարտ</string>
+    <string name="sim_illustration_bottom_alt_text">Հեռախոսը պահեք էկրանով դեպի ձեզ և գտեք լիցքավորման միացքը։ SIM քարտի պնակը լիցքավորման միացքի ձախ կողմում է, հեռախոսի ներքևի հատվածում։ Պնակը հարթ է՝ կողքերից փոքրիկ ելուստներով։ Պնակի ձախ կողմում փոքրիկ անցք կա։ Պնակը բացելու համար անցքի մեջ մտցրեք ամրակի ծայրը կամ SIM քարտի հեռացման գործիքը։ SIM քարտը տեղադրելու համար ընտրեք պնակին համապատասխան դիրքը։ SIM քարտը տեղավորվում է միայն մեկ դիրքով։</string>
+    <string name="sim_illustration_bottom_left_alt_text">Հեռախոսը պահեք էկրանով դեպի ձեզ և գտեք լիցքավորման միացքը։ Հեռախոսի ձախ կողմով մատը սահեցրեք վերև։ SIM քարտի պնակը հարթ է՝ կողքերից փոքրիկ ելուստներով։ Պնակի վերևի հատվածում փոքրիկ անցք կա։ Պնակը բացելու համար անցքի մեջ մտցրեք ամրակի ծայրը կամ SIM քարտի հեռացման գործիքը։ SIM քարտը տեղադրելու համար ընտրեք պնակին համապատասխան դիրքը։ SIM քարտը տեղավորվում է միայն մեկ դիրքով։</string>
+    <string name="sim_illustration_top_left_alt_text">Հեռախոսը պահեք էկրանով դեպի ձեզ և գտեք լիցքավորման միացքը։ Հեռախոսի ձախ կողմով մատը սահեցրեք վերև։ SIM քարտի պնակը հարթ է՝ կողքերից փոքրիկ ելուստներով։ Պնակի վերևի հատվածում փոքրիկ անցք կա։ Պնակը բացելու համար անցքի մեջ մտցրեք ամրակի ծայրը կամ SIM քարտի հեռացման գործիքը։ SIM քարտը տեղադրելու համար ընտրեք պնակին համապատասխան դիրքը։ SIM քարտը տեղավորվում է միայն մեկ դիրքով։</string>
+    <string name="sim_locked_text">"Այս հեռախոսը ներկայումս մեկ այլ օպերատորի է կցված։ Ձեզ վավեր SIM քարտ է պետք։
+
+SIM քարտն ավելացնելուց հետո դրա ակտիվացման համար կարող է մի քանի վայրկյան պահանջվել։"</string>
+    <string name="sim_locked_title">SIM քարտը չի աջակցվում</string>
+    <string name="sim_missing_activity_esim_button_title">Ներբեռնել նոր eSIM քարտ</string>
+    <string name="sim_missing_activity_esim_transfer_button_title">Տեղափոխել SIM քարտ հին հեռախոսից</string>
+    <string name="sim_missing_activity_psim_hint">Իմանալ, թե ինչպես օգտագործել SIM քարտը</string>
+    <string name="sim_missing_activity_subtitle_no_psim">Ներբեռնեք ձեր eSIM քարտը կամ տեղադրեք SIM քարտ հիմա։</string>
+    <string name="sim_missing_activity_subtitle_psim_exists">"Մեկ այլ SIM քարտ ավելացնելու համար ներբեռնեք նոր eSIM քարտ։
+
+Այլ SIM քարտ օգտագործելու համար նախ հեռացրեք ներկայումս ձեր հեռախոսում տեղադրված SIM քարտը։"</string>
+    <string name="sim_missing_activity_subtitle_tmo_esim_primary">Ներբեռնեք ձեր SIM քարտը կամ տեղադրեք SIM քարտ հիմա</string>
+    <string name="sim_missing_activity_subtitle_with_psim">Նոր SIM քարտ օգտագործելու համար պետք է հեռացնեք սարքում տեղադրված քարտը</string>
+    <string name="sim_missing_activity_with_tmo_esim_primary_button_title">Ներբեռնել SIM քարտը</string>
+    <string name="sim_ready_message">Նախկինում այս հեռախոսում համար է կարգավորված եղել</string>
+    <string name="sim_ready_message_carrier_app">Ներբեռնեք %2$s-ի հավելվածը՝ %1$s հեռախոսահամարի ակտիվացումն ավարտելու համար։ Այժմ ավարտեք հեռախոսի կարգավորումը։</string>
+    <string name="sim_ready_message_invalid_phone_number_carrier_app">Հեռախոսահամարի ակտիվացումն ավարտելու համար ներբեռնեք %1$s-ի հավելվածը։ Այժմ ավարտեք հեռախոսի կարգավորումը։</string>
+    <string name="sim_ready_title">Հայտնաբերվել է eSIM քարտ</string>
+    <string name="sim_ready_title_carrier_app">Հնարավոր չէ միանալ %1$s-ին</string>
+    <string name="skip_button">Բաց թողնել</string>
+    <string name="status_title">Կարգավիճակ</string>
+    <string name="subject_code_text">Թեմայի կոդը</string>
+    <string name="sud_back_button_label">Հետ</string>
+    <string name="sud_more_button_label">Ավելին</string>
+    <string name="sud_next_button_label">Առաջ</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="suw_carrier_support_to_complete_activation_no_carrier_v2">Ծառայությունն ակտիվացնելու համար դիմեք ձեր կապի օպերատորին։</string>
+    <string name="suw_default_failed_msg_no_carrier">Չհաջողվեց ավելացնել հեռախոսահամարը</string>
+    <string name="suw_failed_title">Կարգավորումն ավարտված չէ</string>
+    <string name="suw_pii_sent_msg">Սարքի որոշ տեղեկություններ, որոնք անհրաժեշտ են կարգավորման համար, կուղարկվեն Google-ին, ձեր օպերատորին և նրանց գործընկերներին</string>
+    <string name="suw_setting_up_phone_info">Մնացել է մեկ րոպեից քիչ</string>
+    <string name="suw_setting_up_phone_title">Ձեր հեռախոսը կարգավորվում է…</string>
+    <string name="suw_sim_missing_activity_for_delayed_setup_decription">"When you're done setting up your phone, go to Settings to connect to your mobile network. Or, if you have a SIM card, insert it now."</string>
+    <string name="suw_sim_missing_activity_for_delayed_setup_title">Connect to mobile network after setup</string>
+    <string name="switch_button">Փոխարկել</string>
+    <string name="switch_confirm_mep_dialog_message">Այս սարքում հնարավոր է օգտագործել միաժամանակ 2 SIM քարտ։</string>
+    <string name="switch_confirm_mep_dialog_title">Անջատեք SIM քարտերից մեկը՝ %1$s-ն օգտագործելու համար</string>
+    <string name="switch_confirm_message">%1$s-ի ցանցն այժմ կանջատվի</string>
+    <string name="switch_confirm_message_no_carrier">Ձեր բջջային ցանցն այժմ կանջատվի</string>
+    <string name="switch_confirm_new_title">SIM քարտը ներբեռնելու համար միացեք Wi‑Fi ցանցին</string>
+    <string name="switch_confirm_no_active_profile_message">Թույլատրեք կապի օպերատորին ներբեռնել ձեր SIM քարտը</string>
+    <string name="switch_confirm_no_active_profile_title">Ձեր SIM քարտը շուտով կներբեռնվի</string>
+    <string name="switch_confirm_no_wifi_message">Դա թույլ կտա այլ ցանցի միանալ:</string>
+    <string name="switch_confirm_no_wifi_title">Անջատե՞լ %1$s-ի ցանցը</string>
+    <string name="switch_confirm_no_wifi_title_no_carrier">Անջատե՞լ բջջային ցանցը</string>
+    <string name="switch_restriction_message_to_connect_to">%1$s-ի փոխարեն %2$s-ին միանալու համար հեռացրեք %1$s-ի SIM քարտը և նորից փորձեք։</string>
+    <string name="switch_restriction_message_to_switch_from">%1$s-ի փոխարեն այլ օպերատորի միանալու համար հեռացրեք %1$s-ի SIM քարտը և նորից փորձեք։</string>
+    <string name="switch_restriction_title_remove_sim">Հեռացրեք SIM քարտը</string>
+    <string name="sys_notification_5g_enable_dsds_text">"Այս սարքում հնարավոր է օգտագործել միաժամանակ 2 SIM քարտ:
+
+2 SIM քարտ օգտագործելիս այս հեռախոսը կսահմանափակվի 4G ցանցով։ %1$s"</string>
+    <string name="sys_notification_after_dsds_reboot_text">Հպեք՝ մյուս SIM քարտն ակտիվացնելու համար</string>
+    <string name="sys_notification_after_dsds_reboot_title">Երկու SIM քարտերը պատրաստ են օգտագործման</string>
+    <string name="sys_notification_enable_dsds_text">Այս սարքում հնարավոր է օգտագործել միաժամանակ 2 SIM քարտ: Միայն մեկ SIM քարտ օգտագործելու համար հպեք «Ոչ, շնորհակալություն» կոճակին:</string>
+    <string name="sys_notification_enable_dsds_title">Օգտագործե՞լ 2 SIM քարտ</string>
+    <string name="sys_notification_no_thanks">Ոչ, շնորհակալություն</string>
+    <string name="sys_notification_reboot">Վերագործարկել</string>
+    <string name="sys_notification_restart_text">Սկսելու համար վերագործարկեք սարքը: Այնուհետև կարող եք ավելացնել այլ SIM քարտ:</string>
+    <string name="sys_notification_restart_title">Վերագործարկե՞լ սարքը</string>
+    <string name="sys_notification_selected_text">Բջջային ցանցը փոխվել է</string>
+    <string name="sys_notification_switched_title">Փոխարկված է %1$s օպերատորին</string>
+    <string name="sys_notification_switched_title_no_carrier_name">Փոխարկված է այլ օպերատորի</string>
+    <string name="sys_notification_title">Անցում այլ օպերատորի</string>
+    <string name="temp_error_description_q">{count,plural, =1{Չհաջողվեց ակտիվացնել հեռախոսահամարը։ Փորձեք ավելի ուշ Կարգավորումներում։}one{Չհաջողվեց ակտիվացնել հեռախոսահամարները։ Փորձեք ավելի ուշ Կարգավորումներում։}other{Չհաջողվեց ակտիվացնել հեռախոսահամարները։ Փորձեք ավելի ուշ Կարգավորումներում։}}</string>
+    <string name="terms_of_service">Օգտագործման պայմաններ</string>
+    <string name="text_bottom_transfer_carrier_info">Չե՞ք տեսնում ձեր օպերատորին։ Օգնության համար դիմեք նրան։</string>
+    <string name="title_app_required">Հնարավոր չէ միանալ %1$s-ին</string>
+    <string name="title_cannot_connect_to_network_no_name">Հնարավոր չէ միանալ ցանցին</string>
+    <string name="title_cannot_download">Հնարավոր չէ ներբեռնել SIM քարտը</string>
+    <string name="title_choose_download_type">Ակտիվացրեք %1$s-ի համարը</string>
+    <string name="title_choose_transfer_type">Ընտրեք %1$s-ի ձեր համարը տեղափոխելու եղանակը</string>
+    <string name="title_incorrect_qr_code">Սխալ QR կոդ</string>
+    <string name="title_install_app_notification">Համարը կարգավորելու համար ներբեռնեք %1$s-ի հավելվածը</string>
+    <string name="title_network_not_activated">Ցանցն ակտիվացված չէ</string>
+    <string name="title_no_connection">Կապ չկա</string>
+    <string name="title_portal_intro">Տեղափոխեք %1$s-ի ձեր համարը</string>
+    <string name="title_profile_already_downloaded">SIM քարտն արդեն ներբեռնվել է</string>
+    <string name="title_transfer_type_portal">Մուտք %1$s հաշիվ</string>
+    <string name="title_transfer_type_qr">QR կոդի սկանավորում</string>
+    <string name="transfer_button">Փոխանցել</string>
+    <string name="transfer_device_transfer_error">(հնարավոր չէ տեղափոխել)</string>
+    <string name="transfer_in_device_name">%1$s սարքում %2$s</string>
+    <string name="transfer_profile_downloading_description">Դուք կարող եք շարունակել %1$s սարքի կարգավորումը</string>
+    <string name="transfer_single_description_with_esim">"%1$s will be transferred to this phone.
+
+After you transfer your SIM to this phone, it will no longer work on your other device."</string>
+    <string name="transfer_single_description_with_psim">"You can convert your SIM card into an eSIM and
+transfer it to this phone. After it's been
+converted, your SIM card can't be used again."</string>
+    <string name="transfer_single_psim_hint">Learn how to use a SIM card</string>
+    <string name="transfer_single_psim_sub_info">Or, insert the SIM card now.</string>
+    <string name="transfer_single_subItem_title_with_number">Ճիշտ համարը չէ՞</string>
+    <string name="transfer_single_subItem_title_without_number_esim">Ճիշտ eSIM քարտը չէ՞</string>
+    <string name="transfer_single_subItem_title_without_number_unknown">Ճիշտ SIM քարտը չէ՞</string>
+    <string name="transfer_single_title">Transfer %1$s SIM?</string>
+    <string name="transfer_subItem_desc">Փոխարենը ներբեռնել նոր eSIM քարտ</string>
+    <string name="transfer_subItem_title_with_number">Ճիշտ համարները չե՞ն</string>
+    <string name="transfer_subItem_title_without_number_esim">Ճիշտ eSIM քարտերը չե՞ն</string>
+    <string name="transfer_subItem_title_without_number_unknown">Ճիշտ SIM քարտերը չե՞ն</string>
+    <string name="transfer_title_unknown_sim">Ընտրեք SIM քարտ՝ տեղափոխելու համար</string>
+    <string name="transfer_title_with_number">Ընտրեք հեռախոսահամար՝ տեղափոխելու համար</string>
+    <string name="transfer_title_without_number">Ընտրեք eSIM քարտ՝ տեղափոխելու համար</string>
+    <string name="update_button">Թարմացնել</string>
+    <string name="use_different_network">Օգտագործել այլ ցանց</string>
+    <string name="use_different_network_button">Օգտագործել այլ ցանց</string>
+    <string name="user_consent_download_active_profile_body_text">%1$s-ն անջատված կլինի ներբեռնման ընթացքում</string>
+    <string name="user_consent_download_mobile_data_body_text">Ձեր SIM քարտը կներբեռնվի բջջային ցանցի միջոցով</string>
+    <string name="user_consent_download_no_name_body_text">Ձեր ընթացիկ SIM քարտն անջատված կլինի ներբեռնման ընթացքում</string>
+    <string name="user_consent_download_over_wifi_title">Օգտագործե՞լ Wi‑Fi-ը՝ SIM քարտը ներբեռնելու համար</string>
+    <string name="user_consent_download_ss_no_profile_title">Թույլատրե՞լ կապի օպերատորին ներբեռնել SIM քարտը</string>
+    <string name="user_consent_download_ss_no_profile_wifi_body_text">Ձեր SIM քարտը կներբեռնվի Wi-Fi-ի միջոցով</string>
+    <string name="user_consent_download_switch_body_text">"Այլ SIM քարտ ներբեռնելու և օգտագործելու համար անջատեք %1$s օպերատորին։
+
+%1$s-ին անջատելու դեպքում ձեր ծառայությունը չի չեղարկվի։"</string>
+    <string name="user_consent_download_switch_dsds_no_name_body_text">"Այլ SIM քարտ ներբեռնելու և օգտագործելու համար անջատեք ակտիվ SIM քարտերից մեկը։
+
+SIM քարտն անջատելու դեպքում ձեր ծառայությունը չի չեղարկվի։"</string>
+    <string name="user_consent_download_switch_dsds_no_name_title">Անջատե՞լ SIM քարտերից մեկը</string>
+    <string name="user_consent_download_switch_no_profile_body_text">Ձեր SIM քարտը կօգտագործվի անմիջապես ներբեռնումից հետո</string>
+    <string name="user_consent_download_switch_ss_no_name_body_text">"Այլ SIM քարտ ներբեռնելու և օգտագործելու համար անջատեք ձեր ակտիվ SIM քարտը։
+
+SIM քարտն անջատելու դեպքում ձեր ծառայությունը չի չեղարկվի։"</string>
+    <string name="user_consent_download_switch_ss_no_name_title">Անջատե՞լ SIM քարտը</string>
+    <string name="user_consent_switch_dsds_body_text">"Այս սարքը կարող է ունենալ միայն 1 ակտիվ eSIM քարտ։
+
+%1$s օպերատորը կանջատվի, սակայն ձեր ծառայությունը չի չեղարկվի։"</string>
+    <string name="user_consent_switch_dsds_no_name_body_text">"Այս սարքը կարող է ունենալ միայն 1 ակտիվ eSIM քարտ։
+
+Ընթացիկ SIM քարտը կանջատվի, սակայն ձեր ծառայությունը չի չեղարկվի։"</string>
+    <string name="user_consent_switch_mep_dsds_body_text">%1$s օպերատորը կանջատվի, սակայն ձեր ծառայությունը չի չեղարկվի։</string>
+    <string name="user_consent_switch_mep_dsds_no_name_body_text">Ընթացիկ SIM քարտը կանջատվի, սակայն ձեր ծառայությունը չի չեղարկվի։</string>
+    <string name="user_consent_switch_no_name_title">Օգտագործե՞լ նոր SIM քարտը</string>
+    <string name="user_consent_switch_ss_body_text">"Այս սարքը կարող է ունենալ միայն 1 ակտիվ SIM քարտ։
+
+%1$s օպերատորը կանջատվի, սակայն ձեր ծառայությունը չի չեղարկվի։"</string>
+    <string name="user_consent_switch_ss_no_name_body_text">"Այս սարքը կարող է ունենալ միայն 1 ակտիվ SIM քարտ։
+
+Ընթացիկ SIM քարտը կանջատվի, սակայն ձեր ծառայությունը չի չեղարկվի։"</string>
+    <string name="user_consent_switch_title">Օգտագործե՞լ %1$s օպերատորի ցանցը</string>
+    <string name="v7_preference_off">ԱՆՋԱՏԱԾ</string>
+    <string name="v7_preference_on">ՄԻԱՑՎԱԾ</string>
+    <string name="wait_msg">Մեկ վայրկյան…</string>
+    <string name="wrong_code_dialog_text">"Անվտանգության նկատառումներով կապի որոշ օպերատորներ պահանջում են մուտքագրել հաստատման կոդ։ Այն կարող է նշված լինել՝
+
+• սարքին կից թերթիկի վրա
+• օպերատորի ուղարկած նամակում
+• ձեր հին սարքին ուղարկված տեքստային հաղորդագրության մեջ"</string>
+    <string name="yes_button">Այո</string>
+</resources>

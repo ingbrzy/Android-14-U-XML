@@ -1,0 +1,1166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ampersand_phrases">
+        <item>e comercial</item>
+        <item>e</item>
+        <item>sinal \"e\"</item>
+        <item>símbolo \"e\"</item>
+    </string-array>
+    <string-array name="apostrophe_phrases">
+        <item>apóstrofo</item>
+        <item>aspas simples</item>
+    </string-array>
+    <string-array name="asterisk_symbol_phrases">
+        <item>estrela</item>
+        <item>sinal de estrela</item>
+        <item>símbolo de estrela</item>
+        <item>asterisco</item>
+    </string-array>
+    <string-array name="at_symbol_phrases">
+        <item>arroba</item>
+        <item>sinal de arroba</item>
+        <item>símbolo de arroba</item>
+    </string-array>
+    <string-array name="back_button_content_descriptions_preferred">
+        <item>TODO</item>
+        <item>TODO</item>
+    </string-array>
+    <string-array name="backslash_phrases">
+        <item>barra invertida</item>
+    </string-array>
+    <string-array name="beginning_quote_phrases">
+        <item>abrir aspas</item>
+        <item>abre aspas</item>
+        <item>aspas duplas</item>
+    </string-array>
+    <string-array name="caret_symbol_phrases">
+        <item>acento circunflexo</item>
+        <item>sinal de acento circunflexo</item>
+        <item>símbolo de acento circunflexo</item>
+    </string-array>
+    <string-array name="close_brace_phrases">
+        <item>chave de fechamento</item>
+        <item>chave direita</item>
+    </string-array>
+    <string-array name="close_bracket_phrases">
+        <item>colchete de fechamento</item>
+        <item>colchete direito</item>
+    </string-array>
+    <string-array name="close_parenthesis_phrases">
+        <item>parêntese de fechamento</item>
+        <item>parêntese direito</item>
+    </string-array>
+    <string-array name="colon_phrases">
+        <item>dois pontos</item>
+    </string-array>
+    <string-array name="comma_phrases">
+        <item>vírgula</item>
+    </string-array>
+    <string-array name="dash_phrases">
+        <item>traço</item>
+        <item>hífen</item>
+        <item>menos</item>
+        <item>sinal de menos</item>
+        <item>símbolo de menos</item>
+        <item>sinal de subtração</item>
+        <item>símbolo de subtração</item>
+        <item>sinal de subtração</item>
+        <item>símbolo de subtração</item>
+    </string-array>
+    <string-array name="dollar_symbol_phrases">
+        <item>cifrão</item>
+        <item>símbolo de cifrão</item>
+    </string-array>
+    <string-array name="ellipses_phrases">
+        <item>três pontos</item>
+        <item>três pontos</item>
+        <item>reticências</item>
+        <item>reticências</item>
+    </string-array>
+    <string-array name="ending_quote_phrases">
+        <item>fechar aspas</item>
+        <item>fecha aspas</item>
+        <item>aspas duplas</item>
+    </string-array>
+    <string-array name="enter_key_labels">
+        <item>Pesquisa</item>
+        <item>Ir</item>
+        <item>Concluído</item>
+        <item>Próximo</item>
+    </string-array>
+    <string-array name="equals_phrases">
+        <item>igual</item>
+        <item>sinal de igual</item>
+        <item>símbolo de igual</item>
+        <item>igual</item>
+        <item>sinal de igual</item>
+        <item>símbolo de igual</item>
+    </string-array>
+    <string-array name="error_no_query_present_for_assistant">
+        <item>Diga \"Ok Google, definir cronômetro de 5 minutos\"</item>
+        <item>Diga \"Ok Google, ligar a lanterna\"</item>
+        <item>Diga \"Ok Google, quando o Empire State foi construído\"</item>
+        <item>Diga \"Ok Google, quem criou o Google\"</item>
+        <item>Diga \"Ok Google, definir cronômetro de 5 minutos\"</item>
+        <item>Diga \"Ok Google, ligar a lanterna\"</item>
+        <item>Diga \"Ok Google, quando o Empire State foi construído\"</item>
+        <item>Diga \"Ok Google, quem criou o Google\"</item>
+    </string-array>
+    <string-array name="exclamation_mark_phrases">
+        <item>ponto de exclamação</item>
+    </string-array>
+    <string-array name="greater_than_symbol_phrases">
+        <item>maior que</item>
+        <item>sinal de maior que</item>
+        <item>símbolo de maior que</item>
+    </string-array>
+    <string-array name="icon_add_alt_names">
+        <item>Ícone de mais</item>
+        <item>Símbolo de mais</item>
+        <item>Adição</item>
+        <item>Ícone de adição</item>
+        <item>Símbolo de adição</item>
+        <item>Novo</item>
+        <item>Ícone \"Novo\"</item>
+        <item>Símbolo \"Novo\"</item>
+    </string-array>
+    <string-array name="icon_apps_alt_names">
+        <item>Ícone de apps</item>
+        <item>Símbolo de apps</item>
+        <item>Todos os apps</item>
+        <item>Ícone \"Todos os apps\"</item>
+        <item>Símbolo \"Todos os apps\"</item>
+    </string-array>
+    <string-array name="icon_assistant_alt_names">
+        <item>Ícone do Assistente</item>
+        <item>Símbolo do Assistente</item>
+        <item>Google Assistente</item>
+        <item>Ícone do Google Assistente</item>
+        <item>Símbolo do Google Assistente</item>
+    </string-array>
+    <string-array name="icon_back_arrow_alt_names">
+        <item>Ícone \"Voltar\"</item>
+        <item>Símbolo \"Voltar\"</item>
+        <item>Seta para voltar</item>
+        <item>Ícone de seta para voltar</item>
+        <item>Símbolo da seta para voltar</item>
+        <item>Seta para trás</item>
+        <item>Ícone de seta para trás</item>
+        <item>Símbolo de seta para trás</item>
+        <item>Seta para trás</item>
+        <item>Ícone de seta para trás</item>
+        <item>Símbolo de seta para trás</item>
+        <item>Seta para a esquerda</item>
+        <item>Ícone de seta para a esquerda</item>
+        <item>Símbolo de seta para a esquerda</item>
+        <item>Anterior</item>
+        <item>Ícone \"Anterior\"</item>
+        <item>Símbolo \"Anterior\"</item>
+    </string-array>
+    <string-array name="icon_calendar_alt_names">
+        <item>Ícone da Agenda</item>
+        <item>Símbolo da Agenda</item>
+    </string-array>
+    <string-array name="icon_call_alt_names">
+        <item>Ícone de telefone</item>
+        <item>Símbolo de telefone</item>
+        <item>Chamada telefônica</item>
+        <item>Ícone de chamada telefônica</item>
+        <item>Símbolo de chamada telefônica</item>
+        <item>Telefone</item>
+        <item>Ícone de telefone</item>
+        <item>Símbolo de telefone</item>
+    </string-array>
+    <string-array name="icon_capitalize_alt_names">
+        <item>Ícone de letras maiúsculas</item>
+        <item>Símbolo de Letras maiúsculas</item>
+        <item>Para cima</item>
+        <item>Ícone \"Para cima\"</item>
+        <item>Símbolo \"para cima\"</item>
+    </string-array>
+    <string-array name="icon_cast_alt_names">
+        <item>Ícone de transmissão</item>
+        <item>Símbolo de transmissão</item>
+    </string-array>
+    <string-array name="icon_chat_alt_names">
+        <item>Ícone de chat</item>
+        <item>Símbolo de chat</item>
+        <item>Mensagem</item>
+        <item>Ícone de mensagem</item>
+        <item>Símbolo de mensagem</item>
+        <item>Mensagens</item>
+        <item>Ícone de mensagens</item>
+        <item>Símbolo de mensagens</item>
+        <item>Conversa</item>
+        <item>Ícone de conversa</item>
+        <item>Símbolo de conversa</item>
+        <item>Balão de diálogo</item>
+        <item>Ícone de balão de diálogo</item>
+        <item>Símbolo de balão de diálogo</item>
+        <item>Comentar</item>
+        <item>Ícone \"Comentar\"</item>
+        <item>Símbolo \"Comentar\"</item>
+    </string-array>
+    <string-array name="icon_chat_app_alt_names">
+        <item>Ícone do app de Chat</item>
+        <item>Símbolo do app de Chat</item>
+        <item>Chat</item>
+        <item>Ícone de chat</item>
+        <item>Símbolo de chat</item>
+        <item>Mensagem</item>
+        <item>Ícone de mensagem</item>
+        <item>Símbolo de mensagem</item>
+        <item>Mensagens</item>
+        <item>Ícone de mensagens</item>
+        <item>Símbolo de mensagens</item>
+    </string-array>
+    <string-array name="icon_check_alt_names">
+        <item>Ícone \"Marcar\"</item>
+        <item>Símbolo \"Marcar\"</item>
+        <item>Marcação</item>
+        <item>Ícone de marcação</item>
+        <item>Símbolo de marcação</item>
+        <item>Caixa de seleção</item>
+        <item>Ícone de caixa de seleção</item>
+        <item>Símbolo de caixa de seleção</item>
+        <item>Marca de seleção</item>
+        <item>Ícone de marca de seleção</item>
+        <item>Símbolo de marca de seleção</item>
+        <item>Marca de seleção</item>
+        <item>Ícone de marca de seleção</item>
+        <item>Símbolo de marca de seleção</item>
+    </string-array>
+    <string-array name="icon_close_alt_names">
+        <item>Ícone \"Fechar\"</item>
+        <item>Símbolo \"Fechar\"</item>
+        <item>X</item>
+        <item>Ícone X</item>
+        <item>Símbolo X</item>
+        <item>Sair</item>
+        <item>Ícone de saída</item>
+        <item>Símbolo de saída</item>
+        <item>Cruz</item>
+        <item>Ícone de cruz</item>
+        <item>Símbolo de cruz</item>
+        <item>Multiplicar</item>
+        <item>Ícone de multiplicação</item>
+        <item>Símbolo de multiplicação</item>
+        <item>Vezes</item>
+        <item>Ícone de vezes</item>
+        <item>Símbolo de vezes</item>
+    </string-array>
+    <string-array name="icon_compass_alt_names">
+        <item>Ícone de bússola</item>
+        <item>Símbolo de bússola</item>
+        <item>Navegador</item>
+        <item>Ícone de navegador</item>
+        <item>Símbolo de navegador</item>
+        <item>Aletiômetro</item>
+    </string-array>
+    <string-array name="icon_contract_alt_names">
+        <item>Ícone \"Encolher\"</item>
+        <item>Símbolo \"Encolher\"</item>
+        <item>Contrato</item>
+        <item>Ícone de contrato</item>
+        <item>Símbolo de contrato</item>
+        <item>Menor</item>
+        <item>Ícone menor</item>
+        <item>Símbolo menor</item>
+        <item>Aumentar zoom</item>
+        <item>Ícone de aumentar zoom</item>
+        <item>Símbolo de aumentar zoom</item>
+    </string-array>
+    <string-array name="icon_delete_alt_names">
+        <item>Ícone de lixeira</item>
+        <item>Símbolo de lixeira</item>
+        <item>Excluir</item>
+        <item>Ícone \"Excluir\"</item>
+        <item>Símbolo \"Excluir\"</item>
+        <item>Remover</item>
+        <item>Ícone \"Remover\"</item>
+        <item>Símbolo \"Remover\"</item>
+        <item>Lixeira</item>
+        <item>Ícone de lixeira</item>
+        <item>Símbolo de lixeira</item>
+        <item>Cesto de lixo</item>
+        <item>Ícone de cesto de lixo</item>
+        <item>Símbolo de cesto de lixo</item>
+        <item>Lata de lixo</item>
+        <item>Ícone de lata de lixo</item>
+        <item>Símbolo de lata de lixo</item>
+    </string-array>
+    <string-array name="icon_delete_text_alt_names">
+        <item>Ícone \"Excluir texto\"</item>
+        <item>Símbolo \"Excluir texto\"</item>
+        <item>X</item>
+        <item>Ícone X</item>
+        <item>Símbolo X</item>
+        <item>Sair</item>
+        <item>Ícone de saída</item>
+        <item>Símbolo de saída</item>
+        <item>Cruz</item>
+        <item>Ícone de cruz</item>
+        <item>Símbolo de cruz</item>
+        <item>Limpar texto</item>
+        <item>Ícone de Excluir texto</item>
+        <item>Símbolo de Excluir texto</item>
+        <item>Backspace</item>
+        <item>Ícone de Backspace</item>
+        <item>Símbolo de Backspace</item>
+        <item>Cruz</item>
+        <item>Ícone de cruz</item>
+        <item>Símbolo de cruz</item>
+    </string-array>
+    <string-array name="icon_down_arrow_alt_names">
+        <item>Ícone \"para baixo\"</item>
+        <item>Símbolo \"para baixo\"</item>
+        <item>Seta para baixo</item>
+        <item>Ícone de seta para baixo</item>
+        <item>Símbolo de seta para baixo</item>
+        <item>Seta para baixo</item>
+        <item>Ícone de seta para baixo</item>
+        <item>Símbolo para baixo</item>
+        <item>Seta para baixo</item>
+        <item>Ícone de seta para baixo</item>
+        <item>Símbolo para baixo</item>
+    </string-array>
+    <string-array name="icon_download_alt_names">
+        <item>Ícone \"Fazer o download\"</item>
+        <item>Símbolo \"Fazer o download\"</item>
+        <item>Downloads</item>
+        <item>Ícone de downloads</item>
+        <item>Símbolo de downloads</item>
+    </string-array>
+    <string-array name="icon_edit_alt_names">
+        <item>Ícone \"Editar\"</item>
+        <item>Símbolo \"Editar\"</item>
+        <item>Lápis</item>
+        <item>Ícone de lápis</item>
+        <item>Símbolo de lápis</item>
+        <item>Caneta</item>
+        <item>Ícone de caneta</item>
+        <item>Símbolo de caneta</item>
+        <item>Marcador</item>
+        <item>Ícone de marcador</item>
+        <item>Símbolo de marcador</item>
+        <item>Escrever</item>
+        <item>Ícone \"Escrever\"</item>
+        <item>Símbolo \"Escrever\"</item>
+    </string-array>
+    <string-array name="icon_emoji_alt_names">
+        <item>Ícone de emoji</item>
+        <item>Símbolo de emoji</item>
+        <item>Rosto</item>
+        <item>Ícone de rosto</item>
+        <item>Símbolo de rosto</item>
+    </string-array>
+    <string-array name="icon_end_call_alt_names">
+        <item>Ícone \"Encerrar chamada\"</item>
+        <item>Símbolo \"Encerrar chamada\"</item>
+        <item>Desligar</item>
+        <item>Ícone \"Desligar\"</item>
+        <item>Símbolo \"Desligar\"</item>
+        <item>Telefone</item>
+        <item>Ícone de telefone</item>
+        <item>Símbolo de telefone</item>
+        <item>Telefone</item>
+        <item>Ícone de telefone</item>
+        <item>Símbolo de telefone</item>
+        <item>Encerrar chamada</item>
+        <item>Ícone \"Encerrar chamada\"</item>
+        <item>Símbolo \"Encerrar chamada\"</item>
+    </string-array>
+    <string-array name="icon_envelope_alt_names">
+        <item>Ícone de e-mail</item>
+        <item>Símbolo de e-mail</item>
+        <item>Envelope</item>
+        <item>Ícone de envelope</item>
+        <item>Símbolo de envelope</item>
+        <item>Carta</item>
+        <item>Ícone de carta</item>
+        <item>Símbolo de carta</item>
+        <item>Enviar</item>
+        <item>Ícone \"Enviar\"</item>
+        <item>Símbolo \"Enviar\"</item>
+        <item>E-mail</item>
+        <item>Ícone de e-mail</item>
+        <item>Símbolo de e-mail</item>
+    </string-array>
+    <string-array name="icon_expand_2_alt_names">
+        <item>Ícone \"Expandir\"</item>
+        <item>Símbolo \"Expandir\"</item>
+        <item>Ampliar</item>
+        <item>Ícone \"Ampliar\"</item>
+        <item>Símbolo \"Ampliar\"</item>
+        <item>Maior</item>
+        <item>Ícone maior</item>
+        <item>Símbolo maior</item>
+        <item>Aumentar</item>
+        <item>Ícone \"Aumentar\"</item>
+        <item>Símbolo \"Aumentar\"</item>
+        <item>Tela cheia</item>
+        <item>Ícone de tela cheia</item>
+        <item>Símbolo de tela cheia</item>
+        <item>Setas</item>
+        <item>Ícone de setas</item>
+        <item>Símbolo de setas</item>
+        <item>Diminuir zoom</item>
+        <item>Ícone de diminuir zoom</item>
+        <item>Símbolo de diminuir zoom</item>
+    </string-array>
+    <string-array name="icon_expand_alt_names">
+        <item>Ícone \"para baixo\"</item>
+        <item>Símbolo \"para baixo\"</item>
+        <item>V</item>
+        <item>Ícone V</item>
+        <item>Símbolo V</item>
+        <item>Mais</item>
+        <item>Ícone de mais</item>
+        <item>Símbolo de mais</item>
+        <item>Expandir</item>
+        <item>Ícone \"Expandir\"</item>
+        <item>Símbolo \"Expandir\"</item>
+        <item>Seta para baixo</item>
+        <item>Ícone de seta para baixo</item>
+        <item>Símbolo de seta para baixo</item>
+        <item>Acento circunflexo</item>
+        <item>Ícone de acento circunflexo</item>
+        <item>Símbolo de acento circunflexo</item>
+    </string-array>
+    <string-array name="icon_facebook_alt_names">
+        <item>Ícone do Facebook</item>
+        <item>Símbolo do Facebook</item>
+        <item>Grande F</item>
+        <item>Ícone grande F</item>
+        <item>Símbolo grande F</item>
+    </string-array>
+    <string-array name="icon_forward_arrow_alt_names">
+        <item>Ícone \"Avançar\"</item>
+        <item>Símbolo \"Avançar\"</item>
+        <item>Seta para frente</item>
+        <item>Ícone de seta para frente</item>
+        <item>Símbolo de seta para frente</item>
+        <item>Seta para frente</item>
+        <item>Ícone de seta para frente</item>
+        <item>Símbolo de seta para frente</item>
+        <item>Seta para a direita</item>
+        <item>Ícone de seta para a direita</item>
+        <item>Símbolo de seta para a direita</item>
+        <item>Próximo</item>
+        <item>Ícone \"Próximo\"</item>
+        <item>Símbolo \"Próximo\"</item>
+    </string-array>
+    <string-array name="icon_gallery_alt_names">
+        <item>Ícone de galeria</item>
+        <item>Símbolo de galeria</item>
+        <item>Fotos</item>
+        <item>Ícone de fotos</item>
+        <item>Símbolo de fotos</item>
+        <item>Foto</item>
+        <item>Ícone de foto</item>
+        <item>Símbolo de foto</item>
+        <item>Imagens</item>
+        <item>Ícone de imagens</item>
+        <item>Símbolo de imagens</item>
+    </string-array>
+    <string-array name="icon_google_alt_names">
+        <item>Ícone do Google</item>
+        <item>Símbolo do Google</item>
+        <item>Grande G</item>
+        <item>Ícone grande G</item>
+        <item>Símbolo grande G</item>
+    </string-array>
+    <string-array name="icon_google_play_alt_names">
+        <item>Ícone do Google Play</item>
+        <item>Símbolo do Google Play</item>
+        <item>Play</item>
+        <item>Ícone do Play</item>
+        <item>Símbolo do Play</item>
+        <item>Play Store</item>
+        <item>Ícone da Play Store</item>
+        <item>Símbolo da Play Store</item>
+    </string-array>
+    <string-array name="icon_headset_alt_names">
+        <item>Ícone de fones de ouvido</item>
+        <item>Símbolo de fones de ouvido</item>
+        <item>Fone de ouvido</item>
+        <item>Ícone de fone de ouvido</item>
+        <item>Símbolo de fone de ouvido</item>
+    </string-array>
+    <string-array name="icon_heart_alt_names">
+        <item>Ícone de coração</item>
+        <item>Símbolo de coração</item>
+        <item>Gostei</item>
+        <item>Ícone \"Gostei\"</item>
+        <item>Símbolo \"Gostei\"</item>
+        <item>Favoritos</item>
+        <item>Ícone de favoritos</item>
+        <item>Símbolo de favoritos</item>
+    </string-array>
+    <string-array name="icon_history_alt_names">
+        <item>Ícone de histórico</item>
+        <item>Símbolo de histórico</item>
+    </string-array>
+    <string-array name="icon_home_alt_names">
+        <item>Ícone \"Início\"</item>
+        <item>Símbolo \"Início\"</item>
+        <item>Casa</item>
+        <item>Ícone de casa</item>
+        <item>Símbolo de casa</item>
+    </string-array>
+    <string-array name="icon_info_alt_names">
+        <item>Ícone de informações</item>
+        <item>Símbolo de informações</item>
+        <item>I</item>
+        <item>Ícone \"I\"</item>
+        <item>Símbolo \"I\"</item>
+        <item>Informações</item>
+        <item>Ícone de informações</item>
+        <item>Símbolo de informações</item>
+    </string-array>
+    <string-array name="icon_instagram_alt_names">
+        <item>Ícone do Instagram</item>
+        <item>Símbolo do Instagram</item>
+        <item>Câmera</item>
+        <item>Ícone de câmera</item>
+        <item>Símbolo de câmera</item>
+    </string-array>
+    <string-array name="icon_like_alt_names">
+        <item>Ícone \"Gostei\"</item>
+        <item>Símbolo \"Gostei\"</item>
+        <item>Gostei</item>
+        <item>Ícone \"Gostei\"</item>
+        <item>Símbolo \"Gostei\"</item>
+        <item>Apoiar</item>
+        <item>Ícone \"Apoiar\"</item>
+        <item>Símbolo \"Apoiar\"</item>
+    </string-array>
+    <string-array name="icon_list_alt_names">
+        <item>Ícone de lista</item>
+        <item>Símbolo de lista</item>
+        <item>Marcadores</item>
+        <item>Ícone de marcadores</item>
+        <item>Símbolo de marcadores</item>
+        <item>Tópicos</item>
+        <item>Ícone de tópicos</item>
+        <item>Símbolo de tópicos</item>
+    </string-array>
+    <string-array name="icon_location_alt_names">
+        <item>Ícone de local</item>
+        <item>Símbolo de local</item>
+        <item>Mapa</item>
+        <item>Ícone de mapa</item>
+        <item>Símbolo de mapa</item>
+        <item>Maps</item>
+        <item>Ícone do Maps</item>
+        <item>Símbolo do Maps</item>
+    </string-array>
+    <string-array name="icon_media_alt_names">
+        <item>Ícone de mídia</item>
+        <item>Símbolo de mídia</item>
+        <item>Play</item>
+        <item>Ícone do Play</item>
+        <item>Símbolo do Play</item>
+        <item>Vídeo</item>
+        <item>Ícone de vídeo</item>
+        <item>Símbolo de vídeo</item>
+        <item>Playlist</item>
+        <item>Ícone de playlist</item>
+        <item>Símbolo de playlist</item>
+    </string-array>
+    <string-array name="icon_menu_alt_names">
+        <item>Ícone de menu</item>
+        <item>Símbolo de menu</item>
+        <item>Menu de navegação</item>
+        <item>Ícone de menu de navegação</item>
+        <item>Símbolo de menu de navegação</item>
+        <item>Três barras</item>
+        <item>Ícone de Três barras</item>
+        <item>Símbolo de Três barras</item>
+    </string-array>
+    <string-array name="icon_messenger_alt_names">
+        <item>Ícone do Messenger</item>
+        <item>Símbolo do Messenger</item>
+        <item>Facebook Messenger</item>
+        <item>Ícone do Facebook Messenger</item>
+        <item>Símbolo do Facebook Messenger</item>
+        <item>Chat</item>
+        <item>Ícone de chat</item>
+        <item>Símbolo de chat</item>
+        <item>Mensagem</item>
+        <item>Ícone de mensagem</item>
+        <item>Símbolo de mensagem</item>
+        <item>Mensagens</item>
+        <item>Ícone de mensagens</item>
+        <item>Símbolo de mensagens</item>
+    </string-array>
+    <string-array name="icon_mic_alt_names">
+        <item>Ícone de microfone</item>
+        <item>Símbolo de microfone</item>
+        <item>Microfone</item>
+        <item>Ícone de microfone</item>
+        <item>Símbolo de microfone</item>
+        <item>Microfone ativado</item>
+        <item>Ícone de microfone ativado</item>
+        <item>Símbolo de microfone ativado</item>
+        <item>Ativar som</item>
+        <item>Ícone \"Ativar som\"</item>
+        <item>Símbolo \"Ativar som\"</item>
+    </string-array>
+    <string-array name="icon_mic_mute_alt_names">
+        <item>Ícone \"Desativar som\"</item>
+        <item>Símbolo \"Desativar som\"</item>
+        <item>Silenciado</item>
+        <item>Ícone silenciado</item>
+        <item>Símbolo silenciado</item>
+        <item>Silenciar</item>
+        <item>Ícone \"Silenciar\"</item>
+        <item>Símbolo \"Silenciar\"</item>
+        <item>Microfone desativado</item>
+        <item>Ícone de microfone desativado</item>
+        <item>Símbolo de microfone desativado</item>
+    </string-array>
+    <string-array name="icon_more_alt_names">
+        <item>Ícone de mais</item>
+        <item>Símbolo de mais</item>
+        <item>Menu flutuante</item>
+        <item>Ícone de menu flutuante</item>
+        <item>Símbolo de menu flutuante</item>
+        <item>Três pontos</item>
+        <item>Ícone de três pontos</item>
+        <item>Símbolo de três pontos</item>
+        <item>Mais opções</item>
+        <item>Ícone de mais opções</item>
+        <item>Símbolo de mais opções</item>
+    </string-array>
+    <string-array name="icon_multiply_alt_names">
+        <item>Ícone de multiplicação</item>
+        <item>Símbolo de multiplicação</item>
+        <item>Vezes</item>
+        <item>Ícone de vezes</item>
+        <item>Símbolo de vezes</item>
+        <item>X</item>
+        <item>Ícone X</item>
+        <item>Símbolo X</item>
+        <item>Cruz</item>
+        <item>Ícone de cruz</item>
+        <item>Símbolo de cruz</item>
+    </string-array>
+    <string-array name="icon_nav_bar_circle_alt_names">
+        <item>Ícone \"Início\"</item>
+        <item>Símbolo \"Início\"</item>
+        <item>Ir para a página inicial</item>
+        <item>Ícone \"Ir para a página inicial\"</item>
+        <item>Símbolo \"Ir para a página inicial\"</item>
+    </string-array>
+    <string-array name="icon_nav_bar_rect_alt_names">
+        <item>Ícone de visão geral</item>
+        <item>Símbolo de visão geral</item>
+        <item>Recentes</item>
+        <item>Ícone \"Recentes\"</item>
+        <item>Símbolo \"Recentes\"</item>
+        <item>Apps recentes</item>
+        <item>Ícone de apps recentes</item>
+        <item>Símbolo de apps recentes</item>
+    </string-array>
+    <string-array name="icon_notifications_alt_names">
+        <item>Ícone de notificações</item>
+        <item>Símbolo de notificações</item>
+        <item>Sino do alarme</item>
+        <item>Ícone de sino do alarme</item>
+        <item>Símbolo de sino do alarme</item>
+        <item>Notificação</item>
+        <item>Ícone de notificação</item>
+        <item>Símbolo de notificação</item>
+    </string-array>
+    <string-array name="icon_paperclip_alt_names">
+        <item>Clipe de papel</item>
+        <item>Ícone de clipe de papel</item>
+        <item>Símbolo de clipe de papel</item>
+        <item>Anexo</item>
+        <item>Ícone de anexo</item>
+        <item>Símbolo de anexo</item>
+        <item>Anexos</item>
+        <item>Ícone de anexos</item>
+        <item>Símbolo de anexos</item>
+    </string-array>
+    <string-array name="icon_pause_alt_names">
+        <item>Ícone \"Pausar\"</item>
+        <item>Símbolo \"Pausar\"</item>
+    </string-array>
+    <string-array name="icon_people_alt_names">
+        <item>ícone de pessoas</item>
+        <item>Símbolo de pessoas</item>
+        <item>Amigos</item>
+        <item>Ícone de amigos</item>
+        <item>Símbolo de amigos</item>
+    </string-array>
+    <string-array name="icon_person_alt_names">
+        <item>Ícone de pessoa</item>
+        <item>Símbolo de pessoa</item>
+    </string-array>
+    <string-array name="icon_phone_app_alt_names">
+        <item>Ícone do app Telefone</item>
+        <item>Símbolo do app Telefone</item>
+        <item>Telefone</item>
+        <item>Ícone de telefone</item>
+        <item>Símbolo de telefone</item>
+        <item>Telefone</item>
+        <item>Ícone de telefone</item>
+        <item>Símbolo de telefone</item>
+    </string-array>
+    <string-array name="icon_play_alt_names">
+        <item>Ícone do Play</item>
+        <item>Símbolo do Play</item>
+        <item>Iniciar</item>
+        <item>Ícone \"Iniciar\"</item>
+        <item>Símbolo \"Iniciar\"</item>
+        <item>Ir</item>
+        <item>Ícone \"Ir\"</item>
+        <item>Símbolo \"Ir\"</item>
+    </string-array>
+    <string-array name="icon_question_alt_names">
+        <item>Ícone de pergunta</item>
+        <item>Símbolo de pergunta</item>
+    </string-array>
+    <string-array name="icon_redo_alt_names">
+        <item>Ícone \"Refazer\"</item>
+        <item>Símbolo \"Refazer\"</item>
+        <item>Fazer de novo</item>
+        <item>Ícone \"Fazer de novo\"</item>
+        <item>Símbolo \"Fazer de novo\"</item>
+    </string-array>
+    <string-array name="icon_refresh_alt_names">
+        <item>Ícone de atualização</item>
+        <item>Símbolo de atualização</item>
+        <item>Recarregar</item>
+        <item>Ícone \"Recarregar\"</item>
+        <item>Símbolo \"Recarregar\"</item>
+    </string-array>
+    <string-array name="icon_reply_alt_names">
+        <item>Ícone de Responder</item>
+        <item>Símbolo de Responder</item>
+        <item>Resposta</item>
+        <item>Ícone de Resposta</item>
+        <item>Símbolo de Resposta</item>
+    </string-array>
+    <string-array name="icon_search_alt_names">
+        <item>Ícone de pesquisa</item>
+        <item>Símbolo de pesquisa</item>
+        <item>Lupa</item>
+        <item>Ícone de lupa</item>
+        <item>Símbolo de lupa</item>
+        <item>Localizar</item>
+        <item>Ícone \"Localizar\"</item>
+        <item>Símbolo \"Localizar\"</item>
+        <item>Ampliar</item>
+        <item>Ícone de ampliação</item>
+        <item>Símbolo de ampliação</item>
+    </string-array>
+    <string-array name="icon_semantics_call_alt_names">
+        <item>Ícone de Chamada</item>
+        <item>Símbolo de Chamada</item>
+        <item>Chamada telefônica</item>
+        <item>Ícone de chamada telefônica</item>
+        <item>Símbolo de chamada telefônica</item>
+        <item>Telefone</item>
+        <item>Ícone de telefone</item>
+        <item>Símbolo de telefone</item>
+    </string-array>
+    <string-array name="icon_semantics_close_alt_names">
+        <item>Ícone \"Fechar\"</item>
+        <item>Símbolo \"Fechar\"</item>
+        <item>X</item>
+        <item>Ícone X</item>
+        <item>Símbolo X</item>
+        <item>Sair</item>
+        <item>Ícone de saída</item>
+        <item>Símbolo de saída</item>
+        <item>Cruz</item>
+        <item>Ícone de cruz</item>
+        <item>Símbolo de cruz</item>
+    </string-array>
+    <string-array name="icon_send_alt_names">
+        <item>Ícone \"Enviar\"</item>
+        <item>Símbolo \"Enviar\"</item>
+        <item>Aviãozinho de papel</item>
+        <item>Ícone de aviãozinho de papel</item>
+        <item>Símbolo de aviãozinho de papel</item>
+    </string-array>
+    <string-array name="icon_settings_alt_names">
+        <item>Ícone \"Configurações\"</item>
+        <item>Símbolo \"Configurações\"</item>
+        <item>Roda dentada</item>
+        <item>Ícone de roda dentada</item>
+        <item>Símbolo de roda dentada</item>
+        <item>Engrenagem</item>
+        <item>Ícone de engrenagem</item>
+        <item>Símbolo de engrenagem</item>
+    </string-array>
+    <string-array name="icon_share_alt_names">
+        <item>Ícone \"Compartilhar\"</item>
+        <item>Símbolo \"Compartilhar\"</item>
+    </string-array>
+    <string-array name="icon_shopping_bag_alt_names">
+        <item>Ícone de sacola de compras</item>
+        <item>Símbolo de sacola de compras</item>
+    </string-array>
+    <string-array name="icon_shopping_cart_alt_names">
+        <item>Ícone de carrinho de compras</item>
+        <item>Símbolo de carrinho de compras</item>
+        <item>Carrinho</item>
+        <item>Ícone de carrinho</item>
+        <item>Símbolo de carrinho</item>
+        <item>Compras</item>
+        <item>Ícone de compras</item>
+        <item>Símbolo de compras</item>
+        <item>Carrinho</item>
+        <item>Ícone de carrinho</item>
+        <item>Símbolo de carrinho</item>
+        <item>Cesta de compras</item>
+        <item>Ícone de cesta de compras</item>
+        <item>Símbolo de cesta de compras</item>
+    </string-array>
+    <string-array name="icon_star_alt_names">
+        <item>Ícone de estrela</item>
+        <item>Símbolo de estrela</item>
+        <item>Favoritos</item>
+        <item>Ícone de favoritos</item>
+        <item>Símbolo de favoritos</item>
+        <item>Gostei</item>
+        <item>Ícone \"Gostei\"</item>
+        <item>Símbolo \"Gostei\"</item>
+        <item>Salvar</item>
+        <item>Ícone \"Salvar\"</item>
+        <item>Símbolo \"Salvar\"</item>
+    </string-array>
+    <string-array name="icon_stop_alt_names">
+        <item>Ícone \"Parar\"</item>
+        <item>Símbolo \"Parar\"</item>
+    </string-array>
+    <string-array name="icon_take_photo_alt_names">
+        <item>Ícone de câmera</item>
+        <item>Símbolo de câmera</item>
+        <item>Tirar foto</item>
+        <item>Ícone \"Tirar foto\"</item>
+        <item>Símbolo \"Tirar foto\"</item>
+    </string-array>
+    <string-array name="icon_thumbs_down_alt_names">
+        <item>Ícone \"Não gostei\"</item>
+        <item>Símbolo \"Não gostei\"</item>
+        <item>Não gostei</item>
+        <item>Ícone \"Não gostei\"</item>
+        <item>Símbolo \"Não gostei\"</item>
+        <item>Reprovar</item>
+        <item>Ícone \"Reprovar\"</item>
+        <item>Símbolo \"Reprovar\"</item>
+    </string-array>
+    <string-array name="icon_time_alt_names">
+        <item>Ícone de relógio</item>
+        <item>Símbolo de relógio</item>
+        <item>Hora</item>
+        <item>Ícone de hora</item>
+        <item>Símbolo de hora</item>
+        <item>Despertador</item>
+        <item>Ícone de despertador</item>
+        <item>Símbolo de despertador</item>
+    </string-array>
+    <string-array name="icon_twitter_alt_names">
+        <item>Ícone do Twitter</item>
+        <item>Símbolo do Twitter</item>
+        <item>Enviar um tweet</item>
+        <item>Ícone \"Enviar um tweet\"</item>
+        <item>Símbolo \"Enviar um tweet\"</item>
+        <item>Pássaro azul</item>
+        <item>Ícone de pássaro azul</item>
+        <item>Símbolo de pássaro azul</item>
+    </string-array>
+    <string-array name="icon_undo_alt_names">
+        <item>Ícone \"Desfazer\"</item>
+        <item>Símbolo \"Desfazer\"</item>
+    </string-array>
+    <string-array name="icon_up_arrow_alt_names">
+        <item>Ícone \"Para cima\"</item>
+        <item>Símbolo \"para cima\"</item>
+        <item>Seta para cima</item>
+        <item>Ícone de seta para cima</item>
+        <item>Símbolo de seta para cima</item>
+        <item>Seta para cima</item>
+        <item>Ícone de seta para cima</item>
+        <item>Símbolo para cima</item>
+        <item>Seta para cima</item>
+        <item>Ícone de seta para cima</item>
+        <item>Símbolo para cima</item>
+    </string-array>
+    <string-array name="icon_upload_alt_names">
+        <item>Ícone \"Fazer upload\"</item>
+        <item>Símbolo \"Fazer upload\"</item>
+        <item>Compartilhar</item>
+        <item>Ícone \"Compartilhar\"</item>
+        <item>Símbolo \"Compartilhar\"</item>
+    </string-array>
+    <string-array name="icon_v_backward_alt_names">
+        <item>Ícone \"Para a esquerda\"</item>
+        <item>Símbolo \"Para a esquerda\"</item>
+    </string-array>
+    <string-array name="icon_v_forward_alt_names">
+        <item>Ícone \"Para a direita\"</item>
+        <item>Símbolo \"Para a direita\"</item>
+    </string-array>
+    <string-array name="icon_v_upward_alt_names">
+        <item>Ícone \"Para cima\"</item>
+        <item>Símbolo \"para cima\"</item>
+        <item>Acento circunflexo</item>
+        <item>Ícone de acento circunflexo</item>
+        <item>Símbolo de acento circunflexo</item>
+        <item>Contrato</item>
+        <item>Ícone de contrato</item>
+        <item>Símbolo de contrato</item>
+        <item>Menos</item>
+        <item>Ícone \"Menos\"</item>
+        <item>Símbolo \"Menos\"</item>
+    </string-array>
+    <string-array name="icon_video_alt_names">
+        <item>Ícone de vídeo</item>
+        <item>Símbolo de vídeo</item>
+        <item>Gravar vídeo</item>
+        <item>Ícone \"Gravar vídeo\"</item>
+        <item>Símbolo \"Gravar vídeo\"</item>
+        <item>Filmadora</item>
+        <item>Ícone de filmadora</item>
+        <item>Símbolo de filmadora</item>
+        <item>Câmera de vídeo</item>
+        <item>Ícone de câmera de vídeo</item>
+        <item>Símbolo de câmera de vídeo</item>
+    </string-array>
+    <string-array name="icon_volume_down_alt_names">
+        <item>Ícone \"Diminuir volume\"</item>
+        <item>Símbolo \"Diminuir volume\"</item>
+        <item>Mais baixo</item>
+        <item>Ícone \"Mais baixo\"</item>
+        <item>Símbolo \"Mais baixo\"</item>
+    </string-array>
+    <string-array name="icon_volume_mute_alt_names">
+        <item>Ícone \"Desativar som\"</item>
+        <item>Símbolo \"Desativar som\"</item>
+        <item>Som desativado</item>
+        <item>Ícone de som desativado</item>
+        <item>Símbolo de som desativado</item>
+        <item>Silenciar</item>
+        <item>Ícone \"Silenciar\"</item>
+        <item>Símbolo \"Silenciar\"</item>
+    </string-array>
+    <string-array name="icon_volume_state_alt_names">
+        <item>Ícone de volume</item>
+        <item>Símbolo de volume</item>
+    </string-array>
+    <string-array name="icon_volume_up_alt_names">
+        <item>Ícone \"Aumentar volume\"</item>
+        <item>Símbolo \"Aumentar volume\"</item>
+        <item>Mais alto</item>
+        <item>Ícone \"Mais alto\"</item>
+        <item>Símbolo \"Mais alto\"</item>
+    </string-array>
+    <string-array name="icon_weather_alt_names">
+        <item>Ícone do clima</item>
+        <item>Símbolo do clima</item>
+    </string-array>
+    <string-array name="icon_whatsapp_alt_names">
+        <item>Ícone do WhatsApp</item>
+        <item>Símbolo do WhatsApp</item>
+        <item>Chat</item>
+        <item>Ícone de chat</item>
+        <item>Símbolo de chat</item>
+        <item>Mensagem</item>
+        <item>Ícone de mensagem</item>
+        <item>Símbolo de mensagem</item>
+        <item>Mensagens</item>
+        <item>Ícone de mensagens</item>
+        <item>Símbolo de mensagens</item>
+    </string-array>
+    <string-array name="icon_youtube_alt_names">
+        <item>Ícone do YouTube</item>
+        <item>Símbolo do YouTube</item>
+        <item>Play</item>
+        <item>Ícone do Play</item>
+        <item>Símbolo do Play</item>
+        <item>YouTube Music</item>
+        <item>Ícone do YouTube Music</item>
+        <item>Símbolo do YouTube Music</item>
+    </string-array>
+    <string-array name="icon_zoom_in_alt_names">
+        <item>Ícone de aumentar zoom</item>
+        <item>Símbolo de aumentar zoom</item>
+        <item>Lupa</item>
+        <item>Ícone de lupa</item>
+        <item>Símbolo de lupa</item>
+        <item>Ampliar</item>
+        <item>Ícone de ampliação</item>
+        <item>Símbolo de ampliação</item>
+    </string-array>
+    <string-array name="icon_zoom_out_alt_names">
+        <item>Ícone de diminuir zoom</item>
+        <item>Símbolo de diminuir zoom</item>
+        <item>Lupa</item>
+        <item>Ícone de lupa</item>
+        <item>Símbolo de lupa</item>
+    </string-array>
+    <string-array name="insert_triggers">
+        <item>inserir</item>
+        <item>adicionar</item>
+        <item>digitar</item>
+    </string-array>
+    <string-array name="keyguard_replacement_labels">
+        <item>amor</item>
+        <item>bola</item>
+        <item>dado</item>
+        <item>escola</item>
+        <item>faca</item>
+        <item>gato</item>
+        <item>hotel</item>
+        <item>igreja</item>
+        <item>karaokê</item>
+        <item>lagoa</item>
+        <item>sapo</item>
+        <item>tango</item>
+        <item>uniforme</item>
+        <item>zebra</item>
+    </string-array>
+    <string-array name="less_than_symbol_phrases">
+        <item>menor que</item>
+        <item>sinal de menor que</item>
+        <item>símbolo de menor que</item>
+    </string-array>
+    <string-array name="newline_phrases">
+        <item>novas linhas</item>
+        <item>nova linha</item>
+        <item>nova linha</item>
+        <item>novo parágrafo</item>
+        <item>fim de parágrafo</item>
+        <item>próxima linha</item>
+        <item>fim de linha</item>
+        <item>fim de linha</item>
+        <item>nova linha</item>
+        <item>quebra de linha</item>
+        <item>fim de linha</item>
+        <item>fim de linha</item>
+        <item>retorno de carro</item>
+    </string-array>
+    <string-array name="non_textual_search">
+        <item>voz</item>
+        <item>pesquisa com a câmera</item>
+        <item>pesquisa por imagens</item>
+    </string-array>
+    <string-array name="number_symbol_phrases">
+        <item>sinal de cerquilha</item>
+        <item>símbolo de cerquilha</item>
+        <item>hashtag</item>
+        <item>jogo da velha</item>
+    </string-array>
+    <string-array name="open_brace_phrases">
+        <item>chave de abertura</item>
+        <item>chave esquerda</item>
+    </string-array>
+    <string-array name="open_bracket_phrases">
+        <item>colchete de abertura</item>
+        <item>colchete esquerdo</item>
+    </string-array>
+    <string-array name="open_parenthesis_phrases">
+        <item>parêntese de abertura</item>
+        <item>parêntese esquerdo</item>
+    </string-array>
+    <string-array name="percent_symbol_phrases">
+        <item>porcentagem</item>
+        <item>sinal de porcentagem</item>
+        <item>símbolo de porcentagem</item>
+    </string-array>
+    <string-array name="period_phrases">
+        <item>ponto final</item>
+        <item>ponto</item>
+    </string-array>
+    <string-array name="pipe_phrases">
+        <item>barra vertical</item>
+    </string-array>
+    <string-array name="plus_phrases">
+        <item>mais</item>
+        <item>sinal de mais</item>
+        <item>símbolo de mais</item>
+    </string-array>
+    <string-array name="pref_key_behavior">
+        <item>Tocar para iniciar, tocar para parar</item>
+        <item>Tocar e pressionar para iniciar, soltar para parar</item>
+    </string-array>
+    <string-array name="pref_overlay_opacity_entries">
+        <item>Mais claro</item>
+        <item>Claro</item>
+        <item>Médio</item>
+        <item>Escuro</item>
+    </string-array>
+    <string-array name="pref_point_selection_target_entries">
+        <item>Menor</item>
+        <item>Pequeno</item>
+        <item>Médio</item>
+        <item>Grande</item>
+        <item>Maior</item>
+    </string-array>
+    <string-array name="pref_screen_wake_up_behavior_entries">
+        <item>Sempre começar a ouvir</item>
+        <item>Ouvir a menos que tenha pedido para parar</item>
+        <item>Nunca começar a ouvir</item>
+    </string-array>
+    <string-array name="question_mark_phrases">
+        <item>ponto de interrogação</item>
+    </string-array>
+    <string-array name="quote_phrases">
+        <item>aspas</item>
+        <item>aspas duplas</item>
+    </string-array>
+    <string-array name="replacement_trigger_helpers">
+        <item>com</item>
+        <item>a</item>
+    </string-array>
+    <string-array name="search_keywords">
+        <item>pesquisar</item>
+        <item>localizar</item>
+        <item>procurando</item>
+        <item>para onde?</item>
+    </string-array>
+    <string-array name="semicolon_phrases">
+        <item>ponto e vírgula</item>
+    </string-array>
+    <string-array name="slash_phrases">
+        <item>barra</item>
+        <item>barra para a direita</item>
+    </string-array>
+    <string-array name="swipe_down_onscreen_text">
+        <item>deslizar para baixo</item>
+        <item>arrastar para baixo</item>
+    </string-array>
+    <string-array name="swipe_left_onscreen_text">
+        <item>deslizar para a esquerda</item>
+        <item>arrastar para a esquerda</item>
+    </string-array>
+    <string-array name="swipe_onscreen_text">
+        <item>deslizar</item>
+        <item>arrastar</item>
+    </string-array>
+    <string-array name="swipe_right_onscreen_text">
+        <item>deslizar para a direita</item>
+        <item>arrastar para a direita</item>
+    </string-array>
+    <string-array name="swipe_up_onscreen_text">
+        <item>deslizar para cima</item>
+        <item>arrastar para cima</item>
+    </string-array>
+    <string-array name="text_representation_qualifiers">
+        <item>a palavra</item>
+        <item>as palavras</item>
+        <item>a frase</item>
+    </string-array>
+    <string-array name="tilde_phrases">
+        <item>til</item>
+    </string-array>
+    <string-array name="underscore_phrases">
+        <item>sublinhado</item>
+    </string-array>
+</resources>

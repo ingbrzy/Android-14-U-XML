@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="service_detected_gesture_list">
+        <item>MAPPER_GESTURE_DOUBLE_TAP</item>
+        <item>MAPPER_GESTURE_DOUBLE_TAP_AND_HOLD</item>
+        <item>MAPPER_GESTURE_SWIPE_RIGHT</item>
+        <item>MAPPER_GESTURE_SWIPE_LEFT</item>
+        <item>MAPPER_GESTURE_SWIPE_UP</item>
+        <item>MAPPER_GESTURE_SWIPE_DOWN</item>
+        <item>MAPPER_GESTURE_SWIPE_LEFT_AND_RIGHT</item>
+        <item>MAPPER_GESTURE_SWIPE_LEFT_AND_UP</item>
+        <item>MAPPER_GESTURE_SWIPE_LEFT_AND_DOWN</item>
+        <item>MAPPER_GESTURE_SWIPE_RIGHT_AND_UP</item>
+        <item>MAPPER_GESTURE_SWIPE_RIGHT_AND_DOWN</item>
+        <item>MAPPER_GESTURE_SWIPE_RIGHT_AND_LEFT</item>
+        <item>MAPPER_GESTURE_SWIPE_DOWN_AND_UP</item>
+        <item>MAPPER_GESTURE_SWIPE_DOWN_AND_LEFT</item>
+        <item>MAPPER_GESTURE_SWIPE_DOWN_AND_RIGHT</item>
+        <item>MAPPER_GESTURE_SWIPE_UP_AND_DOWN</item>
+        <item>MAPPER_GESTURE_SWIPE_UP_AND_LEFT</item>
+        <item>MAPPER_GESTURE_SWIPE_UP_AND_RIGHT</item>
+        <item>MAPPER_GESTURE_2_FINGER_SINGLE_TAP</item>
+        <item>MAPPER_GESTURE_2_FINGER_DOUBLE_TAP</item>
+        <item>MAPPER_GESTURE_2_FINGER_DOUBLE_TAP_AND_HOLD</item>
+        <item>MAPPER_GESTURE_2_FINGER_TRIPLE_TAP</item>
+    </string-array>
+    <string-array name="shortcut_basic_navigation">
+        <item>@string/shortcut_perform_click_action</item>
+        <item>@string/shortcut_perform_long_click_action</item>
+        <item>@string/shortcut_previous</item>
+        <item>@string/shortcut_next</item>
+        <item>@string/shortcut_first_in_screen</item>
+        <item>@string/shortcut_last_in_screen</item>
+    </string-array>
+    <string-array name="shortcut_system_actions">
+        <item>@string/shortcut_home</item>
+        <item>@string/shortcut_back</item>
+    </string-array>
+    <string-array name="shortcut_text_editing">
+        <item>@string/title_edittext_breakout_move_to_beginning</item>
+        <item>@string/title_edittext_breakout_move_to_end</item>
+    </string-array>
+    <string-array name="shortcut_value_basic_navigation">
+        <item>@string/shortcut_value_perform_click_action</item>
+        <item>@string/shortcut_value_perform_long_click_action</item>
+        <item>@string/shortcut_value_previous</item>
+        <item>@string/shortcut_value_next</item>
+        <item>@string/shortcut_value_first_in_screen</item>
+        <item>@string/shortcut_value_last_in_screen</item>
+    </string-array>
+    <string-array name="shortcut_value_system_actions">
+        <item>@string/shortcut_value_home</item>
+        <item>@string/shortcut_value_back</item>
+    </string-array>
+    <string-array name="shortcut_value_text_editing">
+        <item>@string/shortcut_value_move_cursor_to_beginning</item>
+        <item>@string/shortcut_value_move_cursor_to_end</item>
+    </string-array>
+    <string-array name="tutorial_scrolling_items">
+        <item>Item 1</item>
+        <item>Item 2</item>
+        <item>Item 3</item>
+        <item>Item 4</item>
+    </string-array>
+</resources>

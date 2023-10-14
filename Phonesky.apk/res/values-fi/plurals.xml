@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120000">
+        <item quantity="other">Odotetaan Wi-Fi-yhteyttä</item>
+        <item quantity="one">Odotetaan Wi-Fi-yhteyttä</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120002">
+        <item quantity="other">Tällä laitteella (%d sovellusta)</item>
+        <item quantity="one">Tällä laitteella (%d sovellus)</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120003">
+        <item quantity="other">Ominaisuudet: %1$s</item>
+        <item quantity="one">Ominaisuus: %1$s</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120004">
+        <item quantity="other">Asennettiin %d päivää sitten</item>
+        <item quantity="one">Asennettiin %d päivä sitten</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120005">
+        <item quantity="other">Asennettiin %d tuntia sitten</item>
+        <item quantity="one">Asennettiin %d tunti sitten</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120006">
+        <item quantity="other">Asennettiin %d minuuttia sitten</item>
+        <item quantity="one">Asennettiin %d minuutti sitten</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120007">
+        <item quantity="other">%1$d valittu</item>
+        <item quantity="one">%1$d valittu</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120008">
+        <item quantity="other">Päivitetty %d päivää sitten</item>
+        <item quantity="one">Päivitetty %d päivä sitten</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120009">
+        <item quantity="other">Päivitetty %d tuntia sitten</item>
+        <item quantity="one">Päivitetty %d tunti sitten</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000a">
+        <item quantity="other">Päivitetty %d minuuttia sitten</item>
+        <item quantity="one">Päivitetty %d minuutti sitten</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000b">
+        <item quantity="other">Käytetty viimeksi %d päivää sitten</item>
+        <item quantity="one">Käytetty viimeksi %d päivä sitten</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000c">
+        <item quantity="other">Käytetty viimeksi %d tuntia sitten</item>
+        <item quantity="one">Käytetty viimeksi %d tunti sitten</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000d">
+        <item quantity="other">Käytetty viimeksi %d minuuttia sitten</item>
+        <item quantity="one">Käytetty viimeksi %d minuutti sitten</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000f">
+        <item quantity="other">Sovellukset tarkistettu %d päivää sitten</item>
+        <item quantity="one">Sovellukset tarkistettu %d päivä sitten</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120010">
+        <item quantity="other">Sovellukset tarkistettu %d tuntia sitten</item>
+        <item quantity="one">Sovellukset tarkistettu %d tunti sitten</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120011">
+        <item quantity="other">Sovellukset tarkistettu %d minuuttia sitten</item>
+        <item quantity="one">Sovellukset tarkistettu %d minuutti sitten</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120014">
+        <item quantity="other">%1$d arvostelua</item>
+        <item quantity="one">%1$d arvostelu</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120015">
+        <item quantity="other">%1$d arvostelua tähtiluokitukselle %2$d</item>
+        <item quantity="one">%1$d arvostelu tähtiluokitukselle %2$d</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120016">
+        <item quantity="other">Asenna %1$d laitteelle.</item>
+        <item quantity="one">Asenna %1$d laitteelle.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120017">
+        <item quantity="other">Asenna %1$d laitteelle. Lisää laitteita valittavissa.</item>
+        <item quantity="one">Asenna %1$d laitteelle. Lisää laitteita valittavissa.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120018">
+        <item quantity="other">Tämä sovellus asennetaan pian %1$d laitteellesi.</item>
+        <item quantity="one">Tämä sovellus asennetaan pian %1$d laitteellesi.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120019">
+        <item quantity="other">%1$d lisäetua saatavilla</item>
+        <item quantity="one">%1$d lisäetu saatavilla</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001a">
+        <item quantity="other">%1$d lisäetua kaupan päälle</item>
+        <item quantity="one">%1$d lisäetu kaupan päälle</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001b">
+        <item quantity="other">%1$d päivää</item>
+        <item quantity="one">%1$d päivä</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001c">
+        <item quantity="other">Keskimääräinen arvio %1$s tähteä %2$s arvostelussa</item>
+        <item quantity="one">Keskimääräinen arvio %1$s tähteä yhdessä arvostelussa</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001d">
+        <item quantity="other">%s arvostelua</item>
+        <item quantity="one">1 arvostelu</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001e">
+        <item quantity="other">Enää %1$d vaihetta, niin sinusta tulee kehittäjä.</item>
+        <item quantity="one">Enää %1$d vaihe, niin sinusta tulee kehittäjä.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001f">
+        <item quantity="other">autot</item>
+        <item quantity="one">auto</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120020">
+        <item quantity="other">Chromebookit</item>
+        <item quantity="one">Chromebook</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120021">
+        <item quantity="other">taitettavat</item>
+        <item quantity="one">taitettava</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120022">
+        <item quantity="other">puhelimet</item>
+        <item quantity="one">puhelin</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120023">
+        <item quantity="other">tabletit</item>
+        <item quantity="one">tabletti</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120024">
+        <item quantity="other">televisiot</item>
+        <item quantity="one">televisio</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120025">
+        <item quantity="other">laitteet</item>
+        <item quantity="one">laite</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120026">
+        <item quantity="other">kellot</item>
+        <item quantity="one">kello</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120027">
+        <item quantity="other">%1$d Play-pistettä käytettävissä</item>
+        <item quantity="one">%1$d Play-piste käytettävissä</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120028">
+        <item quantity="other">%1$d tuntia</item>
+        <item quantity="one">%1$d tunti</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120029">
+        <item quantity="other">%1$d tuntia jäljellä</item>
+        <item quantity="one">1 tunti jäljellä</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002a">
+        <item quantity="other">Asennetaan %1$d sovellusta…</item>
+        <item quantity="one">Asennetaan %1$d sovellus…</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002b">
+        <item quantity="other">Asennukset keskeytetty</item>
+        <item quantity="one">Asennus keskeytetty</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002c">
+        <item quantity="other">%1$d sovellusta asennetaan</item>
+        <item quantity="one">%1$d sovellus asennetaan</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002d">
+        <item quantity="other">Päivitetty viimeksi %d päivää sitten</item>
+        <item quantity="one">Päivitetty viimeksi %d päivä sitten</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002e">
+        <item quantity="other">Päivitetty viimeksi %d tuntia sitten</item>
+        <item quantity="one">Päivitetty viimeksi %d tunti sitten</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002f">
+        <item quantity="other">Päivitetty viimeksi %d minuuttia sitten</item>
+        <item quantity="one">Päivitetty viimeksi %d minuutti sitten</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120033">
+        <item quantity="other">%1$d vuotta sitten</item>
+        <item quantity="one">%1$d vuosi sitten</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120034">
+        <item quantity="other">%1$d minuuttia</item>
+        <item quantity="one">%1$d minuutti</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120035">
+        <item quantity="other">%1$d minuuttia jäljellä</item>
+        <item quantity="one">1 minuutti jäljellä</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120037">
+        <item quantity="other">%1$d valittu</item>
+        <item quantity="one">%1$d valittu</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120038">
+        <item quantity="other">Arkistoidaan %1$d sovellusta</item>
+        <item quantity="one">Arkistoidaan %1$d sovellus</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120039">
+        <item quantity="other">Poistetaanko valitut sovellukset?</item>
+        <item quantity="one">Poistetaanko valittu sovellus?</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12003a">
+        <item quantity="other">%1$d sovellusta poistettu</item>
+        <item quantity="one">%1$d sovellus poistettu</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12003d">
+        <item quantity="other">%1$d odottavaa asennusta</item>
+        <item quantity="one">%1$d odottava asennus</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12003e">
+        <item quantity="other">%1$d asennusta käynnissä</item>
+        <item quantity="one">%1$d asennus käynnissä</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120040">
+        <item quantity="other">%1$d odottavaa päivitystä</item>
+        <item quantity="one">%1$d odottava päivitys</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120041">
+        <item quantity="other">%1$d päivitystä käynnissä</item>
+        <item quantity="one">%1$d päivitys käynnissä</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120042">
+        <item quantity="other">%1$d sovellusta asennettu</item>
+        <item quantity="one">%1$d sovellus asennettu</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120044">
+        <item quantity="other">Julkaistu %1$d tuntia sitten</item>
+        <item quantity="one">Julkaistu %1$d tunti sitten</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120045">
+        <item quantity="other">Julkaistu %1$d päivää sitten</item>
+        <item quantity="one">Julkaistu %1$d päivä sitten</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120046">
+        <item quantity="other">Sovelluksia poistettu</item>
+        <item quantity="one">Sovellus poistettu</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120047">
+        <item quantity="other">%1$d päivitystä odottaa hyväksyntää.</item>
+        <item quantity="one">%1$d päivitys odottaa hyväksyntää.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120048">
+        <item quantity="other">%1$d uutta päivitystä</item>
+        <item quantity="one">%1$d uusi päivitys</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120049">
+        <item quantity="other">%1$d päivitystä saatavana.</item>
+        <item quantity="one">%1$d päivitys saatavana.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004a">
+        <item quantity="other">Päivitä kaikki</item>
+        <item quantity="one">Päivitä</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004b">
+        <item quantity="other">%1$d sovellusta päivitetty</item>
+        <item quantity="one">%1$d sovellus päivitetty</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004c">
+        <item quantity="other">Päättyy %1$d tunnin päästä</item>
+        <item quantity="one">Päättyy %1$d tunnin päästä</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004d">
+        <item quantity="other">Päättyy %1$d päivän päästä</item>
+        <item quantity="one">Päättyy %1$d päivän päästä</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004e">
+        <item quantity="other">%1$d minuuttia</item>
+        <item quantity="one">%1$d minuutti</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004f">
+        <item quantity="other">%1$d sekuntia</item>
+        <item quantity="one">%1$d sekunti</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120050">
+        <item quantity="other">Henkilökohtaisia sovelluksia poistettu</item>
+        <item quantity="one">Henkilökohtainen sovellus poistettu</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120053">
+        <item quantity="other">Play Protect tarkisti %d päivää sitten</item>
+        <item quantity="one">Play Protect tarkisti %d päivä sitten</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120054">
+        <item quantity="other">Play Protect tarkisti %d tuntia sitten</item>
+        <item quantity="one">Play Protect tarkisti %d tunti sitten</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120055">
+        <item quantity="other">Play Protect tarkisti %d minuuttia sitten</item>
+        <item quantity="one">Play Protect tarkisti %d minuutti sitten</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120056">
+        <item quantity="other">Vielä %1$s pistettä, niin taso on %2$s myös ensi vuonna</item>
+        <item quantity="one">Vielä 1 piste, niin taso on %2$s myös ensi vuonna</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120057">
+        <item quantity="other">Vielä %1$s pistettä, niin taso on %2$s</item>
+        <item quantity="one">Vielä 1 piste, niin taso on %2$s</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120058">
+        <item quantity="other">Annoit näille sovelluksille luvan asentaa tai päivittää tuntemattomia sovelluksia, mikä saattaa vaarantaa laitteesi ja henkilötietosi. Voit estää asentamisen perumalla luvan.</item>
+        <item quantity="one">Annoit tälle sovellukselle luvan asentaa tai päivittää tuntemattomia sovelluksia, mikä saattaa vaarantaa laitteesi ja henkilötietosi. Voit estää asentamisen perumalla luvan.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120059">
+        <item quantity="other">Annoit %1$d sovellukselle luvan asentaa tai päivittää tuntemattomia sovelluksia, mikä saattaa vaarantaa laitteesi ja henkilötietosi</item>
+        <item quantity="one">Annoit yhdelle sovellukselle luvan asentaa tai päivittää tuntemattomia sovelluksia, mikä saattaa vaarantaa laitteesi ja henkilötietosi</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005a">
+        <item quantity="other">%1$d tietosuojavaroitusta</item>
+        <item quantity="one">1 tietosuojavaroitus</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005b">
+        <item quantity="other">%1$d haitallista sovellusta löydetty</item>
+        <item quantity="one">1 haitallinen sovellus löydetty</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005c">
+        <item quantity="other">%1$d tietoturvailmoitusta</item>
+        <item quantity="one">1 tietoturvailmoitus</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005d">
+        <item quantity="other">%1$d tietoturvapäivitystä</item>
+        <item quantity="one">1 tietoturvapäivitys</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005e">
+        <item quantity="other">%1$d vaarallista sovellusta löydetty</item>
+        <item quantity="one">1 vaarallinen sovellus löydetty</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005f">
+        <item quantity="other">%1$d varoitusta</item>
+        <item quantity="one">1 varoitus</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120060">
+        <item quantity="other">Vaarallisia sovelluksia löydetty</item>
+        <item quantity="one">Vaarallinen sovellus löydetty</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120061">
+        <item quantity="other">Päättyy %1$d tunnin päästä</item>
+        <item quantity="one">Päättyy %1$d tunnin päästä</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120062">
+        <item quantity="other">Päättyy %1$d päivän päästä</item>
+        <item quantity="one">Päättyy %1$d päivän päästä</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120063">
+        <item quantity="other">Vaihe %1$d/%2$d valmis</item>
+        <item quantity="one">Vaihe %1$d/%2$d valmis</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120064">
+        <item quantity="other">%1$d sovellusta valmiina asennettaviksi</item>
+        <item quantity="one">%1$d sovellus valmiina asennettavaksi</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120065">
+        <item quantity="other">%1$s lähettää sinulle %2$d sovellusta. Varmista, että yhdistämiskoodi täsmää.</item>
+        <item quantity="one">%1$s lähettää sinulle %2$d sovelluksen. Varmista, että yhdistämiskoodi täsmää.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120066">
+        <item quantity="other">Laitteelta %2$s vastaanotetaan %1$d sovellusta…</item>
+        <item quantity="one">Laitteelta %2$s vastaanotetaan %1$d sovellus…</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006a">
+        <item quantity="other">%1$d käyttäjän mielestä tämä arvostelu oli hyödyllinen. Merkitse kommentti hyödylliseksi</item>
+        <item quantity="one">%1$d käyttäjän mielestä tämä arvostelu oli hyödyllinen. Merkitse kommentti hyödylliseksi</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006b">
+        <item quantity="other">%1$d käyttäjän mielestä tämä arvostelu oli hyödyllinen. Poista kommentin hyödyllinen-merkintä.</item>
+        <item quantity="one">%1$d käyttäjän mielestä tämä arvostelu oli hyödyllinen. Poista kommentin hyödyllinen-merkintä.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006c">
+        <item quantity="other">%1$s henkilöä piti tätä hyödyllisenä</item>
+        <item quantity="one">%1$s henkilö piti tätä hyödyllisenä</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006f">
+        <item quantity="other">%1$d sekuntia</item>
+        <item quantity="one">%1$d sekunti</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120070">
+        <item quantity="other">%1$d sekuntia jäljellä</item>
+        <item quantity="one">1 sekunti jäljellä</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120071">
+        <item quantity="other">%1$d valittu • %2$s</item>
+        <item quantity="one">%1$d valittu • %2$s</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120072">
+        <item quantity="other">Lähetetään %1$d sovellusta laitteelle %2$s…</item>
+        <item quantity="one">Lähetetään %1$d sovellus laitteelle %2$s…</item>
+    </plurals>
+    <plurals name="setup_completed_installed">
+        <item quantity="other">%1$d sovellusta asennettu</item>
+        <item quantity="one">%1$d sovellus asennettu</item>
+    </plurals>
+    <plurals name="setup_completed_installed_with_failures">
+        <item quantity="other">%1$d/%2$d sovellusta ei voitu asentaa</item>
+        <item quantity="one">%1$d/%2$d sovellusta ei voitu asentaa</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120075">
+        <item quantity="other">Käytetty viimeksi %1$d päivää sitten</item>
+        <item quantity="one">Käytetty viimeksi %1$d päivää sitten</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120076">
+        <item quantity="other">Palauta %1$d valittua sovellusta</item>
+        <item quantity="one">Palauta valittu sovellus</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120078">
+        <item quantity="other">Ladataanko %1$d uutta kieltä?</item>
+        <item quantity="one">Ladataanko uusi kieli?</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007b">
+        <item quantity="other">%1$d kyselyvastausta poistetaan tililtäsi pysyvästi.</item>
+        <item quantity="one">%1$d kyselyvastaus poistetaan tililtäsi pysyvästi.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007c">
+        <item quantity="other">%1$d valittu</item>
+        <item quantity="one">%1$d valittu</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007d">
+        <item quantity="other">Näytä Play-pisteet. %1$d pistettä käytettävissä</item>
+        <item quantity="one">Näytä Play-pisteet. %1$d piste käytettävissä</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007e">
+        <item quantity="other">%1$d Play-pistettä käytettävissä</item>
+        <item quantity="one">%1$d Play-piste käytettävissä</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120080">
+        <item quantity="other">%1$s pistettä</item>
+        <item quantity="one">1 piste</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120081">
+        <item quantity="other">%2$s siirtää %1$d sovellusta…</item>
+        <item quantity="one">%2$s siirtää %1$d sovellusta…</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120082">
+        <item quantity="other">%1$d sovellusta poistetaan laitteelta.</item>
+        <item quantity="one">%1$d sovellus poistetaan laitteelta.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120083">
+        <item quantity="other">Poistetaanko valitut sovellukset?</item>
+        <item quantity="one">Poistetaanko valittu sovellus?</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120084">
+        <item quantity="other">Poistetaanko valittujen sovellusten päivitykset?</item>
+        <item quantity="one">Poistetaanko valitun sovelluksen päivitykset?</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120085">
+        <item quantity="other">%1$s sovellusta poistettu. Tilaa on nyt riittävästi, jotta %2$s voidaan asentaa.</item>
+        <item quantity="one">%1$s sovellus poistettu. Tilaa on nyt riittävästi, jotta %2$s voidaan asentaa.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120086">
+        <item quantity="other">Sovellukset asennetaan pian.</item>
+        <item quantity="one">Sovellus asennetaan pian.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120087">
+        <item quantity="other">Sovelluspäivitykset asennetaan pian.</item>
+        <item quantity="one">Sovelluspäivitys asennetaan pian.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008a">
+        <item quantity="other">Käytetty viimeksi %1$d päivää sitten</item>
+        <item quantity="one">Käytetty viimeksi %1$d päivä sitten</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008b">
+        <item quantity="other">Käytetty viimeksi %1$d kuukautta sitten</item>
+        <item quantity="one">Käytetty viimeksi %1$d kuukausi sitten</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008c">
+        <item quantity="other">Jos haluat asentaa sovelluksia tai päivityksiä tälle laitteelle, poista tarpeettomia sovelluksia. Voit myös poistaa mediatiedostoja valitsemalla Asetukset > Tallennustila.</item>
+        <item quantity="one">Jos haluat asentaa sovelluksen tai päivityksen tälle laitteelle, poista tarpeettomia sovelluksia. Voit myös poistaa mediatiedostoja valitsemalla Asetukset > Tallennustila.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008d">
+        <item quantity="other">Jos haluat asentaa sovelluksia tai päivityksiä tälle laitteelle, poista tarpeettomia sovelluksia. Voit myös poistaa mediatiedostoja valitsemalla &lt;a href=\"\">Asetukset > Tallennustila&lt;/a>.</item>
+        <item quantity="one">Jos haluat asentaa sovelluksen tai päivityksen tälle laitteelle, poista tarpeettomia sovelluksia. Voit myös poistaa mediatiedostoja valitsemalla &lt;a href=\"\">Asetukset > Tallennustila&lt;/a>.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008e">
+        <item quantity="other">Jos haluat asentaa sovelluksia tai päivityksiä tälle laitteelle, poista tarpeettomia sovelluksia. Voit myös poistaa mediatiedostoja valitsemalla Asetukset > Tallennustila.</item>
+        <item quantity="one">Jos haluat asentaa sovelluksen tai päivityksen tälle laitteelle, poista tarpeettomia sovelluksia. Voit myös poistaa mediatiedostoja valitsemalla Asetukset > Tallennustila.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008f">
+        <item quantity="other">%1$d sovellusta poistettu</item>
+        <item quantity="one">%1$d sovellus poistettu</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120090">
+        <item quantity="other">Löysimme %1$d sovellusta, joita et ole käyttänyt vähään aikaan. Poistamalla ne saisit %2$d Mt tallennustilaa.</item>
+        <item quantity="one">Löysimme %1$d sovelluksen, jota et ole käyttänyt vähään aikaan. Poistamalla sen saisit %2$d Mt tallennustilaa.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120091">
+        <item quantity="other">Alkaa %1$d tunnin päästä</item>
+        <item quantity="one">Alkaa %1$d tunnin päästä</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120092">
+        <item quantity="other">Alkaa %1$d päivän päästä</item>
+        <item quantity="one">Alkaa %1$d päivän päästä</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120093">
+        <item quantity="other">Saatavilla %1$d tunnin päästä</item>
+        <item quantity="one">Saatavilla %1$d tunnin päästä</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120094">
+        <item quantity="other">Saatavilla %1$d päivän päästä</item>
+        <item quantity="one">Saatavilla %1$d päivän päästä</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120095">
+        <item quantity="other">Laitteen järjestelmää ei ole päivitetty yli %1$d kuukauteen</item>
+        <item quantity="one">Laitteen järjestelmää ei ole päivitetty yli %1$d kuukauteen</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120096">
+        <item quantity="other">Työsovelluksia poistettu</item>
+        <item quantity="one">Työsovellus poistettu</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120097">
+        <item quantity="other">%1$d vuotta sitten</item>
+        <item quantity="one">%1$d vuosi sitten</item>
+    </plurals>
+</resources>

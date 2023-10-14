@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="setup_info_module_tip_count_text">
+        <item quantity="other">%1$d vinkkiä</item>
+        <item quantity="one">%1$d vinkki</item>
+    </plurals>
+    <plurals name="tip_count_text">
+        <item quantity="other">%1$d/%2$d vinkkiä katsottu</item>
+        <item quantity="one">%1$d/%2$d vinkki katsottu</item>
+    </plurals>
+</resources>

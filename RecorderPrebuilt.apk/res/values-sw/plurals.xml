@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dlg_message_deletion_confirmation">
+        <item quantity="other">Rekodi zako zitafutwa kabisa. Kitendo hiki hakiwezi kutenduliwa.</item>
+        <item quantity="one">Rekodi yako itafutwa kabisa. Kitendo hiki hakiwezi kutenduliwa.</item>
+    </plurals>
+    <plurals name="dlg_message_deletion_permanent_confirmation">
+        <item quantity="other">Haijahifadhi nakala za rekodi. Hizi zitafutwa kabisa. Huwezi kutendua kitendo hiki.</item>
+        <item quantity="one">Haijahifadhi nakala ya rekodi. Hii itafutwa kabisa. Huwezi kutendua kitendo hiki.</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_confirmation">
+        <item quantity="other">Ungependa kufuta rekodi?</item>
+        <item quantity="one">Ungependa kufuta rekodi?</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_permanent_confirmation">
+        <item quantity="other">Ungependa kufuta rekodi hizi kabisa?</item>
+        <item quantity="one">Ungependa kufuta rekodi hii kabisa?</item>
+    </plurals>
+    <plurals name="download_failure_description_storage_full">
+        <item quantity="other">Imeshindwa kupakua rekodi kwa sababu nafasi ya hifadhi ya kifaa imejaa. Gusa ili ukague.</item>
+        <item quantity="one">Nafasi ya hifadhi ya kifaa imejaa. Gusa ili ukague.</item>
+    </plurals>
+    <plurals name="downloading_description">
+        <item quantity="other">Inapakua rekodi %1$d</item>
+        <item quantity="one">Inapakua rekodi %1$d</item>
+    </plurals>
+    <plurals name="og_backup_failed_title">
+        <item quantity="other">Imeshindwa kuhifadhi nakala za vipengee %1$d</item>
+        <item quantity="one">Imeshindwa kuhifadhi nakala ya kipengee %1$d</item>
+    </plurals>
+    <plurals name="og_backup_items_left">
+        <item quantity="other">Imebakisha vipengee %1$d</item>
+        <item quantity="one">Imebakisha kipengee %1$d</item>
+    </plurals>
+    <plurals name="og_backup_items_stopped_title">
+        <item quantity="other">Haijahifadhi nakala za vipengee %1$d</item>
+        <item quantity="one">Haijahifadhi nakala ya kipengee %1$d</item>
+    </plurals>
+    <plurals name="peoplekit_chips_copied_recipients">
+        <item quantity="other">Imenakili wapokeaji %d</item>
+        <item quantity="one">Imenakili mpokeaji %d</item>
+    </plurals>
+    <plurals name="search_results_count">
+        <item quantity="other">Matokeo %1$d</item>
+        <item quantity="one">Tokeo %1$d</item>
+    </plurals>
+    <plurals name="search_results_position">
+        <item quantity="other">Matokeo ^1/^2</item>
+        <item quantity="one">Tokeo ^1/^2</item>
+    </plurals>
+    <plurals name="search_results_position_content_description">
+        <item quantity="other">Matokeo %1$d kati ya %2$d</item>
+        <item quantity="one">Tokeo %1$d kati ya %2$d</item>
+    </plurals>
+    <plurals name="selected_recording_quantity">
+        <item quantity="other">%1$d zimechaguliwa</item>
+        <item quantity="one">%1$d kimechaguliwa</item>
+    </plurals>
+    <plurals name="snackbar_message_download_failed_storage_full">
+        <item quantity="other">Nafasi ya hifadhi ya kifaa imejaa. Imeshindwa kupakua rekodi.</item>
+        <item quantity="one">Nafasi ya hifadhi ya kifaa imejaa. Imeshindwa kupakua rekodi.</item>
+    </plurals>
+    <plurals name="speaker_count">
+        <item quantity="other">Wazungumzaji %1$d</item>
+        <item quantity="one">Mzungumzaji %1$d</item>
+    </plurals>
+    <plurals name="uploading_description">
+        <item quantity="other">Inapakia rekodi %1$d</item>
+        <item quantity="one">Inapakia rekodi %1$d</item>
+    </plurals>
+</resources>

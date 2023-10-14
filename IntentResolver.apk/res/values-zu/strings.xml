@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Zulazulela ekhaya</string>
+    <string name="abc_action_bar_up_description">Zulazulela phezulu</string>
+    <string name="abc_action_menu_overflow_description">Ezinye izinketho</string>
+    <string name="abc_action_mode_done">Kwenziwe</string>
+    <string name="abc_activity_chooser_view_see_all">Buka konke</string>
+    <string name="abc_activitychooserview_choose_application">Khetha insiza</string>
+    <string name="abc_capital_off">VALA</string>
+    <string name="abc_capital_on">VULA</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Imenyu+</string>
+    <string name="abc_search_hint">Sesha…</string>
+    <string name="abc_searchview_description_clear">Sula inkinga</string>
+    <string name="abc_searchview_description_query">Sesha umbuzo</string>
+    <string name="abc_searchview_description_search">Sesha</string>
+    <string name="abc_searchview_description_submit">Thumela umbuzo</string>
+    <string name="abc_searchview_description_voice">Ukusesha ngezwi</string>
+    <string name="abc_shareactionprovider_share_with">Yabelana no</string>
+    <string name="abc_shareactionprovider_share_with_application">Yabelana ne-%s</string>
+    <string name="abc_toolbar_collapse_description">Goqa</string>
+    <string name="activity_resolver_use_always">Njalo</string>
+    <string name="activity_resolver_use_once">Kanye nje</string>
+    <string name="activity_resolver_work_profiles_support">I-%1$s ayisekeli iphrofayela yokusebenza</string>
+    <string name="call_notification_answer_action">Phendula</string>
+    <string name="call_notification_answer_video_action">Ividiyo</string>
+    <string name="call_notification_decline_action">Yenqaba</string>
+    <string name="call_notification_hang_up_action">Vala Ucingo</string>
+    <string name="call_notification_incoming_text">Ikholi engenayo</string>
+    <string name="call_notification_ongoing_text">Ikholi eqhubekayo</string>
+    <string name="call_notification_screening_text">Ukuveza ikholi engenayo</string>
+    <string name="chooseActivity">Khetha okufanele kwenziwe</string>
+    <string name="chooser_no_direct_share_targets">Ayinconyelwa ukuba abantu bayabelane</string>
+    <string name="exclude_link">Ungafaki ilinki</string>
+    <string name="exclude_text">Ungafaki umbhalo</string>
+    <string name="file_preview_a11y_description">Isithonjana sokuhlola kuqala ifayela</string>
+    <string name="forward_intent_to_owner">Usebenzisa lolu hlelo lokusebenza ngaphandle kwephrofayela yakho yomsebenzi</string>
+    <string name="forward_intent_to_work">Usebenzisa lolu hlelo lokusebenza kuphrofayela yakho yomsebenzi</string>
+    <string name="image_preview_a11y_description">Isithonjana sokuhlola kuqala umfanekiso</string>
+    <string name="include_link">Faka ilinki</string>
+    <string name="include_text">Faka umbhalo</string>
+    <string name="miniresolver_open_in_personal">Vula i-%s kwiphrofayela yakho siqu?</string>
+    <string name="miniresolver_open_in_work">Vula i-%s kwiphrofayela yakho yomsebenzi?</string>
+    <string name="miniresolver_use_personal_browser">Sebenzisa isiphequluli somuntu siqu</string>
+    <string name="miniresolver_use_work_browser">Sebenzisa isiphequluli somsebenzi</string>
+    <string name="more_files">{count,plural, =1{Ifayela elengeziwe eli-+ #}one{Amafayela engeziwe angu-+ #}other{Amafayela engeziwe angu-+ #}}</string>
+    <string name="noApplications">Azikho izinhlelo zokusebenza ezingenza lokhu</string>
+    <string name="other_files">{count,plural, =1{Ifayela eli-+ #}one{Amafayela angu-+ #}other{Amafayela angu-+ #}}</string>
+    <string name="pin_specific_target">Phina i-%1$s</string>
+    <string name="resolver_cant_access_personal_apps_explanation">Lokhu okuqukethwe akukwazi ukukopishwa ngama-app womuntu siqu</string>
+    <string name="resolver_cant_access_work_apps_explanation">Lokhu okuqukethwe akukwazi ukukopishwa ngama-app womsebenzi</string>
+    <string name="resolver_cant_share_with_personal_apps_explanation">Lokhu okuqukethwe akukwazi ukwabiwa nama-app womuntu siqu</string>
+    <string name="resolver_cant_share_with_work_apps_explanation">Lokhu okuqukethwe akukwazi ukwabiwa nama-app womsebenzi</string>
+    <string name="resolver_cross_profile_blocked">Kuvinjelwe umlawuli wakho we-IT</string>
+    <string name="resolver_no_personal_apps_available">Awekho ama-app womuntu siqu</string>
+    <string name="resolver_no_work_apps_available">Awekho ama-app womsebenzi</string>
+    <string name="resolver_personal_tab">Okomuntu siqu</string>
+    <string name="resolver_personal_tab_accessibility">Ukubuka komuntu siqu</string>
+    <string name="resolver_switch_on_work">Qhubekisa</string>
+    <string name="resolver_turn_on_work_apps">Ama-app omsebenzi amisiwe</string>
+    <string name="resolver_work_tab">Umsebenzi</string>
+    <string name="resolver_work_tab_accessibility">Ukubuka komsebenzi</string>
+    <string name="screenshot_edit">Hlela</string>
+    <string name="search_menu_title">Sesha</string>
+    <string name="sharing_files">{count,plural, =1{Yabelana ngefayela eli-#}one{Yabelana ngamafayela angu-#}other{Yabelana ngamafayela angu-#}}</string>
+    <string name="sharing_files_only">{count,plural, =1{Ifayela kuphela}one{Amafayela kuphela}other{Amafayela kuphela}}</string>
+    <string name="sharing_files_with_link">{count,plural, =1{Yabelana ngefayela ngelinki}one{Yabelana ngamafayela angu-# ngelinki}other{Yabelana ngamafayela angu-# ngelinki}}</string>
+    <string name="sharing_files_with_text">{count,plural, =1{Yabelana ngefayela ngombhalo}one{Yabelana ngamafayela angu-# ngombhalo}other{Yabelana ngamafayela angu-# ngombhalo}}</string>
+    <string name="sharing_images">{count,plural, =1{Yabelana ngomfanekiso}one{Yabelana ngemifanekiso engu-#}other{Yabelana ngemifanekiso engu-#}}</string>
+    <string name="sharing_images_only">{count,plural, =1{Isithombe kuphela}one{Izithombe kuphela}other{Izithombe kuphela}}</string>
+    <string name="sharing_images_with_link">{count,plural, =1{Yabelana ngomfanekiso ngelinki}one{Yabelana ngemifanekiso engu-# ngelinki}other{Yabelana ngemifanekiso engu-# ngelinki}}</string>
+    <string name="sharing_images_with_text">{count,plural, =1{Yabelana ngomfanekiso ngombhalo}one{Yabelana ngemifanekiso engu-# ngombhalo}other{Yabelana ngemifanekiso engu-# ngombhalo}}</string>
+    <string name="sharing_link">Yabelana ngelinki</string>
+    <string name="sharing_text">Yabelana ngombhalo</string>
+    <string name="sharing_videos">{count,plural, =1{Yabelana ngevidiyo}one{Yabelana ngamavidiyo angu-#}other{Yabelana ngamavidiyo angu-#}}</string>
+    <string name="sharing_videos_only">{count,plural, =1{ividiyo kuphela}one{Amavidiyo kuphela}other{Amavidiyo kuphela}}</string>
+    <string name="sharing_videos_with_link">{count,plural, =1{Yabelana ngevidiyo ngelinki}one{Yabelana ngamavidiyo angu-# ngelinki}other{Yabelana ngamavidiyo angu-# ngelinki}}</string>
+    <string name="sharing_videos_with_text">{count,plural, =1{Yabelana ngevidiyo ngombhalo}one{Yabelana ngamavidiyo angu-# ngombhalo}other{Yabelana ngamavidiyo angu-# ngombhalo}}</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="unpin_specific_target">Susa ukuphina ku-%1$s</string>
+    <string name="usb_device_resolve_prompt_warn">Lolu hlelo lokusebenza alunikeziwe imvume yokurekhoda kodwa lungathwebula umsindo ngale divayisi ye-USB.</string>
+    <string name="use_a_different_app">Sebenzisa uhlelo lokusebenza oluhlukile</string>
+    <string name="video_preview_a11y_description">Isithonjana sokuhlola kuqala ividiyo</string>
+    <string name="whichApplication">Qedela isenzo usebenzisa</string>
+    <string name="whichApplicationLabel">Qedela isenzo</string>
+    <string name="whichApplicationNamed">Qedela isenzo usebenzisa i-%1$s</string>
+    <string name="whichEditApplication">Hlela nge-</string>
+    <string name="whichEditApplicationLabel">Hlela</string>
+    <string name="whichEditApplicationNamed">Hlela nge-%1$s</string>
+    <string name="whichGiveAccessToApplicationLabel">Nikeza ukufinyela</string>
+    <string name="whichHomeApplication">Khetha uhlelo lokusebenza lasekhaya</string>
+    <string name="whichHomeApplicationLabel">Thwebula isithombe</string>
+    <string name="whichHomeApplicationNamed">Sebenzisa i-%1$s Njengekhaya</string>
+    <string name="whichImageCaptureApplication">Thwebula isithombe nge-</string>
+    <string name="whichImageCaptureApplicationLabel">Thwebula isithombe</string>
+    <string name="whichImageCaptureApplicationNamed">Thwebula isithombe nge-%1$s</string>
+    <string name="whichOpenHostLinksWith">Vula izixhumanisi ze-%1$s nge</string>
+    <string name="whichOpenHostLinksWithApp">Vula izixhumanisi ze-%1$s nge-%2$s</string>
+    <string name="whichOpenLinksWith">Vula izixhumanisi nge</string>
+    <string name="whichOpenLinksWithApp">Vula izixhumanisi nge-%1$s</string>
+    <string name="whichSendApplication">Yabelana</string>
+    <string name="whichSendApplicationLabel">Yabelana</string>
+    <string name="whichSendApplicationNamed">Yabelana ne-%1$s</string>
+    <string name="whichSendToApplication">Thumela usebenzisa</string>
+    <string name="whichSendToApplicationLabel">Thumela</string>
+    <string name="whichSendToApplicationNamed">Thumela usebenzisa i-%1$s</string>
+    <string name="whichViewApplication">Vula nge-</string>
+    <string name="whichViewApplicationLabel">Kuvuliwe</string>
+    <string name="whichViewApplicationNamed">Vula nge-%1$s</string>
+</resources>

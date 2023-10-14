@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sound_amplifier_html_description">Zosilňovač zvuku zosilní tichšie zvuky bez toho, aby boli silné zvuky príliš hlasné.&lt;br/>&lt;br/> &lt;b>Ako používať zosilňovač zvuku&lt;/b>&lt;br/> 1. Pripojte káblové slúchadlá alebo slúchadlá s rozhraním Bluetooth.&lt;br/> 2. Spustite zosilňovač zvuku.</string>
+    <string name="sound_amplifier_intro">Zvýšte kvalitu zvuku zo svojho okolia aj zariadenia pomocou zosilňovača zvuku a slúchadiel</string>
+</resources>

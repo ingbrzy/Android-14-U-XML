@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="azure_title">ლაჟვარდისფერი ჯაფარა</string>
+    <string name="blackswan_title">შავი გედი</string>
+    <string name="cockatoo_title">კაკადუ</string>
+    <string name="come_alive_title">გაცოცხლება</string>
+    <string name="feathers_attribution">ფოტოს ავტორი: Andrew Zuckerman</string>
+    <string name="feathers_description">ბუმბულების ფერები და დეტალები</string>
+    <string name="feathers_title">ბუმბულები</string>
+    <string name="greenwinged_title">მწვანეფრთიანი არა</string>
+    <string name="king_title">სამეფო გრიფონი</string>
+    <string name="living_universe_title">ცოცხალი სამყარო</string>
+    <string name="photos_memory_gallery_title">თქვენი მოგონებები</string>
+    <string name="pied_title">თეთრმკერდა ყორანი</string>
+    <string name="ringnecked_title">ყელსაბამიანი თუთიყუში</string>
+    <string name="seagull_title">თოლია</string>
+</resources>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a11y_hours">
+        <item quantity="other">שעות</item>
+        <item quantity="one">שעות</item>
+        <item quantity="two">שעות</item>
+    </plurals>
+    <plurals name="a11y_minutes">
+        <item quantity="other">דקות</item>
+        <item quantity="one">דקות</item>
+        <item quantity="two">דקות</item>
+    </plurals>
+    <plurals name="a11y_new_call_log_entry_answered_call">
+        <item quantity="other">^1 שיחות. השיחה האחרונה נענתה. מקור השיחה: ^2</item>
+        <item quantity="one">^1 שיחות. השיחה האחרונה נענתה. מקור השיחה: ^2</item>
+        <item quantity="two">^1 שיחות. השיחה האחרונה נענתה. מקור השיחה: ^2</item>
+    </plurals>
+    <plurals name="a11y_new_call_log_entry_answered_call_with_features">
+        <item quantity="other">^1 שיחות. השיחה האחרונה הייתה שיחה נכנסת עם ^2. מקור השיחה: ^3</item>
+        <item quantity="one">^1 שיחות. השיחה האחרונה הייתה שיחה נכנסת עם ^2. מקור השיחה: ^3</item>
+        <item quantity="two">^1 שיחות. השיחה האחרונה הייתה שיחה נכנסת עם ^2. מקור השיחה: ^3</item>
+    </plurals>
+    <plurals name="a11y_new_call_log_entry_blocked_call">
+        <item quantity="other">^1 שיחות. השיחה האחרונה נחסמה. מקור השיחה: ^2</item>
+        <item quantity="one">^1 שיחות. השיחה האחרונה נחסמה. מקור השיחה: ^2</item>
+        <item quantity="two">^1 שיחות. השיחה האחרונה נחסמה. מקור השיחה: ^2</item>
+    </plurals>
+    <plurals name="a11y_new_call_log_entry_missed_call">
+        <item quantity="other">^1 שיחות. השיחה האחרונה לא נענתה. מקור השיחה: ^2</item>
+        <item quantity="one">^1 שיחות. השיחה האחרונה לא נענתה. מקור השיחה: ^2</item>
+        <item quantity="two">^1 שיחות. השיחה האחרונה לא נענתה. מקור השיחה: ^2</item>
+    </plurals>
+    <plurals name="a11y_new_call_log_entry_missed_call_with_features">
+        <item quantity="other">^1 שיחות. השיחה האחרונה הייתה שיחה עם ^2 שלא נענתה. מקור השיחה: ^3</item>
+        <item quantity="one">^1 שיחות. השיחה האחרונה הייתה שיחה עם ^2 שלא נענתה. מקור השיחה: ^3</item>
+        <item quantity="two">^1 שיחות. השיחה האחרונה הייתה שיחה עם ^2 שלא נענתה. מקור השיחה: ^3</item>
+    </plurals>
+    <plurals name="a11y_new_call_log_entry_outgoing_call">
+        <item quantity="other">^1 שיחות. השיחה האחרונה הייתה שיחה יוצאת. יעד השיחה: ^2</item>
+        <item quantity="one">^1 שיחות. השיחה האחרונה הייתה שיחה יוצאת. יעד השיחה: ^2</item>
+        <item quantity="two">^1 שיחות. השיחה האחרונה הייתה שיחה יוצאת. יעד השיחה: ^2</item>
+    </plurals>
+    <plurals name="a11y_new_call_log_entry_outgoing_call_with_features">
+        <item quantity="other">^1 שיחות. השיחה האחרונה הייתה שיחה יוצאת עם ^2. יעד השיחה: ^3</item>
+        <item quantity="one">^1 שיחות. השיחה האחרונה הייתה שיחה יוצאת עם ^2. יעד השיחה: ^3</item>
+        <item quantity="two">^1 שיחות. השיחה האחרונה הייתה שיחה יוצאת עם ^2. יעד השיחה: ^3</item>
+    </plurals>
+    <plurals name="a11y_seconds">
+        <item quantity="other">שניות</item>
+        <item quantity="one">שניות</item>
+        <item quantity="two">שניות</item>
+    </plurals>
+    <plurals name="accessibility_duration_description_minutes">
+        <item quantity="other">%d דקות</item>
+        <item quantity="one">%d דקות</item>
+        <item quantity="two">%d דקות</item>
+    </plurals>
+    <plurals name="accessibility_duration_description_seconds">
+        <item quantity="other">%d שניות</item>
+        <item quantity="one">%d שניות</item>
+        <item quantity="two">%d שניות</item>
+    </plurals>
+    <plurals name="auto_deletion_confirmation_dialog_message_14_days">
+        <item quantity="other">%d הקלטות יימחקו. שאר ההקלטות יימחקו כשיחלפו 14 ימים מהתאריך שבו הן נוצרו.</item>
+        <item quantity="one">%d הקלטות יימחקו. שאר ההקלטות יימחקו כשיחלפו 14 ימים מהתאריך שבו הן נוצרו.</item>
+        <item quantity="two">%d הקלטות יימחקו. שאר ההקלטות יימחקו כשיחלפו 14 ימים מהתאריך שבו הן נוצרו.</item>
+    </plurals>
+    <plurals name="auto_deletion_confirmation_dialog_message_30_days">
+        <item quantity="other">%d הקלטות יימחקו. שאר ההקלטות יימחקו כשיחלפו 30 ימים מהתאריך שבו הן נוצרו.</item>
+        <item quantity="one">%d הקלטות יימחקו. שאר ההקלטות יימחקו כשיחלפו 30 ימים מהתאריך שבו הן נוצרו.</item>
+        <item quantity="two">%d הקלטות יימחקו. שאר ההקלטות יימחקו כשיחלפו 30 ימים מהתאריך שבו הן נוצרו.</item>
+    </plurals>
+    <plurals name="auto_deletion_confirmation_dialog_message_7_days">
+        <item quantity="other">%d הקלטות יימחקו. שאר ההקלטות יימחקו כשיחלפו 7 ימים מהתאריך שבו הן נוצרו.</item>
+        <item quantity="one">%d הקלטות יימחקו. שאר ההקלטות יימחקו כשיחלפו 7 ימים מהתאריך שבו הן נוצרו.</item>
+        <item quantity="two">%d הקלטות יימחקו. שאר ההקלטות יימחקו כשיחלפו 7 ימים מהתאריך שבו הן נוצרו.</item>
+    </plurals>
+    <plurals name="contacts_suggestions_promo_merge_title_text">
+        <item quantity="other">מיזוג %1$d כפילויות באנשי קשר</item>
+        <item quantity="one">מיזוג %1$d כפילויות באנשי קשר</item>
+        <item quantity="two">מיזוג %1$d כפילויות באנשי קשר</item>
+    </plurals>
+    <plurals name="contacts_suggestions_promo_title_text">
+        <item quantity="other">הסרת עותקים כפולים של %1$d אנשי קשר</item>
+        <item quantity="one">הסרת עותק כפול של איש קשר %1$d</item>
+        <item quantity="two">הסרת עותקים כפולים של %1$d אנשי קשר</item>
+    </plurals>
+    <plurals name="delete_confirmation_dialog_template">
+        <item quantity="other">%1$d הקלטות יימחקו ובמכשיר יתפנו %2$s</item>
+        <item quantity="one">%1$d הקלטות יימחקו ובמכשיר יתפנו %2$s</item>
+        <item quantity="two">%1$d הקלטות יימחקו ובמכשיר יתפנו %2$s</item>
+    </plurals>
+    <plurals name="delete_voicemails_confirmation_dialog_title">
+        <item quantity="other">&lt;b>האם למחוק את ההודעות הקוליות האלה? &lt;/b></item>
+        <item quantity="one">&lt;b>האם למחוק את ההודעות הקוליות האלה? &lt;/b></item>
+        <item quantity="two">&lt;b>האם למחוק את ההודעות הקוליות האלה? &lt;/b></item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d התראות חדשות</item>
+        <item quantity="one">%d התראות חדשות</item>
+        <item quantity="two">%d התראות חדשות</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d הודעות דואר קולי</item>
+        <item quantity="one">%1$d Voicemails</item>
+        <item quantity="two">%1$d הודעות דואר קולי</item>
+    </plurals>
+    <plurals name="previously_unread_miss_call_count">
+        <item quantity="other">%1$d שיחות</item>
+        <item quantity="one">%1$d שיחות</item>
+        <item quantity="two">%1$d שיחות</item>
+    </plurals>
+    <plurals name="selected_numbers_number_summary">
+        <item quantity="other">‏%1$s • %2$d מספרים נבחרו</item>
+        <item quantity="one">‏%1$s • %2$d מספרים נבחרו</item>
+        <item quantity="two">‏%1$s • %2$d מספרים נבחרו</item>
+    </plurals>
+    <plurals name="storage_info_recordings_text">
+        <item quantity="other">הקלטות</item>
+        <item quantity="one">הקלטות</item>
+        <item quantity="two">הקלטות</item>
+    </plurals>
+    <plurals name="survey_star_rating">
+        <item quantity="other">%1$d כוכבים מתוך %2$d</item>
+        <item quantity="one">%1$d כוכבים מתוך %2$d</item>
+        <item quantity="two">%1$d כוכבים מתוך %2$d</item>
+    </plurals>
+</resources>

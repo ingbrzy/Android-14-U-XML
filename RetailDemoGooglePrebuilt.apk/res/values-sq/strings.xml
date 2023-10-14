@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_retaildemoCommunication">"Lejon aplikacionin të ndërveprojë me shërbimet e \"Demonstrimit të shitjes me pakicë\". Kjo leje duhet t'i jepet vetëm \"Demonstrimit të shitjes me pakicë\". Aplikacionet të cilave u është dhënë kjo leje mund të aktivizojnë veprimet e rezervuara për modalitetin e \"Demonstrimit të shitjes me pakicë\"."</string>
+    <string name="permlab_retaildemoCommunication">Komunikimi me \"Demonstrimin e shitjes me pakicë\"</string>
+    <string name="retaildemo_preload_app_name">Shërbimet e \"Demonstrimit të shitjes me pakicë\"</string>
+</resources>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dots">
+        <item quantity="other">точки %s</item>
+        <item quantity="one">точки %s</item>
+        <item quantity="few">точки %s</item>
+        <item quantity="many">точки %s</item>
+    </plurals>
+    <plurals name="gestures_recorded_message">
+        <item quantity="other">Записано %d жеста.</item>
+        <item quantity="one">Записан %d жест.</item>
+        <item quantity="few">Записано %d жеста.</item>
+        <item quantity="many">Записано %d жестов.</item>
+    </plurals>
+    <plurals name="label_num_keys_assigned_format">
+        <item quantity="other">Назначено %d переключателя.</item>
+        <item quantity="one">Назначен %d переключатель.</item>
+        <item quantity="few">Назначено %d переключателя.</item>
+        <item quantity="many">Назначено %d переключателей.</item>
+    </plurals>
+    <plurals name="label_num_scanning_loops_format">
+        <item quantity="other">%d сканирования</item>
+        <item quantity="one">%d сканирование</item>
+        <item quantity="few">%d сканирования</item>
+        <item quantity="many">%d сканирований</item>
+    </plurals>
+    <plurals name="line_speed_summary_format">
+        <item quantity="other">%.2f см в секунду</item>
+        <item quantity="one">%.2f см в секунду</item>
+        <item quantity="few">%.2f см в секунду</item>
+        <item quantity="many">%.2f см в секунду</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d нового уведомления</item>
+        <item quantity="one">%d новое уведомление</item>
+        <item quantity="few">%d новых уведомления</item>
+        <item quantity="many">%d новых уведомлений</item>
+    </plurals>
+    <plurals name="time_delay_summary_format">
+        <item quantity="other">%.2f секунды</item>
+        <item quantity="one">%.2f секунда</item>
+        <item quantity="few">%.2f секунды</item>
+        <item quantity="many">%.2f секунд</item>
+    </plurals>
+</resources>

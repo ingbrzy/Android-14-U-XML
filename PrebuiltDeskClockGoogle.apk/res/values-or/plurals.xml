@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="alarm_alert_snooze_duration">
+        <item quantity="other">%d ମିନିଟ୍</item>
+        <item quantity="one">1 ମିନିଟ୍</item>
+    </plurals>
+    <plurals name="alarm_alert_snooze_set">
+        <item quantity="other">%d ମିନିଟ୍‌ ପାଇଁ ସ୍ନୁଜ୍ କରୁଛି</item>
+        <item quantity="one">1 ମିନିଟ୍‌ ପାଇଁ ସ୍ନୁଜ୍ କରୁଛି।</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%s ଦିନ</item>
+        <item quantity="one">1 ଦିନ</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">%s ଦିନ ପୂର୍ବେ</item>
+        <item quantity="one">1 ଦିନ ପୂର୍ବେ</item>
+    </plurals>
+    <plurals name="days_extra_short">
+        <item quantity="other">%sଦି</item>
+        <item quantity="one">1ଦି</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s ଘଣ୍ଟା</item>
+        <item quantity="one">1 ଘଣ୍ଟା</item>
+    </plurals>
+    <plurals name="hours_extra_short">
+        <item quantity="other">%sଘ</item>
+        <item quantity="one">1ଘ</item>
+    </plurals>
+    <plurals name="hours_short">
+        <item quantity="other">%s ଘଣ୍ଟା</item>
+        <item quantity="one">1 ଘଣ୍ଟା</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s ମିନିଟ୍</item>
+        <item quantity="one">1 ମିନିଟ୍</item>
+    </plurals>
+    <plurals name="minutes_extra_short">
+        <item quantity="other">%sମି</item>
+        <item quantity="one">1ମି</item>
+    </plurals>
+    <plurals name="minutes_short">
+        <item quantity="other">%s ମିନିଟ</item>
+        <item quantity="one">1 ମିନିଟ</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d new notifications</item>
+        <item quantity="one">%d new notification</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%s ସେକେଣ୍ଡ</item>
+        <item quantity="one">1 ସେକେଣ୍ଡ</item>
+    </plurals>
+    <plurals name="seconds_extra_short">
+        <item quantity="other">%sସେ</item>
+        <item quantity="one">1ସେ</item>
+    </plurals>
+</resources>

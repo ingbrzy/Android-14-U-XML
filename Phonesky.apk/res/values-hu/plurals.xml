@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120000">
+        <item quantity="other">Várakozás a Wi-Fi-re</item>
+        <item quantity="one">Várakozás a Wi-Fi-re</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120002">
+        <item quantity="other">Ezen az eszközön (%d alkalmazás)</item>
+        <item quantity="one">Ezen az eszközön (%d alkalmazás)</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120003">
+        <item quantity="other">A(z) %1$s funkciói</item>
+        <item quantity="one">A(z) %1$s funkciója</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120004">
+        <item quantity="other">Telepítve: %d napja</item>
+        <item quantity="one">Telepítve: %d napja</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120005">
+        <item quantity="other">Telepítve: %d órája</item>
+        <item quantity="one">Telepítve: %d órája</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120006">
+        <item quantity="other">Telepítve: %d perce</item>
+        <item quantity="one">Telepítve: %d perce</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120007">
+        <item quantity="other">%1$d kijelölve</item>
+        <item quantity="one">%1$d kijelölve</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120008">
+        <item quantity="other">Frissítve %d napja</item>
+        <item quantity="one">Frissítve %d napja</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120009">
+        <item quantity="other">Frissítve: %d órája</item>
+        <item quantity="one">Frissítve: %d órája</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000a">
+        <item quantity="other">Frissítve: %d perce</item>
+        <item quantity="one">Frissítve: %d perce</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000b">
+        <item quantity="other">Legutóbbi használat: %d napja</item>
+        <item quantity="one">Legutóbbi használat: %d napja</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000c">
+        <item quantity="other">Legutóbbi használat: %d órája</item>
+        <item quantity="one">Legutóbbi használat: %d órája</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000d">
+        <item quantity="other">Legutóbbi használat: %d perce</item>
+        <item quantity="one">Legutóbbi használat: %d perce</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000f">
+        <item quantity="other">Az alkalmazások legutóbbi vizsgálatának ideje: %d napja</item>
+        <item quantity="one">Az alkalmazások legutóbbi vizsgálatának ideje: %d napja</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120010">
+        <item quantity="other">Az alkalmazások legutóbbi vizsgálatának ideje: %d órája</item>
+        <item quantity="one">Az alkalmazások legutóbbi vizsgálatának ideje: %d órája</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120011">
+        <item quantity="other">Az alkalmazások legutóbbi vizsgálatának ideje: %d perce</item>
+        <item quantity="one">Az alkalmazások legutóbbi vizsgálatának ideje: %d perce</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120014">
+        <item quantity="other">%1$d vélemény</item>
+        <item quantity="one">%1$d vélemény</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120015">
+        <item quantity="other">%1$d vélemény alapján %2$d csillag</item>
+        <item quantity="one">%1$d vélemény alapján %2$d csillag</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120016">
+        <item quantity="other">Telepítés %1$d eszközre.</item>
+        <item quantity="one">Telepítés %1$d eszközre.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120017">
+        <item quantity="other">Telepítés %1$d eszközre. További eszközök is rendelkezésre állnak.</item>
+        <item quantity="one">Telepítés %1$d eszközre. További eszközök is rendelkezésre állnak.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120018">
+        <item quantity="other">Ez az alkalmazás hamarosan települni fog %1$d eszközödre.</item>
+        <item quantity="one">Ez az alkalmazás hamarosan települni fog %1$d eszközödre.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120019">
+        <item quantity="other">%1$d extra tartalom hozzáférhető</item>
+        <item quantity="one">%1$d extra tartalom hozzáférhető</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001a">
+        <item quantity="other">%1$d extra tartalmat kaphatsz a vásárláshoz</item>
+        <item quantity="one">%1$d extra tartalmat kaphatsz a vásárláshoz</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001b">
+        <item quantity="other">%1$d nap</item>
+        <item quantity="one">%1$d nap</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001c">
+        <item quantity="other">Átlagos értékelés: %1$s csillag %2$s vélemény alapján</item>
+        <item quantity="one">Átlagos értékelés: %1$s csillag 1 vélemény alapján</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001d">
+        <item quantity="other">%s vélemény</item>
+        <item quantity="one">1 vélemény</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001e">
+        <item quantity="other">%1$d lépésre vagy attól, hogy fejlesztővé válhass.</item>
+        <item quantity="one">%1$d lépésre vagy attól, hogy fejlesztővé válhass.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001f">
+        <item quantity="other">autók</item>
+        <item quantity="one">autó</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120020">
+        <item quantity="other">Chromebookok</item>
+        <item quantity="one">Chromebook</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120021">
+        <item quantity="other">összehajtható</item>
+        <item quantity="one">összehajtható</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120022">
+        <item quantity="other">telefonok</item>
+        <item quantity="one">telefon</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120023">
+        <item quantity="other">táblagépek</item>
+        <item quantity="one">táblagép</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120024">
+        <item quantity="other">tévék</item>
+        <item quantity="one">tévé</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120025">
+        <item quantity="other">eszköz</item>
+        <item quantity="one">eszköz</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120026">
+        <item quantity="other">órák</item>
+        <item quantity="one">óra</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120027">
+        <item quantity="other">%1$d Play-pont áll rendelkezésre.</item>
+        <item quantity="one">%1$d Play-pont áll rendelkezésre.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120028">
+        <item quantity="other">%1$d óra</item>
+        <item quantity="one">%1$d óra</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120029">
+        <item quantity="other">%1$d óra van hátra</item>
+        <item quantity="one">1 óra van hátra</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002a">
+        <item quantity="other">%1$d alkalmazás telepítése…</item>
+        <item quantity="one">%1$d alkalmazás telepítése…</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002b">
+        <item quantity="other">A telepítések szünetelnek</item>
+        <item quantity="one">A telepítés szünetel</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002c">
+        <item quantity="other">%1$d alkalmazás lesz telepítve</item>
+        <item quantity="one">%1$d alkalmazás lesz telepítve</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002d">
+        <item quantity="other">Legutóbbi frissítés: %d napja</item>
+        <item quantity="one">Legutóbbi frissítés: %d napja</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002e">
+        <item quantity="other">Legutóbbi frissítés: %d órája</item>
+        <item quantity="one">Legutóbbi frissítés: %d órája</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002f">
+        <item quantity="other">Legutóbbi frissítés: %d perce</item>
+        <item quantity="one">Legutóbbi frissítés: %d perce</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120033">
+        <item quantity="other">%1$d éve</item>
+        <item quantity="one">%1$d éve</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120034">
+        <item quantity="other">%1$d perc</item>
+        <item quantity="one">%1$d perc</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120035">
+        <item quantity="other">%1$d perc van hátra</item>
+        <item quantity="one">1 perc van hátra</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120037">
+        <item quantity="other">%1$d kijelölve</item>
+        <item quantity="one">%1$d kijelölve</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120038">
+        <item quantity="other">%1$d alkalmazás archiválása</item>
+        <item quantity="one">%1$d alkalmazás archiválása</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120039">
+        <item quantity="other">Eltávolítod a kijelölt alkalmazásokat?</item>
+        <item quantity="one">Eltávolítod a kijelölt alkalmazást?</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12003a">
+        <item quantity="other">%1$d alkalmazás eltávolítva</item>
+        <item quantity="one">%1$d alkalmazás eltávolítva</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12003d">
+        <item quantity="other">%1$d telepítés függőben</item>
+        <item quantity="one">%1$d telepítés függőben</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12003e">
+        <item quantity="other">%1$d telepítés folyamatban</item>
+        <item quantity="one">%1$d telepítés folyamatban</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120040">
+        <item quantity="other">%1$d frissítés függőben</item>
+        <item quantity="one">%1$d frissítés függőben</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120041">
+        <item quantity="other">%1$d frissítés folyamatban</item>
+        <item quantity="one">%1$d frissítés folyamatban</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120042">
+        <item quantity="other">%1$d alkalmazás telepítve</item>
+        <item quantity="one">%1$d alkalmazás telepítve</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120044">
+        <item quantity="other">%1$d órája jelent meg</item>
+        <item quantity="one">%1$d órája jelent meg</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120045">
+        <item quantity="other">%1$d napja jelent meg</item>
+        <item quantity="one">%1$d napja jelent meg</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120046">
+        <item quantity="other">Alkalmazások eltávolítva</item>
+        <item quantity="one">Alkalmazás eltávolítva</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120047">
+        <item quantity="other">%1$d frissítés vár jóváhagyásra</item>
+        <item quantity="one">%1$d frissítés vár jóváhagyásra</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120048">
+        <item quantity="other">%1$d új frissítés</item>
+        <item quantity="one">%1$d új frissítés</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120049">
+        <item quantity="other">%1$d frissítés áll rendelkezésre</item>
+        <item quantity="one">%1$d frissítés áll rendelkezésre</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004a">
+        <item quantity="other">Összes frissítése</item>
+        <item quantity="one">Frissítés</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004b">
+        <item quantity="other">%1$d alkalmazás frissítve</item>
+        <item quantity="one">%1$d alkalmazás frissítve</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004c">
+        <item quantity="other">%1$d órán belül véget ér</item>
+        <item quantity="one">%1$d órán belül véget ér</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004d">
+        <item quantity="other">%1$d napon belül véget ér</item>
+        <item quantity="one">%1$d napon belül véget ér</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004e">
+        <item quantity="other">%1$d perc</item>
+        <item quantity="one">%1$d perc</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004f">
+        <item quantity="other">%1$d másodperc</item>
+        <item quantity="one">%1$d másodperc</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120050">
+        <item quantity="other">Személyes alkalmazások eltávolítva</item>
+        <item quantity="one">Személyes alkalmazás eltávolítva</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120053">
+        <item quantity="other">Play Protect-ellenőrzés időpontja: %d napja</item>
+        <item quantity="one">Play Protect-ellenőrzés időpontja %d napja</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120054">
+        <item quantity="other">Play Protect-ellenőrzés időpontja: %d órája</item>
+        <item quantity="one">Play Protect-ellenőrzés időpontja: %d órája</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120055">
+        <item quantity="other">Play Protect-ellenőrzés időpontja: %d perce</item>
+        <item quantity="one">Play Protect-ellenőrzés időpontja: %d perce</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120056">
+        <item quantity="other">%1$s pont kell még, hogy jövőre is megmaradjon a(z) %2$s szinted</item>
+        <item quantity="one">1 pont kell még, hogy jövőre is megmaradjon a(z) %2$s szinted</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120057">
+        <item quantity="other">%1$s pont a(z) %2$s szintig</item>
+        <item quantity="one">1 pont a(z) %2$s szintig</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120058">
+        <item quantity="other">Ezeknek az alkalmazásoknak engedélyezted, hogy ismeretlen alkalmazásokat telepítsen és frissítsen. Ez veszélyt jelenthet eszközödre és személyes adataidra nézve. Az ilyen telepítések megakadályozásához vond meg az engedélyt.</item>
+        <item quantity="one">Ennek az alkalmazásnak engedélyezted, hogy ismeretlen alkalmazásokat telepítsen és frissítsen. Ez veszélyt jelenthet eszközödre és személyes adataidra nézve. Az ilyen telepítések megakadályozásához vond meg az engedélyt.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120059">
+        <item quantity="other">%1$d alkalmazásnak engedélyezted, hogy ismeretlen alkalmazásokat telepítsen és frissítsen. Ez veszélyt jelenthet eszközödre és személyes adataidra nézve.</item>
+        <item quantity="one">1 alkalmazásnak engedélyezted, hogy ismeretlen alkalmazásokat telepítsen és frissítsen. Ez veszélyt jelenthet eszközödre és személyes adataidra nézve.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005a">
+        <item quantity="other">%1$d adatvédelmi figyelmeztetés</item>
+        <item quantity="one">1 adatvédelmi figyelmeztetés</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005b">
+        <item quantity="other">%1$d kártékony alkalmazás található</item>
+        <item quantity="one">1 kártékony alkalmazás található</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005c">
+        <item quantity="other">%1$d biztonsági értesítés</item>
+        <item quantity="one">1 biztonsági értesítés</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005d">
+        <item quantity="other">%1$d biztonsági frissítés</item>
+        <item quantity="one">1 biztonsági frissítés</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005e">
+        <item quantity="other">%1$d nem biztonságos alkalmazás található</item>
+        <item quantity="one">1 nem biztonságos alkalmazás található</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005f">
+        <item quantity="other">%1$d figyelmeztetés</item>
+        <item quantity="one">1 figyelmeztetés</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120060">
+        <item quantity="other">Több nem biztonságos alkalmazás található</item>
+        <item quantity="one">Egy nem biztonságos alkalmazás található</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120061">
+        <item quantity="other">%1$d órán belül véget ér</item>
+        <item quantity="one">%1$d órán belül véget ér</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120062">
+        <item quantity="other">%1$d nap múlva véget ér</item>
+        <item quantity="one">%1$d nap múlva véget ér</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120063">
+        <item quantity="other">%2$d/%1$d lépés befejezve</item>
+        <item quantity="one">%2$d/%1$d lépés befejezve</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120064">
+        <item quantity="other">Készen áll %1$d alkalmazás telepítése</item>
+        <item quantity="one">Készen áll %1$d alkalmazás telepítése</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120065">
+        <item quantity="other">A(z) %1$s eszköz %2$d alkalmazást küld neked. Győződj meg arról, hogy a párosítókódok megegyeznek.</item>
+        <item quantity="one">A(z) %1$s eszköz %2$d alkalmazást küld neked. Győződj meg arról, hogy a párosítókódok megegyeznek.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120066">
+        <item quantity="other">%1$d alkalmazás fogadása a következő eszköztől: %2$s…</item>
+        <item quantity="one">%1$d alkalmazás fogadása a következő eszköztől: %2$s…</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006a">
+        <item quantity="other">%1$d felhasználó találta hasznosnak ezt az véleményt. Megjegyzés megjelölése hasznosként</item>
+        <item quantity="one">%1$d felhasználó találta hasznosnak ezt az véleményt. Megjegyzés megjelölése hasznosként</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006b">
+        <item quantity="other">%1$d felhasználó találta hasznosnak ezt az véleményt. „Hasznos megjegyzés” jelölés visszavonása</item>
+        <item quantity="one">%1$d felhasználó találta hasznosnak ezt az véleményt. „Hasznos megjegyzés” jelölés visszavonása</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006c">
+        <item quantity="other">%1$s személy hasznosnak találta ezt</item>
+        <item quantity="one">%1$s személy hasznosnak találta ezt</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006f">
+        <item quantity="other">%1$d másodperc</item>
+        <item quantity="one">%1$d másodperc</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120070">
+        <item quantity="other">%1$d másodperc van hátra</item>
+        <item quantity="one">1 másodperc van hátra</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120071">
+        <item quantity="other">%1$d kiválasztva • %2$s</item>
+        <item quantity="one">%1$d kiválasztva • %2$s</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120072">
+        <item quantity="other">%1$d alkalmazás küldése a következő eszközre: %2$s…</item>
+        <item quantity="one">%1$d alkalmazás küldése a következő eszközre: %2$s…</item>
+    </plurals>
+    <plurals name="setup_completed_installed">
+        <item quantity="other">%1$d alkalmazás telepítve</item>
+        <item quantity="one">%1$d alkalmazás telepítve</item>
+    </plurals>
+    <plurals name="setup_completed_installed_with_failures">
+        <item quantity="other">%2$d/%1$d alkalmazás telepítése sikertelen</item>
+        <item quantity="one">%2$d/%1$d alkalmazás telepítése sikertelen</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120075">
+        <item quantity="other">Utolsó használat %1$d nappal ezelőtt</item>
+        <item quantity="one">Utolsó használat %1$d nappal ezelőtt</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120076">
+        <item quantity="other">A(z) %1$d kiválasztott alkalmazás visszaállítása</item>
+        <item quantity="one">A kiválasztott alkalmazás visszaállítása</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120078">
+        <item quantity="other">Letöltesz %1$d új nyelvet?</item>
+        <item quantity="one">Letöltöd az új nyelvet?</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007b">
+        <item quantity="other">A művelettel a felmérés %1$d válaszát véglegesen eltávolítod a fiókodból.</item>
+        <item quantity="one">A művelettel a felmérés %1$d válaszát véglegesen eltávolítod a fiókodból.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007c">
+        <item quantity="other">%1$d kijelölve</item>
+        <item quantity="one">%1$d kijelölve</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007d">
+        <item quantity="other">Play-pontok megjelenítése. %1$d pont áll rendelkezésre.</item>
+        <item quantity="one">Play-pontok megjelenítése. %1$d pont áll rendelkezésre.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007e">
+        <item quantity="other">%1$d Play-pont áll rendelkezésre.</item>
+        <item quantity="one">%1$d Play-pont áll rendelkezésre.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120080">
+        <item quantity="other">%1$s pont</item>
+        <item quantity="one">1 pont</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120081">
+        <item quantity="other">%1$d alkalmazás átvitele ide: %2$s…</item>
+        <item quantity="one">%1$d alkalmazás átvitele ide: %2$s…</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120082">
+        <item quantity="other">%1$d alkalmazás el lesz távolítva az eszközödről.</item>
+        <item quantity="one">%1$d alkalmazás el lesz távolítva az eszközödről.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120083">
+        <item quantity="other">Eltávolítod a kijelölt alkalmazásokat?</item>
+        <item quantity="one">Eltávolítod a kijelölt alkalmazást?</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120084">
+        <item quantity="other">Eltávolítod a kijelölt alkalmazások frissítéseit?</item>
+        <item quantity="one">Eltávolítod a kijelölt alkalmazás frissítéseit?</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120085">
+        <item quantity="other">%1$s alkalmazást eltávolítottunk, hogy elég helyet szabadítsunk fel a(z) %2$s számára.</item>
+        <item quantity="one">%1$s alkalmazást eltávolítottunk, hogy elég helyet szabadítsunk fel a(z) %2$s számára.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120086">
+        <item quantity="other">Az alkalmazások hamarosan települnek.</item>
+        <item quantity="one">Az alkalmazás hamarosan települ.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120087">
+        <item quantity="other">Az alkalmazásfrissítések hamarosan települnek.</item>
+        <item quantity="one">Az alkalmazásfrissítés hamarosan települ.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008a">
+        <item quantity="other">Utolsó használat %1$d nappal ezelőtt</item>
+        <item quantity="one">Utolsó használat %1$d nappal ezelőtt</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008b">
+        <item quantity="other">Utolsó használat %1$d hónappal ezelőtt</item>
+        <item quantity="one">Utolsó használat %1$d hónappal ezelőtt</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008c">
+        <item quantity="other">Ha telepíteni vagy frissíteni szeretnél alkalmazásokat ezen az eszközön, távolíts el nem használt alkalmazásokat. Tárhely felszabadításához médiafájlokat is törölhetsz a Tárolóhely beállításaiban.</item>
+        <item quantity="one">Ha telepíteni vagy frissíteni szeretnél egy alkalmazást az eszközön, távolíts el már nem használt alkalmazásokat. Tárhely felszabadításához médiafájlokat is törölhetsz a Tárolóhely beállításaiban.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008d">
+        <item quantity="other">Ha telepíteni vagy frissíteni szeretnél alkalmazásokat ezen az eszközön, távolíts el nem használt alkalmazásokat. Tárhely felszabadításához médiafájlokat is törölhetsz a &lt;a href=\"\">Beállítások > Tárhely&lt;/a> menüben.</item>
+        <item quantity="one">Ha telepíteni vagy frissíteni szeretnél egy alkalmazást az eszközön, távolíts el már nem használt alkalmazásokat. Tárhely felszabadításához médiafájlokat is törölhetsz a &lt;a href=\"\">Beállítások > Tárhely&lt;/a> menüben.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008e">
+        <item quantity="other">Ha telepíteni vagy frissíteni szeretnél alkalmazásokat ezen az eszközön, távolíts el nem használt alkalmazásokat. Tárhely felszabadításához médiafájlokat is törölhetsz a Beállítások > Tárhely menüben.</item>
+        <item quantity="one">Ha telepíteni vagy frissíteni szeretnél egy alkalmazást az eszközön, távolíts el már nem használt alkalmazásokat. Tárhely felszabadításához médiafájlokat is törölhetsz a Beállítások > Tárhely menüben.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008f">
+        <item quantity="other">%1$d alkalmazás eltávolítva</item>
+        <item quantity="one">%1$d alkalmazás eltávolítva</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120090">
+        <item quantity="other">%1$d olyan alkalmazást találtunk, amelyet egy ideje nem használtál. Eltávolításukkal %2$d MB tárhelyet szabadíthatsz fel</item>
+        <item quantity="one">%1$d olyan alkalmazást találtunk, amelyet egy ideje nem használtál. Eltávolításával %2$d MB tárhelyet szabadíthatsz fel</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120091">
+        <item quantity="other">%1$d órán belül kezdődik</item>
+        <item quantity="one">%1$d órán belül kezdődik</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120092">
+        <item quantity="other">%1$d napon belül kezdődik</item>
+        <item quantity="one">%1$d napon belül kezdődik</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120093">
+        <item quantity="other">%1$d órán belül rendelkezésre áll</item>
+        <item quantity="one">%1$d órán belül rendelkezésre áll</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120094">
+        <item quantity="other">%1$d napon belül rendelkezésre áll</item>
+        <item quantity="one">%1$d napon belül rendelkezésre áll</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120095">
+        <item quantity="other">Az eszközre több mint %1$d hónapja nem érkezett rendszerfrissítés</item>
+        <item quantity="one">Az eszközre több mint %1$d hónapja nem érkezett rendszerfrissítés</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120096">
+        <item quantity="other">Munkahelyi alkalmazások eltávolítva</item>
+        <item quantity="one">Munkahelyi alkalmazás eltávolítva</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120097">
+        <item quantity="other">%1$d éve</item>
+        <item quantity="one">%1$d éve</item>
+    </plurals>
+</resources>

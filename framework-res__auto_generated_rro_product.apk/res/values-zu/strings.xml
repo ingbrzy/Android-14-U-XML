@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_error_bad_calibration">Ayikwazi ukusebenzisa inzwa yesigxivizo somunwe. Vakashela umhlinzeki wokulungisa noma ku-g.co/pixel/fingerprintunlock</string>
+    <string name="fingerprint_recalibrate_notification_content">Vakashela umhlinzeki wokulungisa noma ku-g.co/pixel/fingerprintunlock</string>
+    <string name="battery_saver_description_with_learn_more">"Ukuze unwebe impilo yebhethri, Isilondolozi Sebhethri:
+
+•Sivula itimu emnyama
+• Sivala noma sibeka umkhawulo emsebenzini wangemuva, kweminye imithelela yokubuka, nakwezinye izici ezifana ne-“Ok Google”
+• Silungiselela uxhumo lenethiwekhi yakho
+
+"<annotation id="url">Funda kabanzi</annotation></string>
+</resources>

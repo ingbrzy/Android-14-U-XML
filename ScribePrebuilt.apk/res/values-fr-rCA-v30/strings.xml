@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dolphin_html_description">"La fonctionnalité Notifications de détection de sons vous aide à savoir ce qui se passe dans votre domicile.&lt;br>&lt;br>Lorsque les notifications de détection de sons sont activées, votre appareil surveille constamment les sons pour lesquels vous voulez être alerté, comme un avertisseur de fumée ou les pleurs d'un bébé.&lt;br>&lt;br>Le contenu audio et les conversations en arrière-plan ne sont pas envoyés à Google, sauf si vous choisissez d'envoyer des commentaires sur la qualité des sons."</string>
+    <string name="live_transcribe_html_description">"Transcription instantanée affiche la parole à l'écran pour que vous puissiez participer aux conversations plus facilement.
+
+Tapez des réponses à l'écran pendant que vous lisez la transcription, recevez des alertes lorsque quelqu'un dit votre nom et faites des recherches dans les transcriptions.&lt;br>&lt;br>Google traite vos conversations, mais ne les stocke pas."</string>
+</resources>

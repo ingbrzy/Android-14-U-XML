@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="account_exists_text_multiple">
+        <item quantity="other">"Následující účty jsou připraveny:
+
+"&lt;annotation textAppearance="TextAppearance.SudDescription.Medium">^1&lt;/annotation></item>
+        <item quantity="one">"Následující účet je připraven:
+
+"&lt;annotation textAppearance="TextAppearance.SudDescription.Medium">^1&lt;/annotation></item>
+        <item quantity="few">"Následující účty jsou připraveny:
+
+"&lt;annotation textAppearance="TextAppearance.SudDescription.Medium">^1&lt;/annotation></item>
+        <item quantity="many">"Následující účty jsou připraveny:
+
+"&lt;annotation textAppearance="TextAppearance.SudDescription.Medium">^1&lt;/annotation></item>
+    </plurals>
+    <plurals name="people_contacts_sync_failure_in_contacts_title_in_portal">
+        <item quantity="other">%1$,d z %2$,d kontaktů nebylo možné synchronizovat</item>
+        <item quantity="one">%1$,d z %2$,d kontaktu nebylo možné synchronizovat</item>
+        <item quantity="few">%1$,d ze %2$,d kontaktů nebylo možné synchronizovat</item>
+        <item quantity="many">%1$,d z %2$,d kontaktu nebylo možné synchronizovat</item>
+    </plurals>
+    <plurals name="people_contacts_sync_failure_in_photos_title_in_portal">
+        <item quantity="other">%1$,d z %2$,d fotek kontaktů nebylo možné synchronizovat</item>
+        <item quantity="one">%1$,d z %2$,d fotky kontaktu nebylo možné synchronizovat</item>
+        <item quantity="few">%1$,d ze %2$,d fotek kontaktů nebylo možné synchronizovat</item>
+        <item quantity="many">%1$,d z %2$,d fotky kontaktu nebylo možné synchronizovat</item>
+    </plurals>
+    <plurals name="people_contacts_sync_succeed_title_in_portal">
+        <item quantity="other">%,d kontaktů bylo synchronizováno s Kontakty Google</item>
+        <item quantity="one">%,d kontakt byl synchronizován s Kontakty Google</item>
+        <item quantity="few">%,d kontakty byly synchronizovány s Kontakty Google</item>
+        <item quantity="many">%,d kontaktu bylo synchronizováno s Kontakty Google</item>
+    </plurals>
+    <plurals name="qr_provision_toast">
+        <item quantity="other">K zahájení nastavení pomocí QR kódu zbývá %d klepnutí</item>
+        <item quantity="one">K zahájení nastavení pomocí QR kódu zbývá %d klepnutí</item>
+        <item quantity="few">K zahájení nastavení pomocí QR kódu zbývají %d klepnutí</item>
+        <item quantity="many">K zahájení nastavení pomocí QR kódu zbývá %d klepnutí</item>
+    </plurals>
+    <plurals name="slots_selection_text">
+        <item quantity="other">Do zařízení bylo přidáno %d čísel, ale v jednu chvíli lze použít jen jedno.</item>
+        <item quantity="one">Do zařízení bylo přidáno %d číslo, ale v jednu chvíli lze použít jen jedno.</item>
+        <item quantity="few">Do zařízení byla přidána %d čísla, ale v jednu chvíli lze použít jen jedno.</item>
+        <item quantity="many">Do zařízení bylo přidáno %d čísla, ale v jednu chvíli lze použít jen jedno.</item>
+    </plurals>
+    <plurals name="survey_star_rating">
+        <item quantity="other">%1$d hvězdiček z %2$d</item>
+        <item quantity="one">%1$d hvězdička z %2$d</item>
+        <item quantity="few">%1$d hvězdičky z %2$d</item>
+        <item quantity="many">%1$d hvězdičky z %2$d</item>
+    </plurals>
+</resources>

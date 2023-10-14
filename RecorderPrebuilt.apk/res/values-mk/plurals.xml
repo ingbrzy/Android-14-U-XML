@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dlg_message_deletion_confirmation">
+        <item quantity="other">Снимките трајно ќе се избришат. Дејствово не може да се врати.</item>
+        <item quantity="one">Снимките трајно ќе се избришат. Дејствово не може да се врати.</item>
+    </plurals>
+    <plurals name="dlg_message_deletion_permanent_confirmation">
+        <item quantity="other">Нема бекап за снимките. Трајно ќе се избришат. Ова дејство не може да се врати.</item>
+        <item quantity="one">Нема бекап за снимките. Трајно ќе се избришат. Ова дејство не може да се врати.</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_confirmation">
+        <item quantity="other">Да се избришат снимките?</item>
+        <item quantity="one">Да се избришат снимките?</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_permanent_confirmation">
+        <item quantity="other">Да се избришат снимкиве трајно?</item>
+        <item quantity="one">Да се избришат снимкиве трајно?</item>
+    </plurals>
+    <plurals name="download_failure_description_storage_full">
+        <item quantity="other">Не може да се преземат снимките бидејќи капацитетот на уредот е полн. Допрете за да прегледате.</item>
+        <item quantity="one">Не може да се преземат снимките бидејќи капацитетот на уредот е полн. Допрете за да прегледате.</item>
+    </plurals>
+    <plurals name="downloading_description">
+        <item quantity="other">Се преземаат %1$d снимки</item>
+        <item quantity="one">Се презема %1$d снимка</item>
+    </plurals>
+    <plurals name="og_backup_failed_title">
+        <item quantity="other">Неуспешен бекап на %1$d ставки</item>
+        <item quantity="one">Неуспешен бекап на %1$d ставка</item>
+    </plurals>
+    <plurals name="og_backup_items_left">
+        <item quantity="other">Уште %1$d ставки</item>
+        <item quantity="one">Уште %1$d ставка</item>
+    </plurals>
+    <plurals name="og_backup_items_stopped_title">
+        <item quantity="other">Нема бекап за %1$d ставки</item>
+        <item quantity="one">Нема бекап за %1$d ставка</item>
+    </plurals>
+    <plurals name="peoplekit_chips_copied_recipients">
+        <item quantity="other">Копирани се %d примачи</item>
+        <item quantity="one">Копиран е %d примач</item>
+    </plurals>
+    <plurals name="search_results_count">
+        <item quantity="other">%1$d резултати</item>
+        <item quantity="one">%1$d резултат</item>
+    </plurals>
+    <plurals name="search_results_position">
+        <item quantity="other">^1/^2 резултати</item>
+        <item quantity="one">^1/^2 резултат</item>
+    </plurals>
+    <plurals name="search_results_position_content_description">
+        <item quantity="other">%1$d од %2$d резултати</item>
+        <item quantity="one">%1$d од %2$d резултат</item>
+    </plurals>
+    <plurals name="selected_recording_quantity">
+        <item quantity="other">Избрани: %1$d</item>
+        <item quantity="one">Избрани: %1$d</item>
+    </plurals>
+    <plurals name="snackbar_message_download_failed_storage_full">
+        <item quantity="other">Капацитетот на уредот е полн. Не може да се преземат снимките.</item>
+        <item quantity="one">Капацитетот на уредот е полн. Не може да се преземат снимките.</item>
+    </plurals>
+    <plurals name="speaker_count">
+        <item quantity="other">%1$d звучници</item>
+        <item quantity="one">%1$d звучник</item>
+    </plurals>
+    <plurals name="uploading_description">
+        <item quantity="other">Се прикачуваат %1$d снимки</item>
+        <item quantity="one">Се прикачува %1$d снимка</item>
+    </plurals>
+</resources>

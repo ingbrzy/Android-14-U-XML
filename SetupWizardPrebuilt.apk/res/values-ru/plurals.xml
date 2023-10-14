@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="account_exists_text_multiple">
+        <item quantity="other">"Добавлены аккаунты:
+
+"&lt;annotation textAppearance="TextAppearance.SudDescription.Medium">^1&lt;/annotation></item>
+        <item quantity="one">"Добавлены аккаунты:
+
+"&lt;annotation textAppearance="TextAppearance.SudDescription.Medium">^1&lt;/annotation></item>
+        <item quantity="few">"Добавлены аккаунты:
+
+"&lt;annotation textAppearance="TextAppearance.SudDescription.Medium">^1&lt;/annotation></item>
+        <item quantity="many">"Добавлены аккаунты:
+
+"&lt;annotation textAppearance="TextAppearance.SudDescription.Medium">^1&lt;/annotation></item>
+    </plurals>
+    <plurals name="people_contacts_sync_failure_in_contacts_title_in_portal">
+        <item quantity="other">Не удалось синхронизировать %1$,d из %2$,d контакта</item>
+        <item quantity="one">Не удалось синхронизировать %1$,d из %2$,d контакта</item>
+        <item quantity="few">Не удалось синхронизировать %1$,d из %2$,d контактов</item>
+        <item quantity="many">Не удалось синхронизировать %1$,d из %2$,d контактов</item>
+    </plurals>
+    <plurals name="people_contacts_sync_failure_in_photos_title_in_portal">
+        <item quantity="other">Не удалось синхронизировать %1$,d из %2$,d фотографии контактов</item>
+        <item quantity="one">Не удалось синхронизировать %1$,d из %2$,d фотографии контактов</item>
+        <item quantity="few">Не удалось синхронизировать %1$,d из %2$,d фотографий контактов</item>
+        <item quantity="many">Не удалось синхронизировать %1$,d из %2$,d фотографий контактов</item>
+    </plurals>
+    <plurals name="people_contacts_sync_succeed_title_in_portal">
+        <item quantity="other">%,d контакта синхронизировано с Google Контактами</item>
+        <item quantity="one">%,d контакт синхронизирован с Google Контактами</item>
+        <item quantity="few">%,d контакта синхронизировано с Google Контактами</item>
+        <item quantity="many">%,d контактов синхронизировано с Google Контактами</item>
+    </plurals>
+    <plurals name="qr_provision_toast">
+        <item quantity="other">Ещё %d шага – и вы сможете приступить к настройке QR-кода</item>
+        <item quantity="one">Ещё %d шаг – и вы сможете приступить к настройке QR-кода</item>
+        <item quantity="few">Ещё %d шага – и вы сможете приступить к настройке QR-кода</item>
+        <item quantity="many">Ещё %d шагов – и вы сможете приступить к настройке QR-кода</item>
+    </plurals>
+    <plurals name="slots_selection_text">
+        <item quantity="other">На это устройство было добавлено %d номера, но использовать их можно только по одному.</item>
+        <item quantity="one">На это устройство был добавлен %d номер, но использовать их можно только по одному.</item>
+        <item quantity="few">На это устройство было добавлено %d номера, но использовать их можно только по одному.</item>
+        <item quantity="many">На это устройство было добавлено %d номеров, но использовать их можно только по одному.</item>
+    </plurals>
+    <plurals name="survey_star_rating">
+        <item quantity="other">%1$d звезды из %2$d</item>
+        <item quantity="one">%1$d звезда из %2$d</item>
+        <item quantity="few">%1$d звезды из %2$d</item>
+        <item quantity="many">%1$d звезд из %2$d</item>
+    </plurals>
+</resources>

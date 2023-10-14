@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sim_locked_notification_custom_content_array">
+        <item>Ili utumie SIM kadi hii, fungua simu yako ukitumia programu ya Kufungua Kifaa.</item>
+        <item>Tafadhali wasiliana na mtoa huduma za simu</item>
+    </string-array>
+</resources>

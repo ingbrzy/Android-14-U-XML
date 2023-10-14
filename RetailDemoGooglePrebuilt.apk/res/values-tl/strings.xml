@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_retaildemoCommunication">Pinapahintulutan ang app na makipag-ugnayan sa Retail Demo Services. Ang Retail Demo lang ang dapat bigyan ng ganitong pahintulot. Puwedeng mag-trigger ng mga pagkilos na nakareserba para sa Retail Demo Mode ang mga app na binigyan ng pahintulot na ito.</string>
+    <string name="permlab_retaildemoCommunication">Komunikasyon sa Retail Demo</string>
+    <string name="retaildemo_preload_app_name">Retail Demo Services</string>
+</resources>

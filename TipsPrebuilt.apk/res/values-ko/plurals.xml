@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="setup_info_module_tip_count_text">
+        <item quantity="other">도움말 %1$d개</item>
+        <item quantity="one">도움말 %1$d개</item>
+    </plurals>
+    <plurals name="tip_count_text">
+        <item quantity="other">팁 %1$d/%2$d개 확인함</item>
+        <item quantity="one">팁 %1$d/%2$d개 확인함</item>
+    </plurals>
+</resources>

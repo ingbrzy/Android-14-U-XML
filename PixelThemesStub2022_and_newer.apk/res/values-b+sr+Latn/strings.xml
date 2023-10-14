@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bundle1_color_name">Ugalj</string>
+    <string name="bundle2_color_name">Papir</string>
+    <string name="bundle3_color_name">Sunce</string>
+    <string name="color_name_monochromatic">Monohromatsko</string>
+    <string name="default_color_name">Klasična</string>
+    <string name="fruit1_color_name">Žuto-crvena paleta od dve boje</string>
+    <string name="fruit2_color_name">Zeleno-narandžasta paleta od dve boje</string>
+    <string name="fruit3_color_name">Plavo-zelena paleta od dve boje</string>
+    <string name="fruit4_color_name">Svetlolila-plava paleta od dve boje</string>
+    <string name="fruit5_color_name">Roze-tamnoplava paleta od dve boje</string>
+    <string name="rainbow1_color_name">Crvena</string>
+    <string name="rainbow2_color_name">Narandžasta</string>
+    <string name="rainbow3_color_name">Žuta</string>
+    <string name="rainbow4_color_name">Zelena</string>
+    <string name="rainbow5_color_name">Plava</string>
+    <string name="rainbow6_color_name">Tamnoplava</string>
+    <string name="rainbow7_color_name">Ljubičasta</string>
+</resources>

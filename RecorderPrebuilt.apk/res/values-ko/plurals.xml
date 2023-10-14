@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dlg_message_deletion_confirmation">
+        <item quantity="other">녹음 파일이 완전히 삭제됩니다. 이 작업은 되돌릴 수 없습니다.</item>
+        <item quantity="one">녹음 파일이 완전히 삭제됩니다. 이 작업은 되돌릴 수 없습니다.</item>
+    </plurals>
+    <plurals name="dlg_message_deletion_permanent_confirmation">
+        <item quantity="other">녹음 파일이 백업되지 않아 완전히 삭제됩니다. 이 작업은 실행취소할 수 없습니다.</item>
+        <item quantity="one">녹음 파일이 백업되지 않아 완전히 삭제됩니다. 이 작업은 실행취소할 수 없습니다.</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_confirmation">
+        <item quantity="other">녹음 파일을 삭제하시겠습니까?</item>
+        <item quantity="one">녹음 파일을 삭제하시겠습니까?</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_permanent_confirmation">
+        <item quantity="other">이 녹음 파일을 완전히 삭제하시겠습니까?</item>
+        <item quantity="one">이 녹음 파일을 완전히 삭제하시겠습니까?</item>
+    </plurals>
+    <plurals name="download_failure_description_storage_full">
+        <item quantity="other">기기 저장용량이 가득 차서 녹음 파일을 다운로드할 수 없습니다. 검토하려면 탭하세요.</item>
+        <item quantity="one">기기 저장용량이 가득 찼습니다. 검토하려면 탭하세요.</item>
+    </plurals>
+    <plurals name="downloading_description">
+        <item quantity="other">녹화/녹음 파일 %1$d개 다운로드 중</item>
+        <item quantity="one">녹화/녹음 파일 %1$d개 다운로드 중</item>
+    </plurals>
+    <plurals name="og_backup_failed_title">
+        <item quantity="other">항목 %1$d개 백업 실패</item>
+        <item quantity="one">항목 %1$d개 백업 실패</item>
+    </plurals>
+    <plurals name="og_backup_items_left">
+        <item quantity="other">남은 항목 %1$d개</item>
+        <item quantity="one">남은 항목 %1$d개</item>
+    </plurals>
+    <plurals name="og_backup_items_stopped_title">
+        <item quantity="other">항목 %1$d개가 백업되지 않음</item>
+        <item quantity="one">항목 %1$d개가 백업되지 않음</item>
+    </plurals>
+    <plurals name="peoplekit_chips_copied_recipients">
+        <item quantity="other">수신자 %d명 복사됨</item>
+        <item quantity="one">수신자 %d명 복사됨</item>
+    </plurals>
+    <plurals name="search_results_count">
+        <item quantity="other">검색결과 %1$d개</item>
+        <item quantity="one">검색결과 %1$d개</item>
+    </plurals>
+    <plurals name="search_results_position">
+        <item quantity="other">검색결과 ^2개 중 ^1개</item>
+        <item quantity="one">검색결과 ^2개 중 ^1개</item>
+    </plurals>
+    <plurals name="search_results_position_content_description">
+        <item quantity="other">검색결과 %2$d개 중 %1$d개</item>
+        <item quantity="one">검색결과 %2$d개 중 %1$d개</item>
+    </plurals>
+    <plurals name="selected_recording_quantity">
+        <item quantity="other">%1$d개 선택함</item>
+        <item quantity="one">%1$d개 선택함</item>
+    </plurals>
+    <plurals name="snackbar_message_download_failed_storage_full">
+        <item quantity="other">기기 저장용량이 가득 찼습니다. 녹음 파일을 다운로드할 수 없습니다.</item>
+        <item quantity="one">기기 저장용량이 가득 찼습니다. 녹음 파일을 다운로드할 수 없습니다.</item>
+    </plurals>
+    <plurals name="speaker_count">
+        <item quantity="other">스피커 %1$d개</item>
+        <item quantity="one">스피커 %1$d개</item>
+    </plurals>
+    <plurals name="uploading_description">
+        <item quantity="other">녹화 파일 %1$d개 업로드 중</item>
+        <item quantity="one">녹화 파일 %1$d개 업로드 중</item>
+    </plurals>
+</resources>

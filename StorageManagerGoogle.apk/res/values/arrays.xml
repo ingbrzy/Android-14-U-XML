@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="avatar_image_descriptions" />
+    <array name="avatar_images" />
+    <array name="background_style1">
+        <item>@drawable/rounded_ripple</item>
+    </array>
+    <array name="background_style2">
+        <item>@drawable/left_rounded_ripple</item>
+        <item>@drawable/right_rounded_ripple</item>
+    </array>
+    <array name="background_style3">
+        <item>@drawable/left_rounded_ripple</item>
+        <item>@drawable/square_ripple</item>
+        <item>@drawable/right_rounded_ripple</item>
+    </array>
+    <array name="background_style4">
+        <item>@drawable/left_rounded_ripple</item>
+        <item>@drawable/square_ripple</item>
+        <item>@drawable/square_ripple</item>
+        <item>@drawable/right_rounded_ripple</item>
+    </array>
+    <string-array name="select_logpersist_summaries">
+        <item>Off</item>
+        <item>All log buffers</item>
+        <item>All but radio log buffers</item>
+        <item>kernel log buffer only</item>
+    </string-array>
+    <string-array name="select_logpersist_values">
+        <item></item>
+        <item>all</item>
+        <item>default,security,kernel</item>
+        <item>kernel</item>
+    </string-array>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="track_counts">
+        <item quantity="other">Milio %1$d</item>
+        <item quantity="one">Mlio %1$d</item>
+    </plurals>
+</resources>

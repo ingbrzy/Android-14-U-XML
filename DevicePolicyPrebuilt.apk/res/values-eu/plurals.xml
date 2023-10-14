@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_install_failed_multi_app_desc">
+        <item quantity="other">Ezin da osatu konfigurazioa, beharrezkoak diren %1$d aplikazio ezin izan direlako instalatu. Jarri sistemaren administratzailearekin harremanetan zuzenean.</item>
+        <item quantity="one">Ezin da osatu konfigurazioa, beharrezkoa den %1$d aplikazio ezin izan delako instalatu. Jarri sistemaren administratzailearekin harremanetan zuzenean.</item>
+    </plurals>
+    <plurals name="app_install_failure_title">
+        <item quantity="other">Ezin dira instalatu aplikazioak</item>
+        <item quantity="one">Ezin da instalatu aplikazioa</item>
+    </plurals>
+    <plurals name="app_install_progress_desc">
+        <item quantity="other">%1$d/%2$d aplikazio instalatu dira</item>
+        <item quantity="one">%1$d/%2$d aplikazio instalatu da</item>
+    </plurals>
+    <plurals name="app_uninstall_button">
+        <item quantity="other">Desinstalatu aplikazioak</item>
+        <item quantity="one">Desinstalatu aplikazioa</item>
+    </plurals>
+    <plurals name="days_left_message">
+        <item quantity="other">&lt;annotation id="numeric_time_left">^1&lt;/annotation> egun geratzen dira</item>
+        <item quantity="one">&lt;annotation id="numeric_time_left">^1&lt;/annotation> egun geratzen da</item>
+    </plurals>
+    <plurals name="hours_left_message">
+        <item quantity="other">&lt;annotation id="numeric_time_left">^1&lt;/annotation> ordu geratzen dira</item>
+        <item quantity="one">&lt;annotation id="numeric_time_left">^1&lt;/annotation> ordu geratzen da</item>
+    </plurals>
+    <plurals name="number_of_additional_apps">
+        <item quantity="other">%1$d aplikazio gehigarri</item>
+        <item quantity="one">%1$d aplikazio gehigarri</item>
+    </plurals>
+    <plurals name="number_of_required_apps">
+        <item quantity="other">Beharrezko %1$d aplikazio</item>
+        <item quantity="one">Beharrezko %1$d aplikazio</item>
+    </plurals>
+    <plurals name="policy_apps_list_summary">
+        <item quantity="other">Ezin dira desinstalatu laneko %d aplikazio</item>
+        <item quantity="one">Ezin da desinstalatu laneko %d aplikazio</item>
+    </plurals>
+    <plurals name="preinstalled_apps">
+        <item quantity="other">%1$d/%2$d aplikazio instalatu dira</item>
+        <item quantity="one">%1$d/%2$d aplikazio instalatu da</item>
+    </plurals>
+    <plurals name="readable_name_applications">
+        <item quantity="other">%1$d aplikazio erabilgarri (%2$d instalatuta, %3$d desgaituta)</item>
+        <item quantity="one">%1$d aplikazio erabilgarri (%2$d instalatuta, %3$d desgaituta)</item>
+    </plurals>
+</resources>

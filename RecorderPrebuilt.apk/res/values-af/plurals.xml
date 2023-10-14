@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dlg_message_deletion_confirmation">
+        <item quantity="other">Jou opnames sal permanent uitgevee word. Hierdie handeling kan nie ontdoen word nie.</item>
+        <item quantity="one">Jou opname sal permanent uitgevee word. Hierdie handeling kan nie ontdoen word nie.</item>
+    </plurals>
+    <plurals name="dlg_message_deletion_permanent_confirmation">
+        <item quantity="other">Opnames is nie gerugsteun nie. Dit sal permanent uitgevee word. Jy kan nie hierdie handeling ontdoen nie.</item>
+        <item quantity="one">Opname is nie gerugsteun nie. Dit sal permanent uitgevee word. Jy kan nie hierdie handeling ontdoen nie.</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_confirmation">
+        <item quantity="other">Vee opnames uit?</item>
+        <item quantity="one">Vee opname uit?</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_permanent_confirmation">
+        <item quantity="other">Vee hierdie opnames permanent uit?</item>
+        <item quantity="one">Vee hierdie opname permanent uit?</item>
+    </plurals>
+    <plurals name="download_failure_description_storage_full">
+        <item quantity="other">Kan nie opnames aflaai nie omdat toestelberging vol is. Tik om te na te gaan.</item>
+        <item quantity="one">Toestelberging is vol. Tik om te na te gaan.</item>
+    </plurals>
+    <plurals name="downloading_description">
+        <item quantity="other">Laai tans %1$d opnames af</item>
+        <item quantity="one">Laai tans %1$d opname af</item>
+    </plurals>
+    <plurals name="og_backup_failed_title">
+        <item quantity="other">%1$d items kon nie gerugsteun word nie</item>
+        <item quantity="one">%1$d item kon nie gerugsteun word nie</item>
+    </plurals>
+    <plurals name="og_backup_items_left">
+        <item quantity="other">%1$d items oor</item>
+        <item quantity="one">%1$d item oor</item>
+    </plurals>
+    <plurals name="og_backup_items_stopped_title">
+        <item quantity="other">%1$d items is nie gerugsteun nie</item>
+        <item quantity="one">%1$d item is nie gerugsteun nie</item>
+    </plurals>
+    <plurals name="peoplekit_chips_copied_recipients">
+        <item quantity="other">Het %d ontvangers gekopieer</item>
+        <item quantity="one">Het %d ontvanger gekopieer</item>
+    </plurals>
+    <plurals name="search_results_count">
+        <item quantity="other">%1$d resultate</item>
+        <item quantity="one">%1$d resultaat</item>
+    </plurals>
+    <plurals name="search_results_position">
+        <item quantity="other">^1/^2 resultate</item>
+        <item quantity="one">^1/^2 resultaat</item>
+    </plurals>
+    <plurals name="search_results_position_content_description">
+        <item quantity="other">%1$d van %2$d resultate</item>
+        <item quantity="one">%1$d van %2$d resultaat</item>
+    </plurals>
+    <plurals name="selected_recording_quantity">
+        <item quantity="other">%1$d gekies</item>
+        <item quantity="one">%1$d gekies</item>
+    </plurals>
+    <plurals name="snackbar_message_download_failed_storage_full">
+        <item quantity="other">Toestelberging is vol. Kan nie opnames aflaai nie</item>
+        <item quantity="one">Toestelberging is vol. Kan nie opname aflaai nie.</item>
+    </plurals>
+    <plurals name="speaker_count">
+        <item quantity="other">%1$d luidsprekers</item>
+        <item quantity="one">%1$d luidspreker</item>
+    </plurals>
+    <plurals name="uploading_description">
+        <item quantity="other">Laai tans %1$d opnames op</item>
+        <item quantity="one">Laai tans %1$d opname op</item>
+    </plurals>
+</resources>

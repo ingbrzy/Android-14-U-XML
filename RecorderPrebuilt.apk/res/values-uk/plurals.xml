@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dlg_message_deletion_confirmation">
+        <item quantity="other">Ваші записи буде видалено назавжди. Цю дію не можна відмінити.</item>
+        <item quantity="one">Ваші записи буде видалено назавжди. Цю дію не можна відмінити.</item>
+        <item quantity="few">Ваші записи буде видалено назавжди. Цю дію не можна відмінити.</item>
+        <item quantity="many">Ваші записи буде видалено назавжди. Цю дію не можна відмінити.</item>
+    </plurals>
+    <plurals name="dlg_message_deletion_permanent_confirmation">
+        <item quantity="other">Резервні копії записів не створено. Їх буде видалено назавжди. Цю дію неможливо відмінити.</item>
+        <item quantity="one">Резервні копії записів не створено. Їх буде видалено назавжди. Цю дію неможливо відмінити.</item>
+        <item quantity="few">Резервні копії записів не створено. Їх буде видалено назавжди. Цю дію неможливо відмінити.</item>
+        <item quantity="many">Резервні копії записів не створено. Їх буде видалено назавжди. Цю дію неможливо відмінити.</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_confirmation">
+        <item quantity="other">Видалити записи?</item>
+        <item quantity="one">Видалити записи?</item>
+        <item quantity="few">Видалити записи?</item>
+        <item quantity="many">Видалити записи?</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_permanent_confirmation">
+        <item quantity="other">Видалити ці записи назавжди?</item>
+        <item quantity="one">Видалити ці записи назавжди?</item>
+        <item quantity="few">Видалити ці записи назавжди?</item>
+        <item quantity="many">Видалити ці записи назавжди?</item>
+    </plurals>
+    <plurals name="download_failure_description_storage_full">
+        <item quantity="other">Записи не вдалося завантажити, оскільки пам’ять пристрою заповнена. Натисніть, щоб переглянути.</item>
+        <item quantity="one">Записи не вдалося завантажити, оскільки пам’ять пристрою заповнена. Натисніть, щоб переглянути.</item>
+        <item quantity="few">Записи не вдалося завантажити, оскільки пам’ять пристрою заповнена. Натисніть, щоб переглянути.</item>
+        <item quantity="many">Записи не вдалося завантажити, оскільки пам’ять пристрою заповнена. Натисніть, щоб переглянути.</item>
+    </plurals>
+    <plurals name="downloading_description">
+        <item quantity="other">Завантаження %1$d запису</item>
+        <item quantity="one">Завантаження %1$d запису</item>
+        <item quantity="few">Завантаження %1$d записів</item>
+        <item quantity="many">Завантаження %1$d записів</item>
+    </plurals>
+    <plurals name="og_backup_failed_title">
+        <item quantity="other">Не вдалося створити резервну копію %1$d файлу</item>
+        <item quantity="one">Не вдалося створити резервну копію %1$d файлу</item>
+        <item quantity="few">Не вдалося створити резервну копію %1$d файлів</item>
+        <item quantity="many">Не вдалося створити резервну копію %1$d файлів</item>
+    </plurals>
+    <plurals name="og_backup_items_left">
+        <item quantity="other">Залишилося %1$d файлу</item>
+        <item quantity="one">Залишився %1$d файл</item>
+        <item quantity="few">Залишилися %1$d файли</item>
+        <item quantity="many">Залишилося %1$d файлів</item>
+    </plurals>
+    <plurals name="og_backup_items_stopped_title">
+        <item quantity="other">Не вдалося створити резервну копію %1$d файлу</item>
+        <item quantity="one">Не вдалося створити резервну копію %1$d файлу</item>
+        <item quantity="few">Не вдалося створити резервну копію %1$d файлів</item>
+        <item quantity="many">Не вдалося створити резервну копію %1$d файлів</item>
+    </plurals>
+    <plurals name="peoplekit_chips_copied_recipients">
+        <item quantity="other">Скопійовано дані %d одержувача</item>
+        <item quantity="one">Скопійовано дані %d одержувача</item>
+        <item quantity="few">Скопійовано дані %d одержувачів</item>
+        <item quantity="many">Скопійовано дані %d одержувачів</item>
+    </plurals>
+    <plurals name="search_results_count">
+        <item quantity="other">%1$d результату</item>
+        <item quantity="one">%1$d результат</item>
+        <item quantity="few">%1$d результати</item>
+        <item quantity="many">%1$d результатів</item>
+    </plurals>
+    <plurals name="search_results_position">
+        <item quantity="other">Результатів: ^1/^2</item>
+        <item quantity="one">Результатів: ^1/^2</item>
+        <item quantity="few">Результатів: ^1/^2</item>
+        <item quantity="many">Результатів: ^1/^2</item>
+    </plurals>
+    <plurals name="search_results_position_content_description">
+        <item quantity="other">%1$d з %2$d результату</item>
+        <item quantity="one">%1$d з %2$d результату</item>
+        <item quantity="few">%1$d з %2$d результатів</item>
+        <item quantity="many">%1$d з %2$d результатів</item>
+    </plurals>
+    <plurals name="selected_recording_quantity">
+        <item quantity="other">Вибрано %1$d</item>
+        <item quantity="one">Вибрано %1$d</item>
+        <item quantity="few">Вибрано %1$d</item>
+        <item quantity="many">Вибрано %1$d</item>
+    </plurals>
+    <plurals name="snackbar_message_download_failed_storage_full">
+        <item quantity="other">"Пам'ять пристрою заповнена. Записи не вдалося завантажити."</item>
+        <item quantity="one">"Пам'ять пристрою заповнена. Записи не вдалося завантажити."</item>
+        <item quantity="few">"Пам'ять пристрою заповнена. Записи не вдалося завантажити."</item>
+        <item quantity="many">"Пам'ять пристрою заповнена. Записи не вдалося завантажити."</item>
+    </plurals>
+    <plurals name="speaker_count">
+        <item quantity="other">%1$d мовця</item>
+        <item quantity="one">%1$d мовець</item>
+        <item quantity="few">%1$d мовці</item>
+        <item quantity="many">%1$d мовців</item>
+    </plurals>
+    <plurals name="uploading_description">
+        <item quantity="other">Додається %1$d запису</item>
+        <item quantity="one">Додається %1$d запис</item>
+        <item quantity="few">Додаються %1$d записи</item>
+        <item quantity="many">Додаються %1$d записів</item>
+    </plurals>
+</resources>

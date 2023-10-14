@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Аралық құрылғы қызметтері</string>
+    <string name="app_name_generic">қолданба</string>
+    <string name="app_stream_error_generic">Қолданбаны бөлісу кезінде қате пайда болды.</string>
+    <string name="app_stream_init_error_generic">Қолданба Chromebook-пен бөлісілмеді.</string>
+    <string name="audio_permission_rationale">Қолданбаны бөлісу үшін микрофонды пайдалану рұқсаты өшірулі.</string>
+    <string name="cancel_button_label">Бас тарту</string>
+    <string name="chromebook_keyboard">Chromebook пернетақтасы</string>
+    <string name="chromebook_mouse">Chromebook тінтуірі</string>
+    <string name="chromebook_touchscreen">Chromebook сенсорлық экраны</string>
+    <string name="connect_device">Телефоныңыз мына қашықтағы құрылғыға қосылуда: %1$s</string>
+    <string name="decline_button_label">Қабылдамау</string>
+    <string name="development_notification_channel_name">Әзірлеу</string>
+    <string name="device_camera_cannot_access">Бұл Chromebook-тан құрылғы камерасын пайдалану мүмкін емес.</string>
+    <string name="done_button_label">Дайын</string>
+    <string name="enable_button_label">Қосу</string>
+    <string name="foreground_service_notification_channel_name">Жалпы</string>
+    <string name="foreground_service_notification_content">Параметрлерді өзгерту үшін түртіңіз.</string>
+    <string name="foreground_service_notification_title">{0,plural, =1{# құрылғыға қосылды}other{# құрылғыға қосылды}}</string>
+    <string name="interactive_streaming_generic_notification">%1$s қолданбасын Chromebook-қа трансляциялау және хабарландыруларды синхрондау</string>
+    <string name="interactive_streaming_individual_notification">%1$s трансляцияланып, %2$s хабарландырулары синхрондалып жатыр</string>
+    <string name="interactive_streaming_notification">Chromebook-қа трансляциялау</string>
+    <string name="keyboard_name">Түрлі құрылғыға арналған пернетақта</string>
+    <string name="lock_screen_notif_warning_content">Құлыптаулы экрандағы хабарландыруларды қосыңыз.</string>
+    <string name="lock_screen_notif_warning_title">Хабарландырулар басқа мекенжайға бағытталмайтын болады</string>
+    <string name="mouse_name">Түрлі құрылғыға арналған тінтуір</string>
+    <string name="new_connection_confirm">Растау</string>
+    <string name="new_connection_deny">Қабылдамау</string>
+    <string name="new_connection_title">Байланыстың сәйкестігін растаңыз.</string>
+    <string name="notification_access_missing">Хабарландыруды пайдалану рұқсаты қажет</string>
+    <string name="notification_access_missing_description">Chromebook-тан хабарландыруларды ашу үшін хабарландыруды пайдалану рұқсатын қосыңыз.</string>
+    <string name="notification_channel_name">Жалпы</string>
+    <string name="notification_listener_label">Қолданбаларды Chromebook-пен бөлісу</string>
+    <string name="open_source_licenses">Ашық кодты бағдарлама лицензиялары</string>
+    <string name="phone_permission_rationale">Қолданбаны бөлісу үшін телефон қоңырауын өңдеу рұқсаты өшірулі.</string>
+    <string name="prompt_switch_languages">Телефондағы Gboard-тың тілін ауыстыру үшін Shift+бос орын тіркесімін басыңыз.</string>
+    <string name="settings_button">Параметрлер</string>
+    <string name="stop_sharing_button">Трансляцияны аяқтау</string>
+    <string name="stream_termination_proximity_warning">Телефоныңыз тым алыста. Трансляцияны жалғастыру үшін оны жақындатыңыз.</string>
+    <string name="substitute_app_name">Жүйе</string>
+    <string name="summary_disable_wirecutter">Өшіру</string>
+    <string name="summary_enable_wirecutter">Қосу</string>
+    <string name="touchscreen_name">Түрлі құрылғыға арналған сенсорлық экран</string>
+</resources>

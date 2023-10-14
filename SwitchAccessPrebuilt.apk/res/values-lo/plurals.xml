@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dots">
+        <item quantity="other">ຈຸດ %s</item>
+        <item quantity="one">ຈຸດ %s</item>
+    </plurals>
+    <plurals name="gestures_recorded_message">
+        <item quantity="other">ບັນທຶກ %d ທ່າທາງແລ້ວ</item>
+        <item quantity="one">ບັນທຶກ 1 ທ່າທາງແລ້ວ</item>
+    </plurals>
+    <plurals name="label_num_keys_assigned_format">
+        <item quantity="other">ມອບໝາຍສະວິດ %d ແລ້ວ</item>
+        <item quantity="one">ມອບໝາຍສະວິດ %d ແລ້ວ</item>
+    </plurals>
+    <plurals name="label_num_scanning_loops_format">
+        <item quantity="other">ຫຼິ້ນຊ້ຳ %d ເທື່ອ</item>
+        <item quantity="one">ຫຼິ້ນຊ້ຳ %d ເທື່ອ</item>
+    </plurals>
+    <plurals name="line_speed_summary_format">
+        <item quantity="other">%.2f ຊມ ຕໍ່ວິນາທີ</item>
+        <item quantity="one">1 ຊມ ຕໍ່ວິນາທີ</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d ການແຈ້ງເຕືອນໃໝ່</item>
+        <item quantity="one">%d ການແຈ້ງເຕືອນໃໝ່</item>
+    </plurals>
+    <plurals name="time_delay_summary_format">
+        <item quantity="other">%.2f ວິນາທີ</item>
+        <item quantity="one">1 ວິນາທີ</item>
+    </plurals>
+</resources>

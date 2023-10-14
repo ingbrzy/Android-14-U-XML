@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Barmağınızı hərəkət etdirin. Yenə cəhd edin.</item>
+        <item>Bu barmaq artıq qeydiyyata alınıb, fərqli bir barmaq istifadə edin.</item>
+        <item>Aşağı keyfiyyətli şəkil. Yenə cəhd edin.</item>
+        <item></item>
+        <item>Aşağı keyfiyyətli şəkil. Yenə cəhd edin.</item>
+        <item></item>
+        <item></item>
+        <item>Ləkə aşkarlandı, ekranı təmizləyin. Yenə cəhd edin.</item>
+        <item>Şəkli oxumaq alınmadı. Yenə cəhd edin.</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Təkrar qeydiyyat tələb edilir.</item>
+    </string-array>
+    <string-array name="fingerprint_error_vendor">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Data xətası. Yenə cəhd edin.</item>
+        <item>Barmaq qeydiyyata alınmadı. Yenə cəhd edin.</item>
+    </string-array>
+</resources>

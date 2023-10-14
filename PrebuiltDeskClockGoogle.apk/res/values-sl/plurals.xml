@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="alarm_alert_snooze_duration">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+        <item quantity="two">%d min</item>
+        <item quantity="few">%d min</item>
+    </plurals>
+    <plurals name="alarm_alert_snooze_set">
+        <item quantity="other">Dremež: %d minut.</item>
+        <item quantity="one">Dremež: %d minuta.</item>
+        <item quantity="two">Dremež: %d minuti.</item>
+        <item quantity="few">Dremež: %d minute.</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%s dni</item>
+        <item quantity="one">%s dan</item>
+        <item quantity="two">%s dneva</item>
+        <item quantity="few">%s dni</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">Pred %s dnevi</item>
+        <item quantity="one">Pred %s dnevom</item>
+        <item quantity="two">Pred %s dnevoma</item>
+        <item quantity="few">Pred %s dnevi</item>
+    </plurals>
+    <plurals name="days_extra_short">
+        <item quantity="other">%s d</item>
+        <item quantity="one">%s d</item>
+        <item quantity="two">%s d</item>
+        <item quantity="few">%s d</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s ur</item>
+        <item quantity="one">%s ura</item>
+        <item quantity="two">%s uri</item>
+        <item quantity="few">%s ure</item>
+    </plurals>
+    <plurals name="hours_extra_short">
+        <item quantity="other">%s h</item>
+        <item quantity="one">%s h</item>
+        <item quantity="two">%s h</item>
+        <item quantity="few">%s h</item>
+    </plurals>
+    <plurals name="hours_short">
+        <item quantity="other">%s h</item>
+        <item quantity="one">%s h</item>
+        <item quantity="two">%s h</item>
+        <item quantity="few">%s h</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s minut</item>
+        <item quantity="one">%s minuta</item>
+        <item quantity="two">%s minuti</item>
+        <item quantity="few">%s minute</item>
+    </plurals>
+    <plurals name="minutes_extra_short">
+        <item quantity="other">%s m</item>
+        <item quantity="one">%s m</item>
+        <item quantity="two">%s m</item>
+        <item quantity="few">%s m</item>
+    </plurals>
+    <plurals name="minutes_short">
+        <item quantity="other">%s min</item>
+        <item quantity="one">%s min</item>
+        <item quantity="two">%s min</item>
+        <item quantity="few">%s min</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d novih obvestil</item>
+        <item quantity="one">%d novo obvestilo</item>
+        <item quantity="two">%d novi obvestili</item>
+        <item quantity="few">%d nova obvestila</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%s sekund</item>
+        <item quantity="one">%s sekunda</item>
+        <item quantity="two">%s sekundi</item>
+        <item quantity="few">%s sekunde</item>
+    </plurals>
+    <plurals name="seconds_extra_short">
+        <item quantity="other">%s s</item>
+        <item quantity="one">%s s</item>
+        <item quantity="two">%s s</item>
+        <item quantity="few">%s s</item>
+    </plurals>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_retaildemoCommunication">Lubab rakendusel pidada sidet poedemoteenustega. See luba tuleks anda ainult poedemole. Selle loa saanud rakendused saavad käivitada toiminguid, mis on ette nähtud ainult poedemorežiimile.</string>
+    <string name="permlab_retaildemoCommunication">Poedemo side</string>
+    <string name="retaildemo_preload_app_name">Poedemo teenused</string>
+</resources>

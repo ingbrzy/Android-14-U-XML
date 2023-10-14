@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="auto_playlist_with_episode_count_item_subtitle">
+        <item quantity="other">[Åûţö þļåýļîšţ • ᐅ%1$dᐊ éþîšöðéš one two three four five six]</item>
+        <item quantity="one">[Åûţö þļåýļîšţ • 1 éþîšöðé one two three four five six]</item>
+    </plurals>
+    <plurals name="auto_playlist_with_size_item_subtitle">
+        <item quantity="other">[Åûţö þļåýļîšţ • ᐅ%1$dᐊ šöñĝš one two three four five six]</item>
+        <item quantity="one">[Åûţö þļåýļîšţ • 1 šöñĝ one two three four five]</item>
+    </plurals>
+    <plurals name="duration_hours">
+        <item quantity="other">[ᐅ%1$dᐊ ĥöûŕš one two three]</item>
+        <item quantity="one">[ᐅ%1$dᐊ ĥöûŕ one two]</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">[ᐅ%1$dᐊ mîñûţéš one two three]</item>
+        <item quantity="one">[ᐅ%1$dᐊ mîñûţé one two three]</item>
+    </plurals>
+    <plurals name="hours_abbreviated">
+        <item quantity="other">[ᐅ%sᐊ ĥŕ one two]</item>
+        <item quantity="one">[ᐅ%sᐊ ĥŕ one two]</item>
+    </plurals>
+    <plurals name="menu_option_hours">
+        <item quantity="other">[ᐅ%sᐊ ĥöûŕš one two three]</item>
+        <item quantity="one">[ᐅ%sᐊ ĥöûŕ one two]</item>
+    </plurals>
+    <plurals name="menu_option_minutes">
+        <item quantity="other">[ᐅ%sᐊ mîñûţéš one two three]</item>
+        <item quantity="one">[ᐅ%sᐊ mîñûţé one two three]</item>
+    </plurals>
+    <plurals name="minutes_abbreviated">
+        <item quantity="other">[ᐅ%sᐊ mîñ one two]</item>
+        <item quantity="one">[ᐅ%sᐊ mîñ one two]</item>
+    </plurals>
+    <plurals name="notification_offline_playlist_progress_size">
+        <item quantity="other">[ᐅ%1$dᐊ öƒ ᐅ%2$dᐊ šöñĝš one two three four]</item>
+        <item quantity="one">[ᐅ%1$dᐊ öƒ 1 šöñĝ one two three]</item>
+    </plurals>
+    <plurals name="notification_offline_playlist_progress_track_count">
+        <item quantity="other">[ᐅ%1$dᐊ öƒ ᐅ%2$dᐊ ţŕåçķš one two three four]</item>
+        <item quantity="one">[ᐅ%1$dᐊ öƒ 1 ţŕåçķ one two three]</item>
+    </plurals>
+    <plurals name="offline_playlist_detail_page_subtitle_with_size">
+        <item quantity="other">[Þļåýļîšţ • ᐅ%1$dᐊ šöñĝš one two three four five]</item>
+        <item quantity="one">[Þļåýļîšţ • 1 šöñĝ one two three four]</item>
+    </plurals>
+    <plurals name="offline_playlist_size">
+        <item quantity="other">[ᐅ%1$,dᐊ šöñĝš one two three]</item>
+        <item quantity="one">[1 šöñĝ one]</item>
+    </plurals>
+    <plurals name="offline_podcast_playlist_size">
+        <item quantity="other">[ᐅ%1$,dᐊ éþîšöðéš one two three]</item>
+        <item quantity="one">[1 éþîšöðé one two]</item>
+    </plurals>
+    <plurals name="playlist_subtitle_with_track_count">
+        <item quantity="other">[Þļåýļîšţ • ᐅ%1$dᐊ ţŕåçķš one two three four five]</item>
+        <item quantity="one">[Þļåýļîšţ • 1 ţŕåçķ one two three four]</item>
+    </plurals>
+    <plurals name="playlist_with_creator_and_size_item_subtitle">
+        <item quantity="other">[ᐅ%1$sᐊ • ᐅ%2$dᐊ šöñĝš one two three four]</item>
+        <item quantity="one">[ᐅ%1$sᐊ • 1 šöñĝ one two three]</item>
+    </plurals>
+    <plurals name="playlist_with_creator_and_track_count_item_subtitle">
+        <item quantity="other">[ᐅ%1$sᐊ • ᐅ%2$dᐊ ţŕåçķš one two three four]</item>
+        <item quantity="one">[ᐅ%1$sᐊ • 1 ţŕåçķ one two three]</item>
+    </plurals>
+    <plurals name="playlist_with_entity_type_and_creator_and_size_item_subtitle">
+        <item quantity="other">[Þļåýļîšţ • ᐅ%1$sᐊ • ᐅ%2$dᐊ šöñĝš one two three four five six]</item>
+        <item quantity="one">[Þļåýļîšţ • ᐅ%1$sᐊ • 1 šöñĝ one two three four five]</item>
+    </plurals>
+    <plurals name="playlist_with_entity_type_and_creator_and_track_count_item_subtitle">
+        <item quantity="other">[Þļåýļîšţ • ᐅ%1$sᐊ • ᐅ%2$dᐊ ţŕåçķš one two three four five six]</item>
+        <item quantity="one">[Þļåýļîšţ • ᐅ%1$sᐊ • 1 ţŕåçķ one two three four five]</item>
+    </plurals>
+    <plurals name="pref_enable_smart_download_recent_music_summary">
+        <item quantity="other">"[Ŵé'ļļ ðöŵñļöåð ûþ ţö ᐅ%1$dᐊ öƒ ýöûŕ ŕéçéñţļý þļåýéð šöñĝš. one two three four five six seven eight nine ten eleven]"</item>
+        <item quantity="one">"[Ŵé'ļļ ðöŵñļöåð ûþ ţö ᐅ%1$dᐊ öƒ ýöûŕ ŕéçéñţļý þļåýéð šöñĝš. one two three four five six seven eight nine ten eleven]"</item>
+    </plurals>
+    <plurals name="smart_downloads_details_header_byline_explanation">
+        <item quantity="other">[Šmåŕţ ðöŵñļöåðéð ᐅ%1$dᐊ šöñĝš one two three four five six]</item>
+        <item quantity="one">[Šmåŕţ ðöŵñļöåðéð ᐅ%1$dᐊ šöñĝ one two three four five six]</item>
+    </plurals>
+    <plurals name="smart_downloads_num_songs_estimated_space">
+        <item quantity="other">[ᐅ%1$dᐊ šöñĝš (~ᐅ%2$sᐊ) one two three four]</item>
+        <item quantity="one">[ᐅ%1$dᐊ šöñĝ (~ᐅ%2$sᐊ) one two three four]</item>
+    </plurals>
+    <plurals name="song_count">
+        <item quantity="other">[ᐅ%1$dᐊ šöñĝš one two three]</item>
+        <item quantity="one">[1 šöñĝ one]</item>
+    </plurals>
+    <plurals name="track_count">
+        <item quantity="other">[ᐅ%1$dᐊ ţŕåçķš one two three]</item>
+        <item quantity="one">[1 ţŕåçķ one]</item>
+    </plurals>
+</resources>

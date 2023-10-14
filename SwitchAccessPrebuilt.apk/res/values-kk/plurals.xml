@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dots">
+        <item quantity="other">%s нүкте</item>
+        <item quantity="one">%s нүкте</item>
+    </plurals>
+    <plurals name="gestures_recorded_message">
+        <item quantity="other">%d қимыл жазылды.</item>
+        <item quantity="one">1 қимыл жазылды.</item>
+    </plurals>
+    <plurals name="label_num_keys_assigned_format">
+        <item quantity="other">%d ауыстырғыш тағайындалды.</item>
+        <item quantity="one">%d ауыстырғыш тағайындалды.</item>
+    </plurals>
+    <plurals name="label_num_scanning_loops_format">
+        <item quantity="other">%d цикл</item>
+        <item quantity="one">%d цикл</item>
+    </plurals>
+    <plurals name="line_speed_summary_format">
+        <item quantity="other">%.2f см/секунд</item>
+        <item quantity="one">1 см/секунд</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d жаңа хабарландыру</item>
+        <item quantity="one">%d жаңа хабарландыру</item>
+    </plurals>
+    <plurals name="time_delay_summary_format">
+        <item quantity="other">%.2f секунд</item>
+        <item quantity="one">1 секунд</item>
+    </plurals>
+</resources>

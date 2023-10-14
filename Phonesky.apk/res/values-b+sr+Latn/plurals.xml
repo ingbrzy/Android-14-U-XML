@@ -1,0 +1,638 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120000">
+        <item quantity="other">Čeka se WiFi</item>
+        <item quantity="one">Čeka se WiFi</item>
+        <item quantity="few">Čeka se WiFi</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120002">
+        <item quantity="other">Na ovom uređaju (%d aplikacija)</item>
+        <item quantity="one">Na ovom uređaju (%d aplikacija)</item>
+        <item quantity="few">Na ovom uređaju (%d aplikacije)</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120003">
+        <item quantity="other">Funkcije za aplikaciju %1$s</item>
+        <item quantity="one">Funkcije za aplikaciju %1$s</item>
+        <item quantity="few">Funkcije za aplikaciju %1$s</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120004">
+        <item quantity="other">Instalirano pre %d dana</item>
+        <item quantity="one">Instalirano pre %d dan</item>
+        <item quantity="few">Instalirano pre %d dana</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120005">
+        <item quantity="other">Instalirano pre %d sati</item>
+        <item quantity="one">Instalirano pre %d sat</item>
+        <item quantity="few">Instalirano pre %d sata</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120006">
+        <item quantity="other">Instalirano pre %d minuta</item>
+        <item quantity="one">Instalirano pre %d minut</item>
+        <item quantity="few">Instalirano pre %d minuta</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120007">
+        <item quantity="other">Izabrano je %1$d</item>
+        <item quantity="one">Izabrana je %1$d</item>
+        <item quantity="few">Izabrane su %1$d</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120008">
+        <item quantity="other">Ažurirano je pre %d dana</item>
+        <item quantity="one">Ažurirano je pre %d dan</item>
+        <item quantity="few">Ažurirano je pre %d dana</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120009">
+        <item quantity="other">Ažurirano je pre %d sati</item>
+        <item quantity="one">Ažurirano je pre %d sat</item>
+        <item quantity="few">Ažurirano je pre %d sata</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000a">
+        <item quantity="other">Ažurirano je pre %d minuta</item>
+        <item quantity="one">Ažurirano je pre %d minut</item>
+        <item quantity="few">Ažurirano je pre %d minuta</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000b">
+        <item quantity="other">Poslednji put je korišćeno pre %d dana</item>
+        <item quantity="one">Poslednji put je korišćeno pre %d dan</item>
+        <item quantity="few">Poslednji put je korišćeno pre %d dana</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000c">
+        <item quantity="other">Poslednji put je korišćeno pre %d sati</item>
+        <item quantity="one">Poslednji put je korišćeno pre %d sat</item>
+        <item quantity="few">Poslednji put je korišćeno pre %d sata</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000d">
+        <item quantity="other">Poslednji put je korišćeno pre %d minuta</item>
+        <item quantity="one">Poslednji put je korišćeno pre %d minut</item>
+        <item quantity="few">Poslednji put je korišćeno pre %d minuta</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000f">
+        <item quantity="other">Aplikacije su skenirane pre %d dana</item>
+        <item quantity="one">Aplikacije su skenirane pre %d dan</item>
+        <item quantity="few">Aplikacije su skenirane pre %d dana</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120010">
+        <item quantity="other">Aplikacije su skenirane pre %d sati</item>
+        <item quantity="one">Aplikacije su skenirane pre %d sat</item>
+        <item quantity="few">Aplikacije su skenirane pre %d sata</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120011">
+        <item quantity="other">Aplikacije su skenirane pre %d minuta</item>
+        <item quantity="one">Aplikacije su skenirane pre %d minut</item>
+        <item quantity="few">Aplikacije su skenirane pre %d minuta</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120014">
+        <item quantity="other">%1$d komentara</item>
+        <item quantity="one">%1$d komentar</item>
+        <item quantity="few">%1$d komentara</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120015">
+        <item quantity="other">%1$d recenzija za ocenu u zvezdicama %2$d</item>
+        <item quantity="one">%1$d recenzija za ocenu u zvezdicama %2$d</item>
+        <item quantity="few">%1$d recenzije za ocenu u zvezdicama %2$d</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120016">
+        <item quantity="other">Instaliraj na %1$d uređaja.</item>
+        <item quantity="one">Instaliraj na %1$d uređaju.</item>
+        <item quantity="few">Instaliraj na %1$d uređaja.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120017">
+        <item quantity="other">Instaliraj na %1$d uređaja. Dostupno je još uređaja.</item>
+        <item quantity="one">Instaliraj na %1$d uređaju. Dostupno je još uređaja.</item>
+        <item quantity="few">Instaliraj na %1$d uređaja. Dostupno je još uređaja.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120018">
+        <item quantity="other">Ova aplikacija će se uskoro instalirati na %1$d vaših uređaja.</item>
+        <item quantity="one">Ova aplikacija će se uskoro instalirati na %1$d vašem uređaju.</item>
+        <item quantity="few">Ova aplikacija će se uskoro instalirati na %1$d vaša uređaja.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120019">
+        <item quantity="other">%1$d dodatnih stavki je dostupno</item>
+        <item quantity="one">%1$d dodatna stavka je dostupna</item>
+        <item quantity="few">%1$d dodatne stavke su dostupne</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001a">
+        <item quantity="other">%1$d dodatnih stavki je dostupno uz kupovinu</item>
+        <item quantity="one">%1$d dodatna stavka je dostupna uz kupovinu</item>
+        <item quantity="few">%1$d dodatne stavke su dostupne uz kupovinu</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001b">
+        <item quantity="other">%1$d dana</item>
+        <item quantity="one">%1$d dan</item>
+        <item quantity="few">%1$d dana</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001c">
+        <item quantity="other">Prosečna ocena je %1$s zv. u %2$s recenzija</item>
+        <item quantity="one">Prosečna ocena je %1$s zv. u %2$s recenziji</item>
+        <item quantity="few">Prosečna ocena je %1$s zv. u %2$s recenzije</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001d">
+        <item quantity="other">%s recenzija</item>
+        <item quantity="one">%s recenzija</item>
+        <item quantity="few">%s recenzije</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001e">
+        <item quantity="other">Treba da obavite još %1$d koraka da biste postali programer.</item>
+        <item quantity="one">Treba da obavite još %1$d korak da biste postali programer.</item>
+        <item quantity="few">Treba da obavite još %1$d koraka da biste postali programer.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001f">
+        <item quantity="other">automobili</item>
+        <item quantity="one">automobili</item>
+        <item quantity="few">automobili</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120020">
+        <item quantity="other">Chromebook-ovi</item>
+        <item quantity="one">Chromebook-ovi</item>
+        <item quantity="few">Chromebook-ovi</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120021">
+        <item quantity="other">na preklop</item>
+        <item quantity="one">na preklop</item>
+        <item quantity="few">na preklop</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120022">
+        <item quantity="other">telefoni</item>
+        <item quantity="one">telefoni</item>
+        <item quantity="few">telefoni</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120023">
+        <item quantity="other">tableti</item>
+        <item quantity="one">tableti</item>
+        <item quantity="few">tableti</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120024">
+        <item quantity="other">TV uređaji</item>
+        <item quantity="one">TV uređaji</item>
+        <item quantity="few">TV uređaji</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120025">
+        <item quantity="other">uređaja</item>
+        <item quantity="one">uređaj</item>
+        <item quantity="few">uređaja</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120026">
+        <item quantity="other">satovi</item>
+        <item quantity="one">satovi</item>
+        <item quantity="few">satovi</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120027">
+        <item quantity="other">Dostupno je %1$d Play Points poena.</item>
+        <item quantity="one">Dostupan je %1$d Play Points poen.</item>
+        <item quantity="few">Dostupna su %1$d Play Points poena.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120028">
+        <item quantity="other">%1$d sati</item>
+        <item quantity="one">%1$d sat</item>
+        <item quantity="few">%1$d sata</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120029">
+        <item quantity="other">Još %1$d sati</item>
+        <item quantity="one">Još %1$d sat</item>
+        <item quantity="few">Još %1$d sata</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002a">
+        <item quantity="other">Instalira se %1$d aplikacija…</item>
+        <item quantity="one">Instalira se %1$d aplikacija…</item>
+        <item quantity="few">Instaliraju se %1$d aplikacije…</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002b">
+        <item quantity="other">Instaliranja su pauzirana</item>
+        <item quantity="one">Instaliranja su pauzirana</item>
+        <item quantity="few">Instaliranja su pauzirana</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002c">
+        <item quantity="other">%1$d aplikacija će biti instalirano</item>
+        <item quantity="one">%1$d aplikacija će biti instalirana</item>
+        <item quantity="few">%1$d aplikacije će biti instalirane</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002d">
+        <item quantity="other">Poslednji put je ažurirano pre %d dana</item>
+        <item quantity="one">Poslednji put je ažurirano pre %d dan</item>
+        <item quantity="few">Poslednji put je ažurirano pre %d dana</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002e">
+        <item quantity="other">Poslednji put je ažurirano pre %d sati</item>
+        <item quantity="one">Poslednji put je ažurirano pre %d sat</item>
+        <item quantity="few">Poslednji put je ažurirano pre %d sata</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002f">
+        <item quantity="other">Poslednji put je ažurirano pre %d minuta</item>
+        <item quantity="one">Poslednji put je ažurirano pre %d minut</item>
+        <item quantity="few">Poslednji put je ažurirano pre %d minuta</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120033">
+        <item quantity="other">Pre %1$d godina</item>
+        <item quantity="one">Pre %1$d godinu</item>
+        <item quantity="few">Pre %1$d godine</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120034">
+        <item quantity="other">%1$d minuta</item>
+        <item quantity="one">%1$d minut</item>
+        <item quantity="few">%1$d minuta</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120035">
+        <item quantity="other">Još %1$d minuta</item>
+        <item quantity="one">Još %1$d minut</item>
+        <item quantity="few">Još %1$d minuta</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120037">
+        <item quantity="other">Izabrano je %1$d</item>
+        <item quantity="one">Izabrana je %1$d</item>
+        <item quantity="few">Izabrane su %1$d</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120038">
+        <item quantity="other">Arhivira se %1$d aplikacija</item>
+        <item quantity="one">Arhivira se %1$d aplikacija</item>
+        <item quantity="few">Arhiviraju se %1$d aplikacije</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120039">
+        <item quantity="other">Želite da uklonite izabrane aplikacije?</item>
+        <item quantity="one">Želite da uklonite izabrane aplikacije?</item>
+        <item quantity="few">Želite da uklonite izabrane aplikacije?</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12003a">
+        <item quantity="other">%1$d aplikacija je uklonjeno</item>
+        <item quantity="one">%1$d aplikacija je uklonjena</item>
+        <item quantity="few">%1$d aplikacije su uklonjene</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12003d">
+        <item quantity="other">%1$d instalacija je na čekanju</item>
+        <item quantity="one">%1$d instalacija je na čekanju</item>
+        <item quantity="few">%1$d instalacije su na čekanju</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12003e">
+        <item quantity="other">%1$d instaliranja je u toku</item>
+        <item quantity="one">%1$d instaliranje je u toku</item>
+        <item quantity="few">%1$d instaliranja su u toku</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120040">
+        <item quantity="other">%1$d ažuriranja je na čekanju</item>
+        <item quantity="one">%1$d ažuriranje je na čekanju</item>
+        <item quantity="few">%1$d ažuriranja su na čekanju</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120041">
+        <item quantity="other">%1$d ažuriranja je u toku</item>
+        <item quantity="one">%1$d ažuriranje je u toku</item>
+        <item quantity="few">%1$d ažuriranja su u toku</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120042">
+        <item quantity="other">%1$d aplikacija je instalirano</item>
+        <item quantity="one">%1$d aplikacija je instalirana</item>
+        <item quantity="few">%1$d aplikacije su instalirane</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120044">
+        <item quantity="other">Objavljeno je pre %1$d sati</item>
+        <item quantity="one">Objavljeno je pre %1$d sat</item>
+        <item quantity="few">Objavljeno je pre %1$d sata</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120045">
+        <item quantity="other">Objavljeno je pre %1$d dana</item>
+        <item quantity="one">Objavljeno je pre %1$d dan</item>
+        <item quantity="few">Objavljeno je pre %1$d dana</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120046">
+        <item quantity="other">Aplikacije su uklonjene</item>
+        <item quantity="one">Aplikacije su uklonjene</item>
+        <item quantity="few">Aplikacije su uklonjene</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120047">
+        <item quantity="other">%1$d ažuriranja traži odobrenje</item>
+        <item quantity="one">%1$d ažuriranje traži odobrenje</item>
+        <item quantity="few">%1$d ažuriranja traže odobrenje</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120048">
+        <item quantity="other">%1$d novih ažuriranja</item>
+        <item quantity="one">%1$d novo ažuriranje</item>
+        <item quantity="few">%1$d nova ažuriranja</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120049">
+        <item quantity="other">%1$d ažuriranja je dostupno</item>
+        <item quantity="one">%1$d ažuriranje je dostupno</item>
+        <item quantity="few">%1$d ažuriranja su dostupna</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004a">
+        <item quantity="other">Ažuriraj sve</item>
+        <item quantity="one">Ažuriraj sve</item>
+        <item quantity="few">Ažuriraj sve</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004b">
+        <item quantity="other">%1$d aplikacija je ažurirano</item>
+        <item quantity="one">%1$d aplikacija je ažurirana</item>
+        <item quantity="few">%1$d aplikacije su ažurirane</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004c">
+        <item quantity="other">Završava se za %1$d sati</item>
+        <item quantity="one">Završava se za %1$d sat</item>
+        <item quantity="few">Završava se za %1$d sata</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004d">
+        <item quantity="other">Završava se za %1$d dana</item>
+        <item quantity="one">Završava se za %1$d dan</item>
+        <item quantity="few">Završava se za %1$d dana</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004e">
+        <item quantity="other">%1$d minuta</item>
+        <item quantity="one">%1$d minut</item>
+        <item quantity="few">%1$d minuta</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004f">
+        <item quantity="other">%1$d sekundi</item>
+        <item quantity="one">%1$d sekunda</item>
+        <item quantity="few">%1$d sekunde</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120050">
+        <item quantity="other">Lične aplikacije su uklonjene</item>
+        <item quantity="one">Lične aplikacije su uklonjene</item>
+        <item quantity="few">Lične aplikacije su uklonjene</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120053">
+        <item quantity="other">Play zaštita je skenirala aplikacije pre %d dana</item>
+        <item quantity="one">Play zaštita je skenirala aplikacije pre %d dan</item>
+        <item quantity="few">Play zaštita je skenirala aplikacije pre %d dana</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120054">
+        <item quantity="other">Play zaštita je skenirala aplikacije pre %d sati</item>
+        <item quantity="one">Play zaštita je skenirala aplikacije pre %d sat</item>
+        <item quantity="few">Play zaštita je skenirala aplikacije pre %d sata</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120055">
+        <item quantity="other">Play zaštita je skenirala aplikacije pre %d minuta</item>
+        <item quantity="one">Play zaštita je skenirala aplikacije pre %d minut</item>
+        <item quantity="few">Play zaštita je skenirala aplikacije pre %d minuta</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120056">
+        <item quantity="other">%1$s poena da biste zadržali nivo %2$s sledeće godine</item>
+        <item quantity="one">%1$s poen da biste zadržali nivo %2$s sledeće godine</item>
+        <item quantity="few">%1$s poena da biste zadržali nivo %2$s sledeće godine</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120057">
+        <item quantity="other">%1$s poena do nivoa %2$s</item>
+        <item quantity="one">%1$s poen do nivoa %2$s</item>
+        <item quantity="few">%1$s poena do nivoa %2$s</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120058">
+        <item quantity="other">Dozvolili ste ovim aplikacijama da instaliraju ili ažuriraju nepoznate aplikacije, što može da ugrozi uređaj i lične podatke. Odbijte dozvolu da biste sprečili takva instaliranja.</item>
+        <item quantity="one">Dozvolili ste ovim aplikacijama da instaliraju ili ažuriraju nepoznate aplikacije, što može da ugrozi uređaj i lične podatke. Odbijte dozvolu da biste sprečili takva instaliranja.</item>
+        <item quantity="few">Dozvolili ste ovim aplikacijama da instaliraju ili ažuriraju nepoznate aplikacije, što može da ugrozi uređaj i lične podatke. Odbijte dozvolu da biste sprečili takva instaliranja.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120059">
+        <item quantity="other">Dozvolili ste da %1$d aplikacija instalira ili ažurira nepoznate aplikacije, što može da ugrozi uređaj i lične podatke</item>
+        <item quantity="one">Dozvolili ste da %1$d aplikacija instalira ili ažurira nepoznate aplikacije, što može da ugrozi uređaj i lične podatke</item>
+        <item quantity="few">Dozvolili ste da %1$d aplikacije instaliraju ili ažuriraju nepoznate aplikacije, što može da ugrozi uređaj i lične podatke</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005a">
+        <item quantity="other">%1$d upozorenja u vezi sa privatnošću</item>
+        <item quantity="one">%1$d upozorenje u vezi sa privatnošću</item>
+        <item quantity="few">%1$d upozorenja u vezi sa privatnošću</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005b">
+        <item quantity="other">Pronađeno je %1$d štetnih aplikacija</item>
+        <item quantity="one">Pronađena je %1$d štetna aplikacija</item>
+        <item quantity="few">Pronađene su %1$d štetne aplikacije</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005c">
+        <item quantity="other">%1$d obaveštenja o bezbednosti</item>
+        <item quantity="one">%1$d obaveštenje o bezbednosti</item>
+        <item quantity="few">%1$d obaveštenja o bezbednosti</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005d">
+        <item quantity="other">%1$d bezbednosnih ažuriranja</item>
+        <item quantity="one">%1$d bezbednosno ažuriranje</item>
+        <item quantity="few">%1$d bezbednosna ažuriranja</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005e">
+        <item quantity="other">Pronađeno je %1$d aplikacija koje nisu bezbedne</item>
+        <item quantity="one">Pronađena je %1$d aplikacija koja nije bezbedna</item>
+        <item quantity="few">Pronađene su %1$d aplikacije koje nisu bezbedne</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005f">
+        <item quantity="other">%1$d upozorenja</item>
+        <item quantity="one">%1$d upozorenje</item>
+        <item quantity="few">%1$d upozorenja</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120060">
+        <item quantity="other">Pronađene su aplikacije koje nisu bezbedne</item>
+        <item quantity="one">Pronađene su aplikacije koje nisu bezbedne</item>
+        <item quantity="few">Pronađene su aplikacije koje nisu bezbedne</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120061">
+        <item quantity="other">Završava se za %1$d sati</item>
+        <item quantity="one">Završava se za %1$d sat</item>
+        <item quantity="few">Završava se za %1$d sata</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120062">
+        <item quantity="other">Završava se za %1$d dana</item>
+        <item quantity="one">Završava se za %1$d dan</item>
+        <item quantity="few">Završava se za %1$d dana</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120063">
+        <item quantity="other">Dovršenih koraka: %1$d od %2$d</item>
+        <item quantity="one">Dovršenih koraka: %1$d od %2$d</item>
+        <item quantity="few">Dovršenih koraka: %1$d od %2$d</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120064">
+        <item quantity="other">%1$d aplikacija je spremno za instaliranje</item>
+        <item quantity="one">%1$d aplikacija je spremna za instaliranje</item>
+        <item quantity="few">%1$d aplikacije su spremne za instaliranje</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120065">
+        <item quantity="other">%1$s će vam poslati %2$d aplikacija. Proverite da li se kôd za uparivanje podudara.</item>
+        <item quantity="one">%1$s će vam poslati %2$d aplikaciju. Proverite da li se kôd za uparivanje podudara.</item>
+        <item quantity="few">%1$s će vam poslati %2$d aplikacije. Proverite da li se kôd za uparivanje podudara.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120066">
+        <item quantity="other">Primate %1$d aplikacija sa uređaja „%2$s“…</item>
+        <item quantity="one">Primate %1$d aplikaciju sa uređaja „%2$s“…</item>
+        <item quantity="few">Primate %1$d aplikacije sa uređaja „%2$s“…</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006a">
+        <item quantity="other">%1$d korisnika smatra da je ova recenzija korisna. Označi komentar kao koristan</item>
+        <item quantity="one">%1$d korisnik smatra da je ova recenzija korisna. Označi komentar kao koristan</item>
+        <item quantity="few">%1$d korisnika smatraju da je ova recenzija korisna. Označi komentar kao koristan</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006b">
+        <item quantity="other">%1$d korisnika smatra da je ova recenzija korisna. Uklonite oznaku da je komentar koristan</item>
+        <item quantity="one">%1$d korisnik smatra da je ova recenzija korisna. Uklonite oznaku da je komentar koristan</item>
+        <item quantity="few">%1$d korisnika smatraju da je ova recenzija korisna. Uklonite oznaku da je komentar koristan</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006c">
+        <item quantity="other">%1$s osoba smatra da je ovo korisno</item>
+        <item quantity="one">%1$s osoba smatra da je ovo korisno</item>
+        <item quantity="few">%1$s osobe smatraju da je ovo korisno</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006f">
+        <item quantity="other">%1$d sekundi</item>
+        <item quantity="one">%1$d sekundu</item>
+        <item quantity="few">%1$d sekunde</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120070">
+        <item quantity="other">Još %1$d sekundi</item>
+        <item quantity="one">Još %1$d sekunda</item>
+        <item quantity="few">Još %1$d sekunde</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120071">
+        <item quantity="other">Izabrano je %1$d aplikacija • %2$s</item>
+        <item quantity="one">Izabrana je %1$d aplikacija • %2$s</item>
+        <item quantity="few">Izabrane su %1$d aplikacije • %2$s</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120072">
+        <item quantity="other">%1$d aplikacija se šalje na „%2$s“…</item>
+        <item quantity="one">%1$d aplikacija se šalje na „%2$s“…</item>
+        <item quantity="few">%1$d aplikacije se šalju na „%2$s“…</item>
+    </plurals>
+    <plurals name="setup_completed_installed">
+        <item quantity="other">%1$d aplikacija je instalirano</item>
+        <item quantity="one">%1$d aplikacija je instalirana</item>
+        <item quantity="few">%1$d aplikacije su instalirane</item>
+    </plurals>
+    <plurals name="setup_completed_installed_with_failures">
+        <item quantity="other">Nismo uspeli da instaliramo %1$d od %2$d aplikacija</item>
+        <item quantity="one">Nismo uspeli da instaliramo %1$d od %2$d aplikacije</item>
+        <item quantity="few">Nismo uspeli da instaliramo %1$d od %2$d aplikacije</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120075">
+        <item quantity="other">Poslednji put je korišćen pre %1$d dana</item>
+        <item quantity="one">Poslednji put je korišćen pre %1$d dan</item>
+        <item quantity="few">Poslednji put je korišćen pre %1$d dana</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120076">
+        <item quantity="other">Vrati %1$d izabranih aplikacija</item>
+        <item quantity="one">Vrati %1$d izabranu aplikaciju</item>
+        <item quantity="few">Vrati %1$d izabrane aplikacije</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120078">
+        <item quantity="other">Želite li da preuzmete %1$d novih jezika?</item>
+        <item quantity="one">Želite li da preuzmete %1$d novi jezik?</item>
+        <item quantity="few">Želite li da preuzmete %1$d nova jezika?</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007b">
+        <item quantity="other">%1$d odgovora na anketu će trajno biti uklonjeno sa naloga.</item>
+        <item quantity="one">%1$d odgovor na anketu će trajno biti uklonjen sa naloga.</item>
+        <item quantity="few">%1$d odgovora na anketu će trajno biti uklonjena sa naloga.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007c">
+        <item quantity="other">Izabrano je %1$d</item>
+        <item quantity="one">Izabran je %1$d</item>
+        <item quantity="few">Izabrana su %1$d</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007d">
+        <item quantity="other">Prikaži Play Points. Dostupno je %1$d poena.</item>
+        <item quantity="one">Prikaži Play Points. Dostupan je %1$d poen.</item>
+        <item quantity="few">Prikaži Play Points. Dostupna su %1$d poena.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007e">
+        <item quantity="other">Dostupno je %1$d Play Points.</item>
+        <item quantity="one">Dostupan je %1$d Play Points.</item>
+        <item quantity="few">Dostupna su %1$d Play Points.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120080">
+        <item quantity="other">%1$s poena</item>
+        <item quantity="one">%1$s poen</item>
+        <item quantity="few">%1$s poena</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120081">
+        <item quantity="other">Prenosi se %1$d aplikacija pomoću „%2$s“…</item>
+        <item quantity="one">Prenosi se %1$d aplikacija pomoću „%2$s“…</item>
+        <item quantity="few">Prenose se %1$d aplikacije pomoću „%2$s“…</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120082">
+        <item quantity="other">%1$d aplikacija će biti deinstalirano sa uređaja.</item>
+        <item quantity="one">%1$d aplikacija će biti deinstalirana sa uređaja.</item>
+        <item quantity="few">%1$d aplikacije će biti deinstalirane sa uređaja.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120083">
+        <item quantity="other">Želite li da deinstalirate izabrane aplikacije?</item>
+        <item quantity="one">Želite li da deinstalirate izabrane aplikacije?</item>
+        <item quantity="few">Želite li da deinstalirate izabrane aplikacije?</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120084">
+        <item quantity="other">Želite li da deinstalirate ažuriranja za izabrane aplikacije?</item>
+        <item quantity="one">Želite li da deinstalirate ažuriranja za izabrane aplikacije?</item>
+        <item quantity="few">Želite li da deinstalirate ažuriranja za izabrane aplikacije?</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120085">
+        <item quantity="other">%1$s aplikacija je uklonjeno, što ostavlja dovoljno prostora za: %2$s.</item>
+        <item quantity="one">%1$s aplikacija je uklonjena, što ostavlja dovoljno prostora za: %2$s.</item>
+        <item quantity="few">%1$s aplikacije su uklonjene, što ostavlja dovoljno prostora za: %2$s.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120086">
+        <item quantity="other">Aplikacije će uskoro biti instalirane.</item>
+        <item quantity="one">Aplikacije će uskoro biti instalirane.</item>
+        <item quantity="few">Aplikacije će uskoro biti instalirane.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120087">
+        <item quantity="other">Ažuriranja aplikacija će uskoro biti instalirana.</item>
+        <item quantity="one">Ažuriranja aplikacija će uskoro biti instalirana.</item>
+        <item quantity="few">Ažuriranja aplikacija će uskoro biti instalirana.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008a">
+        <item quantity="other">Poslednji put je korišćena pre %1$d dana</item>
+        <item quantity="one">Poslednji put je korišćena pre %1$d dan</item>
+        <item quantity="few">Poslednji put je korišćena pre %1$d dana</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008b">
+        <item quantity="other">Poslednji put je korišćena pre %1$d meseci</item>
+        <item quantity="one">Poslednji put je korišćena pre %1$d mesec</item>
+        <item quantity="few">Poslednji put je korišćena pre %1$d meseca</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008c">
+        <item quantity="other">Da biste instalirali aplikacije ili ažuriranja na ovom uređaju, uklonite suvišne aplikacije. Prostor možete da oslobodite i brisanjem medijskih datoteka u odeljku Podešavanja memorijskog prostora.</item>
+        <item quantity="one">Da biste instalirali aplikacije ili ažuriranja na ovom uređaju, uklonite suvišne aplikacije. Prostor možete da oslobodite i brisanjem medijskih datoteka u odeljku Podešavanja memorijskog prostora.</item>
+        <item quantity="few">Da biste instalirali aplikacije ili ažuriranja na ovom uređaju, uklonite suvišne aplikacije. Prostor možete da oslobodite i brisanjem medijskih datoteka u odeljku Podešavanja memorijskog prostora.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008d">
+        <item quantity="other">Da biste instalirali aplikacije ili ažuriranja na ovom uređaju, uklonite suvišne aplikacije. Prostor možete da oslobodite i brisanjem medijskih datoteka u odeljku &lt;a href=\"\">Podešavanja > Memorijski prostor&lt;/a>.</item>
+        <item quantity="one">Da biste instalirali aplikacije ili ažuriranja na ovom uređaju, uklonite suvišne aplikacije. Prostor možete da oslobodite i brisanjem medijskih datoteka u odeljku &lt;a href=\"\">Podešavanja > Memorijski prostor&lt;/a>.</item>
+        <item quantity="few">Da biste instalirali aplikacije ili ažuriranja na ovom uređaju, uklonite suvišne aplikacije. Prostor možete da oslobodite i brisanjem medijskih datoteka u odeljku &lt;a href=\"\">Podešavanja > Memorijski prostor&lt;/a>.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008e">
+        <item quantity="other">Da biste instalirali aplikacije ili ažuriranja na ovom uređaju, uklonite suvišne aplikacije. Prostor možete da oslobodite i brisanjem medijskih datoteka u odeljku Podešavanja > Memorijski prostor.</item>
+        <item quantity="one">Da biste instalirali aplikacije ili ažuriranja na ovom uređaju, uklonite suvišne aplikacije. Prostor možete da oslobodite i brisanjem medijskih datoteka u odeljku Podešavanja > Memorijski prostor.</item>
+        <item quantity="few">Da biste instalirali aplikacije ili ažuriranja na ovom uređaju, uklonite suvišne aplikacije. Prostor možete da oslobodite i brisanjem medijskih datoteka u odeljku Podešavanja > Memorijski prostor.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008f">
+        <item quantity="other">%1$d aplikacija je deinstalirano</item>
+        <item quantity="one">%1$d aplikacija je deinstalirana</item>
+        <item quantity="few">%1$d aplikacije su deinstalirane</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120090">
+        <item quantity="other">Pronašli smo %1$d aplikacija koje dugo niste koristili. Ako uklonite te aplikacije, oslobodićete %2$d MB memorijskog prostora</item>
+        <item quantity="one">Pronašli smo %1$d aplikaciju koju dugo niste koristili. Ako uklonite te aplikacije, oslobodićete %2$d MB memorijskog prostora</item>
+        <item quantity="few">Pronašli smo %1$d aplikacije koje dugo niste koristili. Ako uklonite te aplikacije, oslobodićete %2$d MB memorijskog prostora</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120091">
+        <item quantity="other">Počinje za %1$d sati</item>
+        <item quantity="one">Počinje za %1$d sat</item>
+        <item quantity="few">Počinje za %1$d sata</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120092">
+        <item quantity="other">Počinje za %1$d dana</item>
+        <item quantity="one">Počinje za %1$d dan</item>
+        <item quantity="few">Počinje za %1$d dana</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120093">
+        <item quantity="other">Dostupno za %1$d sati</item>
+        <item quantity="one">Dostupno za %1$d sat</item>
+        <item quantity="few">Dostupno za %1$d sata</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120094">
+        <item quantity="other">Dostupno za %1$d dana</item>
+        <item quantity="one">Dostupno za %1$d dan</item>
+        <item quantity="few">Dostupno za %1$d dana</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120095">
+        <item quantity="other">Ovaj uređaj nije imao ažuriranje sistema više od %1$d meseci</item>
+        <item quantity="one">Ovaj uređaj nije imao ažuriranje sistema više od %1$d mesec</item>
+        <item quantity="few">Ovaj uređaj nije imao ažuriranje sistema više od %1$d meseca</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120096">
+        <item quantity="other">Poslovne aplikacije su uklonjene</item>
+        <item quantity="one">Poslovne aplikacije su uklonjene</item>
+        <item quantity="few">Poslovne aplikacije su uklonjene</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120097">
+        <item quantity="other">Pre %1$d godina</item>
+        <item quantity="one">Pre %1$d godinu</item>
+        <item quantity="few">Pre %1$d godine</item>
+    </plurals>
+</resources>

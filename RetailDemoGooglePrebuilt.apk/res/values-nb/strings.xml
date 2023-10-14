@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_retaildemoCommunication">Tillater at appen samhandler med Retail Demo Services. Bare Butikkdemo bør få denne tillatelsen. Apper med denne tillatelsen kan utløse handlinger som er forbeholdt butikkdemomodus.</string>
+    <string name="permlab_retaildemoCommunication">Kommunikasjon med butikkdemo</string>
+    <string name="retaildemo_preload_app_name">Retail Demo Services</string>
+</resources>

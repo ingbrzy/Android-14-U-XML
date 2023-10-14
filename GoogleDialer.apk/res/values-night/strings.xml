@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="playback_button_lottie_filename">record_voicemail_greeting_playback_button_dark.json</string>
+    <string name="playback_progress_lottie_filename">record_voicemail_greeting_progress_dark.json</string>
+    <string name="record_button_lottie_filename">record_voicemail_greeting_record_button_dark.json</string>
+</resources>

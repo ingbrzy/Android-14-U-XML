@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sound_amplifier_html_description">大きな音は大きくなりすぎず、小さな音は大きく聴こえるようになります&lt;br/>&lt;br/> &lt;b>音声増幅の使用方法&lt;/b>&lt;br/> 1. 有線ヘッドフォンまたは Bluetooth ヘッドフォンを接続します&lt;br/> 2. 音声増幅を起動します</string>
+    <string name="sound_amplifier_intro">音声増幅をヘッドフォンで使用すると、周囲やデバイスの音声の音質が改善されます</string>
+</resources>

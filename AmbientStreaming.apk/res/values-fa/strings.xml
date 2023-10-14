@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">سرویس‌های بین‌دستگاهی</string>
+    <string name="app_name_generic">برنامه</string>
+    <string name="app_stream_error_generic">درحین هم‌رسانی برنامه، خطایی رخ داد</string>
+    <string name="app_stream_init_error_generic">هم‌رسانی برنامه در Chromebook انجام نشد</string>
+    <string name="audio_permission_rationale">اجازه میکروفون برای هم‌رسانی برنامه غیرفعال است</string>
+    <string name="cancel_button_label">لغو</string>
+    <string name="chromebook_keyboard">صفحه‌کلید Chromebook</string>
+    <string name="chromebook_mouse">موشواره Chromebook</string>
+    <string name="chromebook_touchscreen">صفحه لمسی Chromebook</string>
+    <string name="connect_device">درحال اتصال تلفن به دستگاه راه‌دور: %1$s</string>
+    <string name="decline_button_label">نپذیرفتن</string>
+    <string name="development_notification_channel_name">توسعه</string>
+    <string name="device_camera_cannot_access">ازطریق این Chromebook نمی‌توان به دوربین دستگاه دسترسی پیدا کرد</string>
+    <string name="done_button_label">تمام</string>
+    <string name="enable_button_label">فعال کردن</string>
+    <string name="foreground_service_notification_channel_name">کلی</string>
+    <string name="foreground_service_notification_content">برای تغییر تنظیمات، ضربه بزنید</string>
+    <string name="foreground_service_notification_title">{0,plural, =1{به # دستگاه متصل است}one{به # دستگاه متصل است}other{به # دستگاه متصل است}}</string>
+    <string name="interactive_streaming_generic_notification">درحال جاری‌سازی %1$s و همگام‌سازی اعلان‌ها برای Chromebook</string>
+    <string name="interactive_streaming_individual_notification">درحال جاری‌سازی %1$s و همگام‌سازی اعلان‌ها برای %2$s</string>
+    <string name="interactive_streaming_notification">درحال جاری‌سازی به Chromebook</string>
+    <string name="keyboard_name">صفحه‌کلید بین‌دستگاهی</string>
+    <string name="lock_screen_notif_warning_content">اعلان‌ها را در صفحه قفل فعال کنید</string>
+    <string name="lock_screen_notif_warning_title">اعلان‌ها بازارسال نخواهند شد</string>
+    <string name="mouse_name">موشواره بین‌دستگاهی</string>
+    <string name="new_connection_confirm">تأیید</string>
+    <string name="new_connection_deny">رد کردن</string>
+    <string name="new_connection_title">لطفاً تطابق‌های رشته را تأیید کنید</string>
+    <string name="notification_access_missing">دسترسی به اعلان لازم است</string>
+    <string name="notification_access_missing_description">برای باز کردن اعلان‌ها در Chromebook، دسترسی به «اعلان‌ها» را روشن کنید</string>
+    <string name="notification_channel_name">کلی</string>
+    <string name="notification_listener_label">هم‌رسانی برنامه‌ها با Chromebook</string>
+    <string name="open_source_licenses">پروانه متن‌باز</string>
+    <string name="phone_permission_rationale">اجازه تماس تلفنی برای هم‌رسانی برنامه غیرفعال است</string>
+    <string name="prompt_switch_languages">برای عوض کردن زبان Gboard در تلفن، shift + space را فشار دهید</string>
+    <string name="settings_button">تنظیمات</string>
+    <string name="stop_sharing_button">توقف جاری‌سازی</string>
+    <string name="stream_termination_proximity_warning">تلفنتان خیلی دور است. برای ادامه دادن جاری‌سازی، آن را جلوتر بیاورید.</string>
+    <string name="substitute_app_name">سیستم</string>
+    <string name="summary_disable_wirecutter">خاموش</string>
+    <string name="summary_enable_wirecutter">روشن</string>
+    <string name="touchscreen_name">صفحه لمسی بین‌دستگاهی</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="azure_title">Azurskrika</string>
+    <string name="blackswan_title">Svart svan</string>
+    <string name="cockatoo_title">Kakadua</string>
+    <string name="come_alive_title">Vakna till liv</string>
+    <string name="feathers_attribution">Foto av Andrew Zuckerman</string>
+    <string name="feathers_description">Färgglada fjädrar</string>
+    <string name="feathers_title">Fjädrar</string>
+    <string name="greenwinged_title">Grönvingad ara</string>
+    <string name="king_title">Kungsgam</string>
+    <string name="living_universe_title">Levande universum</string>
+    <string name="photos_memory_gallery_title">Dina minnen</string>
+    <string name="pied_title">Svartvit kråka</string>
+    <string name="ringnecked_title">Halsbandsparakit</string>
+    <string name="seagull_title">Mås</string>
+</resources>

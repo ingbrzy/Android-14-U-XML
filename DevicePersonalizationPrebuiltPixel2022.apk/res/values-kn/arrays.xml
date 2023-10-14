@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="call_captions_typing_predictions_post_system_message">
+        <item>ನಮಸ್ಕಾರ, ಯಾರಿದು?</item>
+        <item>ನಮಸ್ಕಾರ, ಹೇಗಿದ್ದೀರಾ?</item>
+        <item>ಒಂದು ನಿಮಿಷ ಕಾಯಿರಿ</item>
+        <item>ನಮಸ್ಕಾರ, ನಂತರ ಕರೆ ಮಾಡುವಿರಾ?</item>
+        <item>ನಮಸ್ಕಾರ! ಕರೆ ಮಾಡಿದ್ದಕ್ಕಾಗಿ ಧನ್ಯವಾದಗಳು.</item>
+    </string-array>
+    <string-array name="captions_settings_enable_for_calls_choices_entries">
+        <item>ಪ್ರತಿ ಬಾರಿ ಕೇಳಿ</item>
+        <item>ಯಾವಾಗಲೂ</item>
+        <item>ಆಫ್ ಆಗಿದೆ</item>
+    </string-array>
+    <string-array name="captions_settings_typing_voice_names">
+        <item>ಧ್ವನಿ A</item>
+        <item>ಧ್ವನಿ B</item>
+        <item>ಧ್ವನಿ C</item>
+        <item>ಧ್ವನಿ D</item>
+        <item>ಧ್ವನಿ E</item>
+        <item>ಧ್ವನಿ F</item>
+        <item>ಧ್ವನಿ G</item>
+        <item>ಧ್ವನಿ H</item>
+        <item>ಧ್ವನಿ I</item>
+        <item>ಧ್ವನಿ J</item>
+        <item>ಧ್ವನಿ K</item>
+        <item>ಧ್ವನಿ L</item>
+        <item>ಧ್ವನಿ M</item>
+        <item>ಧ್ವನಿ N</item>
+        <item>ಧ್ವನಿ O</item>
+        <item>ಧ್ವನಿ P</item>
+    </string-array>
+    <string-array name="pref_download_policy_entries">
+        <item>ಮೊಬೈಲ್ + ವೈಫೈ</item>
+        <item>ವೈಫೈ ಮಾತ್ರ</item>
+        <item>ಅಪ್‌ಡೇಟ್‌ ಮಾಡಬೇಡಿ</item>
+    </string-array>
+    <string-array name="pref_download_policy_entry_values_placeholder">
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+</resources>

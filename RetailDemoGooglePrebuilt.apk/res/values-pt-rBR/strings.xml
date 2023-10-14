@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_retaildemoCommunication">Permite que o app interaja com o Serviços de Demonstração na Loja. Apenas o app Serviços de Demonstração na Loja pode receber essa permissão. Os apps que a tiverem vão poder acionar ações reservadas para o modo de demonstração na loja.</string>
+    <string name="permlab_retaildemoCommunication">Comunicação do Retail Demo</string>
+    <string name="retaildemo_preload_app_name">Retail Demo Services</string>
+</resources>

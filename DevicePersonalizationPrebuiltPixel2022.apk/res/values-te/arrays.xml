@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="call_captions_typing_predictions_post_system_message">
+        <item>హలో, ఇది ఎవరు?</item>
+        <item>హాయ్, ఎలా ఉన్నారు?</item>
+        <item>దయచేసి ఒక్క నిమిషం ఆగండి</item>
+        <item>హాయ్, మీరు తర్వాత తిరిగి కాల్ చేయగలరా?</item>
+        <item>హాయ్! కాల్ చేసినందుకు ధన్యవాదాలు.</item>
+    </string-array>
+    <string-array name="captions_settings_enable_for_calls_choices_entries">
+        <item>ప్రతిసారి అడగాలి</item>
+        <item>ఎల్లప్పుడూ</item>
+        <item>ఆఫ్</item>
+    </string-array>
+    <string-array name="captions_settings_typing_voice_names">
+        <item>వాయిస్ A</item>
+        <item>వాయిస్ B</item>
+        <item>వాయిస్ C</item>
+        <item>వాయిస్ D</item>
+        <item>వాయిస్ E</item>
+        <item>వాయిస్ F</item>
+        <item>వాయిస్ G</item>
+        <item>వాయిస్ H</item>
+        <item>వాయిస్ I</item>
+        <item>వాయిస్ J</item>
+        <item>వాయిస్ K</item>
+        <item>వాయిస్ L</item>
+        <item>వాయిస్ M</item>
+        <item>వాయిస్ N</item>
+        <item>వాయిస్ O</item>
+        <item>వాయిస్ P</item>
+    </string-array>
+    <string-array name="pref_download_policy_entries">
+        <item>మొబైల్ + WiFi</item>
+        <item>WiFi మాత్రమే</item>
+        <item>అప్‌డేట్ చేయవద్దు</item>
+    </string-array>
+    <string-array name="pref_download_policy_entry_values_placeholder">
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+</resources>

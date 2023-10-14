@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Többeszközös szolgáltatások</string>
+    <string name="app_name_generic">egy alkalmazás</string>
+    <string name="app_stream_error_generic">Hiba történt az alkalmazás megosztásakor</string>
+    <string name="app_stream_init_error_generic">Nem sikerült megosztani az alkalmazást a Chromebookkal</string>
+    <string name="audio_permission_rationale">A mikrofonhasználati engedély le van tiltva az alkalmazásmegosztásnál</string>
+    <string name="cancel_button_label">Mégse</string>
+    <string name="chromebook_keyboard">Chromebook-billentyűzet</string>
+    <string name="chromebook_mouse">Chromebook-egér</string>
+    <string name="chromebook_touchscreen">Chromebook-érintőképernyő</string>
+    <string name="connect_device">Folyamatban van a telefon csatlakoztatása a távoli eszközhöz: %1$s</string>
+    <string name="decline_button_label">Elutasítás</string>
+    <string name="development_notification_channel_name">Fejlesztés</string>
+    <string name="device_camera_cannot_access">Ezen a Chromebookon nem lehet hozzáférni az eszközkamerához</string>
+    <string name="done_button_label">Kész</string>
+    <string name="enable_button_label">Engedélyezés</string>
+    <string name="foreground_service_notification_channel_name">Általános</string>
+    <string name="foreground_service_notification_content">Koppintson a beállítások módosításához</string>
+    <string name="foreground_service_notification_title">{0,plural, =1{Csatlakoztatva # eszközhöz}other{Csatlakoztatva # eszközhöz}}</string>
+    <string name="interactive_streaming_generic_notification">A(z) %1$s streamelése és értesítések szinkronizálása a Chromebookkal</string>
+    <string name="interactive_streaming_individual_notification">A(z) %1$s streamelése és a(z) %2$s értesítéseinek szinkronizálása</string>
+    <string name="interactive_streaming_notification">Streamelés a Chromebookra</string>
+    <string name="keyboard_name">Többeszközös billentyűzet</string>
+    <string name="lock_screen_notif_warning_content">Engedélyezze az értesítéseket a lezárási képernyőn</string>
+    <string name="lock_screen_notif_warning_title">Az értesítések nem lesznek továbbítva</string>
+    <string name="mouse_name">Többeszközös egér</string>
+    <string name="new_connection_confirm">Megerősítés</string>
+    <string name="new_connection_deny">Elutasítás</string>
+    <string name="new_connection_title">Egyezésigazolás</string>
+    <string name="notification_access_missing">Értesítésekhez való hozzáférésre van szükség</string>
+    <string name="notification_access_missing_description">Ha szeretné megnyitni az értesítéseket a Chromebookján, kapcsolja be az értesítésekhez való hozzáférést</string>
+    <string name="notification_channel_name">Általános</string>
+    <string name="notification_listener_label">Alkalmazások megosztása a Chromebookjával</string>
+    <string name="open_source_licenses">Nyílt forráskódú licencek</string>
+    <string name="phone_permission_rationale">A telefonhasználati engedély le van tiltva az alkalmazásmegosztásnál</string>
+    <string name="prompt_switch_languages">A telefon Gboard-nyelvei között a Shift + szóköz billentyűkombinációval válthat</string>
+    <string name="settings_button">Beállítások</string>
+    <string name="stop_sharing_button">Streamelés vége</string>
+    <string name="stream_termination_proximity_warning">Telefonja túl messze van. Hozza közelebb a streamelés folytatásához.</string>
+    <string name="substitute_app_name">Rendszer</string>
+    <string name="summary_disable_wirecutter">Ki</string>
+    <string name="summary_enable_wirecutter">Be</string>
+    <string name="touchscreen_name">Többeszközös érintőképernyő</string>
+</resources>

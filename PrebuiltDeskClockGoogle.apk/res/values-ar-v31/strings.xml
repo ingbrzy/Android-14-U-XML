@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="analog_widget_clover_clock_name">على شكل ورقة البرسيم</string>
+    <string name="analog_widget_clover_content_description">خلفية شاشة ساعة على شكل ورقة البرسيم</string>
+    <string name="analog_widget_config_activity_title">اختيار خلفية شاشة الساعة</string>
+    <string name="analog_widget_day_clock_name">اليوم</string>
+    <string name="analog_widget_day_content_description">خلفية شاشة ساعة تعرض اليوم من الشهر</string>
+    <string name="analog_widget_numeral_clock_name">الرقم</string>
+    <string name="analog_widget_numeral_content_description">خلفية شاشة ساعة تعرض أرقامًا كبيرة الحجم</string>
+    <string name="analog_widget_scallop_clock_name">على شكل الإسكالوب</string>
+    <string name="analog_widget_scallop_content_description">خلفية شاشة ساعة تعرض اليوم من الأسبوع والشهر</string>
+    <string name="cities_widget_config_activity_subtitle">يمكن إضافة المدن من علامة التبويب \"الساعة\".</string>
+    <string name="cities_widget_config_activity_subtitle_button">اختيار المدن في تطبيق \"الساعة\"</string>
+    <string name="cities_widget_preview_city_london">لندن</string>
+    <string name="cities_widget_preview_city_mountain_view">ماونتن فيو</string>
+    <string name="clock_widget_opaque_label">ساعة متينة</string>
+    <string name="clock_widget_transparent_label">ساعة شفّافة</string>
+    <string name="digital_appwidget_config_activity_title">اختيار شكل الساعة</string>
+    <string name="digital_cities_gadget">ساعة عالمية</string>
+    <string name="digital_cities_gadget_description">اختيار المدن في تطبيق \"الساعة\"</string>
+    <string name="digital_stacked_gadget">ساعة رقمية متراكبة</string>
+    <string name="digital_widgets_preview_alarm">الإثنين 09:30</string>
+    <string name="stopwatch_gadget_description">التحكُّم في ساعة الإيقاف في تطبيق \"الساعة\"</string>
+</resources>

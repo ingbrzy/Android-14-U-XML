@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="account_exists_text_multiple">
+        <item quantity="other">"As seguintes contas estão prontas:
+
+"&lt;annotation textAppearance="TextAppearance.SudDescription.Medium">^1&lt;/annotation></item>
+        <item quantity="one">"As seguintes contas estão prontas:
+
+"&lt;annotation textAppearance="TextAppearance.SudDescription.Medium">^1&lt;/annotation></item>
+    </plurals>
+    <plurals name="people_contacts_sync_failure_in_contacts_title_in_portal">
+        <item quantity="other">Não foi possível sincronizar %1$,d de %2$,d contatos</item>
+        <item quantity="one">Não foi possível sincronizar %1$,d de %2$,d contatos</item>
+    </plurals>
+    <plurals name="people_contacts_sync_failure_in_photos_title_in_portal">
+        <item quantity="other">Não foi possível sincronizar %1$,d de %2$,d fotos de contato</item>
+        <item quantity="one">Não foi possível sincronizar %1$,d de %2$,d fotos de contato</item>
+    </plurals>
+    <plurals name="people_contacts_sync_succeed_title_in_portal">
+        <item quantity="other">%,d contatos sincronizados com o Contatos do Google</item>
+        <item quantity="one">%,d contato sincronizado com o Contatos do Google</item>
+    </plurals>
+    <plurals name="qr_provision_toast">
+        <item quantity="other">Toque mais %d vezes para iniciar a configuração com o código QR</item>
+        <item quantity="one">Toque mais %d vez para iniciar a configuração com o código QR</item>
+    </plurals>
+    <plurals name="slots_selection_text">
+        <item quantity="other">Os números %d foram adicionados a este dispositivo, mas apenas um pode ser usado por vez.</item>
+        <item quantity="one">O número %d foi adicionado a este dispositivo, mas apenas um pode ser usado por vez.</item>
+    </plurals>
+    <plurals name="survey_star_rating">
+        <item quantity="other">%1$d estrelas de %2$d</item>
+        <item quantity="one">%1$d estrela de %2$d</item>
+    </plurals>
+</resources>

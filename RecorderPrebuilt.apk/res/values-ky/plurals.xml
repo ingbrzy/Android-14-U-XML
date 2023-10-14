@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dlg_message_deletion_confirmation">
+        <item quantity="other">Жаздырууларыңыз биротоло өчүрүлөт. Бул аракет артка кайтарылбайт.</item>
+        <item quantity="one">Жаздырууңуз биротоло өчүрүлөт. Бул аракет артка кайтарылбайт.</item>
+    </plurals>
+    <plurals name="dlg_message_deletion_permanent_confirmation">
+        <item quantity="other">Жаздырылган нерселердин камдык көчүрмөсү сакталган жок. Алар биротоло өчүрүлөт. Бул аракетти артка кайтара албайсыз.</item>
+        <item quantity="one">Жаздыруунун камдык көчүрмөсү сакталган жок. Ал биротоло өчүрүлөт. Бул аракетти артка кайтара албайсыз.</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_confirmation">
+        <item quantity="other">Жаздыруулар өчүрүлсүбү?</item>
+        <item quantity="one">Жаздыруу өчүрүлсүнбү?</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_permanent_confirmation">
+        <item quantity="other">Бул жаздыруулар биротоло өчүрүлсүнбү?</item>
+        <item quantity="one">Бул жаздыруу биротоло өчүрүлсүнбү?</item>
+    </plurals>
+    <plurals name="download_failure_description_storage_full">
+        <item quantity="other">Түзмөгүңүздүн сактагычы толуп калгандыктан, жаздыруулар жүктөлүп алынган жок. Көрүү үчүн таптап коюңуз.</item>
+        <item quantity="one">Түзмөктүн сактагычы толуп калды. Көрүү үчүн таптап коюңуз.</item>
+    </plurals>
+    <plurals name="downloading_description">
+        <item quantity="other">%1$d жаздыруу жүктөлүп алынууда</item>
+        <item quantity="one">%1$d жаздыруу жүктөлүп алынууда</item>
+    </plurals>
+    <plurals name="og_backup_failed_title">
+        <item quantity="other">%1$d нерсенин камдык көчүрмөсү сакталган жок</item>
+        <item quantity="one">%1$d нерсенин камдык көчүрмөсү сакталган жок</item>
+    </plurals>
+    <plurals name="og_backup_items_left">
+        <item quantity="other">%1$d нерсе калды</item>
+        <item quantity="one">%1$d нерсе калды</item>
+    </plurals>
+    <plurals name="og_backup_items_stopped_title">
+        <item quantity="other">%1$d объекттин камдык көчүрмөсү сакталган жок</item>
+        <item quantity="one">%1$d объекттин камдык көчүрмөсү сакталган жок</item>
+    </plurals>
+    <plurals name="peoplekit_chips_copied_recipients">
+        <item quantity="other">%d алуучу көчүрүлдү</item>
+        <item quantity="one">%d алуучу көчүрүлдү</item>
+    </plurals>
+    <plurals name="search_results_count">
+        <item quantity="other">%1$d натыйжа</item>
+        <item quantity="one">%1$d натыйжа</item>
+    </plurals>
+    <plurals name="search_results_position">
+        <item quantity="other">^1/^2 натыйжа</item>
+        <item quantity="one">^1/^2 натыйжа</item>
+    </plurals>
+    <plurals name="search_results_position_content_description">
+        <item quantity="other">%2$d ичинен %1$d натыйжа</item>
+        <item quantity="one">%2$d ичинен %1$d натыйжа</item>
+    </plurals>
+    <plurals name="selected_recording_quantity">
+        <item quantity="other">%1$d тандалды</item>
+        <item quantity="one">%1$d тандалды</item>
+    </plurals>
+    <plurals name="snackbar_message_download_failed_storage_full">
+        <item quantity="other">Түзмөктүн сактагычы толуп калды. Жаздыруулар жүктөлүп алынбай жатат.</item>
+        <item quantity="one">Түзмөктүн сактагычы толуп калды. Жаздыруу жүктөлүп алынбай жатат.</item>
+    </plurals>
+    <plurals name="speaker_count">
+        <item quantity="other">%1$d динамик</item>
+        <item quantity="one">%1$d динамик</item>
+    </plurals>
+    <plurals name="uploading_description">
+        <item quantity="other">%1$d жаздыруу жүктөлүп берилүүдө</item>
+        <item quantity="one">%1$d жаздыруу жүктөлүп берилүүдө</item>
+    </plurals>
+</resources>

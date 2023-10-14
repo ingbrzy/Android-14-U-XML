@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dlg_message_deletion_confirmation">
+        <item quantity="other">Deine Aufnahmen werden dauerhaft gelöscht. Diese Aktion kann nicht rückgängig gemacht werden.</item>
+        <item quantity="one">Deine Aufnahme wird dauerhaft gelöscht. Diese Aktion kann nicht rückgängig gemacht werden.</item>
+    </plurals>
+    <plurals name="dlg_message_deletion_permanent_confirmation">
+        <item quantity="other">Aufnahmen werden nicht gesichert. Sie werden dauerhaft gelöscht. Dieser Vorgang kann nicht rückgängig gemacht werden.</item>
+        <item quantity="one">Aufnahme wird nicht gesichert. Sie wird dauerhaft gelöscht. Dieser Vorgang kann nicht rückgängig gemacht werden.</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_confirmation">
+        <item quantity="other">Aufnahmen löschen?</item>
+        <item quantity="one">Aufnahme löschen?</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_permanent_confirmation">
+        <item quantity="other">Diese Aufnahmen dauerhaft löschen?</item>
+        <item quantity="one">Diese Aufnahme dauerhaft löschen?</item>
+    </plurals>
+    <plurals name="download_failure_description_storage_full">
+        <item quantity="other">Die Aufnahmen können nicht heruntergeladen werden, weil der Gerätespeicher voll ist. Zum Prüfen tippen.</item>
+        <item quantity="one">Der Gerätespeicher ist voll. Zum Prüfen tippen.</item>
+    </plurals>
+    <plurals name="downloading_description">
+        <item quantity="other">%1$d Aufzeichnungen werden heruntergeladen</item>
+        <item quantity="one">%1$d Aufzeichnung wird heruntergeladen</item>
+    </plurals>
+    <plurals name="og_backup_failed_title">
+        <item quantity="other">%1$d Elemente konnten nicht gesichert werden</item>
+        <item quantity="one">%1$d Element konnte nicht gesichert werden</item>
+    </plurals>
+    <plurals name="og_backup_items_left">
+        <item quantity="other">Noch %1$d Elemente</item>
+        <item quantity="one">Noch %1$d Element</item>
+    </plurals>
+    <plurals name="og_backup_items_stopped_title">
+        <item quantity="other">%1$d Elemente nicht gesichert</item>
+        <item quantity="one">%1$d Element nicht gesichert</item>
+    </plurals>
+    <plurals name="peoplekit_chips_copied_recipients">
+        <item quantity="other">%d Empfänger kopiert</item>
+        <item quantity="one">%d Empfänger kopiert</item>
+    </plurals>
+    <plurals name="search_results_count">
+        <item quantity="other">%1$d Ergebnisse</item>
+        <item quantity="one">%1$d Ergebnis</item>
+    </plurals>
+    <plurals name="search_results_position">
+        <item quantity="other">^1/^2 Ergebnisse</item>
+        <item quantity="one">^1/^2 Ergebnis</item>
+    </plurals>
+    <plurals name="search_results_position_content_description">
+        <item quantity="other">%1$d von %2$d Ergebnissen</item>
+        <item quantity="one">%1$d von %2$d Ergebnis</item>
+    </plurals>
+    <plurals name="selected_recording_quantity">
+        <item quantity="other">%1$d ausgewählt</item>
+        <item quantity="one">%1$d ausgewählt</item>
+    </plurals>
+    <plurals name="snackbar_message_download_failed_storage_full">
+        <item quantity="other">Der Gerätespeicher ist voll. Die Aufnahmen können nicht heruntergeladen werden.</item>
+        <item quantity="one">Der Gerätespeicher ist voll. Die Aufnahme kann nicht heruntergeladen werden.</item>
+    </plurals>
+    <plurals name="speaker_count">
+        <item quantity="other">%1$d Lautsprecher</item>
+        <item quantity="one">%1$d Lautsprecher</item>
+    </plurals>
+    <plurals name="uploading_description">
+        <item quantity="other">%1$d Aufnahmen werden hochgeladen</item>
+        <item quantity="one">%1$d Aufnahme wird hochgeladen</item>
+    </plurals>
+</resources>

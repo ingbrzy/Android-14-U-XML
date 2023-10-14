@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="azure_title">Azūra zilkrauklis</string>
+    <string name="blackswan_title">Melnais gulbis</string>
+    <string name="cockatoo_title">Kakadu</string>
+    <string name="come_alive_title">Animēts ekrāns</string>
+    <string name="feathers_attribution">Fotogrāfs — Endrjū Cukermans (Andrew Zuckerman)</string>
+    <string name="feathers_description">Krāsām bagāts un detalizēts putnu spalvu attēlojums</string>
+    <string name="feathers_title">Spalvas</string>
+    <string name="greenwinged_title">Zaļspārnu ara</string>
+    <string name="king_title">Karaliskais grifs</string>
+    <string name="living_universe_title">Dzīvā pasaule</string>
+    <string name="photos_memory_gallery_title">Jūsu atmiņas</string>
+    <string name="pied_title">Baltvēdera krauklis</string>
+    <string name="ringnecked_title">Gredzenkakla papagailis</string>
+    <string name="seagull_title">Kaija</string>
+</resources>

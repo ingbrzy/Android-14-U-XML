@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dots">
+        <item quantity="other">крапки %s</item>
+        <item quantity="one">крапка %s</item>
+        <item quantity="few">крапки %s</item>
+        <item quantity="many">крапки %s</item>
+    </plurals>
+    <plurals name="gestures_recorded_message">
+        <item quantity="other">Записано %d жесту</item>
+        <item quantity="one">Записано %d жест</item>
+        <item quantity="few">Записано %d жести</item>
+        <item quantity="many">Записано %d жестів</item>
+    </plurals>
+    <plurals name="label_num_keys_assigned_format">
+        <item quantity="other">Призначено %d перемикача</item>
+        <item quantity="one">Призначено %d перемикач</item>
+        <item quantity="few">Призначено %d перемикачі</item>
+        <item quantity="many">Призначено %d перемикачів</item>
+    </plurals>
+    <plurals name="label_num_scanning_loops_format">
+        <item quantity="other">%d циклу</item>
+        <item quantity="one">%d цикл</item>
+        <item quantity="few">%d цикли</item>
+        <item quantity="many">%d циклів</item>
+    </plurals>
+    <plurals name="line_speed_summary_format">
+        <item quantity="other">%.2f см на секунду</item>
+        <item quantity="one">%.2f см на секунду</item>
+        <item quantity="few">%.2f см на секунду</item>
+        <item quantity="many">%.2f см на секунду</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d нового сповіщення</item>
+        <item quantity="one">%d нове сповіщення</item>
+        <item quantity="few">%d нові сповіщення</item>
+        <item quantity="many">%d нових сповіщень</item>
+    </plurals>
+    <plurals name="time_delay_summary_format">
+        <item quantity="other">%.2f секунди</item>
+        <item quantity="one">%.2f секунда</item>
+        <item quantity="few">%.2f секунди</item>
+        <item quantity="many">%.2f секунд</item>
+    </plurals>
+</resources>

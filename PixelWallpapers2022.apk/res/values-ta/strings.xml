@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="azure_title">நீல நிறக் காகம்</string>
+    <string name="blackswan_title">கருப்பு அன்னம்</string>
+    <string name="cockatoo_title">கொண்டைக்கிளி</string>
+    <string name="come_alive_title">உயிரோட்டமிக்க வால்பேப்பர்கள்</string>
+    <string name="feathers_attribution">ஆண்ட்ரூ ஸுக்கர்மேன் எடுத்த படம்</string>
+    <string name="feathers_description">பறவைகளின் வண்ணமிகு இறகுகளைத் தெளிவாகக் காட்டும் படங்கள்</string>
+    <string name="feathers_title">இறகுகள்</string>
+    <string name="greenwinged_title">பச்சை நிற இறகுடைய பஞ்சவர்ணக்கிளி</string>
+    <string name="king_title">செந்தலைக் கழுகு</string>
+    <string name="living_universe_title">பிரபஞ்சக் காட்சிகள்</string>
+    <string name="photos_memory_gallery_title">உங்கள் நினைவுகள்</string>
+    <string name="pied_title">இரு நிறக் காகம்</string>
+    <string name="ringnecked_title">பச்சைக்கிளி</string>
+    <string name="seagull_title">கடற்பறவை</string>
+</resources>

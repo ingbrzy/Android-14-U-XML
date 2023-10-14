@@ -1,0 +1,1320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="a_homophones" />
+    <string-array name="a_i_homophones">
+        <item>hey i</item>
+    </string-array>
+    <string-array name="a_u_homophones">
+        <item>hey you</item>
+    </string-array>
+    <string-array name="ampersand_phrases">
+        <item>ampersand</item>
+        <item>and</item>
+        <item>and sign</item>
+        <item>and symbol</item>
+    </string-array>
+    <string-array name="answer_key_labels">
+        <item>answer</item>
+        <item>takecall</item>
+        <item>accept</item>
+    </string-array>
+    <string-array name="apostrophe_phrases">
+        <item>apostrophe</item>
+        <item>single quote</item>
+    </string-array>
+    <string-array name="asterisk_homophones">
+        <item>asterisks</item>
+        <item>astric</item>
+        <item>asterix</item>
+    </string-array>
+    <string-array name="asterisk_symbol_phrases">
+        <item>star</item>
+        <item>star sign</item>
+        <item>star symbol</item>
+        <item>asterisk</item>
+    </string-array>
+    <string-array name="at_symbol_phrases">
+        <item>at</item>
+        <item>at sign</item>
+        <item>at symbol</item>
+    </string-array>
+    <string-array name="b_homophones">
+        <item>be</item>
+    </string-array>
+    <string-array name="back_button_content_descriptions_preferred">
+        <item>reply</item>
+        <item>reply all</item>
+    </string-array>
+    <string-array name="backslash_phrases">
+        <item>backslash</item>
+    </string-array>
+    <string-array name="beginning_quote_phrases">
+        <item>begin quote</item>
+        <item>beginning quote</item>
+        <item>double quote</item>
+    </string-array>
+    <string-array name="c_homophones">
+        <item>see</item>
+    </string-array>
+    <string-array name="capital_identifiers">
+        <item>capital</item>
+        <item>uppercase</item>
+        <item>upper case</item>
+        <item>majuscule</item>
+        <item>big</item>
+        <item>cap</item>
+    </string-array>
+    <string-array name="caret_homophones">
+        <item>carrot</item>
+        <item>carrot sign</item>
+        <item>carrot symbol</item>
+    </string-array>
+    <string-array name="caret_symbol_phrases">
+        <item>caret</item>
+        <item>caret sign</item>
+        <item>caret symbol</item>
+    </string-array>
+    <string-array name="close_brace_homophones">
+        <item>write brace</item>
+    </string-array>
+    <string-array name="close_brace_phrases">
+        <item>close brace</item>
+        <item>right brace</item>
+    </string-array>
+    <string-array name="close_bracket_homophones">
+        <item>write bracket</item>
+    </string-array>
+    <string-array name="close_bracket_phrases">
+        <item>close bracket</item>
+        <item>right bracket</item>
+    </string-array>
+    <string-array name="close_parenthesis_homophones">
+        <item>write parenthesis</item>
+    </string-array>
+    <string-array name="close_parenthesis_phrases">
+        <item>close parenthesis</item>
+        <item>right parenthesis</item>
+    </string-array>
+    <string-array name="colon_phrases">
+        <item>colon</item>
+    </string-array>
+    <array name="com_google_android_gms_fonts_certs">
+        <item>@array/com_google_android_gms_fonts_certs_dev</item>
+        <item>@array/com_google_android_gms_fonts_certs_prod</item>
+    </array>
+    <string-array name="com_google_android_gms_fonts_certs_dev">
+        <item>MIIEqDCCA5CgAwIBAgIJANWFuGx90071MA0GCSqGSIb3DQEBBAUAMIGUMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEQMA4GA1UEChMHQW5kcm9pZDEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDEiMCAGCSqGSIb3DQEJARYTYW5kcm9pZEBhbmRyb2lkLmNvbTAeFw0wODA0MTUyMzM2NTZaFw0zNTA5MDEyMzM2NTZaMIGUMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEQMA4GA1UEChMHQW5kcm9pZDEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDEiMCAGCSqGSIb3DQEJARYTYW5kcm9pZEBhbmRyb2lkLmNvbTCCASAwDQYJKoZIhvcNAQEBBQADggENADCCAQgCggEBANbOLggKv+IxTdGNs8/TGFy0PTP6DHThvbbR24kT9ixcOd9W+EaBPWW+wPPKQmsHxajtWjmQwWfna8mZuSeJS48LIgAZlKkpFeVyxW0qMBujb8X8ETrWy550NaFtI6t9+u7hZeTfHwqNvacKhp1RbE6dBRGWynwMVX8XW8N1+UjFaq6GCJukT4qmpN2afb8sCjUigq0GuMwYXrFVee74bQgLHWGJwPmvmLHC69EH6kWr22ijx4OKXlSIx2xT1AsSHee70w5iDBiK4aph27yH3TxkXy9V89TDdexAcKk/cVHYNnDBapcavl7y0RiQ4biu8ymM8Ga/nmzhRKya6G0cGw8CAQOjgfwwgfkwHQYDVR0OBBYEFI0cxb6VTEM8YYY6FbBMvAPyT+CyMIHJBgNVHSMEgcEwgb6AFI0cxb6VTEM8YYY6FbBMvAPyT+CyoYGapIGXMIGUMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEQMA4GA1UEChMHQW5kcm9pZDEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDEiMCAGCSqGSIb3DQEJARYTYW5kcm9pZEBhbmRyb2lkLmNvbYIJANWFuGx90071MAwGA1UdEwQFMAMBAf8wDQYJKoZIhvcNAQEEBQADggEBABnTDPEF+3iSP0wNfdIjIz1AlnrPzgAIHVvXxunW7SBrDhEglQZBbKJEk5kT0mtKoOD1JMrSu1xuTKEBahWRbqHsXclaXjoBADb0kkjVEJu/Lh5hgYZnOjvlba8Ld7HCKePCVePoTJBdI4fvugnL8TsgK05aIskyY0hKI9L8KfqfGTl1lzOv2KoWD0KWwtAWPoGChZxmQ+nBli+gwYMzM1vAkP+aayLe0a1EQimlOalO762r0GXO0ks+UeXde2Z4e+8S/pf7pITEI/tP+MxJTALw9QUWEv9lKTk+jkbqxbsh8nfBUapfKqYn0eidpwq2AzVp3juYl7//fKnaPhJD9gs=</item>
+    </string-array>
+    <string-array name="com_google_android_gms_fonts_certs_prod">
+        <item>MIIEQzCCAyugAwIBAgIJAMLgh0ZkSjCNMA0GCSqGSIb3DQEBBAUAMHQxCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpDYWxpZm9ybmlhMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtHb29nbGUgSW5jLjEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDAeFw0wODA4MjEyMzEzMzRaFw0zNjAxMDcyMzEzMzRaMHQxCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpDYWxpZm9ybmlhMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtHb29nbGUgSW5jLjEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDCCASAwDQYJKoZIhvcNAQEBBQADggENADCCAQgCggEBAKtWLgDYO6IIrgqWbxJOKdoR8qtW0I9Y4sypEwPpt1TTcvZApxsdyxMJZ2JORland2qSGT2y5b+3JKkedxiLDmpHpDsz2WCbdxgxRczfey5YZnTJ4VZbH0xqWVW/8lGmPav5xVwnIiJS6HXk+BVKZF+JcWjAsb/GEuq/eFdpuzSqeYTcfi6idkyugwfYwXFU1+5fZKUaRKYCwkkFQVfcAs1fXA5V+++FGfvjJ/CxURaSxaBvGdGDhfXE28LWuT9ozCl5xw4Yq5OGazvV24mZVSoOO0yZ31j7kYvtwYK6NeADwbSxDdJEqO4k//0zOHKrUiGYXtqw/A0LFFtqoZKFjnkCAQOjgdkwgdYwHQYDVR0OBBYEFMd9jMIhF1Ylmn/Tgt9r45jk14alMIGmBgNVHSMEgZ4wgZuAFMd9jMIhF1Ylmn/Tgt9r45jk14aloXikdjB0MQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEUMBIGA1UEChMLR29vZ2xlIEluYy4xEDAOBgNVBAsTB0FuZHJvaWQxEDAOBgNVBAMTB0FuZHJvaWSCCQDC4IdGZEowjTAMBgNVHRMEBTADAQH/MA0GCSqGSIb3DQEBBAUAA4IBAQBt0lLO74UwLDYKqs6Tm8/yzKkEu116FmH4rkaymUIE0P9KaMftGlMexFlaYjzmB2OxZyl6euNXEsQH8gjwyxCUKRJNexBiGcCEyj6z+a1fuHHvkiaai+KL8W1EyNmgjmyy8AW7P+LLlkR+ho5zEHatRbM/YAnqGcFh5iZBqpknHf1SKMXFh4dd239FJ1jWYfbMDMy3NS5CTMQ2XFI1MvcyUTdZPErjQfTbQe3aDQsQcafEQPD+nqActifKZ0Np0IS9L9kR/wbNvyz6ENwPiTrjV2KRkEjH78ZMcUQXg0L3BYHJ3lc69Vs5Ddf9uUGGMYldX3WfMBEmh/9iFBDAaTCK</item>
+    </string-array>
+    <string-array name="comma_phrases">
+        <item>comma</item>
+    </string-array>
+    <array name="d_homophones" />
+    <string-array name="dash_phrases">
+        <item>dash</item>
+        <item>hyphen</item>
+        <item>minus</item>
+        <item>minus sign</item>
+        <item>minus symbol</item>
+        <item>subtract sign</item>
+        <item>subtract symbol</item>
+        <item>subtraction sign</item>
+        <item>subtraction symbol</item>
+    </string-array>
+    <string-array name="dollar_symbol_phrases">
+        <item>dollar sign</item>
+        <item>dollar symbol</item>
+    </string-array>
+    <array name="e_homophones" />
+    <array name="eight_homophones" />
+    <string-array name="ellipses_phrases">
+        <item>dot dot dot</item>
+        <item>dot-dot-dot</item>
+        <item>ellipses</item>
+        <item>ellipsis</item>
+    </string-array>
+    <string-array name="ending_quote_phrases">
+        <item>end quote</item>
+        <item>ending quote</item>
+        <item>double quote</item>
+    </string-array>
+    <string-array name="enter_key_labels">
+        <item>Search</item>
+        <item>Go</item>
+        <item>Done</item>
+        <item>Next</item>
+    </string-array>
+    <string-array name="equals_phrases">
+        <item>equals</item>
+        <item>equals sign</item>
+        <item>equals symbol</item>
+        <item>equal</item>
+        <item>equal sign</item>
+        <item>equal symbol</item>
+    </string-array>
+    <string-array name="error_no_query_present_for_assistant">
+        <item>Try \"Hey Google, set timer for 5 minute\"</item>
+        <item>Try \"Hey Google, turn on flashlight\"</item>
+        <item>Try \"Hey Google, when was the Empire State Building built\"</item>
+        <item>Try \"Hey Google, who created Google\"</item>
+        <item>Try \"OK Google, set timer for 5 minute\"</item>
+        <item>Try \"OK Google, turn on flashlight\"</item>
+        <item>Try \"OK Google, when was the Empire State Building built\"</item>
+        <item>Try \"OK Google, who created Google\"</item>
+    </string-array>
+    <string-array name="exclamation_mark_phrases">
+        <item>exclamation mark</item>
+    </string-array>
+    <array name="f_homophones" />
+    <array name="five_homophones" />
+    <string-array name="four_homophones">
+        <item>for</item>
+    </string-array>
+    <array name="g_homophones" />
+    <string-array name="greater_than_symbol_phrases">
+        <item>greater than</item>
+        <item>greater than sign</item>
+        <item>greater than symbol</item>
+    </string-array>
+    <array name="h_homophones" />
+    <string-array name="i_homophones">
+        <item>hi</item>
+    </string-array>
+    <string-array name="i_m_homophones">
+        <item>i am</item>
+    </string-array>
+    <string-array name="icon_add_alt_names">
+        <item>Plus Icon</item>
+        <item>Plus Symbol</item>
+        <item>Add</item>
+        <item>Add Icon</item>
+        <item>Add Symbol</item>
+        <item>New</item>
+        <item>New Icon</item>
+        <item>New Symbol</item>
+    </string-array>
+    <string-array name="icon_apps_alt_names">
+        <item>Apps Icon</item>
+        <item>Apps Symbol</item>
+        <item>All Apps</item>
+        <item>All Apps Icon</item>
+        <item>All Apps Symbol</item>
+    </string-array>
+    <string-array name="icon_assistant_alt_names">
+        <item>Assistant Icon</item>
+        <item>Assistant Symbol</item>
+        <item>Google Assistant</item>
+        <item>Google Assistant Icon</item>
+        <item>Google Assistant Symbol</item>
+    </string-array>
+    <string-array name="icon_back_arrow_alt_names">
+        <item>Back Icon</item>
+        <item>Back Symbol</item>
+        <item>Back Arrow</item>
+        <item>Back Arrow Icon</item>
+        <item>Back Arrow Symbol</item>
+        <item>Backward Arrow</item>
+        <item>Backward Arrow Icon</item>
+        <item>Backward Arrow Symbol</item>
+        <item>Backwards Arrow</item>
+        <item>Backwards Arrow Icon</item>
+        <item>Backwards Arrow Symbol</item>
+        <item>Left Arrow</item>
+        <item>Left Arrow Icon</item>
+        <item>Left Arrow Symbol</item>
+        <item>Previous</item>
+        <item>Previous Icon</item>
+        <item>Previous Symbol</item>
+    </string-array>
+    <string-array name="icon_calendar_alt_names">
+        <item>Calendar Icon</item>
+        <item>Calendar Symbol</item>
+    </string-array>
+    <string-array name="icon_call_alt_names">
+        <item>Phone Icon</item>
+        <item>Phone Symbol</item>
+        <item>Phone Call</item>
+        <item>Phone Call Icon</item>
+        <item>Phone Call Symbol</item>
+        <item>Telephone</item>
+        <item>Telephone Icon</item>
+        <item>Telephone Symbol</item>
+    </string-array>
+    <string-array name="icon_capitalize_alt_names">
+        <item>Capitalize Icon</item>
+        <item>Capitalize Symbol</item>
+        <item>Up</item>
+        <item>Up Icon</item>
+        <item>Up Symbol</item>
+    </string-array>
+    <string-array name="icon_cast_alt_names">
+        <item>Cast Icon</item>
+        <item>Cast Symbol</item>
+    </string-array>
+    <string-array name="icon_chat_alt_names">
+        <item>Chat Icon</item>
+        <item>Chat Symbol</item>
+        <item>Message</item>
+        <item>Message Icon</item>
+        <item>Message Symbol</item>
+        <item>Messages</item>
+        <item>Messages Icon</item>
+        <item>Messages Symbol</item>
+        <item>Conversation</item>
+        <item>Conversation Icon</item>
+        <item>Conversation Symbol</item>
+        <item>Speech Bubble</item>
+        <item>Speech Bubble Icon</item>
+        <item>Speech Bubble Symbol</item>
+        <item>Comment</item>
+        <item>Comment Icon</item>
+        <item>Comment Symbol</item>
+    </string-array>
+    <string-array name="icon_chat_app_alt_names">
+        <item>Chat App Icon</item>
+        <item>Chat App Symbol</item>
+        <item>Chat</item>
+        <item>Chat Icon</item>
+        <item>Chat Symbol</item>
+        <item>Message</item>
+        <item>Message Icon</item>
+        <item>Message Symbol</item>
+        <item>Messages</item>
+        <item>Messages Icon</item>
+        <item>Messages Symbol</item>
+    </string-array>
+    <string-array name="icon_check_alt_names">
+        <item>Check Icon</item>
+        <item>Check Symbol</item>
+        <item>Tick</item>
+        <item>Tick Icon</item>
+        <item>Tick Symbol</item>
+        <item>Checkbox</item>
+        <item>Checkbox Icon</item>
+        <item>Checkbox Symbol</item>
+        <item>Checkmark</item>
+        <item>Checkmark Icon</item>
+        <item>Checkmark Symbol</item>
+        <item>Check mark</item>
+        <item>Check mark Icon</item>
+        <item>Check mark Symbol</item>
+    </string-array>
+    <string-array name="icon_close_alt_names">
+        <item>Close Icon</item>
+        <item>Close Symbol</item>
+        <item>X</item>
+        <item>X Icon</item>
+        <item>X Symbol</item>
+        <item>Exit</item>
+        <item>Exit Icon</item>
+        <item>Exit Symbol</item>
+        <item>Cross</item>
+        <item>Cross Icon</item>
+        <item>Cross Symbol</item>
+        <item>Multiply</item>
+        <item>Multiply Icon</item>
+        <item>Multiply Symbol</item>
+        <item>Times</item>
+        <item>Times Icon</item>
+        <item>Times Symbol</item>
+    </string-array>
+    <string-array name="icon_compass_alt_names">
+        <item>Compass Icon</item>
+        <item>Compass Symbol</item>
+        <item>Browser</item>
+        <item>Browser Icon</item>
+        <item>Browser Symbol</item>
+        <item>Alethiometer</item>
+    </string-array>
+    <string-array name="icon_contract_alt_names">
+        <item>Shrink Icon</item>
+        <item>Shrink Symbol</item>
+        <item>Contract</item>
+        <item>Contract Icon</item>
+        <item>Contract Symbol</item>
+        <item>Smaller</item>
+        <item>Smaller Icon</item>
+        <item>Smaller Symbol</item>
+        <item>Zoom In</item>
+        <item>Zoom In Icon</item>
+        <item>Zoom In Symbol</item>
+    </string-array>
+    <string-array name="icon_delete_alt_names">
+        <item>Trash Icon</item>
+        <item>Trash Symbol</item>
+        <item>Delete</item>
+        <item>Delete Icon</item>
+        <item>Delete Symbol</item>
+        <item>Remove</item>
+        <item>Remove Icon</item>
+        <item>Remove Symbol</item>
+        <item>Trash Can</item>
+        <item>Trash Can Icon</item>
+        <item>Trash Can Symbol</item>
+        <item>Rubbish Bin</item>
+        <item>Rubbish Bin Icon</item>
+        <item>Rubbish Bin Symbol</item>
+        <item>Garbage Can</item>
+        <item>Garbage Can Icon</item>
+        <item>Garbage Can Symbol</item>
+    </string-array>
+    <string-array name="icon_delete_text_alt_names">
+        <item>Delete Text Icon</item>
+        <item>Delete Text Symbol</item>
+        <item>X</item>
+        <item>X Icon</item>
+        <item>X Symbol</item>
+        <item>Exit</item>
+        <item>Exit Icon</item>
+        <item>Exit Symbol</item>
+        <item>Cross</item>
+        <item>Cross Icon</item>
+        <item>Cross Symbol</item>
+        <item>Clear Text</item>
+        <item>Clear Text Icon</item>
+        <item>Clear Text Symbol</item>
+        <item>Backspace</item>
+        <item>Backspace Icon</item>
+        <item>Backspace Symbol</item>
+        <item>Cross</item>
+        <item>Cross Icon</item>
+        <item>Cross Symbol</item>
+    </string-array>
+    <string-array name="icon_down_arrow_alt_names">
+        <item>Down Icon</item>
+        <item>Down Symbol</item>
+        <item>Down Arrow</item>
+        <item>Down Arrow Icon</item>
+        <item>Down Arrow Symbol</item>
+        <item>Downward Arrow</item>
+        <item>Downward Arrow Icon</item>
+        <item>Downward Symbol</item>
+        <item>Downwards Arrow</item>
+        <item>Downwards Arrow Icon</item>
+        <item>Downwards Symbol</item>
+    </string-array>
+    <string-array name="icon_download_alt_names">
+        <item>Download Icon</item>
+        <item>Download Symbol</item>
+        <item>Downloads</item>
+        <item>Downloads Icon</item>
+        <item>Downloads Symbol</item>
+    </string-array>
+    <string-array name="icon_edit_alt_names">
+        <item>Edit Icon</item>
+        <item>Edit Symbol</item>
+        <item>Pencil</item>
+        <item>Pencil Icon</item>
+        <item>Pencil Symbol</item>
+        <item>Pen</item>
+        <item>Pen Icon</item>
+        <item>Pen Symbol</item>
+        <item>Marker</item>
+        <item>Marker Icon</item>
+        <item>Marker Symbol</item>
+        <item>Compose</item>
+        <item>Compose Icon</item>
+        <item>Compose Symbol</item>
+    </string-array>
+    <string-array name="icon_emoji_alt_names">
+        <item>Emoji Icon</item>
+        <item>Emoji Symbol</item>
+        <item>Face</item>
+        <item>Face Icon</item>
+        <item>Face Symbol</item>
+    </string-array>
+    <string-array name="icon_end_call_alt_names">
+        <item>End Call Icon</item>
+        <item>End Call Symbol</item>
+        <item>Hang Up</item>
+        <item>Hang Up Icon</item>
+        <item>Hang Up Symbol</item>
+        <item>Phone</item>
+        <item>Phone Icon</item>
+        <item>Phone Symbol</item>
+        <item>Telephone</item>
+        <item>Telephone Icon</item>
+        <item>Telephone Symbol</item>
+        <item>End Phone Call</item>
+        <item>End Phone Call Icon</item>
+        <item>End Phone Call Symbol</item>
+    </string-array>
+    <string-array name="icon_envelope_alt_names">
+        <item>Mail Icon</item>
+        <item>Mail Symbol</item>
+        <item>Envelope</item>
+        <item>Envelope Icon</item>
+        <item>Envelope Symbol</item>
+        <item>Letter</item>
+        <item>Letter Icon</item>
+        <item>Letter Symbol</item>
+        <item>Send</item>
+        <item>Send Icon</item>
+        <item>Send Symbol</item>
+        <item>Email</item>
+        <item>Email Icon</item>
+        <item>Email Symbol</item>
+    </string-array>
+    <string-array name="icon_expand_2_alt_names">
+        <item>Expand Icon</item>
+        <item>Expand Symbol</item>
+        <item>Enlarge</item>
+        <item>Enlarge Icon</item>
+        <item>Enlarge Symbol</item>
+        <item>Larger</item>
+        <item>Larger Icon</item>
+        <item>Larger Symbol</item>
+        <item>Grow</item>
+        <item>Grow Icon</item>
+        <item>Grow Symbol</item>
+        <item>Full Screen</item>
+        <item>Full Screen Icon</item>
+        <item>Full Screen Symbol</item>
+        <item>Arrows</item>
+        <item>Arrows Icon</item>
+        <item>Arrows Symbol</item>
+        <item>Zoom Out</item>
+        <item>Zoom Out Icon</item>
+        <item>Zoom Out Symbol</item>
+    </string-array>
+    <string-array name="icon_expand_alt_names">
+        <item>Down Icon</item>
+        <item>Down Symbol</item>
+        <item>V</item>
+        <item>V Icon</item>
+        <item>V Symbol</item>
+        <item>More</item>
+        <item>More Icon</item>
+        <item>More Symbol</item>
+        <item>Expand</item>
+        <item>Expand Icon</item>
+        <item>Expand Symbol</item>
+        <item>Down Arrow</item>
+        <item>Down Arrow Icon</item>
+        <item>Down Arrow Symbol</item>
+        <item>Caret</item>
+        <item>Caret Icon</item>
+        <item>Caret Symbol</item>
+    </string-array>
+    <string-array name="icon_facebook_alt_names">
+        <item>Facebook Icon</item>
+        <item>Facebook Symbol</item>
+        <item>Big F</item>
+        <item>Big F Icon</item>
+        <item>Big F Symbol</item>
+    </string-array>
+    <string-array name="icon_forward_arrow_alt_names">
+        <item>Forward Icon</item>
+        <item>Forward Symbol</item>
+        <item>Forward Arrow</item>
+        <item>Forward Arrow Icon</item>
+        <item>Forward Arrow Symbol</item>
+        <item>Forwards Arrow</item>
+        <item>Forwards Arrow Icon</item>
+        <item>Forwards Arrow Symbol</item>
+        <item>Right Arrow</item>
+        <item>Right Arrow Icon</item>
+        <item>Right Arrow Symbol</item>
+        <item>Next</item>
+        <item>Next Icon</item>
+        <item>Next Symbol</item>
+    </string-array>
+    <string-array name="icon_gallery_alt_names">
+        <item>Gallery Icon</item>
+        <item>Gallery Symbol</item>
+        <item>Photos</item>
+        <item>Photos Icon</item>
+        <item>Photos Symbol</item>
+        <item>Photo</item>
+        <item>Photo Icon</item>
+        <item>Photo Symbol</item>
+        <item>Pictures</item>
+        <item>Pictures Icon</item>
+        <item>Pictures Symbol</item>
+    </string-array>
+    <string-array name="icon_google_alt_names">
+        <item>Google Icon</item>
+        <item>Google Symbol</item>
+        <item>Big G</item>
+        <item>Big G Icon</item>
+        <item>Big G Symbol</item>
+    </string-array>
+    <string-array name="icon_google_play_alt_names">
+        <item>Google Play Icon</item>
+        <item>Google Play Symbol</item>
+        <item>Play</item>
+        <item>Play Icon</item>
+        <item>Play Symbol</item>
+        <item>Play Store</item>
+        <item>Play Store Icon</item>
+        <item>Play Store Symbol</item>
+    </string-array>
+    <string-array name="icon_headset_alt_names">
+        <item>Headphones Icon</item>
+        <item>Headphones Symbol</item>
+        <item>Headset</item>
+        <item>Headset Icon</item>
+        <item>Headset Symbol</item>
+    </string-array>
+    <string-array name="icon_heart_alt_names">
+        <item>Heart Icon</item>
+        <item>Heart Symbol</item>
+        <item>Like</item>
+        <item>Like Icon</item>
+        <item>Like Symbol</item>
+        <item>Favorite</item>
+        <item>Favorite Icon</item>
+        <item>Favorite Symbol</item>
+    </string-array>
+    <string-array name="icon_history_alt_names">
+        <item>History Icon</item>
+        <item>History Symbol</item>
+    </string-array>
+    <string-array name="icon_home_alt_names">
+        <item>Home Icon</item>
+        <item>Home Symbol</item>
+        <item>House</item>
+        <item>House Icon</item>
+        <item>House Symbol</item>
+    </string-array>
+    <string-array name="icon_info_alt_names">
+        <item>Info Icon</item>
+        <item>Info Symbol</item>
+        <item>I</item>
+        <item>I Icon</item>
+        <item>I Symbol</item>
+        <item>Information</item>
+        <item>Information Icon</item>
+        <item>Information Symbol</item>
+    </string-array>
+    <string-array name="icon_instagram_alt_names">
+        <item>Instagram Icon</item>
+        <item>Instagram Symbol</item>
+        <item>Camera</item>
+        <item>Camera Icon</item>
+        <item>Camera Symbol</item>
+    </string-array>
+    <string-array name="icon_like_alt_names">
+        <item>Like Icon</item>
+        <item>Like Symbol</item>
+        <item>Thumbs Up</item>
+        <item>Thumbs Up Icon</item>
+        <item>Thumbs Up Symbol</item>
+        <item>Upvote</item>
+        <item>Upvote Icon</item>
+        <item>Upvote Symbol</item>
+    </string-array>
+    <string-array name="icon_list_alt_names">
+        <item>List Icon</item>
+        <item>List Symbol</item>
+        <item>Bullets</item>
+        <item>Bullets Icon</item>
+        <item>Bullets Symbol</item>
+        <item>Bullet Points</item>
+        <item>Bullet Points Icon</item>
+        <item>Bullet Points Symbol</item>
+    </string-array>
+    <string-array name="icon_location_alt_names">
+        <item>Location Icon</item>
+        <item>Location Symbol</item>
+        <item>Map</item>
+        <item>Map Icon</item>
+        <item>Map Symbol</item>
+        <item>Maps</item>
+        <item>Maps Icon</item>
+        <item>Maps Symbol</item>
+    </string-array>
+    <string-array name="icon_media_alt_names">
+        <item>Media Icon</item>
+        <item>Media Symbol</item>
+        <item>Play</item>
+        <item>Play Icon</item>
+        <item>Play Symbol</item>
+        <item>Video</item>
+        <item>Video Icon</item>
+        <item>Video Symbol</item>
+        <item>Playlist</item>
+        <item>Playlist Icon</item>
+        <item>Playlist Symbol</item>
+    </string-array>
+    <string-array name="icon_menu_alt_names">
+        <item>Menu Icon</item>
+        <item>Menu Symbol</item>
+        <item>Hamburger Menu</item>
+        <item>Hamburger Menu Icon</item>
+        <item>Hamburger Menu Symbol</item>
+        <item>Three Bars</item>
+        <item>Three Bars Icon</item>
+        <item>Three Bars Symbol</item>
+    </string-array>
+    <string-array name="icon_messenger_alt_names">
+        <item>Messenger Icon</item>
+        <item>Messenger Symbol</item>
+        <item>Facebook Messenger</item>
+        <item>Facebook Messenger Icon</item>
+        <item>Facebook Messenger Symbol</item>
+        <item>Chat</item>
+        <item>Chat Icon</item>
+        <item>Chat Symbol</item>
+        <item>Message</item>
+        <item>Message Icon</item>
+        <item>Message Symbol</item>
+        <item>Messages</item>
+        <item>Messages Icon</item>
+        <item>Messages Symbol</item>
+    </string-array>
+    <string-array name="icon_mic_alt_names">
+        <item>Microphone Icon</item>
+        <item>Microphone Symbol</item>
+        <item>Mic</item>
+        <item>Mic Icon</item>
+        <item>Mic Symbol</item>
+        <item>Mic On</item>
+        <item>Mic On Icon</item>
+        <item>Mic On Symbol</item>
+        <item>Unmute</item>
+        <item>Unmute Icon</item>
+        <item>Unmute Symbol</item>
+    </string-array>
+    <string-array name="icon_mic_mute_alt_names">
+        <item>Mute Icon</item>
+        <item>Mute Symbol</item>
+        <item>Muted</item>
+        <item>Muted Icon</item>
+        <item>Muted Symbol</item>
+        <item>Silence</item>
+        <item>Silence Icon</item>
+        <item>Silence Symbol</item>
+        <item>Mic Off</item>
+        <item>Mic Off Icon</item>
+        <item>Mic Off Symbol</item>
+    </string-array>
+    <string-array name="icon_more_alt_names">
+        <item>More Icon</item>
+        <item>More Symbol</item>
+        <item>Overflow</item>
+        <item>Overflow Icon</item>
+        <item>Overflow Symbol</item>
+        <item>Three Dots</item>
+        <item>Three Dots Icon</item>
+        <item>Three Dots Symbol</item>
+        <item>More Options</item>
+        <item>More Options Icon</item>
+        <item>More Options Symbol</item>
+    </string-array>
+    <string-array name="icon_multiply_alt_names">
+        <item>Multiply Icon</item>
+        <item>Multiply Symbol</item>
+        <item>Times</item>
+        <item>Times Icon</item>
+        <item>Times Symbol</item>
+        <item>X</item>
+        <item>X Icon</item>
+        <item>X Symbol</item>
+        <item>Cross</item>
+        <item>Cross Icon</item>
+        <item>Cross Symbol</item>
+    </string-array>
+    <string-array name="icon_nav_bar_circle_alt_names">
+        <item>Home Icon</item>
+        <item>Home Symbol</item>
+        <item>Go Home</item>
+        <item>Go Home Icon</item>
+        <item>Go Home Symbol</item>
+    </string-array>
+    <string-array name="icon_nav_bar_rect_alt_names">
+        <item>Overview Icon</item>
+        <item>Overview Symbol</item>
+        <item>Recents</item>
+        <item>Recents Icon</item>
+        <item>Recents Symbol</item>
+        <item>Recent Apps</item>
+        <item>Recent Apps Icon</item>
+        <item>Recent Apps Symbol</item>
+    </string-array>
+    <string-array name="icon_notifications_alt_names">
+        <item>Notifications Icon</item>
+        <item>Notifications Symbol</item>
+        <item>Alarm Bell</item>
+        <item>Alarm Bell Icon</item>
+        <item>Alarm Bell Symbol</item>
+        <item>Notification</item>
+        <item>Notification Icon</item>
+        <item>Notification Symbol</item>
+    </string-array>
+    <string-array name="icon_paperclip_alt_names">
+        <item>Paper clip</item>
+        <item>Paperclip Icon</item>
+        <item>Paperclip Symbol</item>
+        <item>Attachment</item>
+        <item>Attachment Icon</item>
+        <item>Attachment Symbol</item>
+        <item>Attachments</item>
+        <item>Attachments Icon</item>
+        <item>Attachments Symbol</item>
+    </string-array>
+    <string-array name="icon_pause_alt_names">
+        <item>Pause Icon</item>
+        <item>Pause Symbol</item>
+    </string-array>
+    <string-array name="icon_people_alt_names">
+        <item>People Icon</item>
+        <item>People Symbol</item>
+        <item>Friends</item>
+        <item>Friends Icon</item>
+        <item>Friends Symbol</item>
+    </string-array>
+    <string-array name="icon_person_alt_names">
+        <item>Person Icon</item>
+        <item>Person Symbol</item>
+    </string-array>
+    <string-array name="icon_phone_app_alt_names">
+        <item>Phone App Icon</item>
+        <item>Phone App Symbol</item>
+        <item>Phone</item>
+        <item>Phone Icon</item>
+        <item>Phone Symbol</item>
+        <item>Telephone</item>
+        <item>Telephone Icon</item>
+        <item>Telephone Symbol</item>
+    </string-array>
+    <string-array name="icon_play_alt_names">
+        <item>Play Icon</item>
+        <item>Play Symbol</item>
+        <item>Start</item>
+        <item>Start Icon</item>
+        <item>Start Symbol</item>
+        <item>Go</item>
+        <item>Go Icon</item>
+        <item>Go Symbol</item>
+    </string-array>
+    <string-array name="icon_question_alt_names">
+        <item>Question Icon</item>
+        <item>Question Symbol</item>
+    </string-array>
+    <string-array name="icon_redo_alt_names">
+        <item>Redo Icon</item>
+        <item>Redo Symbol</item>
+        <item>Do Again</item>
+        <item>Do Again Icon</item>
+        <item>Do Again Symbol</item>
+    </string-array>
+    <string-array name="icon_refresh_alt_names">
+        <item>Refresh Icon</item>
+        <item>Refresh Symbol</item>
+        <item>Reload</item>
+        <item>Reload Icon</item>
+        <item>Reload Symbol</item>
+    </string-array>
+    <string-array name="icon_reply_alt_names">
+        <item>Reply Icon</item>
+        <item>Reply Symbol</item>
+        <item>Respond</item>
+        <item>Respond Icon</item>
+        <item>Respond Symbol</item>
+    </string-array>
+    <string-array name="icon_search_alt_names">
+        <item>Search Icon</item>
+        <item>Search Symbol</item>
+        <item>Magnifying Glass</item>
+        <item>Magnifying Glass Icon</item>
+        <item>Magnifying Glass Symbol</item>
+        <item>Find</item>
+        <item>Find Icon</item>
+        <item>Find Symbol</item>
+        <item>Magnify</item>
+        <item>Magnify Icon</item>
+        <item>Magnify Symbol</item>
+    </string-array>
+    <string-array name="icon_semantics_call_alt_names">
+        <item>Call Icon</item>
+        <item>Call Symbol</item>
+        <item>Phone Call</item>
+        <item>Phone Call Icon</item>
+        <item>Phone Call Symbol</item>
+        <item>Phone</item>
+        <item>Phone Icon</item>
+        <item>Phone Symbol</item>
+    </string-array>
+    <string-array name="icon_semantics_close_alt_names">
+        <item>Close Icon</item>
+        <item>Close Symbol</item>
+        <item>X</item>
+        <item>X Icon</item>
+        <item>X Symbol</item>
+        <item>Exit</item>
+        <item>Exit Icon</item>
+        <item>Exit Symbol</item>
+        <item>Cross</item>
+        <item>Cross Icon</item>
+        <item>Cross Symbol</item>
+    </string-array>
+    <string-array name="icon_send_alt_names">
+        <item>Send Icon</item>
+        <item>Send Symbol</item>
+        <item>Paper Plane</item>
+        <item>Paper Plane Icon</item>
+        <item>Paper Plane Symbol</item>
+    </string-array>
+    <string-array name="icon_settings_alt_names">
+        <item>Settings Icon</item>
+        <item>Settings Symbol</item>
+        <item>Cog</item>
+        <item>Cog Icon</item>
+        <item>Cog Symbol</item>
+        <item>Gear</item>
+        <item>Gear Icon</item>
+        <item>Gear Symbol</item>
+    </string-array>
+    <string-array name="icon_share_alt_names">
+        <item>Share Icon</item>
+        <item>Share Symbol</item>
+    </string-array>
+    <string-array name="icon_shopping_bag_alt_names">
+        <item>Shopping Bag Icon</item>
+        <item>Shopping Bag Symbol</item>
+    </string-array>
+    <string-array name="icon_shopping_cart_alt_names">
+        <item>Shopping Cart Icon</item>
+        <item>Shopping Cart Symbol</item>
+        <item>Cart</item>
+        <item>Cart Icon</item>
+        <item>Cart Symbol</item>
+        <item>Shopping</item>
+        <item>Shopping Icon</item>
+        <item>Shopping Symbol</item>
+        <item>Trolley</item>
+        <item>Trolley Icon</item>
+        <item>Trolley Symbol</item>
+        <item>Shopping Basket</item>
+        <item>Shopping Basket Icon</item>
+        <item>Shopping Basket Symbol</item>
+    </string-array>
+    <string-array name="icon_star_alt_names">
+        <item>Star Icon</item>
+        <item>Star Symbol</item>
+        <item>Favorite</item>
+        <item>Favorite Icon</item>
+        <item>Favorite Symbol</item>
+        <item>Like</item>
+        <item>Like Icon</item>
+        <item>Like Symbol</item>
+        <item>Save</item>
+        <item>Save Icon</item>
+        <item>Save Symbol</item>
+    </string-array>
+    <string-array name="icon_stop_alt_names">
+        <item>Stop Icon</item>
+        <item>Stop Symbol</item>
+    </string-array>
+    <string-array name="icon_take_photo_alt_names">
+        <item>Camera Icon</item>
+        <item>Camera Symbol</item>
+        <item>Take Photo</item>
+        <item>Take Photo Icon</item>
+        <item>Take Photo Symbol</item>
+    </string-array>
+    <string-array name="icon_thumbs_down_alt_names">
+        <item>Thumbs Down Icon</item>
+        <item>Thumbs Down Symbol</item>
+        <item>Dislike</item>
+        <item>Dislike Icon</item>
+        <item>Dislike Symbol</item>
+        <item>Downvote</item>
+        <item>Downvote Icon</item>
+        <item>Downvote Symbol</item>
+    </string-array>
+    <string-array name="icon_time_alt_names">
+        <item>Clock Icon</item>
+        <item>Clock Symbol</item>
+        <item>Time</item>
+        <item>Time Icon</item>
+        <item>Time Symbol</item>
+        <item>Alarm Clock</item>
+        <item>Alarm Clock Icon</item>
+        <item>Alarm Clock Symbol</item>
+    </string-array>
+    <string-array name="icon_twitter_alt_names">
+        <item>Twitter Icon</item>
+        <item>Twitter Symbol</item>
+        <item>Tweet</item>
+        <item>Tweet Icon</item>
+        <item>Tweet Symbol</item>
+        <item>Blue Bird</item>
+        <item>Blue Bird Icon</item>
+        <item>Blue Bird Symbol</item>
+    </string-array>
+    <string-array name="icon_undo_alt_names">
+        <item>Undo Icon</item>
+        <item>Undo Symbol</item>
+    </string-array>
+    <string-array name="icon_up_arrow_alt_names">
+        <item>Up Icon</item>
+        <item>Up Symbol</item>
+        <item>Up Arrow</item>
+        <item>Up Arrow Icon</item>
+        <item>Up Arrow Symbol</item>
+        <item>Upward Arrow</item>
+        <item>Upward Arrow Icon</item>
+        <item>Upward Symbol</item>
+        <item>Upwards Arrow</item>
+        <item>Upwards Arrow Icon</item>
+        <item>Upwards Symbol</item>
+    </string-array>
+    <string-array name="icon_upload_alt_names">
+        <item>Upload Icon</item>
+        <item>Upload Symbol</item>
+        <item>Share</item>
+        <item>Share Icon</item>
+        <item>Share Symbol</item>
+    </string-array>
+    <string-array name="icon_v_backward_alt_names">
+        <item>Left Icon</item>
+        <item>Left Symbol</item>
+    </string-array>
+    <string-array name="icon_v_forward_alt_names">
+        <item>Right Icon</item>
+        <item>Right Symbol</item>
+    </string-array>
+    <string-array name="icon_v_upward_alt_names">
+        <item>Up Icon</item>
+        <item>Up Symbol</item>
+        <item>Caret</item>
+        <item>Caret Icon</item>
+        <item>Caret Symbol</item>
+        <item>Contract</item>
+        <item>Contract Icon</item>
+        <item>Contract Symbol</item>
+        <item>Less</item>
+        <item>Less Icon</item>
+        <item>Less Symbol</item>
+    </string-array>
+    <string-array name="icon_video_alt_names">
+        <item>Video Icon</item>
+        <item>Video Symbol</item>
+        <item>Record Video</item>
+        <item>Record Video Icon</item>
+        <item>Record Video Symbol</item>
+        <item>Camcorder</item>
+        <item>Camcorder Icon</item>
+        <item>Camcorder Symbol</item>
+        <item>Video Camera</item>
+        <item>Video Camera Icon</item>
+        <item>Video Camera Symbol</item>
+    </string-array>
+    <string-array name="icon_volume_down_alt_names">
+        <item>Volume Down Icon</item>
+        <item>Volume Down Symbol</item>
+        <item>Quieter</item>
+        <item>Quieter Icon</item>
+        <item>Quieter Symbol</item>
+    </string-array>
+    <string-array name="icon_volume_mute_alt_names">
+        <item>Mute Icon</item>
+        <item>Mute Symbol</item>
+        <item>Sound Off</item>
+        <item>Sound Off Icon</item>
+        <item>Sound Off Symbol</item>
+        <item>Silence</item>
+        <item>Silence Icon</item>
+        <item>Silence Symbol</item>
+    </string-array>
+    <string-array name="icon_volume_state_alt_names">
+        <item>Volume Icon</item>
+        <item>Volume Symbol</item>
+    </string-array>
+    <string-array name="icon_volume_up_alt_names">
+        <item>Volume Up Icon</item>
+        <item>Volume Up Symbol</item>
+        <item>Louder</item>
+        <item>Louder Icon</item>
+        <item>Louder Symbol</item>
+    </string-array>
+    <string-array name="icon_weather_alt_names">
+        <item>Weather Icon</item>
+        <item>Weather Symbol</item>
+    </string-array>
+    <string-array name="icon_whatsapp_alt_names">
+        <item>Whatsapp Icon</item>
+        <item>Whatsapp Symbol</item>
+        <item>Chat</item>
+        <item>Chat Icon</item>
+        <item>Chat Symbol</item>
+        <item>Message</item>
+        <item>Message Icon</item>
+        <item>Message Symbol</item>
+        <item>Messages</item>
+        <item>Messages Icon</item>
+        <item>Messages Symbol</item>
+    </string-array>
+    <string-array name="icon_youtube_alt_names">
+        <item>YouTube Icon</item>
+        <item>YouTube Symbol</item>
+        <item>Play</item>
+        <item>Play Icon</item>
+        <item>Play Symbol</item>
+        <item>YouTube Music</item>
+        <item>YouTube Music Icon</item>
+        <item>YouTube Music Symbol</item>
+    </string-array>
+    <string-array name="icon_zoom_in_alt_names">
+        <item>Zoom In Icon</item>
+        <item>Zoom In Symbol</item>
+        <item>Magnifying Glass</item>
+        <item>Magnifying Glass Icon</item>
+        <item>Magnifying Glass Symbol</item>
+        <item>Magnify</item>
+        <item>Magnify Icon</item>
+        <item>Magnify Symbol</item>
+    </string-array>
+    <string-array name="icon_zoom_out_alt_names">
+        <item>Zoom Out Icon</item>
+        <item>Zoom Out Symbol</item>
+        <item>Magnifying Glass</item>
+        <item>Magnifying Glass Icon</item>
+        <item>Magnifying Glass Symbol</item>
+    </string-array>
+    <string-array name="insert_triggers">
+        <item>insert</item>
+        <item>add</item>
+        <item>type</item>
+    </string-array>
+    <array name="j_homophones" />
+    <array name="k_homophones" />
+    <string-array name="keyguard_replacement_labels">
+        <item>alpha</item>
+        <item>bravo</item>
+        <item>delta</item>
+        <item>echo</item>
+        <item>foxtrot</item>
+        <item>golf</item>
+        <item>hotel</item>
+        <item>india</item>
+        <item>kilo</item>
+        <item>lima</item>
+        <item>sierra</item>
+        <item>tango</item>
+        <item>uniform</item>
+        <item>zulu</item>
+    </string-array>
+    <array name="l_homophones" />
+    <string-array name="less_than_symbol_phrases">
+        <item>less than</item>
+        <item>less than sign</item>
+        <item>less than symbol</item>
+    </string-array>
+    <string-array name="letter_identifiers">
+        <item>letter</item>
+        <item>lowercase</item>
+        <item>lower case</item>
+        <item>minuscule</item>
+        <item>miniscule</item>
+        <item>little</item>
+        <item>small</item>
+    </string-array>
+    <array name="m_homophones" />
+    <array name="n_homophones" />
+    <string-array name="newline_phrases">
+        <item>new lines</item>
+        <item>new line</item>
+        <item>newline</item>
+        <item>new paragraph</item>
+        <item>end paragraph</item>
+        <item>next line</item>
+        <item>end line</item>
+        <item>endline</item>
+        <item>line feed</item>
+        <item>line break</item>
+        <item>end-of-line</item>
+        <item>end of line</item>
+        <item>carriage return</item>
+    </string-array>
+    <string-array name="nine_homophones">
+        <item>night</item>
+    </string-array>
+    <string-array name="non_textual_search">
+        <item>voice</item>
+        <item>camera search</item>
+        <item>image search</item>
+    </string-array>
+    <string-array name="number_symbol_phrases">
+        <item>number sign</item>
+        <item>number symbol</item>
+        <item>hashtag</item>
+        <item>hash</item>
+    </string-array>
+    <string-array name="numeral_identifiers">
+        <item>numeral</item>
+        <item>number</item>
+    </string-array>
+    <string-array name="o_homophones">
+        <item>oh</item>
+    </string-array>
+    <string-array name="one_homophones">
+        <item>bun</item>
+    </string-array>
+    <string-array name="open_brace_phrases">
+        <item>open brace</item>
+        <item>left brace</item>
+    </string-array>
+    <string-array name="open_bracket_phrases">
+        <item>open bracket</item>
+        <item>left bracket</item>
+    </string-array>
+    <string-array name="open_parenthesis_phrases">
+        <item>open parenthesis</item>
+        <item>left parenthesis</item>
+    </string-array>
+    <array name="p_homophones" />
+    <string-array name="percent_symbol_phrases">
+        <item>percent</item>
+        <item>percent sign</item>
+        <item>percent symbol</item>
+    </string-array>
+    <string-array name="period_phrases">
+        <item>period</item>
+        <item>dot</item>
+    </string-array>
+    <string-array name="pipe_phrases">
+        <item>pipe</item>
+    </string-array>
+    <string-array name="plus_phrases">
+        <item>plus</item>
+        <item>plus sign</item>
+        <item>plus symbol</item>
+    </string-array>
+    <string-array name="pref_grid_color_values">
+        <item>@string/pref_grid_color_lightest</item>
+        <item>@string/pref_grid_color_light</item>
+        <item>@string/pref_grid_color_normal</item>
+        <item>@string/pref_grid_color_dark</item>
+    </string-array>
+    <string-array name="pref_key_behavior">
+        <item>Tap to start, tap to stop</item>
+        <item>Press and hold to start, release to stop</item>
+    </string-array>
+    <string-array name="pref_key_behavior_values">
+        <item>@string/pref_key_behavior_value_click</item>
+        <item>@string/pref_key_behavior_value_hold</item>
+    </string-array>
+    <string-array name="pref_overlay_opacity_entries">
+        <item>Lightest</item>
+        <item>Light</item>
+        <item>Medium</item>
+        <item>Dark</item>
+    </string-array>
+    <string-array name="pref_point_selection_target_entries">
+        <item>Smallest</item>
+        <item>Small</item>
+        <item>Medium</item>
+        <item>Large</item>
+        <item>Largest</item>
+    </string-array>
+    <string-array name="pref_point_selection_target_values">
+        <item>@string/pref_point_selection_target_tiny</item>
+        <item>@string/pref_point_selection_target_small</item>
+        <item>@string/pref_point_selection_target_medium</item>
+        <item>@string/pref_point_selection_target_large</item>
+        <item>@string/pref_point_selection_target_huge</item>
+    </string-array>
+    <string-array name="pref_screen_wake_up_behavior_entries">
+        <item>Always start listening</item>
+        <item>Start listening unless previously asked to stop</item>
+        <item>Never start listening</item>
+    </string-array>
+    <string-array name="pref_screen_wake_up_microphone_values">
+        <item>@string/pref_screen_wake_up_microphone_on</item>
+        <item>@string/pref_screen_wake_up_microphone_last_state</item>
+        <item>@string/pref_screen_wake_up_microphone_off</item>
+    </string-array>
+    <array name="q_homophones" />
+    <string-array name="question_mark_phrases">
+        <item>question mark</item>
+    </string-array>
+    <string-array name="quote_phrases">
+        <item>quote</item>
+        <item>double quote</item>
+    </string-array>
+    <string-array name="r_homophones">
+        <item>are</item>
+    </string-array>
+    <string-array name="replacement_trigger_helpers">
+        <item>with</item>
+        <item>to</item>
+    </string-array>
+    <array name="s_homophones" />
+    <string-array name="search_keywords">
+        <item>search</item>
+        <item>find</item>
+        <item>looking</item>
+        <item>where to?</item>
+    </string-array>
+    <string-array name="semicolon_phrases">
+        <item>semicolon</item>
+    </string-array>
+    <array name="seven_homophones" />
+    <array name="six_homophones" />
+    <string-array name="slash_phrases">
+        <item>slash</item>
+        <item>forward slash</item>
+    </string-array>
+    <string-array name="space_identifiers">
+        <item>space</item>
+        <item>whitespace</item>
+    </string-array>
+    <string-array name="supported_language_codes">
+        <item>en</item>
+    </string-array>
+    <string-array name="swipe_down_onscreen_text">
+        <item>swipe down</item>
+        <item>drag down</item>
+    </string-array>
+    <string-array name="swipe_left_onscreen_text">
+        <item>swipe left</item>
+        <item>drag left</item>
+    </string-array>
+    <string-array name="swipe_onscreen_text">
+        <item>swipe</item>
+        <item>drag</item>
+    </string-array>
+    <string-array name="swipe_right_onscreen_text">
+        <item>swipe right</item>
+        <item>drag right</item>
+    </string-array>
+    <string-array name="swipe_up_onscreen_text">
+        <item>swipe up</item>
+        <item>drag up</item>
+    </string-array>
+    <string-array name="t_homophones">
+        <item>tea</item>
+    </string-array>
+    <string-array name="text_representation_qualifiers">
+        <item>the word</item>
+        <item>the words</item>
+        <item>the phrase</item>
+    </string-array>
+    <array name="three_homophones" />
+    <string-array name="tilde_phrases">
+        <item>tilde</item>
+    </string-array>
+    <string-array name="two_homophones">
+        <item>to</item>
+        <item>too</item>
+    </string-array>
+    <string-array name="u_homophones">
+        <item>you</item>
+    </string-array>
+    <string-array name="underscore_phrases">
+        <item>underscore</item>
+    </string-array>
+    <array name="v_homophones" />
+    <array name="w_homophones" />
+    <array name="x_homophones" />
+    <string-array name="y_homophones">
+        <item>why</item>
+    </string-array>
+    <array name="z_homophones" />
+    <array name="zero_homophones" />
+</resources>

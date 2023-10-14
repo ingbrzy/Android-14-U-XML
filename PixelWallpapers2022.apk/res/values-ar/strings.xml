@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="azure_title">ريش طائر القيق الأزرق</string>
+    <string name="blackswan_title">ريش البجعة السوداء</string>
+    <string name="cockatoo_title">ريش طائر الكوكاتو</string>
+    <string name="come_alive_title">خلفيات متحركة</string>
+    <string name="feathers_attribution">تصوير \"أندرو زوكرمان\"</string>
+    <string name="feathers_description">عرض تفاصيل الطيور وألوان ريشها</string>
+    <string name="feathers_title">ريش</string>
+    <string name="greenwinged_title">ريش طائر المكاو ذو الأجنحة الخضراء</string>
+    <string name="king_title">ريش النسر الملك</string>
+    <string name="living_universe_title">معالم كونية نابضة بالحياة</string>
+    <string name="photos_memory_gallery_title">ذكرياتك</string>
+    <string name="pied_title">ريش الغراب الأرقط</string>
+    <string name="ringnecked_title">ريش ببغاء البراكيت الأخضر</string>
+    <string name="seagull_title">ريش طائر النورس</string>
+</resources>

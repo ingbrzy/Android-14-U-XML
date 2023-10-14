@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="select_logpersist_summaries">
+        <item>آف</item>
+        <item>تمام لاگ بفرز</item>
+        <item>ریڈیو لاگ بفرز کے سوا تمام</item>
+        <item>صرف کرنل لاگ بفر</item>
+    </string-array>
+</resources>

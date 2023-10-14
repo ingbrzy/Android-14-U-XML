@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_retaildemoCommunication">Consenti alle app di interagire con Servizi demo retail. Questa autorizzazione dovrebbe essere concessa solo a Demo retail. Le app a cui è stata concessa questa autorizzazione possono attivare azioni riservate alla modalità Demo retail.</string>
+    <string name="permlab_retaildemoCommunication">Comunicazione con Demo retail</string>
+    <string name="retaildemo_preload_app_name">Servizi demo retail</string>
+</resources>

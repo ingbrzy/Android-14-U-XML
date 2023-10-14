@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="call_captions_typing_predictions_post_system_message">
+        <item>Halló, ki az?</item>
+        <item>Üdvözlöm, hogy van?</item>
+        <item>Egy perc türelmet kérek</item>
+        <item>Üdvözlöm, visszahívhatom később?</item>
+        <item>Üdvözlöm! Köszönöm a hívását.</item>
+    </string-array>
+    <string-array name="captions_settings_enable_for_calls_choices_entries">
+        <item>Mindig kérdezzen rá</item>
+        <item>Mindig</item>
+        <item>Ki</item>
+    </string-array>
+    <string-array name="captions_settings_typing_voice_names">
+        <item>A hang</item>
+        <item>B hang</item>
+        <item>C hang</item>
+        <item>D hang</item>
+        <item>E hang</item>
+        <item>F hang</item>
+        <item>G hang</item>
+        <item>H hang</item>
+        <item>I hang</item>
+        <item>J hang</item>
+        <item>K hang</item>
+        <item>L hang</item>
+        <item>M hang</item>
+        <item>N hang</item>
+        <item>O hang</item>
+        <item>P hang</item>
+    </string-array>
+    <string-array name="pref_download_policy_entries">
+        <item>Mobiladat + Wi-Fi</item>
+        <item>Csak Wi-Fi</item>
+        <item>Ne frissüljön</item>
+    </string-array>
+    <string-array name="pref_download_policy_entry_values_placeholder">
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+</resources>

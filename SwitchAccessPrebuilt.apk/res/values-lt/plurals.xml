@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dots">
+        <item quantity="other">%s taškų</item>
+        <item quantity="one">%s taškas</item>
+        <item quantity="few">%s taškai</item>
+        <item quantity="many">%s taško</item>
+    </plurals>
+    <plurals name="gestures_recorded_message">
+        <item quantity="other">Įrašyta %d gestų</item>
+        <item quantity="one">Įrašytas %d gestas</item>
+        <item quantity="few">Įrašyti %d gestai</item>
+        <item quantity="many">Įrašyta %d gesto</item>
+    </plurals>
+    <plurals name="label_num_keys_assigned_format">
+        <item quantity="other">Priskirta %d jungiklių</item>
+        <item quantity="one">Priskirtas %d jungiklis</item>
+        <item quantity="few">Priskirti %d jungikliai</item>
+        <item quantity="many">Priskirta %d jungiklio</item>
+    </plurals>
+    <plurals name="label_num_scanning_loops_format">
+        <item quantity="other">%d ciklų</item>
+        <item quantity="one">%d ciklas</item>
+        <item quantity="few">%d ciklai</item>
+        <item quantity="many">%d ciklo</item>
+    </plurals>
+    <plurals name="line_speed_summary_format">
+        <item quantity="other">%.2f cm per sekundę</item>
+        <item quantity="one">%.2f cm per sekundę</item>
+        <item quantity="few">%.2f cm per sekundę</item>
+        <item quantity="many">%.2f cm per sekundę</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d naujų pranešimų</item>
+        <item quantity="one">%d naujas pranešimas</item>
+        <item quantity="few">%d nauji pranešimai</item>
+        <item quantity="many">%d naujo pranešimo</item>
+    </plurals>
+    <plurals name="time_delay_summary_format">
+        <item quantity="other">%.2f sekundžių</item>
+        <item quantity="one">%.2f sekundė</item>
+        <item quantity="few">%.2f sekundės</item>
+        <item quantity="many">%.2f sekundės</item>
+    </plurals>
+</resources>

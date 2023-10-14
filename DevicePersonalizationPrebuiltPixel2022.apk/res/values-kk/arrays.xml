@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="call_captions_typing_predictions_post_system_message">
+        <item>Сәлеметсіз бе! Бұл кім?</item>
+        <item>Сәлеметсіз бе! Қалыңыз қалай?</item>
+        <item>Бір минут күтіңіз</item>
+        <item>Сәлеметсіз бе! Кейінірек қоңырау шала аласыз ба?</item>
+        <item>Сәлеметсіз бе! Қоңырауыңызға рақмет!</item>
+    </string-array>
+    <string-array name="captions_settings_enable_for_calls_choices_entries">
+        <item>Әрдайым сұрау</item>
+        <item>Үнемі</item>
+        <item>Өшірулі</item>
+    </string-array>
+    <string-array name="captions_settings_typing_voice_names">
+        <item>A дауысы</item>
+        <item>B дауысы</item>
+        <item>C дауысы</item>
+        <item>D дауысы</item>
+        <item>E дауысы</item>
+        <item>F дауысы</item>
+        <item>G дауысы</item>
+        <item>H дауысы</item>
+        <item>I дауысы</item>
+        <item>J дауысы</item>
+        <item>K дауысы</item>
+        <item>L дауысы</item>
+        <item>M дауысы</item>
+        <item>N дауысы</item>
+        <item>O дауысы</item>
+        <item>P дауысы</item>
+    </string-array>
+    <string-array name="pref_download_policy_entries">
+        <item>Мобильдік интернет + Wi-Fi</item>
+        <item>Тек Wi-Fi</item>
+        <item>Жаңартпау</item>
+    </string-array>
+    <string-array name="pref_download_policy_entry_values_placeholder">
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+</resources>

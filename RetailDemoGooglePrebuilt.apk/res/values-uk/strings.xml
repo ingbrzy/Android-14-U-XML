@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_retaildemoCommunication">Дозволяє додатку взаємодіяти із сервісами Retail Demo. Цей дозвіл слід надавати тільки додатку Retail Demo. Додатки, яким надано цей дозвіл, можуть активувати дії, передбачені лише в режимі Retail Demo.</string>
+    <string name="permlab_retaildemoCommunication">Обмін даними з Retail Demo</string>
+    <string name="retaildemo_preload_app_name">Сервіси Retail Demo</string>
+</resources>

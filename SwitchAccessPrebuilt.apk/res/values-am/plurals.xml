@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dots">
+        <item quantity="other">ነጥቦች %s</item>
+        <item quantity="one">ነጥብ %s</item>
+    </plurals>
+    <plurals name="gestures_recorded_message">
+        <item quantity="other">%d ምልክቶች ተመዝግበዋል</item>
+        <item quantity="one">%d ምልክቶች ተመዝግበዋል</item>
+    </plurals>
+    <plurals name="label_num_keys_assigned_format">
+        <item quantity="other">%d መቀየሪያዎች ተመድበዋል</item>
+        <item quantity="one">%d መቀየሪያዎች ተመድበዋል</item>
+    </plurals>
+    <plurals name="label_num_scanning_loops_format">
+        <item quantity="other">%d ምልልሶች</item>
+        <item quantity="one">%d ምልልሶች</item>
+    </plurals>
+    <plurals name="line_speed_summary_format">
+        <item quantity="other">%.2f ሳሜ በሰከንድ</item>
+        <item quantity="one">%.2f ሳሜ በሰከንድ</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d አዲስ ማሳወቂያዎች</item>
+        <item quantity="one">%d አዲስ ማሳወቂያዎች</item>
+    </plurals>
+    <plurals name="time_delay_summary_format">
+        <item quantity="other">%.2f ሰከንዶች</item>
+        <item quantity="one">%.2f ሰከንዶች</item>
+    </plurals>
+</resources>

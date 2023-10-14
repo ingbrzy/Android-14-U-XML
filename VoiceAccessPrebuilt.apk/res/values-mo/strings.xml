@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="service_description_supported_languages">Cu Acces vocal puteți să controlați dispozitivul Android hands-free. Folosiți comenzile vocale pentru a deschide aplicații, a atinge butoane, a derula, a introduce text și multe altele. Momentan este disponibilă numai în engleză, franceză, italiană, germană și spaniolă.</string>
+    <string name="service_summary">Controlați vocal dispozitivul</string>
+    <string name="voice_access_htmlDescription">Vorbiți cu Acces vocal și controlați dispozitivul în modul hands-free. Încercați:&lt;br> &lt;br> &lt;ul> &lt;li>să accesați pagina principală; &lt;li>să reveniți; &lt;li>să afișați notificările; &lt;li>să dați clic pe OK; &lt;li>să deschideți fotografiile. &lt;/ul> &lt;br> Există mai multe comenzi acceptate. Când Accesul vocal ascultă, rostiți „Ce pot să spun?” pentru informații suplimentare.</string>
+</resources>

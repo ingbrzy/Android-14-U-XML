@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a11y_hours">
+        <item quantity="other">de ore</item>
+        <item quantity="one">oră</item>
+        <item quantity="few">ore</item>
+    </plurals>
+    <plurals name="a11y_minutes">
+        <item quantity="other">de minute</item>
+        <item quantity="one">minut</item>
+        <item quantity="few">minute</item>
+    </plurals>
+    <plurals name="a11y_new_call_log_entry_answered_call">
+        <item quantity="other">^1 de apeluri. Ultimul este un apel preluat de la ^2</item>
+        <item quantity="one">^1 apel preluat de la ^2</item>
+        <item quantity="few">^1 apeluri. Ultimul este un apel preluat de la ^2</item>
+    </plurals>
+    <plurals name="a11y_new_call_log_entry_answered_call_with_features">
+        <item quantity="other">^1 de apeluri, cel mai recent este un apel la care s-a răspuns cu ^2, de la ^3</item>
+        <item quantity="one">^1 apel la care s-a răspuns cu ^2, de la ^3</item>
+        <item quantity="few">^1 apeluri, cel mai recent este un apel la care s-a răspuns cu ^2, de la ^3</item>
+    </plurals>
+    <plurals name="a11y_new_call_log_entry_blocked_call">
+        <item quantity="other">^1 de apeluri. Ultimul este un apel blocat de la ^2</item>
+        <item quantity="one">^1 apel blocat de la ^2</item>
+        <item quantity="few">^1 apeluri. Ultimul este un apel blocat de la ^2</item>
+    </plurals>
+    <plurals name="a11y_new_call_log_entry_missed_call">
+        <item quantity="other">^1 de apeluri. Ultimul este un apel nepreluat de la ^2</item>
+        <item quantity="one">^1 apel nepreluat de la ^2</item>
+        <item quantity="few">^1 apeluri. Ultimul este un apel nepreluat de la ^2</item>
+    </plurals>
+    <plurals name="a11y_new_call_log_entry_missed_call_with_features">
+        <item quantity="other">^1 de apeluri, cel mai recent este un apel nepreluat cu ^2, de la ^3</item>
+        <item quantity="one">^1 apel nepreluat cu ^2, de la ^3</item>
+        <item quantity="few">^1 apeluri, cel mai recent este un apel nepreluat cu ^2, de la ^3</item>
+    </plurals>
+    <plurals name="a11y_new_call_log_entry_outgoing_call">
+        <item quantity="other">^1 de apeluri. Ultimul este un apel efectuat către ^2</item>
+        <item quantity="one">^1 apel efectuat către ^2</item>
+        <item quantity="few">^1 apeluri. Ultimul este un apel efectuat către ^2</item>
+    </plurals>
+    <plurals name="a11y_new_call_log_entry_outgoing_call_with_features">
+        <item quantity="other">^1 de apeluri. Cel mai recent este un apel efectuat cu ^2, la ^3</item>
+        <item quantity="one">^1 apel efectuat cu ^2, la ^3</item>
+        <item quantity="few">^1 apeluri. Cel mai recent este un apel efectuat cu ^2, la ^3</item>
+    </plurals>
+    <plurals name="a11y_seconds">
+        <item quantity="other">de secunde</item>
+        <item quantity="one">secundă</item>
+        <item quantity="few">secunde</item>
+    </plurals>
+    <plurals name="accessibility_duration_description_minutes">
+        <item quantity="other">%d de minute</item>
+        <item quantity="one">%d minut</item>
+        <item quantity="few">%d minute</item>
+    </plurals>
+    <plurals name="accessibility_duration_description_seconds">
+        <item quantity="other">%d de secunde</item>
+        <item quantity="one">%d secundă</item>
+        <item quantity="few">%d secunde</item>
+    </plurals>
+    <plurals name="auto_deletion_confirmation_dialog_message_14_days">
+        <item quantity="other">%d de înregistrări vor fi șterse. Alte înregistrări vor fi șterse după 14 zile de la data creării.</item>
+        <item quantity="one">%d înregistrare va fi ștearsă. Alte înregistrări vor fi șterse după 14 zile de la data creării.</item>
+        <item quantity="few">%d înregistrări vor fi șterse. Alte înregistrări vor fi șterse după 14 zile de la data creării.</item>
+    </plurals>
+    <plurals name="auto_deletion_confirmation_dialog_message_30_days">
+        <item quantity="other">%d de înregistrări vor fi șterse. Alte înregistrări vor fi șterse după 30 de zile de la data creării.</item>
+        <item quantity="one">%d înregistrare va fi ștearsă. Alte înregistrări vor fi șterse după 30 de zile de la data creării.</item>
+        <item quantity="few">%d înregistrări vor fi șterse. Alte înregistrări vor fi șterse după 30 de zile de la data creării.</item>
+    </plurals>
+    <plurals name="auto_deletion_confirmation_dialog_message_7_days">
+        <item quantity="other">%d de înregistrări vor fi șterse. Alte înregistrări vor fi șterse după șapte zile de la data creării.</item>
+        <item quantity="one">%d înregistrare va fi ștearsă. Alte înregistrări vor fi șterse după șapte zile de la data creării.</item>
+        <item quantity="few">%d înregistrări vor fi șterse. Alte înregistrări vor fi șterse după șapte zile de la data creării.</item>
+    </plurals>
+    <plurals name="contacts_suggestions_promo_merge_title_text">
+        <item quantity="other">Îmbină %1$d de persoane de contact dublură</item>
+        <item quantity="one">Îmbină %1$d persoană de contact dublură</item>
+        <item quantity="few">Îmbină %1$d persoane de contact dublură</item>
+    </plurals>
+    <plurals name="contacts_suggestions_promo_title_text">
+        <item quantity="other">Elimină %1$d de intrări duble în Agendă</item>
+        <item quantity="one">Elimină %1$d intrare dublă în Agendă</item>
+        <item quantity="few">Elimină %1$d intrări duble în Agendă</item>
+    </plurals>
+    <plurals name="delete_confirmation_dialog_template">
+        <item quantity="other">Astfel, vei șterge %1$d de înregistrări și vei elibera %2$s de spațiu pe dispozitiv</item>
+        <item quantity="one">Astfel, vei șterge %1$d înregistrare și vei elibera %2$s de spațiu pe dispozitiv</item>
+        <item quantity="few">Astfel, vei șterge %1$d înregistrări și vei elibera %2$s de spațiu pe dispozitiv</item>
+    </plurals>
+    <plurals name="delete_voicemails_confirmation_dialog_title">
+        <item quantity="other">&lt;b>Ștergi aceste mesaje vocale? &lt;/b></item>
+        <item quantity="one">&lt;b>Ștergi acest mesaj vocal? &lt;/b></item>
+        <item quantity="few">&lt;b>Ștergi aceste mesaje vocale? &lt;/b></item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d de notificări noi</item>
+        <item quantity="one">%d notificare nouă</item>
+        <item quantity="few">%d notificări noi</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d de mesaje vocale</item>
+        <item quantity="one">Mesaj vocal</item>
+        <item quantity="few">%1$d mesaje vocale</item>
+    </plurals>
+    <plurals name="previously_unread_miss_call_count">
+        <item quantity="other">%1$d de apeluri</item>
+        <item quantity="one">%1$d apel</item>
+        <item quantity="few">%1$d apeluri</item>
+    </plurals>
+    <plurals name="selected_numbers_number_summary">
+        <item quantity="other">%1$s • %2$d de numere selectate</item>
+        <item quantity="one">%1$s • %2$d număr selectat</item>
+        <item quantity="few">%1$s • %2$d numere selectate</item>
+    </plurals>
+    <plurals name="storage_info_recordings_text">
+        <item quantity="other">de înregistrări</item>
+        <item quantity="one">înregistrare</item>
+        <item quantity="few">înregistrări</item>
+    </plurals>
+    <plurals name="survey_star_rating">
+        <item quantity="other">%1$d de stele din %2$d</item>
+        <item quantity="one">%1$d stea din %2$d</item>
+        <item quantity="few">%1$d stele din %2$d</item>
+    </plurals>
+</resources>

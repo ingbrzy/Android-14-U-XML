@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_retaildemoCommunication">به برنامه اجازه می‌دهد با «خدمات نمونه برای خرده‌فروشان» تعامل برقرار کند. این اجازه فقط باید به «نمونه برای خرده‌فروشان» داده شود. برنامه‌هایی که این اجازه را دارند می‌توانند کنش‌های رزروشده برای «حالت نمونه برای خرده‌فروشان» راه‌اندازی کنند.</string>
+    <string name="permlab_retaildemoCommunication">برقراری ارتباط با «نمونه برای خرده‌فروشان»</string>
+    <string name="retaildemo_preload_app_name">خدمات نمونه برای خرده‌فروشان</string>
+</resources>

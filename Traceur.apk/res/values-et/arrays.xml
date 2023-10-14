@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="select_logpersist_summaries">
+        <item>Väljas</item>
+        <item>Kõik logipuhvrid</item>
+        <item>Kõik, v.a raadiologi puhvrid</item>
+        <item>ainult tuuma logi puhver</item>
+    </string-array>
+</resources>

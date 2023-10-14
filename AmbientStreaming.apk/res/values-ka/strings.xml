@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">მოწყობილობათშორისი სერვისები</string>
+    <string name="app_name_generic">აპი</string>
+    <string name="app_stream_error_generic">აპის გაზიარებისას მოხდა შეცდომა</string>
+    <string name="app_stream_init_error_generic">თქვენს Chromebook-თან აპის გაზიარება ვერ მოხერხდა</string>
+    <string name="audio_permission_rationale">მიკროფონის ნებართვა გამორთულია აპის გაზიარებისთვის</string>
+    <string name="cancel_button_label">გაუქმება</string>
+    <string name="chromebook_keyboard">Chromebook კლავიატურა</string>
+    <string name="chromebook_mouse">Chromebook მაუსი</string>
+    <string name="chromebook_touchscreen">Chromebook სენსორული ეკრანი</string>
+    <string name="connect_device">თქვენი ტელეფონის დისტანციურ მოწყობილობასთან დაკავშირება: %1$s</string>
+    <string name="decline_button_label">უარყოფა</string>
+    <string name="development_notification_channel_name">დეველოპმენტი</string>
+    <string name="device_camera_cannot_access">ამ Chromebook-დან მოწყობილობის კამერაზე წვდომა შეუძლებელია</string>
+    <string name="done_button_label">მზადაა</string>
+    <string name="enable_button_label">ჩართვა</string>
+    <string name="foreground_service_notification_channel_name">ზოგადი</string>
+    <string name="foreground_service_notification_content">პარამეტრების შესაცვლელად შეეხეთ</string>
+    <string name="foreground_service_notification_title">{0,plural, =1{დაკავშირებულია # მოწყობილობას}other{დაკავშირებულია # მოწყობილობას}}</string>
+    <string name="interactive_streaming_generic_notification">მიმდინარეობს %1$s მიმდინარეობს შეტყობინებების სტრიმინგი და სინქრონიზაცია თქვენი Chromebook-ისთვის</string>
+    <string name="interactive_streaming_individual_notification">მიმდინარეობს %1$s-ის სტრიმინგი და შეტყობინებების სინქრონიზაცია %2$s-ისთვის</string>
+    <string name="interactive_streaming_notification">სტრიმინგი თქვენს Chromebook-ში</string>
+    <string name="keyboard_name">მოწყობილობებს შორის კლავიატურა</string>
+    <string name="lock_screen_notif_warning_content">ჩართეთ ჩაკეტილი ეკრანის შეტყობინებები</string>
+    <string name="lock_screen_notif_warning_title">შეტყობინებები არ გადამისამართდება</string>
+    <string name="mouse_name">მაუსი რამდენიმე მოწყობილობისთვის</string>
+    <string name="new_connection_confirm">დადასტურება</string>
+    <string name="new_connection_deny">უარყოფა</string>
+    <string name="new_connection_title">დამთხვევის დადასტ.</string>
+    <string name="notification_access_missing">საჭიროა შეტყობინებებზე წვდომა</string>
+    <string name="notification_access_missing_description">Chromebook-ზე შეტყობინებების გასახსნელად ჩართეთ შეტყობინებებზე წვდომა</string>
+    <string name="notification_channel_name">ზოგადი</string>
+    <string name="notification_listener_label">აპების გაზიარება Chromebook-თან</string>
+    <string name="open_source_licenses">ღია კოდის ლიცენზიები</string>
+    <string name="phone_permission_rationale">სატელეფონო ზარის ნებართვა გამორთულია აპის გაზიარებისთვის</string>
+    <string name="prompt_switch_languages">დააჭირეთ Shift + space თქვენი ტელეფონის Gboard ენის გადასართავად</string>
+    <string name="settings_button">პარამეტრები</string>
+    <string name="stop_sharing_button">ნაკადის დასრულება</string>
+    <string name="stream_termination_proximity_warning">თქვენი ტელეფონი ზედმეტად შორსაა. სტრიმინგის გასაგრძელებლად მოიტანეთ ახლოს.</string>
+    <string name="substitute_app_name">სისტემა</string>
+    <string name="summary_disable_wirecutter">გამორთვა</string>
+    <string name="summary_enable_wirecutter">ჩართვა</string>
+    <string name="touchscreen_name">რამდენიმე მოწყობილობის სენსორული ეკრანი</string>
+</resources>

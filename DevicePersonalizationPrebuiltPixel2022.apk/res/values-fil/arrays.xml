@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="call_captions_typing_predictions_post_system_message">
+        <item>Kumusta, sino ito?</item>
+        <item>Kumusta ka?</item>
+        <item>Maghintay nang sandali</item>
+        <item>Hi, puwede ba kitang tawagan mamaya?</item>
+        <item>Kumusta! Salamat sa pagtawag.</item>
+    </string-array>
+    <string-array name="captions_settings_enable_for_calls_choices_entries">
+        <item>Itanong palagi</item>
+        <item>Palagi</item>
+        <item>Naka-off</item>
+    </string-array>
+    <string-array name="captions_settings_typing_voice_names">
+        <item>Boses A</item>
+        <item>Boses B</item>
+        <item>Boses C</item>
+        <item>Boses D</item>
+        <item>Boses E</item>
+        <item>Boses F</item>
+        <item>Boses G</item>
+        <item>Boses H</item>
+        <item>Boses I</item>
+        <item>Boses J</item>
+        <item>Boses K</item>
+        <item>Boses L</item>
+        <item>Boses M</item>
+        <item>Boses N</item>
+        <item>Boses O</item>
+        <item>Boses P</item>
+    </string-array>
+</resources>

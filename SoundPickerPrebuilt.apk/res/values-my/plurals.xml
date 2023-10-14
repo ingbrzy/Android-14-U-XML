@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="track_counts">
+        <item quantity="other">အသံ %1$d သံ</item>
+        <item quantity="one">အသံ %1$d သံ</item>
+    </plurals>
+</resources>

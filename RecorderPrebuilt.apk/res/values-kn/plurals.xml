@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dlg_message_deletion_confirmation">
+        <item quantity="other">ನಿಮ್ಮ ರೆಕಾರ್ಡಿಂಗ್‌ಗಳನ್ನು ಶಾಶ್ವತವಾಗಿ ಅಳಿಸಲಾಗುತ್ತದೆ. ಈ ಕ್ರಿಯೆಯನ್ನು ರದ್ದುಗೊಳಿಸಲಾಗುವುದಿಲ್ಲ.</item>
+        <item quantity="one">ನಿಮ್ಮ ರೆಕಾರ್ಡಿಂಗ್‌ಗಳನ್ನು ಶಾಶ್ವತವಾಗಿ ಅಳಿಸಲಾಗುತ್ತದೆ. ಈ ಕ್ರಿಯೆಯನ್ನು ರದ್ದುಗೊಳಿಸಲಾಗುವುದಿಲ್ಲ.</item>
+    </plurals>
+    <plurals name="dlg_message_deletion_permanent_confirmation">
+        <item quantity="other">ರೆಕಾರ್ಡಿಂಗ್‌ಗಳನ್ನು ಬ್ಯಾಕಪ್ ಮಾಡಲಾಗಿಲ್ಲ. ಇವುಗಳನ್ನು ಶಾಶ್ವತವಾಗಿ ಅಳಿಸಲಾಗುತ್ತದೆ. ನೀವು ಈ ಕ್ರಿಯೆಯನ್ನು ರದ್ದುಗೊಳಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ.</item>
+        <item quantity="one">ರೆಕಾರ್ಡಿಂಗ್‌ಗಳನ್ನು ಬ್ಯಾಕಪ್ ಮಾಡಲಾಗಿಲ್ಲ. ಇವುಗಳನ್ನು ಶಾಶ್ವತವಾಗಿ ಅಳಿಸಲಾಗುತ್ತದೆ. ನೀವು ಈ ಕ್ರಿಯೆಯನ್ನು ರದ್ದುಗೊಳಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ.</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_confirmation">
+        <item quantity="other">ರೆಕಾರ್ಡಿಂಗ್‌ಗಳನ್ನು ಅಳಿಸುವುದೇ?</item>
+        <item quantity="one">ರೆಕಾರ್ಡಿಂಗ್‌ಗಳನ್ನು ಅಳಿಸುವುದೇ?</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_permanent_confirmation">
+        <item quantity="other">ಈ ರೆಕಾರ್ಡಿಂಗ್‌ಗಳನ್ನು ಶಾಶ್ವತವಾಗಿ ಅಳಿಸಬೇಕೆ?</item>
+        <item quantity="one">ಈ ರೆಕಾರ್ಡಿಂಗ್‌ಗಳನ್ನು ಶಾಶ್ವತವಾಗಿ ಅಳಿಸಬೇಕೆ?</item>
+    </plurals>
+    <plurals name="download_failure_description_storage_full">
+        <item quantity="other">ಸಾಧನದ ಸಂಗ್ರಹಣೆ ಭರ್ತಿಯಾಗಿರುವುದರಿಂದ ರೆಕಾರ್ಡಿಂಗ್‌ಗಳನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಲು ಸಾಧ್ಯವಿಲ್ಲ. ಪರಿಶೀಲಿಸಲು ಟ್ಯಾಪ್ ಮಾಡಿ.</item>
+        <item quantity="one">ಸಾಧನದ ಸಂಗ್ರಹಣೆ ಭರ್ತಿಯಾಗಿರುವುದರಿಂದ ರೆಕಾರ್ಡಿಂಗ್‌ಗಳನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಲು ಸಾಧ್ಯವಿಲ್ಲ. ಪರಿಶೀಲಿಸಲು ಟ್ಯಾಪ್ ಮಾಡಿ.</item>
+    </plurals>
+    <plurals name="downloading_description">
+        <item quantity="other">%1$d ರೆಕಾರ್ಡಿಂಗ್‌ಗಳನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ</item>
+        <item quantity="one">%1$d ರೆಕಾರ್ಡಿಂಗ್‌ಗಳನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ</item>
+    </plurals>
+    <plurals name="og_backup_failed_title">
+        <item quantity="other">%1$d ಐಟಂಗಳ ಬ್ಯಾಕಪ್ ಮಾಡುವಿಕೆ ವಿಫಲವಾಗಿದೆ</item>
+        <item quantity="one">%1$d ಐಟಂಗಳ ಬ್ಯಾಕಪ್ ಮಾಡುವಿಕೆ ವಿಫಲವಾಗಿದೆ</item>
+    </plurals>
+    <plurals name="og_backup_items_left">
+        <item quantity="other">%1$d ಐಟಂಗಳು ಬಾಕಿಯಿವೆ</item>
+        <item quantity="one">%1$d ಐಟಂಗಳು ಬಾಕಿಯಿವೆ</item>
+    </plurals>
+    <plurals name="og_backup_items_stopped_title">
+        <item quantity="other">%1$d ಐಟಂಗಳನ್ನು ಬ್ಯಾಕಪ್ ಮಾಡಲಾಗಿಲ್ಲ</item>
+        <item quantity="one">%1$d ಐಟಂಗಳನ್ನು ಬ್ಯಾಕಪ್ ಮಾಡಲಾಗಿಲ್ಲ</item>
+    </plurals>
+    <plurals name="peoplekit_chips_copied_recipients">
+        <item quantity="other">%d ಜನ ಸ್ವೀಕರಿಸುವವರನ್ನು ನಕಲಿಸಲಾಗಿದೆ</item>
+        <item quantity="one">%d ಜನ ಸ್ವೀಕರಿಸುವವರನ್ನು ನಕಲಿಸಲಾಗಿದೆ</item>
+    </plurals>
+    <plurals name="search_results_count">
+        <item quantity="other">%1$d ಫಲಿತಾಂಶಗಳು</item>
+        <item quantity="one">%1$d ಫಲಿತಾಂಶಗಳು</item>
+    </plurals>
+    <plurals name="search_results_position">
+        <item quantity="other">^1/^2 ಫಲಿತಾಂಶಗಳು</item>
+        <item quantity="one">^1/^2 ಫಲಿತಾಂಶಗಳು</item>
+    </plurals>
+    <plurals name="search_results_position_content_description">
+        <item quantity="other">%2$d ರಲ್ಲಿ %1$d ಫಲಿತಾಂಶಗಳು</item>
+        <item quantity="one">%2$d ರಲ್ಲಿ %1$d ಫಲಿತಾಂಶಗಳು</item>
+    </plurals>
+    <plurals name="selected_recording_quantity">
+        <item quantity="other">%1$d ಆಯ್ಕೆಮಾಡಲಾಗಿದೆ</item>
+        <item quantity="one">%1$d ಆಯ್ಕೆಮಾಡಲಾಗಿದೆ</item>
+    </plurals>
+    <plurals name="snackbar_message_download_failed_storage_full">
+        <item quantity="other">ಸಾಧನದ ಸಂಗ್ರಹಣೆ ಭರ್ತಿಯಾಗಿದೆ. ರೆಕಾರ್ಡಿಂಗ್‌ಗಳನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಲು ಸಾಧ್ಯವಿಲ್ಲ.</item>
+        <item quantity="one">ಸಾಧನದ ಸಂಗ್ರಹಣೆ ಭರ್ತಿಯಾಗಿದೆ. ರೆಕಾರ್ಡಿಂಗ್‌ಗಳನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಲು ಸಾಧ್ಯವಿಲ್ಲ.</item>
+    </plurals>
+    <plurals name="speaker_count">
+        <item quantity="other">%1$d ಸ್ಪೀಕರ್‌ಗಳು</item>
+        <item quantity="one">%1$d ಸ್ಪೀಕರ್‌ಗಳು</item>
+    </plurals>
+    <plurals name="uploading_description">
+        <item quantity="other">%1$d ರೆಕಾರ್ಡಿಂಗ್‌ಗಳನ್ನು ಅಪ್‌ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ</item>
+        <item quantity="one">%1$d ರೆಕಾರ್ಡಿಂಗ್‌ಗಳನ್ನು ಅಪ್‌ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ</item>
+    </plurals>
+</resources>

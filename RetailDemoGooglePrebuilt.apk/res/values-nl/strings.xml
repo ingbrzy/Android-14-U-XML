@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_retaildemoCommunication">Hiermee kan de app interactie hebben met de services voor de demo voor de detailhandel. Alleen de demo voor de detailhandel moet dit recht krijgen. Apps die dit recht krijgen, kunnen acties activeren die zijn gereserveerd voor de demomodus voor de detailhandel.</string>
+    <string name="permlab_retaildemoCommunication">Communicatie met demo voor de detailhandel</string>
+    <string name="retaildemo_preload_app_name">Services voor demo voor de detailhandel</string>
+</resources>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Shërbimet e pajisjeve të ndërlidhura</string>
+    <string name="app_name_generic">një aplikacion</string>
+    <string name="app_stream_error_generic">Ka ndodhur një gabim gjatë ndarjes së aplikacionit</string>
+    <string name="app_stream_init_error_generic">Ndarja e aplikacionit në Chromebook nuk u krye me sukses</string>
+    <string name="audio_permission_rationale">Leja e mikrofonit për ndarjen e aplikacionit është e çaktivizuar</string>
+    <string name="cancel_button_label">Anulo</string>
+    <string name="chromebook_keyboard">Tastiera e Chromebook</string>
+    <string name="chromebook_mouse">Mausi i Chromebook</string>
+    <string name="chromebook_touchscreen">Ekrani me prekje i Chromebook</string>
+    <string name="connect_device">Po lidh telefonin me pajisjen në distancë: %1$s</string>
+    <string name="decline_button_label">Refuzo</string>
+    <string name="development_notification_channel_name">Zhvillim</string>
+    <string name="device_camera_cannot_access">Nuk mund të qaset te kamera e pajisjes nga ky Chromebook</string>
+    <string name="done_button_label">U krye</string>
+    <string name="enable_button_label">Aktivizo</string>
+    <string name="foreground_service_notification_channel_name">E përgjithshme</string>
+    <string name="foreground_service_notification_content">Trokit për të modifikuar cilësimet</string>
+    <string name="foreground_service_notification_title">{0,plural, =1{U lidh me # pajisje}other{U lidh me # pajisje}}</string>
+    <string name="interactive_streaming_generic_notification">%1$s po transmetohet dhe njoftimet po sinkronizohen për Chromebook</string>
+    <string name="interactive_streaming_individual_notification">Po transmetohet %1$s dhe po sinkronizohen njoftimet për %2$s</string>
+    <string name="interactive_streaming_notification">Po transmetohet në Chromebook</string>
+    <string name="keyboard_name">Tastierë për pajisje të ndërlidhura</string>
+    <string name="lock_screen_notif_warning_content">Aktivizo njoftimet në ekranin e kyçjes</string>
+    <string name="lock_screen_notif_warning_title">Njoftimet nuk do të transferohen</string>
+    <string name="mouse_name">Mi për pajisje të ndërlidhura</string>
+    <string name="new_connection_confirm">Konfirmo</string>
+    <string name="new_connection_deny">Refuzo</string>
+    <string name="new_connection_title">Konfirmo përputhjet</string>
+    <string name="notification_access_missing">Nevojitet qasja te njoftimet</string>
+    <string name="notification_access_missing_description">Për të hapur njoftimet në Chromebook, aktivizo \"Qasjen te njoftimet\"</string>
+    <string name="notification_channel_name">Të përgjithshme</string>
+    <string name="notification_listener_label">Ndaj aplikacionet me Chromebook</string>
+    <string name="open_source_licenses">Licencat me burim të hapur</string>
+    <string name="phone_permission_rationale">Leja e telefonatës për ndarjen e aplikacionit është e çaktivizuar</string>
+    <string name="prompt_switch_languages">Shtyp \"Shift\" + tastin e hapësirës për të ndërruar gjuhën e Gboard të telefonit</string>
+    <string name="settings_button">Cilësimet</string>
+    <string name="stop_sharing_button">Mbyll transmetimin</string>
+    <string name="stream_termination_proximity_warning">Telefoni yt është shumë larg. Afroje që të vazhdosh të transmetosh.</string>
+    <string name="substitute_app_name">Sistemi</string>
+    <string name="summary_disable_wirecutter">Joaktiv</string>
+    <string name="summary_enable_wirecutter">Aktiv</string>
+    <string name="touchscreen_name">Ekran për pajisje të ndërlidhura</string>
+</resources>

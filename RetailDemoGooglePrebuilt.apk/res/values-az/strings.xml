@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_retaildemoCommunication">Pərakəndə Satış Demo Xidmətləri ilə tətbiqin əlaqə yaratmasına icazə verir. Bu icazə yalnız Pərakəndə Satış Demosuna verilməlidir. Bu icazə verilən tətbiqlər Pərakəndə Satış Demo Rejimi üzrə əməliyyatları həyata keçirə bilər.</string>
+    <string name="permlab_retaildemoCommunication">Pərakəndə Satış Demo Kommunikasiyası</string>
+    <string name="retaildemo_preload_app_name">Pərakəndə Satış Demo Xidmətləri</string>
+</resources>

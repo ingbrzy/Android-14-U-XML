@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_install_failed_multi_app_desc">
+        <item quantity="other">Opstelling kan nie voltooi word nie omdat %1$d vereiste programme nie geïnstalleer kon word nie. Kontak jou stelseladministrateur asseblief direk.</item>
+        <item quantity="one">Opstelling kan nie voltooi word nie omdat %1$d vereiste program nie geïnstalleer kon word nie. Kontak jou stelseladministrateur asseblief direk.</item>
+    </plurals>
+    <plurals name="app_install_failure_title">
+        <item quantity="other">Kan nie programme installeer nie</item>
+        <item quantity="one">Kan nie program installeer nie</item>
+    </plurals>
+    <plurals name="app_install_progress_desc">
+        <item quantity="other">%1$d van %2$d programme is geïnstalleer</item>
+        <item quantity="one">%1$d van %2$d program is geïnstalleer</item>
+    </plurals>
+    <plurals name="app_uninstall_button">
+        <item quantity="other">Deïnstalleer programme</item>
+        <item quantity="one">Deïnstalleer program</item>
+    </plurals>
+    <plurals name="days_left_message">
+        <item quantity="other">&lt;annotation id="numeric_time_left">^1&lt;/annotation> dae oor</item>
+        <item quantity="one">&lt;annotation id="numeric_time_left">^1&lt;/annotation> dag oor</item>
+    </plurals>
+    <plurals name="hours_left_message">
+        <item quantity="other">&lt;annotation id="numeric_time_left">^1&lt;/annotation> uur oor</item>
+        <item quantity="one">&lt;annotation id="numeric_time_left">^1&lt;/annotation> uur oor</item>
+    </plurals>
+    <plurals name="number_of_additional_apps">
+        <item quantity="other">%1$d bykomende apps</item>
+        <item quantity="one">%1$d bykomende app</item>
+    </plurals>
+    <plurals name="number_of_required_apps">
+        <item quantity="other">%1$d vereiste apps</item>
+        <item quantity="one">%1$d vereiste app</item>
+    </plurals>
+    <plurals name="policy_apps_list_summary">
+        <item quantity="other">%d werkprogramme kan nie gedeïnstalleer word nie</item>
+        <item quantity="one">%d werkprogram kan nie gedeïnstalleer word nie</item>
+    </plurals>
+    <plurals name="preinstalled_apps">
+        <item quantity="other">%1$d van %2$d programme is geïnstalleer</item>
+        <item quantity="one">%1$d van %2$d program is geïnstalleer</item>
+    </plurals>
+    <plurals name="readable_name_applications">
+        <item quantity="other">%1$d programme beskikbaar (%2$d geïnstalleer, %3$d gedeaktiveer)</item>
+        <item quantity="one">%1$d program beskikbaar (%2$d geïnstalleer, %3$d gedeaktiveer)</item>
+    </plurals>
+</resources>

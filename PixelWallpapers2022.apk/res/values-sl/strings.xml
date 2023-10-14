@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="azure_title">Modra šoja</string>
+    <string name="blackswan_title">Črni labod</string>
+    <string name="cockatoo_title">Kakadu</string>
+    <string name="come_alive_title">Oživitev</string>
+    <string name="feathers_attribution">Avtor fotografije: Andrew Zuckerman</string>
+    <string name="feathers_description">Pernati prikaz barv in podrobnosti</string>
+    <string name="feathers_title">Peresa</string>
+    <string name="greenwinged_title">Zelenokrila ara</string>
+    <string name="king_title">Kraljevski jastreb</string>
+    <string name="living_universe_title">Živo vesolje</string>
+    <string name="photos_memory_gallery_title">Vaši spomini</string>
+    <string name="pied_title">Beloprsa vrana</string>
+    <string name="ringnecked_title">Mali aleksander</string>
+    <string name="seagull_title">Galeb</string>
+</resources>

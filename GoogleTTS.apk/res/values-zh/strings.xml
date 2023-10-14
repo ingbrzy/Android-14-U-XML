@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_licenses">开放源代码许可</string>
+    <string name="action_voice_pack_uninstall">卸载</string>
+    <string name="action_voice_pack_update">更新</string>
+    <string name="add_language_details">管理离线语言</string>
+    <string name="add_language_title">添加语言</string>
+    <string name="analytics_info_icon_description">信息图标</string>
+    <string name="analytics_screen_explanation">"开启此功能后，我们会以匿名方式收集使用情况报告，以便更好地了解 Google 文字转语音功能在您设备上的表现。
+
+例如，我们会收集以下汇总指标：
+"<ul><li>文字转语音功能的使用频率。</li>"
+"<li>文字转语音请求的性能。</li>"
+"<li>使用的语言。</li>"
+"<li>文字转语音功能无法提供语音输出的频率。</li>"
+"</ul></string>
+    <string name="analytics_summary_off">已关闭</string>
+    <string name="analytics_summary_on">已开启</string>
+    <string name="analytics_title">匿名使用情况报告</string>
+    <string name="app_name">Google 语音服务</string>
+    <string name="auto_update_title">自动更新语言</string>
+    <string name="auto_update_wifi_summary">仅使用 WLAN 下载语音数据，以节省数据流量</string>
+    <string name="auto_update_wifi_title">仅使用 WLAN</string>
+    <string name="available_languages_title">支持的语言</string>
+    <string name="cancel_prompt">取消</string>
+    <string name="download_cancel">取消</string>
+    <string name="download_language_pack_details">下载此更新 (%1$s) 即可使用离线语音识别功能</string>
+    <string name="download_prompt">下载</string>
+    <string name="download_title">下载“%1$s”更新</string>
+    <string name="downloaded_languages_category_title">已下载的语言</string>
+    <string name="feedback_title">反馈</string>
+    <string name="install_voices_title">安装语音数据包</string>
+    <string name="language_detection_title">语言检测</string>
+    <string name="language_pack_download_notification_title">正在下载%1$s更新</string>
+    <string name="loudness_summary">用比正常高的音量说出文字，以便在播放其他音频时，也能轻松听清文字内容</string>
+    <string name="loudness_title">提高语音音量</string>
+    <string name="multi_voice_pack_title">%1$s语音</string>
+    <string name="offline_speech_category_title">离线语音</string>
+    <string name="open_source_licenses">开源许可</string>
+    <string name="pending_language_pack_details">正在下载%1$s更新 (%2$s)</string>
+    <string name="pending_title">下载%1$s更新</string>
+    <string name="play_sample">播放示例文本</string>
+    <string name="play_sample_text_button_description">听取%1$s示例</string>
+    <string name="recognizer_service_label">Google 语音服务</string>
+    <string name="sample_text_synthesis_failure">无法为此语音合成示例。</string>
+    <string name="stop_pending_download_prompt">停止下载</string>
+    <string name="transcription_app_voice_ime_language_label">自动</string>
+    <string name="transcription_app_voice_ime_service_label">Google 语音输入</string>
+    <string name="transcription_categoryTitle_voice_languages">语音输入语言</string>
+    <string name="transcription_multiSelectDialogButton_negative">取消</string>
+    <string name="transcription_multiSelectDialogButton_positive">保存</string>
+    <string name="transcription_prefSummary_default">默认语言</string>
+    <string name="transcription_prefSummary_language">主要语言：%1$s</string>
+    <string name="transcription_prefSummary_languages_multiple">语言：%1$s</string>
+    <string name="transcription_prefSummary_languages_single">语言：%1$s</string>
+    <string name="transcription_prefSummary_profanityFilter">隐藏系统识别为不文明的语音结果</string>
+    <string name="transcription_prefTitle_language">主要语言</string>
+    <string name="transcription_prefTitle_profanityFilter">屏蔽不文明的字词</string>
+    <string name="transcription_prefTitle_voice_languages">语言</string>
+    <string name="tts_default_example">这是语音合成示例。</string>
+    <string name="tts_settings_label">Google 文字转语音选项</string>
+    <string name="uninstall_language_pack_details">您必须下载这项更新，才能在这个应用和其他应用使用离线语音识别功能</string>
+    <string name="uninstall_prompt">卸载</string>
+    <string name="uninstall_title">卸载“%1$s”更新</string>
+    <string name="voice_data_install_title">Google TTS 语音数据</string>
+    <string name="voice_entity_status_voice">语音 %1$s</string>
+    <string name="voice_entry_cancel_download_desc">取消下载语音数据包</string>
+    <string name="voice_entry_delete_desc">删除语音数据包</string>
+    <string name="voice_entry_download_desc">下载语音数据包</string>
+    <string name="voice_entry_overflow_desc">其他语音数据包操作</string>
+    <string name="voice_pack_status_canceling">正在取消…</string>
+    <string name="voice_pack_status_downloadable">下载（约%1$s）</string>
+    <string name="voice_pack_status_downloading">正在下载…</string>
+    <string name="voice_pack_status_size">大小：约 %1$s</string>
+    <string name="voice_pack_status_updatable">有新版本</string>
+    <string name="voice_pack_uninstall_dialog">要卸载此语音吗？</string>
+    <string name="voice_pack_uninstall_keep">保留</string>
+    <string name="voice_pack_uninstall_uninstall">卸载</string>
+    <string name="your_languages_title">您的语言</string>
+</resources>

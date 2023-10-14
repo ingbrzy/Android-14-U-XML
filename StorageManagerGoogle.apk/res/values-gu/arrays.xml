@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="select_logpersist_summaries">
+        <item>બંધ</item>
+        <item>તમામ લૉગ બફર</item>
+        <item>તમામ પરંતુ રેડિઓ લૉગ બફર્સ</item>
+        <item>ફક્ત કર્નલ લૉગ બફર</item>
+    </string-array>
+</resources>

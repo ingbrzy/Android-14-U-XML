@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_retaildemoCommunication">ອະນຸຍາດໃຫ້ແອັບໂຕ້ຕອບກັບບໍລິການເດໂມສຳລັບຮ້ານຂາຍ. ຄວນອະນຸຍາດເດໂມສຳລັບຮ້ານຂາຍເທົ່ານັ້ນ. ແອັບທີ່ໄດ້ຮັບການອະນຸຍາດນີ້ຈະສາມາດກະຕຸ້ນຄຳສັ່ງທີ່ສະຫງວນໄວ້ສຳລັບໂໝດເດໂມສຳລັບຮ້ານຂາຍໄດ້.</string>
+    <string name="permlab_retaildemoCommunication">ການຕິດຕໍ່ສື່ສານເດໂມສຳລັບຮ້ານຂາຍ</string>
+    <string name="retaildemo_preload_app_name">ບໍລິການເດໂມສຳລັບຮ້ານຂາຍ</string>
+</resources>

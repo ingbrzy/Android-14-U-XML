@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="heads_up_location_permission_description">Isto permite á función Coidadiño saber cando estás en lugares exteriores. Nas seguintes dúas pantallas, selecciona <b>Mentres se utiliza a aplicación > Permitir sempre</b>.</string>
+    <string name="wind_down_discovery_notification_text">{DEVICE_TYPE,select, DEVICE_PHONE{Utiliza o modo Hora de durmir para silenciar o teléfono e manter escura a pantalla a esa hora}DEVICE_TABLET{Utiliza o modo Hora de durmir para silenciar a tableta e manter escura a pantalla a esa hora}other{Utiliza o modo Hora de durmir para silenciar o dispositivo e manter escura a pantalla a esa hora}}</string>
+</resources>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="call_captions_typing_predictions_post_system_message">
+        <item>Здравствуйте! Кто это?</item>
+        <item>Здравствуйте!</item>
+        <item>Подождите, пожалуйста.</item>
+        <item>Здравствуйте! Перезвоните позже.</item>
+        <item>Здравствуйте! Спасибо за звонок.</item>
+    </string-array>
+    <string-array name="captions_settings_enable_for_calls_choices_entries">
+        <item>Всегда спрашивать</item>
+        <item>Всегда показывать</item>
+        <item>Никогда не показывать</item>
+    </string-array>
+    <string-array name="captions_settings_typing_voice_names">
+        <item>Голос 1</item>
+        <item>Голос 2</item>
+        <item>Голос 3</item>
+        <item>Голос 4</item>
+        <item>Голос 5</item>
+        <item>Голос 6</item>
+        <item>Голос 7</item>
+        <item>Голос 8</item>
+        <item>Голос 9</item>
+        <item>Голос 10</item>
+        <item>Голос 11</item>
+        <item>Голос 12</item>
+        <item>Голос 13</item>
+        <item>Голос 14</item>
+        <item>Голос 15</item>
+        <item>Голос 16</item>
+    </string-array>
+    <string-array name="pref_download_policy_entries">
+        <item>Мобильный интернет + Wi-Fi</item>
+        <item>Только Wi-Fi</item>
+        <item>Не обновлять</item>
+    </string-array>
+    <string-array name="pref_download_policy_entry_values_placeholder">
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+</resources>

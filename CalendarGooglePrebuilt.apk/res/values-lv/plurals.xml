@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ndays">
+        <item quantity="other">%d dienas</item>
+        <item quantity="zero">%d dienu</item>
+        <item quantity="one">%d diena</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%d stundas</item>
+        <item quantity="zero">%d stundu</item>
+        <item quantity="one">%d stunda</item>
+    </plurals>
+    <plurals name="Nminutes">
+        <item quantity="other">%d minūtes</item>
+        <item quantity="zero">%d minūšu</item>
+        <item quantity="one">%d minūte</item>
+    </plurals>
+    <plurals name="Nweeks">
+        <item quantity="other">%d nedēļas</item>
+        <item quantity="zero">%d nedēļu</item>
+        <item quantity="one">%d nedēļa</item>
+    </plurals>
+    <plurals name="a11y_filter_capacity">
+        <item quantity="other">Nepieciešamais telpas lielums: %1$d vietas</item>
+        <item quantity="zero">Nepieciešamais telpas lielums: %1$d vietu</item>
+        <item quantity="one">Nepieciešamais telpas lielums: %1$d vieta</item>
+    </plurals>
+    <plurals name="accessibility_find_time_custom_duration_hour_input">
+        <item quantity="other">%d stundas</item>
+        <item quantity="zero">%d stundu</item>
+        <item quantity="one">%d stunda</item>
+    </plurals>
+    <plurals name="accessibility_find_time_custom_duration_minute_input">
+        <item quantity="other">%d minūtes</item>
+        <item quantity="zero">%d minūšu</item>
+        <item quantity="one">%d minūte</item>
+    </plurals>
+    <plurals name="accessibility_has_time_proposals">
+        <item quantity="other">ir laika ieteikumi</item>
+        <item quantity="zero">ir laika ieteikumi</item>
+        <item quantity="one">ir laika ieteikumi</item>
+    </plurals>
+    <plurals name="alternate_search_available_announce">
+        <item quantity="other">Tika atrasti %d rezultāti.</item>
+        <item quantity="zero">Tika atrasti %d rezultāti.</item>
+        <item quantity="one">Tika atrasts %d rezultāts.</item>
+    </plurals>
+    <plurals name="annually_frequency_text">
+        <item quantity="other">Atkārtot ik pēc: %1$d %2$s</item>
+        <item quantity="zero">Atkārtot ik pēc: %1$d %2$s</item>
+        <item quantity="one">Atkārtot ik pēc: %1$d %2$s</item>
+    </plurals>
+    <plurals name="birthday_chip_title">
+        <item quantity="other">%d dzimšanas dienas</item>
+        <item quantity="zero">%d dzimšanas dienas</item>
+        <item quantity="one">%d dzimšanas diena</item>
+    </plurals>
+    <plurals name="calendar_daily_lower">
+        <item quantity="other">ik pēc %d dienām</item>
+        <item quantity="zero">ik pēc %d dienām</item>
+        <item quantity="one">ik pēc %d dienas</item>
+    </plurals>
+    <plurals name="calendar_monthly_interval_lower">
+        <item quantity="other">ik pēc %1$d mēnešiem</item>
+        <item quantity="zero">ik pēc %1$d mēnešiem</item>
+        <item quantity="one">ik pēc %1$d mēneša</item>
+    </plurals>
+    <plurals name="calendar_weekly_lower">
+        <item quantity="other">ik pēc %1$d nedēļām</item>
+        <item quantity="zero">ik pēc %1$d nedēļām</item>
+        <item quantity="one">ik pēc %1$d nedēļas</item>
+    </plurals>
+    <plurals name="calendar_yearly_interval_lower">
+        <item quantity="other">ik pēc %1$d gadiem</item>
+        <item quantity="zero">ik pēc %1$d gadiem</item>
+        <item quantity="one">ik pēc %1$d gada</item>
+    </plurals>
+    <plurals name="capacity_description">
+        <item quantity="other">%d personas</item>
+        <item quantity="zero">%d personu</item>
+        <item quantity="one">%d persona</item>
+    </plurals>
+    <plurals name="count_duration_accessibility_description">
+        <item quantity="other">Beigsies pēc %d atkārtošanas reizēm</item>
+        <item quantity="zero">Beigsies pēc %d atkārtošanas reizēm</item>
+        <item quantity="one">Beigsies pēc %d atkārtošanas reizes</item>
+    </plurals>
+    <plurals name="count_duration_label">
+        <item quantity="other">Pēc %d atkārtošanas reizēm</item>
+        <item quantity="zero">Pēc %d atkārtošanas reizēm</item>
+        <item quantity="one">Pēc %datkārtošanas reizes</item>
+    </plurals>
+    <plurals name="daily_frequency_text">
+        <item quantity="other">Atkārtot ik pēc: %1$d %2$s</item>
+        <item quantity="zero">Atkārtot ik pēc: %1$d %2$s</item>
+        <item quantity="one">Atkārtot ik pēc: %1$d %2$s</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">dienas</item>
+        <item quantity="zero">dienu</item>
+        <item quantity="one">diena</item>
+    </plurals>
+    <plurals name="days_before">
+        <item quantity="other">dienas pirms</item>
+        <item quantity="zero">dienas pirms</item>
+        <item quantity="one">dienu pirms</item>
+    </plurals>
+    <plurals name="describe_attachments">
+        <item quantity="other">Pielikumi: %1$d pielikumi</item>
+        <item quantity="zero">Pielikumi: %1$d pielikumu</item>
+        <item quantity="one">Pielikumi: %1$d pielikums</item>
+    </plurals>
+    <plurals name="done_reminders_title">
+        <item quantity="other">%d atgādinājumi atzīmēti kā gatavi</item>
+        <item quantity="zero">%d atgādinājumi atzīmēti kā gatavi</item>
+        <item quantity="one">%d atgādinājums atzīmēts kā gatavs</item>
+    </plurals>
+    <plurals name="end_by_count">
+        <item quantity="other">; %d reizes</item>
+        <item quantity="zero">; %d reizes</item>
+        <item quantity="one">; %d reizi</item>
+    </plurals>
+    <plurals name="error_working_location_duration_too_long">
+        <item quantity="other">Darba atrašanās vietas nevar iestatīt vairāk nekā %1$d dienām.</item>
+        <item quantity="zero">Darba atrašanās vietas nevar iestatīt vairāk nekā %1$d dienām.</item>
+        <item quantity="one">Darba atrašanās vietas nevar iestatīt vairāk nekā %1$d dienai.</item>
+    </plurals>
+    <plurals name="files_not_shared_dialog_body">
+        <item quantity="other">Norādītie viesi, iespējams, nevarēs piekļūt failiem, ko ievietojāt no Diska. Tādā gadījumā jums šie faili būs jākopīgo no Google diska.</item>
+        <item quantity="zero">Norādītie viesi, iespējams, nevarēs piekļūt failiem, ko ievietojāt no Diska. Tādā gadījumā jums šie faili būs jākopīgo no Google diska.</item>
+        <item quantity="one">Norādītie viesi, iespējams, nevarēs piekļūt failiem, ko ievietojāt no Diska. Tādā gadījumā jums šie faili būs jākopīgo no Google diska.</item>
+    </plurals>
+    <plurals name="find_a_time_invisible_attendee">
+        <item quantity="other">Vēl %d</item>
+        <item quantity="zero">Vēl %d</item>
+        <item quantity="one">Vēl %d</item>
+    </plurals>
+    <plurals name="find_time_duration_hour_label">
+        <item quantity="other">%d stundas</item>
+        <item quantity="zero">%d stundu</item>
+        <item quantity="one">%d stunda</item>
+    </plurals>
+    <plurals name="find_time_duration_minute_label">
+        <item quantity="other">%d minūtes</item>
+        <item quantity="zero">%d minūšu</item>
+        <item quantity="one">%d minūte</item>
+    </plurals>
+    <plurals name="fix_permissions_does_not_fix_everything_warning">
+        <item quantity="other">Piezīme. Iespējams, daži viesi joprojām nevar piekļūt šim failam. Tādā gadījumā jums šie faili būs jākopīgo no Google diska.</item>
+        <item quantity="zero">Piezīme. Iespējams, daži viesi joprojām nevar piekļūt šim failam. Tādā gadījumā jums šie faili būs jākopīgo no Google diska.</item>
+        <item quantity="one">Piezīme. Iespējams, daži viesi joprojām nevar piekļūt šim failam. Tādā gadījumā jums šie faili būs jākopīgo no Google diska.</item>
+    </plurals>
+    <plurals name="fix_permissions_outside_domain_warning_hedgehog">
+        <item quantity="other">"Jūs kopīgojat failus ar šiem viesiem:&lt;br>&lt;b>%1$s
+&lt;/b>&lt;br>Tie ir ārpus Google Workspace organizācijas, kurai pieder šie faili."</item>
+        <item quantity="zero">"Jūs kopīgojat failus ar šiem viesiem:&lt;br>&lt;b>%1$s
+&lt;/b>&lt;br>Tie ir ārpus Google Workspace organizācijas, kurai pieder šie faili."</item>
+        <item quantity="one">"Jūs kopīgojat failus ar šiem viesiem:&lt;br>&lt;b>%1$s
+&lt;/b>&lt;br>Tie ir ārpus Google Workspace organizācijas, kurai pieder šie faili."</item>
+    </plurals>
+    <plurals name="guest_count">
+        <item quantity="other">%d viesi</item>
+        <item quantity="zero">%d viesu</item>
+        <item quantity="one">%d viesis</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">stundas</item>
+        <item quantity="zero">stundu</item>
+        <item quantity="one">stunda</item>
+    </plurals>
+    <plurals name="hours_before">
+        <item quantity="other">stundas pirms</item>
+        <item quantity="zero">stundas pirms</item>
+        <item quantity="one">stundu pirms</item>
+    </plurals>
+    <plurals name="ical_many_events_warning">
+        <item quantity="other">Šādi tiks pievienoti %d pasākumi, un šo darbību nevarēs atsaukt. Esat pārliecināts?</item>
+        <item quantity="zero">Šādi tiks pievienoti %d pasākumi, un šo darbību nevarēs atsaukt. Esat pārliecināts?</item>
+        <item quantity="one">Šādi tiks pievienots %d pasākums, un šo darbību nevarēs atsaukt. Esat pārliecināts?</item>
+    </plurals>
+    <plurals name="mark_reminders_done_title">
+        <item quantity="other">Vai atzīmēt %d atgādinājumus kā pabeigtus?</item>
+        <item quantity="zero">Vai atzīmēt %d atgādinājumus kā pabeigtus?</item>
+        <item quantity="one">Vai atzīmēt %d atgādinājumu kā pabeigtu?</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">minūtes</item>
+        <item quantity="zero">minūšu</item>
+        <item quantity="one">minūte</item>
+    </plurals>
+    <plurals name="minutes_before">
+        <item quantity="other">minūtes pirms</item>
+        <item quantity="zero">minūšu pirms</item>
+        <item quantity="one">minūti pirms</item>
+    </plurals>
+    <plurals name="month_view_hidden_events">
+        <item quantity="other">Vēl %d</item>
+        <item quantity="zero">Vēl %d</item>
+        <item quantity="one">Vēl %d</item>
+    </plurals>
+    <plurals name="monthly_frequency_text">
+        <item quantity="other">Atkārtot ik pēc: %1$d %2$s</item>
+        <item quantity="zero">Atkārtot ik pēc: %1$d %2$s</item>
+        <item quantity="one">Atkārtot ik pēc: %1$d %2$s</item>
+    </plurals>
+    <plurals name="more_guests">
+        <item quantity="other">un vēl %1$d​</item>
+        <item quantity="zero">un vēl %1$d​</item>
+        <item quantity="one">un vēl %1$d​</item>
+    </plurals>
+    <plurals name="no_room_suggestions_title">
+        <item quantity="other">%1$d viesi bez telpu ieteikumiem</item>
+        <item quantity="zero">%1$d viesu bez telpu ieteikumiem</item>
+        <item quantity="one">%1$d viesis bez telpu ieteikumiem</item>
+    </plurals>
+    <plurals name="num_rooms">
+        <item quantity="other">%1$d telpas</item>
+        <item quantity="zero">%1$d telpu</item>
+        <item quantity="one">%1$d telpa</item>
+    </plurals>
+    <plurals name="public_notification_text">
+        <item quantity="other">%1$d new notifications</item>
+        <item quantity="one">You have a notification</item>
+    </plurals>
+    <plurals name="recurrence_frequency_annually">
+        <item quantity="other">gadi</item>
+        <item quantity="zero">gadu</item>
+        <item quantity="one">gads</item>
+    </plurals>
+    <plurals name="recurrence_frequency_daily">
+        <item quantity="other">dienas</item>
+        <item quantity="zero">dienu</item>
+        <item quantity="one">diena</item>
+    </plurals>
+    <plurals name="recurrence_frequency_monthly">
+        <item quantity="other">mēneši</item>
+        <item quantity="zero">mēnešu</item>
+        <item quantity="one">mēnesis</item>
+    </plurals>
+    <plurals name="recurrence_frequency_weekly">
+        <item quantity="other">nedēļas</item>
+        <item quantity="zero">nedēļu</item>
+        <item quantity="one">nedēļa</item>
+    </plurals>
+    <plurals name="reminder_bundle_description_prefix">
+        <item quantity="other">%d atgādinājumi:</item>
+        <item quantity="zero">%d atgādinājumi:</item>
+        <item quantity="one">%d atgādinājums:</item>
+    </plurals>
+    <plurals name="reminder_done_bundle_description_prefix">
+        <item quantity="other">%d atgādinājumi atzīmēti kā gatavi:</item>
+        <item quantity="zero">%d atgādinājumi atzīmēti kā gatavi:</item>
+        <item quantity="one">%d atgādinājums atzīmēts kā gatavs:</item>
+    </plurals>
+    <plurals name="reminders_marked_done">
+        <item quantity="other">%d atgādinājumi ir atzīmēti kā pabeigti.</item>
+        <item quantity="zero">%d atgādinājumi ir atzīmēti kā pabeigti.</item>
+        <item quantity="one">%d atgādinājums ir atzīmēts kā pabeigts.</item>
+    </plurals>
+    <plurals name="reminders_migration_dialog_title">
+        <item quantity="other">Pārveidojiet %d atgādinājumus par uzdevumiem</item>
+        <item quantity="zero">Pārveidojiet %d atgādinājumus par uzdevumiem</item>
+        <item quantity="one">Pārveidojiet %d atgādinājumu par uzdevumiem</item>
+    </plurals>
+    <plurals name="reminders_migration_force_completed_toast">
+        <item quantity="other">Atgādinājumi tagad ir uzdevumi. %1$d atgādinājumi tika pārveidoti par uzdevumiem kontā %2$s.</item>
+        <item quantity="zero">Atgādinājumi tagad ir uzdevumi. %1$d atgādinājumi tika pārveidoti par uzdevumiem kontā %2$s.</item>
+        <item quantity="one">Atgādinājumi tagad ir uzdevumi. %1$d atgādinājums tika pārveidots par uzdevumiem kontā %2$s.</item>
+    </plurals>
+    <plurals name="reminders_migration_keep_only_dialog_title">
+        <item quantity="other">%d jūsu atgādinājumi būs pieejami lietotnē Google Keep</item>
+        <item quantity="zero">%d jūsu atgādinājumi būs pieejami lietotnē Google Keep</item>
+        <item quantity="one">%d jūsu atgādinājums būs pieejams lietotnē Google Keep</item>
+    </plurals>
+    <plurals name="reminders_migration_keep_only_reminders_dialog_description_with_account">
+        <item quantity="other">Visi kontā %s saglabātie atgādinājumi tika izveidoti, izmantojot lietotni Google Keep, un tos nevar pārveidot par uzdevumiem. Tie tiks noņemti no Kalendāra, taču joprojām varēsiet tos pārvaldīt lietotnē Keep.</item>
+        <item quantity="zero">Visi kontā %s saglabātie atgādinājumi tika izveidoti, izmantojot lietotni Google Keep, un tos nevar pārveidot par uzdevumiem. Tie tiks noņemti no Kalendāra, taču joprojām varēsiet tos pārvaldīt lietotnē Keep.</item>
+        <item quantity="one">Visi kontā %s saglabātie atgādinājumi tika izveidoti, izmantojot lietotni Google Keep, un tos nevar pārveidot par uzdevumiem. Tie tiks noņemti no Kalendāra, taču joprojām varēsiet tos pārvaldīt lietotnē Keep.</item>
+    </plurals>
+    <plurals name="reminders_migration_partial_failure_some_remaining_toast">
+        <item quantity="other">Tikai %1$d atgādinājumi tika pārveidoti par uzdevumiem kontā %2$s. Atlikuši daži atgādinājumi.</item>
+        <item quantity="zero">Tikai %1$d atgādinājumi tika pārveidoti par uzdevumiem kontā %2$s. Atlikuši daži atgādinājumi.</item>
+        <item quantity="one">Tikai %1$d atgādinājums tika pārveidots par uzdevumiem kontā %2$s. Atlikuši daži atgādinājumi.</item>
+    </plurals>
+    <plurals name="reminders_migration_tooltip_remark">
+        <item quantity="other">%d jūsu atgādinājumi tika pārveidoti par uzdevumiem.</item>
+        <item quantity="zero">%d jūsu atgādinājumi tika pārveidoti par uzdevumiem.</item>
+        <item quantity="one">%d jūsu atgādinājums tika pārveidots par uzdevumiem.</item>
+    </plurals>
+    <plurals name="reminders_migration_tooltip_with_keep_reminders_remark">
+        <item quantity="other">%d atgādinājumi tika pārveidoti par uzdevumiem. Lietotnē Google Keep izveidotie atgādinājumi netika mainīti. Tie tiks noņemti no Kalendāra, taču joprojām varēsiet tos pārvaldīt lietotnē Keep.</item>
+        <item quantity="zero">%d atgādinājumi tika pārveidoti par uzdevumiem. Lietotnē Google Keep izveidotie atgādinājumi netika mainīti. Tie tiks noņemti no Kalendāra, taču joprojām varēsiet tos pārvaldīt lietotnē Keep.</item>
+        <item quantity="one">%d atgādinājums tika pārveidots par uzdevumiem. Lietotnē Google Keep izveidotie atgādinājumi netika mainīti. Tie tiks noņemti no Kalendāra, taču joprojām varēsiet tos pārvaldīt lietotnē Keep.</item>
+    </plurals>
+    <plurals name="reminders_migration_voluntary_completed_keep_only_toast">
+        <item quantity="other">%1$d atgādinājumi tika noņemti no Kalendāra konta %2$s, taču joprojām ir pieejami lietotnē Keep</item>
+        <item quantity="zero">%1$d atgādinājumi tika noņemti no Kalendāra konta %2$s, taču joprojām ir pieejami lietotnē Keep</item>
+        <item quantity="one">%1$d atgādinājums tika noņemts no Kalendāra konta %2$s, taču joprojām ir pieejams lietotnē Keep</item>
+    </plurals>
+    <plurals name="reminders_migration_voluntary_completed_toast">
+        <item quantity="other">%1$d atgādinājumi tika pārveidoti par uzdevumiem kontā %2$s</item>
+        <item quantity="zero">%1$d atgādinājumi tika pārveidoti par uzdevumiem kontā %2$s</item>
+        <item quantity="one">%1$d atgādinājums tika pārveidots par uzdevumiem kontā %2$s</item>
+    </plurals>
+    <plurals name="reminders_title">
+        <item quantity="other">%d atgādinājumi</item>
+        <item quantity="zero">%d atgādinājumi</item>
+        <item quantity="one">%d atgādinājums</item>
+    </plurals>
+    <plurals name="response_count_accepted">
+        <item quantity="other">%s: jā</item>
+        <item quantity="zero">%s: jā</item>
+        <item quantity="one">%s: jā</item>
+    </plurals>
+    <plurals name="response_count_accepted_in_a_meeting_room">
+        <item quantity="other">%s dalībnieki sapulces telpā</item>
+        <item quantity="zero">%s dalībnieki sapulces telpā</item>
+        <item quantity="one">%s dalībnieks sapulces telpā</item>
+    </plurals>
+    <plurals name="response_count_accepted_virtually">
+        <item quantity="other">%s dalībnieki tiešsaistē</item>
+        <item quantity="zero">%s dalībnieki tiešsaistē</item>
+        <item quantity="one">%s dalībnieks tiešsaistē</item>
+    </plurals>
+    <plurals name="response_count_declined">
+        <item quantity="other">%s: nē</item>
+        <item quantity="zero">%s: nē</item>
+        <item quantity="one">%s: nē</item>
+    </plurals>
+    <plurals name="response_count_need_action">
+        <item quantity="other">%s: vēl nav atbildes</item>
+        <item quantity="zero">%s: vēl nav atbildes</item>
+        <item quantity="one">%s: vēl nav atbildes</item>
+    </plurals>
+    <plurals name="response_count_tentative">
+        <item quantity="other">%s: varbūt</item>
+        <item quantity="zero">%s: varbūt</item>
+        <item quantity="one">%s: varbūt</item>
+    </plurals>
+    <plurals name="room_capacity_description">
+        <item quantity="other">Konferenču telpa %1$d personām</item>
+        <item quantity="zero">Konferenču telpa %1$d personām</item>
+        <item quantity="one">Konferenču telpa %1$d personai</item>
+    </plurals>
+    <plurals name="short_invisible_all_day_events">
+        <item quantity="other">Vēl %d</item>
+        <item quantity="zero">Vēl %d</item>
+        <item quantity="one">Vēl %d</item>
+    </plurals>
+    <plurals name="smartmail_seats">
+        <item quantity="other">vietas: %s</item>
+        <item quantity="zero">vietas: %s</item>
+        <item quantity="one">vietas: %s</item>
+    </plurals>
+    <plurals name="smartmail_time_day_offset">
+        <item quantity="other">%d dienas</item>
+        <item quantity="zero">%d dienu</item>
+        <item quantity="one">%d diena</item>
+    </plurals>
+    <plurals name="survey_star_rating">
+        <item quantity="other">Zvaigznīšu skaits: %1$d no %2$d</item>
+        <item quantity="zero">Zvaigznīšu skaits: %1$d no %2$d</item>
+        <item quantity="one">Zvaigznīšu skaits: %1$d no %2$d</item>
+    </plurals>
+    <plurals name="tasks_rollover_chip_title">
+        <item quantity="other">%d neizpildīti uzdevumi</item>
+        <item quantity="zero">%d neizpildīti uzdevumi</item>
+        <item quantity="one">%d neizpildīts uzdevums</item>
+    </plurals>
+    <plurals name="tasks_rollover_dialog_description">
+        <item quantity="other">Pēdējo %d dienu laikā</item>
+        <item quantity="zero">Pēdējo %d dienu laikā</item>
+        <item quantity="one">Pēdējās %d dienas laikā</item>
+    </plurals>
+    <plurals name="weekly_by_day_lower">
+        <item quantity="other">ik pēc %1$d nedēļām (katra %2$s)</item>
+        <item quantity="zero">ik pēc %1$d nedēļām (katra %2$s)</item>
+        <item quantity="one">ik pēc %1$d nedēļas (katra %2$s)</item>
+    </plurals>
+    <plurals name="weekly_frequency_text">
+        <item quantity="other">Atkārtot ik pēc: %1$d %2$s</item>
+        <item quantity="zero">Atkārtot ik pēc: %1$d %2$s</item>
+        <item quantity="one">Atkārtot ik pēc: %1$d %2$s</item>
+    </plurals>
+    <plurals name="weeks">
+        <item quantity="other">nedēļas</item>
+        <item quantity="zero">nedēļu</item>
+        <item quantity="one">nedēļa</item>
+    </plurals>
+    <plurals name="weeks_before">
+        <item quantity="other">nedēļas pirms</item>
+        <item quantity="zero">nedēļas pirms</item>
+        <item quantity="one">nedēļu pirms</item>
+    </plurals>
+</resources>

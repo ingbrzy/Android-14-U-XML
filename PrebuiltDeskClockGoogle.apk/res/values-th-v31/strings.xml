@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="analog_gadget">แอนะล็อก</string>
+    <string name="digital_gadget">ดิจิทัล</string>
+    <string name="analog_widget_clover_clock_name">โคลเวอร์</string>
+    <string name="analog_widget_clover_content_description">หน้าปัดนาฬิกาที่มีรูปร่างเหมือนโคลเวอร์</string>
+    <string name="analog_widget_config_activity_title">เลือกหน้าปัด</string>
+    <string name="analog_widget_day_clock_name">วัน</string>
+    <string name="analog_widget_day_content_description">หน้าปัดนาฬิกาที่มีวันของเดือน</string>
+    <string name="analog_widget_numeral_clock_name">ตัวเลข</string>
+    <string name="analog_widget_numeral_content_description">หน้าปัดนาฬิกาที่มีตัวเลขขนาดใหญ่</string>
+    <string name="analog_widget_scallop_clock_name">หอยเชลล์</string>
+    <string name="analog_widget_scallop_content_description">หน้าปัดนาฬิกาที่แสดงวันในสัปดาห์และเดือน</string>
+    <string name="cities_widget_config_activity_subtitle">เพิ่มเมืองได้จากแท็บนาฬิกา</string>
+    <string name="cities_widget_config_activity_subtitle_button">เลือกเมืองในแอปนาฬิกา</string>
+    <string name="cities_widget_preview_city_london">ลอนดอน</string>
+    <string name="cities_widget_preview_city_mountain_view">เมาน์เทนวิว</string>
+    <string name="clock_widget_opaque_label">ทึบ</string>
+    <string name="clock_widget_transparent_label">โปร่งใส</string>
+    <string name="digital_appwidget_config_activity_title">เลือกรูปแบบนาฬิกา</string>
+    <string name="digital_cities_gadget">ทั่วโลก</string>
+    <string name="digital_cities_gadget_description">เลือกเมืองในแอปนาฬิกา</string>
+    <string name="digital_stacked_gadget">ซ้อนทับ</string>
+    <string name="digital_widgets_preview_alarm">จ. 09:30</string>
+    <string name="stopwatch_gadget_description">ควบคุมนาฬิกาจับเวลาในแอปนาฬิกา</string>
+</resources>

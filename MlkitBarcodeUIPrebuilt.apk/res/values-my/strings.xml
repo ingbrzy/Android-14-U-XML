@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">အပေါ်သို့ ရွှေ့ရန်</string>
+    <string name="abc_action_mode_done">ပြီးပြီ</string>
+    <string name="abc_capital_off">ပိတ်</string>
+    <string name="abc_capital_on">ဖွင့်</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">ရှာဖွေရန်…</string>
+    <string name="abc_searchview_description_clear">ရှာဖွေမှုကို ဖယ်ရှားရန်</string>
+    <string name="abc_searchview_description_search">ရှာရန်</string>
+    <string name="abc_searchview_description_submit">ရှာဖွေစရာ အချက်အလက်ကို ပေးပို့ရန်</string>
+    <string name="abc_searchview_description_voice">အသံဖြင့် ရှာရန်</string>
+    <string name="abc_toolbar_collapse_description">လျှော့ပြရန်</string>
+    <string name="bottom_sheet_button_contact_text">@string/common_view</string>
+    <string name="bottom_sheet_button_matter_text">စနစ်ထည့်သွင်းရန်</string>
+    <string name="bottom_sheet_button_no_apps_text">ရှာရန်</string>
+    <string name="bottom_sheet_button_wifi_text">@string/common_connect</string>
+    <string name="bottom_sheet_copy_error_toast">စာသားကို ကလစ်ဘုတ်သို့ မိတ္တူကူး၍မရပါ</string>
+    <string name="bottom_sheet_copy_success_toast">ကလစ်ဘုတ်သို့ စာသားကူးပြီးပါပြီ</string>
+    <string name="bottom_sheet_image_view_description">ပြထားသည့် အပလီကေးရှင်း၏ သင်္ကေတ</string>
+    <string name="bottom_sheet_sub_title_no_apps">Google Play တွင် ရှာဖွေနိုင်သည်</string>
+    <string name="bottom_sheet_title">ဖွင့်ရန်</string>
+    <string name="bottom_sheet_title_app_found">%1$s ဖြင့် ဖွင့်နိုင်သည်</string>
+    <string name="bottom_sheet_title_contact">အဆက်အသွယ် အသေးစိတ်ကို ကြည့်နိုင်သည်</string>
+    <string name="bottom_sheet_title_copy_text">စာသား ကူးယူနိုင်သည်</string>
+    <string name="bottom_sheet_title_copy_text_button_text">@string/common_copy</string>
+    <string name="bottom_sheet_title_copy_text_button_text_copied">မိတ္တူကူးပြီးပြီ</string>
+    <string name="bottom_sheet_title_matter">သင့်စက်ကို စနစ်ထည့်သွင်းရန်</string>
+    <string name="bottom_sheet_title_passkey">လျှို့ဝှက်ကုဒ်သုံးပါ</string>
+    <string name="bottom_sheet_title_payment">အောက်ပါဖြင့် ငွေပေးချေနိုင်သည်</string>
+    <string name="bottom_sheet_title_payment_setup">ငွေပေးချေမှု စနစ်ထည့်သွင်းရန်</string>
+    <string name="bottom_sheet_title_payment_setup_single_app">%1$s ဖြင့် ငွေပေးချေမှု စနစ်ထည့်သွင်းနိုင်သည်</string>
+    <string name="bottom_sheet_title_payment_single_app">%1$s ဖြင့် ပေးချေနိုင်သည်</string>
+    <string name="bottom_sheet_title_single_app_button_text">ဖွင့်နိုင်သည်</string>
+    <string name="bottom_sheet_title_wifi">WiFi ဖြင့် ချိတ်ဆက်ပါ</string>
+    <string name="bottomsheet_action_expand_halfway">တစ်ဝက်ချဲ့ရန်</string>
+    <string name="bottomsheet_drag_handle_content_description">ဖိဆွဲအထိန်း</string>
+    <string name="camera_permission_dialog_button">OK</string>
+    <string name="camera_permission_dialog_message">"%1$s အတွက် ကုဒ်စကင်ဖတ်ရန် Google Play ဝန်ဆောင်မှုများက သင့်စက်၏ကင်မရာသုံးခွင့် လိုအပ်သည်။
+
+၎င်းအတွက် ဆက်တင်များတွင် Google Play ဝန်ဆောင်မှုများအား ကင်မရာအသုံးပြုခွင့် ပေးပါ။"</string>
+    <string name="camera_permission_dialog_message_platform">"QR ကုဒ် စကင်ဖတ်ရန် Google Play ဝန်ဆောင်မှုများက သင့်စက်၏ကင်မရာသုံးခွင့် လိုအပ်ပါသည်။
+
+၎င်းအတွက် ဆက်တင်များတွင် Google Play ဝန်ဆောင်မှုများအား ကင်မရာအသုံးပြုခွင့် ပေးပါ။"</string>
+    <string name="camera_permission_dialog_title">ကင်မရာအသုံးပြုခွင့် လိုအပ်သည်</string>
+    <string name="cd_cancel_button">ကုဒ် စကင်ဖတ်စနစ် ပိတ်ရန်</string>
+    <string name="cd_info_button">အချက်အလက်ဒိုင်ယာလော့ ဖွင့်ရန်</string>
+    <string name="cd_selected_photo_view">ရွေးထားသောပုံ ပြနိုင်သည်</string>
+    <string name="cd_settings_button">စကင်ဖတ်စနစ် ဆက်တင်များဖွင့်နိုင်သည်</string>
+    <string name="cd_torch_button">ဖလက်ရှ်မီး ခလုတ်</string>
+    <string name="character_counter_content_description">စာလုံးရေ %2$d တွင် %1$d ထည့်သွင်းထားသည်</string>
+    <string name="character_counter_overflowed_content_description">စာလုံးရေအကန့်အသတ် %2$d လုံးတွင် %1$d လုံးကျော်နေသည်</string>
+    <string name="clear_text_end_icon_content_description">စာသား ဖယ်ရှားရန်</string>
+    <string name="common_connect">ချိတ်ဆက်ရန်</string>
+    <string name="common_continue">ရှေ့ဆက်ရန်</string>
+    <string name="common_copy">ကူးရန်</string>
+    <string name="common_google_play_services_enable_button">ဖွင့်ရန်</string>
+    <string name="common_google_play_services_enable_text">Google Play ဝန်ဆောင်မှုများကို မဖွင့်သ၍ %1$s သည်အလုပ်လုပ်မည်မဟုတ်ပါ။</string>
+    <string name="common_google_play_services_enable_title">Google Play ဝန်ဆောင်မှုများ ဖွင့်ရန်</string>
+    <string name="common_google_play_services_install_button">ထည့်သွင်းပါ</string>
+    <string name="common_google_play_services_install_text">သင့်တက်ဘလက်တွင် Google Play ဝန်ဆောင်မှုများမရှိသောကြောင့် %1$s ကိုဖွင့်၍မရပါ။</string>
+    <string name="common_google_play_services_install_title">Google Play ဝန်ဆောင်မှုများရယူရန်</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play ဝန်ဆောင်မှုများ ရရှိနိုင်သည်</string>
+    <string name="common_google_play_services_notification_ticker">Google Play ဝန်ဆောင်မှုများ အမှား</string>
+    <string name="common_google_play_services_unknown_issue">%1$s သည် Google Play ဝန်ဆောင်မှုများနှင့် ပြဿနာအနည်းငယ် ရှိနေပါသည်။ ထပ်လုပ်ကြည့်ပါ။</string>
+    <string name="common_google_play_services_unsupported_text">Google Play ဝန်ဆောင်မှုများကို သင့်စက်ပစ္စည်းတွင် ပံ့ပိုးမထားသည့်အတွက် ၎င်းမရှိဘဲ %1$s ကို ဖွင့်၍မရပါ။</string>
+    <string name="common_google_play_services_update_button">အပ်ဒိတ်</string>
+    <string name="common_google_play_services_update_text">Google Play ဝန်ဆောင်မှုများအား အပ်ဒိတ်မလုပ်ပါက %1$s အလုပ်လုပ်မည် မဟုတ်ပါ။</string>
+    <string name="common_google_play_services_update_title">Google Play ဝန်ဆောင်မှုများကို အပ်ဒိတ်လုပ်ရန်</string>
+    <string name="common_google_play_services_updating_text">Google Play ဝန်ဆောင်မှုများကို လက်ရှိအပ်ဒိတ်လုပ်နေသောကြောင့် %1$s ကိုဖွင့်၍ရမည်မဟုတ်ပါ။</string>
+    <string name="common_google_play_services_wear_update_text">Google Play ဝန်ဆောင်မှုဗားရှင်းအသစ်များ လိုအပ်နေသည်။ အချိန်အနည်းငယ်အကြာတွင် ၎င်းကိုယ်တိုင်အပ်ဒိတ်လုပ်ပါ လိမ့်မည်။</string>
+    <string name="common_got_it">ရပါပြီ</string>
+    <string name="common_no_apps_found">မည်သည့်အက်ပ်မျှ မတွေ့ပါ</string>
+    <string name="common_open_on_phone">ဖုန်းပေါ်မှာ ဖွင့်ပါ</string>
+    <string name="common_view">ကြည့်ရန်</string>
+    <string name="error_a11y_label">Error: invalid</string>
+    <string name="error_icon_content_description">အမှား</string>
+    <string name="exposed_dropdown_menu_content_description">ဆွဲချမီနူးကို ပြရန်</string>
+    <string name="info_dialog_button">@string/common_got_it</string>
+    <string name="info_dialog_message">"%1$s က ၎င်းကိုယ်စား ကုဒ်စကင်ဖတ်ရန် Google Play ဝန်ဆောင်မှုများကို တောင်းဆိုထားသည်။ စကင်ရလဒ်များမှလွဲ၍ မည်သည့်ပုံဒေတာကိုမျှ မျှဝေမည်မဟုတ်ပါ။
+
+စကင်ဖတ်ခြင်းကို သင့်စက်တွင်ဆောင်ရွက်ပြီး Google က မည်သည့်ပုံဒေတာ (သို့) စကင်ဖတ်ထားသောကုဒ်ကိုမျှ သိမ်းမည်မဟုတ်ပါ။"</string>
+    <string name="info_dialog_message_platform">‘Google Play ဝန်ဆောင်မှုများ’ က ဤစက်ကင်မရာကို သုံးနေသည်။ စကင်ဖတ်ထားသည့် ကုဒ်ဒေတာနှင့် ပုံများကို သိမ်းမည်မဟုတ်ဘဲ ဤစက်တွင်သာ ထားရှိမည်။</string>
+    <string name="info_dialog_title">Google က လုံခြုံမှုပေးထားသည်</string>
+    <string name="info_dialog_title_platform">Google က ပံ့ပိုးထားသည်</string>
+    <string name="manual_input_hint">ကုဒ်ကို ကိုယ်တိုင်ထည့်ရန် ဤနေရာကို တို့ပါ</string>
+    <string name="mtrl_checkbox_state_description_checked">Checked</string>
+    <string name="mtrl_checkbox_state_description_indeterminate">Partially checked</string>
+    <string name="mtrl_checkbox_state_description_unchecked">Not checked</string>
+    <string name="password_toggle_content_description">စကားဝှက်ကို ပြရန်</string>
+    <string name="qr_detection_failure_dialog_message">အခြားဓာတ်ပုံမှ စကင်ဖတ်ကြည့်ပါ</string>
+    <string name="qr_detection_failure_dialog_title">QR ကုဒ် မတွေ့ပါ</string>
+    <string name="scan_from_photo_title">ဓာတ်ပုံမှ စကင်ဖတ်ရန်</string>
+    <string name="scanner_brand">%1$s ကိုယ်စား Google က စကင်ဖတ်ထားသည်</string>
+    <string name="scanner_brand_platform">@string/info_dialog_title_platform</string>
+    <string name="scanner_title">ကုဒ်ကို စကင်ဖတ်ပါ</string>
+    <string name="scanner_title_platform">QR ကုဒ်ကို စကင်ဖတ်ရန်</string>
+</resources>

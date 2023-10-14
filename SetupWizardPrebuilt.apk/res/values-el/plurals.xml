@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="account_exists_text_multiple">
+        <item quantity="other">"Οι παρακάτω λογαριασμοί είναι έτοιμοι:
+
+"&lt;annotation textAppearance="TextAppearance.SudDescription.Medium">^1&lt;/annotation></item>
+        <item quantity="one">"Ο παρακάτω λογαριασμός είναι έτοιμος:
+
+"&lt;annotation textAppearance="TextAppearance.SudDescription.Medium">^1&lt;/annotation></item>
+    </plurals>
+    <plurals name="people_contacts_sync_failure_in_contacts_title_in_portal">
+        <item quantity="other">Δεν είναι δυνατός ο συγχρονισμός %1$,d από %2$,d επαφών</item>
+        <item quantity="one">Δεν είναι δυνατός ο συγχρονισμός %1$,d από %2$,d επαφής</item>
+    </plurals>
+    <plurals name="people_contacts_sync_failure_in_photos_title_in_portal">
+        <item quantity="other">Δεν είναι δυνατός ο συγχρονισμός %1$,d από %2$,d φωτογραφιών επαφών</item>
+        <item quantity="one">Δεν είναι δυνατός ο συγχρονισμός %1$,d από %2$,d φωτογραφίας επαφής</item>
+    </plurals>
+    <plurals name="people_contacts_sync_succeed_title_in_portal">
+        <item quantity="other">%,d επαφές συγχρονίστηκαν με τις Επαφές Google.</item>
+        <item quantity="one">%,d επαφή συγχρονίστηκε με τις Επαφές Google.</item>
+    </plurals>
+    <plurals name="qr_provision_toast">
+        <item quantity="other">%d πατήματα ακόμη, για να ξεκινήσει η ρύθμιση του κωδικού QR</item>
+        <item quantity="one">%d πάτημα ακόμη, για να ξεκινήσει η ρύθμιση του κωδικού QR</item>
+    </plurals>
+    <plurals name="slots_selection_text">
+        <item quantity="other">%d αριθμοί προστέθηκαν σε αυτήν τη συσκευή, αλλά μπορεί να χρησιμοποιηθεί μόνο ένας κάθε φορά.</item>
+        <item quantity="one">%d αριθμός προστέθηκε σε αυτήν τη συσκευή, αλλά μπορεί να χρησιμοποιηθεί μόνο ένας κάθε φορά.</item>
+    </plurals>
+    <plurals name="survey_star_rating">
+        <item quantity="other">%1$d στα %2$d αστέρια</item>
+        <item quantity="one">%1$d στα %2$d αστέρια</item>
+    </plurals>
+</resources>

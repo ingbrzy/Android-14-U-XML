@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_set">
+        <item>Будзільнік спрацуе менш чым праз 1 хвіліну.</item>
+        <item>Будзільнік спрацуе праз %1$s.</item>
+        <item>Будзільнік спрацуе праз %2$s.</item>
+        <item>Будзільнік спрацуе праз %1$s %2$s.</item>
+        <item>Будзільнік спрацуе праз %3$s.</item>
+        <item>Будзільнік спрацуе праз %1$s %3$s.</item>
+        <item>Будзільнік спрацуе праз %2$s %3$s.</item>
+        <item>Будзільнік спрацуе праз %1$s %2$s %3$s.</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>1 хвіліна</item>
+        <item>5 хвілін</item>
+        <item>10 хвілін</item>
+        <item>15 хвілін</item>
+        <item>20 хвілін</item>
+        <item>25 хвілін</item>
+        <item>@string/auto_silence_entry_never</item>
+    </string-array>
+    <string-array name="bedtime_reminder_entries">
+        <item>За 15 хвілін да часу сну</item>
+        <item>За 30 хвілін да часу сну</item>
+        <item>За 45 хвілін да часу сну</item>
+        <item>За 1 гадзіну да часу сну</item>
+        <item>Выключана</item>
+    </string-array>
+    <string-array name="clock_style_entries">
+        <item>Са стрэлкамі</item>
+        <item>Лічбавы</item>
+    </string-array>
+    <string-array name="crescendo_entries">
+        <item>@string/crescendo_entry_never</item>
+        <item>5 секунд</item>
+        <item>10 секунд</item>
+        <item>15 секунд</item>
+        <item>20 секунд</item>
+        <item>25 секунд</item>
+        <item>30 секунд</item>
+        <item>35 секунд</item>
+        <item>40 секунд</item>
+        <item>45 секунд</item>
+        <item>50 секунд</item>
+        <item>55 секунд</item>
+        <item>60 секунд</item>
+    </string-array>
+    <string-array name="sleep_duration">
+        <item>%2$s</item>
+        <item>%1$s</item>
+        <item>%1$s %2$s</item>
+    </string-array>
+    <string-array name="sleep_sound_length_content_descriptions">
+        <item>Спыніць праз 10 хвілін</item>
+        <item>Спыніць праз 20 хвілін</item>
+        <item>Спыніць праз 30 хвілін</item>
+        <item>Спыніць праз 40 хвілін</item>
+        <item>Спыніць праз 50 хвілін</item>
+        <item>Спыніць праз 1 гадзіну</item>
+    </string-array>
+    <string-array name="sleep_sound_length_descriptions">
+        <item>Спыніць праз 10 хвілін</item>
+        <item>Спыніць праз 20 хвілін</item>
+        <item>Спыніць праз 30 хвілін</item>
+        <item>Спыніць праз 40 хвілін</item>
+        <item>Спыніць праз 50 хвілін</item>
+        <item>Спыніць праз 1 гадзіну</item>
+    </string-array>
+    <string-array name="sleep_sound_length_entries">
+        <item>10 хвілін</item>
+        <item>20 хвілін</item>
+        <item>30 хвілін</item>
+        <item>40 хвілін</item>
+        <item>50 хвілін</item>
+        <item>1 гадзіну</item>
+    </string-array>
+    <string-array name="snooze_duration_entries">
+        <item>1 хвіліна</item>
+        <item>2 хвіліны</item>
+        <item>3 хвіліны</item>
+        <item>4 хвіліны</item>
+        <item>5 хвілін</item>
+        <item>6 хвілін</item>
+        <item>7 хвілін</item>
+        <item>8 хвілін</item>
+        <item>9 хвілін</item>
+        <item>10 хвілін</item>
+        <item>11 хвілін</item>
+        <item>12 хвілін</item>
+        <item>13 хвілін</item>
+        <item>14 хвілін</item>
+        <item>15 хвілін</item>
+        <item>16 хвілін</item>
+        <item>17 хвілін</item>
+        <item>18 хвілін</item>
+        <item>19 хвілін</item>
+        <item>20 хвілін</item>
+        <item>21 хвіліна</item>
+        <item>22 хвіліны</item>
+        <item>23 хвіліны</item>
+        <item>24 хвіліны</item>
+        <item>25 хвілін</item>
+        <item>26 хвілін</item>
+        <item>27 хвілін</item>
+        <item>28 хвілін</item>
+        <item>29 хвілін</item>
+        <item>30 хвілін</item>
+    </string-array>
+    <string-array name="timer_duration">
+        <item>Таймер</item>
+        <item>Таймер на %3$s</item>
+        <item>Таймер на %2$s</item>
+        <item>Таймер на %2$s %3$s</item>
+        <item>Таймер на %1$s</item>
+        <item>Таймер на %1$s %3$s</item>
+        <item>Таймер на %1$s %2$s</item>
+        <item>Таймер на %1$s %2$s %3$s</item>
+    </string-array>
+    <string-array name="timer_duration_short">
+        <item>Таймер</item>
+        <item>Таймер %3$s</item>
+        <item>Таймер %2$s</item>
+        <item>Таймер %2$s %3$s</item>
+        <item>Таймер %1$s</item>
+        <item>Таймер %1$s %3$s</item>
+        <item>Таймер %1$s %2$s</item>
+        <item>Таймер %1$s %2$s %3$s</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>Маршалавы астравы</item>
+        <item>Востраў Мідуэй</item>
+        <item>Гаваі</item>
+        <item>Аляска</item>
+        <item>Ціхаакіянскі час</item>
+        <item>Ціхуана</item>
+        <item>Арызона</item>
+        <item>Чыўаўа</item>
+        <item>Горны час</item>
+        <item>Цэнтральная Амерыка</item>
+        <item>Цэнтральны час</item>
+        <item>Мехіка</item>
+        <item>Саскачэван</item>
+        <item>Багата</item>
+        <item>Усходні час</item>
+        <item>Венесуэла</item>
+        <item>Атлантычны час (Барбадас)</item>
+        <item>Атлантычны час (Канада)</item>
+        <item>Манаўс</item>
+        <item>"Сант'яга"</item>
+        <item>Ньюфаўндленд</item>
+        <item>Бразілія, горад</item>
+        <item>Буэнас-Айрэс</item>
+        <item>Грэнландыя</item>
+        <item>Монтавідэа</item>
+        <item>Сярэднеатлантыч. час</item>
+        <item>Азорскія астравы</item>
+        <item>Каба-Вердэ</item>
+        <item>Касабланка</item>
+        <item>Лондан, Дублін</item>
+        <item>Амстэрдам, Берлін</item>
+        <item>Бялград</item>
+        <item>Брусель</item>
+        <item>Сараева</item>
+        <item>Вiндхук</item>
+        <item>Усходнеафрыканскі час</item>
+        <item>Аман, Іарданія</item>
+        <item>Афіны, Стамбул</item>
+        <item>Бейрут, Ліван</item>
+        <item>Каір</item>
+        <item>Хельсінкі</item>
+        <item>Ерусалім</item>
+        <item>Мінск</item>
+        <item>Харарэ</item>
+        <item>Багдад</item>
+        <item>Масква</item>
+        <item>Кувейт</item>
+        <item>Найробі</item>
+        <item>Тэгеран</item>
+        <item>Баку</item>
+        <item>Тбілісі</item>
+        <item>Ерэван</item>
+        <item>Дубаі</item>
+        <item>Кабул</item>
+        <item>Ісламабад, Карачы</item>
+        <item>Уральск</item>
+        <item>Екацярынбург</item>
+        <item>Калькута</item>
+        <item>Шры-Ланка</item>
+        <item>Катманду</item>
+        <item>Астана</item>
+        <item>Янгон</item>
+        <item>Краснаярск</item>
+        <item>Бангкок</item>
+        <item>Пекін</item>
+        <item>Ганконг</item>
+        <item>Іркуцк</item>
+        <item>Куала-Лумпур</item>
+        <item>Перт</item>
+        <item>Тайбэй</item>
+        <item>Сеул</item>
+        <item>Токіо, Осака</item>
+        <item>Якуцк</item>
+        <item>Адэлаіда</item>
+        <item>Дарвін</item>
+        <item>Брысбэн</item>
+        <item>Хобарт</item>
+        <item>Сідней, Канбера</item>
+        <item>Уладзівасток</item>
+        <item>Гуам</item>
+        <item>Магадан</item>
+        <item>Окленд</item>
+        <item>Фіджы</item>
+        <item>Тангійская</item>
+        <item>Джакарта</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>@string/alarm_alert_snooze_text</item>
+        <item>Спыніць</item>
+        <item>Рэгуляванне гучнасці</item>
+        <item>Нічога не рабіць</item>
+    </string-array>
+    <string-array name="wakeup_alarm_description">
+        <item>Будзільнік спрацуе менш чым праз 1 хвіліну</item>
+        <item>Будзільнік спрацуе праз %1$s сут</item>
+        <item>Будзільнік спрацуе праз %2$s гадз</item>
+        <item>Будзільнік спрацуе праз %1$s сут %2$s гадз</item>
+        <item>Будзільнік спрацуе праз %3$s хв</item>
+        <item>Будзільнік спрацуе праз %1$s сут %3$s хв</item>
+        <item>Будзільнік спрацуе праз %2$s гадз %3$s хв</item>
+        <item>Будзільнік спрацуе праз %1$s сут %2$s гадз %3$s хв</item>
+    </string-array>
+    <string-array name="week_start_entries">
+        <item>Пятніца</item>
+        <item>Субота</item>
+        <item>Нядзеля</item>
+        <item>Панядзелак</item>
+    </string-array>
+</resources>

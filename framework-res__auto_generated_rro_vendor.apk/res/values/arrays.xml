@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="config_ambientBrighteningThresholds">
+        <item>5186</item>
+        <item>4333</item>
+        <item>3666</item>
+        <item>2999</item>
+        <item>2759</item>
+        <item>2519</item>
+        <item>2279</item>
+        <item>2039</item>
+        <item>1799</item>
+        <item>799</item>
+        <item>527</item>
+        <item>499</item>
+        <item>470</item>
+        <item>517</item>
+        <item>565</item>
+        <item>612</item>
+        <item>660</item>
+        <item>708</item>
+        <item>742</item>
+        <item>636</item>
+        <item>582</item>
+        <item>549</item>
+        <item>369</item>
+        <item>294</item>
+        <item>269</item>
+        <item>220</item>
+        <item>220</item>
+    </integer-array>
+    <integer-array name="config_ambientDarkeningThresholds">
+        <item>525</item>
+        <item>683</item>
+        <item>666</item>
+        <item>650</item>
+        <item>640</item>
+        <item>630</item>
+        <item>620</item>
+        <item>610</item>
+        <item>600</item>
+        <item>500</item>
+        <item>500</item>
+        <item>440</item>
+        <item>385</item>
+        <item>382</item>
+        <item>379</item>
+        <item>376</item>
+        <item>373</item>
+        <item>371</item>
+        <item>367</item>
+        <item>387</item>
+        <item>397</item>
+        <item>403</item>
+        <item>380</item>
+        <item>345</item>
+        <item>333</item>
+        <item>283</item>
+        <item>283</item>
+    </integer-array>
+    <integer-array name="config_ambientThresholdLevels">
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>40</item>
+        <item>50</item>
+        <item>60</item>
+        <item>70</item>
+        <item>80</item>
+        <item>90</item>
+        <item>100</item>
+        <item>200</item>
+        <item>300</item>
+        <item>400</item>
+        <item>500</item>
+        <item>1000</item>
+        <item>2000</item>
+        <item>3000</item>
+        <item>4000</item>
+    </integer-array>
+    <integer-array name="config_ambientThresholdsOfPeakRefreshRate">
+        <item>5</item>
+    </integer-array>
+    <array name="config_autoBrightnessDisplayValuesNits">
+        <item>5.139055</item>
+        <item>9.962019</item>
+        <item>18.34823</item>
+        <item>21.550682</item>
+        <item>24.016779</item>
+        <item>32.5</item>
+        <item>46</item>
+        <item>53.26923</item>
+        <item>54.615383</item>
+        <item>58.115383</item>
+        <item>62.1394</item>
+        <item>67.13133</item>
+        <item>79.67614</item>
+        <item>98.04727</item>
+        <item>125.1222</item>
+        <item>161.68752</item>
+        <item>208.48856</item>
+        <item>264.82214</item>
+        <item>328.58694</item>
+        <item>627.4315</item>
+        <item>826.85846</item>
+        <item>867.04944</item>
+        <item>901.4497</item>
+        <item>1100.0</item>
+    </array>
+    <integer-array name="config_autoBrightnessLevels">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>8</item>
+        <item>12</item>
+        <item>15</item>
+        <item>20</item>
+        <item>33</item>
+        <item>55</item>
+        <item>90</item>
+        <item>148</item>
+        <item>245</item>
+        <item>403</item>
+        <item>665</item>
+        <item>1097</item>
+        <item>1808</item>
+        <item>3000</item>
+        <item>6000</item>
+        <item>9000</item>
+        <item>10000</item>
+        <item>14000</item>
+        <item>20000</item>
+    </integer-array>
+    <integer-array name="config_availableColorModes">
+        <item>0</item>
+        <item>3</item>
+    </integer-array>
+    <integer-array name="config_brightnessThresholdsOfPeakRefreshRate">
+        <item>2</item>
+    </integer-array>
+    <string-array name="config_defaultPinnerServiceFiles">
+        <item>/apex/com.android.art/javalib/core-oj.jar</item>
+        <item>/apex/com.android.art/javalib/core-libart.jar</item>
+        <item>/system/framework/framework.jar</item>
+        <item>/system/framework/services.jar</item>
+        <item>/system/bin/surfaceflinger</item>
+        <item>/system_ext/priv-app/SystemUIGoogle/SystemUIGoogle.apk</item>
+    </string-array>
+    <integer-array name="config_mappedColorModes">
+        <item>0</item>
+        <item>3</item>
+        <item>3</item>
+        <item>3</item>
+    </integer-array>
+    <string-array name="config_mobile_tcp_buffers">
+        <item>umts:131072,262144,1452032,4096,16384,399360</item>
+        <item>hspa:131072,262144,2441216,4096,16384,399360</item>
+        <item>hsupa:131072,262144,2441216,4096,16384,399360</item>
+        <item>hsdpa:131072,262144,2441216,4096,16384,399360</item>
+        <item>hspap:131072,262144,2441216,4096,16384,399360</item>
+        <item>edge:16384,32768,131072,4096,16384,65536</item>
+        <item>gprs:4096,8192,24576,4096,8192,24576</item>
+        <item>1xrtt:16384,32768,131070,4096,16384,102400</item>
+        <item>evdo:131072,262144,1048576,4096,16384,524288</item>
+        <item>lte:524288,1048576,8388608,262144,524288,4194304</item>
+        <item>lte_ca:524288,6291456,12582912,262144,1048576,2097152</item>
+        <item>nr:2097152,6291456,16777216,512000,2097152,8388608</item>
+        <item>nr_sa:2097152,6291456,16777216,512000,2097152,8388608</item>
+    </string-array>
+    <string-array name="config_optionalIpSecAlgorithms">
+        <item>xcbc(aes)</item>
+        <item>rfc3686(ctr(aes))</item>
+    </string-array>
+    <string-array name="config_serviceStateLocationAllowedPackages">
+        <item>com.shannon.imsservice</item>
+        <item>com.android.phone</item>
+    </string-array>
+    <string-array name="config_telephonyEuiccDeviceCapabilities">
+        <item>gsm,8</item>
+        <item>utran,9</item>
+        <item>eutran,15</item>
+        <item>nrepc,15</item>
+        <item>nr5gc,15</item>
+        <item>eutran5gc,15</item>
+    </string-array>
+    <string-array name="config_tether_usb_regexs">
+        <item>usb\\d</item>
+        <item>rndis\\d</item>
+    </string-array>
+    <string-array name="config_tether_wifi_regexs">
+        <item>wlan0</item>
+        <item>softap.*</item>
+    </string-array>
+    <integer-array name="non_removable_euicc_slots">
+        <item>0</item>
+    </integer-array>
+</resources>

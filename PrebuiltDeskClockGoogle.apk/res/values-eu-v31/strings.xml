@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="analog_gadget">Analogikoa</string>
+    <string name="digital_gadget">Digitala</string>
+    <string name="analog_widget_clover_clock_name">Hirusta</string>
+    <string name="analog_widget_clover_content_description">Hirusta formako erloju-esfera</string>
+    <string name="analog_widget_config_activity_title">Hautatu erloju-esfera bat</string>
+    <string name="analog_widget_day_clock_name">Eguna</string>
+    <string name="analog_widget_day_content_description">Hilabeteko eguna duen erloju-esfera</string>
+    <string name="analog_widget_numeral_clock_name">Zenbakiak</string>
+    <string name="analog_widget_numeral_content_description">Zenbaki handiak dituen erloju-esfera</string>
+    <string name="analog_widget_scallop_clock_name">Bieira</string>
+    <string name="analog_widget_scallop_content_description">Asteko eguna eta hilabetea dituen erloju-esfera</string>
+    <string name="cities_widget_config_activity_subtitle">Erlojua fitxan gehi ditzakezu hiriak</string>
+    <string name="cities_widget_config_activity_subtitle_button">Aukeratu hiriak Erlojua aplikazioan</string>
+    <string name="cities_widget_preview_city_london">Londres</string>
+    <string name="cities_widget_preview_city_mountain_view">Mountain View</string>
+    <string name="clock_widget_opaque_label">Opakua</string>
+    <string name="clock_widget_transparent_label">Gardena</string>
+    <string name="digital_appwidget_config_activity_title">Aukeratu erlojuaren estiloa</string>
+    <string name="digital_cities_gadget">Mundua</string>
+    <string name="digital_cities_gadget_description">Aukeratu hiriak Erlojua aplikazioan</string>
+    <string name="digital_stacked_gadget">Pilatua</string>
+    <string name="digital_widgets_preview_alarm">Al. 09:30</string>
+    <string name="stopwatch_gadget_description">Kontrolatu kronometroa Erlojua aplikazioan</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_retaildemoCommunication">यह अनुमति मिलने पर ऐप्लिकेशन, रीटेल डेमो सेवाओं से इंटरैक्ट कर पाता है. यह अनुमति सिर्फ़ रीटेल डेमो के लिए दी जानी चाहिए. यह अनुमति पाने वाले ऐप्लिकेशन, रीटेल डेमो मोड के लिए सेट की गई कार्रवाइयों को ट्रिगर कर सकते हैं.</string>
+    <string name="permlab_retaildemoCommunication">Retail Demo सेवाओं से इंटरैक्शन</string>
+    <string name="retaildemo_preload_app_name">Retail Demo सेवाएं</string>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dots">
+        <item quantity="other">डटहरू %s</item>
+        <item quantity="one">डट %s</item>
+    </plurals>
+    <plurals name="gestures_recorded_message">
+        <item quantity="other">%d वटा जेस्चर रेकर्ड गरिएका छन्</item>
+        <item quantity="one">एउटा जेस्चर रेकर्ड गरिएको छ</item>
+    </plurals>
+    <plurals name="label_num_keys_assigned_format">
+        <item quantity="other">%d वटा स्विच तोकिएका छन्</item>
+        <item quantity="one">%d वटा स्विच तोकिएको छ</item>
+    </plurals>
+    <plurals name="label_num_scanning_loops_format">
+        <item quantity="other">%d वटा लुप</item>
+        <item quantity="one">%d वटा लुप</item>
+    </plurals>
+    <plurals name="line_speed_summary_format">
+        <item quantity="other">प्रति सेकेन्ड %.2f से. मि.</item>
+        <item quantity="one">प्रति सेकेन्ड १ से. मि.</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d नयाँ सूचनाहरू</item>
+        <item quantity="one">%d नयाँ सूचना</item>
+    </plurals>
+    <plurals name="time_delay_summary_format">
+        <item quantity="other">%.2f सेकेन्ड</item>
+        <item quantity="one">१ सेकेन्ड</item>
+    </plurals>
+</resources>

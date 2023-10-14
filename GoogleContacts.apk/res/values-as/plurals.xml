@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="addToGroup">
+        <item quantity="other">লেবেল %2$sত %1$dটা সম্পৰ্ক যোগ কৰা হৈছে</item>
+        <item quantity="one">লেবেল %2$sত %1$dটা সম্পৰ্ক যোগ কৰা হৈছে</item>
+    </plurals>
+    <plurals name="addToGroupTitle">
+        <item quantity="other">%2$s লেবেলত %1$dটা সম্পৰ্ক যোগ কৰি থকা হৈছে</item>
+        <item quantity="one">%2$s লেবেলত %1$dটা সম্পৰ্ক যোগ কৰি থকা হৈছে</item>
+    </plurals>
+    <plurals name="add_info_assistant_apply_all_title">
+        <item quantity="other">%dটা সম্পৰ্ক আপডে’ট কৰিবনে?</item>
+        <item quantity="one">%dটা সম্পৰ্ক আপডে’ট কৰিবনে?</item>
+    </plurals>
+    <plurals name="add_info_assistant_summary_body">
+        <item quantity="other">আপুনি যোগাযোগ কৰা %dজন ব্যক্তিৰ নতুন বিৱৰণ পোৱা গৈছে</item>
+        <item quantity="one">আপুনি যোগাযোগ কৰা %dজন ব্যক্তিৰ নতুন বিৱৰণ পোৱা গৈছে</item>
+    </plurals>
+    <plurals name="add_missing_names_title">
+        <item quantity="other">&lt;xliff id="count">%d&lt;/xliff>টা নথকা নাম যোগ কৰক</item>
+        <item quantity="one">&lt;xliff id="count">%d&lt;/xliff>টা নথকা নাম যোগ কৰক</item>
+    </plurals>
+    <plurals name="added_missing_names">
+        <item quantity="other">&lt;xliff id="count">%d&lt;/xliff>টা নথকা নাম যোগ কৰা হৈছে</item>
+        <item quantity="one">&lt;xliff id="count">%d&lt;/xliff>টা নথকা নাম যোগ কৰা হৈছে</item>
+    </plurals>
+    <plurals name="aggregate_read_only_sim_delete_confirmation_message">
+        <item quantity="other">বাছনি কৰা সম্পৰ্কসমূহ Google Contactsএ ছিমৰ পৰা স্থায়ীভাৱে মচিবলৈও চেষ্টা কৰিব।</item>
+        <item quantity="one">বাছনি কৰা সম্পৰ্কসমূহ Google Contactsএ ছিমৰ পৰা স্থায়ীভাৱে মচিবলৈও চেষ্টা কৰিব।</item>
+    </plurals>
+    <plurals name="assistant_cleanup_body">
+        <item quantity="other">%dটা ঠিকনাই ইমেইল পাব নোৱাৰে</item>
+        <item quantity="one">%dটা ঠিকনাই ইমেইল পাব নোৱাৰে</item>
+    </plurals>
+    <plurals name="assistant_duplicates_body">
+        <item quantity="other">ডুপ্লিকেট প্ৰবিষ্টি থকা %d গৰাকী লোকৰ পৰ্যালোচনা কৰক</item>
+        <item quantity="one">ডুপ্লিকেট প্ৰবিষ্টি থকা %d গৰাকী লোকৰ পৰ্যালোচনা কৰক</item>
+    </plurals>
+    <plurals name="assistant_no_name_summary_card_body">
+        <item quantity="other">&lt;xliff id="count">%d&lt;/xliff>টা সম্পৰ্কত এটা নাম নাই</item>
+        <item quantity="one">&lt;xliff id="count">%d&lt;/xliff>টা সম্পৰ্কত এটা নাম নাই</item>
+    </plurals>
+    <plurals name="backup_and_sync_notification_headline">
+        <item quantity="other">%d টা সম্পৰ্ক ছিংক কৰা হোৱা নাই</item>
+        <item quantity="one">%d টা সম্পৰ্ক ছিংক কৰা হোৱা নাই</item>
+    </plurals>
+    <plurals name="block_numbers_dialog_title">
+        <item quantity="other">নম্বৰসমূহ অৱৰোধ কৰিবনে?</item>
+        <item quantity="one">নম্বৰসমূহ অৱৰোধ কৰিবনে?</item>
+    </plurals>
+    <plurals name="cleanup_fragment_title_count">
+        <item quantity="other">%dটা জাংক ইমেইল মচক</item>
+        <item quantity="one">%dটা জাংক ইমেইল মচক</item>
+    </plurals>
+    <plurals name="cleanup_number_deleted">
+        <item quantity="other">%dটা মচা হ’ল</item>
+        <item quantity="one">%dটা মচা হ’ল</item>
+    </plurals>
+    <plurals name="collapsed_managers_text">
+        <item quantity="other">%d গৰাকী পৰিচালক</item>
+        <item quantity="one">%d গৰাকী পৰিচালক</item>
+    </plurals>
+    <plurals name="contact_names_added">
+        <item quantity="other">%dটা যোগ কৰা হৈছে</item>
+        <item quantity="one">%dটা যোগ কৰা হৈছে</item>
+    </plurals>
+    <plurals name="contacts_count_attribution">
+        <item quantity="other">%1$d টা সম্পৰ্ক</item>
+        <item quantity="one">%1$d টা সম্পৰ্ক</item>
+    </plurals>
+    <plurals name="contacts_deleted_toast">
+        <item quantity="other">%1$dটা সম্পৰ্ক মচা হৈছে</item>
+        <item quantity="one">%1$dটা সম্পৰ্ক মচা হৈছে</item>
+    </plurals>
+    <plurals name="contacts_selected_title_fmt">
+        <item quantity="other">%dটা বাছনি কৰা হৈছে</item>
+        <item quantity="one">%dটা বাছনি কৰা হৈছে</item>
+    </plurals>
+    <plurals name="contacts_sync_down">
+        <item quantity="other">%1$d টা সম্পৰ্ক আহৰণ কৰি থকা হৈছে</item>
+        <item quantity="one">%1$d টা সম্পৰ্ক আহৰণ কৰি থকা হৈছে</item>
+    </plurals>
+    <plurals name="contacts_sync_up">
+        <item quantity="other">%1$d টা সম্পৰ্কৰ বেক আপ লৈ থকা হৈছে</item>
+        <item quantity="one">%1$d টা সম্পৰ্কৰ বেক আপ লৈ থকা হৈছে</item>
+    </plurals>
+    <plurals name="contacts_trashed_toast">
+        <item quantity="other">%1$d টা সম্পৰ্ক ট্ৰেশ্বলৈ নিয়া হ’ল</item>
+        <item quantity="one">%1$d টা সম্পৰ্ক ট্ৰেশ্বলৈ নিয়া হ’ল</item>
+    </plurals>
+    <plurals name="delete_aggregate_sim_confirmation_title">
+        <item quantity="other">%1$s টা সম্পৰ্ক মচিবনে?</item>
+        <item quantity="one">%1$s টা সম্পৰ্ক মচিবনে?</item>
+    </plurals>
+    <plurals name="delete_confirmation_message">
+        <item quantity="other">এই সম্পৰ্কসমূহ আপোনাৰ ডিভাইচৰ পৰা স্থায়ীভাৱে মচা হ’ব</item>
+        <item quantity="one">এই সম্পৰ্কসমূহ আপোনাৰ ডিভাইচৰ পৰা স্থায়ীভাৱে মচা হ’ব</item>
+    </plurals>
+    <plurals name="delete_confirmation_title">
+        <item quantity="other">সম্পৰ্কসমূহ মচিবনে?</item>
+        <item quantity="one">সম্পৰ্কসমূহ মচিবনে?</item>
+    </plurals>
+    <plurals name="delete_only_sim_finished_title_with_count">
+        <item quantity="other">%1$d টা সম্পৰ্ক ছিমৰ পৰা মচা হ’ল</item>
+        <item quantity="one">%1$d টা সম্পৰ্ক ছিমৰ পৰা মচা হ’ল</item>
+    </plurals>
+    <plurals name="delete_raw_sim_confirmation_title">
+        <item quantity="other">%2$sৰ পৰা %1$s টা সম্পৰ্ক মচিবনে?</item>
+        <item quantity="one">%2$sৰ পৰা %1$s টা সম্পৰ্ক মচিবনে?</item>
+    </plurals>
+    <plurals name="delete_read_only_SIM_success_toast">
+        <item quantity="other">%1$d টা সম্পৰ্ক ছিমৰ পৰা মচা হ’ল</item>
+        <item quantity="one">%1$d টা সম্পৰ্ক ছিমৰ পৰা মচা হ’ল</item>
+    </plurals>
+    <plurals name="delete_read_only_aggregate_SIM_failure_toast">
+        <item quantity="other">কিছুমান সম্পৰ্ক মচা হ’ল। ছিমৰ পৰা সম্পৰ্কসমূহ মচিব পৰা নগ’ল।</item>
+        <item quantity="one">কিছুমান সম্পৰ্ক মচা হ’ল। ছিমৰ পৰা সম্পৰ্কসমূহ মচিব পৰা নগ’ল।</item>
+    </plurals>
+    <plurals name="delete_read_only_raw_SIM_failure_toast">
+        <item quantity="other">সম্পৰ্কসমূহ মচিব পৰা নগ’ল</item>
+        <item quantity="one">সম্পৰ্কসমূহ মচিব পৰা নগ’ল</item>
+    </plurals>
+    <plurals name="delete_undeletable_contacts_failure_toast">
+        <item quantity="other">কেৱল পঢ়িব পৰা সম্পৰ্কসমূহ মচিব পৰা নগ’ল</item>
+        <item quantity="one">কেৱল পঢ়িব পৰা সম্পৰ্কসমূহ মচিব পৰা নগ’ল</item>
+    </plurals>
+    <plurals name="duplicates_assistant_merge_all_success">
+        <item quantity="other">%dটা একত্ৰিত কৰা হৈছে</item>
+        <item quantity="one">%dটা একত্ৰিত কৰা হৈছে</item>
+    </plurals>
+    <plurals name="duplicates_assistant_merge_all_title">
+        <item quantity="other">%dটা ডুপ্লিকেট একত্ৰিত কৰিবনে?</item>
+        <item quantity="one">%dটা ডুপ্লিকেট একত্ৰিত কৰিবনে?</item>
+    </plurals>
+    <plurals name="duplicates_cluster_content_description">
+        <item quantity="other">%2$sৰ বাবে %1$dটা ডুপ্লিকেট</item>
+        <item quantity="one">%2$sৰ বাবে %1$dটা ডুপ্লিকেট</item>
+    </plurals>
+    <plurals name="emptyAccountSubtext">
+        <item quantity="other">আপোনাৰ অন্য একাউণ্টসমূহত %1$dটা সম্পৰ্ক আছে</item>
+        <item quantity="one">আপোনাৰ অন্য একাউণ্টসমূহত %1$dটা সম্পৰ্ক আছে</item>
+    </plurals>
+    <plurals name="encrypted_restore_assistant_message">
+        <item quantity="other">%1$d টা ডিভাইচৰ পৰা</item>
+        <item quantity="one">%1$d টা ডিভাইচৰ পৰা</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_contact_count_fmt">
+        <item quantity="other">%1$dটা সম্পৰ্ক</item>
+        <item quantity="one">%1$dটা সম্পৰ্ক</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_template">
+        <item quantity="other">^1টা সম্পৰ্ক • ^2</item>
+        <item quantity="one">^1টা সম্পৰ্ক • ^2</item>
+    </plurals>
+    <plurals name="importing_sim_finished_title_with_count">
+        <item quantity="other">ছিমৰ পৰা %1$d টা সম্পৰ্ক আমদানি কৰা হৈছে</item>
+        <item quantity="one">ছিমৰ পৰা %1$d টা সম্পৰ্ক আমদানি কৰা হৈছে</item>
+    </plurals>
+    <plurals name="mixed_delete_confirmation_message">
+        <item quantity="other">এই সম্পৰ্কসমূহ আপোনাৰ ছিংক কৰি থোৱা আটাইবোৰ ডিভাইচৰ পৰা আঁতৰোৱা হ’ব। Google Contactsৰ সৈতে ছিংক কৰা সম্পৰ্কসমূহ ট্ৰেশ্বলৈ নিয়া হ’ব।</item>
+        <item quantity="one">এই সম্পৰ্কসমূহ আপোনাৰ ছিংক কৰি থোৱা আটাইবোৰ ডিভাইচৰ পৰা আঁতৰোৱা হ’ব। Google Contactsৰ সৈতে ছিংক কৰা সম্পৰ্কসমূহ ট্ৰেশ্বলৈ নিয়া হ’ব।</item>
+    </plurals>
+    <plurals name="move_contacts_confirmation_message_fmt">
+        <item quantity="other">এই %1$dটা সম্পৰ্ক %2$sলৈ স্থানান্তৰ কৰিবনে?</item>
+        <item quantity="one">এই %1$dটা সম্পৰ্ক %2$sলৈ স্থানান্তৰ কৰিবনে?</item>
+    </plurals>
+    <plurals name="move_contacts_success_toast">
+        <item quantity="other">%dটা সম্পৰ্ক স্থানান্তৰ কৰা হ’ল</item>
+        <item quantity="one">%dটা সম্পৰ্ক স্থানান্তৰ কৰা হ’ল</item>
+    </plurals>
+    <plurals name="moving_contacts_finished_title">
+        <item quantity="other">%1$dটা সম্পৰ্ক স্থানান্তৰ কৰা হ’ল</item>
+        <item quantity="one">%1$dটা সম্পৰ্ক স্থানান্তৰ কৰা হ’ল</item>
+    </plurals>
+    <plurals name="moving_contacts_in_progress_notification_title">
+        <item quantity="other">%1$dটা সম্পৰ্ক %2$sলৈ স্থানান্তৰ কৰি থকা হৈছে</item>
+        <item quantity="one">%1$dটা সম্পৰ্ক %2$sলৈ স্থানান্তৰ কৰি থকা হৈছে</item>
+    </plurals>
+    <plurals name="moving_contacts_in_progress_title">
+        <item quantity="other">%1$dটা সম্পৰ্ক স্থানান্তৰ কৰি থকা হৈছে</item>
+        <item quantity="one">%1$dটা সম্পৰ্ক স্থানান্তৰ কৰি থকা হৈছে</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d new notifications</item>
+        <item quantity="one">%d new notification</item>
+    </plurals>
+    <plurals name="new_contact_assistant_summary_card_body">
+        <item quantity="other">%dটা পৰামৰ্শ পৰ্যালোচনা কৰক</item>
+        <item quantity="one">%dটা পৰামৰ্শ পৰ্যালোচনা কৰক</item>
+    </plurals>
+    <plurals name="permanent_delete_progress_title">
+        <item quantity="other">%1$d টা সম্পৰ্ক চিৰদিনৰ বাবে মচি থকা হৈছে…</item>
+        <item quantity="one">%1$d টা সম্পৰ্ক চিৰদিনৰ বাবে মচি থকা হৈছে…</item>
+    </plurals>
+    <plurals name="permanent_delete_success_toast">
+        <item quantity="other">%1$d টা সম্পৰ্ক চিৰদিনৰ বাবে মচি পেলোৱা হ’ল</item>
+        <item quantity="one">%1$d টা সম্পৰ্ক চিৰদিনৰ বাবে মচি পেলোৱা হ’ল</item>
+    </plurals>
+    <plurals name="phone_repair_contacts_to_update">
+        <item quantity="other">সালসলনিসমূহে %dখন দেশ প্ৰভাৱিত কৰিছে</item>
+        <item quantity="one">সালসলনিসমূহে %dখন দেশ প্ৰভাৱিত কৰিছে</item>
+    </plurals>
+    <plurals name="phone_repair_number_updated">
+        <item quantity="other">%dটা আপডে’ট কৰা হৈছে</item>
+        <item quantity="one">%dটা আপডে’ট কৰা হৈছে</item>
+    </plurals>
+    <plurals name="phone_repair_updating_notification">
+        <item quantity="other">%dটা ফ’ন নম্বৰ আপডে’ট কৰি থকা হৈছে। সালসলনিসমূহ দেখা পোৱা হ’বলৈ কিছু সময় লাগিব পাৰে।</item>
+        <item quantity="one">%dটা ফ’ন নম্বৰ আপডে’ট কৰি থকা হৈছে। সালসলনিসমূহ দেখা পোৱা হ’বলৈ কিছু সময় লাগিব পাৰে।</item>
+    </plurals>
+    <plurals name="public_notification_text">
+        <item quantity="other">%1$d টা নতুন জাননী</item>
+        <item quantity="one">%1$d টা নতুন জাননী</item>
+    </plurals>
+    <plurals name="raw_read_only_sim_delete_confirmation_message">
+        <item quantity="other">বাছনি কৰা সম্পৰ্কসমূহ Google Contactsএ ছিমৰ পৰা স্থায়ীভাৱে মচিবলৈ চেষ্টা কৰিব</item>
+        <item quantity="one">বাছনি কৰা সম্পৰ্কসমূহ Google Contactsএ ছিমৰ পৰা স্থায়ীভাৱে মচিবলৈ চেষ্টা কৰিব</item>
+    </plurals>
+    <plurals name="restore_assistant_message">
+        <item quantity="other">%1$dটা সম্পৰ্ক %2$sত বেক আপ লোৱা হৈছে</item>
+        <item quantity="one">%1$dটা সম্পৰ্ক %2$sত বেক আপ লোৱা হৈছে</item>
+    </plurals>
+    <plurals name="restore_notification_title_fmt">
+        <item quantity="other">%1$d টা সম্পৰ্ক পুনঃস্থাপন কৰিবলৈ সাজু</item>
+        <item quantity="one">%1$d টা সম্পৰ্ক পুনঃস্থাপন কৰিবলৈ সাজু</item>
+    </plurals>
+    <plurals name="sheepdog_assistant_body">
+        <item quantity="other">এই ডিভাইচটোত থকা %d টা সম্পৰ্কৰ বেক আপ লোৱা নহ’ব পাৰে</item>
+        <item quantity="one">এই ডিভাইচটোত থকা %d টা সম্পৰ্কৰ বেক আপ লোৱা নহ’ব পাৰে</item>
+    </plurals>
+    <plurals name="sheepdog_assistant_body_2">
+        <item quantity="other">ডিভাইচত থকা %d টা সম্পৰ্ক Google Contactsৰ সৈতে ছিংক হোৱা নাই</item>
+        <item quantity="one">ডিভাইচত থকা %d টা সম্পৰ্ক Google Contactsৰ সৈতে ছিংক হোৱা নাই</item>
+    </plurals>
+    <plurals name="sheepdog_confirm_cancel_dialog_content">
+        <item quantity="other">এই ডিভাইচটোত থকা %d টা সম্পৰ্কৰ বেক আপ লোৱা নহ’ব পাৰে</item>
+        <item quantity="one">এই ডিভাইচটোত থকা %d টা সম্পৰ্কৰ বেক আপ লোৱা নহ’ব পাৰে</item>
+    </plurals>
+    <plurals name="sheepdog_sim_import_dialog_multiple_sim_title">
+        <item quantity="other">লগতে একাধিক ছিম কাৰ্ডৰ পৰা %d টা সম্পৰ্ক ছিংক কৰিবনে?</item>
+        <item quantity="one">লগতে একাধিক ছিম কাৰ্ডৰ পৰা %d টা সম্পৰ্ক ছিংক কৰিবনে?</item>
+    </plurals>
+    <plurals name="sheepdog_sim_import_dialog_single_sim_title">
+        <item quantity="other">লগতে ছিম কাৰ্ডৰ পৰা %d টা সম্পৰ্ক ছিংক কৰিবনে?</item>
+        <item quantity="one">লগতে ছিম কাৰ্ডৰ পৰা %d টা সম্পৰ্ক ছিংক কৰিবনে?</item>
+    </plurals>
+    <plurals name="sim_delete_failure_notification_title">
+        <item quantity="other">ছিমৰ পৰা সম্পৰ্কসমূহ মচোঁতে সমস্যা হৈছে</item>
+        <item quantity="one">ছিমৰ পৰা সম্পৰ্কসমূহ মচোঁতে সমস্যা হৈছে</item>
+    </plurals>
+    <plurals name="sim_delete_only_success_toast">
+        <item quantity="other">%d টা সম্পৰ্ক ছিমৰ পৰা মচা হ’ল</item>
+        <item quantity="one">%d টা সম্পৰ্ক ছিমৰ পৰা মচা হ’ল</item>
+    </plurals>
+    <plurals name="sim_import_card_header">
+        <item quantity="other">ছিম কাৰ্ডসমূহৰ পৰা আমদানি কৰক</item>
+        <item quantity="one">ছিম কাৰ্ডসমূহৰ পৰা আমদানি কৰক</item>
+    </plurals>
+    <plurals name="sim_import_card_message_fmt">
+        <item quantity="other">%dটা সম্পৰ্ক</item>
+        <item quantity="one">%dটা সম্পৰ্ক</item>
+    </plurals>
+    <plurals name="sim_import_notification_title">
+        <item quantity="other">ছিমত থকা %d টা সম্পৰ্ক আমদানি কৰিবনে?</item>
+        <item quantity="one">ছিমত থকা %d টা সম্পৰ্ক আমদানি কৰিবনে?</item>
+    </plurals>
+    <plurals name="sim_import_success_toast_fmt">
+        <item quantity="other">ছিমত থকা %d টা সম্পৰ্ক আমদানি কৰা হ’ল</item>
+        <item quantity="one">ছিমত থকা %d টা সম্পৰ্ক আমদানি কৰা হ’ল</item>
+    </plurals>
+    <plurals name="sim_import_success_with_delete_failure">
+        <item quantity="other">%d টা সম্পৰ্ক আমদানি কৰা হ’ল। ছিমৰ পৰা প্ৰতিলিপিসমূহ আঁতৰাওঁতে সমস্যা হ’ল।</item>
+        <item quantity="one">%d টা সম্পৰ্ক আমদানি কৰা হ’ল। ছিমৰ পৰা প্ৰতিলিপিসমূহ আঁতৰাওঁতে সমস্যা হ’ল।</item>
+    </plurals>
+    <plurals name="sim_import_success_with_delete_success">
+        <item quantity="other">%d টা সম্পৰ্ক আমদানি কৰা হ’ল। ছিমৰ পৰা প্ৰতিলিপিসমূহ আঁতৰোৱা হ’ল।</item>
+        <item quantity="one">%d টা সম্পৰ্ক আমদানি কৰা হ’ল। ছিমৰ পৰা প্ৰতিলিপিসমূহ আঁতৰোৱা হ’ল।</item>
+    </plurals>
+    <plurals name="starred_contacts_activity_title">
+        <item quantity="other">%dটা তৰাযুক্ত সম্পৰ্ক</item>
+        <item quantity="one">%dটা তৰাযুক্ত সম্পৰ্ক</item>
+    </plurals>
+    <plurals name="sync_status_successful">
+        <item quantity="other">%1$d টা সম্পৰ্ক ছিংক কৰা হৈছে</item>
+        <item quantity="one">%1$d টা সম্পৰ্ক ছিংক কৰা হৈছে</item>
+    </plurals>
+    <plurals name="trash_confirmation_message">
+        <item quantity="other">এই সম্পৰ্কসমূহ আপোনাৰ ছিংক কৰি থোৱা আটাইবোৰ ডিভাইচৰ পৰা আঁতৰোৱা হ’ব</item>
+        <item quantity="one">এই সম্পৰ্কসমূহ আপোনাৰ ছিংক কৰি থোৱা আটাইবোৰ ডিভাইচৰ পৰা আঁতৰোৱা হ’ব</item>
+    </plurals>
+    <plurals name="trash_list_banner_text">
+        <item quantity="other">%1$d দিনতকৈ অধিক সময় ট্ৰেশ্বত থকা সম্পৰ্কসমূহ চিৰদিনৰ বাবে মচি পেলোৱা হ’ব</item>
+        <item quantity="one">%1$d দিনতকৈ অধিক সময় ট্ৰেশ্বত থকা সম্পৰ্কসমূহ চিৰদিনৰ বাবে মচি পেলোৱা হ’ব</item>
+    </plurals>
+    <plurals name="unblock_numbers_dialog_title">
+        <item quantity="other">নম্বৰসমূহ অৱৰোধৰ পৰা আঁতৰাবনে?</item>
+        <item quantity="one">নম্বৰসমূহ অৱৰোধৰ পৰা আঁতৰাবনে?</item>
+    </plurals>
+    <plurals name="untrash_limit_dialog_message">
+        <item quantity="other">এবাৰত কেৱল %1$d টা সম্পৰ্ক পুনৰুদ্ধাৰ কৰিব পাৰি, কিন্তু অধিক পুনৰুদ্ধাৰ কৰিবলৈ আপুনি এই পদক্ষেপটো পুনৰাবৃত্তি কৰিব পাৰে</item>
+        <item quantity="one">এবাৰত কেৱল %1$d টা সম্পৰ্ক পুনৰুদ্ধাৰ কৰিব পাৰি, কিন্তু অধিক পুনৰুদ্ধাৰ কৰিবলৈ আপুনি এই পদক্ষেপটো পুনৰাবৃত্তি কৰিব পাৰে</item>
+    </plurals>
+    <plurals name="untrash_limit_dialog_title">
+        <item quantity="other">%1$d টা সম্পৰ্ক পুনৰুদ্ধাৰ কৰিব বিচাৰিছে নেকি?</item>
+        <item quantity="one">%1$d টা সম্পৰ্ক পুনৰুদ্ধাৰ কৰিব বিচাৰিছে নেকি?</item>
+    </plurals>
+    <plurals name="untrash_progress_title">
+        <item quantity="other">%1$d টা সম্পৰ্ক পুনৰুদ্ধাৰ কৰি থকা হৈছে…</item>
+        <item quantity="one">%1$d টা সম্পৰ্ক পুনৰুদ্ধাৰ কৰি থকা হৈছে…</item>
+    </plurals>
+    <plurals name="untrash_success_toast">
+        <item quantity="other">%1$d টা পুনৰুদ্ধাৰ কৰা সম্পৰ্ক সোনকালে ছিংক কৰা হ’ব</item>
+        <item quantity="one">%1$d টা পুনৰুদ্ধাৰ কৰা সম্পৰ্ক সোনকালে ছিংক কৰা হ’ব</item>
+    </plurals>
+</resources>

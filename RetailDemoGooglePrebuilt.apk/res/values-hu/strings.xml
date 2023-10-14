@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_retaildemoCommunication">Az alkalmazások interakcióba léphetnek a Kiskereskedelmi bemutató-szolgáltatásokkal. Csak a Kiskereskedelmi bemutató kaphatja meg ezt az engedélyt. Az ezt az engedélyt megkapó alkalmazások elindíthatnak a Kiskereskedelmi bemutató módhoz fenntartott műveleteket.</string>
+    <string name="permlab_retaildemoCommunication">Kiskereskedelmi bemutatók kommunikációja</string>
+    <string name="retaildemo_preload_app_name">Kiskereskedelmi bemutatók</string>
+</resources>

@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">Pomik navzgor</string>
+    <string name="abc_action_mode_done">Končano</string>
+    <string name="abc_capital_off">IZKLOP</string>
+    <string name="abc_capital_on">VKLOP</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Fn +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Shift +</string>
+    <string name="abc_menu_space_shortcut_label">preslednica</string>
+    <string name="abc_menu_sym_shortcut_label">Sym +</string>
+    <string name="abc_prepend_shortcut_label">Meni +</string>
+    <string name="abc_search_hint">Iskanje …</string>
+    <string name="abc_searchview_description_clear">Izbris poizvedbe</string>
+    <string name="abc_searchview_description_search">Iskanje</string>
+    <string name="abc_searchview_description_submit">Pošiljanje poizvedbe</string>
+    <string name="abc_searchview_description_voice">Glasovno iskanje</string>
+    <string name="abc_toolbar_collapse_description">Strnitev</string>
+    <string name="activation_code_scan_button">Namesto tega optično preberi kodo QR</string>
+    <string name="activation_code_text">Vnesite kodo, ki ste jo prejeli od operaterja</string>
+    <string name="activation_code_title">Dodajanje operaterja omrežja</string>
+    <string name="add_profile_title">Dodaj operaterja</string>
+    <string name="asked_for_eid">Želite aktivirati v prodajalni? Če vas prodajno osebje vpraša za številko EID, jo %1$s.</string>
+    <string name="back_button_error_msg">V izogib napakam izhod iz tega zaslona ni mogoč med postopkom nastavitve</string>
+    <string name="body_check_qr_code_or_go_back">Preverite, ali poskušate optično prebrati pravo kodo QR.</string>
+    <string name="body_device_is_locked">Napravo je zaklenil operater %1$s.</string>
+    <string name="body_device_is_locked_no_name">Naprava je zaklenjena.</string>
+    <string name="body_issue_with_sim_profile">Prišlo je do težave s kartico SIM. Če želite odpraviti težavo, se obrnite na operaterja %1$s na številko %2$s.</string>
+    <string name="body_issue_with_sim_profile_maximum_attempts">Dosegli ste največje dovoljeno število poskusov. Za pomoč pri vzpostavitvi povezave se obrnite na operaterja %1$s na številko %2$s.</string>
+    <string name="body_issue_with_sim_profile_maximum_attempts_no_name">Dosegli ste največje dovoljeno število poskusov. Za pomoč pri vzpostavitvi povezave se obrnite na operaterja.</string>
+    <string name="body_issue_with_sim_profile_maximum_attempts_no_tel">Dosegli ste največje dovoljeno število poskusov. Za pomoč pri vzpostavitvi povezave se obrnite na operaterja %1$s.</string>
+    <string name="body_issue_with_sim_profile_no_name">Prišlo je do težave s kartico SIM. Če želite odpraviti težavo, se obrnite na operaterja.</string>
+    <string name="body_issue_with_sim_profile_no_tel">Prišlo je do težave s kartico SIM. Če želite odpraviti težavo, se obrnite na operaterja %1$s.</string>
+    <string name="body_issue_with_sim_profile_used_on_another_device">Ta kartica SIM je v uporabi v drugi napravi. Če želite odpraviti težavo, se obrnite na operaterja %1$s na številko %2$s.</string>
+    <string name="body_issue_with_sim_profile_used_on_another_device_no_name">Ta kartica SIM je v uporabi v drugi napravi. Če želite odpraviti težavo, se obrnite na operaterja.</string>
+    <string name="body_issue_with_sim_profile_used_on_another_device_no_tel">Ta kartica SIM je v uporabi v drugi napravi. Če želite odpraviti težavo, se obrnite na operaterja %1$s.</string>
+    <string name="body_make_sure_not_already_downloaded">"Prepričajte se, da izbrana kartica SIM še ni bila prenesena v to ali drugo napravo.
+
+Za dodatno pomoč se obrnite na operaterja %1$s na številko %2$s."</string>
+    <string name="body_make_sure_not_already_downloaded_no_name">"Prepričajte se, da izbrana kartica SIM še ni bila prenesena v to ali drugo napravo.
+
+Za dodatno pomoč se obrnite na operaterja."</string>
+    <string name="body_make_sure_not_already_downloaded_no_tel">"Prepričajte se, da izbrana kartica SIM še ni bila prenesena v to ali drugo napravo.
+
+Za dodatno pomoč se obrnite na operaterja %1$s."</string>
+    <string name="body_need_wifi_connection">Za prenos kartice e-SIM potrebujete povezavo Wi-Fi.</string>
+    <string name="body_need_wifi_or_mobile_connection">Za prenos kartice e-SIM potrebujete povezavo Wi-Fi ali mobilno povezavo.</string>
+    <string name="body_not_enough_space_to_download">Ni dovolj prostora za prenos te kartice SIM.</string>
+    <string name="body_sim_has_expired">"Vaša kartica e-SIM je potekla.
+Če želite dobiti novo kartico SIM, se obrnite na operaterja %1$s na številko %2$s."</string>
+    <string name="body_sim_has_expired_no_name">"Vaša kartica e-SIM je potekla.
+Če želite dobiti novo kartico SIM, se obrnite na operaterja."</string>
+    <string name="body_sim_has_expired_no_tel">"Vaša kartica e-SIM je potekla.
+Če želite dobiti novo kartico SIM, se obrnite na operaterja %1$s."</string>
+    <string name="body_something_went_wrong">Pri poskusu aktiviranja številke je prišlo do napake.</string>
+    <string name="bottomsheet_action_expand_halfway">Razširjanje na pol višine</string>
+    <string name="button_text_close">Zapri</string>
+    <string name="button_text_settings">Nastavitve</string>
+    <string name="cancel_button">Prekliči</string>
+    <string name="cant_get_eid_please_contact_carrier">Prišlo je do težave in številke EID naprave trenutno ni mogoče najti. Za pomoč se obrnite na operaterja.</string>
+    <string name="carrier_confirm_subtitle">Za to omrežje ste že registrirani</string>
+    <string name="carrier_confirm_title">Potrditev omrežja</string>
+    <string name="carrier_selection_msg">Izberite operaterja, pri katerem že imate račun in ki ga želite uporabiti v tem telefonu</string>
+    <string name="carrier_selection_psim">Uporaba kartice SIM</string>
+    <string name="carrier_selection_title">Potrditev operaterja</string>
+    <string name="choose_carrier_title">Izberite operaterje, ki jih želite uporabljati</string>
+    <string name="choose_number_activating">Aktiviranje …</string>
+    <string name="choose_number_could_not_activate">Aktiviranje trenutno ni bilo mogoče</string>
+    <string name="choose_number_error_no_space">Če želite uporabljati druge telefonske številke ali omrežja, morate najprej sprostiti prostor tako, da v nastavitvah izbrišete eno ali več obstoječih številk.</string>
+    <string name="choose_number_error_perm">Če želite uporabljati druge telefonske številke ali omrežja, se za pomoč obrnite na operaterje omrežij</string>
+    <string name="choose_number_error_temp">Če želite uporabljati druge telefonske številke ali omrežja, jih aktivirajte pozneje v nastavitvah</string>
+    <string name="choose_number_item_summary_unknown">Neznana številka</string>
+    <string name="choose_number_subtitle">{count,plural, =1{V napravo je dodana 1 številka, hkrati pa je mogoče uporabljati samo eno}one{V napravo je dodana # številka, hkrati pa je mogoče uporabljati samo eno}two{V napravo sta dodani # številki, hkrati pa je mogoče uporabljati samo eno}few{V napravo so dodane # številke, hkrati pa je mogoče uporabljati samo eno}other{V napravo je dodanih # številk, hkrati pa je mogoče uporabljati samo eno}}</string>
+    <string name="choose_number_title">Izberite, katero številko želite uporabiti</string>
+    <string name="choose_second_number_subtitle">V tej napravi lahko poleg trenutne številke uporabljate dodatno številko</string>
+    <string name="choose_second_number_subtitle_with_psim_carrier_name">V tej napravi lahko poleg številke operaterja%1$s uporabljate dodatno številko</string>
+    <string name="choose_second_number_subtitle_with_psim_phone_number">V tej napravi lahko poleg številke %1$s uporabljate dodatno številko</string>
+    <string name="choose_second_number_title">Izbira dodatne telefonske številke</string>
+    <string name="common_google_play_services_enable_button">Omogoči</string>
+    <string name="common_google_play_services_enable_text">Aplikacija %1$s ne bo delovala, če ne omogočite storitev Google Play.</string>
+    <string name="common_google_play_services_enable_title">Omogočanje storitev Google Play</string>
+    <string name="common_google_play_services_install_button">Namesti</string>
+    <string name="common_google_play_services_install_text">Aplikacija %1$s ne deluje brez storitev Google Play, vendar teh ni v napravi.</string>
+    <string name="common_google_play_services_install_title">Namestitev storitev Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Dostopnost storitev Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Napaka storitev Google Play</string>
+    <string name="common_google_play_services_unknown_issue">Aplikacija %1$s ima težave s storitvami Google Play. Poskusite znova.</string>
+    <string name="common_google_play_services_unsupported_text">Aplikacija %1$s ne deluje brez storitev Google Play, ki jih vaša naprava ne podpira.</string>
+    <string name="common_google_play_services_update_button">Posodobi</string>
+    <string name="common_google_play_services_update_text">Aplikacija %1$s ne bo delovala, če ne posodobite storitev Google Play.</string>
+    <string name="common_google_play_services_update_title">Posodobitev storitev Google Play</string>
+    <string name="common_google_play_services_updating_text">Aplikacija %1$s ne deluje brez storitev Google Play, ki se trenutno posodabljajo.</string>
+    <string name="common_google_play_services_wear_update_text">Potrebujete novo različico storitev Google Play. V kratkem se bodo posodobile.</string>
+    <string name="common_open_on_phone">Odpiranje v telefonu</string>
+    <string name="complete_service_setup_text">Aktivirali ste storitev pri operaterju %1$s</string>
+    <string name="complete_service_setup_title">Nastavitev operaterja %1$s je končana</string>
+    <string name="complete_update_esim_notification_body_text">Dotaknite se za dokončanje posodobitve programske opreme</string>
+    <string name="complete_update_esim_notification_title">Dokončanje povezovanja z mobilnim omrežjem</string>
+    <string name="confirm_acti_no_space_sub1">Če želite uporabljati druge telefonske številke, morate najprej sprostiti prostor tako, da iz naprave izbrišete obstoječe številke. To lahko naredite pozneje v nastavitvah.</string>
+    <string name="confirm_acti_no_space_sub1_multi">Če želite uporabljati druge telefonske številke ali omrežja, morate najprej sprostiti prostor tako, da iz naprave izbrišete obstoječe številke. To lahko naredite pozneje v nastavitvah.</string>
+    <string name="confirm_acti_perm_error_sub1">Če želite uporabljati druge telefonske številke, za pomoč pokličite operaterja %1$s na številko %2$s. Za to napravo boste morda potrebovali številko EID:</string>
+    <string name="confirm_acti_perm_error_sub1_multi">Če želite uporabljati druge telefonske številke ali omrežja, za pomoč pokličite operaterja %1$s na številko %2$s. Za to napravo boste morda potrebovali številko EID:</string>
+    <string name="confirm_acti_perm_error_sub1_multi_no_carrier_name">Če želite uporabljati druge telefonske številke ali omrežja, se za pomoč obrnite na operaterja omrežja. Za to napravo boste morda potrebovali številko EID:</string>
+    <string name="confirm_acti_perm_error_sub1_multi_no_phone">Če želite uporabljati druge telefonske številke ali omrežja, se za pomoč obrnite na operaterja %1$s. Za to napravo boste morda potrebovali številko EID:</string>
+    <string name="confirm_acti_perm_error_sub1_no_carrier_name">Če želite uporabljati druge telefonske številke, se za pomoč obrnite na operaterja omrežja. Za to napravo boste morda potrebovali številko EID:</string>
+    <string name="confirm_acti_perm_error_sub1_no_eid">Če želite uporabljati druge telefonske številke, za pomoč pokličite operaterja %1$s na številko %2$s</string>
+    <string name="confirm_acti_perm_error_sub1_no_eid_multi">Če želite uporabljati druge telefonske številke ali omrežja, za pomoč pokličite operaterja %1$s na številko %2$s</string>
+    <string name="confirm_acti_perm_error_sub1_no_eid_multi_no_phone">Če želite uporabljati druge telefonske številke ali omrežja, se za pomoč obrnite na operaterja %1$s</string>
+    <string name="confirm_acti_perm_error_sub1_no_eid_no_carrier_name">Če želite uporabljati druge telefonske številke, se za pomoč obrnite na operaterja omrežja</string>
+    <string name="confirm_acti_perm_error_sub1_no_eid_no_phone">Če želite uporabljati druge telefonske številke, se za pomoč obrnite na operaterja %1$s</string>
+    <string name="confirm_acti_perm_error_sub1_no_phone">Če želite uporabljati druge telefonske številke, se za pomoč obrnite na operaterja %1$s. Za to napravo boste morda potrebovali številko EID:</string>
+    <string name="confirm_acti_success_sub_title">Telefonska številka %1$s je pripravljena za uporabo</string>
+    <string name="confirm_acti_success_sub_title_no_phone">Telefonska številka je pripravljena za uporabo</string>
+    <string name="confirm_acti_success_sub_title_w_app">Za dokončanje aktiviranja telefonske številke %1$s morate prenesti aplikacijo operaterja %2$s. Najprej pa dokončajmo nastavitev vašega telefona.</string>
+    <string name="confirm_acti_success_sub_title_w_app_no_name">Za dokončanje aktiviranja telefonske številke %1$s morate prenesti aplikacijo operaterja omrežja. Najprej pa dokončajmo nastavitev vašega telefona.</string>
+    <string name="confirm_acti_success_sub_title_w_app_no_name_setting">Za dokončanje aktiviranja telefonske številke %1$s morate prenesti aplikacijo operaterja omrežja</string>
+    <string name="confirm_acti_success_sub_title_w_app_no_phone">Za dokončanje aktiviranja telefonske številke morate prenesti aplikacijo operaterja %1$s. Najprej pa dokončajmo nastavitev vašega telefona.</string>
+    <string name="confirm_acti_success_sub_title_w_app_no_phone_no_name">Za dokončanje aktiviranja telefonske številke morate prenesti aplikacijo operaterja omrežja. Najprej pa dokončajmo nastavitev vašega telefona.</string>
+    <string name="confirm_acti_success_sub_title_w_app_no_phone_no_name_setting">Za dokončanje aktiviranja telefonske številke morate prenesti aplikacijo operaterja omrežja</string>
+    <string name="confirm_acti_success_sub_title_w_app_no_phone_setting">Za dokončanje aktiviranja telefonske številke morate prenesti aplikacijo operaterja %1$s</string>
+    <string name="confirm_acti_success_sub_title_w_app_setting">Za dokončanje aktiviranja telefonske številke %1$s morate prenesti aplikacijo operaterja %2$s</string>
+    <string name="confirm_acti_success_title">Vzpostavljena povezava z operaterjem %1$s</string>
+    <string name="confirm_acti_success_title_no_carrier_name">Omrežje je aktivno</string>
+    <string name="confirm_acti_success_title_with_app">Povezavo z omrežjem operaterja %1$s vzpostavite pozneje</string>
+    <string name="confirm_acti_success_title_with_app_no_name">Povezavo z omrežjem vzpostavite pozneje</string>
+    <string name="confirm_acti_temp_error_sub1">Če želite uporabljati druge telefonske številke, jih aktivirajte pozneje v nastavitvah</string>
+    <string name="confirm_acti_temp_error_sub1_multi">Če želite uporabljati druge telefonske številke ali omrežja, jih aktivirajte pozneje v nastavitvah</string>
+    <string name="confirm_code_try_again">Napačna koda. Poskusite znova.</string>
+    <string name="confirm_transfer_single_carrier_dsds_msg">Ko bo prenesena, telefonska številka %1$s ne bo več delovala v stari napravi. Dodatno telefonsko številko lahko po nastavitvi prenesete tako, da vstavite kartico SIM.</string>
+    <string name="confirm_transfer_single_carrier_msg">Ko bo prenesena, telefonska številka %1$s ne bo več delovala v stari napravi</string>
+    <string name="confirm_transfer_single_carrier_title">Želite prenesti telefonsko številko operaterja %1$s?</string>
+    <string name="confirmation_code_body_text">Kodo za preverjanje vam je posredoval operater. Vnesite jo, da vzpostavite povezavo z omrežjem.</string>
+    <string name="confirmation_code_body_text_with_carrier">Kodo za preverjanje vam je posredoval operater %1$s. Vnesite jo, da vzpostavite povezavo z omrežjem.</string>
+    <string name="confirmation_code_title">Vnesite kodo za preverjanje</string>
+    <string name="confirmation_code_what">Kaj je to?</string>
+    <string name="contact_carrier_description">Za nastavitev kartice SIM se obrnite na operaterja %1$s na številki %2$s</string>
+    <string name="contact_carrier_description_eid">številko EID naprave.</string>
+    <string name="contact_carrier_description_eid_additional">"
+
+Morda boste potrebovali"</string>
+    <string name="contact_carrier_title">Obrnite se na operaterja %1$s</string>
+    <string name="continue_button">Nadaljuj</string>
+    <string name="copy">Kopiraj</string>
+    <string name="customer_service_activate_service">Osebje za pomoč strankam vam lahko na podlagi te številke EID pomaga aktivirati storitev:</string>
+    <string name="data_plan_select_subtitle">Ko bo telefonska številka prenesena, ne bo več delovala v stari napravi</string>
+    <string name="data_plan_select_title">Izbira telefonske številke za prenos</string>
+    <string name="def_notif_activating_title">Poteka aktiviranje telefonske številke operaterja %1$s …</string>
+    <string name="def_notif_activation_fail_subtitle">Dotaknite se za podrobnosti</string>
+    <string name="def_notif_activation_fail_title">Telefonske številke operaterja %1$s ni bilo mogoče aktivirati</string>
+    <string name="def_notif_activation_success_dsds_subtitle">Izberite nastavitve za klice, sporočila SMS in prenos podatkov v mobilnem omrežju</string>
+    <string name="def_notif_activation_success_dsds_title">Telefonske številke so pripravljene za uporabo</string>
+    <string name="def_notif_activation_success_title">Telefonska številka operaterja %1$s je bila aktivirana</string>
+    <string name="default_display_name">SIM</string>
+    <string name="default_profile_nickname_format">%1$s %2$d</string>
+    <string name="deferred_setup_notification_description">Ready to connect to mobile network</string>
+    <string name="deferred_setup_notification_title">Set you your %1$s SIM</string>
+    <string name="detail_contact_carrier_for_more_help">Za dodatno pomoč se obrnite na operaterja.</string>
+    <string name="detail_contact_carrier_to_unlock">Preverite pri operaterju %1$s na številki %2$s, ali je napravo mogoče odkleniti.</string>
+    <string name="detail_contact_carrier_to_unlock_no_name">Preverite pri operaterju, ali je napravo mogoče odkleniti.</string>
+    <string name="detail_contact_carrier_to_unlock_no_tel">Preverite pri operaterju %1$s, ali je napravo mogoče odkleniti.</string>
+    <string name="detail_delete_a_profile_before_retrying">Če želite sprostiti prostor, odprite nastavitve in izbrišite eno kartico SIM. Nato poskusite znova.</string>
+    <string name="detail_may_need_eid_number">EID: %1$s</string>
+    <string name="detail_provide_info_to_carrier">"Operaterju lahko posredujete te podatke:
+%1$s
+%2$s"</string>
+    <string name="detail_try_adding_again">Ko vzpostavite povezavo, znova poskusite dodati mobilno omrežje.</string>
+    <string name="disable_carrier_dialog_text">"Povezava z omrežjem v tej napravi bo takoj prekinjena.
+
+S tem ne boste prekinili nobenega naročniškega paketa za mobilno telefonijo."</string>
+    <string name="disable_carrier_dialog_text_with_carrier">"Povezava z omrežjem operaterja %1$s v tej napravi bo takoj prekinjena.
+
+S tem ne boste prekinili nobenega naročniškega paketa za mobilno telefonijo."</string>
+    <string name="disable_carrier_dialog_title">Želite onemogočiti operaterja?</string>
+    <string name="disable_fail_text">Prišlo je do napake, operaterja ni bilo mogoče onemogočiti.</string>
+    <string name="disable_fail_title">Operaterja ni mogoče onemogočiti</string>
+    <string name="disable_profile_title">Onemogoči</string>
+    <string name="disabled_profiles_title">Razpoložljivi operaterji</string>
+    <string name="disabling_carrier">Onemogočanje operaterja …</string>
+    <string name="done_button">Končano</string>
+    <string name="download_complete_text">Odprite nastavitve in vklopite to kartico SIM.</string>
+    <string name="download_complete_text_with_carrier">V nastavitvah vklopite operaterja %1$s.</string>
+    <string name="download_complete_title">Uspešen prenos kartice e-SIM</string>
+    <string name="download_esim_button">Download eSIM</string>
+    <string name="download_fail_dialog_text">Digitalne kartice e-SIM ni mogoče prenesti zaradi napake. Poskusite znova. Če se težava ponovi, se obrnite na operaterja %1$s.</string>
+    <string name="download_fail_dialog_text_no_carrier_name">Digitalne kartice e-SIM ni bilo mogoče prenesti zaradi napake. Poskusite znova. Če se težava ponovi, se za pomoč obrnite na operaterja.</string>
+    <string name="download_fail_dialog_title">Digitalne kartice e-SIM ni mogoče prenesti</string>
+    <string name="download_sub_multi_carriers_text">{count,plural, =1{Pridobivamo &lt;b>več številk (%2$d)&lt;/b> od operaterja %1$s in 1 drugega operaterja. To lahko traja nekaj časa.}one{Pridobivamo &lt;b>več številk (%2$d)&lt;/b> od operaterja %1$s in %3$d drugega operaterja. To lahko traja nekaj časa.}two{Pridobivamo &lt;b>več številk (%2$d)&lt;/b> od operaterja %1$s in %3$d drugih operaterjev. To lahko traja nekaj časa.}few{Pridobivamo &lt;b>več številk (%2$d)&lt;/b> od operaterja %1$s in %3$d drugih operaterjev. To lahko traja nekaj časa.}other{Pridobivamo &lt;b>več številk (%2$d)&lt;/b> od operaterja %1$s in %3$d drugih operaterjev. To lahko traja nekaj časa.}}</string>
+    <string name="download_sub_text">{count,plural, =1{Pridobivamo številko od operaterja %1$s. To lahko traja nekaj časa.}one{Pridobivamo &lt;b>%2$d številko&lt;/b> od operaterja %1$s. To lahko traja nekaj časa.}two{Pridobivamo &lt;b>%2$d številki&lt;/b> od operaterja %1$s. To lahko traja nekaj časa.}few{Pridobivamo &lt;b>%2$d številke&lt;/b> od operaterja %1$s. To lahko traja nekaj časa.}other{Pridobivamo &lt;b>%2$d številk&lt;/b> od operaterja %1$s. To lahko traja nekaj časa.}}</string>
+    <string name="download_sub_title">{count,plural, =1{Dodajanje številke …}one{Dodajanje številk …}two{Dodajanje številk …}few{Dodajanje številk …}other{Dodajanje številk …}}</string>
+    <string name="download_sub_transform_title">Preverjanje storitve …</string>
+    <string name="download_switch_confirm_mep_dialog_message">V tej napravi sta lahko hkrati aktivni dve kartici SIM. Če želite prenesti in uporabiti drugo kartico SIM, izklopite aktivno kartico SIM.</string>
+    <string name="download_switch_confirm_mep_dialog_title">Za nadaljevanje izklopite eno od kartic SIM</string>
+    <string name="download_web_sub_text">To lahko traja kakšno minuto ali dve, včasih tudi dlje</string>
+    <string name="download_web_sub_title">Nastavljanje storitve …</string>
+    <string name="downloading_no_carrier_name_title">Prenašanje kartice e-SIM …</string>
+    <string name="downloading_with_carrier_name_title">Prenašanje kartice e-SIM operaterja %1$s …</string>
+    <string name="dsds_activation_failure_body_msg1">Kartico SIM odstranite in jo znova vstavite. Če s tem ne odpravite težave, znova zaženite napravo.</string>
+    <string name="dsds_activation_failure_body_msg2">Poskusite znova vklopiti kartico SIM. Če s tem ne odpravite težave, znova zaženite napravo.</string>
+    <string name="dsds_activation_failure_title">Kartice SIM ni mogoče aktivirati</string>
+    <string name="dsds_activation_text">Aktiviranje kartice SIM …</string>
+    <string name="dsds_activation_text_in_esim_activation">Posodabljanje …</string>
+    <string name="dsds_choose_number_text">V napravi je na voljo več številk (%1$d), vendar je hkrati mogoče uporabljati samo eno</string>
+    <string name="dsds_choose_number_title">Izberite, katero številko želite uporabiti</string>
+    <string name="dsds_choose_second_number_text">V tej napravi lahko hkrati uporabljate dve telefonski številki. Številka %1$s je že aktivna.</string>
+    <string name="dsds_choose_second_number_title">Izbira dodatne telefonske številke</string>
+    <string name="dsds_learn_more_button">Več o tem</string>
+    <string name="dsds_notification_after_reboot_text">Dotaknite se, če želite posodobiti nastavitve kartice SIM</string>
+    <string name="dsds_notification_after_reboot_text_carrier">Dotaknite se, če želite posodobiti nastavitve za operaterja %1$s</string>
+    <string name="dsds_notification_after_reboot_title_carrier">Operater %1$s je aktiven</string>
+    <string name="dsds_notification_after_reboot_title_phone">Telefonska številka %1$s je aktivna</string>
+    <string name="dsds_notification_after_suw_text">Izberite aktivno kartico SIM ali uporabljajte dve kartici SIM hkrati</string>
+    <string name="dsds_notification_after_suw_title">Nastavite drugo kartico SIM</string>
+    <string name="dsds_switch_dialog_no_switch_text">Prenos podatkov v mobilnem omrežju, funkcije klicanja in sporočila lahko nastavite tudi pozneje v omrežnih nastavitvah.</string>
+    <string name="dsds_switch_dialog_no_switch_title">Nobena aktivna kartica SIM ni na voljo</string>
+    <string name="dsds_switch_dialog_progress_text">Preklapljanje na operaterja %1$s …</string>
+    <string name="dsds_switch_dialog_text">Operater %1$s bo uporabljen za prenos podatkov v mobilnem omrežju, klice in sporočila SMS.</string>
+    <string name="dsds_switch_dialog_title">Želite uporabiti operaterja %1$s?</string>
+    <string name="eid_not_found">Številke EID naprave ni mogoče najti</string>
+    <string name="eid_number">Pokaži podrobnosti</string>
+    <string name="eid_qr_code_dialog_error_msg">Koda QR za EID ni na voljo.</string>
+    <string name="eid_qr_code_dialog_title">Številka EID naprave</string>
+    <string name="enable_carrier_dialog_text">"Ta naprava bo namesto z operaterjem %2$s vzpostavila povezavo z operaterjem %1$s.
+
+S tem ne boste prekinili nobenega naročniškega paketa za mobilno telefonijo."</string>
+    <string name="enable_carrier_dialog_text_from_removable">"Ta naprava bo namesto z operaterjem trenutne kartice SIM vzpostavila povezavo z operaterjem %1$s.
+
+S tem ne boste prekinili nobenega naročniškega paketa za mobilno telefonijo."</string>
+    <string name="enable_carrier_dialog_text_to_removable">"Ta naprava bo namesto z operaterjem %1$s vzpostavila povezavo z operaterjem vstavljene kartice SIM.
+
+S tem ne boste prekinili nobenega naročniškega paketa za mobilno telefonijo."</string>
+    <string name="enable_carrier_dialog_title">Želite preklopiti operaterja?</string>
+    <string name="enable_fail_text">Operaterja ni mogoče preklopiti zaradi napake.</string>
+    <string name="enable_fail_title">Operaterja ni mogoče preklopiti</string>
+    <string name="enable_profile_title">Omogoči</string>
+    <string name="enabling_carrier">Povezovanje z omrežjem …</string>
+    <string name="enter_manually_button">Vnesite jo ročno</string>
+    <string name="enter_qr_code_button_title">Ročni vnos kode</string>
+    <string name="erase_sim_confirm_button">Izbriši</string>
+    <string name="erase_sim_dialog_text">"Če izbrišete to kartico SIM, boste iz te naprave odstranili storitev operaterja %1$s.
+
+Storitev operaterja %1$s ne bo preklicana."</string>
+    <string name="erase_sim_dialog_title">Želite izbrisati to kartico e-SIM?</string>
+    <string name="erase_sim_fail_text">"Te kartice SIM ni mogoče izbrisati zaradi napake.
+
+Znova zaženite napravo in poskusite znova."</string>
+    <string name="erase_sim_fail_title">Kartice SIM ni mogoče izbrisati</string>
+    <string name="erasing_carriers">Ponastavljanje operaterjev …</string>
+    <string name="erasing_sim">Brisanje kartice SIM …</string>
+    <string name="error_code_text">Koda napake</string>
+    <string name="error_screen_title_multiple_carrier">Omrežja niso aktivirana</string>
+    <string name="error_screen_title_single_carrier">Omrežje %1$s ni aktivirano</string>
+    <string name="error_screen_title_single_carrier_no_name">Omrežje ni aktivirano</string>
+    <string name="esim_setup_channel_id">Aktivacija omrežja</string>
+    <string name="esim_warning_title">Prenesite kartico e-SIM</string>
+    <string name="esim_warning_txt_default">Ta možnost nadomesti standardne kartice SIM in je enako varna.</string>
+    <string name="esim_warning_txt_default_tmo_esim_primary">Prenesite podatke, ki so običajno na kartici SIM, da vzpostavite povezavo z mobilnim omrežjem. Ta možnost nadomesti standardne kartice SIM in je enako varna.</string>
+    <string name="euicc_settings_title">Nastavitve strojne opreme</string>
+    <string name="euicc_title">Upravitelj kartic SIM</string>
+    <string name="expand_button_title">Dodatno</string>
+    <string name="find_it_here">najdete tukaj</string>
+    <string name="get_default_sub_title">Preverjanje podatkov o omrežju …</string>
+    <string name="get_help_ask_for_eid_v2">Operater bo morda zahteval %1$s za prepoznavo tega telefona.</string>
+    <string name="get_help_skip_mobile_setup">Preskoči nastavitev mobilne storitve</string>
+    <string name="get_help_text">Ali telefonska številka ni prikazana? Za pomoč pokličite operaterja %1$s na številko %2$s</string>
+    <string name="get_help_text_multiple_carriers_no_phone">Če ima kateri od operaterjev več številk, kot ste pričakovali, se za pomoč obrnite nanj</string>
+    <string name="get_help_text_no_phone">Ali telefonska številka ni prikazana? Za pomoč se obrnite na operaterja %1$s.</string>
+    <string name="get_help_text_single_carrier">Če niste pričakovali toliko številk (%3$d), se za pomoč obrnite na operaterja %1$s na številki %2$s</string>
+    <string name="get_help_text_single_carrier_no_phone">Če niste pričakovali toliko številk (%2$d), se za pomoč obrnite na operaterja %1$s</string>
+    <string name="get_help_text_single_carrier_no_phone_with_eid">Če niste pričakovali toliko številk (%2$d), se za pomoč obrnite na operaterja %1$s. Za to napravo boste morda potrebovali številko EID:</string>
+    <string name="get_help_title">Pomoč pri nastavitvi</string>
+    <string name="get_metadata_fail_title">Podatkov o mobilnem omrežju ni bilo mogoče naložiti</string>
+    <string name="help_add_network_info1_msg1_v2">Ne uspete optično prebrati kode QR? %1$s.</string>
+    <string name="help_add_network_info2_msg1">Z omrežjem se lahko povežete tudi tako, da %1$s.</string>
+    <string name="help_add_network_info3">Ali težave še vedno ne morete odpraviti? Za pomoč se obrnite na operaterja omrežja na številko %1$s</string>
+    <string name="help_add_network_info3_no_phone">Ali težave še vedno ne morete odpraviti? Za pomoč se obrnite na operaterja omrežja.</string>
+    <string name="help_add_network_subtitle">Na listu, ki ste ga prejeli skupaj z napravo, ali v e-poštnem sporočilu, ki ste ga prejeli od operaterja, poiščite kodo QR.</string>
+    <string name="help_add_network_title">Pomoč pri dodajanju omrežja</string>
+    <string name="insert_psim_button">vstavite standardno kartico SIM</string>
+    <string name="insert_text">Če imate kartico SIM, jo zdaj vstavite.</string>
+    <string name="insert_title">Povezovanje z mobilnim omrežjem</string>
+    <string name="install_system_update_dialog_body_text">Za prenos kartice e-SIM boste potrebovali najnovejšo posodobitev sistema za ta telefon. To bo trajalo le nekaj minut.</string>
+    <string name="install_system_update_dialog_title">Ali želite namestiti posodobitev sistema?</string>
+    <string name="install_update_button">Namesti posodobitev</string>
+    <string name="insufficient_space_description_q">{count,plural, =1{Če želite uporabljati to telefonsko številko, morate najprej sprostiti prostor tako, da iz naprave izbrišete obstoječe številke. To lahko naredite pozneje v nastavitvah.}one{Če želite uporabljati te telefonske številke, morate najprej sprostiti prostor tako, da iz naprave izbrišete obstoječe številke. To lahko naredite pozneje v nastavitvah.}two{Če želite uporabljati te telefonske številke, morate najprej sprostiti prostor tako, da iz naprave izbrišete obstoječe številke. To lahko naredite pozneje v nastavitvah.}few{Če želite uporabljati te telefonske številke, morate najprej sprostiti prostor tako, da iz naprave izbrišete obstoječe številke. To lahko naredite pozneje v nastavitvah.}other{Če želite uporabljati te telefonske številke, morate najprej sprostiti prostor tako, da iz naprave izbrišete obstoječe številke. To lahko naredite pozneje v nastavitvah.}}</string>
+    <string name="legal_notices">%1$s, %2$s in %3$s</string>
+    <string name="low_battery_alert_body_text">Telefon priključite v vir napajanja, da ne bi prišlo do prekinitve posodabljanja.</string>
+    <string name="low_battery_alert_title">Baterija telefona je skoraj prazna</string>
+    <string name="manually_add_msg1_v2">Če imate kodo QR, %1$s. Če vas prodajno osebje vpraša za številko EID, jo%2$s.</string>
+    <string name="mobile_network_connection_alert_description">Če preskočite ta korak, povezava z mobilnim omrežjem ne bo vzpostavljena. Povezavo lahko vzpostavite pozneje tako, da v nastavitvah dodate kartico SIM.</string>
+    <string name="mobile_network_connection_alert_title">Želite preskočiti nastavljanje mobilnega omrežja?</string>
+    <string name="msg_choose_download_type">Izberite način za varno aktiviranje telefonske številke v tej napravi</string>
+    <string name="msg_install_app_notification">Dotaknite se, če želite nadaljevati</string>
+    <string name="msg_portal_intro">Prijaviti se boste morali z uporabniškim imenom in geslom za operaterja %1$s</string>
+    <string name="msg_sign_in_button">Prijava v storitev %1$s</string>
+    <string name="msg_transfer_type_portal">Potrebovali boste uporabniško ime in geslo</string>
+    <string name="msg_transfer_type_qr">Morda vam jo je poslal operater %1$s</string>
+    <string name="mtrl_checkbox_state_description_checked">Checked</string>
+    <string name="mtrl_checkbox_state_description_indeterminate">Partially checked</string>
+    <string name="mtrl_checkbox_state_description_unchecked">Not checked</string>
+    <string name="multiple_carrier_download_number_count">{count,plural, =1{1 številka}one{# številka}two{# številki}few{# številke}other{# številk}}</string>
+    <string name="next_button">Naprej</string>
+    <string name="no_licenses_found_error">Licenc ni mogoče najti zaradi napake.</string>
+    <string name="no_qr_code_info_insert_btn">Namesto tega vstavite kartico SIM</string>
+    <string name="no_qr_code_info_text">Na listu, ki ste ga prejeli skupaj z napravo, ali v e-poštnem sporočilu, ki ste ga prejeli od operaterja, poiščite kodo QR. Če nimate kode QR, dodajte operaterja pozneje.</string>
+    <string name="no_qr_code_scan_button">Preberi kodo QR</string>
+    <string name="no_qr_code_title">Možnosti nastavitve</string>
+    <string name="no_thanks_button">Ne, hvala</string>
+    <string name="no_wifi_dialog_message">To boste potrebovali za prenos kartice SIM</string>
+    <string name="no_wifi_dialog_title">Vzpostavite povezavo z omrežjem Wi-Fi</string>
+    <string name="not_set">Ni nastavljeno</string>
+    <string name="notification_carrier_unknown">{count,plural, =1{1 dodatna številka je pripravljena za dodajanje}one{# dodatna številka je pripravljena za dodajanje}two{# dodatni številki sta pripravljeni za dodajanje}few{# dodatne številke so pripravljene za dodajanje}other{# dodatnih številk je pripravljenih za dodajanje}}</string>
+    <string name="notification_channel_ota_update">Posodobitve operaterja</string>
+    <string name="notification_multiple_carrier_name_known">{count,plural, =1{Številka od operaterja %1$s in %2$d dodatna številka sta pripravljeni za dodajanje}one{Številke od operaterja %1$s in %2$d dodatna številka so pripravljene za dodajanje}two{Številke od operaterja %1$s in %2$d dodatni številki so pripravljene za dodajanje}few{Številke od operaterja %1$s in %2$d dodatne številke so pripravljene za dodajanje}other{Številke od operaterja %1$s in %2$d dodatnih številk so pripravljene za dodajanje}}</string>
+    <string name="notification_single_carrier_name_known">{count,plural, =1{Številka od operaterja %1$s je pripravljena za dodajanje}one{Številke od operaterja %1$s so pripravljene za dodajanje}two{Številki od operaterja %1$s sta pripravljeni za dodajanje}few{Številke od operaterja %1$s so pripravljene za dodajanje}other{Številke od operaterja %1$s so pripravljene za dodajanje}}</string>
+    <string name="notification_tap_setup">Dotaknite se, če želite nastaviti</string>
+    <string name="open_source_licenses">Odprtokodne licence</string>
+    <string name="operation_code_text">Koda operacije</string>
+    <string name="os_version">Različica OS</string>
+    <string name="ota_error_notification_msg">Mobilna storitev bo spet začela delovati po vnovičnem zagonu.</string>
+    <string name="ota_error_notification_title">Posodobitev operaterja ni uspela</string>
+    <string name="ota_notification_msg">Mobilna storitev bo spet začela delovati po posodobitvi.</string>
+    <string name="ota_notification_title">Zaključevanje posodobitve operaterja …</string>
+    <string name="perm_error_description_q">{count,plural, =1{Pri poskusu aktiviranja številke je prišlo do napake. Za pomoč pokličite operaterja %1$s na številko %2$s.}one{Pri poskusu aktiviranja številk je prišlo do napake. Za pomoč pokličite operaterja %1$s na številko %2$s.}two{Pri poskusu aktiviranja številk je prišlo do napake. Za pomoč pokličite operaterja %1$s na številko %2$s.}few{Pri poskusu aktiviranja številk je prišlo do napake. Za pomoč pokličite operaterja %1$s na številko %2$s.}other{Pri poskusu aktiviranja številk je prišlo do napake. Za pomoč pokličite operaterja %1$s na številko %2$s.}}</string>
+    <string name="perm_error_description_q_multi_carrier">Pri poskusu aktiviranja telefonskih številk je prišlo do napake. Za pomoč se obrnite na operaterje omrežij.</string>
+    <string name="perm_error_description_q_no_phone">{count,plural, =1{Pri poskusu aktiviranja številke je prišlo do napake. Za pomoč se obrnite na operaterja %1$s.}one{Pri poskusu aktiviranja številk je prišlo do napake. Za pomoč se obrnite na operaterja %1$s.}two{Pri poskusu aktiviranja številk je prišlo do napake. Za pomoč se obrnite na operaterja %1$s.}few{Pri poskusu aktiviranja številk je prišlo do napake. Za pomoč se obrnite na operaterja %1$s.}other{Pri poskusu aktiviranja številk je prišlo do napake. Za pomoč se obrnite na operaterja %1$s.}}</string>
+    <string name="perm_error_description_q_no_phone_no_carrier_name">{count,plural, =1{Pri poskusu aktiviranja številke je prišlo do napake. Za pomoč se obrnite na operaterja omrežja.}one{Pri poskusu aktiviranja številk je prišlo do napake. Za pomoč se obrnite na operaterje omrežij.}two{Pri poskusu aktiviranja številk je prišlo do napake. Za pomoč se obrnite na operaterje omrežij.}few{Pri poskusu aktiviranja številk je prišlo do napake. Za pomoč se obrnite na operaterje omrežij.}other{Pri poskusu aktiviranja številk je prišlo do napake. Za pomoč se obrnite na operaterje omrežij.}}</string>
+    <string name="perm_error_q_sub2_eid">Za to napravo boste morda potrebovali %1$s</string>
+    <string name="pixel_support_page_button">stran s podporo za telefone Pixel</string>
+    <string name="pre_activation_ota_update_complete_subtitle">Programska oprema je bila uspešno posodobljena. Zdaj lahko nadaljujete prenos kartice e-SIM.</string>
+    <string name="pre_activation_ota_update_complete_title">Posodobitev je končana</string>
+    <string name="pre_activation_ota_update_error_msg1">Telefon ne omogoča prenosa kartice e-SIM.</string>
+    <string name="pre_activation_ota_update_error_msg2_v2">"Uporabite lahko tudi kartico SIM ali pa za pomoč obiščite
+%1$s."</string>
+    <string name="pre_activation_ota_update_error_title">Posodobitev ni končana</string>
+    <string name="pre_activation_ota_update_subtitle">Dokončano: %1$d %%. Med posodabljanjem ne zapuščajte tega zaslona.</string>
+    <string name="pre_activation_ota_update_title">Posodabljanje …</string>
+    <string name="pre_activation_ota_user_consent_msg1">Za prenos kartice e-SIM potrebujete najnovejši upravitelj kartic SIM. To bo trajalo 4–5 minut.</string>
+    <string name="pre_activation_ota_user_consent_msg2">Ne zapustite tega zaslona, da ne bi prišlo do prekinitve posodabljanja. Med posodabljanjem je mogoče opravljati le klice v sili.</string>
+    <string name="pre_activation_ota_user_consent_title">Ali želite posodobiti programsko opremo za kartico e-SIM?</string>
+    <string name="preference_copied">»%1$s« je bilo kopirano v odložišče.</string>
+    <string name="privacy_policy">Pravilnik o zasebnosti</string>
+    <string name="privacy_warning_message">Če nadaljujete, dovolite operaterju %1$s preverjanje podatkov za prepoznavo te naprave v omrežju.</string>
+    <string name="privileged_action_disable_sub_dialog_progress">Izklapljanje kartice SIM …</string>
+    <string name="privileged_action_disable_sub_dialog_text">Z izklopom operaterja %1$s boste aktivirali operaterja %2$s.</string>
+    <string name="privileged_action_disable_sub_dialog_title">Želite izklopiti kartico %1$s?</string>
+    <string name="privileged_action_enable_sub_dialog_title">Želite vklopiti storitev operaterja %1$s?</string>
+    <string name="privileged_action_switch_psim_dialog_title">Želite preklopiti na uporabo kartice SIM?</string>
+    <string name="privileged_action_switch_sub_dialog_confirm">Preklopi na operaterja %1$s</string>
+    <string name="privileged_action_switch_sub_dialog_progress">Preklapljanje na operaterja %1$s</string>
+    <string name="privileged_action_switch_sub_dialog_text">"Hkrati je lahko aktivna samo ena kartica SIM.
+
+Če preklopite na operaterja %1$s, ne boste preklicali storitve operaterja %2$s."</string>
+    <string name="privileged_action_switch_sub_dialog_text_downloaded">"Hkrati je lahko aktivna samo ena kartica e-SIM.
+
+Če preklopite na operaterja %1$s, ne boste preklicali storitve operaterja %2$s."</string>
+    <string name="privileged_action_switch_sub_dialog_text_no_to">"Hkrati je lahko aktivna samo ena kartica SIM.
+
+Če preklopite, ne boste preklicali storitve operaterja %1$s."</string>
+    <string name="privileged_action_switch_sub_dialog_title">Želite preklopiti na operaterja %1$s?</string>
+    <string name="privileged_action_turn_on_sub_dialog_progress">Vklapljanje naročnine pri operaterju %1$s</string>
+    <string name="profile_disabled">Onemogočeno</string>
+    <string name="profile_disabled_confirmation_body_text">Če želite aktivirati kartico e-SIM, vnesite kodo PIN.</string>
+    <string name="profile_disabled_confirmation_title">Kartica e-SIM je onemogočena</string>
+    <string name="profile_enabled">Omogočeno</string>
+    <string name="profile_enabled_with_phone_number">Omogočeno, %1$s</string>
+    <string name="profile_list_action_bar_title">Operater</string>
+    <string name="profile_transfer_activation_fail_available_phone_number_description">"Prišlo je do napake. Kartica SIM %1$s je bila prenesena v to napravo, vendar ni pripravljena za uporabo. 
+
+ Za pomoč pokličite operaterja %2$s na številko %3$s..
+
+Morda boste potrebovali številko EID za to napravo:
+
+%4$s"</string>
+    <string name="profile_transfer_activation_fail_available_phone_number_title">Številke ni mogoče aktivirati</string>
+    <string name="profile_transfer_activation_fail_unavailable_phone_number_description">"Prišlo je do napake. Številka %2$s (%1$s) je bila prenesena v to napravo, vendar ni povezana v omrežje. 
+
+ Za pomoč pokličite operaterja %3$s na številko %4$s..
+
+Morda boste potrebovali številko EID za to napravo:
+
+%5$s"</string>
+    <string name="profile_transfer_activation_fail_unavailable_phone_number_title">Mobilnega omrežja ni mogoče aktivirati</string>
+    <string name="profile_transfer_connecting_description">Vzpostavljanje povezave …</string>
+    <string name="profile_transfer_downloading_deferred_notification_content">Vzpostavljanje povezave s strežnikom operaterja %1$s …</string>
+    <string name="profile_transfer_downloading_deferred_notification_title">Prenašanje kartice operaterja %1$s</string>
+    <string name="profile_transfer_error_deferred_notification_title">Kartice operaterja %1$s ni bilo mogoče prenesti</string>
+    <string name="profile_transfer_error_title">Kartice SIM operaterja %1$s ni bilo mogoče prenesti</string>
+    <string name="profile_transfer_non_recoverable_error_deferred_notification_action">Več o tem</string>
+    <string name="profile_transfer_non_recoverable_error_deferred_notification_content">Pri poskusu prenosa kartice SIM je prišlo do napake. Za pomoč pokličite operaterja %1$s na številko %2$s.</string>
+    <string name="profile_transfer_non_recoverable_error_description">"Pri poskusu prenosa kartice SIM je prišlo do napake. Za pomoč pokličite operaterja %1$s na številko %2$s.
+
+Morda boste potrebovali številko EID za to napravo:
+
+%3$s"</string>
+    <string name="profile_transfer_recoverable_error_deferred_notification_content">Pri poskusu prenosa kartice SIM je prišlo do napake. Če želite odpraviti to napako, lahko poskusite znova.</string>
+    <string name="profile_transfer_recoverable_error_description">Pri poskusu prenosa kartice SIM je prišlo do napake.</string>
+    <string name="profile_transfer_retry_button">Poskusi znova</string>
+    <string name="profile_transfer_success_deferred_notification_content">Telefonska številka %1$s je pripravljena za uporabo.</string>
+    <string name="profile_transfer_success_deferred_notification_title">Prenos kartice SIM je uspel</string>
+    <string name="profile_transfer_suw_recoverable_error_description">Pri poskusu prenosa kartice SIM je prišlo do napake. Če želite odpraviti to napako, lahko poskusite znova.</string>
+    <string name="psim_guide_dialog_message">Ob robu telefona poiščite nosilec kartice SIM. Nosilec iztaknite z orodjem za izmet kartice SIM ali s sponko za papir in vstavite kartico SIM.</string>
+    <string name="psim_guide_dialog_title">Vstavljanje kartice SIM</string>
+    <string name="q_download_sub_text">To lahko traja nekaj minut.</string>
+    <string name="q_download_sub_title">Vzpostavljanje povezave z operaterjem %1$s …</string>
+    <string name="q_multiple_carrier_confirm_title">Izberite omrežja, ki jih želite aktivirati</string>
+    <string name="q_multiple_carrier_metadata_confirm_subtitle">{count,plural, =1{Za to napravo je na voljo 1 številka. Ob aktiviranju vam bo operater omrežja morda začel zaračunavati storitev.}one{Za to napravo je na voljo # številka. Ob aktiviranju vam bo operater omrežja morda začel zaračunavati storitev.}two{Za to napravo sta na voljo # številki. Ob aktiviranju vam bo operater omrežja morda začel zaračunavati storitev.}few{Za to napravo so na voljo # številke. Ob aktiviranju vam bo operater omrežja morda začel zaračunavati storitev.}other{Za to napravo je na voljo # številk. Ob aktiviranju vam bo operater omrežja morda začel zaračunavati storitev.}}</string>
+    <string name="q_result_download_metadata_text">{count,plural, =1{Za to napravo je na voljo ena številka od operaterja %1$s. Ob vzpostavitvi povezave vam bo operater %1$s morda začel zaračunavati storitev.}one{Za to napravo je na voljo # številka od operaterja %1$s. Ob vzpostavitvi povezave vam bo operater %1$s morda začel zaračunavati storitev.}two{Za to napravo sta na voljo # številki od operaterja %1$s. Ob vzpostavitvi povezave vam bo operater %1$s morda začel zaračunavati storitev.}few{Za to napravo so na voljo # številke od operaterja %1$s. Ob vzpostavitvi povezave vam bo operater %1$s morda začel zaračunavati storitev.}other{Za to napravo je na voljo # številk od operaterja %1$s. Ob vzpostavitvi povezave vam bo operater %1$s morda začel zaračunavati storitev.}}</string>
+    <string name="qr_scanner_end_button">Ne najdete kode?</string>
+    <string name="qr_scanner_failed_msg">V fotoaparatu je prišlo do napake. Poskusite znova pozneje.</string>
+    <string name="qr_scanner_failed_title">Fotoaparat ni na voljo</string>
+    <string name="qr_scanner_msg">Če vam je operater dal kodo QR, jo zdaj optično preberite in jo pri tem držite na sredini polja</string>
+    <string name="qr_scanner_msg_q">Če vam je operater %1$s dal kodo QR, jo zdaj optično preberite in jo pri tem držite na sredini polja</string>
+    <string name="qr_scanner_msg_q_no_carrier_name">Če vam je operater omrežja dal kodo QR, jo zdaj optično preberite in jo pri tem držite na sredini polja.</string>
+    <string name="qr_scanner_title">Dodaj operaterja s kodo QR</string>
+    <string name="qr_scanner_title_q">Optično preberite kodo QR za %1$s</string>
+    <string name="qr_scanner_title_q_no_carrier_name">Optično preberite kodo QR omrežja</string>
+    <string name="reactivate_error_dialog_body">Pri poskusu aktiviranja telefonske številke je prišlo do napake. Poskusite znova pozneje ali znova vstavite kartico SIM.</string>
+    <string name="reactivate_error_dialog_title_with_carrier_name">Omrežje %1$s ni aktivirano</string>
+    <string name="reactivate_error_dialog_title_without_carrier_name">Kartica SIM ni aktivirana</string>
+    <string name="reason_code_text">Koda razloga</string>
+    <string name="reboot_button_title">Ponovni zagon telefona</string>
+    <string name="remove_carrier_dialog_text_disabled">"Ta naprava ne bo več mogla vzpostaviti povezave z operaterjem %1$s.
+
+S tem ne boste prekinili nobenega naročniškega paketa za mobilno telefonijo."</string>
+    <string name="remove_carrier_dialog_text_enabled">"Povezava z omrežjem operaterja %1$s v tej napravi bo takoj prekinjena.
+
+S tem ne boste prekinili nobenega naročniškega paketa za mobilno telefonijo."</string>
+    <string name="remove_carrier_dialog_title">Želite izbrisati operaterja?</string>
+    <string name="remove_fail_text">Prišlo je do napake, operaterja ni bilo mogoče izbrisati.</string>
+    <string name="remove_fail_title">Operaterja ni mogoče izbrisati</string>
+    <string name="remove_profile_title">Izbriši</string>
+    <string name="removing_carrier">Brisanje operaterja …</string>
+    <string name="res_activate_profile_later_button">Poznejše aktiviranje</string>
+    <string name="res_activation_button">Poveži</string>
+    <string name="res_continue_info1_general_multi_carriers">{count,plural, =1{Žal ni bilo mogoče dodati številk od operaterja %1$s in %2$d drugega operaterja.}one{Žal ni bilo mogoče dodati številk od operaterja %1$s in %2$d drugega operaterja.}two{Žal ni bilo mogoče dodati številk od operaterja %1$s in %2$d drugih operaterjev.}few{Žal ni bilo mogoče dodati številk od operaterja %1$s in %2$d drugih operaterjev.}other{Žal ni bilo mogoče dodati številk od operaterja %1$s in %2$d drugih operaterjev.}}</string>
+    <string name="res_continue_info1_general_no_carrier">{count,plural, =1{Žal ni bilo mogoče dodati &lt;b>1 številke&lt;/b> od operaterja.}one{Žal ni bilo mogoče dodati številk od nobenega operaterja.}two{Žal ni bilo mogoče dodati številk od nobenega operaterja.}few{Žal ni bilo mogoče dodati številk od nobenega operaterja.}other{Žal ni bilo mogoče dodati številk od nobenega operaterja.}}</string>
+    <string name="res_continue_info1_general_single_carrier">{count,plural, =1{Žal ni bilo mogoče dodati &lt;b>%2$d številke&lt;/b> od operaterja %1$s.}one{Žal ni bilo mogoče dodati &lt;b>%2$d številke&lt;/b> od operaterja %1$s.}two{Žal ni bilo mogoče dodati &lt;b>%2$d številk&lt;/b> od operaterja %1$s.}few{Žal ni bilo mogoče dodati &lt;b>%2$d številk&lt;/b> od operaterja %1$s.}other{Žal ni bilo mogoče dodati &lt;b>%2$d številk&lt;/b> od operaterja %1$s.}}</string>
+    <string name="res_continue_info1_no_mem_multi_carriers">{count,plural, =1{Za dodajanje številk od operaterja %1$s in %2$d drugega operaterja ni bilo dovolj prostora.}one{Za dodajanje številk od operaterja %1$s in %2$d drugega operaterja ni bilo dovolj prostora.}two{Za dodajanje številk od operaterja %1$s in %2$d drugih operaterjev ni bilo dovolj prostora.}few{Za dodajanje številk od operaterja %1$s in %2$d drugih operaterjev ni bilo dovolj prostora.}other{Za dodajanje številk od operaterja %1$s in %2$d drugih operaterjev ni bilo dovolj prostora.}}</string>
+    <string name="res_continue_info1_no_mem_no_carrier">{count,plural, =1{Za dodajanje &lt;b>1 številke&lt;/b> ni bilo dovolj prostora.}one{Ni bilo dovolj prostora za dodajanje številk od nobenega operaterja.}two{Ni bilo dovolj prostora za dodajanje številk od nobenega operaterja.}few{Ni bilo dovolj prostora za dodajanje številk od nobenega operaterja.}other{Ni bilo dovolj prostora za dodajanje številk od nobenega operaterja.}}</string>
+    <string name="res_continue_info1_no_mem_single_carrier">{count,plural, =1{Za dodajanje &lt;b>%2$d številke&lt;/b> od operaterja %1$s ni bilo dovolj prostora.}one{Za dodajanje &lt;b>%2$d številke&lt;/b> od operaterja %1$s ni bilo dovolj prostora.}two{Za dodajanje &lt;b>%2$d številk&lt;/b> od operaterja %1$s ni bilo dovolj prostora.}few{Za dodajanje &lt;b>%2$d številk&lt;/b> od operaterja %1$s ni bilo dovolj prostora.}other{Za dodajanje &lt;b>%2$d številk&lt;/b> od operaterja %1$s ni bilo dovolj prostora.}}</string>
+    <string name="res_continue_info_item_2">Če mobilna storitev ni na voljo, se za pomoč obrnite na operaterja %1$s</string>
+    <string name="res_continue_info_item_2_no_carrier_name">Če nimate dostopa do mobilnega omrežja, se za pomoč obrnite na operaterja.</string>
+    <string name="res_continue_text_partial_complete_multiple_carriers">{count,plural, =1{Dodali ste &lt;b>več številk (%1$d)&lt;/b> od operaterjev %2$s in %3$s}=2{Dodali ste &lt;b>več številk (%1$d)&lt;/b> od operaterjev %2$s, %3$s in %4$d drugih operaterjev}one{Dodali ste &lt;b>več številk (%1$d)&lt;/b> od operaterjev %2$s, %3$s in %4$d drugega operaterja}two{Dodali ste &lt;b>več številk (%1$d)&lt;/b> od operaterjev %2$s, %3$s in %4$d drugih operaterjev}few{Dodali ste &lt;b>več številk (%1$d)&lt;/b> od operaterjev %2$s, %3$s in %4$d drugih operaterjev}other{Dodali ste &lt;b>več številk (%1$d)&lt;/b> od operaterjev %2$s, %3$s in %4$d drugih operaterjev}}</string>
+    <string name="res_continue_text_partial_complete_single_carrier">{count,plural, =1{Dodali ste &lt;b>%1$d številko&lt;/b> od operaterja %2$s}one{Dodali ste &lt;b>%1$d številko&lt;/b> od operaterja %2$s}two{Dodali ste &lt;b>%1$d številki&lt;/b> od operaterja %2$s}few{Dodali ste &lt;b>%1$d številke&lt;/b> od operaterja %2$s}other{Dodali ste &lt;b>%1$d številk&lt;/b> od operaterja %2$s}}</string>
+    <string name="res_continue_title_all_success">{count,plural, =1{Telefonska številka je bila dodana}one{# številka je bila dodana}two{# številki sta bili dodani}few{# številke so bile dodane}other{# številk je bilo dodanih}}</string>
+    <string name="res_continue_title_partial_success">Dodane številke: %1$d od %2$d</string>
+    <string name="res_download_button">Prenesi</string>
+    <string name="res_enter_pin_button">Vnesite kodo PIN</string>
+    <string name="res_need_help_button">Potrebujete pomoč?</string>
+    <string name="res_start_button">Začni</string>
+    <string name="reset_button">Ponastavi</string>
+    <string name="reset_dialog_carriers_body">Želite iz naprave izbrisati vse operaterje? Tega dejanja ni mogoče razveljaviti.</string>
+    <string name="reset_dialog_carriers_title">Želite ponastaviti operaterje?</string>
+    <string name="reset_fail_text">Prišlo je do napake, operaterjev ni bilo mogoče ponastaviti.</string>
+    <string name="reset_fail_title">Operaterjev ni mogoče ponastaviti</string>
+    <string name="reset_screen_text_bottom">S tem ne boste prekinili nobenega naročniškega paketa za mobilno telefonijo.</string>
+    <string name="reset_screen_text_top">S tem boste iz naprave odstranili vse operaterje:</string>
+    <string name="reset_screen_title">Ponastavitev operaterjev</string>
+    <string name="result_connect_title">Želite vzpostaviti povezavo z operaterjem %1$s?</string>
+    <string name="result_download_metadata_text">{count,plural, =1{Za to napravo je na voljo ena številka od operaterja %1$s.}one{Za to napravo je na voljo # številka od operaterja %1$s.}two{Za to napravo sta na voljo # številki od operaterja %1$s.}few{Za to napravo so na voljo # številke od operaterja %1$s.}other{Za to napravo je na voljo # številk od operaterja %1$s.}}</string>
+    <string name="result_download_text">{count,plural, =1{Številka od operaterja %1$s je pripravljena za dodajanje v telefon}one{&lt;b>%2$d številka&lt;/b> od operaterja %1$s je pripravljena za dodajanje v telefon}two{&lt;b>%2$d številki&lt;/b> od operaterja %1$s sta pripravljeni za dodajanje v telefon}few{&lt;b>%2$d številke&lt;/b> od operaterja %1$s so pripravljene za dodajanje v telefon}other{&lt;b>%2$d številk&lt;/b> od operaterja %1$s je pripravljenih za dodajanje v telefon}}</string>
+    <string name="result_download_title">Želite prenesti kartico e-SIM operaterja %1$s?</string>
+    <string name="scan_it_now">jo optično preberite zdaj</string>
+    <string name="send_feedback">Pošljite povratne informacije</string>
+    <string name="set_up_button">Set up</string>
+    <string name="settings_gear_label">Nastavitve</string>
+    <string name="sim_action_switch_sub_dialog_carrier_list_item_for_turning_off">Izklop operaterja %1$s</string>
+    <string name="sim_action_switch_sub_dialog_info_outline_for_turning_off">Z izklopom kartice SIM ne boste preklicali storitve operaterja.</string>
+    <string name="sim_card_label">Kartica SIM</string>
+    <string name="sim_illustration_bottom_alt_text">Zaslon imejte obrnjen proti sebi in poiščite vrata za polnjenje. Nosilec kartice SIM je pri dnu telefona, levo od vrat za polnjenje. Nosilec je plosk in ima na vsaki strani majhne brazde. Na levi strani nosilca je majhna luknja. Nosilec odprete tako, da v luknjo vstavite konec sponke ali orodje za izmet kartice SIM. Kartico SIM vstavite tako, da njeno zarezo poravnate z nosilcem. Kartica se prilega samo, ko je pravilno obrnjena.</string>
+    <string name="sim_illustration_bottom_left_alt_text">Zaslon imejte obrnjen proti sebi in poiščite vrata za polnjenje. Prst premaknite navzgor po levi strani telefona. Nosilec kartice SIM je plosk in ima na vsaki strani majhne brazde. Pri vrhu nosilca je majhna luknja. Nosilec odprete tako, da v luknjo vstavite konec sponke ali orodje za izmet kartice SIM. Kartico SIM vstavite tako, da njeno zarezo poravnate z nosilcem. Kartica se prilega samo, ko je pravilno obrnjena.</string>
+    <string name="sim_illustration_top_left_alt_text">Zaslon imejte obrnjen proti sebi in poiščite vrata za polnjenje. Prst premaknite navzgor po levi strani telefona. Nosilec kartice SIM je plosk in ima na vsaki strani majhne brazde. Pri vrhu nosilca je majhna luknja. Nosilec odprete tako, da v luknjo vstavite konec sponke ali orodje za izmet kartice SIM. Kartico SIM vstavite tako, da njeno zarezo poravnate z nosilcem. Kartica se prilega samo, ko je pravilno obrnjena.</string>
+    <string name="sim_locked_text">"Ta telefon je trenutno zaklenjen na drugega operaterja. Potrebujete veljavno kartico SIM.
+
+Ko dodate kartico SIM, bo aktiviranje morda trajalo nekaj sekund."</string>
+    <string name="sim_locked_title">Kartica SIM ni podprta</string>
+    <string name="sim_missing_activity_esim_button_title">Prenesite novo kartico e-SIM</string>
+    <string name="sim_missing_activity_esim_transfer_button_title">Prenos kartice e-SIM iz starega telefona</string>
+    <string name="sim_missing_activity_psim_hint">Naučite se uporabljati kartico SIM</string>
+    <string name="sim_missing_activity_subtitle_no_psim">Prenesite kartico e-SIM ali vstavite kartico SIM zdaj.</string>
+    <string name="sim_missing_activity_subtitle_psim_exists">"Če želite dodati še eno kartico SIM, prenesite novo kartico e-SIM.
+
+Če želite uporabiti drugo kartico SIM, najprej odstranite tisto, ki je trenutno v telefonu"</string>
+    <string name="sim_missing_activity_subtitle_tmo_esim_primary">Kartico e-SIM lahko prenesete. Če pa imate kartico SIM, jo vstavite zdaj.</string>
+    <string name="sim_missing_activity_subtitle_with_psim">Preden boste lahko uporabili novo kartico SIM, morate vstavljeno kartico odstraniti iz naprave.</string>
+    <string name="sim_missing_activity_with_tmo_esim_primary_button_title">Prenos kartice SIM</string>
+    <string name="sim_ready_message">V tem telefonu je že bila nastavljena številka.</string>
+    <string name="sim_ready_message_carrier_app">Za dokončanje aktiviranja telefonske številke %1$s morate prenesti aplikacijo operaterja %2$s. Najprej pa dokončajmo nastavitev vašega telefona.</string>
+    <string name="sim_ready_message_invalid_phone_number_carrier_app">Za dokončanje aktiviranja telefonske številke morate prenesti aplikacijo operaterja %1$s. Najprej pa dokončajmo nastavitev vašega telefona.</string>
+    <string name="sim_ready_title">Kartica e-SIM je bila najdena</string>
+    <string name="sim_ready_title_carrier_app">Povezavo z omrežjem %1$s vzpostavite pozneje</string>
+    <string name="skip_button">Preskoči</string>
+    <string name="status_title">Stanje</string>
+    <string name="subject_code_text">Koda predmeta</string>
+    <string name="sud_back_button_label">Nazaj</string>
+    <string name="sud_more_button_label">Več</string>
+    <string name="sud_next_button_label">Naprej</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="suw_carrier_support_to_complete_activation_no_carrier_v2">Če želite aktivirati storitev, se za pomoč obrnite na operaterja.</string>
+    <string name="suw_default_failed_msg_no_carrier">Žal je prišlo do neznane napake, zato nobena telefonska številka ni bila dodana.</string>
+    <string name="suw_failed_title">Nastavitev ni dokončana</string>
+    <string name="suw_pii_sent_msg">Nekateri podatki o napravi, ki so potrebni za nastavitev, bodo poslani Googlu, vašemu operaterju in partnerjem.</string>
+    <string name="suw_setting_up_phone_info">Še manj kot minuta</string>
+    <string name="suw_setting_up_phone_title">Nastavljanje telefona …</string>
+    <string name="suw_sim_missing_activity_for_delayed_setup_decription">"When you're done setting up your phone, go to Settings to connect to your mobile network. Or, if you have a SIM card, insert it now."</string>
+    <string name="suw_sim_missing_activity_for_delayed_setup_title">Connect to mobile network after setup</string>
+    <string name="switch_button">Preklopi</string>
+    <string name="switch_confirm_mep_dialog_message">V tej napravi sta lahko hkrati aktivni dve kartici SIM.</string>
+    <string name="switch_confirm_mep_dialog_title">Za uporabo operaterja %1$s izklopite eno od kartic SIM</string>
+    <string name="switch_confirm_message">Povezava z operaterjem %1$s bo začasno prekinjena</string>
+    <string name="switch_confirm_message_no_carrier">Povezava z mobilnim omrežjem bo začasno prekinjena</string>
+    <string name="switch_confirm_new_title">Uporaba povezave Wi-Fi za prenos kartice SIM</string>
+    <string name="switch_confirm_no_active_profile_message">Operaterju omrežja dovolite prenos kartice SIM.</string>
+    <string name="switch_confirm_no_active_profile_title">Vaša kartica SIM bo kmalu prenesena</string>
+    <string name="switch_confirm_no_wifi_message">To vam omogoča, da uporabite drugo omrežje</string>
+    <string name="switch_confirm_no_wifi_title">Želite prekiniti povezavo z operaterjem %1$s?</string>
+    <string name="switch_confirm_no_wifi_title_no_carrier">Želite prekiniti povezavo z mobilnim omrežjem?</string>
+    <string name="switch_restriction_message_to_connect_to">Če želite operaterja %1$s zamenjati z operaterjem %2$s, najprej odstranite kartico SIM operaterja %1$s in nato poskusite znova.</string>
+    <string name="switch_restriction_message_to_switch_from">Če želite zamenjati operaterja %1$s, najprej odstranite kartico SIM operaterja %1$s in nato poskusite znova.</string>
+    <string name="switch_restriction_title_remove_sim">Odstranite kartico SIM</string>
+    <string name="sys_notification_5g_enable_dsds_text">"V tej napravi sta lahko hkrati aktivni dve kartici SIM.
+
+Ko uporabljate dve kartici SIM, lahko ta telefon vzpostavi povezavo samo z omrežjem 4G. %1$s"</string>
+    <string name="sys_notification_after_dsds_reboot_text">Dotaknite se, če želite dokončati aktiviranje druge kartice SIM</string>
+    <string name="sys_notification_after_dsds_reboot_title">Pripravljeno na hkratno uporabo dveh kartic SIM</string>
+    <string name="sys_notification_enable_dsds_text">V tej napravi sta lahko hkrati aktivni dve kartici SIM. Če želite še naprej uporabljati samo eno kartico SIM, se dotaknite »Ne, hvala«.</string>
+    <string name="sys_notification_enable_dsds_title">Želite uporabljati dve kartici SIM?</string>
+    <string name="sys_notification_no_thanks">Ne, hvala</string>
+    <string name="sys_notification_reboot">Znova zaženi</string>
+    <string name="sys_notification_restart_text">Če želite začeti, znova zaženite napravo. Nato boste lahko dodali še eno kartico SIM.</string>
+    <string name="sys_notification_restart_title">Želite znova zagnati napravo?</string>
+    <string name="sys_notification_selected_text">Mobilno omrežje je spremenjeno</string>
+    <string name="sys_notification_switched_title">Preklopljeno na %1$s</string>
+    <string name="sys_notification_switched_title_no_carrier_name">Preklopljeno na drugega operaterja</string>
+    <string name="sys_notification_title">Preklop operaterja</string>
+    <string name="temp_error_description_q">{count,plural, =1{Pri poskusu aktiviranja številke je prišlo do napake. Poskusite znova pozneje v nastavitvah.}one{Pri poskusu aktiviranja številk je prišlo do napake. Poskusite znova pozneje v nastavitvah.}two{Pri poskusu aktiviranja številk je prišlo do napake. Poskusite znova pozneje v nastavitvah.}few{Pri poskusu aktiviranja številk je prišlo do napake. Poskusite znova pozneje v nastavitvah.}other{Pri poskusu aktiviranja številk je prišlo do napake. Poskusite znova pozneje v nastavitvah.}}</string>
+    <string name="terms_of_service">Pogoji storitve</string>
+    <string name="text_bottom_transfer_carrier_info">Ali vaš operater ni prikazan? Za pomoč se obrnite na operaterja.</string>
+    <string name="title_app_required">Povezavo z omrežjem operaterja %1$s vzpostavite pozneje</string>
+    <string name="title_cannot_connect_to_network_no_name">Povezava z omrežjem ni mogoča</string>
+    <string name="title_cannot_download">Kartice SIM ni mogoče prenesti</string>
+    <string name="title_choose_download_type">Aktivirajte telefonsko številko operaterja %1$s</string>
+    <string name="title_choose_transfer_type">Izberite način za prenos številke operaterja %1$s</string>
+    <string name="title_incorrect_qr_code">Napačna koda QR</string>
+    <string name="title_install_app_notification">Za nastavitev telefonske številke prenesite aplikacijo operaterja %1$s</string>
+    <string name="title_network_not_activated">Omrežje ni aktivirano</string>
+    <string name="title_no_connection">Internet ni dosegljiv</string>
+    <string name="title_portal_intro">Prenesite številko operaterja %1$s</string>
+    <string name="title_profile_already_downloaded">Kartica SIM je že bila prenesena</string>
+    <string name="title_transfer_type_portal">Prijavite se v račun operaterja %1$s</string>
+    <string name="title_transfer_type_qr">Optično preberite kodo QR</string>
+    <string name="transfer_button">Prenos</string>
+    <string name="transfer_device_transfer_error">(ni mogoče prenesti)</string>
+    <string name="transfer_in_device_name">V napravo %1$s%2$s</string>
+    <string name="transfer_profile_downloading_description">Lahko nadaljujete z nastavljanjem naprave %1$s.</string>
+    <string name="transfer_single_description_with_esim">"%1$s will be transferred to this phone.
+
+After you transfer your SIM to this phone, it will no longer work on your other device."</string>
+    <string name="transfer_single_description_with_psim">"You can convert your SIM card into an eSIM and
+transfer it to this phone. After it's been
+converted, your SIM card can't be used again."</string>
+    <string name="transfer_single_psim_hint">Learn how to use a SIM card</string>
+    <string name="transfer_single_psim_sub_info">Or, insert the SIM card now.</string>
+    <string name="transfer_single_subItem_title_with_number">Ali številka ni prava?</string>
+    <string name="transfer_single_subItem_title_without_number_esim">Ali kartica e-SIM ni prava?</string>
+    <string name="transfer_single_subItem_title_without_number_unknown">Ali kartica SIM ni prava?</string>
+    <string name="transfer_single_title">Transfer %1$s SIM?</string>
+    <string name="transfer_subItem_desc">Prenesite novo kartico e-SIM</string>
+    <string name="transfer_subItem_title_with_number">Ali številke niso prave?</string>
+    <string name="transfer_subItem_title_without_number_esim">Ali kartice e-SIM niso prave?</string>
+    <string name="transfer_subItem_title_without_number_unknown">Ali kartice SIM niso prave?</string>
+    <string name="transfer_title_unknown_sim">Izberite kartico SIM za prenos</string>
+    <string name="transfer_title_with_number">Izberite številko za prenos</string>
+    <string name="transfer_title_without_number">Izberite kartico e-SIM za prenos</string>
+    <string name="update_button">Posodobi</string>
+    <string name="use_different_network">Uporabi drugo omrežje</string>
+    <string name="use_different_network_button">Uporabi drugo omrežje</string>
+    <string name="user_consent_download_active_profile_body_text">Operater %1$s bo med prenosom izklopljen.</string>
+    <string name="user_consent_download_mobile_data_body_text">Vaša kartica SIM bo prenesena prek mobilnega omrežja.</string>
+    <string name="user_consent_download_no_name_body_text">Vaša aktivna kartica SIM bo med prenosom izklopljena.</string>
+    <string name="user_consent_download_over_wifi_title">Želite uporabiti povezavo Wi-Fi za prenos kartice SIM?</string>
+    <string name="user_consent_download_ss_no_profile_title">Dovolite operaterju, da prenese kartico SIM?</string>
+    <string name="user_consent_download_ss_no_profile_wifi_body_text">Vaša kartica SIM bo prenesena prek povezave Wi-Fi.</string>
+    <string name="user_consent_download_switch_body_text">"Če želite prenesti in uporabiti drugo kartico SIM, izklopite operaterja %1$s.
+
+Če izklopite operaterja %1$s, ne boste preklicali svoje storitve."</string>
+    <string name="user_consent_download_switch_dsds_no_name_body_text">"Če želite prenesti in uporabiti drugo kartico SIM, izklopite aktivno kartico SIM.
+
+Če izklopite kartico SIM, ne boste preklicali svoje storitve."</string>
+    <string name="user_consent_download_switch_dsds_no_name_title">Želite izklopiti kartico SIM?</string>
+    <string name="user_consent_download_switch_no_profile_body_text">Vaša kartica SIM bo uporabljena takoj po prenosu.</string>
+    <string name="user_consent_download_switch_ss_no_name_body_text">"Če želite prenesti in uporabiti drugo kartico SIM, izklopite aktivno kartico SIM.
+
+Če izklopite kartico SIM, ne boste preklicali svoje storitve."</string>
+    <string name="user_consent_download_switch_ss_no_name_title">Želite izklopiti kartico SIM?</string>
+    <string name="user_consent_switch_dsds_body_text">"V tej napravi je lahko samo ena aktivna kartica e-SIM.
+
+Operater %1$s bo izklopljen, vendar s tem ne boste preklicali svoje storitve."</string>
+    <string name="user_consent_switch_dsds_no_name_body_text">"V tej napravi je lahko samo ena aktivna kartica e-SIM.
+
+Trenutna kartica SIM bo izklopljena, vendar s tem ne boste preklicali svoje storitve."</string>
+    <string name="user_consent_switch_mep_dsds_body_text">Kartica SIM %1$s bo izklopljena, vendar s tem ne boste preklicali svoje storitve.</string>
+    <string name="user_consent_switch_mep_dsds_no_name_body_text">Trenutna kartica SIM bo izklopljena, vendar s tem ne boste preklicali svoje storitve.</string>
+    <string name="user_consent_switch_no_name_title">Želite uporabiti novo kartico SIM?</string>
+    <string name="user_consent_switch_ss_body_text">"V tej napravi je lahko samo ena aktivna kartica SIM.
+
+Operater %1$s bo izkopljen, vendar s tem ne boste preklicali svoje storitve."</string>
+    <string name="user_consent_switch_ss_no_name_body_text">"V tej napravi je lahko samo ena aktivna kartica SIM.
+
+Trenutna kartica SIM bo izklopljena, vendar s tem ne boste preklicali svoje storitve."</string>
+    <string name="user_consent_switch_title">Želite uporabiti operaterja %1$s?</string>
+    <string name="v7_preference_off">IZKLOPLJENO</string>
+    <string name="v7_preference_on">VKLOPLJENO</string>
+    <string name="wait_msg">Samo trenutek …</string>
+    <string name="wrong_code_dialog_text">"Nekateri operaterji zahtevajo kodo za preverjanje za večjo varnost. Kodo lahko najdete:
+
+• na listu, ki je bil priložen napravi;
+• v e-poštnem sporočilu, ki vam ga je poslal operater;
+• v sporočilu, ki je bilo poslano v staro napravo."</string>
+    <string name="yes_button">Da</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_retaildemoCommunication">អនុញ្ញាតឱ្យ​កម្មវិធី​ធ្វើអន្តរកម្មជាមួយ​សេវាកម្មរបៀប​ដាក់បង្ហាញ​ក្នុងហាង។ គួរតែផ្ដល់​ការអនុញ្ញាតនេះដល់​របៀបដាក់បង្ហាញក្នុងហាង​តែប៉ុណ្ណោះ។ កម្មវិធី​ដែលទទួលបាន​ការអនុញ្ញាតនេះ​អាចចាប់ផ្ដើមសកម្មភាព​ដែលបានកក់ទុក​សម្រាប់មុខងាររបៀប​ដាក់បង្ហាញក្នុងហាង។</string>
+    <string name="permlab_retaildemoCommunication">ទំនាក់ទំនងជាមួយការតាំងបង្ហាញក្នុងហាង</string>
+    <string name="retaildemo_preload_app_name">សេវាកម្មតាំងបង្ហាញក្នុងហាង</string>
+</resources>

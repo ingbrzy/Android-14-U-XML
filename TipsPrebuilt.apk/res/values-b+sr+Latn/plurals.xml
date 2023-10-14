@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="setup_info_module_tip_count_text">
+        <item quantity="other">%1$d saveta</item>
+        <item quantity="one">%1$d savet</item>
+        <item quantity="few">%1$d saveta</item>
+    </plurals>
+    <plurals name="tip_count_text">
+        <item quantity="other">Pregledali ste %1$d saveta od %2$d</item>
+        <item quantity="one">Pregledali ste %1$d savet od %2$d</item>
+        <item quantity="few">Pregledali ste %1$d saveta od %2$d</item>
+    </plurals>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_error_bad_calibration">თითის ანაბეჭდის სენსორის გამოყენება ვერ მოხერხდა. ეწვიეთ შეკეთების სერვისის პროვაიდერს ან ბმულს g.co/pixel/fingerprintunlock</string>
+    <string name="fingerprint_recalibrate_notification_content">ეწვიეთ შეკეთების სერვისის პროვაიდერს ან ბმულს g.co/pixel/fingerprintunlock</string>
+    <string name="battery_saver_description_with_learn_more">"ბატარეის მუშაობის გასახანგრძლივებლად ბატარეის დამზოგი:
+
+• ჩართავს მუქ თემას
+• გამორთავს ან შეზღუდავს ფონურ აქტივობას, ზოგიერთ ვიზუალურ ეფექტს და სხვა ფუნქციებს, მაგალითად, „Hey Google“
+• მოახდენს ქსელთან კავშირების ოპტიმიზაციას
+
+"<annotation id="url">შეიტყვეთ მეტი</annotation></string>
+</resources>

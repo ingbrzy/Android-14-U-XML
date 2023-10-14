@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Þjónusta á milli tækja</string>
+    <string name="app_name_generic">forrit</string>
+    <string name="app_stream_error_generic">Villa kom upp við deilingu forrits</string>
+    <string name="app_stream_init_error_generic">Ekki tókst að deila forriti í Chromebook</string>
+    <string name="audio_permission_rationale">Slökkt er á heimildum hljóðnema fyrir deilingu forrits</string>
+    <string name="cancel_button_label">Hætta við</string>
+    <string name="chromebook_keyboard">Chromebook lyklaborð</string>
+    <string name="chromebook_mouse">Chromebook mús</string>
+    <string name="chromebook_touchscreen">Chromebook snertiskjár</string>
+    <string name="connect_device">Tengir símann þinn við fjartengt tæki: %1$s</string>
+    <string name="decline_button_label">Hafna</string>
+    <string name="development_notification_channel_name">Þróun</string>
+    <string name="device_camera_cannot_access">Ekki er hægt að opna myndavél tækisins í þessari Chromebook</string>
+    <string name="done_button_label">Lokið</string>
+    <string name="enable_button_label">Virkja</string>
+    <string name="foreground_service_notification_channel_name">Almennt</string>
+    <string name="foreground_service_notification_content">Ýttu til að breyta stillingum</string>
+    <string name="foreground_service_notification_title">{0,plural, =1{Tengt við # tæki}one{Tengt við # tæki}other{Tengt við # tæki}}</string>
+    <string name="interactive_streaming_generic_notification">Streymir %1$s og samstillir tilkynningar fyrir Chromebook</string>
+    <string name="interactive_streaming_individual_notification">Streymir %1$s og samstillir tilkynningar fyrir %2$s</string>
+    <string name="interactive_streaming_notification">Streymir í Chromebook</string>
+    <string name="keyboard_name">Lyklaborð fyrir mörg tæki</string>
+    <string name="lock_screen_notif_warning_content">Virkja tilkynningar á lásskjá</string>
+    <string name="lock_screen_notif_warning_title">Tilkynningar verða ekki áframsendar</string>
+    <string name="mouse_name">Mús fyrir mörg tæki</string>
+    <string name="new_connection_confirm">Staðfesta</string>
+    <string name="new_connection_deny">Hafna</string>
+    <string name="new_connection_title">Staðfestu samsvörun strengs</string>
+    <string name="notification_access_missing">Tilkynningaaðgangs er krafist</string>
+    <string name="notification_access_missing_description">Til að opna tilkynningar í Chromebook skaltu kveikja á tilkynningaaðgangi</string>
+    <string name="notification_channel_name">Almennt</string>
+    <string name="notification_listener_label">Deila forritum með Chromebook</string>
+    <string name="open_source_licenses">Leyfi opins kóða</string>
+    <string name="phone_permission_rationale">Slökkt er á heimildum símtala fyrir deilingu forrits</string>
+    <string name="prompt_switch_languages">Haltu inni „shift“ og „space“ til að breyta tungumálinu á Gboard símans</string>
+    <string name="settings_button">Stillingar</string>
+    <string name="stop_sharing_button">Ljúka streymi</string>
+    <string name="stream_termination_proximity_warning">Síminn þinn er of langt í burtu. Færðu hann nær til að halda streymi áfram.</string>
+    <string name="substitute_app_name">Kerfi</string>
+    <string name="summary_disable_wirecutter">Slökkt</string>
+    <string name="summary_enable_wirecutter">Kveikt</string>
+    <string name="touchscreen_name">Snertiskjár fyrir mörg tæki</string>
+</resources>

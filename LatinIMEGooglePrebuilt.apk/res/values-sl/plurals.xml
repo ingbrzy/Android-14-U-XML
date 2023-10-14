@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120000">
+        <item quantity="other">Dodeljenih je %d tipk</item>
+        <item quantity="one">Dodeljena je %d tipka</item>
+        <item quantity="two">Dodeljeni sta %d tipki</item>
+        <item quantity="few">Dodeljene so %d tipke</item>
+    </plurals>
+</resources>

@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ndays">
+        <item quantity="other">%d días</item>
+        <item quantity="one">1 día</item>
+        <item quantity="many">%d días</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%d horas</item>
+        <item quantity="one">1 hora</item>
+        <item quantity="many">%d horas</item>
+    </plurals>
+    <plurals name="Nminutes">
+        <item quantity="other">%d minutos</item>
+        <item quantity="one">1 minuto</item>
+        <item quantity="many">%d minutos</item>
+    </plurals>
+    <plurals name="Nweeks">
+        <item quantity="other">%d semanas</item>
+        <item quantity="one">1 semana</item>
+        <item quantity="many">%d semanas</item>
+    </plurals>
+    <plurals name="a11y_filter_capacity">
+        <item quantity="other">Capacidad de sala requerida: %1$d asientos</item>
+        <item quantity="one">Capacidad de sala requerida: 1 asiento</item>
+        <item quantity="many">Capacidad de sala requerida: %1$d asientos</item>
+    </plurals>
+    <plurals name="accessibility_find_time_custom_duration_hour_input">
+        <item quantity="other">%d horas</item>
+        <item quantity="one">%d hora</item>
+        <item quantity="many">%d horas</item>
+    </plurals>
+    <plurals name="accessibility_find_time_custom_duration_minute_input">
+        <item quantity="other">%d minutos</item>
+        <item quantity="one">%d minuto</item>
+        <item quantity="many">%d minutos</item>
+    </plurals>
+    <plurals name="accessibility_has_time_proposals">
+        <item quantity="other">tiene propuestas de hora</item>
+        <item quantity="one">tiene una propuesta de hora</item>
+        <item quantity="many">tiene propuestas de hora</item>
+    </plurals>
+    <plurals name="alternate_search_available_announce">
+        <item quantity="other">Búsqueda finalizada con %d resultados.</item>
+        <item quantity="one">Búsqueda finalizada con %d resultado.</item>
+        <item quantity="many">Búsqueda finalizada con %d resultados.</item>
+    </plurals>
+    <plurals name="annually_frequency_text">
+        <item quantity="other">Repetir cada %1$d %2$s</item>
+        <item quantity="one">Repetir cada %1$d %2$s</item>
+        <item quantity="many">Repetir cada %1$d %2$s</item>
+    </plurals>
+    <plurals name="birthday_chip_title">
+        <item quantity="other">%d cumpleaños</item>
+        <item quantity="one">Cumpleaños</item>
+        <item quantity="many">%d cumpleaños</item>
+    </plurals>
+    <plurals name="calendar_daily_lower">
+        <item quantity="other">cada %d días</item>
+        <item quantity="one">todos los días</item>
+        <item quantity="many">cada %d días</item>
+    </plurals>
+    <plurals name="calendar_monthly_interval_lower">
+        <item quantity="other">cada %1$d meses</item>
+        <item quantity="one">todos los meses</item>
+        <item quantity="many">cada %1$d meses</item>
+    </plurals>
+    <plurals name="calendar_weekly_lower">
+        <item quantity="other">cada %1$d semanas</item>
+        <item quantity="one">semanalmente</item>
+        <item quantity="many">cada %1$d semanas</item>
+    </plurals>
+    <plurals name="calendar_yearly_interval_lower">
+        <item quantity="other">cada %1$d años</item>
+        <item quantity="one">todos los años</item>
+        <item quantity="many">cada %1$d años</item>
+    </plurals>
+    <plurals name="capacity_description">
+        <item quantity="other">%d personas</item>
+        <item quantity="one">una persona</item>
+        <item quantity="many">%d personas</item>
+    </plurals>
+    <plurals name="count_duration_accessibility_description">
+        <item quantity="other">Termina después de %d repeticiones</item>
+        <item quantity="one">Termina después de una repetición</item>
+        <item quantity="many">Termina después de %d repeticiones</item>
+    </plurals>
+    <plurals name="count_duration_label">
+        <item quantity="other">Después de %d repeticiones</item>
+        <item quantity="one">Después de %d repetición</item>
+        <item quantity="many">Después de %d repeticiones</item>
+    </plurals>
+    <plurals name="daily_frequency_text">
+        <item quantity="other">Repetir cada %1$d %2$s</item>
+        <item quantity="one">Repetir cada %1$d %2$s</item>
+        <item quantity="many">Repetir cada %1$d %2$s</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">Días</item>
+        <item quantity="one">Día</item>
+        <item quantity="many">Días</item>
+    </plurals>
+    <plurals name="days_before">
+        <item quantity="other">Días antes</item>
+        <item quantity="one">Día antes</item>
+        <item quantity="many">Días antes</item>
+    </plurals>
+    <plurals name="describe_attachments">
+        <item quantity="other">Archivos adjuntos: %1$d archivos adjuntos</item>
+        <item quantity="one">Archivos adjuntos: %1$d archivo adjunto</item>
+        <item quantity="many">Archivos adjuntos: %1$d archivos adjuntos</item>
+    </plurals>
+    <plurals name="done_reminders_title">
+        <item quantity="other">%d recordatorios completados</item>
+        <item quantity="one">%d recordatorio completado</item>
+        <item quantity="many">%d recordatorios completados</item>
+    </plurals>
+    <plurals name="end_by_count">
+        <item quantity="other">; %d veces</item>
+        <item quantity="one">; una vez</item>
+        <item quantity="many">; %d veces</item>
+    </plurals>
+    <plurals name="error_working_location_duration_too_long">
+        <item quantity="other">Los lugares de trabajo no pueden definirse para más de %1$d días.</item>
+        <item quantity="one">Los lugares de trabajo no pueden definirse para más de %1$d día.</item>
+        <item quantity="many">Los lugares de trabajo no pueden definirse para más de %1$d días.</item>
+    </plurals>
+    <plurals name="files_not_shared_dialog_body">
+        <item quantity="other">Es posible que tus invitados no puedan acceder a los archivos de Drive que has insertado. Puede que tengas que compartirlos en Google Drive.</item>
+        <item quantity="one">Es posible que tus invitados no puedan acceder al archivo de Drive que has insertado. Puede que tengas que compartirlo en Google Drive.</item>
+        <item quantity="many">Es posible que tus invitados no puedan acceder a los archivos de Drive que has insertado. Puede que tengas que compartirlos en Google Drive.</item>
+    </plurals>
+    <plurals name="find_a_time_invisible_attendee">
+        <item quantity="other">y %d más</item>
+        <item quantity="one">y %d más</item>
+        <item quantity="many">y %d más</item>
+    </plurals>
+    <plurals name="find_time_duration_hour_label">
+        <item quantity="other">%d horas</item>
+        <item quantity="one">%d hora</item>
+        <item quantity="many">%d horas</item>
+    </plurals>
+    <plurals name="find_time_duration_minute_label">
+        <item quantity="other">%d minutos</item>
+        <item quantity="one">%d minuto</item>
+        <item quantity="many">%d minutos</item>
+    </plurals>
+    <plurals name="fix_permissions_does_not_fix_everything_warning">
+        <item quantity="other">Nota: Es posible que algunos invitados sigan sin poder acceder a estos archivos. Puede que tengas que compartirlos en Google Drive.</item>
+        <item quantity="one">Nota: Es posible que algunos invitados sigan sin poder acceder a este archivo. Puede que tengas que compartirlo en Google Drive.</item>
+        <item quantity="many">Nota: Es posible que algunos invitados sigan sin poder acceder a estos archivos. Puede que tengas que compartirlos en Google Drive.</item>
+    </plurals>
+    <plurals name="fix_permissions_outside_domain_warning_hedgehog">
+        <item quantity="other">"Vas a compartir con invitados:&lt;br>&lt;b>%1$s
+&lt;/b>&lt;br>que no son miembros de la organización de Google Workspace a la que pertenecen estos archivos"</item>
+        <item quantity="one">Vas a compartir con invitados:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>que no son miembros de la organización de Google Workspace a la que pertenece este archivo</item>
+        <item quantity="many">"Vas a compartir con invitados:&lt;br>&lt;b>%1$s
+&lt;/b>&lt;br>que no son miembros de la organización de Google Workspace a la que pertenecen estos archivos"</item>
+    </plurals>
+    <plurals name="guest_count">
+        <item quantity="other">%d invitados</item>
+        <item quantity="one">%d invitado</item>
+        <item quantity="many">%d invitados</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">Horas</item>
+        <item quantity="one">Hora</item>
+        <item quantity="many">Horas</item>
+    </plurals>
+    <plurals name="hours_before">
+        <item quantity="other">Horas antes</item>
+        <item quantity="one">Hora antes</item>
+        <item quantity="many">Horas antes</item>
+    </plurals>
+    <plurals name="ical_many_events_warning">
+        <item quantity="other">Vas a añadir %d eventos y esta acción no se puede deshacer. ¿Estás seguro?</item>
+        <item quantity="one">Vas a añadir %d evento y esta acción no se puede deshacer. ¿Estás seguro?</item>
+        <item quantity="many">Vas a añadir %d eventos y esta acción no se puede deshacer. ¿Estás seguro?</item>
+    </plurals>
+    <plurals name="mark_reminders_done_title">
+        <item quantity="other">¿Marcar %d recordatorios como completados?</item>
+        <item quantity="one">¿Marcar %d recordatorio como completado?</item>
+        <item quantity="many">¿Marcar %d recordatorios como completados?</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">Minutos</item>
+        <item quantity="one">Minuto</item>
+        <item quantity="many">Minutos</item>
+    </plurals>
+    <plurals name="minutes_before">
+        <item quantity="other">Minutos antes</item>
+        <item quantity="one">Minuto antes</item>
+        <item quantity="many">Minutos antes</item>
+    </plurals>
+    <plurals name="month_view_hidden_events">
+        <item quantity="other">%d más</item>
+        <item quantity="one">%d más</item>
+        <item quantity="many">%d más</item>
+    </plurals>
+    <plurals name="monthly_frequency_text">
+        <item quantity="other">Repetir cada %1$d %2$s</item>
+        <item quantity="one">Repetir cada %1$d %2$s</item>
+        <item quantity="many">Repetir cada %1$d %2$s</item>
+    </plurals>
+    <plurals name="more_guests">
+        <item quantity="other">y %1$d más</item>
+        <item quantity="one">y %1$d más</item>
+        <item quantity="many">y %1$d más</item>
+    </plurals>
+    <plurals name="no_room_suggestions_title">
+        <item quantity="other">%1$d invitados sin sugerencias de salas</item>
+        <item quantity="one">1 invitado sin sugerencias de salas</item>
+        <item quantity="many">%1$d invitados sin sugerencias de salas</item>
+    </plurals>
+    <plurals name="num_rooms">
+        <item quantity="other">%1$d salas</item>
+        <item quantity="one">%1$d sala</item>
+        <item quantity="many">%1$d salas</item>
+    </plurals>
+    <plurals name="public_notification_text">
+        <item quantity="other">%1$d notificaciones nuevas</item>
+        <item quantity="one">Tienes una notificación</item>
+    </plurals>
+    <plurals name="recurrence_frequency_annually">
+        <item quantity="other">años</item>
+        <item quantity="one">año</item>
+        <item quantity="many">años</item>
+    </plurals>
+    <plurals name="recurrence_frequency_daily">
+        <item quantity="other">días</item>
+        <item quantity="one">día</item>
+        <item quantity="many">días</item>
+    </plurals>
+    <plurals name="recurrence_frequency_monthly">
+        <item quantity="other">meses</item>
+        <item quantity="one">mes</item>
+        <item quantity="many">meses</item>
+    </plurals>
+    <plurals name="recurrence_frequency_weekly">
+        <item quantity="other">semanas</item>
+        <item quantity="one">semana</item>
+        <item quantity="many">semanas</item>
+    </plurals>
+    <plurals name="reminder_bundle_description_prefix">
+        <item quantity="other">%d recordatorios:</item>
+        <item quantity="one">%d recordatorio:</item>
+        <item quantity="many">%d recordatorios:</item>
+    </plurals>
+    <plurals name="reminder_done_bundle_description_prefix">
+        <item quantity="other">%d recordatorios completados:</item>
+        <item quantity="one">%d recordatorio completado:</item>
+        <item quantity="many">%d recordatorios completados:</item>
+    </plurals>
+    <plurals name="reminders_marked_done">
+        <item quantity="other">%d recordatorios marcados como completados.</item>
+        <item quantity="one">%d recordatorio marcado como completado.</item>
+        <item quantity="many">%d recordatorios marcados como completados.</item>
+    </plurals>
+    <plurals name="reminders_migration_dialog_title">
+        <item quantity="other">Convertir %d recordatorios en tareas</item>
+        <item quantity="one">Convertir %d recordatorio en tarea</item>
+        <item quantity="many">Convertir %d recordatorios en tareas</item>
+    </plurals>
+    <plurals name="reminders_migration_force_completed_toast">
+        <item quantity="other">Ahora, los recordatorios son tareas. %1$d recordatorios convertidos en tareas para %2$s.</item>
+        <item quantity="one">Ahora, los recordatorios son tareas. %1$d recordatorio convertido en tarea para %2$s.</item>
+        <item quantity="many">Ahora, los recordatorios son tareas. %1$d recordatorios convertidos en tareas para %2$s.</item>
+    </plurals>
+    <plurals name="reminders_migration_keep_only_dialog_title">
+        <item quantity="other">%d recordatorios estarán disponibles en Google Keep</item>
+        <item quantity="one">%d recordatorio estará disponible en Google Keep</item>
+        <item quantity="many">%d recordatorios estarán disponibles en Google Keep</item>
+    </plurals>
+    <plurals name="reminders_migration_keep_only_reminders_dialog_description_with_account">
+        <item quantity="other">Como %s, todos tus recordatorios se han creado en Google Keep y no se pueden convertir en tareas. Se quitarán de Calendar, pero podrás seguir gestionándolos en Keep.</item>
+        <item quantity="one">Como %s, tu recordatorio se ha creado en Google Keep y no se puede convertir en una tarea. Se quitará de Calendar, pero podrás seguir gestionándolo en Keep.</item>
+        <item quantity="many">Como %s, todos tus recordatorios se han creado en Google Keep y no se pueden convertir en tareas. Se quitarán de Calendar, pero podrás seguir gestionándolos en Keep.</item>
+    </plurals>
+    <plurals name="reminders_migration_partial_failure_some_remaining_toast">
+        <item quantity="other">Solo %1$d recordatorios convertidos en tareas para %2$s. Quedan algunos recordatorios.</item>
+        <item quantity="one">Solo %1$d recordatorio convertido en tarea para %2$s. Quedan algunos recordatorios.</item>
+        <item quantity="many">Solo %1$d recordatorios convertidos en tareas para %2$s. Quedan algunos recordatorios.</item>
+    </plurals>
+    <plurals name="reminders_migration_tooltip_remark">
+        <item quantity="other">Tienes %d recordatorios que se han convertido en tareas.</item>
+        <item quantity="one">Tienes %d recordatorio que se ha convertido en una tarea.</item>
+        <item quantity="many">Tienes %d recordatorios que se han convertido en tareas.</item>
+    </plurals>
+    <plurals name="reminders_migration_tooltip_with_keep_reminders_remark">
+        <item quantity="other">%d recordatorios convertidos en tareas. Los recordatorios creados en Google Keep no se han modificado. Se quitarán de Calendar, pero podrás seguir gestionándolos en Keep.</item>
+        <item quantity="one">%d recordatorio convertido en tarea. Los recordatorios creados en Google Keep no se han modificado. Se quitarán de Calendar, pero podrás seguir gestionándolos en Keep.</item>
+        <item quantity="many">%d recordatorios convertidos en tareas. Los recordatorios creados en Google Keep no se han modificado. Se quitarán de Calendar, pero podrás seguir gestionándolos en Keep.</item>
+    </plurals>
+    <plurals name="reminders_migration_voluntary_completed_keep_only_toast">
+        <item quantity="other">%1$d recordatorios quitados de Calendar para %2$s, pero permanecen en Keep</item>
+        <item quantity="one">%1$d recordatorio quitado de Calendar para %2$s, pero permanece en Keep</item>
+        <item quantity="many">%1$d recordatorios quitados de Calendar para %2$s, pero permanecen en Keep</item>
+    </plurals>
+    <plurals name="reminders_migration_voluntary_completed_toast">
+        <item quantity="other">%1$d recordatorios convertidos en tareas para %2$s</item>
+        <item quantity="one">%1$d recordatorio convertido en tarea para %2$s</item>
+        <item quantity="many">%1$d recordatorios convertidos en tareas para %2$s</item>
+    </plurals>
+    <plurals name="reminders_title">
+        <item quantity="other">%d recordatorios</item>
+        <item quantity="one">%d recordatorio</item>
+        <item quantity="many">%d recordatorios</item>
+    </plurals>
+    <plurals name="response_count_accepted">
+        <item quantity="other">%s sí</item>
+        <item quantity="one">%s sí</item>
+        <item quantity="many">%s sí</item>
+    </plurals>
+    <plurals name="response_count_accepted_in_a_meeting_room">
+        <item quantity="other">%s en una sala de reuniones</item>
+        <item quantity="one">%s en una sala de reuniones</item>
+        <item quantity="many">%s en una sala de reuniones</item>
+    </plurals>
+    <plurals name="response_count_accepted_virtually">
+        <item quantity="other">%s virtualmente</item>
+        <item quantity="one">%s virtualmente</item>
+        <item quantity="many">%s virtualmente</item>
+    </plurals>
+    <plurals name="response_count_declined">
+        <item quantity="other">%s no</item>
+        <item quantity="one">%s no</item>
+        <item quantity="many">%s no</item>
+    </plurals>
+    <plurals name="response_count_need_action">
+        <item quantity="other">%s en espera</item>
+        <item quantity="one">%s en espera</item>
+        <item quantity="many">%s en espera</item>
+    </plurals>
+    <plurals name="response_count_tentative">
+        <item quantity="other">%s quizás</item>
+        <item quantity="one">%s quizás</item>
+        <item quantity="many">%s quizás</item>
+    </plurals>
+    <plurals name="room_capacity_description">
+        <item quantity="other">Sala de conferencias para %1$d personas</item>
+        <item quantity="one">Sala de conferencias para una persona</item>
+        <item quantity="many">Sala de conferencias para %1$d personas</item>
+    </plurals>
+    <plurals name="short_invisible_all_day_events">
+        <item quantity="other">+ %d</item>
+        <item quantity="one">+ %d</item>
+        <item quantity="many">+ %d</item>
+    </plurals>
+    <plurals name="smartmail_seats">
+        <item quantity="other">asientos %s</item>
+        <item quantity="one">asiento %s</item>
+        <item quantity="many">asientos %s</item>
+    </plurals>
+    <plurals name="smartmail_time_day_offset">
+        <item quantity="other">%d días</item>
+        <item quantity="one">%d día</item>
+        <item quantity="many">%d días</item>
+    </plurals>
+    <plurals name="survey_star_rating">
+        <item quantity="other">%1$d estrellas de %2$d</item>
+        <item quantity="one">%1$d estrella de %2$d</item>
+    </plurals>
+    <plurals name="tasks_rollover_chip_title">
+        <item quantity="other">%d tareas pendientes</item>
+        <item quantity="one">%d tarea pendiente</item>
+        <item quantity="many">%d tareas pendientes</item>
+    </plurals>
+    <plurals name="tasks_rollover_dialog_description">
+        <item quantity="other">De hace %d días o menos</item>
+        <item quantity="one">De hace %d día o menos</item>
+        <item quantity="many">De hace %d días o menos</item>
+    </plurals>
+    <plurals name="weekly_by_day_lower">
+        <item quantity="other">cada %1$d semanas el %2$s</item>
+        <item quantity="one">cada %2$s</item>
+        <item quantity="many">cada %1$d semanas el %2$s</item>
+    </plurals>
+    <plurals name="weekly_frequency_text">
+        <item quantity="other">Repetir cada %1$d %2$s</item>
+        <item quantity="one">Repetir cada %1$d %2$s</item>
+        <item quantity="many">Repetir cada %1$d %2$s</item>
+    </plurals>
+    <plurals name="weeks">
+        <item quantity="other">Semanas</item>
+        <item quantity="one">Semana</item>
+        <item quantity="many">Semanas</item>
+    </plurals>
+    <plurals name="weeks_before">
+        <item quantity="other">Semanas antes</item>
+        <item quantity="one">Semana antes</item>
+        <item quantity="many">Semanas antes</item>
+    </plurals>
+</resources>

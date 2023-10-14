@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Vratite se na početnu stranicu</string>
+    <string name="abc_action_bar_up_description">Idi gore</string>
+    <string name="abc_action_menu_overflow_description">Više opcija</string>
+    <string name="abc_action_mode_done">Gotovo</string>
+    <string name="abc_activity_chooser_view_see_all">Prikaži sve</string>
+    <string name="abc_activitychooserview_choose_application">Odaberite aplikaciju</string>
+    <string name="abc_capital_off">ISKLJUČENO</string>
+    <string name="abc_capital_on">UKLJUČENO</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">razmak</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Pretražite...</string>
+    <string name="abc_searchview_description_clear">Obriši upit</string>
+    <string name="abc_searchview_description_query">Pretraži upit</string>
+    <string name="abc_searchview_description_search">Pretraživanje</string>
+    <string name="abc_searchview_description_submit">Pošalji upit</string>
+    <string name="abc_searchview_description_voice">Glasovno pretraživanje</string>
+    <string name="abc_shareactionprovider_share_with">Dijeli sa</string>
+    <string name="abc_shareactionprovider_share_with_application">Dijeli putem aplikacije %s</string>
+    <string name="abc_toolbar_collapse_description">Suzi</string>
+    <string name="activity_resolver_use_always">Uvijek</string>
+    <string name="activity_resolver_use_once">Samo ovaj put</string>
+    <string name="activity_resolver_work_profiles_support">%1$s ne podržava radni profil</string>
+    <string name="call_notification_answer_action">Odgovori</string>
+    <string name="call_notification_answer_video_action">Video</string>
+    <string name="call_notification_decline_action">Odbaci</string>
+    <string name="call_notification_hang_up_action">Prekini vezu</string>
+    <string name="call_notification_incoming_text">Dolazni poziv</string>
+    <string name="call_notification_ongoing_text">Poziv u toku</string>
+    <string name="call_notification_screening_text">Filtriranje dolaznog poziva</string>
+    <string name="chooseActivity">Odaberite radnju</string>
+    <string name="chooser_no_direct_share_targets">Nema preporučenih osoba s kojima biste dijelili</string>
+    <string name="exclude_link">Izuzmi link</string>
+    <string name="exclude_text">Izuzmi tekst</string>
+    <string name="file_preview_a11y_description">Sličica pregleda fajla</string>
+    <string name="forward_intent_to_owner">Aplikaciju koristite van poslovnog profila</string>
+    <string name="forward_intent_to_work">Aplikaciju koristite u poslovnom profilu</string>
+    <string name="image_preview_a11y_description">Sličica pregleda slike</string>
+    <string name="include_link">Uključi link</string>
+    <string name="include_text">Uključi tekst</string>
+    <string name="miniresolver_open_in_personal">Otvoriti aplikaciju %s na ličnom profilu?</string>
+    <string name="miniresolver_open_in_work">Otvoriti aplikaciju %s na radnom profilu?</string>
+    <string name="miniresolver_use_personal_browser">Koristi lični preglednik</string>
+    <string name="miniresolver_use_work_browser">Koristi poslovni preglednik</string>
+    <string name="more_files">{count,plural, =1{i još # fajl}one{i još # fajl}few{i još # fajla}other{i još # fajlova}}</string>
+    <string name="noApplications">Nijedna aplikacija ne može izvršiti ovu akciju.</string>
+    <string name="other_files">{count,plural, =1{i još # fajl}one{i još # fajl}few{i još # fajla}other{i još # fajlova}}</string>
+    <string name="pin_specific_target">Zakači aplikaciju %1$s</string>
+    <string name="resolver_cant_access_personal_apps_explanation">Ovaj sadržaj nije moguće otvoriti pomoću ličnih aplikacija</string>
+    <string name="resolver_cant_access_work_apps_explanation">Ovaj sadržaj nije moguće otvoriti pomoću poslovnih aplikacija</string>
+    <string name="resolver_cant_share_with_personal_apps_explanation">Ovaj sadržaj nije moguće dijeliti pomoću ličnih aplikacija</string>
+    <string name="resolver_cant_share_with_work_apps_explanation">Ovaj sadržaj nije moguće dijeliti pomoću poslovnih aplikacija</string>
+    <string name="resolver_cross_profile_blocked">Blokirao je vaš IT administrator</string>
+    <string name="resolver_no_personal_apps_available">Nema ličnih aplikacija</string>
+    <string name="resolver_no_work_apps_available">Nema poslovnih aplikacija</string>
+    <string name="resolver_personal_tab">Lično</string>
+    <string name="resolver_personal_tab_accessibility">Prikaz ličnog sadržaja</string>
+    <string name="resolver_switch_on_work">Ponovo pokreni</string>
+    <string name="resolver_turn_on_work_apps">Poslovne aplikacije su pauzirane</string>
+    <string name="resolver_work_tab">Posao</string>
+    <string name="resolver_work_tab_accessibility">Prikaz poslovnog sadržaja</string>
+    <string name="screenshot_edit">Uredi</string>
+    <string name="search_menu_title">Pretražite</string>
+    <string name="sharing_files">{count,plural, =1{Dijeljenje # fajla}one{Dijeljenje # fajla}few{Dijeljenje # fajla}other{Dijeljenje # fajlova}}</string>
+    <string name="sharing_files_only">{count,plural, =1{Samo fajl}one{Samo fajlovi}few{Samo fajlovi}other{Samo fajlovi}}</string>
+    <string name="sharing_files_with_link">{count,plural, =1{Dijeljenje fajla putem linka}one{Dijeljenje # fajla putem linka}few{Dijeljenje # fajla putem linka}other{Dijeljenje # fajlova putem linka}}</string>
+    <string name="sharing_files_with_text">{count,plural, =1{Dijeljenje fajla putem poruke}one{Dijeljenje # fajla putem poruke}few{Dijeljenje # fajla putem poruke}other{Dijeljenje # fajlova putem poruke}}</string>
+    <string name="sharing_images">{count,plural, =1{Dijeljenje slike}one{Dijeljenje # slike}few{Dijeljenje # slike}other{Dijeljenje # slika}}</string>
+    <string name="sharing_images_only">{count,plural, =1{Samo slika}one{Samo slike}few{Samo slike}other{Samo slike}}</string>
+    <string name="sharing_images_with_link">{count,plural, =1{Dijeljenje slike putem linka}one{Dijeljenje # slike putem linka}few{Dijeljenje # slike putem linka}other{Dijeljenje # slika putem linka}}</string>
+    <string name="sharing_images_with_text">{count,plural, =1{Dijeljenje slike putem poruke}one{Dijeljenje # slike putem poruke}few{Dijeljenje # slike putem poruke}other{Dijeljenje # slika putem poruke}}</string>
+    <string name="sharing_link">Dijeljenje linka</string>
+    <string name="sharing_text">Dijeljenje teksta</string>
+    <string name="sharing_videos">{count,plural, =1{Dijeljenje videozapisa}one{Dijeljenje # videozapisa}few{Dijeljenje # videozapisa}other{Dijeljenje # videozapisa}}</string>
+    <string name="sharing_videos_only">{count,plural, =1{Samo videozapis}one{Samo videozapisi}few{Samo videozapisi}other{Samo videozapisi}}</string>
+    <string name="sharing_videos_with_link">{count,plural, =1{Dijeljenje videozapisa putem linka}one{Dijeljenje # videozapisa putem linka}few{Dijeljenje # videozapisa putem linka}other{Dijeljenje # videozapisa putem linka}}</string>
+    <string name="sharing_videos_with_text">{count,plural, =1{Dijeljenje videozapisa putem poruke}one{Dijeljenje # videozapisa putem poruke}few{Dijeljenje # videozapisa putem poruke}other{Dijeljenje # videozapisa putem poruke}}</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="unpin_specific_target">Otkači aplikaciju %1$s</string>
+    <string name="usb_device_resolve_prompt_warn">Ovoj aplikaciji nije dato odobrenje za snimanje, ali može snimati zvuk putem ovog USB uređaja.</string>
+    <string name="use_a_different_app">Koristi drugu aplikaciju</string>
+    <string name="video_preview_a11y_description">Sličica pregleda videozapisa</string>
+    <string name="whichApplication">Završite radnju pomoću aplikacije</string>
+    <string name="whichApplicationLabel">Izvršiti akciju</string>
+    <string name="whichApplicationNamed">Završavanje radnje pomoću aplikacije %1$s</string>
+    <string name="whichEditApplication">Uredi koristeći</string>
+    <string name="whichEditApplicationLabel">Uredi</string>
+    <string name="whichEditApplicationNamed">Uređivanje pomoću aplikacije %1$s</string>
+    <string name="whichGiveAccessToApplicationLabel">Dozvoli pristup</string>
+    <string name="whichHomeApplication">Odaberi glavnu aplikaciju</string>
+    <string name="whichHomeApplicationLabel">Snimanje slike</string>
+    <string name="whichHomeApplicationNamed">Korištenje aplikacije %1$s kao početne</string>
+    <string name="whichImageCaptureApplication">Snimanje slike koristeći</string>
+    <string name="whichImageCaptureApplicationLabel">Snimanje slike</string>
+    <string name="whichImageCaptureApplicationNamed">Snimanje slike pomoću aplikacije %1$s</string>
+    <string name="whichOpenHostLinksWith">Otvaranje %1$s linkova pomoću preglednika/aplikacije</string>
+    <string name="whichOpenHostLinksWithApp">Otvaranje %1$s linkova pomoću preglednika %2$s</string>
+    <string name="whichOpenLinksWith">Otvaranje linkova pomoću preglednika</string>
+    <string name="whichOpenLinksWithApp">Otvaranje linkova pomoću preglednika %1$s</string>
+    <string name="whichSendApplication">Dijeli</string>
+    <string name="whichSendApplicationLabel">Dijeli</string>
+    <string name="whichSendApplicationNamed">Dijeljenje putem aplikacije %1$s</string>
+    <string name="whichSendToApplication">Pošalji koristeći</string>
+    <string name="whichSendToApplicationLabel">Pošalji</string>
+    <string name="whichSendToApplicationNamed">Slanje pomoću aplikacije %1$s</string>
+    <string name="whichViewApplication">Otvori koristeći</string>
+    <string name="whichViewApplicationLabel">Otvori</string>
+    <string name="whichViewApplicationNamed">Otvaranje pomoću aplikacije %1$s</string>
+</resources>

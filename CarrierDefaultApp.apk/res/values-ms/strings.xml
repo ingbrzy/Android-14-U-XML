@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_bar_label">Log masuk ke rangkaian mudah alih</string>
+    <string name="android_system_label">Pembawa Mudah Alih</string>
+    <string name="app_name">Komunikasi Pembawa</string>
+    <string name="mobile_data_status_notification_channel_name">Status data mudah alih</string>
+    <string name="no_data_notification_detail">Sila hubungi penyedia perkhidmatan anda, %s</string>
+    <string name="no_data_notification_id">Data mudah alih anda telah dinyahaktifkan</string>
+    <string name="no_mobile_data_connection">Tambahkan data atau pelan perayauan melalui %s</string>
+    <string name="no_mobile_data_connection_title">Tiada sambungan data mudah alih</string>
+    <string name="performance_boost_notification_button_manage">Urus</string>
+    <string name="performance_boost_notification_button_not_now">Bukan sekarang</string>
+    <string name="performance_boost_notification_channel">Peningkatan prestasi</string>
+    <string name="performance_boost_notification_detail">Lawati laman web %s untuk melihat pilihan pengalaman apl anda</string>
+    <string name="performance_boost_notification_title">Pilihan 5G daripada pembawa anda</string>
+    <string name="portal_notification_detail">Ketik untuk melawat laman web %s</string>
+    <string name="portal_notification_id">Data mudah alih telah habis</string>
+    <string name="slice_purchase_app_label">Beli perangsang prestasi.</string>
+    <string name="ssl_error_continue">Teruskan juga melalui penyemak imbas</string>
+    <string name="ssl_error_example">Contohnya, halaman log masuk mungkin bukan milik organisasi yang ditunjukkan.</string>
+    <string name="ssl_error_warning">Rangkaian yang cuba anda sertai mempunyai isu keselamatan.</string>
+</resources>

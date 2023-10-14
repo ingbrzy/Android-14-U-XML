@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sim_locked_notification_custom_content_array">
+        <item>ເພື່ອໃຊ້ຊິມກາດນີ້, ກະລຸນາປົດລັອກໂທລະສັບຂອງທ່ານໂດຍໃຊ້ແອັບປົດລັອກອຸປະກອນ.</item>
+        <item>ກະລຸນາຕິດຕໍ່ຫາຜູ້ໃຫ້ບໍລິການມືຖືຂອງທ່ານ</item>
+    </string-array>
+</resources>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_duration_description_hours">
+        <item quantity="other">%d цаг</item>
+        <item quantity="one">%d цаг</item>
+    </plurals>
+    <plurals name="accessibility_duration_description_minutes">
+        <item quantity="other">%d минут</item>
+        <item quantity="one">%d минут</item>
+    </plurals>
+    <plurals name="accessibility_duration_description_seconds">
+        <item quantity="other">%d секунд</item>
+        <item quantity="one">%d секунд</item>
+    </plurals>
+    <plurals name="accessibility_skip_ad_in">
+        <item quantity="other">%1$d секундын дараа зарыг алгасах</item>
+        <item quantity="one">1 секундын дараа зарыг алгасах</item>
+    </plurals>
+    <plurals name="auto_playlist_with_episode_count_item_subtitle">
+        <item quantity="other">Автоматаар тоглуулах жагсаалт • %1$d анги</item>
+        <item quantity="one">Автоматаар тоглуулах жагсаалт • 1 анги</item>
+    </plurals>
+    <plurals name="auto_playlist_with_size_item_subtitle">
+        <item quantity="other">Автоматаар тоглуулах жагсаалт • %1$d дуу</item>
+        <item quantity="one">Автоматаар тоглуулах жагсаалт • 1 дуу</item>
+    </plurals>
+    <plurals name="duration_hours">
+        <item quantity="other">%1$d цаг</item>
+        <item quantity="one">%1$d цаг</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%1$d минут</item>
+        <item quantity="one">%1$d минут</item>
+    </plurals>
+    <plurals name="hours_abbreviated">
+        <item quantity="other">%s цаг</item>
+        <item quantity="one">%s цаг</item>
+    </plurals>
+    <plurals name="menu_option_hours">
+        <item quantity="other">%s цаг</item>
+        <item quantity="one">%s цаг</item>
+    </plurals>
+    <plurals name="menu_option_minutes">
+        <item quantity="other">%s минут</item>
+        <item quantity="one">%s минут</item>
+    </plurals>
+    <plurals name="minutes_abbreviated">
+        <item quantity="other">%s мин</item>
+        <item quantity="one">%s мин</item>
+    </plurals>
+    <plurals name="notification_offline_playlist_progress_size">
+        <item quantity="other">%2$d дууны %1$d</item>
+        <item quantity="one">1 дууны %1$d</item>
+    </plurals>
+    <plurals name="notification_offline_playlist_progress_track_count">
+        <item quantity="other">%2$d-н %1$d дууны зам</item>
+        <item quantity="one">1-ийн %1$d дууны зам</item>
+    </plurals>
+    <plurals name="offline_playlist_detail_page_subtitle_with_size">
+        <item quantity="other">Тоглуулах жагсаалт • %1$d дуу</item>
+        <item quantity="one">Тоглуулах жагсаалт • 1 дуу</item>
+    </plurals>
+    <plurals name="offline_playlist_size">
+        <item quantity="other">%1$,d дуу</item>
+        <item quantity="one">1 дуу</item>
+    </plurals>
+    <plurals name="offline_podcast_playlist_size">
+        <item quantity="other">%1$,d анги</item>
+        <item quantity="one">1 анги</item>
+    </plurals>
+    <plurals name="playlist_subtitle_with_track_count">
+        <item quantity="other">Тоглуулах жагсаалт • %1$d дууны зам</item>
+        <item quantity="one">Тоглуулах жагсаалт • 1 дууны зам</item>
+    </plurals>
+    <plurals name="playlist_with_creator_and_size_item_subtitle">
+        <item quantity="other">%1$s • %2$d дуу</item>
+        <item quantity="one">%1$s • 1 дуу</item>
+    </plurals>
+    <plurals name="playlist_with_creator_and_track_count_item_subtitle">
+        <item quantity="other">%1$s • %2$d дууны зам</item>
+        <item quantity="one">%1$s • 1 дууны зам</item>
+    </plurals>
+    <plurals name="playlist_with_entity_type_and_creator_and_size_item_subtitle">
+        <item quantity="other">Тоглуулах жагсаалт • %1$s • %2$d дуу</item>
+        <item quantity="one">Тоглуулах жагсаалт • %1$s • 1 дуу</item>
+    </plurals>
+    <plurals name="playlist_with_entity_type_and_creator_and_track_count_item_subtitle">
+        <item quantity="other">Тоглуулах жагсаалт • %1$s • %2$d дууны зам</item>
+        <item quantity="one">Тоглуулах жагсаалт • %1$s • 1 дууны зам</item>
+    </plurals>
+    <plurals name="pref_enable_smart_download_recent_music_summary">
+        <item quantity="other">Таны хамгийн сүүлд тоглуулсан дуунуудаас бид %1$d хүртэлхийг нь татаж авна.</item>
+        <item quantity="one">Таны хамгийн сүүлд тоглуулсан дуунуудаас бид %1$d хүртэлхийг нь татаж авна.</item>
+    </plurals>
+    <plurals name="quick_seek_x_second">
+        <item quantity="other">%d секунд</item>
+        <item quantity="one">%d секунд</item>
+    </plurals>
+    <plurals name="smart_downloads_details_header_byline_explanation">
+        <item quantity="other">%1$d дууны ухаалаг таталт хийгдсэн</item>
+        <item quantity="one">%1$d дууны ухаалаг таталт хийгдсэн</item>
+    </plurals>
+    <plurals name="smart_downloads_num_songs_estimated_space">
+        <item quantity="other">%1$d дуу (~%2$s)</item>
+        <item quantity="one">%1$d дуу (~%2$s)</item>
+    </plurals>
+    <plurals name="song_count">
+        <item quantity="other">%1$d дуу</item>
+        <item quantity="one">1 дуу</item>
+    </plurals>
+    <plurals name="track_count">
+        <item quantity="other">%1$d дууны зам</item>
+        <item quantity="one">1 дууны зам</item>
+    </plurals>
+    <plurals name="user_education_quick_seek">
+        <item quantity="other">%d секунд алгасах бол баруун эсвэл зүүн дээр хоёр товшино уу</item>
+        <item quantity="one">%d секунд алгасах бол баруун эсвэл зүүн дээр хоёр товшино уу</item>
+    </plurals>
+</resources>

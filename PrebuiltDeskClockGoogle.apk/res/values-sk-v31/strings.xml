@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="analog_gadget">Analógový</string>
+    <string name="digital_gadget">Digitálne</string>
+    <string name="analog_widget_clover_clock_name">List ďateliny</string>
+    <string name="analog_widget_clover_content_description">Ciferník v tvare lista ďateliny</string>
+    <string name="analog_widget_config_activity_title">Výber ciferníka</string>
+    <string name="analog_widget_day_clock_name">Deň</string>
+    <string name="analog_widget_day_content_description">Ciferník s dňom mesiaca</string>
+    <string name="analog_widget_numeral_clock_name">Číslice</string>
+    <string name="analog_widget_numeral_content_description">Ciferník s veľkými číslicami</string>
+    <string name="analog_widget_scallop_clock_name">Lastúra</string>
+    <string name="analog_widget_scallop_content_description">Ciferník s dňom týždňa a mesiacom</string>
+    <string name="cities_widget_config_activity_subtitle">Mestá je možné pridať z karty Hodiny</string>
+    <string name="cities_widget_config_activity_subtitle_button">Vyberte mestá v aplikácii Hodiny</string>
+    <string name="cities_widget_preview_city_london">Londýn</string>
+    <string name="cities_widget_preview_city_mountain_view">Mountain View</string>
+    <string name="clock_widget_opaque_label">Nepriehľadné</string>
+    <string name="clock_widget_transparent_label">Priehľadné</string>
+    <string name="digital_appwidget_config_activity_title">Výber štýlu hodín</string>
+    <string name="digital_cities_gadget">Svetový čas</string>
+    <string name="digital_cities_gadget_description">Vyberte mestá v aplikácii Hodiny</string>
+    <string name="digital_stacked_gadget">Navrstvené</string>
+    <string name="digital_widgets_preview_alarm">Po 9:30</string>
+    <string name="stopwatch_gadget_description">Ovládajte stopky v aplikácii Hodiny</string>
+</resources>

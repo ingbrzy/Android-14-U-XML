@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="azure_title">Gralha-azul</string>
+    <string name="blackswan_title">Cisne-negro</string>
+    <string name="cockatoo_title">Cacatua</string>
+    <string name="come_alive_title">Animado</string>
+    <string name="feathers_attribution">Foto de Andrew Zuckerman</string>
+    <string name="feathers_description">Um espetáculo emplumado, repleto de cores e detalhes</string>
+    <string name="feathers_title">Penas</string>
+    <string name="greenwinged_title">Arara-vermelha</string>
+    <string name="king_title">Urubu-rei</string>
+    <string name="living_universe_title">Universo vivo</string>
+    <string name="photos_memory_gallery_title">Suas recordações</string>
+    <string name="pied_title">Gralha-seminarista</string>
+    <string name="ringnecked_title">Periquito-de-colar</string>
+    <string name="seagull_title">Gaivota</string>
+</resources>

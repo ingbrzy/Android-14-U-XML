@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_duration_description_hours">
+        <item quantity="other">%d ساعة</item>
+        <item quantity="zero">%d ساعة</item>
+        <item quantity="one">ساعة واحدة (%d)</item>
+        <item quantity="two">ساعتان (%d)</item>
+        <item quantity="few">%d ساعات</item>
+        <item quantity="many">%d ساعة</item>
+    </plurals>
+    <plurals name="accessibility_duration_description_minutes">
+        <item quantity="other">%d دقيقة</item>
+        <item quantity="zero">%d دقيقة</item>
+        <item quantity="one">دقيقة واحدة (%d)</item>
+        <item quantity="two">دقيقتان (%d)</item>
+        <item quantity="few">%d دقائق</item>
+        <item quantity="many">%d دقيقة</item>
+    </plurals>
+    <plurals name="accessibility_duration_description_seconds">
+        <item quantity="other">%d ثانية</item>
+        <item quantity="zero">%d ثانية</item>
+        <item quantity="one">ثانية واحدة (%d)</item>
+        <item quantity="two">ثانيتان (%d)</item>
+        <item quantity="few">%d ثوانٍ</item>
+        <item quantity="many">%d ثانية</item>
+    </plurals>
+    <plurals name="accessibility_skip_ad_in">
+        <item quantity="other">تخطّي الإعلان بعد %1$d ثانية</item>
+        <item quantity="zero">تخطّي الإعلان بعد %1$d ثانية</item>
+        <item quantity="one">تخطّي الإعلان بعد ثانية واحدة</item>
+        <item quantity="two">تخطّي الإعلان بعد ثانيتين (%1$d)</item>
+        <item quantity="few">تخطّي الإعلان بعد %1$d ثوانٍ</item>
+        <item quantity="many">تخطّي الإعلان بعد %1$d ثانية</item>
+    </plurals>
+    <plurals name="auto_playlist_with_episode_count_item_subtitle">
+        <item quantity="other">قائمة تشغيل تلقائية • %1$d حلقة</item>
+        <item quantity="zero">قائمة تشغيل تلقائية • 0 حلقة</item>
+        <item quantity="one">قائمة تشغيل تلقائية • حلقة واحدة</item>
+        <item quantity="two">قائمة تشغيل تلقائية • حلقتان (%1$d)</item>
+        <item quantity="few">قائمة تشغيل تلقائية • %1$d حلقات</item>
+        <item quantity="many">قائمة تشغيل تلقائية • %1$d حلقة</item>
+    </plurals>
+    <plurals name="auto_playlist_with_size_item_subtitle">
+        <item quantity="other">قائمة تشغيل تلقائية تتضمّن %1$d أغنية</item>
+        <item quantity="zero">قائمة تشغيل تلقائية لا تتضمّن أغانٍ</item>
+        <item quantity="one">قائمة تشغيل تلقائية تتضمّن أغنية واحدة</item>
+        <item quantity="two">قائمة تشغيل تلقائية تتضمّن أغنيتَين (%1$d)</item>
+        <item quantity="few">قائمة تشغيل تلقائية تتضمّن %1$d أغانٍ</item>
+        <item quantity="many">قائمة تشغيل تلقائية تتضمّن %1$d أغنية</item>
+    </plurals>
+    <plurals name="duration_hours">
+        <item quantity="other">%1$d ساعة</item>
+        <item quantity="zero">%1$d ساعة</item>
+        <item quantity="one">%1$d ساعة واحدة</item>
+        <item quantity="two">(%1$d) ساعتان</item>
+        <item quantity="few">%1$d ساعات</item>
+        <item quantity="many">%1$d ساعة</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%1$d دقيقة</item>
+        <item quantity="zero">%1$d دقيقة</item>
+        <item quantity="one">%1$d دقيقة واحدة</item>
+        <item quantity="two">(%1$d) دقيقتان</item>
+        <item quantity="few">%1$d دقائق</item>
+        <item quantity="many">%1$d دقيقة</item>
+    </plurals>
+    <plurals name="hours_abbreviated">
+        <item quantity="other">%s س</item>
+        <item quantity="zero">%s س</item>
+        <item quantity="one">%s س</item>
+        <item quantity="two">%s س</item>
+        <item quantity="few">%s س</item>
+        <item quantity="many">%s س</item>
+    </plurals>
+    <plurals name="menu_option_hours">
+        <item quantity="other">%s ساعة</item>
+        <item quantity="zero">%s ساعة</item>
+        <item quantity="one">ساعة واحدة (%s)</item>
+        <item quantity="two">ساعتان (%s)</item>
+        <item quantity="few">%s ساعات</item>
+        <item quantity="many">%s ساعة</item>
+    </plurals>
+    <plurals name="menu_option_minutes">
+        <item quantity="other">%s دقيقة</item>
+        <item quantity="zero">%s دقيقة</item>
+        <item quantity="one">دقيقة واحدة (%s)</item>
+        <item quantity="two">دقيقتان (%s)</item>
+        <item quantity="few">%s دقائق</item>
+        <item quantity="many">%s دقيقة</item>
+    </plurals>
+    <plurals name="minutes_abbreviated">
+        <item quantity="other">%s د</item>
+        <item quantity="zero">%s د</item>
+        <item quantity="one">%s د</item>
+        <item quantity="two">%s د</item>
+        <item quantity="few">%s د</item>
+        <item quantity="many">%s د</item>
+    </plurals>
+    <plurals name="notification_offline_playlist_progress_size">
+        <item quantity="other">%1$d من أصل %2$d أغنية</item>
+        <item quantity="zero">0 من أصل 0 أغنية</item>
+        <item quantity="one">%1$d من أصل أغنية واحدة</item>
+        <item quantity="two">%1$d من أصل أغنيتين (%2$d)</item>
+        <item quantity="few">%1$d من أصل %2$d أغانٍ</item>
+        <item quantity="many">%1$d من أصل %2$d أغنية</item>
+    </plurals>
+    <plurals name="notification_offline_playlist_progress_track_count">
+        <item quantity="other">%1$d من أصل %2$d أغنية</item>
+        <item quantity="zero">0 من أصل 0 أغنية</item>
+        <item quantity="one">%1$d من أصل أغنية واحدة</item>
+        <item quantity="two">%1$d من أصل أغنيتَين (%2$d)</item>
+        <item quantity="few">%1$d من أصل %2$d أغانٍ</item>
+        <item quantity="many">%1$d من أصل %2$d أغنية</item>
+    </plurals>
+    <plurals name="offline_playlist_detail_page_subtitle_with_size">
+        <item quantity="other">قائمة تشغيل تتضمّن %1$d أغنية</item>
+        <item quantity="zero">قائمة تشغيل لا تتضمّن أغانٍ</item>
+        <item quantity="one">قائمة تشغيل تتضمّن أغنية واحدة</item>
+        <item quantity="two">قائمة تشغيل تتضمّن أغنيتَين (%1$d)</item>
+        <item quantity="few">قائمة تشغيل تتضمّن %1$d أغانٍ</item>
+        <item quantity="many">قائمة تشغيل تتضمّن %1$d أغنية</item>
+    </plurals>
+    <plurals name="offline_playlist_size">
+        <item quantity="other">%1$,d أغنية</item>
+        <item quantity="zero">%1$,d أغنية</item>
+        <item quantity="one">أغنية واحدة</item>
+        <item quantity="two">(%1$,d) أغنيتان</item>
+        <item quantity="few">%1$,d أغانٍ</item>
+        <item quantity="many">%1$,d أغنية</item>
+    </plurals>
+    <plurals name="offline_podcast_playlist_size">
+        <item quantity="other">%1$,d حلقة</item>
+        <item quantity="zero">%1$,d حلقة</item>
+        <item quantity="one">حلقة واحدة</item>
+        <item quantity="two">حلقتان (%1$,d)</item>
+        <item quantity="few">%1$,d حلقات</item>
+        <item quantity="many">%1$,d حلقة</item>
+    </plurals>
+    <plurals name="playlist_subtitle_with_track_count">
+        <item quantity="other">قائمة تشغيل • %1$d مقطع صوتي</item>
+        <item quantity="zero">قائمة تشغيل • 0 مقطع صوتي</item>
+        <item quantity="one">قائمة تشغيل • مقطع صوتي واحد</item>
+        <item quantity="two">قائمة تشغيل • مقطعان صوتيّان (%1$d)</item>
+        <item quantity="few">قائمة تشغيل • %1$d مقاطع صوتية</item>
+        <item quantity="many">قائمة تشغيل • %1$d مقطعًا صوتيًا</item>
+    </plurals>
+    <plurals name="playlist_with_creator_and_size_item_subtitle">
+        <item quantity="other">%1$s • %2$d أغنية</item>
+        <item quantity="zero">%1$s • 0 أغنية</item>
+        <item quantity="one">%1$s • أغنية واحدة</item>
+        <item quantity="two">%1$s • أغنيتان (%2$d)</item>
+        <item quantity="few">%1$s • %2$d أغانٍ</item>
+        <item quantity="many">%1$s • %2$d أغنية</item>
+    </plurals>
+    <plurals name="playlist_with_creator_and_track_count_item_subtitle">
+        <item quantity="other">%1$s • %2$d مقطع صوتي</item>
+        <item quantity="zero">%1$s • 0 مقطع صوتي</item>
+        <item quantity="one">%1$s • مقطع صوتي واحد</item>
+        <item quantity="two">%1$s • مقطعان صوتيّان (%2$d)</item>
+        <item quantity="few">%1$s • %2$d مقاطع صوتية</item>
+        <item quantity="many">%1$s • %2$d مقطعًا صوتيًا</item>
+    </plurals>
+    <plurals name="playlist_with_entity_type_and_creator_and_size_item_subtitle">
+        <item quantity="other">قائمة تشغيل • %1$s • %2$d أغنية</item>
+        <item quantity="zero">قائمة تشغيل • %1$s • 0 أغنية</item>
+        <item quantity="one">قائمة تشغيل • %1$s • أغنية واحدة</item>
+        <item quantity="two">قائمة تشغيل • %1$s • أغنيتان (%2$d)</item>
+        <item quantity="few">قائمة تشغيل • %1$s • %2$d أغانٍ</item>
+        <item quantity="many">قائمة تشغيل • %1$s • %2$d أغنية</item>
+    </plurals>
+    <plurals name="playlist_with_entity_type_and_creator_and_track_count_item_subtitle">
+        <item quantity="other">قائمة تشغيل • %1$s • %2$d مقطع صوتي</item>
+        <item quantity="zero">قائمة تشغيل • %1$s • 0 مقطع صوتي</item>
+        <item quantity="one">قائمة تشغيل • %1$s • مقطع صوتي واحد</item>
+        <item quantity="two">قائمة تشغيل • %1$s • مقطعان صوتيّان (%2$d)</item>
+        <item quantity="few">قائمة تشغيل • %1$s • %2$d مقاطع صوتية</item>
+        <item quantity="many">قائمة تشغيل • %1$s • %2$d مقطعًا صوتيًا</item>
+    </plurals>
+    <plurals name="pref_enable_smart_download_recent_music_summary">
+        <item quantity="other">سيتم تنزيل %1$d أغنية بحد أقصى من الأغاني التي شغّلتها مؤخرًا.</item>
+        <item quantity="zero">سيتم تنزيل الأغاني التي شغّلتها مؤخرًا.</item>
+        <item quantity="one">سيتم تنزيل أغنية واحدة (%1$d) بحد أقصى من الأغاني التي شغّلتها مؤخرًا.</item>
+        <item quantity="two">سيتم تنزيل اثنين (%1$d) بحد أقصى من الأغاني التي شغّلتها مؤخرًا.</item>
+        <item quantity="few">سيتم تنزيل %1$d أغانٍ بحد أقصى من الأغاني التي شغّلتها مؤخرًا.</item>
+        <item quantity="many">سيتم تنزيل %1$d أغنية بحد أقصى من الأغاني التي شغّلتها مؤخرًا.</item>
+    </plurals>
+    <plurals name="quick_seek_x_second">
+        <item quantity="other">%d ثانية</item>
+        <item quantity="zero">%d ثانية</item>
+        <item quantity="one">ثانية واحدة (%d)</item>
+        <item quantity="two">ثانيتان (%d)</item>
+        <item quantity="few">%d ثوانٍ</item>
+        <item quantity="many">%d ثانية</item>
+    </plurals>
+    <plurals name="smart_downloads_details_header_byline_explanation">
+        <item quantity="other">تمّ تنزيل %1$d أغنية تلقائيًا.</item>
+        <item quantity="zero">لم يتمّ تنزيل أيّ أغنية تلقائيًا.</item>
+        <item quantity="one">تمّ تنزيل أغنية واحدة (%1$d) تلقائيًا.</item>
+        <item quantity="two">تمّ تنزيل أغنيتَين (%1$d) تلقائيًا.</item>
+        <item quantity="few">تمّ تنزيل %1$d أغانٍ تلقائيًا.</item>
+        <item quantity="many">تمّ تنزيل %1$d أغنية تلقائيًا.</item>
+    </plurals>
+    <plurals name="smart_downloads_num_songs_estimated_space">
+        <item quantity="other">%1$d أغنية (%2$s تقريبًا)</item>
+        <item quantity="zero">%1$d أغنية (%2$s تقريبًا)</item>
+        <item quantity="one">أغنية واحدة (%1$d) (%2$s تقريبًا)</item>
+        <item quantity="two">أغنيتان (%1$d) (%2$s تقريبًا)</item>
+        <item quantity="few">%1$d أغانٍ (%2$s تقريبًا)</item>
+        <item quantity="many">%1$d أغنية (%2$s تقريبًا)</item>
+    </plurals>
+    <plurals name="song_count">
+        <item quantity="other">%1$d أغنية</item>
+        <item quantity="zero">0 أغنية</item>
+        <item quantity="one">أغنية واحدة</item>
+        <item quantity="two">أغنيتان (%1$d)</item>
+        <item quantity="few">%1$d أغانٍ</item>
+        <item quantity="many">%1$d أغنية</item>
+    </plurals>
+    <plurals name="track_count">
+        <item quantity="other">%1$d مقطع صوتي</item>
+        <item quantity="zero">0 مقطع صوتي</item>
+        <item quantity="one">مقطع صوتي واحد</item>
+        <item quantity="two">مقطعان صوتيان (%1$d)</item>
+        <item quantity="few">%1$d مقاطع صوتية</item>
+        <item quantity="many">%1$d مقطعًا صوتيًا</item>
+    </plurals>
+    <plurals name="user_education_quick_seek">
+        <item quantity="other">يمكنك النقر مرّتين على يمين الشاشة أو يسارها لتخطّي %d ثانية.</item>
+        <item quantity="zero">يمكنك النقر مرّتين على يمين الشاشة أو يسارها لتخطّي %d ثانية.</item>
+        <item quantity="one">يمكنك النقر مرّتين على يمين الشاشة أو يسارها لتخطّي ثانية واحدة (%d).</item>
+        <item quantity="two">يمكنك النقر مرّتين على يمين الشاشة أو يسارها لتخطّي ثانيتين (%d).</item>
+        <item quantity="few">يمكنك النقر مرّتين على يمين الشاشة أو يسارها لتخطّي %d ثوانٍ.</item>
+        <item quantity="many">يمكنك النقر مرّتين على يمين الشاشة أو يسارها لتخطّي %d ثانية.</item>
+    </plurals>
+</resources>

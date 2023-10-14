@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dlg_message_deletion_confirmation">
+        <item quantity="other">Betiko ezabatuko dira grabaketak. Ezin da desegin ekintza.</item>
+        <item quantity="one">Betiko ezabatuko da grabaketa. Ezin da desegin ekintza.</item>
+    </plurals>
+    <plurals name="dlg_message_deletion_permanent_confirmation">
+        <item quantity="other">Ez dira egin grabaketa hauen babeskopiarik. Betiko ezabatuko dira. Ezin da desegin ekintza.</item>
+        <item quantity="one">Ez da egin grabaketa honen babeskopiarik. Betiko ezabatuko da. Ezin da desegin ekintza.</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_confirmation">
+        <item quantity="other">Grabaketak ezabatu nahi dituzu?</item>
+        <item quantity="one">Grabaketa ezabatu nahi duzu?</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_permanent_confirmation">
+        <item quantity="other">Grabaketa hauek betiko ezabatu nahi dituzu?</item>
+        <item quantity="one">Grabaketa hau betiko ezabatu nahi duzu?</item>
+    </plurals>
+    <plurals name="download_failure_description_storage_full">
+        <item quantity="other">Ezin dira deskargatu grabaketak gailuaren memoria beteta dagoelako. Berrikusteko, sakatu hau.</item>
+        <item quantity="one">Gailuaren memoria beteta dago. Berrikusteko, sakatu hau.</item>
+    </plurals>
+    <plurals name="downloading_description">
+        <item quantity="other">%1$d grabaketa deskargatzen</item>
+        <item quantity="one">%1$d grabaketa deskargatzen</item>
+    </plurals>
+    <plurals name="og_backup_failed_title">
+        <item quantity="other">Ezin izan da egin %1$d elementuren babeskopia</item>
+        <item quantity="one">Ezin izan da egin %1$d elementuren babeskopia</item>
+    </plurals>
+    <plurals name="og_backup_items_left">
+        <item quantity="other">%1$d elementu falta dira</item>
+        <item quantity="one">%1$d elementu falta da</item>
+    </plurals>
+    <plurals name="og_backup_items_stopped_title">
+        <item quantity="other">Ez dira egin %1$d elementuren babeskopiak</item>
+        <item quantity="one">Ez da egin %1$d elementuren babeskopia</item>
+    </plurals>
+    <plurals name="search_results_count">
+        <item quantity="other">%1$d emaitza</item>
+        <item quantity="one">%1$d emaitza</item>
+    </plurals>
+    <plurals name="search_results_position">
+        <item quantity="other">^1/^2 emaitza</item>
+        <item quantity="one">^1/^2 emaitza</item>
+    </plurals>
+    <plurals name="search_results_position_content_description">
+        <item quantity="other">%1$d/%2$d emaitza</item>
+        <item quantity="one">%1$d/%2$d emaitza</item>
+    </plurals>
+    <plurals name="selected_recording_quantity">
+        <item quantity="other">%1$d hautatuta</item>
+        <item quantity="one">%1$d hautatuta</item>
+    </plurals>
+    <plurals name="snackbar_message_download_failed_storage_full">
+        <item quantity="other">Gailuaren memoria beteta dago. Ezin dira deskargatu grabaketak.</item>
+        <item quantity="one">Gailuaren memoria beteta dago. Ezin da deskargatu grabaketa.</item>
+    </plurals>
+    <plurals name="speaker_count">
+        <item quantity="other">%1$d bozgorailu</item>
+        <item quantity="one">%1$d bozgorailu</item>
+    </plurals>
+    <plurals name="uploading_description">
+        <item quantity="other">%1$d grabaketa kargatzen</item>
+        <item quantity="one">%1$d grabaketa kargatzen</item>
+    </plurals>
+</resources>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="CALLOUT_ALPHABETIC_LABELS">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+    </string-array>
+    <string-array name="RESTRICTION_ALLOWED_PRICE_LEVEL">
+        <item>Todos</item>
+        <item>$</item>
+        <item>$$</item>
+        <item>$$$</item>
+        <item>$$$$</item>
+    </string-array>
+    <string-array name="RESTRICTION_ALLOWED_PRICE_LEVEL_DESCRIPTIONS">
+        <item>Todos los niveles de precios</item>
+        <item>De bajo costo</item>
+        <item>De costo moderado</item>
+        <item>De alto costo</item>
+        <item>De muy alto costo</item>
+    </string-array>
+    <string-array name="RESTRICTION_HOTEL_CLASSES">
+        <item>Todos</item>
+        <item>3 estr.</item>
+        <item>4 estr.</item>
+        <item>5 estr.</item>
+    </string-array>
+    <string-array name="RESTRICTION_OPENING_HOURS_OPTIONS">
+        <item>Todos</item>
+        <item>Abierto ahora</item>
+        <item>Personaliz.</item>
+    </string-array>
+    <string-array name="SHOW_SCALEBAR_ENTRIES">
+        <item>Al acercar o alejar el mapa</item>
+        <item>Siempre</item>
+    </string-array>
+    <string-array name="interactive_rating_state_commentary">
+        <item>No me gustó en absoluto</item>
+        <item>No me gustó</item>
+        <item>Aceptable</item>
+        <item>Me gustó</item>
+        <item>Me encantó</item>
+    </string-array>
+</resources>

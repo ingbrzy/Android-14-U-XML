@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_retaildemoCommunication">Позволяет приложению взаимодействовать с сервисами деморежима для магазина. Это разрешение открывает доступ к действиям, предназначенным для деморежима для магазина, поэтому его следует предоставлять только приложению \"Деморежим для магазина\".</string>
+    <string name="permlab_retaildemoCommunication">Доступ к сервисам деморежима для магазина</string>
+    <string name="retaildemo_preload_app_name">Сервисы деморежима</string>
+</resources>

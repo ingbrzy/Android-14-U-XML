@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="call_captions_typing_predictions_post_system_message">
+        <item>สวัสดี นั่นใครพูดเหรอ</item>
+        <item>สวัสดี เป็นไงบ้าง</item>
+        <item>โปรดถือสายรอสักครู่</item>
+        <item>สวัสดี เดี๋ยวโทรกลับมาใหม่ได้มั้ย</item>
+        <item>สวัสดี ขอขอบคุณที่โทรหาเรา</item>
+    </string-array>
+    <string-array name="captions_settings_enable_for_calls_choices_entries">
+        <item>ถามทุกครั้ง</item>
+        <item>ทุกครั้ง</item>
+        <item>ปิด</item>
+    </string-array>
+    <string-array name="captions_settings_typing_voice_names">
+        <item>เสียง A</item>
+        <item>เสียง B</item>
+        <item>เสียง C</item>
+        <item>เสียง D</item>
+        <item>เสียง E</item>
+        <item>เสียง F</item>
+        <item>เสียง G</item>
+        <item>เสียง H</item>
+        <item>เสียง I</item>
+        <item>เสียง J</item>
+        <item>เสียง K</item>
+        <item>เสียง L</item>
+        <item>เสียง M</item>
+        <item>เสียง N</item>
+        <item>เสียง O</item>
+        <item>เสียง P</item>
+    </string-array>
+    <string-array name="pref_download_policy_entries">
+        <item>อินเทอร์เน็ตมือถือและ Wi-Fi</item>
+        <item>Wi-Fi เท่านั้น</item>
+        <item>ไม่ต้องอัปเดต</item>
+    </string-array>
+    <string-array name="pref_download_policy_entry_values_placeholder">
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+</resources>

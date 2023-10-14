@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="azure_title">Azure jay</string>
+    <string name="blackswan_title">Angsa hitam</string>
+    <string name="cockatoo_title">Kakaktua</string>
+    <string name="come_alive_title">Interaktif</string>
+    <string name="feathers_attribution">Foto oleh Andrew Zuckerman</string>
+    <string name="feathers_description">Gambar bulu burung warna-warni dengan detail yang indah</string>
+    <string name="feathers_title">Bulu burung</string>
+    <string name="greenwinged_title">Makaw sayap hijau</string>
+    <string name="king_title">Hering raja</string>
+    <string name="living_universe_title">Alam Semesta</string>
+    <string name="photos_memory_gallery_title">Kenangan Anda</string>
+    <string name="pied_title">Gagak pied</string>
+    <string name="ringnecked_title">Parkit leher cincin</string>
+    <string name="seagull_title">Camar</string>
+</resources>

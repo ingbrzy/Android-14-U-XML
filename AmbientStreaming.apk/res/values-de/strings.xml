@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cross-Device Services</string>
+    <string name="app_name_generic">eine App</string>
+    <string name="app_stream_error_generic">Fehler beim Freigeben der App</string>
+    <string name="app_stream_init_error_generic">Die App konnte nicht für dein Chromebook freigegeben werden</string>
+    <string name="audio_permission_rationale">Zugriff auf das Mikrofon bei Freigabe der App ist deaktiviert</string>
+    <string name="cancel_button_label">Abbrechen</string>
+    <string name="chromebook_keyboard">Chromebook-Tastatur</string>
+    <string name="chromebook_mouse">Chromebook-Maus</string>
+    <string name="chromebook_touchscreen">Chromebook-Touchscreen</string>
+    <string name="connect_device">Verbindung zwischen Smartphone und Remote-Gerät wird hergestellt: %1$s</string>
+    <string name="decline_button_label">Ablehnen</string>
+    <string name="development_notification_channel_name">Entwicklung</string>
+    <string name="device_camera_cannot_access">Du kannst mit diesem Chromebook nicht auf die Gerätekamera zugreifen</string>
+    <string name="done_button_label">Fertig</string>
+    <string name="enable_button_label">Aktivieren</string>
+    <string name="foreground_service_notification_channel_name">Allgemein</string>
+    <string name="foreground_service_notification_content">Tippen, um Einstellungen zu ändern</string>
+    <string name="foreground_service_notification_title">{0,plural, =1{Mit # Gerät verbunden}other{Mit # Geräten verbunden}}</string>
+    <string name="interactive_streaming_generic_notification">%1$s wird auf deinem Chromebook gestreamt und Benachrichtigungen werden synchronisiert</string>
+    <string name="interactive_streaming_individual_notification">%1$s wird gestreamt und Benachrichtigungen für %2$s werden synchronisiert</string>
+    <string name="interactive_streaming_notification">Wird auf deinem Chromebook gestreamt</string>
+    <string name="keyboard_name">Geräteübergreifende Tastatur</string>
+    <string name="lock_screen_notif_warning_content">Benachrichtigungen auf dem Sperrbildschirm aktivieren</string>
+    <string name="lock_screen_notif_warning_title">Benachrichtigungen werden nicht weitergeleitet</string>
+    <string name="mouse_name">Geräteübergreifende Maus</string>
+    <string name="new_connection_confirm">Bestätigen</string>
+    <string name="new_connection_deny">Ablehnen</string>
+    <string name="new_connection_title">String-Übereinstimmungen bestätigen</string>
+    <string name="notification_access_missing">Benachrichtigungszugriff erforderlich</string>
+    <string name="notification_access_missing_description">Aktiviere den Benachrichtigungszugriff, um Benachrichtigungen auf deinem Chromebook zu öffnen</string>
+    <string name="notification_channel_name">Allgemein</string>
+    <string name="notification_listener_label">Apps für dein Chromebook freigeben</string>
+    <string name="open_source_licenses">Open-Source-Lizenzen</string>
+    <string name="phone_permission_rationale">Anrufberechtigung bei Freigabe der App ist deaktiviert</string>
+    <string name="prompt_switch_languages">Drücke Umschalttaste + Leertaste, um Gboard-Sprache des Smartphones zu wechseln</string>
+    <string name="settings_button">Einstellungen</string>
+    <string name="stop_sharing_button">Stream beenden</string>
+    <string name="stream_termination_proximity_warning">Dein Smartphone ist zu weit weg. Bring es näher heran, um weiter zu streamen.</string>
+    <string name="substitute_app_name">System</string>
+    <string name="summary_disable_wirecutter">Aus</string>
+    <string name="summary_enable_wirecutter">An</string>
+    <string name="touchscreen_name">Geräteübergreifender Touchscreen</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="bias_custom_name_summary">
+        <item quantity="other">%d שמות</item>
+        <item quantity="one">%d שמות</item>
+        <item quantity="two">%d שמות</item>
+    </plurals>
+    <plurals name="bias_custom_word_summary">
+        <item quantity="other">%d מילים</item>
+        <item quantity="one">%d מילים</item>
+        <item quantity="two">%d מילים</item>
+    </plurals>
+    <plurals name="dolphin_notification_title_sound_alert_information">
+        <item quantity="other">זוהו %1$d צלילים במהלך %2$d השעות האחרונות</item>
+        <item quantity="one">זוהו %1$d צלילים במהלך %2$d השעות האחרונות</item>
+        <item quantity="two">זוהו %1$d צלילים במהלך %2$d השעות האחרונות</item>
+    </plurals>
+</resources>

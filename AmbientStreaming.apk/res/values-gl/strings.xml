@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Servizos multidispositivo</string>
+    <string name="app_name_generic">unha aplicación</string>
+    <string name="app_stream_error_generic">Produciuse un erro ao compartir a aplicación</string>
+    <string name="app_stream_init_error_generic">Non se puido compartir a aplicación co teu Chromebook</string>
+    <string name="audio_permission_rationale">O permiso de acceso ao micrófono mentres se comparten aplicacións está desactivado</string>
+    <string name="cancel_button_label">Cancelar</string>
+    <string name="chromebook_keyboard">Teclado de Chromebook</string>
+    <string name="chromebook_mouse">Rato de Chromebook</string>
+    <string name="chromebook_touchscreen">Pantalla táctil de Chromebook</string>
+    <string name="connect_device">Conectando teléfono co dispositivo remoto: %1$s</string>
+    <string name="decline_button_label">Rexeitar</string>
+    <string name="development_notification_channel_name">Programación</string>
+    <string name="device_camera_cannot_access">Desde este Chromebook non se pode acceder á cámara do dispositivo</string>
+    <string name="done_button_label">Feito</string>
+    <string name="enable_button_label">Activar</string>
+    <string name="foreground_service_notification_channel_name">Xeral</string>
+    <string name="foreground_service_notification_content">Toca para modificar a configuración</string>
+    <string name="foreground_service_notification_title">{0,plural, =1{Conectado a # dispositivo}other{Conectado a # dispositivos}}</string>
+    <string name="interactive_streaming_generic_notification">Emitindo %1$s en tempo real ao teu Chromebook e sincronizando notificacións con el</string>
+    <string name="interactive_streaming_individual_notification">Reproducindo contido en tempo real de %1$s e sincronizando notificacións para %2$s</string>
+    <string name="interactive_streaming_notification">Emitindo en tempo real ao teu Chromebook</string>
+    <string name="keyboard_name">Teclado multidispositivo</string>
+    <string name="lock_screen_notif_warning_content">Activa as notificacións na pantalla de bloqueo</string>
+    <string name="lock_screen_notif_warning_title">Non se reenviarán as notificacións</string>
+    <string name="mouse_name">Rato multidispositivo</string>
+    <string name="new_connection_confirm">Confirmar</string>
+    <string name="new_connection_deny">Denegar</string>
+    <string name="new_connection_title">Confirma que a cadea coincida</string>
+    <string name="notification_access_missing">Necesítase acceso ás notificacións</string>
+    <string name="notification_access_missing_description">Para abrir as notificacións no teu Chromebook, activa o acceso a elas</string>
+    <string name="notification_channel_name">Xerais</string>
+    <string name="notification_listener_label">Compartir aplicacións co teu Chromebook</string>
+    <string name="open_source_licenses">Licenzas de código aberto</string>
+    <string name="phone_permission_rationale">O permiso de realizar chamadas mentres se comparten aplicacións está desactivado</string>
+    <string name="prompt_switch_languages">Preme Maiúsculas + Espazo para cambiar o idioma de Gboard do teléfono</string>
+    <string name="settings_button">Configuración</string>
+    <string name="stop_sharing_button">Finalizar emisión</string>
+    <string name="stream_termination_proximity_warning">O teu teléfono está demasiado lonxe. Para seguir coa emisión, achégao.</string>
+    <string name="substitute_app_name">Sistema</string>
+    <string name="summary_disable_wirecutter">Desactivado</string>
+    <string name="summary_enable_wirecutter">Activado</string>
+    <string name="touchscreen_name">Pantalla táctil multidispositivo</string>
+</resources>

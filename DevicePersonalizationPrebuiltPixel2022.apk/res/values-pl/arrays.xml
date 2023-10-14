@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="call_captions_typing_predictions_post_system_message">
+        <item>Dzień dobry, kto mówi?</item>
+        <item>Cześć, co słychać?</item>
+        <item>Proszę chwilę zaczekać</item>
+        <item>Cześć, czy mogę oddzwonić później?</item>
+        <item>Cześć! Dziękuję za telefon.</item>
+    </string-array>
+    <string-array name="captions_settings_enable_for_calls_choices_entries">
+        <item>Zawsze pytaj</item>
+        <item>Zawsze</item>
+        <item>Wyłączone</item>
+    </string-array>
+    <string-array name="captions_settings_typing_voice_names">
+        <item>Głos A</item>
+        <item>Głos B</item>
+        <item>Głos C</item>
+        <item>Głos D</item>
+        <item>Głos E</item>
+        <item>Głos F</item>
+        <item>Głos G</item>
+        <item>Głos H</item>
+        <item>Głos I</item>
+        <item>Głos J</item>
+        <item>Głos K</item>
+        <item>Głos L</item>
+        <item>Głos M</item>
+        <item>Głos N</item>
+        <item>Głos O</item>
+        <item>Głos P</item>
+    </string-array>
+    <string-array name="pref_download_policy_entries">
+        <item>Mobilna transmisja danych + Wi-Fi</item>
+        <item>Tylko Wi-Fi</item>
+        <item>Nie aktualizuj</item>
+    </string-array>
+    <string-array name="pref_download_policy_entry_values_placeholder">
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+</resources>

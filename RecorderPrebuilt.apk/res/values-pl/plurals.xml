@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dlg_message_deletion_confirmation">
+        <item quantity="other">Nagrania zostaną trwale usunięte. Tej czynności nie będzie można cofnąć.</item>
+        <item quantity="one">Nagranie zostanie trwale usunięte. Tej czynności nie będzie można cofnąć.</item>
+        <item quantity="few">Nagrania zostaną trwale usunięte. Tej czynności nie będzie można cofnąć.</item>
+        <item quantity="many">Nagrania zostaną trwale usunięte. Tej czynności nie będzie można cofnąć.</item>
+    </plurals>
+    <plurals name="dlg_message_deletion_permanent_confirmation">
+        <item quantity="other">Te nagrania nie mają kopii zapasowych. Zostaną usunięte na stałe. Tej czynności nie można cofnąć.</item>
+        <item quantity="one">Nagranie nie ma kopii zapasowej. Zostanie usunięte na stałe. Tej czynności nie można cofnąć.</item>
+        <item quantity="few">Te nagrania nie mają kopii zapasowych. Zostaną usunięte na stałe. Tej czynności nie można cofnąć.</item>
+        <item quantity="many">Te nagrania nie mają kopii zapasowych. Zostaną usunięte na stałe. Tej czynności nie można cofnąć.</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_confirmation">
+        <item quantity="other">Usunąć nagrania?</item>
+        <item quantity="one">Usunąć nagranie?</item>
+        <item quantity="few">Usunąć nagrania?</item>
+        <item quantity="many">Usunąć nagrania?</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_permanent_confirmation">
+        <item quantity="other">Trwale usunąć te nagrania?</item>
+        <item quantity="one">Trwale usunąć to nagranie?</item>
+        <item quantity="few">Trwale usunąć te nagrania?</item>
+        <item quantity="many">Trwale usunąć te nagrania?</item>
+    </plurals>
+    <plurals name="download_failure_description_storage_full">
+        <item quantity="other">Nie można pobrać nagrań, ponieważ pamięć urządzenia jest pełna. Kliknij, aby to sprawdzić.</item>
+        <item quantity="one">Pamięć urządzenia jest pełna. Kliknij, aby to sprawdzić.</item>
+        <item quantity="few">Nie można pobrać nagrań, ponieważ pamięć urządzenia jest pełna. Kliknij, aby to sprawdzić.</item>
+        <item quantity="many">Nie można pobrać nagrań, ponieważ pamięć urządzenia jest pełna. Kliknij, aby to sprawdzić.</item>
+    </plurals>
+    <plurals name="downloading_description">
+        <item quantity="other">Pobieram %1$d nagrania</item>
+        <item quantity="one">Pobieram %1$d nagranie</item>
+        <item quantity="few">Pobieram %1$d nagrania</item>
+        <item quantity="many">Pobieram %1$d nagrań</item>
+    </plurals>
+    <plurals name="og_backup_failed_title">
+        <item quantity="other">Nie udało się utworzyć kopii zapasowej %1$d elementu</item>
+        <item quantity="one">Nie udało się utworzyć kopii zapasowej %1$d elementu</item>
+        <item quantity="few">Nie udało się utworzyć kopii zapasowej %1$d elementów</item>
+        <item quantity="many">Nie udało się utworzyć kopii zapasowej %1$d elementów</item>
+    </plurals>
+    <plurals name="og_backup_items_left">
+        <item quantity="other">Pozostało %1$d elementu</item>
+        <item quantity="one">Pozostał %1$d element</item>
+        <item quantity="few">Pozostały %1$d elementy</item>
+        <item quantity="many">Pozostało %1$d elementów</item>
+    </plurals>
+    <plurals name="og_backup_items_stopped_title">
+        <item quantity="other">Nie udało się utworzyć kopii zapasowej %1$d elementu</item>
+        <item quantity="one">Nie udało się utworzyć kopii zapasowej %1$d elementu</item>
+        <item quantity="few">Nie udało się utworzyć kopii zapasowej %1$d elementów</item>
+        <item quantity="many">Nie udało się utworzyć kopii zapasowej %1$d elementów</item>
+    </plurals>
+    <plurals name="peoplekit_chips_copied_recipients">
+        <item quantity="other">Skopiowano %d adresata</item>
+        <item quantity="one">Skopiowano %d adresata</item>
+        <item quantity="few">Skopiowano %d adresatów</item>
+        <item quantity="many">Skopiowano %d adresatów</item>
+    </plurals>
+    <plurals name="search_results_count">
+        <item quantity="other">%1$d wyniku</item>
+        <item quantity="one">%1$d wynik</item>
+        <item quantity="few">%1$d wyniki</item>
+        <item quantity="many">%1$d wyników</item>
+    </plurals>
+    <plurals name="search_results_position">
+        <item quantity="other">^1/^2 wyniku</item>
+        <item quantity="one">^1/^2 wyniku</item>
+        <item quantity="few">^1/^2 wyników</item>
+        <item quantity="many">^1/^2 wyników</item>
+    </plurals>
+    <plurals name="search_results_position_content_description">
+        <item quantity="other">%1$d z %2$d wyniku</item>
+        <item quantity="one">%1$d z %2$d wyniku</item>
+        <item quantity="few">%1$d z %2$d wyników</item>
+        <item quantity="many">%1$d z %2$d wyników</item>
+    </plurals>
+    <plurals name="selected_recording_quantity">
+        <item quantity="other">Wybrano %1$d</item>
+        <item quantity="one">Wybrano %1$d</item>
+        <item quantity="few">Wybrano %1$d</item>
+        <item quantity="many">Wybrano %1$d</item>
+    </plurals>
+    <plurals name="snackbar_message_download_failed_storage_full">
+        <item quantity="other">Pamięć urządzenia jest pełna. Nie można pobrać nagrania.</item>
+        <item quantity="one">Pamięć urządzenia jest pełna. Nie można pobrać nagrania.</item>
+        <item quantity="few">Pamięć urządzenia jest pełna. Nie można pobrać nagrań.</item>
+        <item quantity="many">Pamięć urządzenia jest pełna. Nie można pobrać nagrań.</item>
+    </plurals>
+    <plurals name="speaker_count">
+        <item quantity="other">%1$d rozmówcy</item>
+        <item quantity="one">%1$d rozmówca</item>
+        <item quantity="few">%1$d rozmówców</item>
+        <item quantity="many">%1$d rozmówców</item>
+    </plurals>
+    <plurals name="uploading_description">
+        <item quantity="other">Przesyłam %1$d nagrania</item>
+        <item quantity="one">Przesyłam %1$d nagranie</item>
+        <item quantity="few">Przesyłam %1$d nagrania</item>
+        <item quantity="many">Przesyłam %1$d nagrań</item>
+    </plurals>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bundle1_color_name">Karbon</string>
+    <string name="bundle2_color_name">Kağız</string>
+    <string name="bundle3_color_name">Günəş</string>
+    <string name="color_name_monochromatic">Monoxromatik</string>
+    <string name="default_color_name">Klassik</string>
+    <string name="fruit1_color_name">İkirəngli palitra: sarı və qırmızı</string>
+    <string name="fruit2_color_name">İkirəngli palitra: yaşıl və narıncı</string>
+    <string name="fruit3_color_name">İkirəngli palitra: mavi və yaşıl</string>
+    <string name="fruit4_color_name">İkirəngli palitra: açıq-bənövşəyi və mavi</string>
+    <string name="fruit5_color_name">İkirəngli palitra: çəhrayı və indiqo</string>
+    <string name="rainbow1_color_name">Qırmızı</string>
+    <string name="rainbow2_color_name">Narıncı</string>
+    <string name="rainbow3_color_name">Sarı</string>
+    <string name="rainbow4_color_name">Yaşıl</string>
+    <string name="rainbow5_color_name">Mavi</string>
+    <string name="rainbow6_color_name">İndiqo</string>
+    <string name="rainbow7_color_name">Bənövşəyi</string>
+</resources>

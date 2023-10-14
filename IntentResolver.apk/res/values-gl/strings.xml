@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Vai ao inicio</string>
+    <string name="abc_action_bar_up_description">Vai cara arriba</string>
+    <string name="abc_action_menu_overflow_description">Máis opcións</string>
+    <string name="abc_action_mode_done">Feito</string>
+    <string name="abc_activity_chooser_view_see_all">Ver todo</string>
+    <string name="abc_activitychooserview_choose_application">Selecciona unha aplicación</string>
+    <string name="abc_capital_off">DESACTIVADO</string>
+    <string name="abc_capital_on">ACTIVADO</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+    <string name="abc_menu_delete_shortcut_label">eliminar</string>
+    <string name="abc_menu_enter_shortcut_label">intro</string>
+    <string name="abc_menu_function_shortcut_label">Función +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Maiús +</string>
+    <string name="abc_menu_space_shortcut_label">espazo</string>
+    <string name="abc_menu_sym_shortcut_label">Sym +</string>
+    <string name="abc_prepend_shortcut_label">Menú +</string>
+    <string name="abc_search_hint">Busca…</string>
+    <string name="abc_searchview_description_clear">Borra a consulta</string>
+    <string name="abc_searchview_description_query">Busca a consulta</string>
+    <string name="abc_searchview_description_search">Realiza buscas</string>
+    <string name="abc_searchview_description_submit">Envía a consulta</string>
+    <string name="abc_searchview_description_voice">Busca por voz</string>
+    <string name="abc_shareactionprovider_share_with">Comparte contido con</string>
+    <string name="abc_shareactionprovider_share_with_application">Comparte contido coa aplicación %s</string>
+    <string name="abc_toolbar_collapse_description">Contrae</string>
+    <string name="activity_resolver_use_always">Sempre</string>
+    <string name="activity_resolver_use_once">Só unha vez</string>
+    <string name="activity_resolver_work_profiles_support">%1$s non é compatible co perfil de traballo</string>
+    <string name="call_notification_answer_action">Contestar</string>
+    <string name="call_notification_answer_video_action">Vídeo</string>
+    <string name="call_notification_decline_action">Rexeitar</string>
+    <string name="call_notification_hang_up_action">Colgar</string>
+    <string name="call_notification_incoming_text">Chamada entrante</string>
+    <string name="call_notification_ongoing_text">Chamada en curso</string>
+    <string name="call_notification_screening_text">Filtrando chamada entrante</string>
+    <string name="chooseActivity">Escoller unha acción</string>
+    <string name="chooser_no_direct_share_targets">Non hai recomendacións de persoas coas que compartir contido</string>
+    <string name="exclude_link">Excluír ligazón</string>
+    <string name="exclude_text">Excluír texto</string>
+    <string name="file_preview_a11y_description">Miniatura de vista previa do ficheiro</string>
+    <string name="forward_intent_to_owner">Estás usando esta aplicación fóra do teu perfil de traballo</string>
+    <string name="forward_intent_to_work">Estás usando esta aplicación no teu perfil de traballo</string>
+    <string name="image_preview_a11y_description">Miniatura de vista previa da imaxe</string>
+    <string name="include_link">Incluír ligazón</string>
+    <string name="include_text">Incluír texto</string>
+    <string name="miniresolver_open_in_personal">Queres abrir %s no teu perfil persoal?</string>
+    <string name="miniresolver_open_in_work">Queres abrir %s no teu perfil de traballo?</string>
+    <string name="miniresolver_use_personal_browser">Utilizar navegador persoal</string>
+    <string name="miniresolver_use_work_browser">Utilizar navegador de traballo</string>
+    <string name="more_files">{count,plural, =1{# ficheiro máis}other{# ficheiros máis}}</string>
+    <string name="noApplications">Ningunha aplicación pode realizar esta acción.</string>
+    <string name="other_files">{count,plural, =1{+# ficheiro}other{+# ficheiros}}</string>
+    <string name="pin_specific_target">Fixar %1$s</string>
+    <string name="resolver_cant_access_personal_apps_explanation">Este contido non pode abrirse con aplicacións persoais</string>
+    <string name="resolver_cant_access_work_apps_explanation">Este contido non pode abrirse con aplicacións do traballo</string>
+    <string name="resolver_cant_share_with_personal_apps_explanation">Este contido non pode compartirse con aplicacións persoais</string>
+    <string name="resolver_cant_share_with_work_apps_explanation">Este contido non pode compartirse con aplicacións do traballo</string>
+    <string name="resolver_cross_profile_blocked">O teu administrador de TI bloqueou a instalación</string>
+    <string name="resolver_no_personal_apps_available">Non hai ningunha aplicación persoal compatible</string>
+    <string name="resolver_no_work_apps_available">Non hai ningunha aplicación do traballo compatible</string>
+    <string name="resolver_personal_tab">Persoal</string>
+    <string name="resolver_personal_tab_accessibility">Vista persoal</string>
+    <string name="resolver_switch_on_work">Reactivar</string>
+    <string name="resolver_turn_on_work_apps">As aplicacións do traballo están en pausa</string>
+    <string name="resolver_work_tab">Traballo</string>
+    <string name="resolver_work_tab_accessibility">Vista de traballo</string>
+    <string name="screenshot_edit">Editar</string>
+    <string name="search_menu_title">Buscar</string>
+    <string name="sharing_files">{count,plural, =1{Compartindo # ficheiro}other{Compartindo # ficheiros}}</string>
+    <string name="sharing_files_only">{count,plural, =1{Só o ficheiro}other{Só os ficheiros}}</string>
+    <string name="sharing_files_with_link">{count,plural, =1{Compartindo ficheiro con ligazón}other{Compartindo # ficheiros con ligazón}}</string>
+    <string name="sharing_files_with_text">{count,plural, =1{Compartindo ficheiro con texto}other{Compartindo # ficheiros con texto}}</string>
+    <string name="sharing_images">{count,plural, =1{Compartindo imaxe}other{Compartindo # imaxes}}</string>
+    <string name="sharing_images_only">{count,plural, =1{Só a imaxe}other{Só as imaxes}}</string>
+    <string name="sharing_images_with_link">{count,plural, =1{Compartindo imaxe con ligazón}other{Compartindo # imaxes con ligazón}}</string>
+    <string name="sharing_images_with_text">{count,plural, =1{Compartindo imaxe con texto}other{Compartindo # imaxes con texto}}</string>
+    <string name="sharing_link">Compartindo ligazón</string>
+    <string name="sharing_text">Compartindo texto</string>
+    <string name="sharing_videos">{count,plural, =1{Compartindo vídeo}other{Compartindo # vídeos}}</string>
+    <string name="sharing_videos_only">{count,plural, =1{Só o vídeo}other{Só os vídeos}}</string>
+    <string name="sharing_videos_with_link">{count,plural, =1{Compartindo vídeo con ligazón}other{Compartindo # vídeos con ligazón}}</string>
+    <string name="sharing_videos_with_text">{count,plural, =1{Compartindo vídeo con texto}other{Compartindo # vídeos con texto}}</string>
+    <string name="status_bar_notification_info_overflow">>999</string>
+    <string name="unpin_specific_target">Deixar de fixar a %1$s</string>
+    <string name="usb_device_resolve_prompt_warn">Esta aplicación non está autorizada a realizar gravacións, pero podería capturar audio a través deste dispositivo USB.</string>
+    <string name="use_a_different_app">Utilizar unha aplicación diferente</string>
+    <string name="video_preview_a11y_description">Miniatura de vista previa do vídeo</string>
+    <string name="whichApplication">Completar a acción usando</string>
+    <string name="whichApplicationLabel">Completar acción</string>
+    <string name="whichApplicationNamed">Completar a acción usando %1$s</string>
+    <string name="whichEditApplication">Editar con</string>
+    <string name="whichEditApplicationLabel">Editar</string>
+    <string name="whichEditApplicationNamed">Editar con %1$s</string>
+    <string name="whichGiveAccessToApplicationLabel">Permitir acceso</string>
+    <string name="whichHomeApplication">Selecciona unha aplicación de Inicio</string>
+    <string name="whichHomeApplicationLabel">Capturar imaxe</string>
+    <string name="whichHomeApplicationNamed">Usar %1$s como aplicación de pantalla de inicio</string>
+    <string name="whichImageCaptureApplication">Capturar imaxe con</string>
+    <string name="whichImageCaptureApplicationLabel">Capturar imaxe</string>
+    <string name="whichImageCaptureApplicationNamed">Capturar a imaxe con %1$s</string>
+    <string name="whichOpenHostLinksWith">Abrir ligazóns de %1$s con</string>
+    <string name="whichOpenHostLinksWithApp">Abrir ligazóns de %1$s con %2$s</string>
+    <string name="whichOpenLinksWith">Abrir ligazóns con</string>
+    <string name="whichOpenLinksWithApp">Abrir ligazóns con %1$s</string>
+    <string name="whichSendApplication">Compartir</string>
+    <string name="whichSendApplicationLabel">Compartir</string>
+    <string name="whichSendApplicationNamed">Compartir o contido con %1$s</string>
+    <string name="whichSendToApplication">Enviar a través de</string>
+    <string name="whichSendToApplicationLabel">Enviar</string>
+    <string name="whichSendToApplicationNamed">Enviar con %1$s</string>
+    <string name="whichViewApplication">Abrir con</string>
+    <string name="whichViewApplicationLabel">Abrir</string>
+    <string name="whichViewApplicationNamed">Abrir con %1$s</string>
+</resources>

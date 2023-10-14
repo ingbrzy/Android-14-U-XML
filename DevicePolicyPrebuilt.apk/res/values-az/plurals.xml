@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_install_failed_multi_app_desc">
+        <item quantity="other">Tələb olunan %1$d tətbiqin quraşdırılması alınmadığına görə ayarlama tamamlanmadı. Birbaşa sistem administratorunuzla əlaqə saxlayın.</item>
+        <item quantity="one">Tələb olunan %1$d tətbiqin quraşdırılması alınmadığına görə ayarlama tamamlanmadı. Birbaşa sistem administratorunuzla əlaqə saxlayın.</item>
+    </plurals>
+    <plurals name="app_install_failure_title">
+        <item quantity="other">Tətbiqləri quraşdırmaq mümkün deyil</item>
+        <item quantity="one">Tətbiqi quraşdırmaq mümkün deyil</item>
+    </plurals>
+    <plurals name="app_install_progress_desc">
+        <item quantity="other">%1$d/%2$d tətbiq quraşdırılıb</item>
+        <item quantity="one">%1$d/%2$d tətbiq quraşdırılıb</item>
+    </plurals>
+    <plurals name="app_uninstall_button">
+        <item quantity="other">Tətbiqləri ləğv edin</item>
+        <item quantity="one">Tətbiqi ləğv edin</item>
+    </plurals>
+    <plurals name="days_left_message">
+        <item quantity="other">&lt;annotation id="numeric_time_left">^1&lt;/annotation> gün qalıb</item>
+        <item quantity="one">&lt;annotation id="numeric_time_left">^1&lt;/annotation> gün qalıb</item>
+    </plurals>
+    <plurals name="hours_left_message">
+        <item quantity="other">&lt;annotation id="numeric_time_left">^1&lt;/annotation> saat qalıb</item>
+        <item quantity="one">&lt;annotation id="numeric_time_left">^1&lt;/annotation> saat qalıb</item>
+    </plurals>
+    <plurals name="number_of_additional_apps">
+        <item quantity="other">%1$d əlavə tətbiq</item>
+        <item quantity="one">%1$d əlavə tətbiq</item>
+    </plurals>
+    <plurals name="number_of_required_apps">
+        <item quantity="other">%1$d tətbiq tələb olunur</item>
+        <item quantity="one">%1$d tətbiq tələb olunur</item>
+    </plurals>
+    <plurals name="policy_apps_list_summary">
+        <item quantity="other">%d iş tətbiqini sistemdən silmək olmur</item>
+        <item quantity="one">%d iş tətbiqini sistemdən silmək olmur</item>
+    </plurals>
+    <plurals name="preinstalled_apps">
+        <item quantity="other">%1$d/%2$d tətbiq quraşdırılıb</item>
+        <item quantity="one">%1$d/%2$d tətbiq quraşdırılıb</item>
+    </plurals>
+    <plurals name="readable_name_applications">
+        <item quantity="other">%1$d tətbiq əlçatandır (%2$d tətbiq quraşdırılıb, %3$d tətbiq deaktiv edilib)</item>
+        <item quantity="one">%1$d tətbiq əlçatandır (%2$d tətbiq quraşdırılıb, %3$d tətbiq deaktiv edilib)</item>
+    </plurals>
+</resources>

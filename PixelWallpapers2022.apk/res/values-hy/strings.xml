@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="azure_title">Կապույտ կաչաղակ</string>
+    <string name="blackswan_title">Սև կարապ</string>
+    <string name="cockatoo_title">Կակադու</string>
+    <string name="come_alive_title">Կենդանի էկրան</string>
+    <string name="feathers_attribution">Հեղինակ՝ Էնդրյու Ցուկերման</string>
+    <string name="feathers_description">Փետրավորների գունագեղ և մանրամասն պատկերներ</string>
+    <string name="feathers_title">Փետուրներ</string>
+    <string name="greenwinged_title">Կարմրականաչավուն թևերով արա</string>
+    <string name="king_title">Թագավոր անգղ</string>
+    <string name="living_universe_title">Կենդանի տիեզերք</string>
+    <string name="photos_memory_gallery_title">Ձեր հիշողությունները</string>
+    <string name="pied_title">Խայտաբղետ ագռավ</string>
+    <string name="ringnecked_title">Օղակավիզ թութակ</string>
+    <string name="seagull_title">Ճայ</string>
+</resources>

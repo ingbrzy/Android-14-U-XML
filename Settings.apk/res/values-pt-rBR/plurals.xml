@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="other">%d dias atrás</item>
+        <item quantity="one">%d dia atrás</item>
+        <item quantity="many">%d days ago</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="other">Há %dmin</item>
+        <item quantity="one">Há %dmin</item>
+        <item quantity="many">%d min ago</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="other">Há %d anos</item>
+        <item quantity="one">Há %d ano</item>
+        <item quantity="many">%d yr ago</item>
+    </plurals>
+    <plurals name="lockscreen_quick_affordances_summary">
+        <item quantity="other">%1$s, %2$s</item>
+        <item quantity="one">%1$s, %2$s</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d novas notificações</item>
+        <item quantity="one">%d nova notificação</item>
+    </plurals>
+    <plurals name="security_settings_hub_show_warnings_preference">
+        <item quantity="other">Ver todos os avisos (%1$d)</item>
+        <item quantity="one">Ver todos os avisos (%1$d)</item>
+    </plurals>
+    <plurals name="security_settings_hub_warnings_title">
+        <item quantity="other">%1$d avisos</item>
+        <item quantity="one">%1$d aviso</item>
+    </plurals>
+    <plurals name="special_access_summary">
+        <item quantity="other">%d apps podem usar dados ilimitados</item>
+        <item quantity="one">%d app pode usar dados ilimitados</item>
+    </plurals>
+</resources>

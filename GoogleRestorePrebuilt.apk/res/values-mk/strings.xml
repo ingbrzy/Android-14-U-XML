@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">Движи се нагоре</string>
+    <string name="abc_action_mode_done">Готово</string>
+    <string name="abc_capital_off">ИСКЛУЧЕНО</string>
+    <string name="abc_capital_on">ВКЛУЧЕНО</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">избриши</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">вселена</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Пребарување…</string>
+    <string name="abc_searchview_description_clear">Исчисти барање</string>
+    <string name="abc_searchview_description_search">Пребарај</string>
+    <string name="abc_searchview_description_submit">Испрати барање</string>
+    <string name="abc_searchview_description_voice">Гласовно пребарување</string>
+    <string name="abc_toolbar_collapse_description">Собери</string>
+    <string name="app_has_in_app_purchases">Купувања во апликација</string>
+    <string name="app_has_permissions">Дозволи: %s</string>
+    <string name="app_has_runtime_permissions">Апликацијата ќе побара дозволи</string>
+    <string name="app_picker_group_default_title">Ваши апликации</string>
+    <string name="app_picker_group_title_format">%1$s (%2$d)</string>
+    <string name="app_picker_loading">Се бараат достапни апликации…</string>
+    <string name="app_picker_loading_toast">Достапните апликации ќе се вчитаат наскоро</string>
+    <string name="app_picker_no_apps">Не се избрани апликации</string>
+    <string name="app_picker_no_apps_found">Не се најдени апликации</string>
+    <string name="app_picker_whatsapp_description">Историја на разговори и аудиовизуелни содржини •</string>
+    <string name="apps_permissions_described_message">"Повеќето купувања во апликации нема да се пренесат. Може да најдете уште апликации во Play Store откако поставувањето ќе заврши.
+
+Можеби ќе треба да им дадете на некои апликации дозвола за пристап до одредени функции или податоци на вашиот уред. Дозволите се организирани во групи. Ако изберете да ги инсталирате апликацииве, ги прифаќате дозволите што се дел од секоја група. Описот на секоја група дозволи е даден подолу.
+
+Некои апликации можеби нема да побараат да ги прифатите дозволите. Кога користите некоја од апликацииве, може да дозволувате или одбивате индивидуални дозволи пред апликацијата да го користи тој тип податоци.
+
+^1"</string>
+    <string name="apps_permissions_described_title">Само популарните, бесплатни апликации на iOS може да имаат своја верзија на Android</string>
+    <string name="auto_synced_item_gmail">Gmail</string>
+    <string name="auto_synced_item_gmail_calendar_drive">Gmail, Календар и Drive</string>
+    <string name="auto_synced_item_google_calendar">Календар на Google</string>
+    <string name="auto_synced_item_google_contacts">Контакти на Google</string>
+    <string name="auto_synced_item_google_photos">Фотографии на Google</string>
+    <string name="auto_synced_title">Синхронизирано автоматски</string>
+    <string name="automatically_synced_section_header">Синхронизирано автоматски</string>
+    <string name="backup_d2d_migration_tool_activity_name">Алатка за пренос на податоци</string>
+    <string name="bottomsheet_action_expand_halfway">Прошири до половина</string>
+    <string name="button_dont_copy">Не копирај</string>
+    <string name="button_dont_restore">Не ги враќај</string>
+    <string name="button_dont_restore_apps">Не враќај апликации</string>
+    <string name="cancel_copy_button">Сопри го копирањето</string>
+    <string name="character_counter_content_description">Внесени се %1$d од %2$d знаци</string>
+    <string name="character_counter_overflowed_content_description">Ограничувањето на знаците надмина %1$d од %2$d</string>
+    <string name="clear_text_end_icon_content_description">Избриши го текстот</string>
+    <string name="close_button_label">Затвори</string>
+    <string name="cloud_restore_app_picker_description_no_apps">Бекапот не содржи апликации</string>
+    <string name="cloud_restore_app_picker_title">Одберете кои апликации да се вратат</string>
+    <string name="common_allow">Дозволи</string>
+    <string name="common_cancel">Откажи</string>
+    <string name="common_dont_allow">Не дозволувај</string>
+    <string name="common_go_back">Назад</string>
+    <string name="common_google_play_services_enable_button">Овозможи</string>
+    <string name="common_google_play_services_enable_text">%1$s нема да се извршува ако не овозможите услуги на Google Play.</string>
+    <string name="common_google_play_services_enable_title">Овозможи ги услугите на Google Play</string>
+    <string name="common_google_play_services_install_button">Инсталирај</string>
+    <string name="common_google_play_services_install_text">%1$s нема да се извршува без услугите на Google Play што ги нема на уредот.</string>
+    <string name="common_google_play_services_install_title">Преземи ги услугите на Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Достапност на услугите на Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Грешка на услугите на Google Play</string>
+    <string name="common_google_play_services_unknown_issue">%1$s има проблеми со услугите на Google Play. Обидете се повторно.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s нема да се извршува без услугите на Google Play, што не се подржани од уредов.</string>
+    <string name="common_google_play_services_update_button">Ажурирај</string>
+    <string name="common_google_play_services_update_text">%1$s нема да се извршува ако не ги ажурирате услугите на Google Play.</string>
+    <string name="common_google_play_services_update_title">Ажурирај ги услугите на Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s нема да се извршува без услугите на Google Play што се ажурираат во моментов.</string>
+    <string name="common_google_play_services_wear_update_text">Потребна е нова верзија на услугите на Google Play. Таа наскоро самата ќе се ажурира.</string>
+    <string name="common_ok">Во ред</string>
+    <string name="common_open_on_phone">Отвори на телефонот</string>
+    <string name="common_restore">Врати</string>
+    <string name="common_skip">Прескокни</string>
+    <string name="common_try_again">Обиди се пак</string>
+    <string name="contacts_no_number_device_and_sim">Контакти на уред и SIM</string>
+    <string name="contacts_number_device_and_icloud">%1$d iCloud®, %2$d уред</string>
+    <string name="content_selector_ui_title">Изберете што да се врати</string>
+    <string name="continue_button">Продолжи</string>
+    <string name="continue_setup_description">Може да продолжите со поставување на ^1</string>
+    <string name="copied_contacts_group_label">Копирано од %1$s</string>
+    <string name="copied_contacts_group_label_default">Копирани со пренос преку кабел</string>
+    <string name="copied_contacts_group_label_ios">Копирано од iOS</string>
+    <string name="copy_button">Копирај</string>
+    <string name="copy_without_cable_button">Копирај без кабел</string>
+    <string name="d2d_app_picker_description_no_apps">Не можевме да најдеме ниедна апликација</string>
+    <string name="d2d_app_picker_title">Апликации</string>
+    <string name="data_copied_fragment_description">Може да го исклучите кабелот</string>
+    <string name="data_copied_fragment_description_cancel">Избравте да сопре копирањето, па само дел од податоците се копираа на новиот уред.</string>
+    <string name="data_copied_fragment_description_cancel_no_data">Избравте да сопре копирањето, па ништо не е копирано на новиот уред.</string>
+    <string name="data_copied_fragment_description_error">Нешто тргна наопаку, па не можевме да копираме сѐ.</string>
+    <string name="data_copied_fragment_description_error_no_data">Нешто тргна наопаку, па не можевме да ги копираме вашите податоци.</string>
+    <string name="data_copied_fragment_no_data_title">Не може да се копира</string>
+    <string name="data_copied_fragment_some_data_title">Некои од податоците се копирани</string>
+    <string name="data_copied_fragment_title">Копирањето заврши</string>
+    <string name="device_not_supported_fragment_new_device">Се поврзавте со нов уред. За да продолжите, повторно поврзете се со претходниот.</string>
+    <string name="device_not_supported_fragment_new_device_title">Повторно поврзете се со претходниот уред</string>
+    <string name="device_not_supported_fragment_no_data_cable">Обидете се со друг кабел. Ако стариот телефон е iPhone®, нека биде отклучен.</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">Не може да се поврзе со стариот уред</string>
+    <string name="device_not_supported_fragment_other_ways_btn">Копирајте поинаку</string>
+    <string name="device_not_supported_fragment_retry_description">Проверете дали стариот уред е отклучен, а потоа откачете го и повторно приклучете го кабелот</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">Нешто тргна наопаку</string>
+    <string name="device_not_supported_ios_supervised_description">Бидејќи вашиот iPhone® е надгледуван, ќе мора да изберете друг начин за копирање на податоците</string>
+    <string name="device_picker_empty">Нема бекапи поврзани со %1$s.</string>
+    <string name="device_picker_empty_title">Не се најдени бекапи</string>
+    <string name="device_picker_item">Бекап на %1$s</string>
+    <string name="device_picker_summary">Изберете бекап подолу</string>
+    <string name="device_picker_summary_work_profile">Вратете ги работните апликации од стариот уред</string>
+    <string name="device_picker_title">Вратете ги податоците од стар уред</string>
+    <string name="device_picker_title_work_profile">Изберете уред</string>
+    <string name="dialog_continue_button_label">Продолжи</string>
+    <string name="dont_transfer">Не пренесувај</string>
+    <string name="download_file_description">Копирани од друг уред</string>
+    <string name="drive_backup_content_callhistory_title">Историја на повици</string>
+    <string name="drive_backup_content_contacts_title">Контакти</string>
+    <string name="drive_backup_content_devicesettings_title">Поставки за уредот</string>
+    <string name="durationDays">%1$s</string>
+    <string name="durationDaysHours">%1$s %2$s</string>
+    <string name="durationHoursMinutes">%1$s %2$s</string>
+    <string name="durationMinutes">%1$s</string>
+    <string name="encryption_warning_fragment_description">"Вклучено е шифрирање на бекапот за вашиот iPhone®. Доколку не сте го вклучиле вие, може да го вклучил IT-администраторот.
+
+Може да се копираат само фотографии, музика и видеа. За повеќе информации, посетете ја "<b>g.co/datatransferhelp</b>.</string>
+    <string name="encryption_warning_fragment_title">Шифрирање на бекапот</string>
+    <string name="error_icon_content_description">Грешка</string>
+    <string name="exposed_dropdown_menu_content_description">Прикажи паѓачко мени</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="flow_choice_description_text_new">Може да изберете да ги префрлите вашите апликации, фотографии, контакти, сметка на Google и друго.</string>
+    <string name="flow_choice_title">Копирање апликации и податоци</string>
+    <string name="fragment_app_picker_d2d_title">Изберете ги вашите апликации</string>
+    <string name="fragment_app_picker_description_d2d_ios_v2">"Најдовме совпаѓање за ^1 од вашите ^2 апликации за iOS®. Некои од купувањата во апликации може да не се префрлат.
+
+Инсталирајќи ги апликациите, се согласувате со нивните дозволи. "<annotation id="apps_permissions_learn_more">Дознајте повеќе</annotation></string>
+    <string name="fragment_connecting_title">Се поврзуваме со стариот уред…</string>
+    <string name="fragment_indexing_description">Изберете што да се копира на следниот екран</string>
+    <string name="fragment_indexing_title">Се подготвува за копирање…</string>
+    <string name="fragment_indexing_verify_password_title">Се потврдува лозинката…</string>
+    <string name="fragment_ios_copy_calendar_events_description">Ако сакате да ги копирате настаните во календарот, поврзете се со Wi-Fi или мобилна мрежа и пробајте пак</string>
+    <string name="fragment_ios_copy_calendar_events_title">Да се копираат настаните во календар?</string>
+    <string name="fragment_ios_couldnt_sign_in_description">Поврзете се на интернет и обидете се повторно</string>
+    <string name="fragment_ios_couldnt_sign_in_title">Не можевме да ве најавиме.</string>
+    <string name="fragment_ios_decryption_description">За пренос на апликации., SMS-пораки и контакти, внесете ја лозинката за бекапот на iTunes®</string>
+    <string name="fragment_ios_decryption_forgot_password_button">Ја заборавивте лозинката?</string>
+    <string name="fragment_ios_decryption_forgot_password_description">Не може да ги пренесеме шифрираните содржини без лозинката за бекапот на iTunes®. Нешифрираните содржини сепак ќе се пренесат во вашиот нов ^1.</string>
+    <string name="fragment_ios_decryption_forgot_password_title">Не може да се пренесе шифрирана содржина</string>
+    <string name="fragment_ios_decryption_password_hint">Внесете ја лозинката за бекапот на iTunes®</string>
+    <string name="fragment_ios_decryption_skip_button">Прескокни ги шифрираните</string>
+    <string name="fragment_ios_decryption_title">Вашиот iPhone® е шифриран</string>
+    <string name="fragment_ios_decryption_wrong_password_error">Погрешна лозинка. Обидете се повторно.</string>
+    <string name="fragment_ios_device_management_confirm_title">Потврдете го отстранувањето на управувањето</string>
+    <string name="fragment_ios_device_management_detected_description">"Организацијата управува со вашиот iPhone® и тој има шифрирани содржини.
+
+За пренос на апликациите, контактите од iCloud® и контактите од уредот, како и пораките од iMessage®, ќе треба да го отстраните управувањето со уреди од вашиот iPhone®."</string>
+    <string name="fragment_ios_device_management_detected_title">Некои содржини се шифрирани</string>
+    <string name="fragment_ios_device_management_next_button_first_screen">Прикажи чекори</string>
+    <string name="fragment_ios_device_management_not_removed_description">"Управувањето со уреди сѐ уште е вклучено на вашиот iPhone®. За да го отстраните, следете ги претходните чекори.
+
+Ако не го отстраните управувањето со уреди, нема да може да ги пренесеме шифрираните содржини во вашиот нов ^1."</string>
+    <string name="fragment_ios_device_management_not_removed_title">Не може да се пренесе шифрирана содржина</string>
+    <string name="fragment_ios_device_management_open_settings_description">На вашиот iPhone®, одете на<b>Поставки > Општо</b>. Потоа допрете<b>Управување со уреди</b>. Ако имате инсталирано профил, допрете <b>Профили и Управување со уреди</b>.</string>
+    <string name="fragment_ios_device_management_open_settings_title">Отворете ги поставките за управување</string>
+    <string name="fragment_ios_device_management_passcode_title">Внесете ја лозинката</string>
+    <string name="fragment_ios_device_management_remove_title">Отстранување на управувањето</string>
+    <string name="fragment_ios_device_management_risk_description">"Ако го отстраните управувањето со уреди, може да го изгубите пристапот до работните ресурси.
+
+Доколку наидете на проблем при повторното инсталирање на управувањето со уреди после поставувањето, контактирајте со администраторот за информатичка технологија."</string>
+    <string name="fragment_ios_device_management_risk_title">Отстранување на управувањето со уреди</string>
+    <string name="fragment_ios_device_management_select_management_title">Допрете ја опцијата под „Управување со мобилни уреди“</string>
+    <string name="fragment_ios_device_management_skip_button">Прескокни ги шифрираните содржини</string>
+    <string name="fragment_ios_indexing_description">Ако имате многу податоци на вашиот iPhone®, овој чекор може да потрае</string>
+    <string name="fragment_ios_instructions_description">За да продолжите, проверете го вашиот iPhone® и одобрете ја врската</string>
+    <string name="fragment_ios_instructions_reconnect_cable">Наидовте на проблем? Пробајте да ги откачите и повторно да ги приклучите уредите.</string>
+    <string name="fragment_ios_recoverable_error_description">За да се обидете повторно, откачете ги и повторно приклучете ги уредите</string>
+    <string name="fragment_ios_recoverable_error_title">Не може да се дешифрира iPhone®</string>
+    <string name="fragment_ios_skip_encrypted_data_dialog_description">Нема да се пренесат апликациите, контактите од iCloud® и контактите од уредот, ниту пораките од iMessage®</string>
+    <string name="fragment_ios_skip_encrypted_data_dialog_title">Да се прескокнат шифрираните содржини?</string>
+    <string name="fragment_ios_wifi_reconnecting_description">Проверете дали двата уреда се блиску еден до друг</string>
+    <string name="fragment_ios_wifi_reconnecting_title">Повторно се поврзува со вашиот iPhone или iPad…</string>
+    <string name="fragment_keep_devices_close_description">Двата уреди нека бидат вклучени и блиску еден до друг</string>
+    <string name="fragment_long_waiting_title">Само неколку секунди…</string>
+    <string name="fragment_restore_choice_title">Изберете што да се копира</string>
+    <string name="fragment_short_waiting_title">Само секунда…</string>
+    <string name="fragment_smart_device_ui_finished_title">Се преземаат податоци за сметката…</string>
+    <string name="fragment_target_connected_description_with_permissions">Можеби ќе треба да дадете дозволи на стариот уред</string>
+    <string name="fragment_target_connected_title">Поврзани се уреди.</string>
+    <string name="fragment_target_photos_and_videos_option_description">%1$s %2$s, од %3$s</string>
+    <string name="fragment_target_photos_and_videos_option_title_all">Сите</string>
+    <string name="fragment_target_photos_and_videos_option_title_all_photos">Сите фотографии</string>
+    <string name="fragment_target_photos_and_videos_option_title_none">Ниедна</string>
+    <string name="fragment_target_photos_and_videos_picker_description">Фотографиите и видеата ќе заземат %d %% од просторот на вашиот уред</string>
+    <string name="fragment_target_photos_and_videos_picker_include_videos_title">Вклучи ги видеата</string>
+    <string name="fragment_target_photos_and_videos_picker_title">Изберете фотографии и видеа</string>
+    <string name="fragment_usb_cable_doesnt_fit">Дали кабелот не одговара?</string>
+    <string name="fragment_usb_cant_find_adapter">Нема адаптер?</string>
+    <string name="fragment_usb_connect_both_phones_title">Поврзете ги обата уреда со кабел</string>
+    <string name="fragment_usb_connect_cable_into_adapter_description">Адаптерот за брз пренос го добивте во истата кутија со вашиот ^1</string>
+    <string name="fragment_usb_connect_cable_into_adapter_title">Приклучете го кабелот во адаптерот за да ги поврзете уредите</string>
+    <string name="fragment_usb_dialog_cancel_description">Ако користите кабел, ќе ги преземете повеќето содржини, вклучувајќи и фотографии, видеа и MMS-пораки.</string>
+    <string name="fragment_usb_dialog_cancel_description_v2">Ќе ги преземате содржините побрзо ако користите кабел, како тој што го користите за полнење на вашиот стар уред.</string>
+    <string name="fragment_usb_dialog_cancel_description_v3">Копирањето податоци без кабел може да трае подолго и овој уред може привремено да се исклучи од Wi-Fi</string>
+    <string name="fragment_usb_dialog_cancel_title">Да се копира без кабел?</string>
+    <string name="fragment_usb_dialog_without_old_phone_description">"Може да вратите повеќе податоци, вклучувајќи фотографии и видеа ако го употребите стариот уред.
+
+За да ги вратите податоците без стариот уред, најавете се со корисничкото име и лозинката на следниот екран."</string>
+    <string name="fragment_usb_dialog_without_old_phone_title">Да се вратат податоците без стариот уред?</string>
+    <string name="fragment_usb_dont_have_cable">Нема кабел?</string>
+    <string name="fragment_usb_find_cable_animation_description">Кабел USB-C, кабел со молња, кабел micro-USB</string>
+    <string name="fragment_usb_find_cable_description">Користете кабел што одговара на стариот уред. Обично, тоа е кабелот за полнење.</string>
+    <string name="fragment_usb_find_cable_title">Најдете го кабелот од стариот уред</string>
+    <string name="fragment_usb_initial_description">Ви треба вашиот стар уред со Android или iPhone®. Вклучете го и задржете го отклучен.</string>
+    <string name="fragment_usb_initial_title">Користете го стариот уред</string>
+    <string name="fragment_usb_missing_data_description">Може да продолжите со поставување на вашиот ^1 во текот на преносот.</string>
+    <string name="fragment_usb_missing_data_title">Ајде да ги копираме податоците</string>
+    <string name="fragment_usb_plug_cable">Вметнете кабел во стариот уред</string>
+    <string name="fragment_wifi_d2d_unsupported_description">Имаше проблем при поврзувањето со вашиот стар уред</string>
+    <string name="fragment_wifi_d2d_unsupported_title">Не може да се копира безжично</string>
+    <string name="fragment_wifi_reconnecting_title">Обид за повторно поврзување…</string>
+    <string name="fragment_wifi_restore_choice_title">Користете го стариот уред за безжично префрлање податоци</string>
+    <string name="fragment_wifi_restore_choice_use_ios_button">Се префрлате од iPhone® или iPad®?</string>
+    <string name="gigabyteShort">GB</string>
+    <string name="google_contacts_will_sync">„Контактите на Google“ ќе се синхронизираат</string>
+    <string name="google_photos_available_in_photos_app">Прикажи во „Фотографии на Google“</string>
+    <string name="icloud_data_not_included">• Податоците за iCloud® не се опфатени</string>
+    <string name="imessage_deregistration_description">За да продолжите да примате SMS-пораки од корисници на iPhone®, ќе треба да ја исклучите iMessage на стариот телефон.</string>
+    <string name="imessage_deregistration_done_button">Готово</string>
+    <string name="imessage_deregistration_extra_description">Сѐ уште може да ја користите iMessage на другите уреди на Apple®.</string>
+    <string name="imessage_deregistration_procedure_first_step">1. Скенирајте го QR-кодов со камерата на вашиот iPhone или одете во <b>Поставки > Пораки</b></string>
+    <string name="imessage_deregistration_procedure_second_step">2. Исклучете ја iMessage</string>
+    <string name="imessage_deregistration_procedure_steps_without_qr_code">Одете во <b>Поставки > Пораки</b>, а потоа <b>исклучете ја iMessage</b>.</string>
+    <string name="imessage_deregistration_title">Исклучете ја iMessage®</string>
+    <string name="instructions_fragment_title">Проверете го другиот уред</string>
+    <string name="ios_connected_fragment_add_account_description">"На следниот екран може да се најавите на сметката на Google или да создадете нова.
+
+Ако не ја додадете сметката на Google, настаните од iOS® Calendar нема да се копираат."</string>
+    <string name="ios_connected_fragment_add_account_title">Додајте ја вашата сметка на Google</string>
+    <string name="ios_connected_fragment_description_has_account">Ќе ја користиме вашата сметка на Google за да ги пренесеме апликациите и настаните од iOS Calendar®</string>
+    <string name="ios_connected_fragment_description_has_account_with_notes">Ќе ја користиме вашата сметка на Google за да ги пренесеме апликациите, настаните од iOS® Calendar events и iOS® Notes</string>
+    <string name="ios_connected_fragment_description_no_account">"На следниот екран може да се најавите на сметката на Google или да создадете нова.
+
+Ако не ја додадете сметката на Google, апликациите и настаните од iOS Calendar® нема да се пренесат."</string>
+    <string name="ios_connected_fragment_description_no_account_with_notes">"На следниот екран може да се најавите на сметката на Google или да создадете нова.
+
+Ако не ја додадете сметката на Google, апликациите, настаните од iOS Calendar® и iOS® Notes нема да се пренесат."</string>
+    <string name="ios_migration_default_calendar_title">Календар</string>
+    <string name="ios_migration_other_contact_relation">Друго</string>
+    <string name="ios_photos_and_videos_dialog_icloud_got_it_button">Сфатив</string>
+    <string name="ios_photos_and_videos_dialog_icloud_message">"Може да побарате да се префрли копија од фотографиите и видеата од iCloud на „Фотографии на Google“.
+
+За да дознаете како, одете на"<b>g.co/datatransferhelp</b>.</string>
+    <string name="ios_photos_and_videos_dialog_icloud_title">Копирајте ги фотографиите и видеата од iCloud® на „Фотографии на Google“</string>
+    <string name="ios_settings_dialog_bullet_points">"
+● ^1"</string>
+    <string name="ios_settings_dialog_message">"Одете во поставките на новиот уредот за да извршите промени во:
+^1"</string>
+    <string name="ios_settings_dialog_title">Не може да се пренесат некои поставки</string>
+    <string name="ios_trademarks_disclaimer">iPhone, iPad, iOS, iTunes, iMessage, Safari и iCloud се заштитни знаци на компанијата Apple Inc., регистрирана во САД и други земји</string>
+    <string name="ios_whatsapp_description">Скенирајте го QR-кодот со вашиот iPhone за да се отвори WhatsApp, а потоа допрете <b>Започни</b></string>
+    <string name="ios_whatsapp_export_description">Вашиот iPhone треба да е отклучен, а WhatsApp да е отоворена</string>
+    <string name="ios_whatsapp_export_title">Се подготвуваат разговорите…</string>
+    <string name="ios_whatsapp_message">Имате проблем со скенирањето? На вашиот iPhone, отворете ја WhatsApp, а потоа одете во <b>„Поставки > Разговори > Премести ги разговорите во Android“</b></string>
+    <string name="ios_whatsapp_title">Префрлете ги разговорите на WhatsApp</string>
+    <string name="ios_wifi_hotspot_description">Ова ќе ја инсталира апликацијата „Префрлете се на Android“ и ќе ги поврзе вашите уреди преку Wi-Fi мрежата %1$s</string>
+    <string name="ios_wifi_hotspot_description_legacy">Откако ќе ја отворите апликацијата „Префрлете се на Android“ на вашиот iPhone или iPad, следете ги упатствата</string>
+    <string name="ios_wifi_hotspot_instructions_first_step">Чекор 1:</string>
+    <string name="ios_wifi_hotspot_instructions_first_step_message">Отворете ја Safari и одете на <b>^1</b> за да ја преземете апликацијата „Префрлете се на Android“</string>
+    <string name="ios_wifi_hotspot_instructions_fourth_step">Не можете да ја преземете апликацијата?</string>
+    <string name="ios_wifi_hotspot_instructions_fourth_step_message">Отворете <b>Поставки</b>, а потоа допрете <b>Општо > Ажурирање на софтверот</b>" и обидете се повторно.
+
+Или може да се вратите назад и да ги копирате податоците преку кабел."</string>
+    <string name="ios_wifi_hotspot_instructions_second_step">Чекор 2:</string>
+    <string name="ios_wifi_hotspot_instructions_second_step_message">Отворете ја апликацијата, а потоа допрете <b>Стартувај > Не може да го скенирате QR-кодот?</b></string>
+    <string name="ios_wifi_hotspot_instructions_second_step_message_content_description">Отворете ја апликацијата, потоа допрете „Стартувај“, а потоа „Не може да го скенирате QR-кодот?“</string>
+    <string name="ios_wifi_hotspot_instructions_third_step">Чекор 3:</string>
+    <string name="ios_wifi_hotspot_instructions_third_step_message">"Внесете ги деталиве:
+Име на мрежа: "<b>^1</b>"
+Лозинка: "<b>^2</b>"
+IP адреса: "<b>^3</b></string>
+    <string name="ios_wifi_hotspot_instructions_title">Следете ги чекориве на вашиот iPhone или iPad</string>
+    <string name="ios_wifi_hotspot_qr_code_alternative">Не може да се скенира QR-кодот?</string>
+    <string name="ios_wifi_hotspot_reconnecting_description">Копирањето ќе продолжи по поврзување на уредите</string>
+    <string name="ios_wifi_hotspot_reconnecting_title">Скенирајте го QR-кодот повторно</string>
+    <string name="ios_wifi_hotspot_title">Скенирајте го QR-кодот со камерата на вашиот iPhone или iPad</string>
+    <string name="ios_wifi_indexing_description">Ќе биде побарано да изберете податоци за префрлање и да дадете дозволи за „Префрлете се на Android“</string>
+    <string name="ios_wifi_indexing_title">Продолжете на вашиот iPhone®</string>
+    <string name="ios_wifi_location_permission_description">"%s од Google бара пристап до вашата локација за да ги копира вашите податоци безжично.
+
+Ако не дозволите пристап, ниту еден од вашите податоци нема да се ископира на вашиот нов уред.
+
+Податоците за локација се користат само за воспоставување безжична врска со вашиот iPhone и остануваат на вашиот уред."</string>
+    <string name="ios_wifi_location_permission_title">Потребна е локација за да се копира безжично</string>
+    <string name="ios_wifi_nearby_devices_permission_description">"%s од Google бара дозвола за да пребарува и да се поврзува со уреди во близина преку вашата Wi-Fi мрежа.
+
+Ако не дадете дозвола, вашите податоци нема да се копираат на новиот уред."</string>
+    <string name="ios_wifi_nearby_devices_permission_title">Дозволете пристап до уреди во близина</string>
+    <string name="key_recovery_instruction_description">За да го дешифрирате бекапот, внесете го заклучувањето на екранот за стариот уред на следниот екран</string>
+    <string name="key_recovery_instruction_title">Потврдете го заклучувањето екран на вашиот стар %s</string>
+    <string name="kilobyteShort">KB</string>
+    <string name="lock_screen_entry_title">Потврда на заклучувањето екран од стариот уред %s</string>
+    <string name="lskfui_confirm">Потврди</string>
+    <string name="lskfui_lock_screen_error_other">Нешто тргна наопаку. Обидете се повторно подоцна.</string>
+    <string name="lskfui_lock_screen_error_wrong_password">Погрешна лозинка</string>
+    <string name="lskfui_lock_screen_error_wrong_pattern">Погрешна шема</string>
+    <string name="lskfui_lock_screen_error_wrong_pin">Погрешен PIN</string>
+    <string name="lskfui_lockscreen_access_pattern_area">Област за шема</string>
+    <string name="lskfui_lockscreen_access_pattern_cell_added_verbose">Додадена е ќелијата %d</string>
+    <string name="lskfui_lockscreen_access_pattern_cleared">Шемата е исчистена</string>
+    <string name="lskfui_lockscreen_access_pattern_detected">Шемата е завршена</string>
+    <string name="lskfui_lockscreen_access_pattern_start">Шемата е започната</string>
+    <string name="lskfui_save_lskf_password_desc">Користете лозинка на уредов</string>
+    <string name="lskfui_save_lskf_pattern_desc">Користете шема на уредов</string>
+    <string name="lskfui_save_lskf_pin_desc">Користете PIN на уредов</string>
+    <string name="lskfui_vault_almost_locked_dialog_title">Преостануваат %d обиди</string>
+    <string name="lskfui_vault_almost_locked_password_dialog_text">Внесена е погрешна лозинка %1$d пати. После уште %2$d погрешни обиди, бекапот на %3$s ќе се избрише.</string>
+    <string name="lskfui_vault_almost_locked_pattern_dialog_text">Внесена е погрешна шема %1$d пати. После уште %2$d погрешни обиди, бекапот на %3$s ќе се избрише.</string>
+    <string name="lskfui_vault_almost_locked_pin_dialog_text">Внесен е погрешен PIN %1$d пати. После уште %2$d погрешни обиди, бекапот на %3$s ќе се избрише.</string>
+    <string name="manage_storage_button">Управувај со капацитетот</string>
+    <string name="megabyteShort">MB</string>
+    <string name="migrate_from_ios_description">Следете ги чекориве за да ги добиете контактите, настаните од календарот, фотографиите и видеата</string>
+    <string name="migrate_from_ios_header">Пренесете ги своите податоци од iPhone</string>
+    <string name="migrate_from_ios_instructions_1">1. Отворете го прелистувачот</string>
+    <string name="migrate_from_ios_instructions_2">2. Одете на <b>android.com/switch</b></string>
+    <string name="migrate_from_ios_instructions_3">3. Следете ги упатствата</string>
+    <string name="oem_use_old_device_description">Ви треба вашиот стар уред со Android, iPhone® или iPad®</string>
+    <string name="oem_use_old_device_title">Користете го стариот уред</string>
+    <string name="password_toggle_content_description">Прикажи ја лозинката</string>
+    <string name="petabyteShort">ПБ</string>
+    <string name="photos_and_videos_picker_no_items">Не се избрани</string>
+    <string name="progressing_description">Ова може да потрае неколку минути</string>
+    <string name="qrcode_description">QR-код</string>
+    <string name="restore_apk_title">Data Restore Tool</string>
+    <string name="restore_choice_android_device_label">Android</string>
+    <string name="restore_choice_data_disclaimer">Некои од податоците можеби нема да се префрлат на ^1. <annotation id="restore_choice_data_disclaimer_learn_more">Дознајте повеќе</annotation></string>
+    <string name="restore_choice_data_disclaimer_from_newer_version">Бекапов е од уред со понова верзија на Android. Некои податоци може да не се вратат на вашиот нов уред.</string>
+    <string name="restore_choice_data_disclaimer_v2_cloud">Некои податоци не може да се префрлат на ^1.</string>
+    <string name="restore_choice_deselect_some_content">Поништете го изборот на некои содржини за да продолжите</string>
+    <string name="restore_choice_dont_have_old_phone">Не можете да го користите стариот уред?</string>
+    <string name="restore_choice_ios_device_label">iPhone</string>
+    <string name="restore_choice_learn_more_android_message">"Некои од податоците од стариот уред не може да се копираат автоматски:
+
+ ● Преземања (како PDF-датотеки)
+
+ ● Фотографии, видеа и музика зачувани во сокриени папки
+
+ ● Фотографии, видеа и музика примени преку текстуални пораки
+
+ ● Апликации што не се од Google Play Store
+
+ ● Податоци од апликации (ако апликациите не користат бекап на Android)
+
+ ● Одредени поставки за уредот
+
+ ● Сметки, освен сметките на Google (и податоците поврзани со нив)
+
+ ● Контакти и календари што се синхронизирани со услуги коишто не се на Google
+
+ ● Мелодии
+
+ За повеќе детали и помош при копирањето на некои од податоциве, одете на g.co/datatransferhelp."</string>
+    <string name="restore_choice_learn_more_android_title">Не може да се копираат некои податоци</string>
+    <string name="restore_choice_learn_more_ios_message">"Некои од податоците од стариот уред не може да се копираат автоматски:
+
+ ● Апликации што не се инсталирани од App Store
+
+ ● Апликации што не се достапни на Play Store
+
+ ● Податоци од апликации
+
+ ● Фотографии кога оригиналот не е зачуван во уредот (на пример, ако е вклучена поставката „Оптимизирај го капацитетот“, оригиналните фотографии се зачувуваат во iCloud®)
+
+ ● Датотеки и документи зачувани во iCloud®
+
+ ● Поставки за уредот (на пример, лозинки за Wi-Fi)
+
+ ● Музика заштитена со „Управување со дигитални права“ (УДП) (на пример, музика на iTunes® купена пред април 2009 година или музика преземена за слушање офлајн во апликација за стриминг на музика)
+
+ ● Сметки, освен сметките на Google (и податоците поврзани со нив)
+
+ ● Контакти и календари што се синхронизирани со услуги коишто не се на Google, ниту на iCloud®
+
+ ● Обележувачи од Safari®
+
+ За повеќе детали и помош при копирањето на некои од податоциве, одете на g.co/datatransferhelp."</string>
+    <string name="restore_choice_learn_more_ios_title">Не може да се копираат некои податоци</string>
+    <string name="restore_choice_not_enough_space">Нема доволно простор</string>
+    <string name="restore_choice_select_some_content_cloud">Изберете содржини за враќање</string>
+    <string name="restore_choice_select_some_content_d2d">Изберете содржини за копирање</string>
+    <string name="restore_choice_sync_disclaimer_android">Контактите од уредот и SIM-картичката ќе се зачуваат како „Контакти на Google“ за %1$s</string>
+    <string name="restore_choice_sync_disclaimer_cloud">Контактите од уредот и SIM-картичката ќе се зачуваат како контакти на Google на %1$s.</string>
+    <string name="restore_choice_sync_disclaimer_ios">Контактите и iOS® Calendar ќе се зачуваат на %1$s.</string>
+    <string name="restore_choice_sync_disclaimer_ios_no_contacts">iOS® Calendar ќе се зачува на %1$s.</string>
+    <string name="restore_choice_sync_disclaimer_ios_no_contacts_with_notes">iOS® Calendar и iOS® Notes ќе се зачуваат на %1$s.</string>
+    <string name="restore_choice_sync_disclaimer_ios_with_notes">Контактите, iOS® Calendar и iOS® Notes ќе се зачуваат на %1$s.</string>
+    <string name="restore_choice_title">Изберете го стариот уред</string>
+    <string name="restore_continue_suw_title">Враќање…</string>
+    <string name="restore_estimated_time_v2">Уште околу ^1 за трансферот</string>
+    <string name="restore_from_an_android_dialog_message">"За да ги добиете фотографиите и видеата, направете им бекап со апликацијата „Фотографии на Google“ на вашиот стар уред и тие автоматски ќе се синхронизираат со телефонов.
+
+Вашиот бекап на Android вклучува апликации, контакти, историја на повици, пораки и поставки за уредот."</string>
+    <string name="restore_from_an_android_dialog_title">Донесете си ги фотографиите и видеата</string>
+    <string name="restore_item_alarms">Аларми</string>
+    <string name="restore_item_apps">Апликации</string>
+    <string name="restore_item_brightness">Осветленост</string>
+    <string name="restore_item_calendar">Календар</string>
+    <string name="restore_item_calendar_ical_description">iOS® Calendar</string>
+    <string name="restore_item_call_logs">Историја на повици</string>
+    <string name="restore_item_contacts">Контакти</string>
+    <string name="restore_item_device_settings_description">Лозинки за Wi-Fi и друго</string>
+    <string name="restore_item_downloads">Преземања</string>
+    <string name="restore_item_email">E-пошта</string>
+    <string name="restore_item_email_description">Gmail ќе се синхронизира</string>
+    <string name="restore_item_font_size">Големина на фонт</string>
+    <string name="restore_item_home_screen_layout">Распоред на почетен екран</string>
+    <string name="restore_item_ios_device_settings_description">Wi-Fi мрежи, тапет и друго</string>
+    <string name="restore_item_message_attachments">Прилози во пораката</string>
+    <string name="restore_item_messages">Пораки</string>
+    <string name="restore_item_mms">MMS-пораки</string>
+    <string name="restore_item_mms_attachments">MMS-прилози</string>
+    <string name="restore_item_music">Музика и други аудиодатотеки</string>
+    <string name="restore_item_note_description">iOS® Notes</string>
+    <string name="restore_item_notes">Белешки</string>
+    <string name="restore_item_photos">Фотографии</string>
+    <string name="restore_item_photos_and_videos">Фотографии и видеа</string>
+    <string name="restore_item_screen_timeout">Исклучување на екран</string>
+    <string name="restore_item_settings">Поставки за уредот</string>
+    <string name="restore_item_sms">SMS-пораки</string>
+    <string name="restore_item_video">Видеа</string>
+    <string name="restore_item_wallpaper">Тапет</string>
+    <string name="restore_item_wifi_networks">Wi-Fi мрежи</string>
+    <string name="restore_qs_finishsetup_fragment_description_may_take_a_few_min">Ова може да потрае неколку минути</string>
+    <string name="restore_qs_finishsetup_fragment_title_getting_yourdevice_ready">{DEVICE_TYPE,select, PHONE{Се подготвува телефонот…}TABLET{Се подготвува таблетот…}other{Се подготвува уредот…}}</string>
+    <string name="restore_qs_init_fragment_title_just_a_few_moments">Само неколку секунди…</string>
+    <string name="restore_qs_startrestore_cant_use_old_device_q">Не можете да го користите стариот уред?</string>
+    <string name="restore_qs_startrestore_dont_copy">Не копирај</string>
+    <string name="restore_qs_startrestore_fragment_start_restore_description_you_can_choose_to_transfer">Може да изберете да ги префрлите вашите апликации, фотографии, контакти и друго.</string>
+    <string name="restore_qs_startrestore_fragment_start_restore_title_copy_apps_and_data">Копирање апликации и податоци</string>
+    <string name="restore_qs_startrestore_fragment_use_old_device_description">Ви треба вашиот стар уред со Android, iPhone® или iPad®</string>
+    <string name="restore_qs_startrestore_fragment_use_old_device_title">Користете го стариот уред</string>
+    <string name="restore_qs_workprofilesetup_fragment_work_profile_setup_description">За да поставите работен профил, додајте ја вашата работна сметка на следниот екран</string>
+    <string name="restore_qs_workprofilesetup_fragment_work_profile_setup_title">Подгответе го уредот за работа</string>
+    <string name="restore_selected_size_and_device_space_text"><annotation id="selected_size">^1</annotation> ^2 од ^3</string>
+    <string name="retail_mode_warning_dialog_message">Ова ќе пушта видео за демонстрација на малопродажба сѐ додека уредот фабрички не се ресетира. Овој режим е за продавачи на мало и не е наменет за лична употреба.</string>
+    <string name="retail_mode_warning_dialog_title">Пушти го видеото за демонстрација</string>
+    <string name="skip_transfer">Прескокни го преносот</string>
+    <string name="small_time_duration">Помалку од 1 минута</string>
+    <string name="some_whatsapp_chats_not_exported">• Некои разговори од WhatsApp не се префрлени</string>
+    <string name="stop_copying_dialog_continue_button">Отфрли</string>
+    <string name="stop_copying_dialog_message_before_transfer">Податоците нема да се копираат на новиот уред</string>
+    <string name="stop_copying_dialog_message_before_transfer_initial_setup">Сепак ќе може да враќате содржини од стариот уред по поставувањето</string>
+    <string name="stop_copying_dialog_message_during_transfer">Дел од податоците нема да се копираат на новиот уред</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">Сопри</string>
+    <string name="stop_copying_dialog_title_before_transfer">Да не се копира?</string>
+    <string name="stop_copying_dialog_title_during_transfer">Да се сопре копирањето?</string>
+    <string name="stop_restoring_dialog_message_before_transfer">Податоците нема да се вратат на новиот уред</string>
+    <string name="stop_restoring_dialog_message_before_transfer_initial_setup">Сепак ќе може да враќате содржини од стариот уред по поставувањето</string>
+    <string name="stop_restoring_dialog_title_before_transfer">Да се откаже враќањето?</string>
+    <string name="sud_back_button_label">Назад</string>
+    <string name="sud_more_button_label">Повеќе</string>
+    <string name="sud_next_button_label">Следно</string>
+    <string name="sud_skip_button_label">Прескокни</string>
+    <string name="target_default_source_device_model">стариот уред</string>
+    <string name="target_device_not_supported_cant_continue_description">Ќе треба да изберете друг начин на копирање податоци</string>
+    <string name="target_device_not_supported_cant_continue_title">Другиот уред не е поддржан</string>
+    <string name="target_device_not_supported_try_restarting_description">"Откачете го кабелот и рестартирајте го стариот уред, а потоа повторно приклучете го кабелот и следете ги упатствата на вашиот ^1.
+
+Ако и понатаму ви се прикажува оваа грешка, може ќе треба да се обидете да копирате на друг начин."</string>
+    <string name="target_device_not_supported_try_restarting_title">Уредот може да не е поддржан</string>
+    <string name="target_fragment_msg_reconnect_cable">Повторно поврзете го кабелот</string>
+    <string name="target_fragment_msg_wifi_disconnected">Пробајте да ги доближите уредите еден до друг</string>
+    <string name="target_pixelmigrate_notification_description">Достапно или во тек</string>
+    <string name="target_pixelmigrate_notification_title">Пренос на податоци</string>
+    <string name="target_smart_device_timeout_add_account">ДОДАЈ СМЕТКА</string>
+    <string name="target_smart_device_timeout_description">Ако сакате, може да се обидете да ја додадете сметката рачно</string>
+    <string name="target_smart_device_timeout_dismiss">ОТФРЛИ</string>
+    <string name="target_smart_device_timeout_title">Наидовте на проблем?</string>
+    <string name="terabyteShort">ТБ</string>
+    <string name="toast_phones_connected">Поврзани се уреди.</string>
+    <string name="toast_reconnect_cable">Повторно поврзете го кабелот</string>
+    <string name="toast_wifi_disconnected">Не може да се поврзат уреди. Преносот на податоци е паузиран.</string>
+    <string name="transfer_finished_fragment_description">Ова може да потрае неколку минути</string>
+    <string name="transfer_finished_fragment_readying_device_title">{DEVICE_TYPE,select, PHONE{Се подготвува телефонот…}TABLET{Се подготвува таблетот…}other{Се подготвува уредот…}}</string>
+    <string name="transfer_finished_fragment_title">Се додаваат завршни финеси…</string>
+    <string name="transfer_finished_fragment_work_setup_tile">Уредот се подготвува за поставување на работниот профил…</string>
+    <string name="transfer_summary_fragment_description_for_cable_d2d">Може да го исклучите кабелот</string>
+    <string name="transfer_summary_fragment_description_for_ios_wifi_d2d">Продолжете со поставувањето или следете ги чекорите на вашиот iPhone</string>
+    <string name="transfer_summary_fragment_done_button">Готово</string>
+    <string name="transfer_summary_fragment_dtp_description_for_ios_wifi_d2d">За да ги копирате фотографиите и видеата од iCloud во „Фотографии на Google“, следете ги упатствата во апликацијата „Префрлете се на Android“ или дознајте повеќе на <b>g.co/transferfromicloud</b></string>
+    <string name="transfer_summary_fragment_title">Копирањето заврши</string>
+    <string name="transfer_summary_icloud_data_not_copied">Податоците за iCloud® не се копирани</string>
+    <string name="transfer_summary_not_copied">Податоците не се копирани</string>
+    <string name="transfer_summary_nothing_to_copy">Нема ставки на уредот за копирање</string>
+    <string name="transfer_summary_partial">Копирани се %1$s/%2$s</string>
+    <string name="transferring_fragment_calculating_remaining_time">Се пресметува преостанатото време…</string>
+    <string name="transferring_fragment_description_final_hold">Поврзете ги и вклучете ги уредите</string>
+    <string name="transferring_fragment_disabling_back_key">Не може да се вратите назад додека не заврши копирањето</string>
+    <string name="transferring_fragment_header">Податоците се копираат…</string>
+    <string name="transferring_fragment_remaining_time_v2">Уште околу %1$s</string>
+    <string name="transferring_fragment_restoring_content">Се враќаат содржини…</string>
+    <string name="trust_instructions_trademark_disclaimer">iPhone, iPad, iMessage, iCloud, Safari и iTunes се заштитни знаци на компанијата Apple Inc., регистрирана во САД и други земји.</string>
+    <string name="unlock_ios_fragment_description">За да продолжите, отклучете го вашиот iPhone®. Држете го отклучен за време на преносот.</string>
+    <string name="unlock_ios_fragment_title">Отклучете го вашиот iPhone®</string>
+    <string name="vault_confirm_cancel_message">Ниту еден од податоците нема да се врати на вашиот нов уред</string>
+    <string name="vault_confirm_cancel_title">Дали да се продолжи без враќање на податоците?</string>
+    <string name="vault_locked_dialog_text">Погрешно го внесовте заклучувањето екран на %s премногу пати. Бекапот е избришан.</string>
+    <string name="vault_locked_dialog_title">Бекапот е избришан</string>
+    <string name="whatsapp_chats_not_exported">• Разговорите од WhatsApp не се префрлени</string>
+    <string name="wifi_settings_button">Поставки за Wi-Fi</string>
+    <string name="work_profile_setup_description">За да поставите работен профил, додајте ја вашата работна сметка на следниот екран</string>
+    <string name="work_profile_setup_skip">Прескокни</string>
+    <string name="work_profile_setup_title">Подгответе го уредот за работа</string>
+</resources>

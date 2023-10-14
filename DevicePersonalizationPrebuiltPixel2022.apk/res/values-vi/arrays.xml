@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="call_captions_typing_predictions_post_system_message">
+        <item>Chào bạn! Bạn là ai?</item>
+        <item>Chào bạn! Bạn có khỏe không?</item>
+        <item>Vui lòng giữ máy trong giây lát</item>
+        <item>Xin chào! Bạn gọi lại sau được không?</item>
+        <item>Chào bạn! Cảm ơn bạn đã gọi.</item>
+    </string-array>
+    <string-array name="captions_settings_enable_for_calls_choices_entries">
+        <item>Luôn hỏi</item>
+        <item>Luôn bật</item>
+        <item>Tắt</item>
+    </string-array>
+    <string-array name="captions_settings_typing_voice_names">
+        <item>Giọng nói A</item>
+        <item>Giọng nói B</item>
+        <item>Giọng nói C</item>
+        <item>Giọng nói D</item>
+        <item>Giọng nói E</item>
+        <item>Giọng nói F</item>
+        <item>Giọng nói G</item>
+        <item>Giọng nói H</item>
+        <item>Giọng nói I</item>
+        <item>Giọng nói J</item>
+        <item>Giọng nói K</item>
+        <item>Giọng nói L</item>
+        <item>Giọng nói M</item>
+        <item>Giọng nói N</item>
+        <item>Giọng nói O</item>
+        <item>Giọng nói P</item>
+    </string-array>
+    <string-array name="pref_download_policy_entries">
+        <item>Dữ liệu di động + Wi-Fi</item>
+        <item>Chỉ qua Wi-Fi</item>
+        <item>Không cập nhật</item>
+    </string-array>
+    <string-array name="pref_download_policy_entry_values_placeholder">
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+</resources>

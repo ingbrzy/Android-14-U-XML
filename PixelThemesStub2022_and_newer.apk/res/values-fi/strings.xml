@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bundle1_color_name">Hiili</string>
+    <string name="bundle2_color_name">Paperi</string>
+    <string name="bundle3_color_name">Aurinko</string>
+    <string name="color_name_monochromatic">Yksivärinen</string>
+    <string name="default_color_name">Klassinen</string>
+    <string name="fruit1_color_name">Kaksiväripaletti: keltainen ja punainen</string>
+    <string name="fruit2_color_name">Kaksiväripaletti: vihreä ja oranssi</string>
+    <string name="fruit3_color_name">Kaksiväripaletti: sininen ja vihreä</string>
+    <string name="fruit4_color_name">Kaksiväripaletti: vaalea violetti ja sininen</string>
+    <string name="fruit5_color_name">Kaksiväripaletti: pinkki ja indgo</string>
+    <string name="rainbow1_color_name">Punainen</string>
+    <string name="rainbow2_color_name">Oranssi</string>
+    <string name="rainbow3_color_name">Keltainen</string>
+    <string name="rainbow4_color_name">Vihreä</string>
+    <string name="rainbow5_color_name">Sininen</string>
+    <string name="rainbow6_color_name">Indigo</string>
+    <string name="rainbow7_color_name">Violetti</string>
+</resources>

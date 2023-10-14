@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_set">
+        <item>1 நிமிடத்திற்கும் குறைவான நேரத்தில் அலாரம் அடிக்கும்.</item>
+        <item>இப்போதிலிருந்து %1$s கழித்து அலாரம் அடிக்கும்.</item>
+        <item>இப்போதிலிருந்து %2$s கழித்து அலாரம் அடிக்கும்.</item>
+        <item>இப்போதிலிருந்து %1$s, %2$s கழித்து அலாரம் அடிக்கும்.</item>
+        <item>இப்போதிலிருந்து %3$s கழித்து அலாரம் அடிக்கும்.</item>
+        <item>இப்போதிலிருந்து %1$s, %3$s கழித்து அலாரம் அடிக்கும்.</item>
+        <item>இப்போதிலிருந்து %2$s, %3$s கழித்து அலாரம் அடிக்கும்.</item>
+        <item>இப்போதிலிருந்து %1$s, %2$s, %3$s கழித்து அலாரம் அடிக்கும்.</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>1 நிமிடம்</item>
+        <item>5 நிமிடங்கள்</item>
+        <item>10 நிமிடங்கள்</item>
+        <item>15 நிமிடங்கள்</item>
+        <item>20 நிமிடங்கள்</item>
+        <item>25 நிமிடங்கள்</item>
+        <item>@string/auto_silence_entry_never</item>
+    </string-array>
+    <string-array name="bedtime_reminder_entries">
+        <item>உறக்கநேரத்திற்கு 15 நி. முன்பு</item>
+        <item>உறக்கநேரத்திற்கு 30 நி. முன்பு</item>
+        <item>உறக்கநேரத்திற்கு 45 நி. முன்பு</item>
+        <item>உறக்கநேரத்திற்கு 1 ம.நே முன்பு</item>
+        <item>ஆஃப்</item>
+    </string-array>
+    <string-array name="clock_style_entries">
+        <item>அனலாக்</item>
+        <item>டிஜிட்டல்</item>
+    </string-array>
+    <string-array name="crescendo_entries">
+        <item>@string/crescendo_entry_never</item>
+        <item>5 வினாடிகள்</item>
+        <item>10 வினாடிகள்</item>
+        <item>15 வினாடிகள்</item>
+        <item>20 வினாடிகள்</item>
+        <item>25 வினாடிகள்</item>
+        <item>30 வினாடிகள்</item>
+        <item>35 வினாடிகள்</item>
+        <item>40 வினாடிகள்</item>
+        <item>45 வினாடிகள்</item>
+        <item>50 வினாடிகள்</item>
+        <item>55 வினாடிகள்</item>
+        <item>60 வினாடிகள்</item>
+    </string-array>
+    <string-array name="sleep_duration">
+        <item>%2$s</item>
+        <item>%1$s</item>
+        <item>%1$s %2$s</item>
+    </string-array>
+    <string-array name="sleep_sound_length_content_descriptions">
+        <item>10 நிமிடங்களுக்குப் பிறகு நிறுத்தும்</item>
+        <item>20 நிமிடங்களுக்குப் பிறகு நிறுத்தும்</item>
+        <item>30 நிமிடங்களுக்குப் பிறகு நிறுத்தும்</item>
+        <item>40 நிமிடங்களுக்குப் பிறகு நிறுத்தும்</item>
+        <item>50 நிமிடங்களுக்குப் பிறகு நிறுத்தும்</item>
+        <item>1 மணிநேரம் கழித்து நிறுத்தும்</item>
+    </string-array>
+    <string-array name="sleep_sound_length_descriptions">
+        <item>10 நிமிடம் கழித்து நிறுத்தும்</item>
+        <item>20 நிமிடம் கழித்து நிறுத்தும்</item>
+        <item>30 நிமிடம் கழித்து நிறுத்தும்</item>
+        <item>40 நிமிடம் கழித்து நிறுத்தும்</item>
+        <item>50 நிமிடம் கழித்து நிறுத்தும்</item>
+        <item>1 மணிநேரம் கழித்து நிறுத்தும்</item>
+    </string-array>
+    <string-array name="sleep_sound_length_entries">
+        <item>10 நிமிடங்கள்</item>
+        <item>20 நிமிடங்கள்</item>
+        <item>30 நிமிடங்கள்</item>
+        <item>40 நிமிடங்கள்</item>
+        <item>50 நிமிடங்கள்</item>
+        <item>1 மணிநேரம்</item>
+    </string-array>
+    <string-array name="snooze_duration_entries">
+        <item>1 நிமிடம்</item>
+        <item>2 நிமிடங்கள்</item>
+        <item>3 நிமிடங்கள்</item>
+        <item>4 நிமிடங்கள்</item>
+        <item>5 நிமிடங்கள்</item>
+        <item>6 நிமிடங்கள்</item>
+        <item>7 நிமிடங்கள்</item>
+        <item>8 நிமிடங்கள்</item>
+        <item>9 நிமிடங்கள்</item>
+        <item>10 நிமிடங்கள்</item>
+        <item>11 நிமிடங்கள்</item>
+        <item>12 நிமிடங்கள்</item>
+        <item>13 நிமிடங்கள்</item>
+        <item>14 நிமிடங்கள்</item>
+        <item>15 நிமிடங்கள்</item>
+        <item>16 நிமிடங்கள்</item>
+        <item>17 நிமிடங்கள்</item>
+        <item>18 நிமிடங்கள்</item>
+        <item>19 நிமிடங்கள்</item>
+        <item>20 நிமிடங்கள்</item>
+        <item>21 நிமிடங்கள்</item>
+        <item>22 நிமிடங்கள்</item>
+        <item>23 நிமிடங்கள்</item>
+        <item>24 நிமிடங்கள்</item>
+        <item>25 நிமிடங்கள்</item>
+        <item>26 நிமிடங்கள்</item>
+        <item>27 நிமிடங்கள்</item>
+        <item>28 நிமிடங்கள்</item>
+        <item>29 நிமிடங்கள்</item>
+        <item>30 நிமிடங்கள்</item>
+    </string-array>
+    <string-array name="timer_duration">
+        <item>டைமர்</item>
+        <item>%3$s டைமர்</item>
+        <item>%2$s டைமர்</item>
+        <item>%2$s %3$s டைமர்</item>
+        <item>%1$s டைமர்</item>
+        <item>%1$s %3$s டைமர்</item>
+        <item>%1$s %2$s டைமர்</item>
+        <item>%1$s %2$s %3$s டைமர்</item>
+    </string-array>
+    <string-array name="timer_duration_short">
+        <item>டைமர்</item>
+        <item>%3$s டைமர்</item>
+        <item>%2$s டைமர்</item>
+        <item>%2$s %3$s டைமர்</item>
+        <item>%1$s டைமர்</item>
+        <item>%1$s %3$s டைமர்</item>
+        <item>%1$s %2$s டைமர்</item>
+        <item>%1$s %2$s %3$s டைமர்</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>மார்ஷல் தீவுகள்</item>
+        <item>மிட்வே தீவு</item>
+        <item>ஹவாய்</item>
+        <item>அலாஸ்கா</item>
+        <item>பசிபிக் டைம்</item>
+        <item>டிஜுவானா</item>
+        <item>அரிசோனா</item>
+        <item>சிஹூவாஹுவா</item>
+        <item>மவுண்டன் டைம்</item>
+        <item>மத்திய அமெரிக்கா</item>
+        <item>சென்ட்ரல் டைம்</item>
+        <item>மெக்ஸிகோ நகரம்</item>
+        <item>சாஸ்கட்சுவான்</item>
+        <item>போகோடா</item>
+        <item>ஈஸ்டர்ன் டைம்</item>
+        <item>வெனிசுலா</item>
+        <item>அட்லாண்டிக் நேரம் (பார்படோஸ்)</item>
+        <item>அட்லாண்டிக் நேரம் (கனடா)</item>
+        <item>மனாவுஸ்</item>
+        <item>சாண்டியாகோ</item>
+        <item>நியூஃபௌண்ட்லாண்ட்</item>
+        <item>ப்ரசிலியா</item>
+        <item>பவுனஸ் ஏர்ஸ்</item>
+        <item>கிரீன்லாந்து</item>
+        <item>மொண்டேவீடியோ</item>
+        <item>மிட்-அட்லாண்டிக்</item>
+        <item>அசோரஸ்</item>
+        <item>கேப் வேர்ட் தீவுகள்</item>
+        <item>காஸாபிளான்கா</item>
+        <item>லண்டன், டப்ளின்</item>
+        <item>ஆம்ஸ்டர்டாம், பெர்லின்</item>
+        <item>பெல்க்ரேடு</item>
+        <item>புருசேல்ஸ்</item>
+        <item>சராஜேவோ</item>
+        <item>வைண்ட்ஹோக்</item>
+        <item>மே. ஆஃப்ரிக்கா டைம்</item>
+        <item>அம்மான், ஜோர்டன்</item>
+        <item>ஏதென்ஸ், இஸ்தான்புல்</item>
+        <item>பெய்ரூட், லெபனான்</item>
+        <item>கெய்ரோ</item>
+        <item>ஹெல்சிங்கி</item>
+        <item>ஜெருசலேம்</item>
+        <item>மின்ஸ்க்</item>
+        <item>ஹராரே</item>
+        <item>பாக்தாத்</item>
+        <item>மாஸ்கோ</item>
+        <item>குவைத்</item>
+        <item>நைரோபி</item>
+        <item>டெஹ்ரன்</item>
+        <item>பாக்கூ</item>
+        <item>த்பிலிசி</item>
+        <item>ஏரேவன்</item>
+        <item>துபாய்</item>
+        <item>காபூல்</item>
+        <item>இஸ்லாமாபாத், கராச்சி</item>
+        <item>உரால்ச்க்</item>
+        <item>யெகாடிரின்பர்க்</item>
+        <item>கொல்கத்தா</item>
+        <item>ஸ்ரீலங்கா</item>
+        <item>காத்மாண்டு</item>
+        <item>ஆஸ்தானா</item>
+        <item>யங்கூன்</item>
+        <item>கிராஸ்னோயார்க்ஸ்</item>
+        <item>பாங்காக்</item>
+        <item>பீஜிங்</item>
+        <item>ஹாங்காங்</item>
+        <item>இர்குட்ஸ்க்</item>
+        <item>கோலாலம்பூர்</item>
+        <item>பெர்த்</item>
+        <item>தைபை</item>
+        <item>சீயோல்</item>
+        <item>டோக்கியோ, ஒசாகா</item>
+        <item>யகுட்ஸ்க்</item>
+        <item>அடிலெய்ட்</item>
+        <item>டார்வின்</item>
+        <item>பிரிஸ்பேன்</item>
+        <item>ஹொபார்ட்</item>
+        <item>சிட்னி, கன்பரா</item>
+        <item>விலாத்திவொஸ்தோக்</item>
+        <item>குவாம்</item>
+        <item>மகதன்</item>
+        <item>ஆக்லாந்து</item>
+        <item>ஃபிஜி</item>
+        <item>டோங்கா</item>
+        <item>ஜகார்த்தா</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>@string/alarm_alert_snooze_text</item>
+        <item>நிறுத்து</item>
+        <item>ஒலியைக் கட்டுப்படுத்து</item>
+        <item>எதுவும் செய்யாதே</item>
+    </string-array>
+    <string-array name="wakeup_alarm_description">
+        <item>இப்போதிலிருந்து 1 நிமிடத்திற்கும் குறைவான நேரத்தில் விழிப்பு அலாரம் ஒலிக்கும்</item>
+        <item>இப்போதிலிருந்து விழிப்பு அலாரம் ஒலிக்க இருக்கும் நாள்: %1$s</item>
+        <item>இப்போதிலிருந்து விழிப்பு அலாரம் ஒலிக்க இருக்கும் நேரம்: %2$s</item>
+        <item>இப்போதிலிருந்து விழிப்பு அலாரம் ஒலிக்க இருக்கும் நேரம்: %1$s %2$s</item>
+        <item>இப்போதிலிருந்து விழிப்பு அலாரம் ஒலிக்க இருக்கும் நேரம்: %3$s</item>
+        <item>இப்போதிலிருந்து விழிப்பு அலாரம் ஒலிக்க இருக்கும் நேரம்: %1$s %3$s</item>
+        <item>இப்போதிலிருந்து விழிப்பு அலாரம் ஒலிக்க இருக்கும் நேரம்: %2$s %3$s</item>
+        <item>இப்போதிலிருந்து விழிப்பு அலாரம் ஒலிக்க இருக்கும் நேரம்: %1$s %2$s %3$s</item>
+    </string-array>
+    <string-array name="week_start_entries">
+        <item>வெள்ளி</item>
+        <item>சனி</item>
+        <item>ஞாயிறு</item>
+        <item>திங்கள்</item>
+    </string-array>
+</resources>

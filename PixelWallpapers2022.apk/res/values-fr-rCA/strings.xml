@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="azure_title">Geai azuré</string>
+    <string name="blackswan_title">Cygne noir</string>
+    <string name="cockatoo_title">Cacatoès</string>
+    <string name="come_alive_title">Prendre vie</string>
+    <string name="feathers_attribution">Photo par Andrew Zuckerman</string>
+    <string name="feathers_description">Un spectacle de plumes haut en couleur et en détails</string>
+    <string name="feathers_title">Plumes</string>
+    <string name="greenwinged_title">Ara à ailes vertes</string>
+    <string name="king_title">Vautour royal</string>
+    <string name="living_universe_title">Univers vivant</string>
+    <string name="photos_memory_gallery_title">Vos souvenirs</string>
+    <string name="pied_title">Corbeau pie</string>
+    <string name="ringnecked_title">Perruche à collier</string>
+    <string name="seagull_title">Mouette</string>
+</resources>

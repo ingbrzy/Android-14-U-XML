@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_retaildemoCommunication">Uygulamanın, Retail Demo hizmetleri ile etkileşimde bulunmasına olanak tanır. Yalnızca Retail Demo bu izne sahip olmalıdır. Bu izne sahip olan uygulamalar Retail Demo modu için ayrılmış işlemleri tetikleyebilir.</string>
+    <string name="permlab_retaildemoCommunication">Mağaza Demo İletişimi</string>
+    <string name="retaildemo_preload_app_name">Mağaza Demo Hizmeti</string>
+</resources>

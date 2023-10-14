@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_retaildemoCommunication">允許應用程式與「零售示範服務」應用程式互動。此權限只能授予「零售示範」應用程式。獲授此權限的應用程式可觸發為「零售示範模式」預留的操作。</string>
+    <string name="permlab_retaildemoCommunication">零售示範通訊</string>
+    <string name="retaildemo_preload_app_name">零售示範服務</string>
+</resources>

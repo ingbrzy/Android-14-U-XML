@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mga Cross-Device na Serbisyo</string>
+    <string name="app_name_generic">isang app</string>
+    <string name="app_stream_error_generic">Nagkaroon ng error habang nagbabahagi ng app</string>
+    <string name="app_stream_init_error_generic">Hindi nagtagumpay ang pagbabahagi ng app sa iyong Chromebook</string>
+    <string name="audio_permission_rationale">Naka-disable ang pahintulot sa mikropono para sa pagbabahagi ng app</string>
+    <string name="cancel_button_label">Kanselahin</string>
+    <string name="chromebook_keyboard">Keyboard ng Chromebook</string>
+    <string name="chromebook_mouse">Mouse ng Chromebook</string>
+    <string name="chromebook_touchscreen">Touchscreen ng Chromebook</string>
+    <string name="connect_device">Ikinokonekta ang iyong telepono sa remote device: %1$s</string>
+    <string name="decline_button_label">Tanggihan</string>
+    <string name="development_notification_channel_name">Pag-develop</string>
+    <string name="device_camera_cannot_access">Hindi ma-access ang camera ng device mula sa Chromebook na ito</string>
+    <string name="done_button_label">Tapos na</string>
+    <string name="enable_button_label">I-enable</string>
+    <string name="foreground_service_notification_channel_name">Pangkalahatan</string>
+    <string name="foreground_service_notification_content">I-tap para baguhin ang mga setting</string>
+    <string name="foreground_service_notification_title">{0,plural, =1{Nakakonekta sa # device}one{Nakakonekta sa # device}other{Nakakonekta sa # na device}}</string>
+    <string name="interactive_streaming_generic_notification">Sini-stream ang %1$s at sini-sync ang mga notification para sa iyong Chromebook</string>
+    <string name="interactive_streaming_individual_notification">Sini-stream ang %1$s at sini-sync ang mga notification para sa %2$s</string>
+    <string name="interactive_streaming_notification">Nagsi-stream sa iyong Chromebook</string>
+    <string name="keyboard_name">Cross-device na keyboard</string>
+    <string name="lock_screen_notif_warning_content">I-enable ang mga notification sa lock screen</string>
+    <string name="lock_screen_notif_warning_title">Hindi ifo-forward ang mga notification</string>
+    <string name="mouse_name">Cross-device na mouse</string>
+    <string name="new_connection_confirm">Kumpirmahin</string>
+    <string name="new_connection_deny">Tanggihan</string>
+    <string name="new_connection_title">Kumpirmahin ang Mga String Match</string>
+    <string name="notification_access_missing">Kinakailangan ang access sa notification</string>
+    <string name="notification_access_missing_description">Para buksan ang mga notification sa iyong Chromebook, i-on ang Access sa notification</string>
+    <string name="notification_channel_name">Pangkalahatan</string>
+    <string name="notification_listener_label">Magbahagi ng mga app sa iyong Chromebook</string>
+    <string name="open_source_licenses">Mga open source license</string>
+    <string name="phone_permission_rationale">Naka-disable ang pahintulot sa tawag sa telepono para sa pagbabahagi ng app</string>
+    <string name="prompt_switch_languages">Pindutin ang shift + space para palitan ang wika ng Gboard ng iyong telepono</string>
+    <string name="settings_button">Mga Setting</string>
+    <string name="stop_sharing_button">Tapusin ang stream</string>
+    <string name="stream_termination_proximity_warning">Masyadong malayo ang iyong telepono. Ilapit ito para magpatuloy sa pag-stream.</string>
+    <string name="substitute_app_name">System</string>
+    <string name="summary_disable_wirecutter">Naka-off</string>
+    <string name="summary_enable_wirecutter">Naka-on</string>
+    <string name="touchscreen_name">Cross-device na touchscreen</string>
+</resources>

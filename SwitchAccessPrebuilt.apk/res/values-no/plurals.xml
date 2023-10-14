@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dots">
+        <item quantity="other">punkter %s</item>
+        <item quantity="one">punkt %s</item>
+    </plurals>
+    <plurals name="gestures_recorded_message">
+        <item quantity="other">%d bevegelser er tatt opp</item>
+        <item quantity="one">1 bevegelse er tatt opp</item>
+    </plurals>
+    <plurals name="label_num_keys_assigned_format">
+        <item quantity="other">%d brytere er tildelt</item>
+        <item quantity="one">%d bryter er tildelt</item>
+    </plurals>
+    <plurals name="label_num_scanning_loops_format">
+        <item quantity="other">%d løkker</item>
+        <item quantity="one">%d løkke</item>
+    </plurals>
+    <plurals name="line_speed_summary_format">
+        <item quantity="other">%.2f cm per sekund</item>
+        <item quantity="one">1 cm per sekund</item>
+    </plurals>
+    <plurals name="time_delay_summary_format">
+        <item quantity="other">%.2f sekunder</item>
+        <item quantity="one">1 sekund</item>
+    </plurals>
+</resources>

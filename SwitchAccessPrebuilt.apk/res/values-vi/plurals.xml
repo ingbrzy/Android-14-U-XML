@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dots">
+        <item quantity="other">dấu chấm %s</item>
+        <item quantity="one">dấu chấm %s</item>
+    </plurals>
+    <plurals name="gestures_recorded_message">
+        <item quantity="other">%d cử chỉ đã được ghi lại</item>
+        <item quantity="one">1 cử chỉ đã được ghi lại</item>
+    </plurals>
+    <plurals name="label_num_keys_assigned_format">
+        <item quantity="other">Đã chỉ định %d công tắc</item>
+        <item quantity="one">Đã chỉ định %d công tắc</item>
+    </plurals>
+    <plurals name="label_num_scanning_loops_format">
+        <item quantity="other">%d vòng</item>
+        <item quantity="one">%d vòng</item>
+    </plurals>
+    <plurals name="line_speed_summary_format">
+        <item quantity="other">%.2f cm/giây</item>
+        <item quantity="one">1 cm/giây</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d thông báo mới</item>
+        <item quantity="one">%d thông báo mới</item>
+    </plurals>
+    <plurals name="time_delay_summary_format">
+        <item quantity="other">%.2f giây</item>
+        <item quantity="one">1 giây</item>
+    </plurals>
+</resources>

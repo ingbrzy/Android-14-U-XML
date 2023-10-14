@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_bar_label">Login ke jaringan seluler</string>
+    <string name="android_system_label">Operator Seluler</string>
+    <string name="app_name">Komunikasi Operator</string>
+    <string name="mobile_data_status_notification_channel_name">Status data seluler</string>
+    <string name="no_data_notification_detail">Hubungi penyedia layanan %s</string>
+    <string name="no_data_notification_id">Data seluler telah dinonaktifkan</string>
+    <string name="no_mobile_data_connection">Tambahkan paket data atau roaming melalui %s</string>
+    <string name="no_mobile_data_connection_title">Tidak ada sambungan data seluler</string>
+    <string name="performance_boost_notification_button_manage">Kelola</string>
+    <string name="performance_boost_notification_button_not_now">Lain kali</string>
+    <string name="performance_boost_notification_channel">Penguat sinyal</string>
+    <string name="performance_boost_notification_detail">Buka situs %s untuk melihat opsi pengalaman aplikasi Anda</string>
+    <string name="performance_boost_notification_title">Opsi 5G dari operator Anda</string>
+    <string name="portal_notification_detail">Ketuk untuk membuka situs web %s</string>
+    <string name="portal_notification_id">Data seluler telah habis</string>
+    <string name="slice_purchase_app_label">Beli penguat sinyal.</string>
+    <string name="ssl_error_continue">Tetap lanjutkan melalui browser</string>
+    <string name="ssl_error_example">Misalnya, halaman login mungkin bukan milik organisasi yang ditampilkan.</string>
+    <string name="ssl_error_warning">Jaringan yang ingin Anda masuki memiliki masalah keamanan.</string>
+</resources>

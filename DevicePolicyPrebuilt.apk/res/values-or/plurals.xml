@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_install_failed_multi_app_desc">
+        <item quantity="other">%1$dଟି ଆବଶ୍ୟକୀୟ ଆପ ଇନଷ୍ଟଲ କରିବାରେ ବିଫଳ ହୋଇଥିବାରୁ ସେଟ-ଅପ ସଂପୂର୍ଣ୍ଣ ହୋଇପାରିବ ନାହିଁ। ଦୟାକରି ସିଧାସଳଖ ଆପଣଙ୍କର ଆଡମିନିଷ୍ଟ୍ରେଟରଙ୍କୁ କଣ୍ଟାକ୍ଟ କରନ୍ତୁ।</item>
+        <item quantity="one">%1$dଟି ଆବଶ୍ୟକୀୟ ଆପ ଇନଷ୍ଟଲ କରିବାରେ ବିଫଳ ହୋଇଥିବାରୁ ସେଟ-ଅପ ସଂପୂର୍ଣ୍ଣ ହୋଇପାରିବ ନାହିଁ। ଦୟାକରି ସିଧାସଳଖ ଆପଣଙ୍କର ଆଡମିନିଷ୍ଟ୍ରେଟରଙ୍କୁ କଣ୍ଟାକ୍ଟ କରନ୍ତୁ।</item>
+    </plurals>
+    <plurals name="app_install_failure_title">
+        <item quantity="other">ଆପ୍ସ ଇନଷ୍ଟଲ୍ କରାଯାଇ ପାରିବ ନାହିଁ</item>
+        <item quantity="one">ଆପ୍ ଇନ୍‌ଷ୍ଟଲ୍ କରାଯାଇ ପାରିବ ନାହିଁ</item>
+    </plurals>
+    <plurals name="app_install_progress_desc">
+        <item quantity="other">%2$dରୁ %1$dଟି ଆପ୍ ଇନ୍‌ଷ୍ଟଲ୍ କରାଯାଇଛି</item>
+        <item quantity="one">%2$dରୁ %1$dଟି ଆପ୍ ଇନ୍‌ଷ୍ଟଲ୍ କରାଯାଇଛି</item>
+    </plurals>
+    <plurals name="app_uninstall_button">
+        <item quantity="other">ଆପ୍ସ ଅନ୍‍ଇନ୍‍ଷ୍ଟଲ୍ କରନ୍ତୁ</item>
+        <item quantity="one">ଆପ୍ ଅନ୍‍ଇନ୍‍ଷ୍ଟଲ୍ କରନ୍ତୁ</item>
+    </plurals>
+    <plurals name="days_left_message">
+        <item quantity="other">&lt;annotation id="numeric_time_left">^1&lt;/annotation> ଦିନ ବାକି ଅଛି</item>
+        <item quantity="one">&lt;annotation id="numeric_time_left">^1&lt;/annotation> ଦିନ ବାକି ଅଛି</item>
+    </plurals>
+    <plurals name="hours_left_message">
+        <item quantity="other">&lt;annotation id="numeric_time_left">^1&lt;/annotation> ଘଣ୍ଟା ବାକି</item>
+        <item quantity="one">&lt;annotation id="numeric_time_left">^1&lt;/annotation> ଘଣ୍ଟା ବାକି</item>
+    </plurals>
+    <plurals name="number_of_additional_apps">
+        <item quantity="other">%1$dଟି ଅତିରିକ୍ତ ଆପ୍ସ</item>
+        <item quantity="one">%1$dଟି ଅତିରିକ୍ତ ଆପ</item>
+    </plurals>
+    <plurals name="number_of_required_apps">
+        <item quantity="other">%1$dଟି ଆବଶ୍ୟକୀୟ ଆପ୍ସ</item>
+        <item quantity="one">%1$dଟି ଆବଶ୍ୟକୀୟ ଆପ</item>
+    </plurals>
+    <plurals name="policy_apps_list_summary">
+        <item quantity="other">%dଟି ୱାର୍କ ଆପକୁ ଅନଇନଷ୍ଟଲ୍ କରାଯାଇପାରିବ ନାହିଁ</item>
+        <item quantity="one">%dଟି ୱାର୍କ ଆପକୁ ଅନଇନଷ୍ଟଲ୍ କରାଯାଇପାରିବ ନାହିଁ</item>
+    </plurals>
+    <plurals name="preinstalled_apps">
+        <item quantity="other">%2$dରୁ %1$dଟି ଆପ୍ ଇନ୍‌ଷ୍ଟଲ୍ କରାଯାଇଛି</item>
+        <item quantity="one">%2$dରୁ %1$dଟି ଆପ୍ ଇନ୍‌ଷ୍ଟଲ୍ କରାଯାଇଛି</item>
+    </plurals>
+    <plurals name="readable_name_applications">
+        <item quantity="other">%1$dଟି ଆପ୍ ଉପଲବ୍ଧ ଅଛି (%2$dଟି ଇନ୍‌ଷ୍ଟଲ୍ କରାଯାଇଛି, %3$dଟି ଅକ୍ଷମ କରାଯାଇଛି)</item>
+        <item quantity="one">%1$dଟି ଆପ୍ ଉପଲବ୍ଧ ଅଛି (%2$dଟି ଇନ୍‌ଷ୍ଟଲ୍ କରାଯାଇଛି, %3$dଟି ଅକ୍ଷମ କରାଯାଇଛି)</item>
+    </plurals>
+</resources>

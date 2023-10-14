@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_menu">ምናሌ</string>
+    <string name="call_notification_answer_action">መልስ</string>
+    <string name="call_notification_answer_video_action">ቪዲዮ</string>
+    <string name="call_notification_decline_action">አትቀበል</string>
+    <string name="call_notification_hang_up_action">ስልኩን ዝጋ</string>
+    <string name="call_notification_incoming_text">ገቢ ጥሪ</string>
+    <string name="call_notification_ongoing_text">እየተካሄደ ያለ ጥሪ</string>
+    <string name="call_notification_screening_text">ገቢ ጥሪ ማጣራት</string>
+    <string name="error_generic">የእርስዎን ካርዶች ማግኘት ላይ ችግር ነበር፣ እባክዎ ቆይተው እንደገና ይሞክሩ</string>
+    <string name="error_user_locked">የክፍያ መረጃዎን ለመጫን ስልክዎን ይክፈቱ</string>
+    <string name="settings">ቅንብሮች</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

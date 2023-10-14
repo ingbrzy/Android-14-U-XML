@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">Движи се нагоре</string>
+    <string name="abc_action_mode_done">Готово</string>
+    <string name="abc_capital_off">ИСКЛУЧЕНО</string>
+    <string name="abc_capital_on">ВКЛУЧЕНО</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">избриши</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">вселена</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Пребарување…</string>
+    <string name="abc_searchview_description_clear">Исчисти барање</string>
+    <string name="abc_searchview_description_search">Пребарај</string>
+    <string name="abc_searchview_description_submit">Испрати барање</string>
+    <string name="abc_searchview_description_voice">Гласовно пребарување</string>
+    <string name="abc_toolbar_collapse_description">Собери</string>
+    <string name="bottom_sheet_button_contact_text">@string/common_view</string>
+    <string name="bottom_sheet_button_matter_text">Поставување</string>
+    <string name="bottom_sheet_button_no_apps_text">Пребарување</string>
+    <string name="bottom_sheet_button_wifi_text">@string/common_connect</string>
+    <string name="bottom_sheet_copy_error_toast">Текстот не можеше да се копира во привремената меморија</string>
+    <string name="bottom_sheet_copy_success_toast">Текстот е копиран во привремената меморија</string>
+    <string name="bottom_sheet_image_view_description">Икона на апликацијата што се прикажува</string>
+    <string name="bottom_sheet_sub_title_no_apps">Пребарувајте на Google Play</string>
+    <string name="bottom_sheet_title">Отвори со</string>
+    <string name="bottom_sheet_title_app_found">Отвори со %1$s</string>
+    <string name="bottom_sheet_title_contact">Прикажи ги деталите за контактот</string>
+    <string name="bottom_sheet_title_copy_text">Копирање текст</string>
+    <string name="bottom_sheet_title_copy_text_button_text">@string/common_copy</string>
+    <string name="bottom_sheet_title_copy_text_button_text_copied">Копирано</string>
+    <string name="bottom_sheet_title_matter">Поставете го уредот</string>
+    <string name="bottom_sheet_title_passkey">Користете лозинка</string>
+    <string name="bottom_sheet_title_payment">Плаќање со</string>
+    <string name="bottom_sheet_title_payment_setup">Поставете плаќање со</string>
+    <string name="bottom_sheet_title_payment_setup_single_app">Поставете плаќање со %1$s</string>
+    <string name="bottom_sheet_title_payment_single_app">Платете со %1$s</string>
+    <string name="bottom_sheet_title_single_app_button_text">Отвори</string>
+    <string name="bottom_sheet_title_wifi">Поврзи се на Wi-Fi</string>
+    <string name="bottomsheet_action_expand_halfway">Прошири до половина</string>
+    <string name="bottomsheet_drag_handle_content_description">Рачка за влечење</string>
+    <string name="camera_permission_dialog_button">Во ред</string>
+    <string name="camera_permission_dialog_message">"„Услугите на Google Play“ бараат пристап до камерата на вашиот уред за да скенираат код за %1$s.
+
+За да овозможите пристап, дајте дозвола за камерата во поставките за „Услугите на Google Play“."</string>
+    <string name="camera_permission_dialog_message_platform">"„Услугите на Google Play“ бараат пристап до камерата на вашиот уред за да скенираат QR-код.
+
+За да овозможите пристап, дајте дозвола за камерата во поставките за „Услугите на Google Play“."</string>
+    <string name="camera_permission_dialog_title">Потребна е дозвола за камерата</string>
+    <string name="cd_cancel_button">Затворете го скенерот на кодови</string>
+    <string name="cd_info_button">Отворете го дијалогот со информации</string>
+    <string name="cd_selected_photo_view">Прикажи ја избраната слика</string>
+    <string name="cd_settings_button">Отворете ги поставките за скенерот</string>
+    <string name="cd_torch_button">Вклучете/исклучете ја батериската ламба</string>
+    <string name="character_counter_content_description">Внесени се %1$d од %2$d знаци</string>
+    <string name="character_counter_overflowed_content_description">Ограничувањето на знаците надмина %1$d од %2$d</string>
+    <string name="clear_text_end_icon_content_description">Избриши го текстот</string>
+    <string name="common_connect">Поврзи</string>
+    <string name="common_continue">Продолжи</string>
+    <string name="common_copy">Копирај</string>
+    <string name="common_google_play_services_enable_button">Овозможи</string>
+    <string name="common_google_play_services_enable_text">%1$s нема да се извршува ако не овозможите услуги на Google Play.</string>
+    <string name="common_google_play_services_enable_title">Овозможи ги услугите на Google Play</string>
+    <string name="common_google_play_services_install_button">Инсталирај</string>
+    <string name="common_google_play_services_install_text">%1$s нема да се извршува без услугите на Google Play што ги нема на уредот.</string>
+    <string name="common_google_play_services_install_title">Преземи ги услугите на Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Достапност на услугите на Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Грешка на услугите на Google Play</string>
+    <string name="common_google_play_services_unknown_issue">%1$s има проблеми со услугите на Google Play. Обидете се повторно.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s нема да се извршува без услугите на Google Play, што не се подржани од уредов.</string>
+    <string name="common_google_play_services_update_button">Ажурирај</string>
+    <string name="common_google_play_services_update_text">%1$s нема да се извршува ако не ги ажурирате услугите на Google Play.</string>
+    <string name="common_google_play_services_update_title">Ажурирај ги услугите на Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s нема да се извршува без услугите на Google Play што се ажурираат во моментов.</string>
+    <string name="common_google_play_services_wear_update_text">Потребна е нова верзија на услугите на Google Play. Таа наскоро самата ќе се ажурира.</string>
+    <string name="common_got_it">Сфатив</string>
+    <string name="common_no_apps_found">Не се најдени апликации</string>
+    <string name="common_open_on_phone">Отвори на телефонот</string>
+    <string name="common_view">Прикажи</string>
+    <string name="error_a11y_label">Error: invalid</string>
+    <string name="error_icon_content_description">Грешка</string>
+    <string name="exposed_dropdown_menu_content_description">Прикажи паѓачко мени</string>
+    <string name="info_dialog_button">@string/common_got_it</string>
+    <string name="info_dialog_message">"%1$s бара „Услугите на Google Play“ да го скенираат кодот во свое име. Нема да се споделат податоците за сликата, само резултатите од скенирањето.
+
+Скенирањето се извршува на вашиот уред и Google нема да ги зачува податоците за сликата или скенираните кодови."</string>
+    <string name="info_dialog_message_platform">Услугите на Google Play пристапуваат до камерата на уредов. Податоците и сликите од скенираниот код не се складираат и нема да го напуштат уредов.</string>
+    <string name="info_dialog_title">Обезбедено од Google</string>
+    <string name="info_dialog_title_platform">Овозможено од Google</string>
+    <string name="manual_input_hint">Допрете тука за да го внесете кодот рачно</string>
+    <string name="mtrl_checkbox_state_description_checked">Checked</string>
+    <string name="mtrl_checkbox_state_description_indeterminate">Partially checked</string>
+    <string name="mtrl_checkbox_state_description_unchecked">Not checked</string>
+    <string name="password_toggle_content_description">Прикажи ја лозинката</string>
+    <string name="qr_detection_failure_dialog_message">Пробајте да скенирате од друга фотографија</string>
+    <string name="qr_detection_failure_dialog_title">Не е најден QR-код</string>
+    <string name="scan_from_photo_title">Скенирајте од фотографија</string>
+    <string name="scanner_brand">Скенирано од Google во името на %1$s</string>
+    <string name="scanner_brand_platform">@string/info_dialog_title_platform</string>
+    <string name="scanner_title">Скенирајте го кодот</string>
+    <string name="scanner_title_platform">Скенирајте QR-код</string>
+</resources>

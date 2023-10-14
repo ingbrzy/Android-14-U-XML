@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dlg_message_deletion_confirmation">
+        <item quantity="other">Înregistrările vor fi șterse definitiv. Această acțiune nu poate fi anulată.</item>
+        <item quantity="one">Înregistrarea va fi ștearsă definitiv. Această acțiune nu poate fi anulată.</item>
+        <item quantity="few">Înregistrările vor fi șterse definitiv. Această acțiune nu poate fi anulată.</item>
+    </plurals>
+    <plurals name="dlg_message_deletion_permanent_confirmation">
+        <item quantity="other">Nu ai făcut backup înregistrărilor. Acestea vor fi șterse definitiv. Nu poți anula această acțiune.</item>
+        <item quantity="one">Nu ai făcut backup înregistrării. Aceasta va fi ștearsă definitiv. Nu poți anula această acțiune.</item>
+        <item quantity="few">Nu ai făcut backup înregistrărilor. Acestea vor fi șterse definitiv. Nu poți anula această acțiune.</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_confirmation">
+        <item quantity="other">Ștergi înregistrările?</item>
+        <item quantity="one">Ștergi înregistrarea?</item>
+        <item quantity="few">Ștergi înregistrările?</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_permanent_confirmation">
+        <item quantity="other">Ștergi definitiv aceste înregistrări?</item>
+        <item quantity="one">Ștergi definitiv această înregistrare?</item>
+        <item quantity="few">Ștergi definitiv aceste înregistrări?</item>
+    </plurals>
+    <plurals name="download_failure_description_storage_full">
+        <item quantity="other">Nu putem descărca înregistrările, deoarece spațiul de stocare al dispozitivului este plin. Atinge pentru a examina.</item>
+        <item quantity="one">Spațiul de stocare al dispozitivului este plin. Atinge pentru a examina.</item>
+        <item quantity="few">Nu putem descărca înregistrările, deoarece spațiul de stocare al dispozitivului este plin. Atinge pentru a examina.</item>
+    </plurals>
+    <plurals name="downloading_description">
+        <item quantity="other">Se descarcă %1$d de înregistrări</item>
+        <item quantity="one">Se descarcă %1$d înregistrare</item>
+        <item quantity="few">Se descarcă %1$d înregistrări</item>
+    </plurals>
+    <plurals name="og_backup_failed_title">
+        <item quantity="other">Nu s-a făcut backup pentru %1$d de elemente</item>
+        <item quantity="one">Nu s-a făcut backup pentru %1$d element</item>
+        <item quantity="few">Nu s-a făcut backup pentru %1$d elemente</item>
+    </plurals>
+    <plurals name="og_backup_items_left">
+        <item quantity="other">%1$d de elemente rămase</item>
+        <item quantity="one">%1$d element rămas</item>
+        <item quantity="few">%1$d elemente rămase</item>
+    </plurals>
+    <plurals name="og_backup_items_stopped_title">
+        <item quantity="other">Nu s-a făcut backup pentru %1$d de elemente</item>
+        <item quantity="one">Nu s-a făcut backup pentru %1$d element</item>
+        <item quantity="few">Nu s-a făcut backup pentru %1$d elemente</item>
+    </plurals>
+    <plurals name="peoplekit_chips_copied_recipients">
+        <item quantity="other">S-au copiat %d de destinatari</item>
+        <item quantity="one">S-a copiat %d destinatar</item>
+        <item quantity="few">S-au copiat %d destinatari</item>
+    </plurals>
+    <plurals name="search_results_count">
+        <item quantity="other">%1$d de rezultate</item>
+        <item quantity="one">%1$d rezultat</item>
+        <item quantity="few">%1$d rezultate</item>
+    </plurals>
+    <plurals name="search_results_position">
+        <item quantity="other">^1/^2 de rezultate</item>
+        <item quantity="one">^1/^2 rezultat</item>
+        <item quantity="few">^1/^2 rezultate</item>
+    </plurals>
+    <plurals name="search_results_position_content_description">
+        <item quantity="other">%1$d din %2$d de rezultate</item>
+        <item quantity="one">%1$d din %2$d rezultat</item>
+        <item quantity="few">%1$d din %2$d rezultate</item>
+    </plurals>
+    <plurals name="selected_recording_quantity">
+        <item quantity="other">S-au selectat %1$d</item>
+        <item quantity="one">S-a selectat %1$d</item>
+        <item quantity="few">S-au selectat %1$d</item>
+    </plurals>
+    <plurals name="snackbar_message_download_failed_storage_full">
+        <item quantity="other">Spațiul de stocare al dispozitivului este plin. Nu putem descărca înregistrările.</item>
+        <item quantity="one">Spațiul de stocare al dispozitivului este plin. Nu putem descărca înregistrarea.</item>
+        <item quantity="few">Spațiul de stocare al dispozitivului este plin. Nu putem descărca înregistrările.</item>
+    </plurals>
+    <plurals name="speaker_count">
+        <item quantity="other">%1$d de difuzoare</item>
+        <item quantity="one">%1$d difuzor</item>
+        <item quantity="few">%1$d difuzoare</item>
+    </plurals>
+    <plurals name="uploading_description">
+        <item quantity="other">Se încarcă %1$d de înregistrări</item>
+        <item quantity="one">Se încarcă %1$d înregistrare</item>
+        <item quantity="few">Se încarcă %1$d înregistrări</item>
+    </plurals>
+</resources>

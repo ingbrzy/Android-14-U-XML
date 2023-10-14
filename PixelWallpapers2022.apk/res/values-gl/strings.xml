@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="azure_title">Gralla azul</string>
+    <string name="blackswan_title">Cisne negro</string>
+    <string name="cockatoo_title">Cacatúa</string>
+    <string name="come_alive_title">A pantalla cobra vida</string>
+    <string name="feathers_attribution">Foto de Andrew Zuckerman</string>
+    <string name="feathers_description">Unha imaxe con plumas, cores e detalles</string>
+    <string name="feathers_title">Plumas</string>
+    <string name="greenwinged_title">Papagaio de ás verdes</string>
+    <string name="king_title">Zopilote rei</string>
+    <string name="living_universe_title">Universo en movemento</string>
+    <string name="photos_memory_gallery_title">As túas lembranzas</string>
+    <string name="pied_title">Corvo branco e negro</string>
+    <string name="ringnecked_title">Cotorra de Kramer</string>
+    <string name="seagull_title">Gaivota</string>
+</resources>

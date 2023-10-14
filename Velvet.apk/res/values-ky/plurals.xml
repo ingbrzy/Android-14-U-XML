@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="other">%d күн мурун</item>
+        <item quantity="one">%d күн мурун</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="other">%d мүн. мурун</item>
+        <item quantity="one">%d мүн. мурун</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="other">%d жыл мурун</item>
+        <item quantity="one">%d жыл мурун</item>
+    </plurals>
+    <plurals name="assistant_custodio_device_list_fragment_legacy_linking_item_text">
+        <item quantity="other">%d түзмөк жеткиликтүү</item>
+        <item quantity="one">%d түзмөк жеткиликтүү</item>
+    </plurals>
+    <plurals name="assistant_custodio_device_list_home_section_subtitle_text">
+        <item quantity="other">%d түзмөк</item>
+        <item quantity="one">%d түзмөк</item>
+    </plurals>
+    <plurals name="assistant_holiday_alarms_notification_content_text">
+        <item quantity="other">Tap to pause or cancel your alarms</item>
+        <item quantity="one">Tap to pause or cancel your %s alarm</item>
+    </plurals>
+    <plurals name="assistant_holiday_alarms_notification_pause_button_text">
+        <item quantity="other">Pause your alarms for the holiday</item>
+        <item quantity="one">Pause your %s alarm for the holiday</item>
+    </plurals>
+    <plurals name="assistant_post_task_migration_succeed_notification_title">
+        <item quantity="other">%1$d reminders set up in Google Tasks</item>
+        <item quantity="one">%1$d reminder set up in Google Tasks</item>
+    </plurals>
+    <plurals name="assistantactions_n_phone_numbers">
+        <item quantity="other">%1$d numbers</item>
+        <item quantity="one">%1$d number</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">Ар %d күндө</item>
+        <item quantity="one">Күнүгө</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; %d жолкуга</item>
+        <item quantity="one">; бир жолкуга</item>
+    </plurals>
+    <plurals name="fa_message_preview_card_num_of_audio_messages">
+        <item quantity="other">%1$d үн билдирүүсү</item>
+        <item quantity="one">%1$d үн билдирүүсү</item>
+    </plurals>
+    <plurals name="fa_message_preview_card_num_of_pictures">
+        <item quantity="other">%1$d сүрөт</item>
+        <item quantity="one">%1$d сүрөт</item>
+    </plurals>
+    <plurals name="fa_message_preview_card_num_of_videos">
+        <item quantity="other">%1$d видео</item>
+        <item quantity="one">%1$d видео</item>
+    </plurals>
+    <plurals name="gestalt_duration_in_days_short">
+        <item quantity="other">%1$d күн</item>
+        <item quantity="one">%1$d күн</item>
+    </plurals>
+    <plurals name="gestalt_duration_in_hours_short">
+        <item quantity="other">%1$d саат</item>
+        <item quantity="one">%1$d саат</item>
+    </plurals>
+    <plurals name="gestalt_duration_in_minutes_short">
+        <item quantity="other">%1$d мүн.</item>
+        <item quantity="one">%1$d мүн.</item>
+    </plurals>
+    <plurals name="gestalt_duration_in_months_short">
+        <item quantity="other">%1$d ай</item>
+        <item quantity="one">%1$d ай</item>
+    </plurals>
+    <plurals name="gestalt_duration_in_years_short">
+        <item quantity="other">%1$d жыл</item>
+        <item quantity="one">%1$d жыл</item>
+    </plurals>
+    <plurals name="lens_region_search_area_percent">
+        <item quantity="other">%1$s %2$d пайыз</item>
+        <item quantity="one">%1$s %2$d пайыз</item>
+    </plurals>
+    <plurals name="monthly_interval">
+        <item quantity="other">Ар %1$d айда</item>
+        <item quantity="one">Ай сайын</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d жаңы билдирме</item>
+        <item quantity="one">%d жаңы билдирме</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">%1$d тандалды</item>
+        <item quantity="one">%1$d тандалды</item>
+    </plurals>
+    <plurals name="peoplekit_chips_copied_recipients">
+        <item quantity="other">%d алуучу көчүрүлдү</item>
+        <item quantity="one">%d алуучу көчүрүлдү</item>
+    </plurals>
+    <plurals name="podcasts_days_ago">
+        <item quantity="other">%1$d күн мурун</item>
+        <item quantity="one">%1$d күн мурун</item>
+    </plurals>
+    <plurals name="podcasts_days_left_to_remove_downloads">
+        <item quantity="other">%1$d күндөн кийин</item>
+        <item quantity="one">%1$d күндөн кийин</item>
+    </plurals>
+    <plurals name="podcasts_enabled_podcasts_number_label">
+        <item quantity="other">%2$d подкасттын ичинен %1$d подкаст үчүн иштетилди</item>
+        <item quantity="one">%2$d подкасттын ичинен %1$d подкаст үчүн иштетилди</item>
+    </plurals>
+    <plurals name="podcasts_episode_list_title_text">
+        <item quantity="other">%1$d серия</item>
+        <item quantity="one">%1$d серия</item>
+    </plurals>
+    <plurals name="podcasts_hours_abbreviated">
+        <item quantity="other">%s с.</item>
+        <item quantity="one">%s с.</item>
+    </plurals>
+    <plurals name="podcasts_hours_ago">
+        <item quantity="other">%1$d саат мурун</item>
+        <item quantity="one">%1$d саат мурун</item>
+    </plurals>
+    <plurals name="podcasts_hours_left_to_remove_downloads">
+        <item quantity="other">%1$d сааттан кийин</item>
+        <item quantity="one">%1$d сааттан кийин</item>
+    </plurals>
+    <plurals name="podcasts_minutes_abbreviated">
+        <item quantity="other">%s мүн.</item>
+        <item quantity="one">%s мүн.</item>
+    </plurals>
+    <plurals name="podcasts_minutes_ago">
+        <item quantity="other">%1$d мүн. мурун</item>
+        <item quantity="one">%1$d мүн. мурун</item>
+    </plurals>
+    <plurals name="public_notification_text">
+        <item quantity="other">%1$d new notifications</item>
+        <item quantity="one">You have a notification</item>
+    </plurals>
+    <plurals name="readaloud_number_of_minutes">
+        <item quantity="other">%d мүнөт</item>
+        <item quantity="one">%d мүнөт</item>
+    </plurals>
+    <plurals name="readaloud_number_of_seconds">
+        <item quantity="other">%d секунд</item>
+        <item quantity="one">%d секунд</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">%d жолкуга</item>
+        <item quantity="one">%d жолкуга</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">Ар %d күндө</item>
+        <item quantity="one">Ар %d күндө</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">Ар %d айда</item>
+        <item quantity="one">Ар %d айда</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">Ар %d аптада</item>
+        <item quantity="one">Ар %d аптада</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">Ар %d жылда</item>
+        <item quantity="one">Ар %d жылда</item>
+    </plurals>
+    <plurals name="share_eta_button">
+        <item quantity="other">%d мүн.</item>
+        <item quantity="one">%d мүн.</item>
+    </plurals>
+    <plurals name="share_eta_message">
+        <item quantity="other">Болжол менен %d мүнөттөн кийин келет.</item>
+        <item quantity="one">%d мүнөттөн кийин келет.</item>
+    </plurals>
+    <plurals name="share_imminent_eta_message">
+        <item quantity="other">%d мүнөттөн кийин келет.</item>
+        <item quantity="one">%d мүнөттөн кийин келет.</item>
+    </plurals>
+    <plurals name="survey_star_rating">
+        <item quantity="other">%2$d ичинен %1$d жылдызча</item>
+        <item quantity="one">%2$d ичинен %1$d жылдызча</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">ар %1$d апта сайын %2$s күнү</item>
+        <item quantity="one">Апта сайын %2$s күнү</item>
+    </plurals>
+    <plurals name="yearly_interval_plain">
+        <item quantity="other">Ар %1$d жылда</item>
+        <item quantity="one">Жыл сайын</item>
+    </plurals>
+</resources>

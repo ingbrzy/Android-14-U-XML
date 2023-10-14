@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sound_amplifier_html_description">"L'amplificador de so et permet apujar el volum dels sons més febles sense que els sons més potents sonin massa alt.&lt;br/>&lt;br/> &lt;b>Com pots utilitzar l'amplificador de so&lt;/b>&lt;br/> 1. Connecta els auriculars amb cable o els auriculars Bluetooth.&lt;br/> 2. Inicia l'amplificador de so."</string>
+    <string name="sound_amplifier_intro">"Utilitza l'amplificador de so amb auriculars per potenciar la qualitat de l'àudio del teu voltant i al teu dispositiu"</string>
+</resources>

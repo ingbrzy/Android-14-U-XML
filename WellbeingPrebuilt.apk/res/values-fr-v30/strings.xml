@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="heads_up_location_permission_description">Indique à la fonctionnalité Lever la tête que vous êtes dehors. Sur les deux écrans suivants, sélectionnez <b>"Lorsque vous utilisez l'appli > Toujours autoriser"</b>.</string>
+    <string name="wind_down_discovery_notification_text">"{DEVICE_TYPE,select, DEVICE_PHONE{Utilisez le mode Coucher pour mettre votre téléphone en mode silencieux et ne pas illuminer l'écran à l'heure du coucher}DEVICE_TABLET{Utilisez le mode Coucher pour mettre votre tablette en mode silencieux et ne pas illuminer l'écran à l'heure du coucher}other{Utilisez le mode Coucher pour mettre votre appareil en mode silencieux et ne pas illuminer l'écran à l'heure du coucher}}"</string>
+</resources>

@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ndays">
+        <item quantity="other">%d na araw</item>
+        <item quantity="one">%d araw</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%dna oras</item>
+        <item quantity="one">%d oras</item>
+    </plurals>
+    <plurals name="Nminutes">
+        <item quantity="other">%d na minuto</item>
+        <item quantity="one">%d minuto</item>
+    </plurals>
+    <plurals name="Nweeks">
+        <item quantity="other">%d na linggo</item>
+        <item quantity="one">%d linggo</item>
+    </plurals>
+    <plurals name="a11y_filter_capacity">
+        <item quantity="other">Kinakailangang kapasidad ng kwarto: %1$d na upuan</item>
+        <item quantity="one">Kinakailangang kapasidad ng kwarto: %1$d upuan</item>
+    </plurals>
+    <plurals name="accessibility_find_time_custom_duration_hour_input">
+        <item quantity="other">%d na oras</item>
+        <item quantity="one">%d oras</item>
+    </plurals>
+    <plurals name="accessibility_find_time_custom_duration_minute_input">
+        <item quantity="other">%d na minuto</item>
+        <item quantity="one">%d minuto</item>
+    </plurals>
+    <plurals name="accessibility_has_time_proposals">
+        <item quantity="other">may mga iminumungkahing oras</item>
+        <item quantity="one">may mga iminumungkahing oras</item>
+    </plurals>
+    <plurals name="alternate_search_available_announce">
+        <item quantity="other">%d ang nakitang resulta sa paghahanap.</item>
+        <item quantity="one">%d ang nakitang resulta sa paghahanap.</item>
+    </plurals>
+    <plurals name="annually_frequency_text">
+        <item quantity="other">Ulitin kada %1$d na %2$s</item>
+        <item quantity="one">Ulitin kada %1$d %2$s</item>
+    </plurals>
+    <plurals name="birthday_chip_title">
+        <item quantity="other">%d (na) kaarawan</item>
+        <item quantity="one">%d kaarawan</item>
+    </plurals>
+    <plurals name="calendar_daily_lower">
+        <item quantity="other">kada %d na araw</item>
+        <item quantity="one">kada %d araw</item>
+    </plurals>
+    <plurals name="calendar_monthly_interval_lower">
+        <item quantity="other">kada %1$d na buwan</item>
+        <item quantity="one">kada %1$d buwan</item>
+    </plurals>
+    <plurals name="calendar_weekly_lower">
+        <item quantity="other">kada %1$d na linggo</item>
+        <item quantity="one">kada %1$d linggo</item>
+    </plurals>
+    <plurals name="calendar_yearly_interval_lower">
+        <item quantity="other">kada %1$d na taon</item>
+        <item quantity="one">kada %1$d taon</item>
+    </plurals>
+    <plurals name="capacity_description">
+        <item quantity="other">%d na tao</item>
+        <item quantity="one">%d tao</item>
+    </plurals>
+    <plurals name="count_duration_accessibility_description">
+        <item quantity="other">Matatapos pagkalitaw nang %d na beses</item>
+        <item quantity="one">Matatapos pagkalitaw nang %d beses</item>
+    </plurals>
+    <plurals name="count_duration_label">
+        <item quantity="other">Pagkalitaw nang %d na beses</item>
+        <item quantity="one">Pagkalitaw nang %d beses</item>
+    </plurals>
+    <plurals name="daily_frequency_text">
+        <item quantity="other">Ulitin kada %1$d na %2$s</item>
+        <item quantity="one">Ulitin kada %1$d %2$s</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">na Araw</item>
+        <item quantity="one">Araw</item>
+    </plurals>
+    <plurals name="days_before">
+        <item quantity="other">na Araw bago</item>
+        <item quantity="one">Araw bago</item>
+    </plurals>
+    <plurals name="describe_attachments">
+        <item quantity="other">Mga attachment: %1$d na attachment</item>
+        <item quantity="one">Mga attachment: %1$d attachment</item>
+    </plurals>
+    <plurals name="done_reminders_title">
+        <item quantity="other">%d na paalala ang tapos na</item>
+        <item quantity="one">%d paalala ang tapos na</item>
+    </plurals>
+    <plurals name="end_by_count">
+        <item quantity="other">; nang %d na beses</item>
+        <item quantity="one">; nang %d beses</item>
+    </plurals>
+    <plurals name="error_working_location_duration_too_long">
+        <item quantity="other">Hindi puwedeng itakda ang mga lokasyon ng trabaho para sa mahigit sa %1$d na araw.</item>
+        <item quantity="one">Hindi puwedeng itakda ang mga lokasyon ng trabaho para sa mahigit sa %1$d araw.</item>
+    </plurals>
+    <plurals name="files_not_shared_dialog_body">
+        <item quantity="other">Maaaring walang access ang iyong mga bisita sa mga file na iyong ipinasok mula sa Drive. Maaaring kailanganin mong ibahagi ang mga file mula sa loob ng Google Drive.</item>
+        <item quantity="one">Maaaring walang access ang iyong mga bisita sa mga file na iyong ipinasok mula sa Drive. Maaaring kailanganin mong ibahagi ang mga file mula sa loob ng Google Drive.</item>
+    </plurals>
+    <plurals name="find_a_time_invisible_attendee">
+        <item quantity="other">+%d pa</item>
+        <item quantity="one">+%d pa</item>
+    </plurals>
+    <plurals name="find_time_duration_hour_label">
+        <item quantity="other">%d na oras</item>
+        <item quantity="one">%d oras</item>
+    </plurals>
+    <plurals name="find_time_duration_minute_label">
+        <item quantity="other">%d na minuto</item>
+        <item quantity="one">%d minuto</item>
+    </plurals>
+    <plurals name="fix_permissions_does_not_fix_everything_warning">
+        <item quantity="other">Tandaan: Maaaring wala pa ring access ang ilang mga bisita sa mga file na ito. Maaaring kailanganin mong ibahagi ang mga file na ito mula sa loob ng Google Drive.</item>
+        <item quantity="one">Tandaan: Maaaring wala pa ring access ang ilang mga bisita sa file na ito. Maaaring kailanganin mong ibahagi ang mga file na ito mula sa loob ng Google Drive.</item>
+    </plurals>
+    <plurals name="fix_permissions_outside_domain_warning_hedgehog">
+        <item quantity="other">"Nagbabahagi ka sa mga bisita:&lt;br>&lt;b>%1$s
+&lt;/b>&lt;br>na wala sa organisasyon sa Google Workspace na kinabibilangan ng mga file na ito"</item>
+        <item quantity="one">"Nagbabahagi ka sa mga bisita:&lt;br>&lt;b>%1$s
+&lt;/b>&lt;br>na wala sa organisasyon sa Google Workspace na kinabibilangan ng mga file na ito"</item>
+    </plurals>
+    <plurals name="guest_count">
+        <item quantity="other">%dna bisita</item>
+        <item quantity="one">%d bisita</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">na Oras</item>
+        <item quantity="one">Oras</item>
+    </plurals>
+    <plurals name="hours_before">
+        <item quantity="other">na Oras bago</item>
+        <item quantity="one">Oras bago</item>
+    </plurals>
+    <plurals name="ical_many_events_warning">
+        <item quantity="other">Magdadagdag ito ng %d na event at hindi na mababawi. Sigurado ka ba?</item>
+        <item quantity="one">Magdadagdag ito ng %d event at hindi na mababawi. Sigurado ka ba?</item>
+    </plurals>
+    <plurals name="mark_reminders_done_title">
+        <item quantity="other">Markahan ang %d na paalala bilang tapos na?</item>
+        <item quantity="one">Markahan ang %d paalala bilang tapos na?</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">na Minuto</item>
+        <item quantity="one">Minuto</item>
+    </plurals>
+    <plurals name="minutes_before">
+        <item quantity="other">na Minuto bago</item>
+        <item quantity="one">Minuto bago</item>
+    </plurals>
+    <plurals name="month_view_hidden_events">
+        <item quantity="other">%d pa</item>
+        <item quantity="one">%d pa</item>
+    </plurals>
+    <plurals name="monthly_frequency_text">
+        <item quantity="other">Ulitin kada %1$d na %2$s</item>
+        <item quantity="one">Ulitin kada %1$d %2$s</item>
+    </plurals>
+    <plurals name="more_guests">
+        <item quantity="other">at %1$d pa</item>
+        <item quantity="one">at %1$d pa</item>
+    </plurals>
+    <plurals name="no_room_suggestions_title">
+        <item quantity="other">%1$d na bisitang walang suhestyon sa kuwarto</item>
+        <item quantity="one">%1$d bisitang walang suhestyon sa kuwarto</item>
+    </plurals>
+    <plurals name="num_rooms">
+        <item quantity="other">%1$d na kwarto</item>
+        <item quantity="one">%1$d kwarto</item>
+    </plurals>
+    <plurals name="public_notification_text">
+        <item quantity="other">%1$d na bagong notification</item>
+        <item quantity="one">%1$d bagong notification</item>
+    </plurals>
+    <plurals name="recurrence_frequency_annually">
+        <item quantity="other">na taon</item>
+        <item quantity="one">taon</item>
+    </plurals>
+    <plurals name="recurrence_frequency_daily">
+        <item quantity="other">na araw</item>
+        <item quantity="one">araw</item>
+    </plurals>
+    <plurals name="recurrence_frequency_monthly">
+        <item quantity="other">na buwan</item>
+        <item quantity="one">buwan</item>
+    </plurals>
+    <plurals name="recurrence_frequency_weekly">
+        <item quantity="other">na linggo</item>
+        <item quantity="one">linggo</item>
+    </plurals>
+    <plurals name="reminder_bundle_description_prefix">
+        <item quantity="other">%d na paalala:</item>
+        <item quantity="one">%d paalala:</item>
+    </plurals>
+    <plurals name="reminder_done_bundle_description_prefix">
+        <item quantity="other">%d na paalala ang tapos na:</item>
+        <item quantity="one">%d paalala ang tapos na:</item>
+    </plurals>
+    <plurals name="reminders_marked_done">
+        <item quantity="other">Namarkahang tapos na ang %d na paalala.</item>
+        <item quantity="one">Namarkahang tapos na ang %d paalala.</item>
+    </plurals>
+    <plurals name="reminders_migration_dialog_title">
+        <item quantity="other">Gawing mga gawain ang %d na paalala</item>
+        <item quantity="one">Gawing mga gawain ang %d paalala</item>
+    </plurals>
+    <plurals name="reminders_migration_force_completed_toast">
+        <item quantity="other">Mga gawain na ngayon ang mga paalala. Ginawang gawain ang %1$d na paalala para sa %2$s.</item>
+        <item quantity="one">Mga gawain na ngayon ang mga paalala. Ginawang gawain ang %1$d paalala para sa %2$s.</item>
+    </plurals>
+    <plurals name="reminders_migration_keep_only_dialog_title">
+        <item quantity="other">Magiging available sa Google Keep ang %d na paalala mo</item>
+        <item quantity="one">Magiging available sa Google Keep ang %d paalala mo</item>
+    </plurals>
+    <plurals name="reminders_migration_keep_only_reminders_dialog_description_with_account">
+        <item quantity="other">Bilang %s, sa Google Keep ginawa ang lahat ng iyong paalala at hindi puwedeng gawing gawain ang mga ito. Aalisin ang mga ito sa Calendar, pero mapapamahalaan mo pa rin ang mga ito sa Keep.</item>
+        <item quantity="one">Bilang %s, sa Google Keep ginawa ang lahat ng iyong paalala at hindi puwedeng gawing gawain ang mga ito. Aalisin ang mga ito sa Calendar, pero mapapamahalaan mo pa rin ang mga ito sa Keep.</item>
+    </plurals>
+    <plurals name="reminders_migration_partial_failure_some_remaining_toast">
+        <item quantity="other">%1$d na paalala lang ang naging mga gawain para sa %2$s. May natitira pang ilang paalala.</item>
+        <item quantity="one">%1$d paalala lang ang naging mga gawain para sa %2$s. May natitira pang ilang paalala.</item>
+    </plurals>
+    <plurals name="reminders_migration_tooltip_remark">
+        <item quantity="other">Ginawa nang mga gawain ang iyong mga paalala sa %d.</item>
+        <item quantity="one">Ginawa nang mga gawain ang iyong mga paalala sa %d.</item>
+    </plurals>
+    <plurals name="reminders_migration_tooltip_with_keep_reminders_remark">
+        <item quantity="other">Ginawang mga gawain ang %d na paalala. Hindi nagbago ang mga paalalang ginawa sa Google Keep. Maaalis ang mga ito sa Calendar, pero mapapamahalaan mo pa rin ang mga ito sa Keep.</item>
+        <item quantity="one">Ginawang mga gawain ang %d paalala. Hindi nagbago ang mga paalalang ginawa sa Google Keep. Maaalis ang mga ito sa Calendar, pero mapapamahalaan mo pa rin ang mga ito sa Keep.</item>
+    </plurals>
+    <plurals name="reminders_migration_voluntary_completed_keep_only_toast">
+        <item quantity="other">Inalis sa Calendar ang %1$d na paalala para sa %2$s pero nasa Keep pa rin ang mga ito</item>
+        <item quantity="one">Inalis sa Calendar ang %1$d paalala para sa %2$s pero nasa Keep pa rin ang mga ito</item>
+    </plurals>
+    <plurals name="reminders_migration_voluntary_completed_toast">
+        <item quantity="other">Ginawang mga gawain ang %1$d na paalala para sa %2$s</item>
+        <item quantity="one">Ginawang mga gawain ang %1$d paalala para sa %2$s</item>
+    </plurals>
+    <plurals name="reminders_title">
+        <item quantity="other">%d na paalala</item>
+        <item quantity="one">%d paalala</item>
+    </plurals>
+    <plurals name="response_count_accepted">
+        <item quantity="other">%s ang sumagot ng oo</item>
+        <item quantity="one">%s ang sumagot ng oo</item>
+    </plurals>
+    <plurals name="response_count_accepted_in_a_meeting_room">
+        <item quantity="other">%s sa isang meeting room</item>
+        <item quantity="one">%s sa isang meeting room</item>
+    </plurals>
+    <plurals name="response_count_accepted_virtually">
+        <item quantity="other">%s sa virtual na paraan</item>
+        <item quantity="one">%s sa virtual na paraan</item>
+    </plurals>
+    <plurals name="response_count_declined">
+        <item quantity="other">%s ang sumagot ng hindi</item>
+        <item quantity="one">%s ang sumagot ng hindi</item>
+    </plurals>
+    <plurals name="response_count_need_action">
+        <item quantity="other">%s ang hinihintay sumagot</item>
+        <item quantity="one">%s ang hinihintay sumagot</item>
+    </plurals>
+    <plurals name="response_count_tentative">
+        <item quantity="other">%s ang sumagot ng siguro</item>
+        <item quantity="one">%s ang sumagot ng siguro</item>
+    </plurals>
+    <plurals name="room_capacity_description">
+        <item quantity="other">Conference room para sa %1$d na tao</item>
+        <item quantity="one">Conference room para sa %1$d tao</item>
+    </plurals>
+    <plurals name="short_invisible_all_day_events">
+        <item quantity="other">+%d</item>
+        <item quantity="one">+%d</item>
+    </plurals>
+    <plurals name="smartmail_seats">
+        <item quantity="other">upuan %s</item>
+        <item quantity="one">upuan %s</item>
+    </plurals>
+    <plurals name="smartmail_time_day_offset">
+        <item quantity="other">%d na araw</item>
+        <item quantity="one">%d araw</item>
+    </plurals>
+    <plurals name="survey_star_rating">
+        <item quantity="other">%1$d na star sa %2$d</item>
+        <item quantity="one">%1$d star sa %2$d</item>
+    </plurals>
+    <plurals name="tasks_rollover_chip_title">
+        <item quantity="other">%d na nakabinbing gawain</item>
+        <item quantity="one">%d nakabinbing gawain</item>
+    </plurals>
+    <plurals name="tasks_rollover_dialog_description">
+        <item quantity="other">Sa loob ng nakalipas na %d na araw</item>
+        <item quantity="one">Sa loob ng nakalipas na %d araw</item>
+    </plurals>
+    <plurals name="weekly_by_day_lower">
+        <item quantity="other">kada %1$d na linggo tuwing %2$s</item>
+        <item quantity="one">kada %1$d linggo tuwing %2$s</item>
+    </plurals>
+    <plurals name="weekly_frequency_text">
+        <item quantity="other">Ulitin kada %1$d na %2$s</item>
+        <item quantity="one">Ulitin kada %1$d %2$s</item>
+    </plurals>
+    <plurals name="weeks">
+        <item quantity="other">na Linggo</item>
+        <item quantity="one">Llinggo</item>
+    </plurals>
+    <plurals name="weeks_before">
+        <item quantity="other">na Linggo bago</item>
+        <item quantity="one">Linggo bago</item>
+    </plurals>
+</resources>

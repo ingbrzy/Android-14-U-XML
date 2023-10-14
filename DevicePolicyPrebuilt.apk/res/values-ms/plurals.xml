@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_install_failed_multi_app_desc">
+        <item quantity="other">Persediaan tidak dapat diselesaikan kerana %1$d apl yang diperlukan gagal dipasang. Sila hubungi terus pentadbir sistem anda.</item>
+        <item quantity="one">Persediaan tidak dapat diselesaikan kerana %1$d apl yang diperlukan gagal dipasang. Sila hubungi terus pentadbir sistem anda.</item>
+    </plurals>
+    <plurals name="app_install_failure_title">
+        <item quantity="other">Tidak dapat memasang apl</item>
+        <item quantity="one">Tidak dapat memasang apl</item>
+    </plurals>
+    <plurals name="app_install_progress_desc">
+        <item quantity="other">%1$d daripada %2$d apl dipasang</item>
+        <item quantity="one">%1$d daripada %2$d apl dipasang</item>
+    </plurals>
+    <plurals name="app_uninstall_button">
+        <item quantity="other">Nyahpasang apl</item>
+        <item quantity="one">Nyahpasang apl</item>
+    </plurals>
+    <plurals name="days_left_message">
+        <item quantity="other">&lt;annotation id="numeric_time_left">^1&lt;/annotation> hari lagi</item>
+        <item quantity="one">&lt;annotation id="numeric_time_left">^1&lt;/annotation> hari lagi</item>
+    </plurals>
+    <plurals name="hours_left_message">
+        <item quantity="other">&lt;annotation id="numeric_time_left">^1&lt;/annotation> jam lagi</item>
+        <item quantity="one">&lt;annotation id="numeric_time_left">^1&lt;/annotation> jam lagi</item>
+    </plurals>
+    <plurals name="number_of_additional_apps">
+        <item quantity="other">%1$d apl tambahan</item>
+        <item quantity="one">%1$d apl tambahan</item>
+    </plurals>
+    <plurals name="number_of_required_apps">
+        <item quantity="other">%1$d apl diperlukan</item>
+        <item quantity="one">%1$d apl diperlukan</item>
+    </plurals>
+    <plurals name="policy_apps_list_summary">
+        <item quantity="other">%d apl kerja tidak boleh dinyahpasang</item>
+        <item quantity="one">%d apl kerja tidak boleh dinyahpasang</item>
+    </plurals>
+    <plurals name="preinstalled_apps">
+        <item quantity="other">%1$d daripada %2$d apl dipasang</item>
+        <item quantity="one">%1$d daripada %2$d apl dipasang</item>
+    </plurals>
+    <plurals name="readable_name_applications">
+        <item quantity="other">%1$d apl tersedia (%2$d dipasang, %3$d dilumpuhkan)</item>
+        <item quantity="one">%1$d apl tersedia (%2$d dipasang, %3$d dilumpuhkan)</item>
+    </plurals>
+</resources>

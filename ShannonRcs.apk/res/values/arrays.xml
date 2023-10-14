@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="att_acs_test_mode_acs_url_presets">
+        <item>Default URL</item>
+        <item>xdmar.wireless.labs.att.com</item>
+        <item>xdmbr.wireless.labs.att.com</item>
+        <item>rcscatt.wireless.labs.att.com</item>
+        <item>Free form URL</item>
+    </string-array>
+    <string-array name="autoaccept_options">
+        <item>Disable</item>
+        <item>Enable</item>
+        <item>Default(Config)</item>
+    </string-array>
+    <string-array name="closed_group_chat_options">
+        <item>Open</item>
+        <item>Closed</item>
+        <item>Auto</item>
+    </string-array>
+    <string-array name="ft_default_fallback_mode_preference">
+        <item>MMS</item>
+        <item>SMS with link</item>
+    </string-array>
+    <string-array name="ft_sms_fallback_confirmation_preference">
+        <item>Never Ask</item>
+        <item>Always resend undelivered RCS Files as SMS link</item>
+        <item>Always ask</item>
+    </string-array>
+    <string-array name="ft_type_options">
+        <item>HTTP</item>
+        <item>MSRP</item>
+        <item>LARGE_MODE</item>
+        <item>MMS</item>
+        <item>Auto</item>
+    </string-array>
+    <string-array name="group_chat_mode_options">
+        <item>1-to-N</item>
+        <item>Session</item>
+        <item>MMS</item>
+        <item>Auto</item>
+    </string-array>
+    <string-array name="log_priority_filter">
+        <item>Verbose mode</item>
+        <item>Debug mode</item>
+        <item>No log mode</item>
+    </string-array>
+    <string-array name="log_security_level">
+        <item>Secure mode</item>
+        <item>Insecure mode</item>
+    </string-array>
+    <string-array name="single_chat_mode_options">
+        <item>Standalone</item>
+        <item>Session</item>
+        <item>Auto</item>
+    </string-array>
+</resources>

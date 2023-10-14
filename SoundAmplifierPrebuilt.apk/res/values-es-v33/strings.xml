@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sound_amplifier_html_description">Amplificador de sonido potencia los sonidos débiles sin que los sonidos más potentes suenen demasiado alto&lt;br/>&lt;br/> &lt;b>Cómo usar Amplificador de sonido&lt;/b>&lt;br/> 1. Conecta auriculares por cable o Bluetooth.&lt;br/> 2. Inicia Amplificador de sonido.</string>
+    <string name="sound_amplifier_intro">Usa Amplificador de sonido con auriculares para mejorar la calidad del audio de tu entorno y tu dispositivo</string>
+</resources>

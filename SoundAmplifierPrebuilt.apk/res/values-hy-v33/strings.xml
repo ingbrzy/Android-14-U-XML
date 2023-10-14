@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sound_amplifier_html_description">Ձայնի ուժեղացուցիչը ցածր ձայներն ավելի հստակ կդարձնի՝ առանց լավ լսվողները բարձրացնելու։&lt;br/>&lt;br/> &lt;b>Ինչպես օգտագործել Ձայնի ուժեղացուցիչը&lt;/b>&lt;br/> 1. Միացրեք Bluetooth կամ լարով ականջակալ։&lt;br/> 2. Միացրեք Ձայնի ուժեղացուցիչը։</string>
+    <string name="sound_amplifier_intro">Շրջակայքի և սարքի ձայներն ավելի լավ լսելու համար ձեր ականջակալի հետ օգտագործեք Ձայնի ուժեղացուցիչը։</string>
+</resources>

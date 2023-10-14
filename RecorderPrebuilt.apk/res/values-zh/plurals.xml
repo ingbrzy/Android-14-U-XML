@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dlg_message_deletion_confirmation">
+        <item quantity="other">您的录音将被永久删除。此操作一经执行便无法撤消。</item>
+        <item quantity="one">您的录音将被永久删除。此操作一经执行便无法撤消。</item>
+    </plurals>
+    <plurals name="dlg_message_deletion_permanent_confirmation">
+        <item quantity="other">录音未备份。系统将永久删除这些录音。此操作无法撤消。</item>
+        <item quantity="one">录音未备份。系统将永久删除这段录音。此操作无法撤消。</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_confirmation">
+        <item quantity="other">要删除录音吗？</item>
+        <item quantity="one">要删除录音吗？</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_permanent_confirmation">
+        <item quantity="other">要永久删除这些录音吗？</item>
+        <item quantity="one">要永久删除这段录音吗？</item>
+    </plurals>
+    <plurals name="download_failure_description_storage_full">
+        <item quantity="other">无法下载录音文件，因为设备存储空间已满。点按即可查看。</item>
+        <item quantity="one">设备存储空间已满。点按即可查看。</item>
+    </plurals>
+    <plurals name="downloading_description">
+        <item quantity="other">正在下载 %1$d 项录音内容</item>
+        <item quantity="one">正在下载 %1$d 项录音内容</item>
+    </plurals>
+    <plurals name="peoplekit_chips_copied_recipients">
+        <item quantity="other">已复制 %d 个收件人</item>
+        <item quantity="one">已复制 %d 个收件人</item>
+    </plurals>
+    <plurals name="search_results_count">
+        <item quantity="other">共 %1$d 条结果</item>
+        <item quantity="one">共 %1$d 条结果</item>
+    </plurals>
+    <plurals name="search_results_position">
+        <item quantity="other">第 ^1 条结果（共 ^2 条）</item>
+        <item quantity="one">第 ^1 条结果（共 ^2 条）</item>
+    </plurals>
+    <plurals name="search_results_position_content_description">
+        <item quantity="other">第 %1$d 条结果（共 %2$d 条）</item>
+        <item quantity="one">第 %1$d 条结果（共 %2$d 条）</item>
+    </plurals>
+    <plurals name="selected_recording_quantity">
+        <item quantity="other">已选择 %1$d 项</item>
+        <item quantity="one">已选择 %1$d 项</item>
+    </plurals>
+    <plurals name="snackbar_message_download_failed_storage_full">
+        <item quantity="other">设备存储空间已满。无法下载录音文件。</item>
+        <item quantity="one">设备存储空间已满。无法下载录音文件。</item>
+    </plurals>
+    <plurals name="speaker_count">
+        <item quantity="other">%1$d 人发言</item>
+        <item quantity="one">%1$d 人发言</item>
+    </plurals>
+    <plurals name="uploading_description">
+        <item quantity="other">正在上传 %1$d 个录音文件</item>
+        <item quantity="one">正在上传 %1$d 个录音文件</item>
+    </plurals>
+</resources>

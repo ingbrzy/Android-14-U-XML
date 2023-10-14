@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dlg_message_deletion_confirmation">
+        <item quantity="other">તમારાં રેકોર્ડિંગ હંમેશ માટે ડિલીટ કરવામાં આવશે. આ ક્રિયા થકી થયેલો ફેરફાર રદ કરી શકાતો નથી.</item>
+        <item quantity="one">તમારું રેકોર્ડિંગ હંમેશ માટે ડિલીટ કરવામાં આવશે. આ ક્રિયા થકી થયેલો ફેરફાર રદ કરી શકાતો નથી.</item>
+    </plurals>
+    <plurals name="dlg_message_deletion_permanent_confirmation">
+        <item quantity="other">રેકોર્ડિંગનો બૅકઅપ લેવાયો નથી. આ હંમેશ માટે ડિલીટ કરવામાં આવશે. તમે આ ક્રિયા થકી કરેલો છેલ્લો ફેરફાર રદ કરી શકશો નહીં.</item>
+        <item quantity="one">રેકોર્ડિંગનો બૅકઅપ લેવાયો નથી. આ હંમેશ માટે ડિલીટ કરવામાં આવશે. તમે આ ક્રિયા થકી કરેલો છેલ્લો ફેરફાર રદ કરી શકશો નહીં.</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_confirmation">
+        <item quantity="other">રેકોર્ડિંગ ડિલીટ કરીએ?</item>
+        <item quantity="one">રેકોર્ડિંગ ડિલીટ કરીએ?</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_permanent_confirmation">
+        <item quantity="other">આ રેકોર્ડિંગ હંમેશ માટે ડિલીટ કરીએ?</item>
+        <item quantity="one">આ રેકોર્ડિંગ હંમેશ માટે ડિલીટ કરીએ?</item>
+    </plurals>
+    <plurals name="download_failure_description_storage_full">
+        <item quantity="other">ડિવાઇસનો સ્ટોરેજ ભરાઈ ગયો હોવાથી રેકોર્ડિંગ ડાઉનલોડ કરી શકાતા નથી. રિવ્યૂ કરવા માટે ટૅપ કરો.</item>
+        <item quantity="one">ડિવાઇસનો સ્ટોરેજ ભરાઈ ગયો હોવાથી રેકોર્ડિંગ ડાઉનલોડ કરી શકાતું નથી. રિવ્યૂ કરવા માટે ટૅપ કરો.</item>
+    </plurals>
+    <plurals name="downloading_description">
+        <item quantity="other">%1$d રેકોર્ડિંગ ડાઉનલોડ કરી રહ્યાં છીએ</item>
+        <item quantity="one">%1$d રેકોર્ડિંગ ડાઉનલોડ કરી રહ્યાં છીએ</item>
+    </plurals>
+    <plurals name="og_backup_failed_title">
+        <item quantity="other">%1$d આઇટમનું બૅકઅપ લેવામાં નિષ્ફળ રહ્યાં</item>
+        <item quantity="one">%1$d આઇટમનું બૅકઅપ લેવામાં નિષ્ફળ રહ્યાં</item>
+    </plurals>
+    <plurals name="og_backup_items_left">
+        <item quantity="other">%1$d આઇટમ બાકી</item>
+        <item quantity="one">%1$d આઇટમ બાકી</item>
+    </plurals>
+    <plurals name="og_backup_items_stopped_title">
+        <item quantity="other">%1$d આઇટમનું બૅકઅપ લઈ શકાયું નથી</item>
+        <item quantity="one">%1$d આઇટમનું બૅકઅપ લઈ શકાયું નથી</item>
+    </plurals>
+    <plurals name="peoplekit_chips_copied_recipients">
+        <item quantity="other">%d પ્રાપ્તકર્તાને કૉપિ કર્યા</item>
+        <item quantity="one">%d પ્રાપ્તકર્તાને કૉપિ કર્યા</item>
+    </plurals>
+    <plurals name="search_results_count">
+        <item quantity="other">%1$d પરિણામ</item>
+        <item quantity="one">%1$d પરિણામ</item>
+    </plurals>
+    <plurals name="search_results_position">
+        <item quantity="other">^1/^2 પરિણામ</item>
+        <item quantity="one">^1/^2 પરિણામ</item>
+    </plurals>
+    <plurals name="search_results_position_content_description">
+        <item quantity="other">%2$d પરિણામમાંથી %1$d</item>
+        <item quantity="one">%2$d પરિણામમાંથી %1$d</item>
+    </plurals>
+    <plurals name="selected_recording_quantity">
+        <item quantity="other">%1$d પસંદ કરી</item>
+        <item quantity="one">%1$d પસંદ કરી</item>
+    </plurals>
+    <plurals name="snackbar_message_download_failed_storage_full">
+        <item quantity="other">ડિવાઇસનો સ્ટોરેજ ભરાઈ ગયો છે. રેકોર્ડિંગ ડાઉનલોડ કરી શકાતા નથી.</item>
+        <item quantity="one">ડિવાઇસનો સ્ટોરેજ ભરાઈ ગયો છે. રેકોર્ડિંગ ડાઉનલોડ કરી શકાતું નથી.</item>
+    </plurals>
+    <plurals name="speaker_count">
+        <item quantity="other">%1$d સ્પીકર</item>
+        <item quantity="one">%1$d સ્પીકર</item>
+    </plurals>
+    <plurals name="uploading_description">
+        <item quantity="other">%1$d રેકોર્ડિંગ અપલોડ કરી રહ્યાં છીએ</item>
+        <item quantity="one">%1$d રેકોર્ડિંગ અપલોડ કરી રહ્યાં છીએ</item>
+    </plurals>
+</resources>

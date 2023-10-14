@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Fara heim</string>
+    <string name="abc_action_bar_up_description">Fara upp</string>
+    <string name="abc_action_menu_overflow_description">Fleiri valkostir</string>
+    <string name="abc_action_mode_done">Lokið</string>
+    <string name="abc_activity_chooser_view_see_all">Sjá allt</string>
+    <string name="abc_activitychooserview_choose_application">Veldu forrit</string>
+    <string name="abc_capital_off">SLÖKKT</string>
+    <string name="abc_capital_on">KVEIKT</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">eyða</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Aðgerðarlykill+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">bilslá</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Valmynd+</string>
+    <string name="abc_search_hint">Leita…</string>
+    <string name="abc_searchview_description_clear">Hreinsa fyrirspurn</string>
+    <string name="abc_searchview_description_query">Leitarfyrirspurn</string>
+    <string name="abc_searchview_description_search">Leit</string>
+    <string name="abc_searchview_description_submit">Senda fyrirspurn</string>
+    <string name="abc_searchview_description_voice">Raddleit</string>
+    <string name="abc_shareactionprovider_share_with">Deila með</string>
+    <string name="abc_shareactionprovider_share_with_application">Deila með %s</string>
+    <string name="abc_toolbar_collapse_description">Minnka</string>
+    <string name="activity_resolver_use_always">Alltaf</string>
+    <string name="activity_resolver_use_once">Bara einu sinni</string>
+    <string name="activity_resolver_work_profiles_support">%1$s styður ekki vinnusnið</string>
+    <string name="call_notification_answer_action">Svara</string>
+    <string name="call_notification_answer_video_action">Myndsímtal</string>
+    <string name="call_notification_decline_action">Hafna</string>
+    <string name="call_notification_hang_up_action">Leggja á</string>
+    <string name="call_notification_incoming_text">Símtal berst</string>
+    <string name="call_notification_ongoing_text">Símtal í gangi</string>
+    <string name="call_notification_screening_text">Síar símtal sem berst</string>
+    <string name="chooseActivity">Veldu aðgerð</string>
+    <string name="chooser_no_direct_share_targets">Engar tillögur um fólk til að deila með</string>
+    <string name="exclude_link">Útiloka tengil</string>
+    <string name="exclude_text">Útiloka texta</string>
+    <string name="file_preview_a11y_description">Forskoðunarsmámynd skráar</string>
+    <string name="forward_intent_to_owner">Þú ert að nota þetta forrit utan vinnusniðsins</string>
+    <string name="forward_intent_to_work">Þú ert að nota þetta forrit á vinnusniðinu þínu</string>
+    <string name="image_preview_a11y_description">Forskoðunarsmámynd myndar</string>
+    <string name="include_link">Hafa tengil með</string>
+    <string name="include_text">Hafa texta með</string>
+    <string name="miniresolver_open_in_personal">Opna %s í þínu eigin sniði?</string>
+    <string name="miniresolver_open_in_work">Opna %s í vinnusniðinu þínu?</string>
+    <string name="miniresolver_use_personal_browser">Nota einkavafra</string>
+    <string name="miniresolver_use_work_browser">Nota vinnuvafra</string>
+    <string name="more_files">{count,plural, =1{+ # skrá í viðbót}one{+ # skrá í viðbót}other{+ # skrár í viðbót}}</string>
+    <string name="noApplications">Engin forrit geta framkvæmt þessa aðgerð.</string>
+    <string name="other_files">{count,plural, =1{+ # skrá}one{+ # skrá}other{+ # skrár}}</string>
+    <string name="pin_specific_target">Festa %1$s</string>
+    <string name="resolver_cant_access_personal_apps_explanation">Ekki er hægt að opna þetta efni með forritum til einkanota</string>
+    <string name="resolver_cant_access_work_apps_explanation">Ekki er hægt að opna þetta efni með vinnuforritum</string>
+    <string name="resolver_cant_share_with_personal_apps_explanation">Ekki er hægt að deila þessu efni með forritum til einkanota</string>
+    <string name="resolver_cant_share_with_work_apps_explanation">Ekki er hægt að deila þessu efni með vinnuforritum</string>
+    <string name="resolver_cross_profile_blocked">Útilokað af kerfisstjóra</string>
+    <string name="resolver_no_personal_apps_available">Engin forrit til einkanota</string>
+    <string name="resolver_no_work_apps_available">Engin vinnuforrit</string>
+    <string name="resolver_personal_tab">Persónulegt</string>
+    <string name="resolver_personal_tab_accessibility">Persónulegt yfirlit</string>
+    <string name="resolver_switch_on_work">Ljúka hléi</string>
+    <string name="resolver_turn_on_work_apps">Hlé gert á vinnuforritum</string>
+    <string name="resolver_work_tab">Vinna</string>
+    <string name="resolver_work_tab_accessibility">Vinnuyfirlit</string>
+    <string name="screenshot_edit">Breyta</string>
+    <string name="search_menu_title">Leit</string>
+    <string name="sharing_files">{count,plural, =1{Deilir # skrá}one{Deilir # skrá}other{Deilir # skrám}}</string>
+    <string name="sharing_files_only">{count,plural, =1{Eingöngu skrá}one{Eingöngu skrár}other{Eingöngu skrár}}</string>
+    <string name="sharing_files_with_link">{count,plural, =1{Deilir skrá með tengli}one{Deilir # skrá með tengli}other{Deilir # skrám með tengli}}</string>
+    <string name="sharing_files_with_text">{count,plural, =1{Deilir skrá með texta}one{Deilir # skrá með texta}other{Deilir # skrám með texta}}</string>
+    <string name="sharing_images">{count,plural, =1{Deilir mynd}one{Deilir # mynd}other{Deilir # myndum}}</string>
+    <string name="sharing_images_only">{count,plural, =1{Eingöngu mynd}one{Eingöngu myndir}other{Eingöngu myndir}}</string>
+    <string name="sharing_images_with_link">{count,plural, =1{Deilir mynd með tengli}one{Deilir # mynd með tengli}other{Deilir # myndum með tengli}}</string>
+    <string name="sharing_images_with_text">{count,plural, =1{Deilir mynd með texta}one{Deilir # mynd með texta}other{Deilir # myndum með texta}}</string>
+    <string name="sharing_link">Deilir tengli</string>
+    <string name="sharing_text">Deilir texta</string>
+    <string name="sharing_videos">{count,plural, =1{Deilir myndskeiði}one{Deilir # myndskeiði}other{Deilir # myndskeiðum}}</string>
+    <string name="sharing_videos_only">{count,plural, =1{Eingöngu myndskeið}one{Eingöngu myndskeið}other{Eingöngu myndskeið}}</string>
+    <string name="sharing_videos_with_link">{count,plural, =1{Deilir myndskeiði með tengli}one{Deilir # myndskeiði með tengli}other{Deilir # myndskeiðum með tengli}}</string>
+    <string name="sharing_videos_with_text">{count,plural, =1{Deilir myndskeiði með texta}one{Deilir # myndskeiði með texta}other{Deilir # myndskeiðum með texta}}</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="unpin_specific_target">Losa %1$s</string>
+    <string name="usb_device_resolve_prompt_warn">Þetta forrit hefur ekki fengið heimild fyrir upptöku en gæti tekið upp hljóð í gegnum þetta USB-tæki.</string>
+    <string name="use_a_different_app">Nota annað forrit</string>
+    <string name="video_preview_a11y_description">Forskoðunarsmámynd myndskeiðs</string>
+    <string name="whichApplication">Ljúka aðgerð með</string>
+    <string name="whichApplicationLabel">Ljúka aðgerð</string>
+    <string name="whichApplicationNamed">Ljúka aðgerð með %1$s</string>
+    <string name="whichEditApplication">Breyta með</string>
+    <string name="whichEditApplicationLabel">Breyta</string>
+    <string name="whichEditApplicationNamed">Breyta með %1$s</string>
+    <string name="whichGiveAccessToApplicationLabel">Veita aðgang</string>
+    <string name="whichHomeApplication">Veldu heimaforrit</string>
+    <string name="whichHomeApplicationLabel">Taka mynd</string>
+    <string name="whichHomeApplicationNamed">Nota %1$s sem heimaforrit</string>
+    <string name="whichImageCaptureApplication">Taka mynd með</string>
+    <string name="whichImageCaptureApplicationLabel">Taka mynd</string>
+    <string name="whichImageCaptureApplicationNamed">Taka mynd með %1$s</string>
+    <string name="whichOpenHostLinksWith">Opna %1$s tengla með</string>
+    <string name="whichOpenHostLinksWithApp">Opna %1$s tengla með %2$s</string>
+    <string name="whichOpenLinksWith">Opna tengla með</string>
+    <string name="whichOpenLinksWithApp">Opna tengla með %1$s</string>
+    <string name="whichSendApplication">Deila</string>
+    <string name="whichSendApplicationLabel">Deila</string>
+    <string name="whichSendApplicationNamed">Deila með %1$s</string>
+    <string name="whichSendToApplication">Senda með því að nota</string>
+    <string name="whichSendToApplicationLabel">Senda</string>
+    <string name="whichSendToApplicationNamed">Senda með %1$s</string>
+    <string name="whichViewApplication">Opna með</string>
+    <string name="whichViewApplicationLabel">Opna</string>
+    <string name="whichViewApplicationNamed">Opna með %1$s</string>
+</resources>

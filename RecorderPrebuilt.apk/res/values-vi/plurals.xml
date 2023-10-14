@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dlg_message_deletion_confirmation">
+        <item quantity="other">Các bản ghi âm của bạn sẽ bị xóa vĩnh viễn. Bạn không thể hủy thao tác này.</item>
+        <item quantity="one">Bản ghi âm của bạn sẽ bị xóa vĩnh viễn. Bạn không thể hủy thao tác này.</item>
+    </plurals>
+    <plurals name="dlg_message_deletion_permanent_confirmation">
+        <item quantity="other">Các bản ghi âm chưa được sao lưu. Những bản ghi âm này sẽ bị xóa vĩnh viễn. Bạn không thể hủy thao tác này.</item>
+        <item quantity="one">Bản ghi âm chưa được sao lưu. Bản ghi âm này sẽ bị xóa vĩnh viễn. Bạn không thể hủy thao tác này.</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_confirmation">
+        <item quantity="other">Xóa các bản ghi âm?</item>
+        <item quantity="one">Xóa bản ghi âm?</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_permanent_confirmation">
+        <item quantity="other">Xóa vĩnh viễn những bản ghi âm này?</item>
+        <item quantity="one">Xóa vĩnh viễn bản ghi âm này?</item>
+    </plurals>
+    <plurals name="download_failure_description_storage_full">
+        <item quantity="other">Không thể tải bản ghi âm xuống vì bộ nhớ thiết bị đã đầy. Nhấn để xem.</item>
+        <item quantity="one">Bộ nhớ thiết bị đã đầy. Nhấn để xem.</item>
+    </plurals>
+    <plurals name="downloading_description">
+        <item quantity="other">Đang tải %1$d bản ghi âm xuống</item>
+        <item quantity="one">Đang tải %1$d bản ghi âm xuống</item>
+    </plurals>
+    <plurals name="og_backup_failed_title">
+        <item quantity="other">Không thể sao lưu %1$d mục</item>
+        <item quantity="one">Không thể sao lưu %1$d mục</item>
+    </plurals>
+    <plurals name="og_backup_items_left">
+        <item quantity="other">Còn %1$d mục</item>
+        <item quantity="one">Còn %1$d mục</item>
+    </plurals>
+    <plurals name="og_backup_items_stopped_title">
+        <item quantity="other">%1$d mục chưa được sao lưu</item>
+        <item quantity="one">%1$d mục chưa được sao lưu</item>
+    </plurals>
+    <plurals name="peoplekit_chips_copied_recipients">
+        <item quantity="other">Đã sao chép %d người nhận</item>
+        <item quantity="one">Đã sao chép %d người nhận</item>
+    </plurals>
+    <plurals name="search_results_count">
+        <item quantity="other">%1$d kết quả</item>
+        <item quantity="one">%1$d kết quả</item>
+    </plurals>
+    <plurals name="search_results_position">
+        <item quantity="other">^1/^2 kết quả</item>
+        <item quantity="one">^1/^2 kết quả</item>
+    </plurals>
+    <plurals name="search_results_position_content_description">
+        <item quantity="other">%1$d/%2$d kết quả</item>
+        <item quantity="one">%1$d/%2$d kết quả</item>
+    </plurals>
+    <plurals name="selected_recording_quantity">
+        <item quantity="other">Đã chọn %1$d</item>
+        <item quantity="one">Đã chọn %1$d</item>
+    </plurals>
+    <plurals name="snackbar_message_download_failed_storage_full">
+        <item quantity="other">Bộ nhớ thiết bị đã đầy. Không thể tải bản ghi xuống.</item>
+        <item quantity="one">Bộ nhớ thiết bị đã đầy. Không thể tải bản ghi xuống.</item>
+    </plurals>
+    <plurals name="speaker_count">
+        <item quantity="other">%1$d người nói</item>
+        <item quantity="one">%1$d người nói</item>
+    </plurals>
+    <plurals name="uploading_description">
+        <item quantity="other">Đang tải %1$d bản ghi lên</item>
+        <item quantity="one">Đang tải %1$d bản ghi lên</item>
+    </plurals>
+</resources>

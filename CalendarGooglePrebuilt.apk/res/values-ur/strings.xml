@@ -1,0 +1,1475 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="MSG_DEFAULT_DISPLAY_NAME">نامعلوم اسپیس</string>
+    <string name="MSG_UNDO_TASKS_COMPLETED">{NUM_TASKS_COMPLETED,plural, =1{ٹاسک مکمل ہو گیا}other{# ٹاسکس مکمل ہو گئے}}</string>
+    <string name="MSG_UNDO_TASKS_DELETED">{NUM_TASKS_DELETED,plural, =1{ٹاسک حذف ہو گیا}other{# ٹاسکس حذف ہو گئے}}</string>
+    <string name="MSG_UNDO_TASKS_MOVED">{NUM_TASKS_MOVED,plural, =1{ٹاسک {TITLE} میں منتقل کیا گیا}other{# ٹاسکس {TITLE} میں منتقل کیے گئے}}</string>
+    <string name="MSG_UNDO_TASKS_UNCOMPLETED">{NUM_TASKS_UNCOMPLETED,plural, =1{ٹاسک کو بطور نامکمل نشان زد کیا گیا}other{# ٹاسکس بطور نامکمل نشان زد کیے گئے}}</string>
+    <string name="MSG_UNDO_TASK_UNSTARRED">"ٹاسک کو 'ستارہ لگا ہوا' سے ہٹا دیا گيا"</string>
+    <string name="a11y_added_contact">رابطہ %s شامل ہو گیا</string>
+    <string name="a11y_calendar_set">کیلنڈر اس پر سیٹ ہو گیا: %s</string>
+    <string name="a11y_chat_button">میٹنگ کے مہمانوں کے ساتھ چیٹ کریں</string>
+    <string name="a11y_expand_all_day_events">پورے دن کے ایونٹس کو پھیلائیں</string>
+    <string name="a11y_filter_require_audio">آڈیو کانفرنسنگ کیلئے ساز و سامان درکار ہے</string>
+    <string name="a11y_filter_require_video">ویڈیو کانفرنسنگ کیلئے ساز و سامان درکار ہے</string>
+    <string name="a11y_location_image">مقام کی تصویر</string>
+    <string name="a11y_location_list">مقامات</string>
+    <string name="a11y_mark_optional">\"اختیاری\" نشان زد کریں</string>
+    <string name="a11y_mark_required">نشان کی ضرورت ہے</string>
+    <string name="a11y_marked_optional">%s کو اختیاری کے طور پر نشان زد کیا گیا</string>
+    <string name="a11y_marked_required">%s کو درکار کردہ کے طور پر نشان زد کیا گیا</string>
+    <string name="a11y_recurrence_set">اعادی اصول اس پر سیٹ ہو گیا: %s</string>
+    <string name="a11y_remove_contact">رابطہ ہٹائیں</string>
+    <string name="a11y_removed_contact">رابطہ %s ہٹا دیا گیا</string>
+    <string name="a11y_respond_maybe_content_description">"'شاید' میں جواب دیں"</string>
+    <string name="a11y_respond_no_content_description">"'نہیں' میں جواب دیں"</string>
+    <string name="a11y_respond_yes_content_description">"'ہاں' میں جواب دیں"</string>
+    <string name="a11y_respond_yes_meeting_room_content_description">میٹنگ کے کمرے میں ہاں میں جواب دیں</string>
+    <string name="a11y_respond_yes_unknown_content_description">ہاں میں جواب دیں</string>
+    <string name="a11y_respond_yes_virtually_content_description">ورچوئل طور پر شامل ہونے کیلئے ہاں میں جواب دیں</string>
+    <string name="a11y_responded_yes_meeting_room_content_description">"ہاں 'میٹنگ روم میں ہوں' میں جواب دیا"</string>
+    <string name="a11y_responded_yes_unknown_content_description">ہاں میں جواب دیا</string>
+    <string name="a11y_responded_yes_virtually_content_description">ورچوئل طور پر شامل ہونے کیلئے ہاں میں جواب دیا</string>
+    <string name="a11y_room_booking_added_room">کمرہ شامل ہو گیا: %s</string>
+    <string name="a11y_room_booking_removed_room">ہٹایا گیا کمرہ: %s</string>
+    <string name="a11y_room_booking_rooms_matching_page">%s سے مماثل کمرے</string>
+    <string name="a11y_room_booking_unavailable_room">غیر دستیاب: %s</string>
+    <string name="a11y_rsvp_join_method_button_label">طریقے کے اختیارات میں شامل ہوں</string>
+    <string name="a11y_select_calendar">کیلنڈر منتخب کریں</string>
+    <string name="a11y_share_event_link_content_description">دوسروں کے ساتھ اشتراک کریں</string>
+    <string name="abc_action_bar_up_description">اوپر نیویگیٹ کریں</string>
+    <string name="abc_action_mode_done">ہو گیا</string>
+    <string name="abc_capital_off">آف</string>
+    <string name="abc_capital_on">آن</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+‎</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+‎</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+‎</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+‎</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+‎</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+‎</string>
+    <string name="abc_prepend_shortcut_label">Menu+‎</string>
+    <string name="abc_search_hint">تلاش کریں…</string>
+    <string name="abc_searchview_description_clear">استفسار صاف کریں</string>
+    <string name="abc_searchview_description_search">تلاش کریں</string>
+    <string name="abc_searchview_description_submit">استفسار جمع کرائیں</string>
+    <string name="abc_searchview_description_voice">صوتی تلاش</string>
+    <string name="abc_toolbar_collapse_description">سکیڑیں</string>
+    <string name="accept_action">قبول کریں</string>
+    <string name="accept_scope_selection_title">اعادی ایونٹ قبول کریں</string>
+    <string name="access_code_format">رسائی کوڈ: %s</string>
+    <string name="access_code_item_host">‏میزبان: ‎%s</string>
+    <string name="access_code_item_no_passcode">پاس کوڈ کے بغیر شامل ہوں</string>
+    <string name="access_code_item_participant">‏شرکت کنندہ: ‎%s</string>
+    <string name="access_code_picker_dialog_positive_button">شامل ہوں</string>
+    <string name="access_code_picker_dialog_title">پاس کوڈ چنیں</string>
+    <string name="accessibility_accept_proposal">قبول کریں</string>
+    <string name="accessibility_clear_search">تلاش صاف کریں</string>
+    <string name="accessibility_collapse_all_day">پورے دن کے سیکشن کو سکیڑیں</string>
+    <string name="accessibility_compose">نیا ایونٹ وغیرہ بنائیں</string>
+    <string name="accessibility_drawer_open">کیلنڈر فہرست اور ترتیبات کا دراز دکھائیں</string>
+    <string name="accessibility_event_open">ایونٹ کھولیں</string>
+    <string name="accessibility_expand_all_day">پورے دن کے سیکشن کو پھیلائیں</string>
+    <string name="accessibility_find_a_time_filters_title">فلٹرز</string>
+    <string name="accessibility_find_a_time_list_title">مناسب وقت کی تلاش والی تجاویز کا صفحہ</string>
+    <string name="accessibility_find_time_list_item">وقت کی تجویز: %1$s، %2$s، %3$s</string>
+    <string name="accessibility_find_time_new_suggestion">وقت کی نئی تجویز %1$s کو %2$s بجے تخلیق ہوئی</string>
+    <string name="accessibility_find_time_select_suggestion_button">تجویز کا انتخاب کریں</string>
+    <string name="accessibility_find_time_show_more_button">"'مزید تجاویز دکھائیں' بٹن"</string>
+    <string name="accessibility_find_time_slab_bar_format">%1$s، %2$s</string>
+    <string name="accessibility_find_time_slab_bar_swipe_hint">اگلی تجویز پر جانے کیلئے بائیں طرف سوائپ کریں</string>
+    <string name="accessibility_find_time_slab_bar_swipe_hint_rtl">اگلی تجویز پر جانے کیلئے دائیں طرف سوائپ کریں</string>
+    <string name="accessibility_find_time_timeframe_duration_label">منتخب کردہ فلٹر کی قدر: %s</string>
+    <string name="accessibility_hide_date_picker">تاریخ کا انتخاب کار چھپائیں</string>
+    <string name="accessibility_navigation_icon">پیچھے</string>
+    <string name="accessibility_navigation_icon_search">تلاش کریں</string>
+    <string name="accessibility_new_event">نیا ایونٹ بنائیں</string>
+    <string name="accessibility_pick_end_date">تاریخ اختتام: %s</string>
+    <string name="accessibility_pick_end_time">وقت اختتام: %s</string>
+    <string name="accessibility_pick_start_date">تاریخ آغاز: %s</string>
+    <string name="accessibility_pick_start_time">وقت آغاز: %s</string>
+    <string name="accessibility_send_proposal">بھیجیں</string>
+    <string name="accessibility_show_agenda_view">شیڈیول منظر کھولیں</string>
+    <string name="accessibility_show_date_picker">تاریخ کا انتخاب کار دکھائیں</string>
+    <string name="accessibility_show_day_view">دن منظر کھولیں</string>
+    <string name="accessibility_speeddial_cancel">منسوخ کریں بٹن</string>
+    <string name="accessibility_speeddial_event">ایونٹ کا بٹن</string>
+    <string name="accessibility_speeddial_ooo">آؤٹ آف آفس بٹن</string>
+    <string name="accessibility_speeddial_reminder">یاد دہانی کا بٹن</string>
+    <string name="accessibility_speeddial_task">ٹاسک بٹن</string>
+    <string name="accessibility_speeddial_working_location">کام کرنے کا مقام کا بٹن</string>
+    <string name="accessibility_timely_chip_multi_day_count">%1$s (%3$d میں سے %2$d دن)</string>
+    <string name="account_change_attachments">منسلکات ہٹا دیے گئے ہیں کیونکہ اکاؤنٹ بدل گیا ہے۔</string>
+    <string name="account_lacks_calendar_features">یہ اکاؤنٹ کیلنڈر کی تمام خصوصیات کو سپورٹ نہیں کرتا ہے۔</string>
+    <string name="account_lacks_features_switch_to_google">‏کیلنڈر کی تمام خصوصیات سے فائدہ اٹھانے کے لیے ایک Google اکاؤنٹ پر سوئچ کریں۔</string>
+    <string name="account_switch_dialog_subtitle">مستقبل میں، ضرورت پڑنے پر %1$s استعمال کرنے سے خودکار طور پر اکاؤنٹس سوئچ ہو جائیں گے۔</string>
+    <string name="account_switch_dialog_title">%1$s استعمال کرنے کے لیے آپ کو کسی دوسرے اکاؤنٹ پر سوئچ کرنے کی ضرورت ہے</string>
+    <string name="account_switch_no_suitable_account_for_events">اس آلہ کے ساتھ ابھی تک کسی بھی کیلنڈر کی مطابقت پذیری نہیں کی گئی ہے</string>
+    <string name="account_switch_toast">کیلنڈر کو بنیادی اکاؤنٹ کے طور پر %1$s (%2$s) پر سوئچ کیا گیا</string>
+    <string name="account_switch_toast_unnamed_account">کیلنڈر کو بنیادی اکاؤنٹ کے طور پر %1$s پر سوئچ کیا گیا</string>
+    <string name="account_switched_snackbar_message">آپ کا موجودہ اکاؤنٹ %1$s پر سوئچ ہو گیا</string>
+    <string name="account_with_calendar_is_checked">%1$s، %2$s، کو نشان زد کیا گیا</string>
+    <string name="account_with_calendar_is_disabled">%1$s، %2$s، غیر فعال ہے</string>
+    <string name="account_with_calendar_is_unchecked">%1$s، %2$s، کو غیر نشان زد کیا گیا</string>
+    <string name="acessibility_selected_checkmark_description">منتخب کردہ</string>
+    <string name="action_apply">اطلاق کریں</string>
+    <string name="action_cancel_booked_event">اپوائنٹمنٹ منسوخ کریں</string>
+    <string name="action_delete">ہٹائیں</string>
+    <string name="action_done">ہوگیا</string>
+    <string name="action_mark_as_done">مکمل کے بطور نشان زد کریں</string>
+    <string name="action_mark_as_not_done">مکمل نہیں کے بطور نشان زد کریں</string>
+    <string name="action_send_booked_event_cancellation">منسوخی کی اطلاع بھیجیں</string>
+    <string name="activity_not_found_general">اس عمل کو ہینڈل کرنے کیلئے کوئی ایپلیکیشن نہیں ملی۔</string>
+    <string name="actual_scheduled_flight">"‏شیڈول کردہ: %1$s
+اصل: %2$s۔"</string>
+    <string name="add_additional_notification_label">کوئی دوسری اطلاع شامل کریں</string>
+    <string name="add_attachment">منسلکہ شامل کریں</string>
+    <string name="add_birthday_promo_message">اپنے عزیز لوگوں کی سالگرہ کے لیے یاد دہانیاں حاصل کریں۔</string>
+    <string name="add_birthday_promo_negative_button">ابھی نہیں</string>
+    <string name="add_birthday_promo_positive_button">ایک سالگرہ شامل کریں</string>
+    <string name="add_birthday_promo_title">سالگرہ شامل کریں</string>
+    <string name="add_calendar_no_network_connectivity_message">کیلنڈر ایک بار آن لائن شامل کیا جائے گا۔</string>
+    <string name="add_calendar_timeout_message">کیلنڈر لوڈ ہو رہا ہے اور تیار ہونے پر ظاہر ہوگا۔</string>
+    <string name="add_date">ایک تاریخ شامل کریں</string>
+    <string name="add_encryption">مرموز کاری شامل کریں</string>
+    <string name="add_encryption_data_loss_warning_dialog_attachment_message">کیلنڈر ایونٹ سے تمام غیر مرموز کردہ فائلز کو ہٹا دیتا ہے</string>
+    <string name="add_encryption_data_loss_warning_dialog_attachments_only_message">آپ کی معلومات کو رازدارانہ رکھنے کے لیے یہ کیلنڈر ایونٹ سے تمام غیر مرموز کردہ فائلز کو ہٹا دیتا ہے</string>
+    <string name="add_encryption_data_loss_warning_dialog_conference_message">ویڈیو کانفرنسنگ کی دیگر سروسز کو ہٹا دیتا ہے</string>
+    <string name="add_encryption_data_loss_warning_dialog_conference_only_message">‏آپ کی معلومات کو رازدارانہ رکھنے کے لیے یہ ویڈیو کانفرنسنگ کی دیگر ترتیبات کو ہٹا دیتا ہے۔ صرف Google Meet کا استعمال کال کے لیے اضافی مرموز کاری کو یقینی بناتا ہے</string>
+    <string name="add_location">مقام شامل کریں</string>
+    <string name="add_meet_conferencing">‏Google Meet ویڈیو کانفرنسنگ شامل کریں</string>
+    <string name="add_note_edit_text_hint">نوٹ شامل کریں</string>
+    <string name="add_note_prefix">نوٹ میں ترمیم کریں: %s</string>
+    <string name="add_note_saved">نوٹ محفوظ ہو گیا</string>
+    <string name="add_note_title">نوٹ شامل کریں</string>
+    <string name="add_notification">اطلاع شامل کریں</string>
+    <string name="add_notification_label">ایک اطلاع شامل کریں</string>
+    <string name="add_ons_button">کانفرنسنگ کے مزید اختیارات</string>
+    <string name="add_other_location">دیگر مقام شامل کریں</string>
+    <string name="add_people">لوگوں کو شامل کریں</string>
+    <string name="add_period">مدت کریں</string>
+    <string name="add_room">کمرہ شامل کریں</string>
+    <string name="add_to_email">ای میل میں شامل کریں</string>
+    <string name="add_video_conferencing">ویڈیو کانفرنسنگ شامل کریں</string>
+    <string name="adding_conference_details">کانفرنسنگ کی تفصیلات شامل کی جا رہی ہیں</string>
+    <string name="address_copied_to_clipboard">مقام کاپی ہو گیا۔</string>
+    <string name="agenda_view">کیلنڈر کا شیڈول</string>
+    <string name="agenda_view_label">شیڈول</string>
+    <string name="agenda_view_label_full">شیڈول کا منظر</string>
+    <string name="all_day_description_prefix">پورے دن:</string>
+    <string name="all_day_reminder_time">%1$s پہلے بوقت %2$s</string>
+    <string name="all_day_string">پورا دن</string>
+    <string name="all_participants_can_attend">ہر کوئی شامل ہو سکتا ہے</string>
+    <string name="all_rooms">تمام کمرے</string>
+    <string name="alternate_calendar_hebrew_adar_ii">‏ادار II</string>
+    <string name="anniversary_birth_date_hint">تاریخ پیدائش شامل کریں</string>
+    <string name="anniversary_birthday_title">🎂 سالگرہ</string>
+    <string name="anniversary_birthday_title_name_ends_with_s">🎂 %1$s کی سالگرہ</string>
+    <string name="anniversary_birthday_title_with_name">🎂 %1$s کی سالگرہ</string>
+    <string name="anniversary_person_hint">نام شامل کریں</string>
+    <string name="another_location">دیگر مقام</string>
+    <string name="another_office">دوسری آفس</string>
+    <string name="app_label">کیلنڈر</string>
+    <string name="appointment_schedule_booking_disclaimer_text">بکنگ صفحہ کے لنک کے ساتھ کوئی بھی شخص اپوائنٹمنٹ بک کر سکتا ہے۔</string>
+    <string name="appointment_schedule_booking_help_link_text">لنک کے اشتراک کے بارے میں</string>
+    <string name="appointment_schedule_duration_text">%1$d منٹ کے اپوائنٹمنٹس</string>
+    <string name="appointment_schedule_edit_disclaimer_text">‏ترمیم کرنے کے لیے کمپیوٹر پر calendar.google.com ملاحظہ کریں</string>
+    <string name="appointment_schedule_headline_text">قابل بُکنگ اپوائنٹمنٹ کا شیڈول</string>
+    <string name="appointment_schedule_inactive_appointment_headline_text">اپوائنٹمینٹ کا غیر فعال شیڈول</string>
+    <string name="appointment_schedule_meet_location_subtitle">‏Meet لنک بُکنگ کے بعد تخلیق کیا جائے گا</string>
+    <string name="appointment_schedule_meet_location_title">‏Google Meet ویڈیو کانفرنسنگ</string>
+    <string name="appointment_schedule_open_page_button">صفحہ کھولیں</string>
+    <string name="appointment_schedule_phone_location_subtitle">اپوائنٹمنٹ کرنے والا شخص فون نمبر فراہم کرے گا</string>
+    <string name="appointment_schedule_phone_location_title">فون کال</string>
+    <string name="appointment_schedule_see_all_appointment_schedules_text">اپنے سبھی اپوائنٹمنٹ کے شیڈولز دیکھیں</string>
+    <string name="appointment_schedule_share_button">اشتراک کریں</string>
+    <string name="appointment_schedule_short_link_dialog_cancel">منسوخ کریں</string>
+    <string name="appointment_schedule_short_link_dialog_error_share_full">مکمل لنک کا اشتراک کریں</string>
+    <string name="appointment_schedule_short_link_dialog_error_title">اس وقت مختصر لنک حاصل نہیں کیا جا سکتا</string>
+    <string name="appointment_schedule_short_link_dialog_error_try_again">پھر کوشش کریں</string>
+    <string name="appointment_schedule_short_link_dialog_share_full">اس کے بجائے مکمل لنک کا اشتراک کریں</string>
+    <string name="appointment_schedule_short_link_dialog_title">اشتراک کرنے کے لیے ایک مختصر لنک حاصل کیا جا رہا ہے</string>
+    <string name="appointment_slot_prefix">اپوائنٹمنٹ سلاٹ:</string>
+    <string name="appointment_slot_promo_got_it">سمجھ آ گئی</string>
+    <string name="appointment_slot_promo_learn_more">مزید جانیں</string>
+    <string name="appointment_slot_promo_text">‏اب آپ اپنے اپوائنٹمنٹ بکنگ صفحات بنا سکتے ہیں۔ شروع کرنے کیلئے کمپیوٹر پر calendar.google.com ملاحظہ کریں</string>
+    <string name="appointment_slot_promo_title">اپوائنٹمینٹ کا شیڈیول کرنا آسان بنائیں</string>
+    <string name="appointment_slots_availability">دستیابی</string>
+    <string name="appointment_slots_discard">کیا آپ اس وقت کی تجویز کو مسترد کرنا چاہتے ہیں؟</string>
+    <string name="appointment_slots_duration">ایونٹ کا دورانیہ</string>
+    <string name="appointment_slots_editor_half_collapsed_hint">اس بات کی نشاندہی کرنے کے لیے کیلنڈر میں تھپتھپائیں کہ آپ کب فرصت میں ہیں</string>
+    <string name="appointment_slots_more_info">مزید معلومات</string>
+    <string name="appointment_slots_title">ایونٹ کا عنوان</string>
+    <string name="appointment_slots_title_collapsed">ایسے اوقات تلاش کریں جن میں آپ ملاقات کر سکتے ہیں</string>
+    <string name="appointment_slots_title_hint">چلو ملتے ہیں</string>
+    <string name="as_email">بطور ای میل</string>
+    <string name="as_notification">بطور اطلاع</string>
+    <string name="at_time">‏بوقت ‎%s</string>
+    <string name="at_time_of_event">ایونٹ کے وقت</string>
+    <string name="attachment_encrypted_file_label">مرموز کردہ فائل \"%1$s\"</string>
+    <string name="attachment_file_label">فائل \"%1$s\"</string>
+    <string name="attachment_no_activity">‏Google Drive فائل کھولنے کیلئے ایپ نہیں مل سکی</string>
+    <string name="attendee_accepted">%s جا رہا / رہی ہے</string>
+    <string name="attendee_accepted_in_a_meeting_room">%s میٹنگ روم میں شامل ہو رہا ہے</string>
+    <string name="attendee_accepted_virtually">%s ورچوئل طور پر شامل ہو رہا ہے</string>
+    <string name="attendee_declined">%s نے انکار کر دیا ہے</string>
+    <string name="attendee_not_responded">%s نے جواب نہیں دیا ہے</string>
+    <string name="attendee_optional">اختیاری</string>
+    <string name="attendee_organizer">منتظم</string>
+    <string name="attendee_tentative">%s شاید جائے</string>
+    <string name="auth_uncertified_close_button_label">بند کریں</string>
+    <string name="auth_uncertified_notification_play_protect_description2">‏آپ کا آلہ Google ایپس چلانے یا Google سروسز استعمال کرنے کیلئے تصدیق شدہ نہيں ہے۔ آلہ مینوفیکچرر یا ریٹیلر سے رابطہ کریں اور تصدیق شدہ آلہ طلب کریں۔ <a href="https://g.co/AndroidCertifiedDevice">مزید جانیں</a></string>
+    <string name="authentication_accept_button">مسئلہ حل کریں</string>
+    <string name="authentication_cancel_button">ابھی نہیں</string>
+    <string name="authentication_dialog_body">کیلنڈر کو مطابقت پذیر رکھنے کیلئے %s میں سائن ان کے طریقے کے مسئلے کو حل کریں</string>
+    <string name="authentication_dialog_title">آپ صحیح طریقے سے سائن ان نہیں ہیں</string>
+    <string name="birthday_banner_add_another_birthday_button_text">ایک اور سالگرہ شامل کریں</string>
+    <string name="birthday_banner_add_birthday_button_text">ایک سالگرہ شامل کریں</string>
+    <string name="birthday_banner_body">اپنے عزیز لوگوں کی سالگرہ کے لیے یاد دہانیاں حاصل کریں</string>
+    <string name="birthday_banner_dismiss_button_text">ابھی نہیں</string>
+    <string name="birthday_banner_title">سالگرہ شامل کریں</string>
+    <string name="birthday_wish_action">سالگرہ کی مبارک باد دیں</string>
+    <string name="birthdays_on">%s کو سالگرہیں</string>
+    <string name="bottomsheet_action_expand_halfway">نصف تک پھیلائیں</string>
+    <string name="bottomsheet_drag_handle_content_description">گھسیٹنے کا ہینڈل</string>
+    <string name="building_name_other">دیگر</string>
+    <string name="busy">مصروف</string>
+    <string name="button_calendar_permission_allow_label">کیلنڈر تک رسائی کی اجازت دیں</string>
+    <string name="button_label">بٹن</string>
+    <string name="button_permissions_manage_label">ترتیبات پر جائیں</string>
+    <string name="calendar">کیلنڈر</string>
+    <string name="calendar_a11y_action_click_learn_more">مزید جانیں</string>
+    <string name="calendar_cannot_be_shown">کیلنڈر نہیں دکھایا جا سکتا ہے</string>
+    <string name="calendar_ignored_message">کیلنڈر کو شامل نہیں کیا گیا۔</string>
+    <string name="calendar_is_checked">%1$s، نشان زد کر دیا گیا</string>
+    <string name="calendar_is_disabled">%1$s، غیر فعال ہے</string>
+    <string name="calendar_is_unchecked">%1$s، نشان ہٹا دیا گیا</string>
+    <string name="calendar_picker_account_info_segment_ooo">اس اکاؤنٹ کے لیے آفس میں موجود نہیں دستیاب نہیں ہے</string>
+    <string name="calendar_picker_account_info_segment_working_location">کام کرنے کا مقام اس اکاؤنٹ کے لیے دستیاب نہیں ہے</string>
+    <string name="calendar_refresh">ریفریش کریں</string>
+    <string name="calendar_screen_blocked">ایسا لگتا ہے کہ کوئی اور ایپ اسکرین کو مسدود کر رہی ہے۔ وہ ایپس آف کریں جو ممکنہ طور پر اسکرین پر ڈرا کر رہی ہوں اور دوبارہ کوشش کریں۔</string>
+    <string name="calendar_segment_secondary_text">اشتراک کردہ بذریعہ %s</string>
+    <string name="calendar_storage_disabled_dialog_action">ترتیبات میں فعال کریں</string>
+    <string name="calendar_storage_disabled_dialog_message">"‏افوہ، آپ کے کیلنڈرز اور ایونٹس کو ڈسپلے نہیں کیا جا سکتا ہے کیوںکہ کیلنڈر اسٹوریج غیر فعال ہے۔
+
+کیلنڈر اسٹوریج کو ترتیبات میں دوبارہ آن کریں۔"</string>
+    <string name="calendar_storage_disabled_dialog_title">کیلنڈر اسٹوریج غیر فعال کر دیا گیا</string>
+    <string name="calendar_successfully_added_message">کیلنڈر کو کامیابی کے ساتھ شامل کر لیا گیا۔</string>
+    <string name="can_not_add_unencrypted_attachment">آپ غیر مرموز کردہ فائل کو مرموز کردہ ایونٹ سے منسلک نہیں کر سکتے</string>
+    <string name="cancel_booked_event_dialog_content">منسوخی کی ای میلز تمام مہمانوں کو بھیج دی جائیں گی</string>
+    <string name="cancel_booked_event_dialog_title">اپوائنٹمنٹ منسوخ کریں؟</string>
+    <string name="cancel_button">منسوخ کریں</string>
+    <string name="cancel_encryption">مرموز کاری منسوخ کریں</string>
+    <string name="cancel_speeddial">منسوخ کریں</string>
+    <string name="cancellation_discard">مسترد کریں</string>
+    <string name="cancellation_keep_editing">ترمیم جاری رکھیں</string>
+    <string name="cannot_reschedule_completed_tasks">مکمل کردہ ٹاسک دوبارہ شیڈیول نہیں کیے جا سکتے</string>
+    <string name="cannot_reschedule_cross_profile_entry">آپ اپنی ذاتی ایپ میں اس ایونٹ کو صرف ترمیم کر سکتے ہیں</string>
+    <string name="cannot_reschedule_cross_profile_entry_action">سوئچ کریں</string>
+    <string name="cannot_reschedule_event">آپ اس ایونٹ کو دوبارہ شیڈول نہیں کر سکتے</string>
+    <string name="character_counter_content_description">%2$d میں سے %1$d حروف درج کیے گئے</string>
+    <string name="character_counter_overflowed_content_description">حروف کی تعداد کی حد %2$d سے %1$d پہنچ گئی</string>
+    <string name="chat_status_segment_disabled">24 گھنٹے سے زیادہ وقت کے ایونٹس کے لئے چیٹ اسٹیٹس سیٹ نہیں کیا جا سکتا۔</string>
+    <string name="chat_status_segment_primary">ڈسٹرب نہ کریں</string>
+    <string name="chat_status_segment_secondary">‏اسٹیٹس کو u201Cڈسٹرب نہ کریں” پر سیٹ کریں اور Chat کی اطلاعات آف کریں</string>
+    <string name="chat_suggestion_description">‏Chat کی بنیاد پر</string>
+    <string name="check_in">چیک ان</string>
+    <string name="check_out">چیک آؤٹ</string>
+    <string name="chime_notification_title">&lt;b> %1$s &lt;/b></string>
+    <string name="choose_a_location">مقام منتخب کریں</string>
+    <string name="clear_text_end_icon_content_description">ٹیکسٹ صاف کریں</string>
+    <string name="clipboard_clip_label">کانفرنس کا لنک</string>
+    <string name="close_label">بند کریں</string>
+    <string name="collapse_location">%1$s کو سکیڑیں</string>
+    <string name="collapse_sheet">ایونٹ شیٹ کو سکیڑیں</string>
+    <string name="collapse_task_sheet">ٹاسک شیٹ کو سکیڑیں</string>
+    <string name="collapse_working_location_sheet">کام کرنے کے مقام کی شیٹ کو سکیڑیں</string>
+    <string name="combined_notification_text">&lt;b> %1$s &lt;/b> %2$s</string>
+    <string name="comma_space">"، "</string>
+    <string name="common_google_play_services_enable_button">فعال کریں</string>
+    <string name="common_google_play_services_enable_text">‏جب تک آپ Google Play سروسز فعال نہیں کر لیتے، %1$s کام نہیں کرے گی۔</string>
+    <string name="common_google_play_services_enable_title">‏Google Play سروسز فعال کریں</string>
+    <string name="common_google_play_services_install_button">انسٹال کریں</string>
+    <string name="common_google_play_services_install_text">‏%1$s Google Play سروسز کے بغیر نہیں چلے گی، جو آپ کے آلہ سے غائب ہیں۔</string>
+    <string name="common_google_play_services_install_title">‏Google Play سروسز حاصل کریں</string>
+    <string name="common_google_play_services_notification_channel_name">‏Google Play سروسز کی دستیابی</string>
+    <string name="common_google_play_services_notification_ticker">‏Google Play سروسز کی خرابی</string>
+    <string name="common_google_play_services_unknown_issue">‏%1$s کو Google Play سروسز کے ساتھ مسئلہ پیش آ رہا ہے۔ براہ کرم دوبارہ کوشش کریں۔</string>
+    <string name="common_google_play_services_unsupported_text">‏%1$s Google Play سروسز کے بغیر نہیں چلے گی، جن کی آپ کا آلہ معاونت نہیں کرتا۔</string>
+    <string name="common_google_play_services_update_button">اپ ڈیٹ کریں</string>
+    <string name="common_google_play_services_update_text">‏جب تک آپ Google Play سروسز اپ ڈیٹ نہیں کر لیتے ہیں %1$s تب تک نہیں چلے گی۔</string>
+    <string name="common_google_play_services_update_title">‏Google Play سروسز اپ ڈیٹ کریں</string>
+    <string name="common_google_play_services_updating_text">‏%1$s Google Play سروسز کے بغیر نہیں چلے گی، جو فی الحال اپ ڈیٹ ہو رہی ہیں۔</string>
+    <string name="common_google_play_services_wear_update_text">‏Google Play سروسز کے نئے ورژن کی ضرورت ہے۔ یہ تھوڑی دیر میں خود ہی اپنے آپ کو اپ ڈیٹ کر لے گا۔</string>
+    <string name="common_open_on_phone">فون پر کھولیں</string>
+    <string name="completing_task_with_subtasks_body">اس ٹاسک میں ذیلی ٹاسک ہے۔ اسے اور اس کے ذیلی ٹاسک کو مکمل کرنے کیلئے ٹاسکس ایپ کا استعمال کریں۔</string>
+    <string name="completing_task_with_subtasks_title">ذیلی ٹاسک کے ساتھ ایک ٹاسک مکمل نہیں ہو سکا</string>
+    <string name="conference_add_ons">اضافے</string>
+    <string name="conference_authorization_required">اجازت دہندگی درکار ہے</string>
+    <string name="conference_authorize_button">اجازت دیں</string>
+    <string name="conference_creation_not_allowed">کانفرنس تخلیق کرنے کی اجازت نہیں ہے</string>
+    <string name="conference_entry_point_phone">فون</string>
+    <string name="conference_entry_point_sip">SIP</string>
+    <string name="conference_entry_point_video">ویڈیو</string>
+    <string name="conference_internal_number">صرف داخلی</string>
+    <string name="conference_log_in_button">لاگ ان کریں</string>
+    <string name="conference_log_in_required">لاگ ان درکار ہے</string>
+    <string name="conference_no_connection">کوئی انٹرنیٹ کنکشن نہیں ہے</string>
+    <string name="conference_phone_country">%1$s (%2$s)</string>
+    <string name="conference_phone_numbers_activity">ڈائل ان نمبرز</string>
+    <string name="conference_phone_pin">PIN: %s</string>
+    <string name="conference_solution_forbidden">کانفرنسنگ کا یہ حل استعمال کرنے کی اجازت نہیں ہے</string>
+    <string name="conference_try_again_button">دوبارہ کوشش کریں</string>
+    <string name="conference_type_google_meet">Google Meet</string>
+    <string name="conference_type_hangouts">Hangouts</string>
+    <string name="conference_will_be_added">شامل ہو جائے گا</string>
+    <string name="conference_will_be_added_action">ویڈیو کال</string>
+    <string name="confirm_rsvp_dialog_save_button">محفوظ کریں</string>
+    <string name="confirm_rsvp_dialog_title">‏RSVP کی تصدیق کریں</string>
+    <string name="confirm_subscription">ہاں</string>
+    <string name="confirmation_id">توثیقی نمبر: %s</string>
+    <string name="contact_picker_add_people">لوگوں کو شامل کریں</string>
+    <string name="contact_picker_added_guests">شامل کردہ مہمانان</string>
+    <string name="contact_picker_done">ہو گیا</string>
+    <string name="copied_to_clipboard">کلپ بورڈ پر کاپی ہو گیا</string>
+    <string name="copied_to_clipboard_phone">فون نمبر کلپ بورڈ پر کاپی ہو گیا۔</string>
+    <string name="copied_to_clipboard_sip">‏SIP پتہ کلپ بورڈ پر کاپی ہو گیا۔</string>
+    <string name="copied_to_clipboard_video">کانفرنس کا لنک کلپ بورڈ پر کاپی ہو گیا</string>
+    <string name="copy">کاپی کریں</string>
+    <string name="copy_display_name_field">ٹیکسٹ کو کلپ بورڈ پر کاپی کیا گیا</string>
+    <string name="country_holidays_hint">ملکی تعطیلات کو شامل کریں</string>
+    <string name="country_holidays_section_title">قومی تعطیلات</string>
+    <string name="create_an_account_desc">"‏کیلنڈر ایک Google اکاؤنٹ کے ساتھ بہتر کام کرتا ہے۔
+
+• کسی بھی ویب براؤزر سے اس تک رسائی حاصل کریں
+• محفوظ طریقے سے اپنے ایونٹس کا بیک اپ لیں"</string>
+    <string name="create_event_dialog_save">محفوظ کریں</string>
+    <string name="create_task_shortcat_long_label">نیا ٹاسک</string>
+    <string name="create_task_shortcat_short_label">نیا ٹاسک</string>
+    <string name="creating_event">ایونٹ بنا دیا گیا۔</string>
+    <string name="creating_event_with_guest">دعوت نامے بھیج دیے جائیں گے۔</string>
+    <string name="creating_repeating_task">اعادی ٹاسک تخلیق ہو رہا ہے…</string>
+    <string name="creating_repeating_task_no_connection">کوئی کنکشن نہیں ہے۔ آپ کے آن لائن ہونے پر اعادی ٹاسک تخلیق ہوگا۔</string>
+    <string name="creation_cancellation_message">اس ایونٹ کو مسترد کریں؟</string>
+    <string name="cross_profile_drawer_promo_text">اپنے سبھی ایونٹس کو دیکھنے کے لیے، اپنے ذاتی ایپ سے اپنے کیلنڈرز شامل کریں</string>
+    <string name="cross_profile_drawer_promo_title">اپنے ذاتی کیلنڈرز دیکھیں</string>
+    <string name="cross_profile_hide_promos_description">‏منسلک ایپس کی خصوصیت دستیاب ہونے کے بارے میں انتہائی صارفین کے لیے Google کیلنڈر میں اطلاعات چھپائیں</string>
+    <string name="cross_profile_hide_promos_title">منسلک ایپس کی اطلاعات کو چھپائیں</string>
+    <string name="cross_profile_learn_more">کیلنڈرز شامل کریں</string>
+    <string name="cross_profile_promo_dismiss">برخاست کریں</string>
+    <string name="cross_profile_snackbar_switch_to_personal_app">ذاتی ایپ پر سوئچ کیا گیا</string>
+    <string name="cross_profile_snackbar_switch_to_work_app">ورک ایپ پر سوئچ کیا گیا</string>
+    <string name="cross_profile_switch_to_personal_app">ذاتی ایپ پر سوئچ کریں</string>
+    <string name="crossprofile_dialog_positive">ترتیبات میں آن کریں</string>
+    <string name="crossprofile_dialog_text">‏Google کیلنڈر آپ کے ذاتی کیلنڈرز کی مرئیت اور اشتراک کی اجازت کو تبدیل نہیں کرے گا۔</string>
+    <string name="crossprofile_dialog_title">اپنے دفتری ایپ میں ذاتی کیلنڈرز دکھائیں</string>
+    <string name="cse_add_encryption_data_loss_dialog_add_encryption_dialog_button">آن کریں</string>
+    <string name="cse_add_encryption_data_loss_warning_dialog_title">اضافی مرموز کاری کو آن کریں؟</string>
+    <string name="cse_add_encryption_failed_snackbar">مرموز کاری کو شامل نہیں کیا جا سکتا</string>
+    <string name="cse_add_encryption_operation_failed_dialog_message">اس ایونٹ میں اضافی مرموز کاری شامل کرنے کی کوشش کرتے وقت کچھ غلط ہو گیا۔</string>
+    <string name="cse_add_encryption_operation_failed_dialog_title">اضافی مرموز کاری شامل نہیں کر سکتے</string>
+    <string name="cse_cancel_decryption">غیر مرموز کاری منسوخ کریں</string>
+    <string name="cse_contents_encrypted">مواد کو مرموز کیا گیا</string>
+    <string name="cse_contents_encrypted_by">%1$s کے ذریعے مواد مرموز کیے گئے</string>
+    <string name="cse_decrypt_error_admin_setup_different_encryptor">تفصیل کو غیر مرموز نہیں کیا جا سکتا۔ اگر آپ کو رسائی کی ضرورت ہو تو منتظم کو مطلع کریں۔</string>
+    <string name="cse_decrypt_error_admin_setup_same_encryptor">تفصیل کو غیر مرموز نہیں کیا جا سکتا۔ اگر خرابی برقرار رہتی ہے تو اپنی تنظیم کی تکنیکی سپورٹ کو اطلاع دیں۔</string>
+    <string name="cse_decrypt_error_email_mismatch">تفصیل کو غیر مرموز نہیں کیا جا سکتا۔ یقینی بنائیں کہ آپ کیلنڈر اور اپنے شناخت فراہم کنندہ میں سائن ان کرنے کے لیے ایک ہی پتہ استعمال کر رہے ہیں۔</string>
+    <string name="cse_decrypt_error_email_mismatch_idp">تفصیل کو غیر مرموز نہیں کیا جا سکتا۔ یقینی بنائیں کہ آپ کیلنڈر اور اپنے شناخت فراہم کنندہ \"%1$s\" میں سائن ان کرنے کے لیے ایک ہی پتہ استعمال کر رہے ہیں۔</string>
+    <string name="cse_decrypt_error_generic">تفصیل ابھی دستیاب نہیں ہے</string>
+    <string name="cse_decrypt_error_no_internet">تفصیل ابھی دستیاب نہیں ہے۔ آپ انٹرنیٹ سے منسلک نہیں ہیں۔</string>
+    <string name="cse_decrypt_error_sign_in_required">تفصیل کو غیر مرموز نہیں کیا جا سکتا۔ جاری رکھنے کے لیے اپنے شناخت فراہم کنندہ کے ساتھ سائن ان کریں۔</string>
+    <string name="cse_decrypt_error_sign_in_required_idp">تفصیل کو غیر مرموز نہیں کیا جا سکتا۔ جاری رکھنے کے لیے اپنے شناخت فراہم کنندہ \"%1$s\" کے ساتھ سائن ان کریں۔</string>
+    <string name="cse_default_add_encryption_data_loss_warning_dialog_title">اضافی مرموز کاری بطور ڈیفالٹ آن ہو جائے گی</string>
+    <string name="cse_description_hint">تفصیل شامل کریں</string>
+    <string name="cse_dialog_back">پیچھے جائیں</string>
+    <string name="cse_dialog_cancel">منسوخ کریں</string>
+    <string name="cse_dialog_learn_more">مزید جانیں</string>
+    <string name="cse_encrypt_description_failed_on_save_dialog_message">تفصیل کی مرموز کاری کرنے کی کوشش کرتے وقت کچھ غلط ہو گیا۔ محفوظ کرنے سے تفصیل اس ایونٹ سے ہٹ جائے گی۔</string>
+    <string name="cse_encrypt_description_failed_on_save_dialog_title">تفصیل کی مرموز کاری نہیں کی جا سکتی</string>
+    <string name="cse_encrypt_error_admin_setup">مرموز کاری کو شامل نہیں کیا جا سکتا۔ اگر خرابی برقرار رہتی ہے تو اپنی تنظیم کی تکنیکی سپورٹ کو اطلاع دیں۔</string>
+    <string name="cse_encrypt_error_email_mismatch">مرموز کاری کو شامل نہیں کیا جا سکتا۔ یقینی بنائیں کہ آپ کیلنڈر اور اپنے شناخت فراہم کنندہ میں سائن ان کرنے کے لیے ایک ہی پتہ استعمال کر رہے ہیں۔</string>
+    <string name="cse_encrypt_error_email_mismatch_idp">مرموز کاری کو شامل نہیں کیا جا سکتا۔ یقینی بنائیں کہ آپ کیلنڈر اور اپنے شناخت فراہم کنندہ \"%1$s\" میں سائن ان کرنے کے لیے ایک ہی پتہ استعمال کر رہے ہیں۔</string>
+    <string name="cse_encrypt_error_generic">مرموز کاری ابھی دستیاب نہیں ہے</string>
+    <string name="cse_encrypt_error_no_internet">مرموز کاری کو شامل نہیں کیا جا سکتا۔ آپ انٹرنیٹ سے منسلک نہیں ہیں۔</string>
+    <string name="cse_encrypt_error_sign_in_required">مرموز کاری کو شامل نہیں کیا جا سکتا۔ جاری رکھنے کے لیے اپنے شناخت فراہم کنندہ کے ساتھ سائن ان کریں۔</string>
+    <string name="cse_encrypt_error_sign_in_required_idp">مرموز کاری کو شامل نہیں کیا جا سکتا۔ جاری رکھنے کے لیے اپنے شناخت فراہم کنندہ \"%1$s\" کے ساتھ سائن ان کریں۔</string>
+    <string name="cse_error_action_sign_in">سائن ان کریں</string>
+    <string name="cse_error_action_try_again">دوبارہ کوشش کریں</string>
+    <string name="cse_error_on_save_dialog_button">محفوظ کریں</string>
+    <string name="cse_error_on_save_dialog_cancel_button">ترمیم پر واپس جائیں</string>
+    <string name="cse_event_copy_data_loss_dialog_button">اس ایونٹ کو کاپی کریں</string>
+    <string name="cse_event_copy_data_loss_dialog_title">اس ایونٹ کو کاپی کریں؟</string>
+    <string name="cse_event_duplicate_data_loss_dialog_button">اس ایونٹ کا ڈپلیکیٹ بنائیں</string>
+    <string name="cse_event_duplicate_data_loss_dialog_title">اس ایونٹ کا ڈپلیکیٹ بنائیں؟</string>
+    <string name="cse_explanation_dialog_do_not_show_again_checkbox_text">دوبارہ نہ دکھائیں</string>
+    <string name="cse_explanation_dialog_information_box">‏Google Meet ویڈیو کانفرنسنگ صرف آڈیو اور ویڈیو کے ساتھ بنیادی کال تک محدود ہوگی</string>
+    <string name="cse_explanation_dialog_message_1">ایونٹ کی تفصیل اور منسلکات کی مرموز کاری انہیں رازدارانہ رکھ سکتی ہے۔ تلاش اور آف لائن رسائی جیسی خصوصیات مرموز کردہ معلومات کے ساتھ کام نہیں کریں گی۔</string>
+    <string name="cse_explanation_dialog_message_2">منتظم کی ترتیبات کی وجہ سے صرف کچھ مخصوص لوگ مرموز کردہ معلومات کو دیکھ سکتے ہیں۔</string>
+    <string name="cse_explanation_dialog_title">‏مرموز کاری کی تفصیل، منسلکات اور Google Meet</string>
+    <string name="cse_notes_segment_description">نوٹس</string>
+    <string name="cse_remove_encryption_data_loss_warning_dialog_title">اضافی مرموزکاری کو ہٹائیں؟</string>
+    <string name="cse_unsupported_calendars_unavailable">آپ کی معلومات کو خفیہ رکھنے کے لیے، کچھ اکاؤنٹس یا کیلنڈرز کو غیر فعال کر دیا گیا ہے</string>
+    <string name="cse_viewscreen_dialog_button">مرموز کاری کے بارے میں مزید جانیں</string>
+    <string name="cse_viewscreen_dialog_text">‏تفصیل، منسلکات اور Google Meet ویڈیو کانفرنسنگ کے اس ایونٹ میں شامل ہونے پر اضافی مرموز کاری ہوگی۔</string>
+    <string name="cse_viewscreen_icon_label">مرموز کردہ ایونٹ</string>
+    <string name="custom">حسب ضرورت…</string>
+    <string name="custom_duration_error_msg">براہ کرم ایک درست دورانیہ درج کریں</string>
+    <string name="custom_notification_dialog_edit_text_error_message">ایونٹ شروع ہونے سے پہلے وقت منتخب کریں</string>
+    <string name="custom_notification_dialog_title">حسب ضرورت اطلاع</string>
+    <string name="custom_notification_override_announcement">قدر %s میں تبدیل ہو گئی</string>
+    <string name="data_loss_warning_dialog_description_message">تفصیل کو ہٹا دیتا ہے</string>
+    <string name="data_loss_warning_dialog_description_only_message">آپ کی معلومات کو رازدارانہ رکھنے کے لیے یہ تفصیل کو ہٹا دیتا ہے</string>
+    <string name="data_loss_warning_dialog_meet_message">‏Meet کی ویڈیو کانفرنسنگ کی تمام ترتیبات کو ری سیٹ کر دیتا ہے</string>
+    <string name="data_loss_warning_dialog_meet_only_message">‏آپ کی معلومات کو رازدارانہ رکھنے کے لیے یہ Meet ویڈیو کانفرنسنگ کی تمام ترتیبات کو ری سیٹ کر دیتا ہے</string>
+    <string name="data_loss_warning_dialog_message">آپ کے ڈیٹا کو رازدارانہ رکھنے کے لیے، یہ:</string>
+    <string name="date_duration_accessibility_description">%s کو اختتام ہوگا</string>
+    <string name="date_duration_label">%s کو</string>
+    <string name="date_time_fmt">%1$s، %2$s</string>
+    <string name="date_year_toggle">سال شامل کریں</string>
+    <string name="debug_channel_description">ڈیبگ کی اطلاعات</string>
+    <string name="decline_action">مسترد کریں</string>
+    <string name="decline_scope_selection_title">اعادی ایونٹ مسترد کریں</string>
+    <string name="decrypt_snackbar_error">تفصیل کو غیر مرموز نہیں کیا جا سکتا</string>
+    <string name="decrypt_snackbar_error_generic">تفصیل ابھی دستیاب نہیں ہے</string>
+    <string name="default_for_organization">آپ کی تنظیم کے لیے ڈیفالٹ</string>
+    <string name="default_option">ڈیفالٹ</string>
+    <string name="delete_proposal">تجویز کو حذف کریں</string>
+    <string name="delete_recurring_event_title">%s کو حذف کریں؟</string>
+    <string name="delete_scope_selection_title_working_location">کام کے مقام میں حذف کریں</string>
+    <string name="delete_this_event_title">یہ ایونٹ حذف کریں؟</string>
+    <string name="delete_this_reminder_title">اس یاد دہانی کو حذف کریں؟</string>
+    <string name="delete_this_task_title">یہ ٹاسک حذف کریں؟</string>
+    <string name="delete_this_working_location_title">اس کام کے مقام میں حذف کریں؟</string>
+    <string name="deleting_task_with_subtasks_body">اس ٹاسک میں ذیلی ٹاسکس ہیں۔ اسے اور اس کے ذیلی ٹاسکس کو حذف کرنے کیلئے ٹاسکس ایپ کا استعمال کریں۔</string>
+    <string name="deleting_task_with_subtasks_title">ذیلی ٹاسکس کے ساتھ ایک ٹاسک کو حذف نہیں کیا جا سکتا</string>
+    <string name="deletion_action">حذف کریں</string>
+    <string name="deletion_scope_selection_title">اعادی ایونٹ کو حذف کریں</string>
+    <string name="deletion_scope_selection_title_reminder">اعادی یاد دہانی حذف کریں</string>
+    <string name="deletion_scope_selection_title_task">اعادی ٹاسک حذف کریں؟</string>
+    <string name="demo_account_name">ڈیمو اکاؤنٹ</string>
+    <string name="demo_calendar_name">کیلنڈر ڈیمو</string>
+    <string name="describe_attachments_icon">منسلکات</string>
+    <string name="describe_bus_icon">بس سے متعلق معلومات</string>
+    <string name="describe_calendar_icon">کیلنڈر کا نام</string>
+    <string name="describe_confirmation_icon">توثیق دیکھیں</string>
+    <string name="describe_date_icon">تاریخ کی معلومات</string>
+    <string name="describe_email_icon">ای میل</string>
+    <string name="describe_event_icon">ایونٹ کی معلومات</string>
+    <string name="describe_flight_icon">پرواز کی معلومات</string>
+    <string name="describe_guests_icon">افراد کی فہرست</string>
+    <string name="describe_hotel_icon">ہوٹل کی معلوت</string>
+    <string name="describe_location_icon">مقام</string>
+    <string name="describe_notes_icon">نوٹس</string>
+    <string name="describe_notification_icon">کیلنڈر کی اطلاعات</string>
+    <string name="describe_phone_icon">فون</string>
+    <string name="describe_repeat_icon">اعادہ</string>
+    <string name="describe_restaurant_icon">ریستوراں کی معلومات</string>
+    <string name="describe_room_icon">کمرے</string>
+    <string name="describe_train_icon">ٹرین سے متعلق معلومات</string>
+    <string name="describe_visibility_icon">مرئیت</string>
+    <string name="description_hint">تفصیل شامل کریں</string>
+    <string name="desk_label">ڈیسک: %s</string>
+    <string name="dialog_header_calendar_title">کیلنڈر منتخب کریں</string>
+    <string name="dialog_header_email_title">ای میل پتہ منتخب کریں</string>
+    <string name="dialog_header_phone_title">فون نمبر منتخب کریں</string>
+    <string name="disambiguation_email_content_description">ای میل %1$d از %2$d۔ %3$s: %4$s پر ای میل کریں</string>
+    <string name="disambiguation_phone_content_description">فون نمبر ^1 از ^2۔ ^3: ^4 پر کال کریں</string>
+    <string name="disambiguation_sms_content_description">^2 میں سے ^1 SMS۔ SMS ^3: ^4</string>
+    <string name="discard_dialog_body_existing_task">اس یاد دہانی میں تبدیلیاں مسترد کریں؟</string>
+    <string name="discard_dialog_body_new_task">اس یاد دہانی کو مسترد کریں؟</string>
+    <string name="discard_dialog_discard">مسترد کریں</string>
+    <string name="discard_dialog_keep_editing">ترمیم جاری رکھیں</string>
+    <string name="dismiss">برخاست کریں</string>
+    <string name="dismiss_warning">انتباہ مسترد کریں</string>
+    <string name="dnd_auto_decline_default_message">میرے فوکس ٹائم میں ہونے کی وجہ سے مسترد ہو گیا</string>
+    <string name="dnd_chat_status_primary">ڈسٹرب نہ کریں</string>
+    <string name="dnd_chat_status_secondary">چیٹ کی اطلاعات کو خاموش کر دیا گیا</string>
+    <string name="does_not_have_audio_equipment">اس میں آڈیو کا کوئی ساز و سامان نہیں ہے</string>
+    <string name="does_not_have_video_equipment">اس میں ویڈیو کا کوئی ساز و سامان نہیں ہے</string>
+    <string name="drawer_account_sync_compete">مطابقت پذیری مکمل ہوگئی</string>
+    <string name="drawer_account_sync_disabled">مطابقت پذیری فعال کریں</string>
+    <string name="drawer_account_sync_error">مطابقت پذیری کی خرابی</string>
+    <string name="drawer_account_sync_syncing">مطابقت پذیری ہو رہی ہے…</string>
+    <string name="drawer_account_unauthenticated">صحیح طریقے سے سائن ان نہیں ہے</string>
+    <string name="drawer_birthdays_text">سالگرہیں</string>
+    <string name="drawer_help_feedback">مدد اور تاثرات</string>
+    <string name="drawer_holidays_text">تعطیلات</string>
+    <string name="drawer_logo_lockup">‏Google کیلنڈر</string>
+    <string name="drawer_settings">ترتیبات</string>
+    <string name="drive_installation_issue_metadata_not_available">‏فائلز کو منسلک کرنے کے لیے Google Drive ایپ کی ضرورت ہے۔ براہ کرم Drive ایپ انسٹال یا اپ ڈیٹ کریں اور دوبارہ کوشش کریں۔</string>
+    <string name="drive_installation_issue_metadata_not_available_title">فائلز منسلک کرنے سے قاصر</string>
+    <string name="drive_installation_issue_not_installed">‏منسلکات شامل کرنے کے ليے مفت Drive ایپ کو انسٹال کریں۔</string>
+    <string name="drive_installation_issue_not_installed_title">‏Google Drive انسٹال کریں</string>
+    <string name="drive_installation_issue_too_old">‏منسلکات شامل کرنے کے ليے اپنے Drive ایپ کو اپ ڈیٹ کریں</string>
+    <string name="drive_installation_issue_too_old_title">‏Google Drive اپ ڈیٹ کریں</string>
+    <string name="edit_cancellation_message">اس ایونٹ میں تبدیلیاں مسترد کریں؟</string>
+    <string name="edit_changes_cannot_be_saved_message">اس ایونٹ پر کی گئی تبدیلیوں کا مجموعہ ایک ہی بار میں لاگو نہیں کیا جا سکتا۔</string>
+    <string name="edit_changes_cannot_be_saved_title">غلط اپ ڈیٹ</string>
+    <string name="edit_color_default_color">ڈیفالٹ رنگ</string>
+    <string name="edit_custom_notification">حسب ضرورت…</string>
+    <string name="edit_custom_recurrence">حسب ضرورت…</string>
+    <string name="edit_description_hint">نوٹ شامل کریں</string>
+    <string name="edit_error_event_not_found">مطلوبہ ایونٹ نہیں ملا۔</string>
+    <string name="edit_error_generic">ایک داخلی خرابی پیش آ گئی۔</string>
+    <string name="edit_error_no_calendar">اس آلہ کے ساتھ ابھی تک کسی بھی کیلنڈر کی مطابقت پذیری نہیں کی گئی ہے</string>
+    <string name="edit_event_cancel">منسوخ کریں</string>
+    <string name="edit_event_delete">حذف کریں</string>
+    <string name="edit_label">ترمیم کریں</string>
+    <string name="edit_label_all_day">پورا دن</string>
+    <string name="edit_no_notification">کوئی اطلاع نہیں ہے</string>
+    <string name="edit_recurrence_none">دہرایا نہیں جاتا</string>
+    <string name="edit_scope_selection_title">اعادی ایونٹ کو محفوظ کریں</string>
+    <string name="edit_scope_selection_title_reminder">اعادی یاد دہانی محفوظ کریں</string>
+    <string name="edit_scope_selection_title_task">مکرر ٹاسک محفوظ کریں</string>
+    <string name="edit_scope_selection_title_working_location">کام کے مقام میں ترمیم کریں</string>
+    <string name="edit_screen_title">ترمیم والی اسکرین</string>
+    <string name="edit_title_hint">عنوان درج کریں</string>
+    <string name="edit_title_task_suggest_hint">مجھے اس کی یاد دلائیں…</string>
+    <string name="ellipsized_text">%1$s…</string>
+    <string name="email_guests_label">مہمانوں کو ای میل کریں</string>
+    <string name="email_organizer_label">منتظم کو ای میل کریں</string>
+    <string name="email_picker_label">اس کے ساتھ ای میل کریں</string>
+    <string name="email_response_dialog_title">ای میل کے ذریعے جواب</string>
+    <string name="email_separator">،</string>
+    <string name="empty_suggestions_explanation">اس وقت کوئی کمرہ دستیاب نہیں۔</string>
+    <string name="encrypted_conference_label">مرموز کردہ کانفرنس</string>
+    <string name="encrypted_contents_removed">مرموز کاری کو آف کر دیا گیا ہے۔</string>
+    <string name="end_by_date">؛ %s تک</string>
+    <string name="end_label">اختتام ہوتا ہے</string>
+    <string name="end_time_min">%d منٹ</string>
+    <string name="ended_recurrence_prefix_content_description">شیڈول کو دہرانا ختم ہو گیا: %1$s</string>
+    <string name="error_a11y_label">Error: invalid</string>
+    <string name="error_end_time_not_after_start_time">اختتامی وقت آغاز کے وقت کے بعد ہونا لازمی ہے</string>
+    <string name="error_generic">ایک داخلی خرابی پیش آ گئی۔</string>
+    <string name="error_icon_content_description">خرابی</string>
+    <string name="error_no_connection">ایک خرابی آ گئی ہے۔ اپنا کنکشن چیک کریں۔</string>
+    <string name="error_no_task_account">آلے پر ٹاسکس کو سپورٹ کرنے والا کوئی اکاؤنٹ نہیں ملا۔</string>
+    <string name="error_no_times_selected">ای میل میں شامل کرنے سے پہلے کیلنڈر میں کلک کریں یا اوقات شامل کریں</string>
+    <string name="error_offline_subtitle">براہ کرم اپنا کنکشن چیک کریں اور دوبارہ کوشش کریں۔</string>
+    <string name="error_offline_title">ایسا لگ رہا ہے کہ آپ آف لائن ہیں</string>
+    <string name="error_opening_gmail_thread">درخواست کردہ گفتگو کو لوڈ نہیں کیا جا سکا۔</string>
+    <string name="error_repeating_task_start_time_in_past">مکرر ٹاسک کا وقت آغاز ماضی میں نہیں ہو سکتا۔</string>
+    <string name="error_start_time_after_end_time">وقت آغاز اختتامی وقت کے بعد نہیں ہو سکتا۔</string>
+    <string name="error_state_body">براہ کرم بعد میں دوبارہ کوشش کریں۔</string>
+    <string name="error_state_title">ایک خرابی پیش آ گئی</string>
+    <string name="error_working_location_missing">کام کرنے کا مقام درکار ہے۔</string>
+    <string name="event">ایونٹ</string>
+    <string name="event_copy_to">اس میں کاپی کریں…</string>
+    <string name="event_duplicate">ڈپلیکیٹ کریں</string>
+    <string name="event_encrypted">مرموز کردہ</string>
+    <string name="event_encrypted_by">%1$s کے ذریعے مرموز کردہ</string>
+    <string name="event_encrypted_details">‏تفصیل، منسلکات اور Google Meet ویڈیو کانفرنسنگ میں اضافی مرموز کاری ہے</string>
+    <string name="event_external_source">خارجی ماخذ سے تخلیق کردہ</string>
+    <string name="event_forward">آگے منتقل کریں</string>
+    <string name="event_info_title">ایونٹ دیکھیں</string>
+    <string name="event_not_found">ایونٹ نہیں ملا۔</string>
+    <string name="event_report_spam">بطور سپام اطلاع دیں</string>
+    <string name="event_report_spam_dialog_title">بطور اسپام اطلاع دیں</string>
+    <string name="every_weekday_lower">ہر کام کے دن (سوموار تا جمعہ)</string>
+    <string name="everyone_declined_message">باقی سبھوں نے ایونٹ مسترد کردیا ہے</string>
+    <string name="everyone_declined_prefix">باقی سبھی نے مسترد کر دیا:</string>
+    <string name="ewl_prefix">کام کرنے کا مقام:</string>
+    <string name="exception_during_external_activity_start">اس عمل کو ہینڈل کرنے والی ایپلیکیشن شروع نہیں ہو سکی</string>
+    <string name="expand_button_title">جدید ترین</string>
+    <string name="expand_location">%1$s کو پھیلائیں</string>
+    <string name="expand_sheet">ایونٹ شیٹ کو پھیلائیں</string>
+    <string name="expand_task_sheet">ٹاسک شیٹ کو پھیلائیں</string>
+    <string name="expand_working_location_sheet">کام کرنے کے مقام کی شیٹ پھیلائیں</string>
+    <string name="expanded_location_title">%2$s میں %1$d کیلئے کمرہ دستیاب ہے</string>
+    <string name="exposed_dropdown_menu_content_description">ڈراپ ڈاؤن مینیو دکھائیں</string>
+    <string name="failed_to_copy_to_clipboard">کلپ بورڈ پر کاپی کرنے میں ناکامی۔</string>
+    <string name="failed_to_create_conference">کانفرنس تخلیق کرنے میں ناکام</string>
+    <string name="feature_events">ایونٹس</string>
+    <string name="feature_out_of_office">آفس میں موجود نہیں</string>
+    <string name="feature_reminders">یاد دہانیاں</string>
+    <string name="feature_tasks">ٹاسکس</string>
+    <string name="feature_working_location">کام کرنے کا مقام</string>
+    <string name="filter_capacity_max">+%1$d</string>
+    <string name="filter_capacity_title">درکار سیٹیں</string>
+    <string name="filter_recurring_future_events">یہ اور آئندہ ایونٹس</string>
+    <string name="filter_recurring_this_event">یہ ایونٹ</string>
+    <string name="find_a_time_bottom_filter_change">تبدیل کریں</string>
+    <string name="find_a_time_button_label_more_to_grid">مزید بٹن - کیلنڈر گرڈ میں وقت کی تجویز دکھاتا ہے</string>
+    <string name="find_a_time_consider_existing_rooms">موجودہ کمرے تلاش میں شامل کریں</string>
+    <string name="find_a_time_duration_timeframe_filter_around_custom">%s کے آس پاس</string>
+    <string name="find_a_time_duration_timeframe_filter_format">%1$s %2$s</string>
+    <string name="find_a_time_duration_timeframe_filter_on_custom">%s کو</string>
+    <string name="find_a_time_event_busy">مصروف</string>
+    <string name="find_a_time_event_no_status">کوئی صورت حال نہیں ہے</string>
+    <string name="find_a_time_event_out_of_office">آفس میں موجود نہیں</string>
+    <string name="find_a_time_event_tentatively_busy">عارضی طور پر مصروف</string>
+    <string name="find_a_time_filters_title">فلٹرز</string>
+    <string name="find_a_time_title">مناسب وقت تلاش کریں</string>
+    <string name="find_time_custom_duration_dialog_title">حسب ضرورت دورانیہ</string>
+    <string name="find_time_custom_duration_hour_input">گھنٹہ</string>
+    <string name="find_time_custom_duration_max_error_msg">24 گھنٹوں سے کم ہونا چاہیے</string>
+    <string name="find_time_custom_duration_min_error_msg">کم از کم 1 منٹ ہونا چاہئے</string>
+    <string name="find_time_custom_duration_minute_input">منٹ</string>
+    <string name="find_time_duration_custom_option">حسب ضرورت…</string>
+    <string name="find_time_duration_hour_minute_word_break" />
+    <string name="find_time_duration_picker_title">دورانیہ</string>
+    <string name="find_time_empty_list_failed_load_calendars_body_title">کیلنڈرز لوڈ نہیں ہو سکے۔ براہ کرم بعد میں دوبارہ کوشش کریں۔</string>
+    <string name="find_time_empty_list_failed_load_calendars_label_title">کوئی تجاویز نہیں</string>
+    <string name="find_time_empty_list_label_body">بہتر نتائج حاصل کرنے کیلئے نیچے موجود ٹائم فریم یا دورانیہ تبدیل کریں</string>
+    <string name="find_time_empty_list_label_title">ہر شخص مصروف ہے</string>
+    <string name="find_time_empty_list_not_found_all_calendars_body_title">آپ کو کسی مہمان کے کیلنڈر تک رسائی حاصل نہیں ہے۔</string>
+    <string name="find_time_everyone_everyone_is_busy_snackbar_label">ہر کوئی مصروف ہے۔</string>
+    <string name="find_time_everyone_is_busy_snackbar_action">تلاش کریں</string>
+    <string name="find_time_find_later_on_snackbar_label">بعد میں تجاویز تلاش کریں؟</string>
+    <string name="find_time_grid_slab_datetime_format">%1$s، %2$s</string>
+    <string name="find_time_guest_does_not_take_meetings_at_this_time">%s عام طور پر اس وقت میٹنگز میں شمولیت نہیں کرتا</string>
+    <string name="find_time_guest_is_unavailable">%s غیر دستیاب ہے</string>
+    <string name="find_time_label_best_times">بہترین اوقات</string>
+    <string name="find_time_not_considered">ان کو مدنظر نہیں رکھا گیا: %s</string>
+    <string name="find_time_one_or_more_guests_have_conflict">ایک یا زیادہ مہمانوں کیلئے ایونٹ میں تضاد آ رہا ہے</string>
+    <string name="find_time_plus_x_more">+%d مزید</string>
+    <string name="find_time_room_booking_options_header">کمرے</string>
+    <string name="find_time_room_is_unavailable">%s غیر دستیاب ہے</string>
+    <string name="find_time_several_guests_are_unavailable">کئی مہمان غیر دستیاب ہیں</string>
+    <string name="find_time_several_guests_usually_do_not_take_meetings_at_this_time">کئی مہمان عام طور پر اس وقت میٹنگز میں شمولیت نہیں کرتے</string>
+    <string name="find_time_several_participants_are_unavailable">کئی شرکت کنندگان غیر دستیاب ہیں</string>
+    <string name="find_time_several_rooms_are_unavailable">کئی کمرے غیر دستیاب ہیں</string>
+    <string name="find_time_timeframe_picker_on_a_date_label">%s کو</string>
+    <string name="find_time_timeframe_picker_title">ٹائم فریم</string>
+    <string name="find_time_timeframe_picker_within_a_date_label">تقریباً %s</string>
+    <string name="find_time_two_info">%1$s %2$s</string>
+    <string name="find_time_two_lines_short_layout">%1$s: %2$s</string>
+    <string name="find_time_you_are_unavailable">آپ غیر دستیاب ہیں</string>
+    <string name="find_time_you_do_not_take_meetings_at_this_time">آپ عام طور پر اس وقت میٹنگز میں شمولیت نہیں کرتے</string>
+    <string name="fix_permission_sharing_option_comment">تبصرہ کر سکتا ہے</string>
+    <string name="fix_permission_sharing_option_edit">ترمیم کر سکتا ہے</string>
+    <string name="fix_permission_sharing_option_view">دیکھ سکتا ہے</string>
+    <string name="fix_permissions_add_collaborators_button">اس ایونٹ کے مہمانان:</string>
+    <string name="fix_permissions_google_account_not_required_warning">‏مہمانوں کو Google اکاؤنٹ کی ضرورت نہیں ہے۔</string>
+    <string name="fix_permissions_google_account_required_warning">‏مہمانوں کے پاس ایک Google اکاؤنٹ ہونا لازمی ہے۔</string>
+    <string name="fix_permissions_increase_domain_visibility_button">‏‎&lt;b>%1$s&lt;/b>‎ پر افراد جن کے پاس لنک ہے:</string>
+    <string name="fix_permissions_increase_public_visibility_button">کوئی بھی شخص جس کے پاس لنک ہے:</string>
+    <string name="fix_permissions_more_options">مزید اختیارات</string>
+    <string name="fix_permissions_outside_domain_warning_title">کیا آپ تیار ہیں؟</string>
+    <string name="fix_permissions_send_without_sharing">اشتراک نہ کریں</string>
+    <string name="fix_permissions_title">اشتراک کے اختیارات</string>
+    <string name="flight_cancelled">منسوخ ہو گئی</string>
+    <string name="flight_duration">پرواز کا دورانیہ</string>
+    <string name="flight_redirected">راستہ تبدیل کر دیا گیا</string>
+    <string name="floor">منزل %1$s</string>
+    <string name="floor_and_section">%1$s-%2$s</string>
+    <string name="floor_label">فلور: %s</string>
+    <string name="floor_section_label">سیکشن: %s</string>
+    <string name="focus_time_prefix">فوکس کا وقت:</string>
+    <string name="foreign_holiday">%1$s (%2$s)</string>
+    <string name="forward_event_chooser_title">اس کے ساتھ آگے منتقل کریں</string>
+    <string name="forward_event_email_subject">آگے منتقل کردہ: %s</string>
+    <string name="forward_event_message_body">"‏منجانب: %1$s
+موضوع: %2$s
+بنام: %3$s
+
+بوقت: %4$s
+بمقام: %5$s
+
+%6$s"</string>
+    <string name="forward_event_toast_title">ایونٹ کو آگے منتقل کیا جا رہا ہے…</string>
+    <string name="generic_error">خرابی</string>
+    <string name="gms_core_unrecoverable_error">‏Google Play سروسیز کی خرابی کی وجہ سے کیلنڈر شرو‏ع نہیں کیا جا سکا۔</string>
+    <string name="go_to_calendar_website">کیلنڈر ویب سائٹ پر جائیں</string>
+    <string name="go_to_play_store">‏Play اسٹور پر جائیں</string>
+    <string name="google_play_protect_title">Google Play Protect</string>
+    <string name="google_primary_calendar_name">ایونٹس</string>
+    <string name="got_it">سمجھ آگئی</string>
+    <string name="goto_next_month">اگلے مہینے پر جائیں</string>
+    <string name="goto_previous_month">پچھلے مہینے پر جائیں</string>
+    <string name="goto_tasks">ٹاسکس کھولیں</string>
+    <string name="goto_today">آج پر جائیں</string>
+    <string name="guest_notification_prompt_cancellations_will_be_sent_message">‏Google کیلنڈر کے مہمانوں کو منسوخی کی ای میلز بھیج دی جائیں گی۔</string>
+    <string name="guest_notification_prompt_create_message">‏Google کیلنڈر کے مہمانوں کو دعوتی ای میلز بھیجیں؟</string>
+    <string name="guest_notification_prompt_delete_message">‏Google کیلنڈر کے مہمانوں کو منسوخی کی ای میلز بھیجیں؟</string>
+    <string name="guest_notification_prompt_invite_new_cancel_removed_guests">‏Google کیلنڈر کے نئے اور ہٹائے گئے مہمانوں کو ای میلز بھیجیں؟</string>
+    <string name="guest_notification_prompt_invite_new_guests">‏Google کیلنڈر کے نئے مہمانوں کو دعوتی ای میلز بھیجیں؟</string>
+    <string name="guest_notification_prompt_invite_new_guests_update_existing">‏Google کیلنڈر کے نئے اور موجودہ مہمانوں کو ای میلز بھیجیں؟</string>
+    <string name="guest_notification_prompt_invite_new_update_existing_cancel_removed_guests">‏Google کیلنڈر کے نئے، موجودہ اور ہٹائے گئے مہمانوں کو ای میلز بھیجیں؟</string>
+    <string name="guest_notification_prompt_learn_more">%s مزید جانیں</string>
+    <string name="guest_notification_prompt_negative_button">نہ بھیجیں</string>
+    <string name="guest_notification_prompt_positive_button">بھیجیں</string>
+    <string name="guest_notification_prompt_previous_changes_could_be_sent_message">%s اس ایونٹ میں کی گئی آپ کی سابقہ تبدیلیاں شامل ہو سکتی ہیں۔</string>
+    <string name="guest_notification_prompt_update_cancel_removed_guests_message">‏Google کیلنڈر کے ہٹائے گئے مہمانوں کو منسوخی کی ای میلز بھیجیں؟</string>
+    <string name="guest_notification_prompt_update_existing_cancel_removed_guests_message">‏Google کیلنڈر کے موجودہ اور ہٹائے گئے مہمانوں کو ای میلز بھیجیں؟</string>
+    <string name="guest_notification_prompt_update_message">‏Google کیلنڈر کے مہمانوں کو اپ ڈیٹ کی ای میلز بھیجیں؟</string>
+    <string name="guest_notification_prompt_updates_will_be_sent_message">سابقہ اور حالیہ تبدیلیوں کیلئے ای میلز بھیج دی جائیں گی۔</string>
+    <string name="guests_can_header">مہمانان یہ کر سکتے ہیں:</string>
+    <string name="guests_can_item_invite_others">دوسروں کو مدعو کریں</string>
+    <string name="guests_can_item_modify_event">ایونٹ میں ترمیم کریں</string>
+    <string name="guests_can_item_no_permissions">صرف ایونٹ کی تفصیلات دیکھیں</string>
+    <string name="guests_can_item_see_guest_list">مہمانوں کی فہرست دیکھیں</string>
+    <string name="guests_hidden_large_event">مہمانوں کی پوری فہرست مخفی ہے کیونکہ مہمانوں کی تعداد بہت زیادہ ہے۔</string>
+    <string name="guests_hidden_no_permission">منتظم کی درخواست پر مہمان کی مکمل فہرست کو پوشیدہ کردیا گیا ہے۔</string>
+    <string name="hangout_action">‏Hangout میں شامل ہوں</string>
+    <string name="happy_birthday">سالگرہ مبارک ہو!</string>
+    <string name="has_audio_equipment">اس میں آڈیو کا ساز و سامان ہے</string>
+    <string name="has_video_equipment">اس میں ویڈیو کا ساز و سامان ہے</string>
+    <string name="holiday_settings_button_text">تعطیلات کی ترتیبات کو اپ ڈیٹ کریں</string>
+    <string name="home">ہوم</string>
+    <string name="hourly_view_label">دن</string>
+    <string name="hourly_view_label_full">دن کا منظر</string>
+    <string name="ical_ask_delete_cancelled_event">ایونٹ “%s” منسوخ ہو گیا ہے۔ کیا آپ اسے اپنے کیلنڈر سے ہٹانا چاہیں گے؟</string>
+    <string name="ical_event_existing">یہ ایونٹ پہلے سے ہی آپ کے کیلنڈر پر ہے۔</string>
+    <string name="ical_event_existing_newer_version">آپ کے کیلنڈر پر اس ایونٹ کا جدید تر ورژن پہلے ہی سے ہے۔</string>
+    <string name="ical_event_launch_failed">ایونٹ لانچ کرنے سے قاصر</string>
+    <string name="ical_file_unsupported">‏غیر تعاون یافتہ ICS فائل۔</string>
+    <string name="ical_import_all">سبھی شامل کریں</string>
+    <string name="ical_import_all_failure">سبھی ایونٹس آپ کے کیلنڈر میں شامل نہیں کیے گئے۔</string>
+    <string name="ical_import_all_success">سبھی ایونٹس آپ کے کیلنڈر میں شامل کر دیے گئے۔</string>
+    <string name="ical_import_failed">ایونٹ شامل کرنے میں ناکام رہا۔</string>
+    <string name="ical_import_successful">ایونٹ آپ کے کیلنڈر میں شامل کر دیا گیا۔</string>
+    <string name="ical_update_failed">ایونٹ اپ ڈیٹ کرنے میں ناکام رہا۔</string>
+    <string name="ical_update_successful">ایونٹ کامیابی کے ساتھ اپ ڈیٹ کر دیا گیا ہے۔</string>
+    <string name="ics_file">‏ICS فائل</string>
+    <string name="illegal_times_selected_dialog_text">ایونٹ کے اختتامی وقت سے پہلے کا ہونے کیلئے وقت آغاز کو تبدیل کریں۔</string>
+    <string name="import_event_action_prompt">کیلنڈر میں شامل کریں</string>
+    <string name="inferred_rsvp_location_promo_body_text">کیلنڈر آپ کے کام کرنے کے مقام کی بنیاد پر سیٹ کر سکتا ہے کہ آپ کیسے شامل ہو رہے ہیں</string>
+    <string name="infinite_duration_accessibility_description">کبھی اختتام نہیں ہوگا</string>
+    <string name="infinite_duration_label">کبھی نہیں</string>
+    <string name="instructions_for_calendar_permission_settings_screen">ترتیبات میں، اجازتوں پر تھپتھپائیں اور کیلنڈر کو فعال کریں۔</string>
+    <string name="interval_title">دہرائے جانے کی مدت</string>
+    <string name="item_is_selected">%1$s منتخب ہوگیا</string>
+    <string name="join_by_phone_action_label">بذریعہ فون شامل ہوں</string>
+    <string name="join_conference_with">%s کے ساتھ شامل ہوں</string>
+    <string name="join_from_non_google_system">فریق ثالث کے سسٹم سے شامل ہوں</string>
+    <string name="join_live_stream">لائیو سلسلہ دیکھیں</string>
+    <string name="join_video_conferencing">ویڈیو کانفرنس میں شامل ہوں</string>
+    <string name="join_video_conferencing_short">شامل ہوں</string>
+    <string name="known_senders_opt_out_promo_body">ان لوگوں کے دعوت نامے جن کو آپ شاید نہیں جانتے ہوں گے وہ خود بخود آپ کے کیلنڈر پر ظاہر نہیں ہوں گے۔ آپ اب بھی اپنی ای میل میں دعوت ناموں کا جواب دے سکتے ہیں۔</string>
+    <string name="known_senders_opt_out_promo_learn_more_link">ایونٹ کے دعوت ناموں کے بارے میں مزید جانیں</string>
+    <string name="known_senders_opt_out_promo_neutral_button">ترتیب کا نظم کریں</string>
+    <string name="known_senders_opt_out_promo_positive_button">سمجھ آ گئی</string>
+    <string name="known_senders_opt_out_promo_title">سپام کو مسدود کرنا اب آسان ہو گیا ہے</string>
+    <string name="launcher_shortcut_event">نیا ایونٹ</string>
+    <string name="launcher_shortcut_event_long">نیا ایونٹ</string>
+    <string name="launcher_shortcut_reminder">یاد دہانی</string>
+    <string name="launcher_shortcut_reminder_long">یاد دہانی</string>
+    <string name="learn_more">مزید جانیں</string>
+    <string name="learn_more_google_accounts">اکاؤنٹس کے بارے میں مزید جانیں۔</string>
+    <string name="legacy_holiday_label">%s (لیگیسی)</string>
+    <string name="libraries_material_featurehighlight_dismiss">برخاست کریں</string>
+    <string name="list_week_view_3days_label">3 دن</string>
+    <string name="list_week_view_3days_label_full">3 دن کا منظر</string>
+    <string name="loading">لوڈ ہو رہا ہے…</string>
+    <string name="loading_addons_error">کانفرنسنگ کی تدابیر کو لوڈ نہیں کیا جا سکتا</string>
+    <string name="loading_addons_error_no_connection">کانفرنسنگ کی تدابیر کو لوڈ نہیں کیا جا سکتا کیونکہ کوئی نیٹ ورک کنکشن نہیں ہے</string>
+    <string name="loading_attendees">‏شرکت کنندگان کو لوڈ کیا جا رہا ہے‎…</string>
+    <string name="local_account_deactivated_account_picker_popup_explanation">‏جب آپ اس اکاؤنٹ کو بناتے ہیں تو آپ اس میں ایونٹس کو شامل کر سکتے ہیں۔ کیلنڈر کی تمام خصوصیات سے فائدہ اٹھانے کے لیے Google اکاؤنٹ استعمال کریں۔</string>
+    <string name="local_account_deactivated_account_picker_popup_learn_more">کیلنڈر میں اکاؤنٹس استعمال کرنے کے بارے میں مزید جانیں۔</string>
+    <string name="location_conferencing_defer">کوئی نہیں / بعد میں تعین کیا جائے گا</string>
+    <string name="location_conferencing_error_subtext">مقام درج کریں</string>
+    <string name="location_conferencing_in_person">بالمشافہ میٹنگ</string>
+    <string name="location_conferencing_location_hint">مقام شامل کریں (درکار ہے)</string>
+    <string name="location_conferencing_meet">‏Google Meet ویڈیو کانفرنسنگ</string>
+    <string name="location_conferencing_none">مقام یا کانفرنسنگ شامل کريں</string>
+    <string name="location_conferencing_phone">فون کال</string>
+    <string name="location_conferencing_subtext_meet">‏Meet لنک وقت کی تصدیق کے بعد تخلیق کیا جائے گا</string>
+    <string name="location_conferencing_subtext_phone">وقت کی تصدیق کرنے والا شخص فون نمبر فراہم کرے گا</string>
+    <string name="location_error">مقام شامل کرنے سے قاصر</string>
+    <string name="location_meeting_room">میٹنگ روم میں</string>
+    <string name="location_picker_contacts">رابطے</string>
+    <string name="location_picker_hint">مقام شامل کریں</string>
+    <string name="location_picker_locations">قریبی مقامات</string>
+    <string name="location_remove">ہٹائیں</string>
+    <string name="location_show_on_map">نقشہ پر دکھائیں</string>
+    <string name="location_time">‏‎%s (مقامی وقت)</string>
+    <string name="location_virtually">ورچوئل طور پر</string>
+    <string name="map_label">نقشہ</string>
+    <string name="maps_not_available">اس مقام کو دیکھنے کیلئے کوئی ایپلیکیشن نہیں ملی۔</string>
+    <string name="meet_consumer_description_label">ویڈیو کانفرنسنگ کی تفصیلات شامل کر دی گئی</string>
+    <string name="meet_description_label">ویڈیو کانفرنسنگ اور ڈائل ان کی تفصیلات شامل کر دی گئی</string>
+    <string name="meet_sharing_joining_info">‏Google Meet شرکت کی معلومات</string>
+    <string name="meet_sharing_more_phone_numbers">مزید فون نمبرز: %s</string>
+    <string name="meet_sharing_phone_number">یا ڈائل کریں: %s</string>
+    <string name="meet_sharing_sip">‏یا SIP کے ذریعے شامل ہوں: %s</string>
+    <string name="meet_sharing_video_call">ویڈیو کال کا لنک: %s</string>
+    <string name="meeting_code_format">ID: %s</string>
+    <string name="meetings_decline_type_disabled_explanation">اندراجات دہرانے کے لیے دستیاب نہیں ہے</string>
+    <string name="menu_category_general_preferences">عمومی</string>
+    <string name="menu_crossprofile_connection_off">دکھایا نہیں گیا</string>
+    <string name="menu_crossprofile_connection_on">دکھایا گیا</string>
+    <string name="menu_crossprofile_preferences">ذاتی کیلنڈرز</string>
+    <string name="menu_help">مدد</string>
+    <string name="menu_item_help_feedback">مدد اور تاثرات</string>
+    <string name="menu_smartmail_preference_details">"‏Gmail خودکار طور پر ایسے ایونٹس تخلیق کر سکتی ہے جنہیں آپ کے کیلنڈر پر ڈسپلے کیا جا سکتا ہے۔ یہ ایونٹس آپ کو فلائیٹس اور دیگر ریزرویشنز جیسی چیزوں سے باخبر رہنے میں مدد فراہم کریں گے۔‎
+
+‏Gmail سے ایونٹس حاصل کرنے کے لیے، آپ کو Gmail کی ترتیبات میں "<b>اسمارٹ خصوصیات اور ذاتی نوعیت سازی</b> کو بھی آن کرنا ہوگا۔</string>
+    <string name="menu_smartmail_preferences">‏Gmail سے ایونٹس</string>
+    <string name="menu_working_hours_preferences">کام کے اوقات</string>
+    <string name="missing_permissions_dialog_button_negative">برخاست کریں</string>
+    <string name="missing_permissions_dialog_button_positive">ذاتی ایپ پر سوئچ کریں</string>
+    <string name="missing_permissions_dialog_text">اپنے تمام کیلنڈرز دیکھنے کے لیے، براہ کرم اپنے ذاتی کیلنڈر ایپ کے لیے اجازتیں فعال کریں۔</string>
+    <string name="missing_permissions_dialog_title">کیلنڈرز تک رسائی حاصل نہیں ہو سکتی</string>
+    <string name="month_view">کیلنڈر ماہ کا نظارہ</string>
+    <string name="month_view_label">مہینہ</string>
+    <string name="month_view_label_full">مہینے کا منظر</string>
+    <string name="monthly_date_frequency">%1$s دن کو ماہانہ</string>
+    <string name="more_info_card_call_content_description">کال کریں %1$s: %2$s</string>
+    <string name="more_info_card_email_content_description">ای میل %1$s: %2$s</string>
+    <string name="more_joining_options">شامل ہونے کے مزید اختیارات</string>
+    <string name="more_label">مزید</string>
+    <string name="more_primary">شمولیت کی ہدایات</string>
+    <string name="move_reminder_to_date">یاد دہانی کو %s پر منتقل کر دیا گیا۔</string>
+    <string name="mtrl_checkbox_state_description_checked">Checked</string>
+    <string name="mtrl_checkbox_state_description_indeterminate">Partially checked</string>
+    <string name="mtrl_checkbox_state_description_unchecked">Not checked</string>
+    <string name="mtrl_chip_close_icon_content_description">%1$s کو ہٹائیں</string>
+    <string name="mtrl_picker_a11y_next_month">اگلے مہینہ میں منتقل کریں</string>
+    <string name="mtrl_picker_a11y_prev_month">گزشتہ ماہ میں منتقل کریں</string>
+    <string name="mtrl_picker_day_of_week_column_header">دنوں کا کالم: %1$s</string>
+    <string name="mtrl_picker_end_date_description">تاریخ اختتام %1$s</string>
+    <string name="mtrl_picker_navigate_to_current_year_description">سال رواں %1$d پر نیویگیٹ کریں</string>
+    <string name="mtrl_picker_navigate_to_year_description">%1$d سال پر نیویگیٹ کریں</string>
+    <string name="mtrl_picker_start_date_description">تاریخ آغاز %1$s</string>
+    <string name="mtrl_picker_today_description">آج %1$s</string>
+    <string name="mtrl_picker_toggle_to_day_selection">کیلنڈر منظر پر سوئچ کرنے کے لیے تھپتھپائیں</string>
+    <string name="mtrl_picker_toggle_to_year_selection">سال کے منظر پر سوئچ کرنے کے لیے تھپتھپائیں</string>
+    <string name="new_event_prefix">نیا ایونٹ:</string>
+    <string name="new_task_prefix">نیا ٹاسک:</string>
+    <string name="new_time_proposed">منتظم کیلئے نیا وقت تجویز کیا گیا</string>
+    <string name="next_month">اگلا مہینہ</string>
+    <string name="no_available_conferences">کوئی کانفرنس حل دستیاب نہیں ہے</string>
+    <string name="no_available_dialer">کوئی ڈائلر دستیاب نہیں۔</string>
+    <string name="no_calendar_permission_message">‏Google کیلنڈر کو آپ کے ایونٹس تخلیق کرنے اور ڈسپلے کرنے کیلئے اجازت کی ضرورت ہے۔</string>
+    <string name="no_calendar_permission_title">آپ کے کیلنڈر تک رسائی نہیں کی جا سکتی ہے</string>
+    <string name="no_clock_role_message">‏صحیح وقت پر ایونٹ کی اطلاعات دکھانے کیلئے Google کیلنڈر کو یاد دہانیاں سیٹ کرنے کیلئے آپ کی اجازت درکار ہے</string>
+    <string name="no_clock_role_title">کیلنڈر کو وقت پر آپ کو یاد دلانے کی اجازت دیں</string>
+    <string name="no_end_time">کوئی وقت اختتام نہیں ہے</string>
+    <string name="no_entries_after">صرف %s کے بعد کے اندراجات یہاں دکھائی دیں گے</string>
+    <string name="no_events_for_day">کچھ بھی منصوبہ بند نہیں ہے۔ بنانے کیلئے تھپتھپائیں۔</string>
+    <string name="no_events_today">آج کچھ نہیں ہے</string>
+    <string name="no_information">کوئی اطلاع نہیں</string>
+    <string name="no_more_events_today">آج کچھ اور نہیں ہے</string>
+    <string name="no_one_to_chat_with">یہاں چیٹ کرنے والا کوئی نہیں ہے</string>
+    <string name="no_reminder">کوئی یاد دہانی نہیں ہے</string>
+    <string name="no_results_events_and_reminders">کوئی ایونٹس یا یاد دہانیاں نہیں ملیں</string>
+    <string name="no_results_with_quoted_text">\"%s\" کیلئے کوئی اندراج نہیں ملا</string>
+    <string name="no_title_label">(کوئی عنوان نہیں)</string>
+    <string name="no_title_placeholder">(کوئی عنوان نہیں)</string>
+    <string name="no_visible_calendars_action">سمجھ آگئی</string>
+    <string name="no_visible_calendars_body">"‏تمام کیلنڈر آ‌ف کر دیے گئے ہیں اسی لئے چیزیں خالی خالی لگ رہی ہیں۔
+
+اوپر بائیں جانب مینیو کھولیں اور ایونٹس دیکھنے کیلئے کیلنڈر تھپتھپائیں۔"</string>
+    <string name="no_visible_calendars_title">کیلنڈر مخفی ہیں</string>
+    <string name="non_google_account_attachments">‏منسلکات ہٹا دیے گئے ہیں کیونکہ Drive غیر Google اکاؤنٹس کیلئے تعاون یافتہ نہیں ہے۔</string>
+    <string name="non_google_account_discouraged">‏ہو سکتا ہے یہ اکاؤنٹ Google کیلنڈر کی سبھی خصوصیات کو سپورٹ نہ کرے</string>
+    <string name="not_set">سیٹ نہیں ہے</string>
+    <string name="notification_chat_button_description">مہمانوں کے ساتھ چیٹ کریں</string>
+    <string name="notification_chat_button_description_short">چیٹ کریں</string>
+    <string name="notification_permission_explanation_page_allow_button">اطلاعات کی اجازت دیں</string>
+    <string name="notification_permission_explanation_page_message">آنے والے ایونٹس اور ٹاسکس کی خاطر الرٹس حاصل کرنے کے لیے، کیلنڈر کو اطلاعات بھیجنے کی اجازت دیں۔ آپ ہر ایونٹ کے لیے اطلاعات کو ایڈجسٹ کر سکتے ہیں۔</string>
+    <string name="notification_permission_explanation_page_skip_button">فی الحال نہیں</string>
+    <string name="notification_permission_explanation_page_title">کسی بھی چیز سے محروم نہ رہیں</string>
+    <string name="notification_tone_label">کیلنڈر کی اطلاع</string>
+    <string name="notifications_are_turned_off_in_settings">اس آلے کی ترتیبات میں اطلاعات آف ہیں</string>
+    <string name="notifications_channel_description">کیلنڈر کی اطلاعات</string>
+    <string name="notifications_off_warning">آپ کو اس آلہ پر مطلع نہیں کیا جائے گا کیونکہ کیلنڈر کی اطلاعات آف کر دی گئی ہیں۔</string>
+    <string name="notifications_off_warning_directive">اطلاعات کی اجازت دیں</string>
+    <string name="notifications_off_warning_settings_target">ترتیبات پر جائیں</string>
+    <string name="office">آفس</string>
+    <string name="offline_warning">آپ آف لائن ہیں۔ کچھ شیڈیولز کو لوڈ نہیں کیا جا سکتا۔</string>
+    <string name="og_a11y_close">بند کریں</string>
+    <string name="og_account_and_settings">اکاؤنٹ اور ترتیبات۔</string>
+    <string name="og_account_critical_alert_view_label_a11y">%2$s کیلئے %1$s</string>
+    <string name="og_account_deactivated_a11y">%1$s کیلئے اکاؤنٹ سوئچ کرنا غیر فعال ہو گیا ہے</string>
+    <string name="og_account_particle_disc_no_accounts_available_a11y">سائن ان کریں</string>
+    <string name="og_account_switching_deactivated">اکاؤنٹ سوئچ کرنا غیر فعال ہو گیا ہے</string>
+    <string name="og_add_another_account">دوسرا اکاؤنٹ شامل کریں</string>
+    <string name="og_choose_an_account_title">ایک اکاؤنٹ منتخب کریں</string>
+    <string name="og_collapse_account_list_a11y">اکاؤنٹ کی فہرست سکیڑیں۔</string>
+    <string name="og_continue">جاری رکھیں</string>
+    <string name="og_continue_as">بطور %1$s جاری رکھیں</string>
+    <string name="og_critical_security_alert_badge_label_a11y">اہم سیکیورٹی الرٹ</string>
+    <string name="og_expand_account_list_a11y">اکاؤنٹ کی فہرست پھیلائیں۔</string>
+    <string name="og_google_one_account_a11y">‏Google One اکاؤنٹ۔</string>
+    <string name="og_got_it">سمجھ آ گئی</string>
+    <string name="og_important_account_alert_badge_a11y_label">اکاؤنٹ کیلئے اہم الرٹ</string>
+    <string name="og_important_actions_available_a11y_label">اہم %1$s دستیاب ہے</string>
+    <string name="og_loading_a11y">لوڈ ہو رہا ہے</string>
+    <string name="og_manage_accounts">اس آلہ پر اکاؤنٹس کا نظم کریں</string>
+    <string name="og_my_account_desc_long_length">‏اپنے Google اکاؤنٹ کا نظم کریں</string>
+    <string name="og_my_account_desc_meduim_length">‏Google اکاؤنٹ</string>
+    <string name="og_my_account_desc_short_length">اکاؤنٹ</string>
+    <string name="og_obake_feature_a11y">پروفائل کی تصویر تبدیل کریں۔</string>
+    <string name="og_privacy_policy">رازداری کی پالیسی</string>
+    <string name="og_recommended_actions_entry_point">تجویز کردہ کارروائیاں</string>
+    <string name="og_selected_account_a11y">%1$s منتخب ہے۔</string>
+    <string name="og_sign_in_">سائن ان کریں</string>
+    <string name="og_signed_in_as_account">بطور %1$s سائن ان ہیں</string>
+    <string name="og_terms_of_service">سروس کی شرائط</string>
+    <string name="og_use_account_a11y_no_period">%1$s استعمال کریں</string>
+    <string name="on_the_day_at">‏دن کو بوقت ‎%s</string>
+    <string name="only_reschedule_reminders_to_future">یاد دہانیوں کو ماضی میں منتقل نہیں کیا جا سکتا</string>
+    <string name="oobe_done">سمجھ آگئی</string>
+    <string name="oobe_next">اگلا صفحہ</string>
+    <string name="oobe_welcome_to_google_calendar">‏Google کیلنڈر میں خوش آمدید</string>
+    <string name="ooo">آؤٹ آف آفس</string>
+    <string name="ooo_auto_decline_default_message">میرے آفس میں نہ ہونے کی وجہ سے مسترد ہو گیا</string>
+    <string name="ooo_auto_decline_disabled">میٹنگز مسترد نہیں کی جائیں گی</string>
+    <string name="ooo_auto_decline_explanation">خودکار طور پر میٹنگز مسترد کریں</string>
+    <string name="ooo_auto_decline_message_label">پیغام</string>
+    <string name="ooo_auto_decline_will_apply_to_existing_and_new_invitations">نئی اور موجودہ میٹنگز کو مسترد کیا جائے گا</string>
+    <string name="ooo_auto_decline_will_apply_to_new_invitations">صرف نئی میٹنگز کو مسترد کیا جائے گا</string>
+    <string name="ooo_auto_reply_enabled">‏Gmail میں خودکار جواب سیٹ ہے</string>
+    <string name="ooo_confirm_dialog_positive">محفوظ اور مسترد کریں</string>
+    <string name="ooo_confirm_dialog_title">اس وقت کے دوران نئی اور موجودہ میٹنگز کو خودکار طور پر مسترد کریں؟</string>
+    <string name="ooo_confirm_dialog_title_decline_new_only">اس وقت کے دوران نئی میٹنگز کو خودکار طور پر مسترد کریں؟</string>
+    <string name="ooo_decline_new_and_existing_meetings">نئی اور موجودہ میٹنگز</string>
+    <string name="ooo_decline_new_meetings">صرف نئی میٹنگ کے دعوت نامے</string>
+    <string name="ooo_decline_new_meetings_read_out">%1$s مسترد کی جا رہی ہے</string>
+    <string name="ooo_default_title">آؤٹ آف آفس</string>
+    <string name="ooo_meetings_to_decline">مسترد کرنے کیلئے میٹنگز</string>
+    <string name="ooo_prefix">آؤٹ آف آفس</string>
+    <string name="ooo_visibility_disclaimer">‏دیگر Google ایپس پر دستیابی دکھائی جا سکتی ہے۔ آپ اسے اپنے کمپیوٹر پر کیلینڈر کی ترتیبات میں تبدیل کر سکتے ہیں۔</string>
+    <string name="open_source_licenses_title">اوپن سورس لائسنسز</string>
+    <string name="option_remove">ہٹائیں</string>
+    <string name="organizer">%s کے ذریعے منظم کردہ</string>
+    <string name="out_of_office">آفس میں موجود نہیں</string>
+    <string name="outside_working_hours">کام کے اوقات کے باہر</string>
+    <string name="overwrite_event_action_prompt">موجودہ ایونٹ کو اوور رائٹ کریں</string>
+    <string name="palestine_display_name">فلسطین</string>
+    <string name="passcode_format">پاس کوڈ: %s</string>
+    <string name="password_format">پاس ورڈ: %s</string>
+    <string name="password_toggle_content_description">پاس ورڈ دکھائیں</string>
+    <string name="people_intelligence_busy">مصروف ہوں - %1$s پر دوبارہ دستیاب ہوں</string>
+    <string name="people_intelligence_in_a_meeting">میٹنگ میں ہوں - %1$s پر دوبارہ دستیاب ہوں</string>
+    <string name="people_intelligence_out_of_office">آفس میں موجود نہیں - واپسی کی تاریخ %1$s</string>
+    <string name="people_intelligence_outside_working_hours">کام کے معمول کے اوقات سے مختلف اوقات - مقامی وقت %1$s ہے</string>
+    <string name="peoplekit_contact_selected">منتخب کردہ</string>
+    <string name="peoplesheet_add_to_contacts">رابطوں میں شامل کریں</string>
+    <string name="peoplesheet_edit_contact">رابطے میں ترمیم کریں</string>
+    <string name="peoplesheet_more_info_card_more_info_link">تفصیلی منظر کھولیں</string>
+    <string name="personal_profile_header_title">ذاتی پروفائل</string>
+    <string name="phone_number_with_pin_format">%1$s PIN: %2$s</string>
+    <string name="pin_format">PIN: %s</string>
+    <string name="play_protect_uncertified_device_notification_title">‏یہ آلہ Play Protect کی طرف سے تصدیق شدہ نہيں ہے</string>
+    <string name="posting_to_chat_dialog_header">چیٹ گفتگو میں اشتراک کرنا</string>
+    <string name="posting_to_chat_dialog_save">محفوظ اور اشتراک کریں</string>
+    <string name="posting_to_chat_dialog_text_group_with_title">‏اس ایونٹ کی معلومات کو محفوظ کرنے پر اس کا اشتراک u201C%1$s” کے ساتھ کیا جائے گا</string>
+    <string name="posting_to_chat_dialog_text_one_on_one">آپ کے اس ایونٹ کی معلومات کو محفوظ کرنے پر اس کا اشتراک %1$s کے ساتھ کیا جائے گا</string>
+    <string name="preference_copied">\"%1$s\" کلپ بورڈ میں کاپی ہو گیا۔</string>
+    <string name="preference_edit_alternate_calendar_header">متبادل کیلنڈر</string>
+    <string name="preference_edit_alternate_calendar_label_chinese_simplified">چینی کیلنڈر - آسان کردہ</string>
+    <string name="preference_edit_alternate_calendar_label_chinese_traditional">چینی کیلنڈر - روایتی</string>
+    <string name="preference_edit_alternate_calendar_label_hebrew">عبرانی کیلنڈر</string>
+    <string name="preference_edit_alternate_calendar_label_hijri_civil">ہجری کیلنڈر - سول</string>
+    <string name="preference_edit_alternate_calendar_label_hijri_kuwaiti">ہجری کیلنڈر - کویتی</string>
+    <string name="preference_edit_alternate_calendar_label_hijri_saudi">ہجری کیلنڈر - سعودی</string>
+    <string name="preference_edit_alternate_calendar_label_indian">بھارتی کیلنڈر - ہندو (ساکا)</string>
+    <string name="preference_edit_alternate_calendar_label_korean">کوریائی کیلنڈر</string>
+    <string name="preference_edit_alternate_calendar_label_none">کوئی متبادل کیلنڈر نہیں</string>
+    <string name="preference_edit_alternate_calendar_label_persian">فارسی کیلنڈر</string>
+    <string name="preference_edit_color_header">رنگ</string>
+    <string name="preference_edit_device_timezone_header">ٹائم زون</string>
+    <string name="preference_edit_display_short_events_as_30_min">مختصر اندراجات کو 30 منٹ کے اندراجات کے بطور اسی سائز میں ڈسپلے کریں</string>
+    <string name="preference_edit_family_label">نظم کریں</string>
+    <string name="preference_edit_no_ringtone_string">کوئی نہیں</string>
+    <string name="preference_edit_notifications_disabled_help">آپ کو مطلع نہیں کیا جائے گا کیونکہ کیلنڈر کی اطلاعات اس آلے کی ترتیبات میں آف ہیں۔</string>
+    <string name="preference_edit_notifications_disclaimer">آپ انفرادی کیلنڈر مثلاً ایونٹس پر جا کر ڈیفالٹ اطلاعات کو تبدیل کر سکتے ہیں۔</string>
+    <string name="preference_edit_notifications_header">اطلاعات</string>
+    <string name="preference_edit_notify">اس آلہ پر مطلع کریں</string>
+    <string name="preference_edit_ringtone_header">ٹون</string>
+    <string name="preference_edit_show_declined">مسترد ایونٹس دکھائیں</string>
+    <string name="preference_edit_show_month_illustrations">مہینے کے خاکے دکھائیں</string>
+    <string name="preference_edit_show_more_events_description">موسمی عکس بندیاں آف کریں</string>
+    <string name="preference_edit_show_more_events_label">مزید ایونٹس دکھائیں</string>
+    <string name="preference_edit_show_week_number">ہفتہ کا نمبر دکھائیں</string>
+    <string name="preference_edit_sync_header">مطابقت پذیری کریں</string>
+    <string name="preference_edit_theme_label">تھیم</string>
+    <string name="preference_edit_title_header">نام</string>
+    <string name="preference_edit_use_device_timezone_label">آلہ کا ٹائم زون استعمال کریں</string>
+    <string name="preference_edit_use_standard">معیاری ٹون استعمال کریں</string>
+    <string name="preference_edit_vibrate">وائبریٹ کرے</string>
+    <string name="preference_edit_week_start_header">ہفتے کا آغاز</string>
+    <string name="preference_family_disclaimer">اس کیلنڈر پر شامل کیے جانے والے ایونٹس کا اشتراک خاندان کے تمام اراکین کے ساتھ ہو گا</string>
+    <string name="preference_no_connection">کوئی کنکشن نہیں ہے۔ آپ کے واپس آن لائن ہونے پر ترتیبات کو اپ ڈیٹ کیا جائے گا۔</string>
+    <string name="preference_tasks_notifications_enabled">ٹاسک کی اطلاعات</string>
+    <string name="preference_theme_dark_label">گہری</string>
+    <string name="preference_theme_header">تھیم منتخب کریں</string>
+    <string name="preference_theme_help_pre_q">‏آپ کے Android ورژن پر ویجیٹ اور اطلاع کی تھیمز تبدیل نہیں کی جا سکتی۔</string>
+    <string name="preference_theme_help_q">‏اپنے کیلنڈر ویجیٹ اور اطلاعات کی تھیم تبدیل کرنے کے لیے، اپنے Android <a href="https://support.google.com/android/answer/9084191?ref_topic=7651007">اسکرین اور ڈسپلے کی ترتیبات</a> کا نظم کریں۔</string>
+    <string name="preference_theme_light_label">ہلکی</string>
+    <string name="preference_theme_set_by_battery_saver_label">بیٹری سیور کے لحاظ سے سیٹ کریں</string>
+    <string name="preference_theme_system_default_label">سسٹم ڈیفالٹ</string>
+    <string name="preference_unlisted_color_label">موجودہ رنگ</string>
+    <string name="preferences_edit_allday_notifications_header">پورے دن کے ایونٹس کیلئے ڈیفالٹ اطلاعات</string>
+    <string name="preferences_edit_timed_notifications_header">ڈیفالٹ اطلاعات</string>
+    <string name="preferences_license_title">فریق ثالث کے نوٹسز</string>
+    <string name="preferences_title">ترتیبات</string>
+    <string name="previous_month">پچھلا مہینہ</string>
+    <string name="primary_calendar_display_name">ایونٹس</string>
+    <string name="privacy_policy">رازداری کی پالیسی</string>
+    <string name="processing_subscription">کارروائی ہو رہی ہے…</string>
+    <string name="promo_notification_text">اپنے سبھی ایونٹس کو ایک ساتھ دیکھنے کے لیے، اپنے ذاتی کیلنڈرز کو اپنے ورک ایپ میں شامل کریں۔ سیٹ اپ کرنے کے لیے تھپتھپائیں۔</string>
+    <string name="promo_notification_title">اپنے ذاتی کیلنڈرز شامل کریں</string>
+    <string name="proposal_in_the_past">آپ کی تجویز ماضی کی ہے۔</string>
+    <string name="proposal_same_as_event_time">آپ کی تجویز وہی ہے جو ایونٹ کا وقت ہے۔</string>
+    <string name="propose_new_time_optional_note">ایک اضافی نوٹ شامل کریں</string>
+    <string name="propose_new_time_show_less_text">کم دکھائیں</string>
+    <string name="propose_new_time_show_more_text">مزید دکھائیں</string>
+    <string name="propose_new_time_title_propose">نیا وقت تجویز کریں</string>
+    <string name="propose_new_time_title_review">وقت کی تجاویز کا جائزہ لیں</string>
+    <string name="propose_time_chip_text">نیا وقت تجویز کریں</string>
+    <string name="propose_time_proposal_prefix">تجویز: ‍%s</string>
+    <string name="propose_time_review_button_text">مجوزہ وقت کا جائزہ لیں</string>
+    <string name="public_holidays_only">صرف عوامی تعطیلات</string>
+    <string name="public_holidyays_and_others">عوامی اور دیگر تعطیلات</string>
+    <string name="quick_actions_call_content_description">%s پر کال کریں۔</string>
+    <string name="quick_actions_chat_content_description">%s کو ایک چیٹ پیغام بھیجیں</string>
+    <string name="quick_actions_email_content_description">%s پر ای میل کریں۔</string>
+    <string name="quick_actions_meet_content_description">%s کے ساتھ ویڈیو میٹنگ شروع کریں</string>
+    <string name="quick_actions_schedule_content_description">%s کے ساتھ ایک میٹنگ شیڈول کریں</string>
+    <string name="quick_actions_type_call">کال کریں</string>
+    <string name="quick_actions_type_chat">چیٹ</string>
+    <string name="quick_actions_type_email">ای میل</string>
+    <string name="quick_actions_type_meet">Meet</string>
+    <string name="quick_actions_type_schedule">شیڈول کریں</string>
+    <string name="quick_response_custom_msg">خود اپنا تحریر کریں…</string>
+    <string name="quick_response_email_failed">ای میل پروگرام تلاش کرنا ناکام ہوگیا۔</string>
+    <string name="quick_response_settings">فوری جوابات</string>
+    <string name="recurrence_month_pattern_last_day">مہینے کے آخری دن</string>
+    <string name="recurrence_picker_activity_label">اعادی منتخب کنندہ</string>
+    <string name="recurrence_toolbar_title">حسب ضرورت اعادی اصول</string>
+    <string name="reject_subscription">نہیں</string>
+    <string name="religious_holidays_hint">مذہبی تعطیلات کو شامل کریں</string>
+    <string name="religious_holidays_section_title">مذہبی تعطیلات</string>
+    <string name="reminder">یاد دہانی</string>
+    <string name="reminder_description_prefix">یاد دہانی:</string>
+    <string name="reminder_done_description_prefix">یاد دہانی مکمل ہو گئی:</string>
+    <string name="reminder_full_item">%1$s بطور %2$s</string>
+    <string name="reminder_info_title">یاد دہانی دیکھیں</string>
+    <string name="reminders_calendar_name">یاد دہانیاں</string>
+    <string name="reminders_migrated">‏یاد دہانیاں اب ٹاسکس ہیں۔ اپنے کاموں کی فہرست کے بارے میں اطلاع حاصل کرنے کیلئے Google Tasks کا استعمال کریں۔</string>
+    <string name="reminders_migration_can_not_create_during_migration">آپ یاد دہانیوں کو شامل نہیں کر سکتے جب وہ ٹاسکس میں منتقل ہو رہی ہوں</string>
+    <string name="reminders_migration_card_button">میری یاد دہانیوں کو اب کاموں میں تبدیل کریں</string>
+    <string name="reminders_migration_card_description">‏ٹاسکس آپ کو زیادہ لچک پذیری فراہم کرتے ہیں، جس سے آپ اپنے کام کو فہرستوں میں ترتیب دے سکتے ہیں اور Google Workspace میں ان کا کہیں بھی نظم کر سکتے ہیں۔</string>
+    <string name="reminders_migration_card_title">جلد ہی آپ کی یاد دہانیوں کو ٹاسکس میں اپ گریڈ کیا جائے گا</string>
+    <string name="reminders_migration_completed_tooltip_description">‏%s کے طور پر، اب آپ اپنے کاموں کی فہرست کے بارے میں مطلع کرنے کے لیے ٹاسکس کا استعمال کر سکتے ہیں اور آپ جہاں کہیں بھی Google Workspace میں ہوں ان کا سراغ لگا سکتے ہیں۔</string>
+    <string name="reminders_migration_completed_tooltip_title">یاد دہانیاں اب ٹاسکس ہیں</string>
+    <string name="reminders_migration_dialog_button">آگے بڑھیں</string>
+    <string name="reminders_migration_dialog_description_completed_reminders_remark">سبھی مکمل کردہ یاد دہانیوں کو مکمل کردہ ٹاسکس میں تبدیل کر دیا جائے گا۔</string>
+    <string name="reminders_migration_dialog_description_keep_remark">‏Google Keep میں تخلیق کردہ یاد دہانیوں کو ٹاسکس میں تبدیل نہیں کیا جائے گا۔ آپ اب بھی Keep میں ان کا نظم کر سکتے ہیں۔</string>
+    <string name="reminders_migration_dialog_description_location_remark">اگر یاد دہانی کا کوئی مقام ہے تو یہ ٹاسک کی تفصیل میں ظاہر ہوگا۔ آپ کو اس سے مقام پر مبنی کوئی اطلاع موصول نہیں ہوگی۔</string>
+    <string name="reminders_migration_dialog_description_more_than_remark">ایک وقت میں صرف 1,000 یاد دہانیوں کو ٹاسکس میں تبدیل کیا جا سکتا ہے۔ کسی بھی باقی ماندہ یاد دہانی کے لیے، آپ کو کاروائی دہرانے کی ضرورت پڑے گی۔</string>
+    <string name="reminders_migration_dialog_description_only_keep_reminders_remark">‏Workspace کی سبھی ایپس پر اپنے کاموں کا ٹریک رکھنے کے لیے کیلنڈر میں Tasks کو آزمائیں۔</string>
+    <string name="reminders_migration_dialog_description_with_account">‏%s کے طور پر، اب آپ کیلنڈر میں اپنے کاموں کا ٹریک رکھنے کے لیے یاد دہانیوں کے بجائے Tasks کا استعمال کریں گے۔</string>
+    <string name="reminders_migration_dialog_more_than_title">یاد دہانیوں کو ٹاسکس میں تبدیل کریں</string>
+    <string name="reminders_migration_dialog_no_reminders_title">ٹاسکس استعمال کرنا شروع کریں</string>
+    <string name="reminders_migration_failure_toast">کچھ غلط ہو گیا۔ آپ کی یاد دہانیوں کو ٹاسکس میں تبدیل نہیں کیا جا سکا۔</string>
+    <string name="reminders_migration_force_completed_toast_completed_reminders_only">یاد دہانیاں اب ٹاسکس ہیں۔ مکمل کردہ یاد دہانیوں کو %s کیلئے ٹاسکس میں تبدیل کر دیا گیا۔</string>
+    <string name="reminders_migration_force_completed_with_only_keep_toast">‏%s کے لیے یاد دہانیاں کیلنڈر سے ہٹا دی گئی ہیں لیکن اب بھی Google Keep میں دستیاب ہیں</string>
+    <string name="reminders_migration_only_keep_voluntary_completed_tooltip_title">‏Tasks کے ساتھ اپنے کاموں کی فہرست کے بارے میں اطلاع موصول کریں</string>
+    <string name="reminders_migration_partial_failure_toast_only_completed_reminders_migrated">مکمل کردہ یاد دہانیوں کو %s کیلئے ٹاسکس میں تبدیل کر دیا گیا۔ کچھ یاد دہانیاں باقی ہیں۔</string>
+    <string name="reminders_migration_tasks_disabled_card_description">‏آپ کی تنظیم نے آپ کے اکاؤنٹ کے لیے Google Tasks کو بند کر دیا ہے۔ اپنے کیلنڈر اور اسسٹنٹ کی یاد دہانی کا ڈیٹا محفوظ کرنے کے لیے، اپنے Google Workspace منتظم سے رابطہ کریں اور Tasks تک رسائی کی درخواست کریں یا اپنا ڈیٹا ڈاؤن لوڈ کریں۔</string>
+    <string name="reminders_migration_tasks_disabled_card_title">جلد ہی یاد دہانیوں کو ٹاسکس میں اپ گریڈ کیا جائے گا</string>
+    <string name="reminders_migration_tasks_disabled_toast">‏آپ کی تنظیم نے %s کے لیے Google Tasks کو آف کر دیا۔ آپ کی یاد دہانیوں کو Tasks میں منتقل نہیں کیا جا سکا، لہذا ان کو حذف کر دیا گیا۔</string>
+    <string name="reminders_migration_tasks_disabled_tooltip_description">‏%s کیلئے یاد دہانیوں کو حذف کر دیا گیا ہے کیونکہ انہیں Tasks میں منتقل نہیں کیا جا سکا۔ آپ کی تنظیم نے آپ کے اکاؤنٹ کے لیے Google Tasks کو آف کر دیا۔</string>
+    <string name="reminders_migration_tooltip_only_keep_reminders_remark">‏آپ کی تمام یاد دہانیاں اب بھی Google Keep میں دستیاب ہیں۔</string>
+    <string name="reminders_migration_tooltip_remark_only_completed_reminders_migrated">مکمل کردہ یاد دہانیوں کو ٹاسکس میں تبدیل کر دیا گیا۔</string>
+    <string name="reminders_migration_tooltip_with_keep_reminders_only_completed_reminders_migrated_remark">‏مکمل کردہ یاد دہانیوں کو ٹاسکس میں تبدیل کر دیا گیا۔ Google Keep میں تخلیق کردہ یاد دہانیوں کو تبدیل نہیں کیا گیا تھا۔ انہیں کیلنڈر سے ہٹا دیا جائے گا، لیکن آپ اب بھی Keep میں ان کا نظم کر سکتے ہیں۔</string>
+    <string name="reminders_migration_triggered_no_reminders_toast">اب ٹاسکس کا استعمال کیا جا رہا ہے</string>
+    <string name="reminders_migration_triggered_toast">یاد دہانیوں کو ٹاسکس میں تبدیل کیا جا رہا ہے…</string>
+    <string name="reminders_migration_voluntary_completed_toast_completed_reminders_only">مکمل کردہ یاد دہانیوں کو %s کیلئے ٹاسکس میں تبدیل کر دیا گیا</string>
+    <string name="reminders_migration_voluntary_completed_tooltip_title">آپ کی یاد دہانیاں اب ٹاسکس ہیں</string>
+    <string name="reminders_require_google_account">‏یاد دہانیوں کا استعمال کرنے کیلئے ایک Google اکاؤنٹ درکار ہے۔</string>
+    <string name="remove_attachment">ہٹائیں</string>
+    <string name="remove_conference">کانفرنس ہٹائیں</string>
+    <string name="remove_encryption">مرموز کاری کو ہٹائیں</string>
+    <string name="remove_encryption_data_loss_warning_dialog_attachment_keep_message">تمام منسلک فائلز پر اضافی مرموز کاری کو برقرار رکھتا ہے</string>
+    <string name="remove_encryption_data_loss_warning_dialog_attachments_drop_message">کیلنڈر ایونٹ سے تمام مرموز کردہ فائلز کو ہٹا دیتا ہے</string>
+    <string name="remove_encryption_data_loss_warning_dialog_attachments_only_drop_message">آپ کی معلومات کو رازدارانہ رکھنے کے لیے یہ کیلنڈر ایونٹ سے تمام مرموز کردہ فائلز کو ہٹا دیتا ہے</string>
+    <string name="remove_encryption_failure_notification">خرابی کی اطلاع ہٹائیں</string>
+    <string name="remove_notification_content_description">اطلاع ہٹائیں</string>
+    <string name="remove_period">مدت ہٹائیں</string>
+    <string name="repeats_daily_label">روزانہ</string>
+    <string name="repeats_monthly_label">ہر مہینہ</string>
+    <string name="repeats_preamble">دہرایا جاتا ہے %s</string>
+    <string name="repeats_weekly_label">ہر ہفتہ</string>
+    <string name="repeats_yearly_label">ہر سال</string>
+    <string name="report_spam_dialog_content">\"%1$s\" کو اسپام کے بطور نشان زد کرنے سے ایونٹ آپ کے کیلنڈر (%2$s) سے بھی حذف ہو جائے گا۔</string>
+    <string name="report_spam_dialog_positive_action">اطلاع دیں</string>
+    <string name="report_spam_enable_known_senders_result_snackbar">آپ نے اس ایونٹ کی اسپام کے بطور اطلاع دی ہے اور مستقبل کے ارسال کنندگان کو مسدود کر دیا ہے</string>
+    <string name="report_spam_known_senders_content_link">ایونٹ کے دعوت ناموں کے بارے میں مزید جانیں</string>
+    <string name="report_spam_known_senders_content_summary">اس ایونٹ کو اسپام کے بطور نشان زد کرنے سے ایونٹ آپ کے کیلنڈر (%1$s) سے بھی حذف ہو جائے گا۔</string>
+    <string name="report_spam_known_senders_title">نامعلوم ارسال کنندگان کے دعوت ناموں کو مسدود کریں</string>
+    <string name="report_spam_result_snackbar">آپ نے اس ایونٹ کی اسپام کے بطور اطلاع دی ہے</string>
+    <string name="reschedule_action">دوبارہ شیڈول کریں</string>
+    <string name="reschedule_failed">خرابی پیدا ہوگئی۔ براہ کرم بعد میں دوبارہ کوشش کریں۔</string>
+    <string name="reschedule_started">%s کو منتقل ہو گیا</string>
+    <string name="reschedule_started_with_invites">%s کو ہٹا دیا گیا۔ اپ ڈیثس بھیج دیے جائیں گے۔</string>
+    <string name="reschedule_stop">کالعدم کریں</string>
+    <string name="reservation_for">%d کیلئے ریزرویشن</string>
+    <string name="response_inferred_location_explanation">میرے کام کرنے کا مقام تبدیل ہونے کی صورت میں میرے شامل ہونے کا طریقہ خودکار طور پر تبدیل ہو جاتا ہے</string>
+    <string name="response_invited">جواب نہیں دیا</string>
+    <string name="response_maybe">شاید</string>
+    <string name="response_no">نہیں</string>
+    <string name="response_status">جواب: %s</string>
+    <string name="response_yes">ہاں</string>
+    <string name="response_yes_meeting_room">ہاں، میٹنگ کے کمرے میں</string>
+    <string name="response_yes_unknown">ہاں</string>
+    <string name="response_yes_virtually">ہاں، ورچوئل طور پر شامل ہو رہا ہے</string>
+    <string name="restart_device_dialog_text">بدقسمتی سے، ایک مسئلہ کیلنڈر ایپ کو شروع ہونے سے روک رہا ہے۔ اسے حل کرنے کیلئے براہ کرم اپنے آلہ کو دوبارہ شروع کریں۔</string>
+    <string name="room_booking_all_results">تمام نتائج</string>
+    <string name="room_booking_duration_too_short_title">جب وقت اختتام وقت آغاز پر یا اس سے پہلے ہو تو ایونٹس میں کمرے شامل نہیں کیے جا سکتے</string>
+    <string name="room_booking_empty_result_body">تمام کمرے آپ کی میٹنگ کیلئے غیر دستیاب ہیں۔</string>
+    <string name="room_booking_empty_result_title">کوئی دستیاب کمرے نہیں</string>
+    <string name="room_booking_filter_change_button">تبدیل کریں</string>
+    <string name="room_booking_footer_filter_text_room_for_future_events">آئندہ ایونٹس کیلئے کمرے دکھائیں</string>
+    <string name="room_booking_footer_filter_text_room_for_this_event">اس ایونٹس کے لیے کمرے دکھائیں</string>
+    <string name="room_booking_hierarchy_other">دیگر</string>
+    <string name="room_booking_no_rooms_result_body">کوئی بھی کمرہ آپ کے تلاش کے معیار پر پورا نہیں اترا۔</string>
+    <string name="room_booking_no_rooms_result_title">کوئی کمرہ نہیں ملا</string>
+    <string name="room_booking_offline_body">دستیاب کمرے لوڈ نہیں ہو سکتے۔</string>
+    <string name="room_booking_offline_title">کوئی کنکشن نہیں ہے</string>
+    <string name="room_booking_pagination_error">کوئی کنکشن نہیں ہے</string>
+    <string name="room_booking_remove_room_button_label">کمرہ ہٹائیں</string>
+    <string name="room_booking_search_hint">تمام کمرے تلاش کریں</string>
+    <string name="room_booking_selected_rooms_collapse">کم دکھائیں</string>
+    <string name="room_booking_selected_rooms_expand">مزید دکھائیں</string>
+    <string name="room_booking_title">کمرہ بک کرنے والی اسکرین</string>
+    <string name="room_details_screen_label">کمرے کی تفصیلات</string>
+    <string name="room_location_compound">%1$s • %2$s</string>
+    <string name="room_more_info">کمرے کی تفصیلات دیکھیں</string>
+    <string name="rsvp_accepted">ہاں میں جواب دیا۔</string>
+    <string name="rsvp_declined">نہیں میں جواب دیا۔</string>
+    <string name="rsvp_location_promo_body_text">دوسروں کو بتائیں کہ آپ کس طرح شامل ہوں گے۔</string>
+    <string name="rsvp_location_promo_header_text">‏RSVP کے نئے اختیارات</string>
+    <string name="rsvp_tentative">شاید میں جواب دیا۔</string>
+    <string name="save">محفوظ کریں</string>
+    <string name="saving">محفوظ کیا جا رہا ہے…</string>
+    <string name="saving_event">ایونٹ محفوظ کر دیا گیا۔</string>
+    <string name="saving_event_with_guest">اپ ڈیٹس بھیج دیے جائیں گے۔</string>
+    <string name="scope_selection_all_instances">سبھی ایونٹس</string>
+    <string name="scope_selection_all_instances_tasks">سبھی ٹاسکس</string>
+    <string name="scope_selection_following_instances">یہ اور آئندہ کے ایونٹس</string>
+    <string name="scope_selection_following_instances_reminders">یہ اور آئندہ کی یاددہانیاں</string>
+    <string name="scope_selection_following_instances_tasks">یہ اور آئندہ کے ٹاسکس</string>
+    <string name="scope_selection_this_instance">یہ ایونٹ</string>
+    <string name="scope_selection_this_instance_reminder">یہ یاد دہانی</string>
+    <string name="scope_selection_this_instance_task">یہ ٹاسک</string>
+    <string name="scope_selection_weekly_routine_weekday_range_working_location">ہر %1$s کو %2$s سے شروع ہوتا ہے</string>
+    <string name="search">تلاش کریں</string>
+    <string name="search_hint">تلاش کریں</string>
+    <string name="search_title">میرے کیلنڈرز کی تلاش کریں</string>
+    <string name="searching">تلاش کر رہا ہے</string>
+    <string name="self_view_format_string">%s (آپ)</string>
+    <string name="send_anyway">بہر حال اشتراک کریں</string>
+    <string name="settings_auto_add_conferencing_disabled">صرف منتظمین اس ترتیب کو تبدیل کر سکتے ہیں</string>
+    <string name="settings_auto_add_conferencing_label">‏میرے تخلیق کئے جانے والے ایونٹس میں خودکار طور پر Google Meet ویڈیو کانفرنسز شامل کریں</string>
+    <string name="settings_auto_add_conferencing_title_spinner">ویڈیو کانفرنسنگ شامل کریں</string>
+    <string name="settings_birthday_contact">رابطے</string>
+    <string name="settings_birthday_label">"‏‎Google+‎ سالگرہیں صرف 'آپ کے حلقوں' میں موجود رابطوں سے آتی ہیں۔"</string>
+    <string name="settings_default_event_duration_label">"‏یہ نئے تخلیق شدہ ایونٹ کیلئے ڈیفالٹ دورانیہ ہے۔
+غیر Google اکاؤنٹس کیلئے ڈیفالٹ 1 گھنٹہ ہے۔"</string>
+    <string name="settings_default_event_duration_title_spinner">ڈیفالٹ ایونٹ کا دورانیہ</string>
+    <string name="settings_invitation_behavior_confirm_dialog_title">دعوتوں کو شامل کرنے کے طریقے کو تبدیل کریں؟</string>
+    <string name="settings_invitation_behavior_confirm_from_all_to_known_or_responded">"‏اس سے آپ کی پہلے ہی موصول کردہ دعوتیں متاثر نہیں ہوتی ہیں۔
+
+نامعلوم ارسال کنندگان کی جانب سے کسی بھی دعوت کے لیے آپ کو ای میلز موصول ہوں گی۔"</string>
+    <string name="settings_invitation_behavior_confirm_from_all_to_responded">"‏اس سے آپ کی پہلے ہی موصول کردہ دعوتیں متاثر نہیں ہوتی ہیں۔
+
+سبھی نئی دعوتوں کے لیے آپ کو ای میلز موصول ہوں گی۔"</string>
+    <string name="settings_invitation_behavior_confirm_other">اس سے آپ کی پہلے ہی موصول کردہ دعوتیں متاثر نہیں ہوتی ہیں۔</string>
+    <string name="settings_invitation_behavior_explainer_compact_link">سپام سے اپنے کیلنڈر کو محفوظ رکھنے کے بارے میں مزید جانیں</string>
+    <string name="settings_invitation_behavior_explainer_extended_link_general">"‏کیلنڈر کے دعوت ناموں کے بارے میں مزید جانیں
+"</string>
+    <string name="settings_invitation_behavior_explainer_extended_no_paragraph">"‏کیلنڈر ان ایونٹس کو ڈسپلے کرے گا جن کے لیے آپ کو مدعو کیا گیا ہے۔ آپ اس ترتیب کے ساتھ دعوت ناموں کو شامل کرنے کا طریقہ تبدیل کر سکتے ہیں۔
+"</string>
+    <string name="settings_invitation_behavior_hide_invitations_from_others">اگر دوسروں کے پاس میرے ایونٹس دیکھنے یا ترمیم کرنے کی اجازت ہو تو انہیں سبھی دعوتیں دیکھنے دیں</string>
+    <string name="settings_invitation_behavior_option_from_all">سب کی جانب سے</string>
+    <string name="settings_invitation_behavior_option_from_known">صرف اس صورت میں جب ارسال کنندہ معلوم ہو</string>
+    <string name="settings_invitation_behavior_option_responded">میرے ای میل میں دعوت نامے کا جواب دینے پر</string>
+    <string name="settings_invitation_behavior_setting_title">میرے کیلنڈر میں دعوت نامے شامل کریں</string>
+    <string name="settings_invitation_behavior_title">دعوتیں شامل کی جا رہی ہیں</string>
+    <string name="settings_invitation_permission_explainer_extended">اپنے آلے کی اجازتیں چیک کریں۔ غیر بھروسہ مند فریق ثالث کی ایپس کو اپنے کیلنڈر میں ایونٹس شامل کرنے سے روکیں۔</string>
+    <string name="share_action">اشتراک کریں</string>
+    <string name="share_conference_details_description">کانفرنس کی تفصیلات کا اشتراک کریں</string>
+    <string name="share_event_link">دوسروں کے ساتھ اشتراک کریں</string>
+    <string name="shared_task_description">دوسرے وہ تبدیلیاں دیکھ سکتے ہیں جو آپ اس ٹاسک میں کرتے ہیں</string>
+    <string name="shared_tasks_delete_learn_more">اشتراک کردہ ٹاسکس کو حذف کرنے کے بارے میں مزید جانیں</string>
+    <string name="shared_tasks_unassign_learn_more">اشتراک کردہ ٹاسکس کو غیر تفویض کرنے کے بارے میں مزید جانیں</string>
+    <string name="sharing_to_chat_disclaimer">%1$s گفتگو کو چیٹ میں اشتراک کرنا</string>
+    <string name="sheet_collapsed">ایڈیٹر شیٹ سکیڑ دی گئی</string>
+    <string name="sheet_expanded">ایڈیٹر شیٹ پھیلا دی گئی</string>
+    <string name="show_all_rooms">تمام کمرے دکھائیں</string>
+    <string name="show_all_rooms_in_building">سبھی کمرے دکھائیں</string>
+    <string name="show_calendars">کیلنڈرز دکھائیں</string>
+    <string name="show_more">مزید دکھائیں</string>
+    <string name="sign_in_cancel">منسوخ کریں</string>
+    <string name="signed_in_as">بطور %1$s سائن ان ہے</string>
+    <string name="smart_rsvp_bottom_bar_toggle_label">فالو اپ کی کارروائیاں</string>
+    <string name="smart_rsvp_location_promo_body_text">ڈیفالٹ کو اپنے کام کرنے کے مقام پر سیٹ کرتا ہے</string>
+    <string name="smartmail_airline_flight">%1$s پرواز %2$s</string>
+    <string name="smartmail_airport_search">ہوائی اڈہ %s</string>
+    <string name="smartmail_arrives">آمد: %1$s</string>
+    <string name="smartmail_bus">بس %1$s</string>
+    <string name="smartmail_change_visibility_change_all_button_text">سبھی تبدیل کریں</string>
+    <string name="smartmail_change_visibility_change_new_button_text">صرف نئے ایونٹس بدلیں</string>
+    <string name="smartmail_change_visibility_dialog_text">‏کیا آپ Gmail سے ان ایونٹس کی مرئیت کو تبدیل کرنا چاہتے ہیں جو پہلے سے ہی آپ کے کیلنڈر میں ہیں؟</string>
+    <string name="smartmail_departs">روانگی: %1$s</string>
+    <string name="smartmail_duration">دورانیہ: %1$s</string>
+    <string name="smartmail_duration_hours">%d گھنٹے</string>
+    <string name="smartmail_duration_hours_minutes">%1$d گھنٹہ %2$d منٹ</string>
+    <string name="smartmail_duration_minutes">%d منٹ</string>
+    <string name="smartmail_flight_arrival">آمد: %1$s %2$s</string>
+    <string name="smartmail_flight_arrives">آمد %1$s %2$s</string>
+    <string name="smartmail_flight_delayed">تاخیر کا شکار</string>
+    <string name="smartmail_flight_departs">‏روانگی ‎%1$s %2$s</string>
+    <string name="smartmail_flight_departure">روانگی: %1$s %2$s</string>
+    <string name="smartmail_flight_duration">پرواز کی مدت: %1$s</string>
+    <string name="smartmail_flight_gate">گیٹ %s</string>
+    <string name="smartmail_flight_landed">لینڈ کر گئی</string>
+    <string name="smartmail_flight_terminal">ٹرمینل %s</string>
+    <string name="smartmail_seat_row">قطار %s</string>
+    <string name="smartmail_seat_section">سیکشن %s</string>
+    <string name="smartmail_toggle_label">‏Gmail سے ایونٹس دکھائیں</string>
+    <string name="smartmail_train">ٹرین %1$s</string>
+    <string name="smartmail_train_platform">پلیٹ فارم: %1$s</string>
+    <string name="smartmail_updated_toggle_off_dialog_text">"‏پہلے سے شامل کردہ ایونٹس سمیت آپ کی ای میل سے خودکار طور پر تخلیق کردہ ایونٹس آپ کو مزید نظر نہیں آئیں گےn
+‏Gmail کو ان ایونٹس کی تخلیق سے روکنے کیلئے آپ کو Gmail کی ترتیبات میں "<b>اسمارٹ خصوصیات اور ذاتی نوعیت سازی</b> کو بھی آف کرنا ہوگا</string>
+    <string name="smartmail_updated_toggle_on_dialog_text">"‏آپ کو اپنی ای میل سے خودکار طور پر تخلیق کردہ ایونٹس دکھائی دیں گے، جیسے کہ سفر اور ریسٹورنٹ کی ریزرویشنزn
+‏Gmail کی خاطر ان ایونٹس کو تخلیق کرنے کیلئے آپ کو Gmail کی ترتیبات میں "<b>اسمارٹ خصوصیات اور ذاتی نوعیت سازی</b> کو بھی آن کرنا ہوگا</string>
+    <string name="smartmail_visibility_label">ای میل ایونٹس کی رازداری</string>
+    <string name="snack_bar_cross_profile_permissions_change_action">تبدیل کریں</string>
+    <string name="snack_bar_cross_profile_permissions_granted">ذاتی کیلنڈرز اب دکھائے گئے ہیں</string>
+    <string name="snack_bar_cross_profile_permissions_revoked">ذاتی کیلنڈرز مزید نہیں دکھائے گئے</string>
+    <string name="snooze_allday_snackbar">%s کے لیے ٹاسک دوبارہ شیڈول کیا گیا</string>
+    <string name="snooze_custom">حسب ضرورت</string>
+    <string name="snooze_later_today">آج بعد میں (%s)</string>
+    <string name="snooze_later_today_snackbar">%s تک کے لیے ٹاسک کو دوبارہ شیڈول کیا گیا</string>
+    <string name="snooze_next_week">اگلے ہفتے</string>
+    <string name="snooze_snackbar">ٹاسک %2$s کو%1$s کے لیے دوبارہ شیڈول کیا گیا</string>
+    <string name="snooze_this_weekend">اس ویک اینڈ پر</string>
+    <string name="snooze_tomorrow">آئندہ کل</string>
+    <string name="snooze_tomorrow_allday_snackbar">کل کے لیے ٹاسک دوبارہ شیڈول کیا گیا</string>
+    <string name="snooze_tomorrow_snackbar">ٹاسک کل %s کے لیے دوبارہ شیڈول کیا گیا</string>
+    <string name="some_calendars_cannot_be_shown">کچھ کیلنڈرز کو دکھایا نہیں جا سکتا</string>
+    <string name="strip_note_formatting_prompt">نوٹس میں ترمیم کرنے کے نتیجے میں فارمیٹنگ اور طرزیں ضائع ہو جائیں گے۔</string>
+    <string name="strip_note_formatting_prompt_continue">ترمیم جاری رکھیں</string>
+    <string name="sub_day_working_location_promo_body_text">اب آپ دوسروں کو بتا سکتے ہیں کہ آیا آپ ایک سے زیادہ جگہوں سے کام کر رہے ہیں</string>
+    <string name="sub_day_working_location_promo_header_text">ہر دن کام کرنے کے متعدد مقامات سیٹ کریں</string>
+    <string name="subscribe_to_calendar_confirmation_title">اپنے اکاؤنٹ میں \"%s\" کیلنڈر شامل کریں؟</string>
+    <string name="subscribe_to_calendar_picker_title">وہ اکاؤنٹ منتخب کریں جس میں آپ \"%s\" کیلنڈر شامل کرنا چاہتے ہیں</string>
+    <string name="subscription_cancel">منسوخ کریں</string>
+    <string name="subscription_failed_calendar_no_longer_exists">کیلنڈر مزید موجود نہیں ہے۔</string>
+    <string name="subscription_failed_no_access_to_calendar">آپ کو اس کیلنڈر تک رسائی حاصل نہیں ہے۔</string>
+    <string name="sud_back_button_label">پیچھے جائیں</string>
+    <string name="sud_more_button_label">مزید</string>
+    <string name="sud_next_button_label">آگے جائیں</string>
+    <string name="suggest_time_best_times">بہترین اوقات</string>
+    <string name="suggest_time_everyone_is_busy_subtitle">بہتر نتائج حاصل کرنے کے لیے تاریخ یا دورانیہ تبدیل کریں</string>
+    <string name="suggest_time_everyone_is_busy_title">ہر شخص مصروف ہے</string>
+    <string name="suggest_time_generic_error_subtitle">کیلنڈرز لوڈ نہیں ہو سکے۔ براہ کرم بعد میں دوبارہ کوشش کریں۔</string>
+    <string name="suggest_time_label">تجویز کردہ اوقات</string>
+    <string name="suggest_time_no_access_subtitle">آپ کو کسی مہمان کے کیلنڈر تک رسائی حاصل نہیں ہے۔</string>
+    <string name="suggest_time_no_suggestions_title">کوئی تجویز نہیں</string>
+    <string name="suggest_time_not_considered">ان کو مد نظر نہیں رکھا گیا: %1$s</string>
+    <string name="summary_collapsed_preference_list">%1$s، %2$s</string>
+    <string name="survey_account_and_system_info">اکاؤنٹ اور سسٹم کی معلومات</string>
+    <string name="survey_app_id">ایپ Id</string>
+    <string name="survey_app_name">ایپ کا نام</string>
+    <string name="survey_app_version">ایپ ورژن</string>
+    <string name="survey_application_data">ایپلیکیشن ڈیٹا</string>
+    <string name="survey_brand">برانڈ</string>
+    <string name="survey_close_button_description">بند کریں</string>
+    <string name="survey_default_prompt_title">براہ کرم Google کو بہتر بنانے میں ہماری مدد کریں۔</string>
+    <string name="survey_device_model">آلہ کا ماڈل</string>
+    <string name="survey_email_address">ای میل پتہ</string>
+    <string name="survey_google_play_services_version">Google Play سروسز کا ورژن</string>
+    <string name="survey_legal_text">جاری رکھ کر آپ Google کے ہماری %2$s اور %3$s کے مطابق سروسز میں بہتری لانے کے لیے اپنے جوابات اور %1$s کے استعمال سے اتفاق کرتے ہیں</string>
+    <string name="survey_legal_text_car">جاری رکھنے سے، Google سروسز کو بہتر بنانے کے لیے آپ کے جوابات ، اکاؤنٹ اور سسٹم کی معلومات کا استعمال کرسکتا ہے۔ رازداری اور شرائط کے لیے اکاؤنٹ کی پروفائل دیکھیں</string>
+    <string name="survey_library_version">لائبریری ورژن</string>
+    <string name="survey_network_request_failed">نیٹ ورک کی درخواست ناکام ہوگئی</string>
+    <string name="survey_neutral">نہ تو مطمئن نہ ہی غیر مطمئن</string>
+    <string name="survey_next">آگے</string>
+    <string name="survey_num_rating">%1$s میں سے%2$s ہے</string>
+    <string name="survey_ok">ٹھیک ہے</string>
+    <string name="survey_open_text_hint">اپنے تبصرے یہاں درج کریں</string>
+    <string name="survey_open_text_no_pii">ذاتی معلومات شامل نہ کریں</string>
+    <string name="survey_operating_system">آپریٹنگ سسٹم</string>
+    <string name="survey_operating_system_version">آپریٹنگ سسٹم کا ورژن</string>
+    <string name="survey_other_option_hint">دیگر (براہ کرم تعین کریں)</string>
+    <string name="survey_platform">پلیٹ فارم</string>
+    <string name="survey_privacy">رازداری</string>
+    <string name="survey_prompt_no_thanks">نہیں شکریہ</string>
+    <string name="survey_prompt_take_our_survey">سوال دکھائیں</string>
+    <string name="survey_smiley_rating">%1$s میں سے %2$s: سمائلی %3$s ہے</string>
+    <string name="survey_somewhat_dissatisfied">کسی حد تک غیر مطمئن</string>
+    <string name="survey_somewhat_satisfied">کسی حد تک مطمئن</string>
+    <string name="survey_submit">جمع کرائیں</string>
+    <string name="survey_system_info_dialog_title">اکاؤنٹ اور سسٹم کی معلومات</string>
+    <string name="survey_terms">شرائط۔</string>
+    <string name="survey_thank_you_followup_message">مزید سوالات کا جواب دے کر ہمارے پروڈکٹ کو بہتر بنانے میں ہماری مدد کریں</string>
+    <string name="survey_timezone_offset">ٹائم زون آفسیٹ</string>
+    <string name="survey_url">URL</string>
+    <string name="survey_user_agent">صارف کا ایجنٹ</string>
+    <string name="survey_very_dissatisfied">بہت غیر مطمئن</string>
+    <string name="survey_very_satisfied">بہت مطمئن</string>
+    <string name="switch_account_button">اکاؤنٹ سوئچ کریں</string>
+    <string name="sync_device_offline">کوئی کنکشن نہیں ہے</string>
+    <string name="sync_disabled_dialog_button_negative">@string/missing_permissions_dialog_button_negative</string>
+    <string name="sync_disabled_dialog_button_positive">فعال کریں</string>
+    <string name="sync_disabled_dialog_text">آپ کے کچھ ذاتی اکاؤنٹس کے لیے مطابقت پذیری آف ہے۔ آپ جو تبدیلیاں کریں گے ان کا بیک اپ نہیں لیا جائے گا۔</string>
+    <string name="sync_disabled_dialog_title">مطابقت پذیری فعال کریں</string>
+    <string name="sync_error">مطابقت پذیری کی خرابی</string>
+    <string name="sync_indicator_channel_name">پس منظر کی مطابقت پذیری</string>
+    <string name="sync_notification_text">کیلنڈر مطابقت پذیر ہو رہا ہے</string>
+    <string name="sync_off_notification_action_dismiss">مسترد کریں</string>
+    <string name="sync_off_notification_action_enable_sync">مطابقت پذیری فعال کریں</string>
+    <string name="sync_off_notification_message_account">%s کیلئے مطابقت پذیری آف ہے۔ اس کیلنڈر میں کی گئی تبدیلیوں کا بیک اپ نہیں لیا جائے گا۔</string>
+    <string name="sync_off_notification_message_accounts">کچھ اکاؤنٹس کیلئے مطابقت پذیری آف ہے۔ آپ کی جانب سے کی جانے تبدیلیوں کا بیک اپ نہیں لیا جائے گا۔</string>
+    <string name="sync_off_notification_message_device">اس آلہ پر خود کار مطابقت پذیری آف ہے۔ آپ کی جانب سے یہاں یا دیگر ایپس میں کی جانے والی تبدیلیوں کا بیک اپ نہیں لیا جائے گا۔</string>
+    <string name="sync_off_notification_message_general">مطابقت پذیری آف ہے۔ آپ کی جانب سے کی جانے تبدیلیوں کا بیک اپ نہیں لیا جائے گا۔</string>
+    <string name="talkback_activity_title">%s کیلئے رابطہ کی معلومات</string>
+    <string name="talkback_activity_title_no_id">رابطہ کی معلومات</string>
+    <string name="talkback_find_time_grid_showing_fragment">کیلنڈر گرڈ میں وقت کی تجویز دکھائی جا رہی ہے</string>
+    <string name="talkback_find_time_suggestion_chip">وقت کی تجویز</string>
+    <string name="task">ٹاسک</string>
+    <string name="task_action_mark_completed">\"مکمل\" مارک کریں</string>
+    <string name="task_action_mark_incomplete">بطور نامکمل نشان زد کریں</string>
+    <string name="task_assigned_to_user">نے آپ کو تفویض کیا</string>
+    <string name="task_completed">ٹاسک مکمل ہو گیا۔</string>
+    <string name="task_creation_cancellation_message">اس ٹاسک کو مسترد کریں؟</string>
+    <string name="task_delete_for_doc_confirmation_dialog_description">اس سے دستاویز سے ٹاسک بھی حذف ہو جائے گا۔ چیک لسٹ آئٹم اب بھی دکھائی دے سکتا ہے لیکن آپ کو مزید تفویض نہیں کیا جائے گا۔</string>
+    <string name="task_delete_for_space_confirmation_dialog_delete_button">حذف کریں</string>
+    <string name="task_delete_for_space_confirmation_dialog_description">اس ٹاسک کو حذف کرنے سے یہ اسپیس کی فہرست سے بھی حذف ہو جائے گا۔ اسے اسپیس کی فہرست میں رکھنے کے لیے، اس کے بجائے اپنے آپ سے اسے غیر تفویض کریں۔</string>
+    <string name="task_delete_for_space_confirmation_dialog_unassign_button">غیر تفویض کریں</string>
+    <string name="task_description_hint">تفصیلات شامل کریں</string>
+    <string name="task_description_prefix">ٹاسک:</string>
+    <string name="task_done_description_prefix">مکمل کردہ ٹاسک:</string>
+    <string name="task_edit_cancellation_message">اس ٹاسک میں تبدیلیاں مسترد کریں؟</string>
+    <string name="task_empty_title">یاددہانی کا عنوان خالی نہیں رہ سکتا۔</string>
+    <string name="task_from_chat_title">نامعلوم چیٹ</string>
+    <string name="task_from_comment_default_title">تبصرے سے</string>
+    <string name="task_from_docs_default_title">ایک دستاویز سے</string>
+    <string name="task_from_drawings_default_title">ڈرائنگ سے</string>
+    <string name="task_from_gmail_thread_title">متعلقہ ای میل دیکھیں</string>
+    <string name="task_from_sheets_default_title">شیٹ سے</string>
+    <string name="task_from_slides_default_title">سلائیڈ سے</string>
+    <string name="task_from_space_title">نامعلوم اسپیس</string>
+    <string name="task_info_title">ٹاسک دیکھیں</string>
+    <string name="task_no_title_placeholder">(ٹاسک — کوئی عنوان نہیں)</string>
+    <string name="task_not_found">یاد دہانی نہیں ملی۔</string>
+    <string name="task_notification_channel">‏Tasks کی اطلاعات</string>
+    <string name="task_recurrence_stop_confirmation_dialog_action">دہرانا بند کریں</string>
+    <string name="task_recurrence_stop_confirmation_dialog_description">"‏مستقبل کی سبھی موجودگیوں کو ہٹائیں؟
+آپ اس ٹاسک کو دوبارہ دہرا نہیں سکیں گے۔"</string>
+    <string name="task_recurrence_stop_confirmation_dialog_title">اس ٹاسک کو دہرانا بند کریں</string>
+    <string name="task_snooze_label">دوبارہ شیڈول کریں</string>
+    <string name="task_unassign_confirmation_dialog_action">غیر تفویض اور محفوظ کریں</string>
+    <string name="task_unassign_confirmation_dialog_description">اس سے ٹاسک آپ کے ذاتی ٹاسک کی فہرست سے ہٹ جاتا ہے۔ آپ اسے اب بھی اسپیس کے ٹاسک کی فہرست میں تلاش کر سکتے ہیں۔</string>
+    <string name="task_unassign_confirmation_dialog_title">غیر تفویض اور محفوظ کریں؟</string>
+    <string name="task_unassign_content_description">ٹاسک کی تفویض ختم کریں</string>
+    <string name="task_uncompleted">ٹاسک نامکمل کے طور پر نشان زد کیا گیا۔</string>
+    <string name="tasks_brickswitch_dialog_description">شیڈول کردہ ٹاسکس کو تخلیق کرنے اور دیکھنے کے لیے، کیلنڈر کو اپ ڈیٹ کریں۔</string>
+    <string name="tasks_brickswitch_dialog_title">ٹاسکس کو استعمال کرنے کے لیے کیلنڈر اپ ڈیٹ کریں</string>
+    <string name="tasks_brickswitch_snackbar">شیڈول کردہ ٹاسکس کو تخلیق کرنے اور دیکھنے کے لیے کیلنڈر کو اپ ڈیٹ کریں۔</string>
+    <string name="tasks_calendar_item_tooltip_description">ٹاسکس کے کیلنڈر میں ظاہر نہ ہونے پر بھی آپ کو ان کے لیے مطلع کیا جائے گا۔ آپ ترتیبات میں اسے تبدیل کر سکتے ہیں۔</string>
+    <string name="tasks_calendar_item_tooltip_title">‏Tasks کی اطلاعات ابھی بھی آن ہیں</string>
+    <string name="tasks_calendar_name">ٹاسکس</string>
+    <string name="tasks_killswitch_dialog_description">ٹاسکس کو تخلیق کرنے اور دیکھنے کے لئے آپ کیلنڈر ایپ کا یہ ورژن استعمال نہیں کر سکتے ہیں۔</string>
+    <string name="tasks_killswitch_dialog_title">ٹاسکس دستیاب نہیں ہیں</string>
+    <string name="tasks_killswitch_snackbar">کیلنڈر ایپ کے اس ورژن میں ٹاسکس دستیاب نہیں ہیں۔</string>
+    <string name="tasks_promo_body_text">کیلنڈر میں براہ راست تخلیق کریں، دیکھیں اور ٹاسکس میں ترمیم کریں</string>
+    <string name="tasks_promo_header_text">چلتے پھرتے ٹاسکس</string>
+    <string name="tasks_report_spam_dialog_button">بطور اسپام اطلاع دیں</string>
+    <string name="tasks_report_spam_dialog_title">ٹاسک کی اسپام کے بطور اطلاع دیں؟</string>
+    <string name="tasks_report_spam_message">اس ٹاسک کو بطور اسپام نشان زد کرنے سے ٹاسک آپ کی فہرست سے بھی حذف ہو جائے گا۔</string>
+    <string name="tasks_report_spam_snackbar">ٹاسک کی اسپام کے طور پر اطلاع دی گئی</string>
+    <string name="tasks_rollover_dialog_information_menu_item">معلومات</string>
+    <string name="tasks_rollover_dialog_title">زیر التوا ٹاسکس</string>
+    <string name="tasks_rollover_information_text">"‏آپ کے پچھلے 30 دنوں کی تاریخوں کے ساتھ نامکمل ٹاسکس یہاں ڈسپلے کئے جاتے ہیں۔
+
+ٹاسکس کی مرئیت کو آپ کے کیلنڈر کی ترتیبات میں تبدیل کیا جا سکتا ہے۔"</string>
+    <string name="tasks_sync_adapter">کیلنڈر میں ٹاسکس</string>
+    <string name="tentatively_accept_scope_selection_title">عارضی طور پر اعادی ایونٹ قبول کریں</string>
+    <string name="terms_of_service">سروس کی شرائط</string>
+    <string name="the_day_before_at">‏ایک دن پہلے بوقت ‎%s</string>
+    <string name="time_in_past">گزر ہوا وقت منتخب نہیں کیا جا سکتا ہے۔</string>
+    <string name="timed_reminder_after">شروع ہونے کے %s بعد</string>
+    <string name="timed_reminder_time">%s پہلے</string>
+    <string name="timely_chip_multi_day_count">%1$s (دن %2$d/%3$d)</string>
+    <string name="timely_chip_time_location">%1$s بمقام %2$s</string>
+    <string name="timely_chip_until">%s تک</string>
+    <string name="title_hint">عنوان شامل کریں</string>
+    <string name="today">آج</string>
+    <string name="today_at_time_fmt_lowercase">آج بوقت %s</string>
+    <string name="today_lowercase">آج کا دن</string>
+    <string name="today_template">آج، %s</string>
+    <string name="toll">ٹول</string>
+    <string name="toll_free">ٹول فری</string>
+    <string name="tomorrow">آئندہ کل</string>
+    <string name="tomorrow_at_time_fmt_lowercase">آئندہ کل بوقت %s</string>
+    <string name="tomorrow_lowercase">آئندہ کل</string>
+    <string name="too_many_participant_details">چیٹ روم کیلئے بہت سارے مہمانان ہیں۔ اس کے بجائے آپ ایک خالی چیٹ شروع کر سکتے ہیں اور جن لوگوں کے ساتھ آپ چیٹ کرنا چاہتے ہیں انہیں شامل کر سکتے ہیں۔</string>
+    <string name="too_many_participant_start_chat">چیٹ شروع کريں</string>
+    <string name="try_again">دوبارہ کوشش کریں</string>
+    <string name="tz_picker_activity_label">ٹائم زون منتخب کنندہ</string>
+    <string name="tz_picker_country_with_abbreviation">%1$s (%2$s)</string>
+    <string name="tz_picker_country_with_city">%1$s، %2$s</string>
+    <string name="tz_picker_no_results_found">کوئی نتائج نہیں ملے</string>
+    <string name="tz_picker_search_hint">ایک علاقہ یا ٹائم زون درج کریں</string>
+    <string name="tz_picker_timezone_with_abbreviation">%1$s (%2$s)</string>
+    <string name="unable_to_add_calendar_message">کیلنڈر شامل نہیں کیا جا سکا۔</string>
+    <string name="unified_sync_toggle_label">‏‫Google کیلنڈر</string>
+    <string name="update">اپ ڈیٹ کریں</string>
+    <string name="update_event_action_prompt">موجودہ ایونٹ کو اپ ڈیٹ کیا جا رہا ہے</string>
+    <string name="v7_preference_off">آف ہے</string>
+    <string name="v7_preference_on">آن</string>
+    <string name="view_attachment">دیکھیں</string>
+    <string name="view_email">ماخذ ای میل دیکھیں</string>
+    <string name="view_in_keep">‏Keep میں دیکھیں</string>
+    <string name="view_in_tasks">‏Tasks ایپ میں دیکھیں</string>
+    <string name="view_more_phones">مزید فون نمبرز</string>
+    <string name="view_schedules">شیڈولز دیکھیں</string>
+    <string name="view_source">ماخذ دیکھیں</string>
+    <string name="view_subtasks">‏Google Tasks میں ذیلی ٹاسکس کا ملاحظہ کریں</string>
+    <string name="view_switcher">منظر کو سوئچ کرنے کا لیبل</string>
+    <string name="visibility_default">ڈیفالٹ مرئیت</string>
+    <string name="visibility_default_available">دستیاب</string>
+    <string name="visibility_default_busy">مصروف</string>
+    <string name="visibility_private">نجی</string>
+    <string name="visibility_private_available">نجی - دستیاب</string>
+    <string name="visibility_private_busy">نجی - مصروف</string>
+    <string name="visibility_public">عوامی</string>
+    <string name="visibility_public_available">عوامی - دستیاب</string>
+    <string name="visibility_public_busy">عوامی - مصروف</string>
+    <string name="visibility_secret">صرف میں</string>
+    <string name="warning">وارننگ</string>
+    <string name="week_header_template">%s کا ہفتہ</string>
+    <string name="week_header_template_week_number">ہفتہ %1$d، %2$s</string>
+    <string name="week_in_year_string">‎W%s‎</string>
+    <string name="week_view_label">ہفتہ</string>
+    <string name="week_view_label_full">ہفتے کا منظر</string>
+    <string name="weekday_buttons_label">ان دنوں میں دہرایا جاتا ہے</string>
+    <string name="weekly_by_day_simple_lower">%1$s کو ہفتہ وار</string>
+    <string name="weekly_simple_lower">ہفتہ وار</string>
+    <string name="widget_day_today">آج، %1$s</string>
+    <string name="widget_day_tomorrow">آئندہ کل، %1$s</string>
+    <string name="widget_description">اپنے ٹاسکس اور آئندہ ایونٹس ملاحظہ کریں</string>
+    <string name="widget_no_events_scheduled">کچھ بھی شیڈول کردہ نہیں ہے</string>
+    <string name="widgetmonth_description">ایک وقت میں اپنے کیلنڈر کا ایک ماہ دکھائیں</string>
+    <string name="work_profile_header_title">دفتری پروفائل</string>
+    <string name="working_hours_copy_time_text">سبھی پر وقت کاپی کریں</string>
+    <string name="working_hours_enable_text">کام کے اوقات فعال کریں</string>
+    <string name="working_hours_end">اختتام</string>
+    <string name="working_hours_help">لوگوں کو یہ اطلاع دینے کے لئے کن اوقات میں آپ کام کر رہے ہیں اور کب آپ میٹنگ کے لئے دستیاب ہیں، کام کے اوقات فعال کریں۔ اگر لوگ آپ کو ان اوقات کے علاوہ کسی میٹنگ میں مدعو کرتے ہیں تو انہیں وارننگ موصول ہوگی۔</string>
+    <string name="working_hours_set_text">کام کے اوقات سیٹ کریں</string>
+    <string name="working_hours_start">آغاز</string>
+    <string name="working_location_banner_accept_text">طریقہ دیکھیں</string>
+    <string name="working_location_banner_subtext">جب آپ ایک ہی دن مختلف مقامات پر کام کرتے ہیں تو اس کے لیے گھنٹے کے حساب سے کام کرنے کے مقامات سیٹ کریں</string>
+    <string name="working_location_banner_title">ہر دن کام کرنے کے متعدد مقامات سیٹ کریں</string>
+    <string name="working_location_creation_cancellation_message">اس کام کرنے کے مقام کو مسترد کریں؟</string>
+    <string name="working_location_edit_cancellation_message">اس کام کرنے کے مقام میں تبدیلیوں کو مسترد کریں؟</string>
+    <string name="working_location_info_title">کام کرنے کا مقام دیکھیں</string>
+    <string name="working_location_label">کام کرنے کا مقام</string>
+    <string name="working_location_promo_body_text">دوسروں کو بتائیں کہ آپ کہاں کام کر رہے ہیں اور ان کے لیے اپنے ساتھ وقت شیڈول کرنا آسان بنائیں</string>
+    <string name="working_location_promo_header_text">آسانی سے اپنے کام کرنے کے مقام کا اشتراک کریں</string>
+    <string name="working_location_title_placeholder">کام کرنے کا مقام</string>
+    <string name="working_location_title_with_location">کام کرنے کا مقام: %s</string>
+    <string name="yesterday">گزشتہ کل</string>
+    <string name="your_chip_label">آپ</string>
+</resources>

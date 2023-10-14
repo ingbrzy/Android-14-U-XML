@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_install_failed_multi_app_desc">
+        <item quantity="other">Не ўдалося завяршыць наладку праз збой усталёўкі %1$d абавязковай праграмы. Звярніцеся прама да сістэмнага адміністратара.</item>
+        <item quantity="one">Не ўдалося завяршыць наладку праз збой усталёўкі %1$d абавязковай праграмы. Звярніцеся прама да сістэмнага адміністратара.</item>
+        <item quantity="few">Не ўдалося завяршыць наладку праз збой усталёўкі %1$d абавязковых праграм. Звярніцеся прама да сістэмнага адміністратара.</item>
+        <item quantity="many">Не ўдалося завяршыць наладку праз збой усталёўкі %1$d абавязковых праграм. Звярніцеся прама да сістэмнага адміністратара.</item>
+    </plurals>
+    <plurals name="app_install_failure_title">
+        <item quantity="other">Не ўдалося ўсталяваць праграмы</item>
+        <item quantity="one">Не ўдалося ўсталяваць праграмы</item>
+        <item quantity="few">Не ўдалося ўсталяваць праграмы</item>
+        <item quantity="many">Не ўдалося ўсталяваць праграмы</item>
+    </plurals>
+    <plurals name="app_install_progress_desc">
+        <item quantity="other">Усталявана %1$d праграмы з %2$d</item>
+        <item quantity="one">Усталявана %1$d праграма з %2$d</item>
+        <item quantity="few">Усталявана %1$d праграмы з %2$d</item>
+        <item quantity="many">Усталявана %1$d праграм з %2$d</item>
+    </plurals>
+    <plurals name="app_uninstall_button">
+        <item quantity="other">Выдаліць праграмы</item>
+        <item quantity="one">Выдаліць праграмы</item>
+        <item quantity="few">Выдаліць праграмы</item>
+        <item quantity="many">Выдаліць праграмы</item>
+    </plurals>
+    <plurals name="days_left_message">
+        <item quantity="other">Засталося &lt;annotation id="numeric_time_left">^1&lt;/annotation> дня</item>
+        <item quantity="one">Застаўся &lt;annotation id="numeric_time_left">^1&lt;/annotation> дзень</item>
+        <item quantity="few">Засталося &lt;annotation id="numeric_time_left">^1&lt;/annotation> дні</item>
+        <item quantity="many">Засталося &lt;annotation id="numeric_time_left">^1&lt;/annotation> дзён</item>
+    </plurals>
+    <plurals name="hours_left_message">
+        <item quantity="other">Засталося &lt;annotation id="numeric_time_left">^1&lt;/annotation> гадзіны</item>
+        <item quantity="one">Засталася &lt;annotation id="numeric_time_left">^1&lt;/annotation> гадзіна</item>
+        <item quantity="few">Засталося &lt;annotation id="numeric_time_left">^1&lt;/annotation> гадзіны</item>
+        <item quantity="many">Засталося &lt;annotation id="numeric_time_left">^1&lt;/annotation> гадзін</item>
+    </plurals>
+    <plurals name="number_of_additional_apps">
+        <item quantity="other">%1$d дадатковай праграмы</item>
+        <item quantity="one">%1$d дадатковая праграма</item>
+        <item quantity="few">%1$d дадатковыя праграмы</item>
+        <item quantity="many">%1$d дадатковых праграм</item>
+    </plurals>
+    <plurals name="number_of_required_apps">
+        <item quantity="other">%1$d абавязковай праграмы</item>
+        <item quantity="one">%1$d абавязковая праграма</item>
+        <item quantity="few">%1$d абавязковыя праграмы</item>
+        <item quantity="many">%1$d абавязковых праграм</item>
+    </plurals>
+    <plurals name="policy_apps_list_summary">
+        <item quantity="other">Не ўдалося выдаліць %d працоўнай праграмы</item>
+        <item quantity="one">Не ўдалося выдаліць %d працоўную праграму</item>
+        <item quantity="few">Не ўдалося выдаліць %d працоўныя праграмы</item>
+        <item quantity="many">Не ўдалося выдаліць %d працоўных праграм</item>
+    </plurals>
+    <plurals name="preinstalled_apps">
+        <item quantity="other">Усталявана %1$d праграмы з %2$d</item>
+        <item quantity="one">Усталявана %1$d праграма з %2$d</item>
+        <item quantity="few">Усталявана %1$d праграмы з %2$d</item>
+        <item quantity="many">Усталявана %1$d праграм з %2$d</item>
+    </plurals>
+    <plurals name="readable_name_applications">
+        <item quantity="other">%1$d праграмы даступна (усталявана %2$d, выключана %3$d)</item>
+        <item quantity="one">%1$d праграма даступная (усталявана %2$d, выключана %3$d)</item>
+        <item quantity="few">%1$d праграмы даступныя (усталявана %2$d, выключана %3$d)</item>
+        <item quantity="many">%1$d праграм даступна (усталявана %2$d, выключана %3$d)</item>
+    </plurals>
+</resources>

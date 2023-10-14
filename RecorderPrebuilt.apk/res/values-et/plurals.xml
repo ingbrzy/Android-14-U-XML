@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dlg_message_deletion_confirmation">
+        <item quantity="other">Teie salvestised kustutatakse jäädavalt. Seda toimingut ei saa tagasi võtta.</item>
+        <item quantity="one">Teie salvestis kustutatakse jäädavalt. Seda toimingut ei saa tagasi võtta.</item>
+    </plurals>
+    <plurals name="dlg_message_deletion_permanent_confirmation">
+        <item quantity="other">Salvestised pole varundatud. Need kustutatakse jäädavalt. Seda toimingut ei saa tagasi võtta.</item>
+        <item quantity="one">Salvestist pole varundatud. See kustutatakse jäädavalt. Seda toimingut ei saa tagasi võtta.</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_confirmation">
+        <item quantity="other">Kas kustutada salvestised?</item>
+        <item quantity="one">Kas kustutada salvestis?</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_permanent_confirmation">
+        <item quantity="other">Kas kustutada need salvestised jäädavalt?</item>
+        <item quantity="one">Kas kustutada see salvestis jäädavalt?</item>
+    </plurals>
+    <plurals name="download_failure_description_storage_full">
+        <item quantity="other">Salvestisi ei saa alla laadida, kuna seadme salvestusruum on täis. Puudutage ülevaatamiseks.</item>
+        <item quantity="one">Seadme salvestusruum on täis. Puudutage ülevaatamiseks.</item>
+    </plurals>
+    <plurals name="downloading_description">
+        <item quantity="other">%1$d salvestise allalaadimine</item>
+        <item quantity="one">%1$d salvestise allalaadimine</item>
+    </plurals>
+    <plurals name="og_backup_failed_title">
+        <item quantity="other">%1$d üksuse varundamine ebaõnnestus</item>
+        <item quantity="one">%1$d üksuse varundamine ebaõnnestus</item>
+    </plurals>
+    <plurals name="og_backup_items_left">
+        <item quantity="other">Jäänud on %1$d üksust</item>
+        <item quantity="one">Jäänud on %1$d üksus</item>
+    </plurals>
+    <plurals name="og_backup_items_stopped_title">
+        <item quantity="other">%1$d üksust on varundamata</item>
+        <item quantity="one">%1$d üksus on varundamata</item>
+    </plurals>
+    <plurals name="peoplekit_chips_copied_recipients">
+        <item quantity="other">Kopeeriti %d adressaati</item>
+        <item quantity="one">Kopeeriti %d adressaat</item>
+    </plurals>
+    <plurals name="search_results_count">
+        <item quantity="other">%1$d tulemust</item>
+        <item quantity="one">%1$d tulemus</item>
+    </plurals>
+    <plurals name="search_results_position">
+        <item quantity="other">Tulemused: ^1/^2</item>
+        <item quantity="one">Tulemus: ^1/^2</item>
+    </plurals>
+    <plurals name="search_results_position_content_description">
+        <item quantity="other">%1$d tulemust %2$d-st</item>
+        <item quantity="one">%1$d tulemus %2$d-st</item>
+    </plurals>
+    <plurals name="selected_recording_quantity">
+        <item quantity="other">%1$d on valitud</item>
+        <item quantity="one">%1$d on valitud</item>
+    </plurals>
+    <plurals name="snackbar_message_download_failed_storage_full">
+        <item quantity="other">Seadme salvestusruum on täis. Salvestisi ei saa alla laadida.</item>
+        <item quantity="one">Seadme salvestusruum on täis. Salvestist ei saa alla laadida.</item>
+    </plurals>
+    <plurals name="speaker_count">
+        <item quantity="other">%1$d kõnelejat</item>
+        <item quantity="one">%1$d kõneleja</item>
+    </plurals>
+    <plurals name="uploading_description">
+        <item quantity="other">Laaditakse üles %1$d salvestist</item>
+        <item quantity="one">Laaditakse üles %1$d salvestis</item>
+    </plurals>
+</resources>

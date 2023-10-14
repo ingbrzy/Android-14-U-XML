@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120000">
+        <item quantity="other">Đang chờ kết nối Wi-Fi</item>
+        <item quantity="one">Đang chờ kết nối Wi-Fi</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120002">
+        <item quantity="other">Trên thiết bị này (%d ứng dụng)</item>
+        <item quantity="one">Trên thiết bị này (%d ứng dụng)</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120003">
+        <item quantity="other">Các tính năng cho %1$s</item>
+        <item quantity="one">Tính năng cho %1$s</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120004">
+        <item quantity="other">Cài đặt %d ngày trước</item>
+        <item quantity="one">Cài đặt %d ngày trước</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120005">
+        <item quantity="other">Cài đặt %d giờ trước</item>
+        <item quantity="one">Cài đặt %d giờ trước</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120006">
+        <item quantity="other">Cài đặt %d phút trước</item>
+        <item quantity="one">Cài đặt %d phút trước</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120007">
+        <item quantity="other">Đã chọn %1$d</item>
+        <item quantity="one">Đã chọn %1$d</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120008">
+        <item quantity="other">Cập nhật %d ngày trước</item>
+        <item quantity="one">Cập nhật %d ngày trước</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120009">
+        <item quantity="other">Cập nhật %d giờ trước</item>
+        <item quantity="one">Cập nhật %d giờ trước</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000a">
+        <item quantity="other">Cập nhật %d phút trước</item>
+        <item quantity="one">Cập nhật %d phút trước</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000b">
+        <item quantity="other">Lần sử dụng gần đây nhất: %d ngày trước</item>
+        <item quantity="one">Lần sử dụng gần đây nhất: %d ngày trước</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000c">
+        <item quantity="other">Lần sử dụng gần đây nhất: %d giờ trước</item>
+        <item quantity="one">Lần sử dụng gần đây nhất: %d giờ trước</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000d">
+        <item quantity="other">Lần sử dụng gần đây nhất: %d phút trước</item>
+        <item quantity="one">Lần sử dụng gần đây nhất: %d phút trước</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000f">
+        <item quantity="other">Đã quét ứng dụng %d ngày trước</item>
+        <item quantity="one">Đã quét ứng dụng %d ngày trước</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120010">
+        <item quantity="other">Đã quét ứng dụng %d giờ trước</item>
+        <item quantity="one">Đã quét ứng dụng %d giờ trước</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120011">
+        <item quantity="other">Đã quét ứng dụng %d phút trước</item>
+        <item quantity="one">Đã quét ứng dụng %d phút trước</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120014">
+        <item quantity="other">%1$d bài đánh giá</item>
+        <item quantity="one">%1$d bài đánh giá</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120015">
+        <item quantity="other">%1$d bài đánh giá với xếp hạng %2$d sao</item>
+        <item quantity="one">%1$d bài đánh giá với xếp hạng %2$d sao</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120016">
+        <item quantity="other">Cài đặt trên %1$d thiết bị.</item>
+        <item quantity="one">Cài đặt trên %1$d thiết bị.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120017">
+        <item quantity="other">Cài đặt trên %1$d thiết bị. Còn thiết bị khác.</item>
+        <item quantity="one">Cài đặt trên %1$d thiết bị. Còn thiết bị khác.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120018">
+        <item quantity="other">Ứng dụng này sắp được cài đặt trên %1$d thiết bị của bạn.</item>
+        <item quantity="one">Ứng dụng này sắp được cài đặt trên %1$d thiết bị của bạn.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120019">
+        <item quantity="other">Có thêm %1$d</item>
+        <item quantity="one">Có thêm %1$d</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001a">
+        <item quantity="other">Có thêm %1$d khi mua sản phẩm</item>
+        <item quantity="one">Có thêm %1$d khi mua sản phẩm</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001b">
+        <item quantity="other">%1$d ngày</item>
+        <item quantity="one">%1$d ngày</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001c">
+        <item quantity="other">Xếp hạng trung bình %1$s sao trong %2$s bài đánh giá</item>
+        <item quantity="one">Xếp hạng trung bình %1$s sao trong 1 bài đánh giá</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001d">
+        <item quantity="other">%s bài đánh giá</item>
+        <item quantity="one">1 bài đánh giá</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001e">
+        <item quantity="other">Bây giờ, bạn chỉ cần thực hiện %1$d bước nữa là sẽ trở thành nhà phát triển.</item>
+        <item quantity="one">Bây giờ, bạn chỉ cần thực hiện %1$d bước nữa là sẽ trở thành nhà phát triển.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001f">
+        <item quantity="other">ô tô</item>
+        <item quantity="one">ô tô</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120020">
+        <item quantity="other">Chromebook</item>
+        <item quantity="one">Chromebook</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120021">
+        <item quantity="other">thiết bị có thể gập lại</item>
+        <item quantity="one">thiết bị có thể gập lại</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120022">
+        <item quantity="other">điện thoại</item>
+        <item quantity="one">điện thoại</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120023">
+        <item quantity="other">máy tính bảng</item>
+        <item quantity="one">máy tính bảng</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120024">
+        <item quantity="other">TV</item>
+        <item quantity="one">TV</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120025">
+        <item quantity="other">thiết bị</item>
+        <item quantity="one">thiết bị</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120026">
+        <item quantity="other">đồng hồ</item>
+        <item quantity="one">đồng hồ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120027">
+        <item quantity="other">Bạn có %1$d điểm Play Points.</item>
+        <item quantity="one">Bạn có %1$d điểm Play Points.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120028">
+        <item quantity="other">%1$d giờ</item>
+        <item quantity="one">%1$d giờ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120029">
+        <item quantity="other">Còn %1$d giờ</item>
+        <item quantity="one">Còn 1 giờ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002a">
+        <item quantity="other">Đang cài đặt %1$d ứng dụng…</item>
+        <item quantity="one">Đang cài đặt %1$d ứng dụng…</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002b">
+        <item quantity="other">Cài đặt đã tạm dừng</item>
+        <item quantity="one">Cài đặt đã tạm dừng</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002c">
+        <item quantity="other">%1$d ứng dụng sẽ được cài đặt</item>
+        <item quantity="one">%1$d ứng dụng sẽ được cài đặt</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002d">
+        <item quantity="other">Lần cập nhật gần đây nhất: %d ngày trước</item>
+        <item quantity="one">Lần cập nhật gần đây nhất: %d ngày trước</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002e">
+        <item quantity="other">Lần cập nhật gần đây nhất: %d giờ trước</item>
+        <item quantity="one">Lần cập nhật gần đây nhất: %d giờ trước</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002f">
+        <item quantity="other">Lần cập nhật gần đây nhất: %d phút trước</item>
+        <item quantity="one">Lần cập nhật gần đây nhất: %d phút trước</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120033">
+        <item quantity="other">%1$d năm trước</item>
+        <item quantity="one">%1$d năm trước</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120034">
+        <item quantity="other">%1$d phút</item>
+        <item quantity="one">%1$d phút</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120035">
+        <item quantity="other">Còn %1$d phút</item>
+        <item quantity="one">Còn 1 phút</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120037">
+        <item quantity="other">Đã chọn %1$d</item>
+        <item quantity="one">Đã chọn %1$d</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120038">
+        <item quantity="other">Lưu trữ %1$d ứng dụng</item>
+        <item quantity="one">Lưu trữ %1$d ứng dụng</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120039">
+        <item quantity="other">Xoá các ứng dụng đã chọn?</item>
+        <item quantity="one">Xoá ứng dụng đã chọn?</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12003a">
+        <item quantity="other">Đã xoá %1$d ứng dụng</item>
+        <item quantity="one">Đã xoá %1$d ứng dụng</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12003d">
+        <item quantity="other">Đang chờ cài đặt %1$d ứng dụng</item>
+        <item quantity="one">Đang chờ cài đặt %1$d ứng dụng</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12003e">
+        <item quantity="other">Đang cài đặt %1$d ứng dụng</item>
+        <item quantity="one">Đang cài đặt %1$d ứng dụng</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120040">
+        <item quantity="other">%1$d bản cập nhật đang chờ xử lý</item>
+        <item quantity="one">%1$d bản cập nhật đang chờ xử lý</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120041">
+        <item quantity="other">Đang cập nhật %1$d ứng dụng</item>
+        <item quantity="one">Đang cập nhật %1$d ứng dụng</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120042">
+        <item quantity="other">Đã cài đặt %1$d ứng dụng</item>
+        <item quantity="one">Đã cài đặt %1$d ứng dụng</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120044">
+        <item quantity="other">Đã phát hành %1$d giờ trước</item>
+        <item quantity="one">Đã phát hành %1$d giờ trước</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120045">
+        <item quantity="other">Đã phát hành %1$d ngày trước</item>
+        <item quantity="one">Đã phát hành %1$d ngày trước</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120046">
+        <item quantity="other">Đã xóa ứng dụng</item>
+        <item quantity="one">Đã xóa ứng dụng</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120047">
+        <item quantity="other">%1$d bản cập nhật cần phê duyệt</item>
+        <item quantity="one">%1$d bản cập nhật cần phê duyệt</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120048">
+        <item quantity="other">%1$d bản cập nhật mới</item>
+        <item quantity="one">%1$d bản cập nhật mới</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120049">
+        <item quantity="other">Hiện có %1$d bản cập nhật</item>
+        <item quantity="one">Hiện có %1$d bản cập nhật</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004a">
+        <item quantity="other">Cập nhật tất cả</item>
+        <item quantity="one">Cập nhật</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004b">
+        <item quantity="other">%1$d ứng dụng được cập nhật</item>
+        <item quantity="one">%1$d ứng dụng được cập nhật</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004c">
+        <item quantity="other">Sẽ kết thúc sau %1$d giờ nữa</item>
+        <item quantity="one">Sẽ kết thúc sau %1$d giờ nữa</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004d">
+        <item quantity="other">Sẽ kết thúc sau %1$d nữa</item>
+        <item quantity="one">Sẽ kết thúc sau %1$d nữa</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004e">
+        <item quantity="other">%1$d phút</item>
+        <item quantity="one">%1$d phút</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004f">
+        <item quantity="other">%1$d giây</item>
+        <item quantity="one">%1$d giây</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120050">
+        <item quantity="other">Đã xóa ứng dụng cá nhân</item>
+        <item quantity="one">Đã xóa ứng dụng cá nhân</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120053">
+        <item quantity="other">Play Protect đã quét %d ngày trước</item>
+        <item quantity="one">Play Protect đã quét %d ngày trước</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120054">
+        <item quantity="other">Play Protect đã quét %d giờ trước</item>
+        <item quantity="one">Play Protect đã quét %d giờ trước</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120055">
+        <item quantity="other">Play Protect đã quét %d phút trước</item>
+        <item quantity="one">Play Protect đã quét %d phút trước</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120056">
+        <item quantity="other">%1$s điểm để duy trì hạng %2$s tới năm sau</item>
+        <item quantity="one">1 điểm để duy trì hạng %2$s tới năm sau</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120057">
+        <item quantity="other">%1$s điểm để lên hạng %2$s</item>
+        <item quantity="one">1 điểm để lên hạng %2$s</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120058">
+        <item quantity="other">Bạn vừa cấp quyền cài đặt hoặc cập nhật những ứng dụng không rõ nguồn gốc cho những ứng dụng này. Điều này có thể gây nguy hại cho thiết bị và thông tin cá nhân của bạn. Để ngăn chặn việc này, hãy từ chối quyền cài đặt.</item>
+        <item quantity="one">Bạn vừa cấp quyền cài đặt hoặc cập nhật những ứng dụng không rõ nguồn gốc cho ứng dụng này. Điều này có thể gây nguy hại cho thiết bị và thông tin cá nhân của bạn. Để ngăn chặn việc này, hãy từ chối quyền cài đặt.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120059">
+        <item quantity="other">Bạn vừa cấp quyền cài đặt hoặc cập nhật những ứng dụng không rõ nguồn gốc cho %1$d ứng dụng. Điều này có thể gây nguy hại cho thiết bị và thông tin cá nhân của bạn</item>
+        <item quantity="one">Bạn vừa cấp quyền cài đặt hoặc cập nhật những ứng dụng không rõ nguồn gốc cho 1 ứng dụng. Điều này có thể gây nguy hại cho thiết bị và thông tin cá nhân của bạn</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005a">
+        <item quantity="other">%1$d cảnh báo về quyền riêng tư</item>
+        <item quantity="one">1 cảnh báo về quyền riêng tư</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005b">
+        <item quantity="other">Tìm thấy %1$d ứng dụng có hại</item>
+        <item quantity="one">Tìm thấy 1 ứng dụng có hại</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005c">
+        <item quantity="other">%1$d thông báo về tình trạng bảo mật</item>
+        <item quantity="one">1 thông báo về tình trạng bảo mật</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005d">
+        <item quantity="other">%1$d bản cập nhật bảo mật</item>
+        <item quantity="one">1 bản cập nhật bảo mật</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005e">
+        <item quantity="other">Tìm thấy %1$d ứng dụng không an toàn</item>
+        <item quantity="one">Tìm thấy 1 ứng dụng không an toàn</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005f">
+        <item quantity="other">%1$d cảnh báo</item>
+        <item quantity="one">1 cảnh báo</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120060">
+        <item quantity="other">Tìm thấy một số ứng dụng không an toàn</item>
+        <item quantity="one">Tìm thấy 1 ứng dụng không an toàn</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120061">
+        <item quantity="other">Kết thúc sau %1$d giờ nữa</item>
+        <item quantity="one">Kết thúc sau %1$d giờ nữa</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120062">
+        <item quantity="other">Kết thúc sau %1$d ngày nữa</item>
+        <item quantity="one">Kết thúc sau %1$d ngày nữa</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120063">
+        <item quantity="other">Đã hoàn tất %1$d trong số %2$d bước</item>
+        <item quantity="one">Đã hoàn tất %1$d trong số %2$d bước</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120064">
+        <item quantity="other">Đã sẵn sàng cài đặt %1$d ứng dụng</item>
+        <item quantity="one">Đã sẵn sàng cài đặt %1$d ứng dụng</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120065">
+        <item quantity="other">%1$s sẽ gửi cho bạn %2$d ứng dụng. Hãy đảm bảo bạn có mã ghép nối trùng khớp.</item>
+        <item quantity="one">%1$s sẽ gửi cho bạn %2$d ứng dụng. Hãy đảm bảo bạn có mã ghép nối trùng khớp.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120066">
+        <item quantity="other">Đang nhận %1$d ứng dụng từ \"%2$s\"…</item>
+        <item quantity="one">Đang nhận %1$d ứng dụng từ \"%2$s\"…</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006a">
+        <item quantity="other">%1$d người dùng thấy bài đánh giá này hữu ích. Đánh dấu nhận xét là hữu ích</item>
+        <item quantity="one">%1$d người dùng thấy bài đánh giá này hữu ích. Đánh dấu nhận xét là hữu ích</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006b">
+        <item quantity="other">%1$d người dùng thấy bài đánh giá này hữu ích. Bỏ đánh dấu nhận xét là hữu ích</item>
+        <item quantity="one">%1$d người dùng thấy bài đánh giá này hữu ích. Bỏ đánh dấu nhận xét là hữu ích</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006c">
+        <item quantity="other">%1$s người thấy bài đánh giá này hữu ích</item>
+        <item quantity="one">%1$s người thấy bài đánh giá này hữu ích</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006f">
+        <item quantity="other">%1$d giây</item>
+        <item quantity="one">%1$d giây</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120070">
+        <item quantity="other">Còn %1$d giây</item>
+        <item quantity="one">Còn 1 giây</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120071">
+        <item quantity="other">Đã chọn %1$d • %2$s</item>
+        <item quantity="one">Đã chọn %1$d • %2$s</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120072">
+        <item quantity="other">Đang gửi %1$d ứng dụng sang \"%2$s\"…</item>
+        <item quantity="one">Đang gửi %1$d ứng dụng sang \"%2$s\"…</item>
+    </plurals>
+    <plurals name="setup_completed_installed">
+        <item quantity="other">%1$d ứng dụng đã được cài đặt</item>
+        <item quantity="one">%1$d ứng dụng đã được cài đặt</item>
+    </plurals>
+    <plurals name="setup_completed_installed_with_failures">
+        <item quantity="other">Không thể cài đặt %1$d/%2$d ứng dụng</item>
+        <item quantity="one">Không thể cài đặt %1$d/%2$d ứng dụng</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120075">
+        <item quantity="other">Sử dụng lần cuối %1$d ngày trước</item>
+        <item quantity="one">Sử dụng lần cuối %1$d ngày trước</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120076">
+        <item quantity="other">Khôi phục %1$d ứng dụng đã chọn</item>
+        <item quantity="one">Khôi phục ứng dụng đã chọn</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120078">
+        <item quantity="other">Tải%1$d ngôn ngữ mới xuống?</item>
+        <item quantity="one">Tải ngôn ngữ mới xuống?</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007b">
+        <item quantity="other">%1$d câu trả lời khảo sát sẽ bị xoá vĩnh viễn khỏi tài khoản của bạn.</item>
+        <item quantity="one">%1$d câu trả lời khảo sát sẽ bị xoá vĩnh viễn khỏi tài khoản của bạn.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007c">
+        <item quantity="other">Đã chọn %1$d</item>
+        <item quantity="one">Đã chọn %1$d</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007d">
+        <item quantity="other">Hiện Điểm Play. Bạn có %1$d điểm.</item>
+        <item quantity="one">Hiện Điểm Play. Bạn có %1$d điểm.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007e">
+        <item quantity="other">Bạn có %1$d Điểm Play.</item>
+        <item quantity="one">Bạn có %1$d Điểm Play.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120080">
+        <item quantity="other">%1$s điểm</item>
+        <item quantity="one">1 điểm</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120081">
+        <item quantity="other">Đang chuyển %1$d ứng dụng cho \"%2$s\"…</item>
+        <item quantity="one">Đang chuyển %1$d ứng dụng cho \"%2$s\"…</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120082">
+        <item quantity="other">%1$d ứng dụng sẽ bị gỡ cài đặt khỏi thiết bị của bạn</item>
+        <item quantity="one">%1$d ứng dụng sẽ bị gỡ cài đặt khỏi thiết bị của bạn</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120083">
+        <item quantity="other">Có phải bạn muốn gỡ cài đặt những ứng dụng đã chọn không?</item>
+        <item quantity="one">Có phải bạn muốn gỡ cài đặt ứng dụng đã chọn không?</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120084">
+        <item quantity="other">Có phải bạn muốn gỡ cài đặt bản cập nhật của những ứng dụng đã chọn không?</item>
+        <item quantity="one">Có phải bạn muốn gỡ cài đặt bản cập nhật của ứng dụng đã chọn không?</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120085">
+        <item quantity="other">Đã xóa %1$s ứng dụng và còn lại đủ dung lượng cho %2$s.</item>
+        <item quantity="one">Đã xóa %1$s ứng dụng và còn lại đủ dung lượng cho %2$s.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120086">
+        <item quantity="other">Ứng dụng sẽ sớm được cài đặt.</item>
+        <item quantity="one">Ứng dụng sẽ sớm được cài đặt.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120087">
+        <item quantity="other">Bản cập nhật ứng dụng sẽ sớm được cài đặt.</item>
+        <item quantity="one">Bản cập nhật ứng dụng sẽ sớm được cài đặt.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008a">
+        <item quantity="other">Sử dụng lần cuối %1$d ngày trước</item>
+        <item quantity="one">Sử dụng lần cuối %1$d ngày trước</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008b">
+        <item quantity="other">Sử dụng lần cuối %1$d tháng trước</item>
+        <item quantity="one">Sử dụng lần cuối %1$d tháng trước</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008c">
+        <item quantity="other">Để cài đặt ứng dụng hoặc bản cập nhật trên thiết bị này, hãy xóa những ứng dụng bạn không cần dùng nữa. Bạn cũng có thể giải phóng bộ nhớ bằng cách xóa các tệp nghe nhìn trong phần Cài đặt bộ nhớ.</item>
+        <item quantity="one">Để cài đặt ứng dụng hoặc bản cập nhật trên thiết bị này, hãy xóa những ứng dụng bạn không cần dùng nữa. Bạn cũng có thể giải phóng bộ nhớ bằng cách xóa các tệp nghe nhìn trong phần Cài đặt bộ nhớ.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008d">
+        <item quantity="other">Để cài đặt ứng dụng hoặc bản cập nhật trên thiết bị này, hãy xóa những ứng dụng bạn không cần dùng nữa. Bạn cũng có thể giải phóng bộ nhớ bằng cách xóa tệp nghe nhìn trong phần &lt;a href=\"\">Cài đặt > Bộ nhớ&lt;/a>.</item>
+        <item quantity="one">Để cài đặt ứng dụng hoặc bản cập nhật trên thiết bị này, hãy xóa những ứng dụng bạn không cần dùng nữa. Bạn cũng có thể giải phóng bộ nhớ bằng cách xóa tệp nghe nhìn trong phần &lt;a href=\"\">Cài đặt > Bộ nhớ&lt;/a>.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008e">
+        <item quantity="other">Để cài đặt ứng dụng hoặc bản cập nhật trên thiết bị này, hãy xóa những ứng dụng bạn không cần dùng nữa. Bạn cũng có thể giải phóng bộ nhớ bằng cách xóa tệp nghe nhìn trong phần Cài đặt > Bộ nhớ.</item>
+        <item quantity="one">Để cài đặt ứng dụng hoặc bản cập nhật trên thiết bị này, hãy xóa những ứng dụng bạn không cần dùng nữa. Bạn cũng có thể giải phóng bộ nhớ bằng cách xóa tệp nghe nhìn trong phần Cài đặt > Bộ nhớ.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008f">
+        <item quantity="other">Đã gỡ cài đặt %1$d ứng dụng</item>
+        <item quantity="one">Đã gỡ cài đặt %1$d ứng dụng</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120090">
+        <item quantity="other">Chúng tôi tìm thấy %1$d ứng dụng mà đã lâu bạn không dùng đến. Nếu xóa những ứng dụng này thì bạn sẽ có thêm %2$d MB trong không gian lưu trữ</item>
+        <item quantity="one">Chúng tôi tìm thấy %1$d ứng dụng mà đã lâu bạn không dùng đến. Nếu xóa ứng dụng này thì bạn sẽ có thêm %2$d MB trong không gian lưu trữ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120091">
+        <item quantity="other">Sẽ bắt đầu sau %1$d giờ nữa</item>
+        <item quantity="one">Sẽ bắt đầu sau %1$d giờ nữa</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120092">
+        <item quantity="other">Sẽ bắt đầu sau %1$d ngày nữa</item>
+        <item quantity="one">Sẽ bắt đầu sau %1$d ngày nữa</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120093">
+        <item quantity="other">Sẽ ra mắt sau %1$d giờ nữa</item>
+        <item quantity="one">Sẽ ra mắt sau %1$d giờ nữa</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120094">
+        <item quantity="other">Sẽ ra mắt sau %1$d ngày nữa</item>
+        <item quantity="one">Sẽ ra mắt sau %1$d ngày nữa</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120095">
+        <item quantity="other">Thiết bị này chưa cập nhật hệ thống trong hơn %1$d tháng</item>
+        <item quantity="one">Thiết bị này chưa cập nhật hệ thống trong hơn %1$d tháng</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120096">
+        <item quantity="other">Đã xóa ứng dụng công việc</item>
+        <item quantity="one">Đã xóa ứng dụng công việc</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120097">
+        <item quantity="other">%1$d năm trước</item>
+        <item quantity="one">%1$d năm trước</item>
+    </plurals>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sim_locked_notification_custom_content_array">
+        <item>Da biste koristili ovu SIM karticu, otključajte telefon pomoću aplikacije za otključavanje uređaja.</item>
+        <item>Obratite se mobilnom operateru</item>
+    </string-array>
+</resources>

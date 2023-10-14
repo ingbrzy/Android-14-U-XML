@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="analog_gadget">Analog</string>
+    <string name="digital_gadget">Digital</string>
+    <string name="analog_widget_clover_clock_name">Clover</string>
+    <string name="analog_widget_clover_content_description">Hitsura ng orasan na may hugis na parang clover</string>
+    <string name="analog_widget_config_activity_title">Pumili ng Hitsura ng Orasan</string>
+    <string name="analog_widget_day_clock_name">Araw</string>
+    <string name="analog_widget_day_content_description">Hitsura ng orasan may araw ng buwan</string>
+    <string name="analog_widget_numeral_clock_name">Numeral</string>
+    <string name="analog_widget_numeral_content_description">Hitsura ng orasan na may malalaking numero</string>
+    <string name="analog_widget_scallop_clock_name">Kabibi</string>
+    <string name="analog_widget_scallop_content_description">Hitsura ng orasan na may araw ng linggo at buwan</string>
+    <string name="cities_widget_config_activity_subtitle">Puwedeng magdagdag ng mga lungsod mula sa tab na Orasan</string>
+    <string name="cities_widget_config_activity_subtitle_button">Pumili ng mga lungsod sa Clock app</string>
+    <string name="cities_widget_preview_city_london">London</string>
+    <string name="cities_widget_preview_city_mountain_view">Mountain View</string>
+    <string name="clock_widget_opaque_label">Solid</string>
+    <string name="clock_widget_transparent_label">Transparent</string>
+    <string name="digital_appwidget_config_activity_title">Pumili ng istilo ng orasan</string>
+    <string name="digital_cities_gadget">Mundo</string>
+    <string name="digital_cities_gadget_description">Pumili ng mga lungsod sa Clock app</string>
+    <string name="digital_stacked_gadget">Naka-stack</string>
+    <string name="digital_widgets_preview_alarm">Lun 09:30</string>
+    <string name="stopwatch_gadget_description">Kontrolin ang stopwatch sa Clock app</string>
+</resources>

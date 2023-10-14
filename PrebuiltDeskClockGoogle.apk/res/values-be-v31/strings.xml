@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="digital_gadget">Лічбавы</string>
+    <string name="analog_widget_clover_clock_name">Канюшына</string>
+    <string name="analog_widget_clover_content_description">Цыферблат у выглядзе канюшыны</string>
+    <string name="analog_widget_config_activity_title">Выберыце цыферблат</string>
+    <string name="analog_widget_day_clock_name">З днямі</string>
+    <string name="analog_widget_day_content_description">Цыферблат з указаннем дня месяца</string>
+    <string name="analog_widget_numeral_clock_name">З лічбамі</string>
+    <string name="analog_widget_numeral_content_description">Цыферблат з вялікімі лічбамі</string>
+    <string name="analog_widget_scallop_clock_name">Марскі грабеньчык</string>
+    <string name="analog_widget_scallop_content_description">Цыферблат з указаннем дня тыдня і месяца</string>
+    <string name="cities_widget_config_activity_subtitle">Гарады можна дадаваць на ўкладцы \"Гадзіннік\"</string>
+    <string name="cities_widget_config_activity_subtitle_button">Выберыце гарады ў праграме \"Гадзіннік\"</string>
+    <string name="cities_widget_preview_city_london">Лондан</string>
+    <string name="cities_widget_preview_city_mountain_view">"Маўнтын-В'ю"</string>
+    <string name="clock_widget_opaque_label">Суцэльны</string>
+    <string name="clock_widget_transparent_label">Празрысты</string>
+    <string name="digital_appwidget_config_activity_title">Выберыце стыль гадзінніка</string>
+    <string name="digital_cities_gadget">Сусветны</string>
+    <string name="digital_cities_gadget_description">Выберыце гарады ў праграме \"Гадзіннік\"</string>
+    <string name="digital_stacked_gadget">Слупком</string>
+    <string name="digital_widgets_preview_alarm">Пн 09:30</string>
+    <string name="stopwatch_gadget_description">Кіруйце секундамерам у праграме \"Гадзіннік\"</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_menu">[Ḿéñû one]</string>
+    <string name="call_notification_answer_action">[Åñšŵéŕ one two]</string>
+    <string name="call_notification_answer_video_action">[νîðéö one]</string>
+    <string name="call_notification_decline_action">[Ðéçļîñé one two]</string>
+    <string name="call_notification_hang_up_action">[Ĥåñĝ Ûþ one two]</string>
+    <string name="call_notification_incoming_text">[Îñçöḿîñĝ çåļļ one two]</string>
+    <string name="call_notification_ongoing_text">[Öñĝöîñĝ çåļļ one two]</string>
+    <string name="call_notification_screening_text">[Šçŕééñîñĝ åñ îñçöḿîñĝ çåļļ one two three four]</string>
+    <string name="error_generic">[Ţĥéŕé ŵåš å þŕöɓļéḿ ĝéţţîñĝ ýöûŕ çåŕðš, þļéåšé ţŕý åĝåîñ ļåţéŕ one two three four five six seven]</string>
+    <string name="error_user_locked">[Ûñļöçķ ýöûŕ þĥöñé ţö ļöåð ýöûŕ þåýḿéñţ îñƒö one two three four five]</string>
+    <string name="settings">[Šéţţîñĝš one two]</string>
+    <string name="status_bar_notification_info_overflow">[999+ one]</string>
+</resources>

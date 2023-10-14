@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_set">
+        <item>Alarmi është vënë për më pak se 1 minutë nga momenti i tanishëm.</item>
+        <item>Alarmi është vënë për %1$s nga momenti i tanishëm.</item>
+        <item>Alarmi është vënë për %2$s nga momenti i tanishëm.</item>
+        <item>Alarmi është vënë për %1$s e %2$s nga momenti i tanishëm.</item>
+        <item>Alarmi është vënë për %3$s nga momenti i tanishëm.</item>
+        <item>Alarmi është vënë për %1$s e %3$s nga momenti i tanishëm.</item>
+        <item>Alarmi është vënë për %2$s e %3$s nga momenti i tanishëm.</item>
+        <item>Alarmi është vënë për %1$s, %2$s, e %3$s nga momenti i tanishëm.</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>1 minutë</item>
+        <item>5 minuta</item>
+        <item>10 minuta</item>
+        <item>15 minuta</item>
+        <item>20 minuta</item>
+        <item>25 minuta</item>
+        <item>@string/auto_silence_entry_never</item>
+    </string-array>
+    <string-array name="bedtime_reminder_entries">
+        <item>15 minuta përpara orarit të gjumit</item>
+        <item>30 minuta përpara orarit të gjumit</item>
+        <item>45 minuta përpara orarit të gjumit</item>
+        <item>1 orë përpara orarit të gjumit</item>
+        <item>Çaktivizo</item>
+    </string-array>
+    <string-array name="clock_style_entries">
+        <item>Analog</item>
+        <item>Dixhital</item>
+    </string-array>
+    <string-array name="crescendo_entries">
+        <item>@string/crescendo_entry_never</item>
+        <item>5 sekonda</item>
+        <item>10 sekonda</item>
+        <item>15 sekonda</item>
+        <item>20 sekonda</item>
+        <item>25 sekonda</item>
+        <item>30 sekonda</item>
+        <item>35 sekonda</item>
+        <item>40 sekonda</item>
+        <item>45 sekonda</item>
+        <item>50 sekonda</item>
+        <item>55 sekonda</item>
+        <item>60 sekonda</item>
+    </string-array>
+    <string-array name="sleep_duration">
+        <item>%2$s</item>
+        <item>%1$s</item>
+        <item>%1$s %2$s</item>
+    </string-array>
+    <string-array name="sleep_sound_length_content_descriptions">
+        <item>Ndalo pas 10 minutash</item>
+        <item>Ndalo pas 20 minutash</item>
+        <item>Ndalo pas 30 minutash</item>
+        <item>Ndalo pas 40 minutash</item>
+        <item>Ndalo pas 50 minutash</item>
+        <item>Ndalo pas 1 ore</item>
+    </string-array>
+    <string-array name="sleep_sound_length_descriptions">
+        <item>Ndalo pas 10 min.</item>
+        <item>Ndalo pas 20 min.</item>
+        <item>Ndalo pas 30 min.</item>
+        <item>Ndalo pas 40 min.</item>
+        <item>Ndalo pas 50 min.</item>
+        <item>Ndalo pas 1 ore</item>
+    </string-array>
+    <string-array name="sleep_sound_length_entries">
+        <item>10 minuta</item>
+        <item>20 minuta</item>
+        <item>30 minuta</item>
+        <item>40 minuta</item>
+        <item>50 minuta</item>
+        <item>1 orë</item>
+    </string-array>
+    <string-array name="snooze_duration_entries">
+        <item>1 minutë</item>
+        <item>2 minuta</item>
+        <item>3 minuta</item>
+        <item>4 minuta</item>
+        <item>5 minuta</item>
+        <item>6 minuta</item>
+        <item>7 minuta</item>
+        <item>8 minuta</item>
+        <item>9 minuta</item>
+        <item>10 minuta</item>
+        <item>11 minuta</item>
+        <item>12 minuta</item>
+        <item>13 minuta</item>
+        <item>14 minuta</item>
+        <item>15 minuta</item>
+        <item>16 minuta</item>
+        <item>17 minuta</item>
+        <item>18 minuta</item>
+        <item>19 minuta</item>
+        <item>20 minuta</item>
+        <item>21 minuta</item>
+        <item>22 minuta</item>
+        <item>23 minuta</item>
+        <item>24 minuta</item>
+        <item>25 minuta</item>
+        <item>26 minuta</item>
+        <item>27 minuta</item>
+        <item>28 minuta</item>
+        <item>29 minuta</item>
+        <item>30 minuta</item>
+    </string-array>
+    <string-array name="timer_duration">
+        <item>Kohëmatësi</item>
+        <item>Kohëmatësi: %3$s</item>
+        <item>Kohëmatësi: %2$s</item>
+        <item>Kohëmatësi: %2$s e %3$s</item>
+        <item>Kohëmatësi: %1$s</item>
+        <item>Kohëmatësi: %1$s e %3$s</item>
+        <item>Kohëmatësi: %1$s e %2$s</item>
+        <item>Kohëmatësi: %1$s e %2$s e %3$s</item>
+    </string-array>
+    <string-array name="timer_duration_short">
+        <item>Kohëmatësi</item>
+        <item>Kohëmatësi: %3$s</item>
+        <item>Kohëmatësi: %2$s</item>
+        <item>Kohëmatësi: %2$s %3$s</item>
+        <item>Kohëmatësi: %1$s</item>
+        <item>Kohëmatësi: %1$s %3$s</item>
+        <item>Kohëmatësi: %1$s %2$s</item>
+        <item>Kohëmatësi: %1$s %2$s %3$s</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>Ishujt Marshall</item>
+        <item>Ishulli Miduej</item>
+        <item>Havai</item>
+        <item>Alaskë</item>
+        <item>Ora e Paqësorit</item>
+        <item>Tihuanë</item>
+        <item>Arizonë</item>
+        <item>Çiuaua</item>
+        <item>Ora Malore</item>
+        <item>Amerika Qendrore</item>
+        <item>Ora Qendrore</item>
+        <item>Meksiko-Siti</item>
+        <item>Saskaçevan</item>
+        <item>Bogota</item>
+        <item>Ora Lindore</item>
+        <item>Venezuelë</item>
+        <item>Ora Atlantike (Barbados)</item>
+        <item>Ora Atlantike (Kanada)</item>
+        <item>Manaus</item>
+        <item>Santiago</item>
+        <item>Njufaundlend</item>
+        <item>Brazilia</item>
+        <item>Buenos-Ajres</item>
+        <item>Grenlandë</item>
+        <item>Montevideo</item>
+        <item>Mid-Atlantik</item>
+        <item>Azoret</item>
+        <item>Ishujt e Kepit të Gjelbër</item>
+        <item>Kazablanka</item>
+        <item>Londër, Dublin</item>
+        <item>Amsterdam, Berlin</item>
+        <item>Beograd</item>
+        <item>Bruksel</item>
+        <item>Sarajevë</item>
+        <item>Uindhoek</item>
+        <item>Ora e Afrikës Perëndimore</item>
+        <item>Aman, Jordani</item>
+        <item>Athinë, Stamboll</item>
+        <item>Bejrut, Liban</item>
+        <item>Kajro</item>
+        <item>Helsinki</item>
+        <item>Jerusalem</item>
+        <item>Minsk</item>
+        <item>Harare</item>
+        <item>Bagdad</item>
+        <item>Moskë</item>
+        <item>Kuvajt</item>
+        <item>Najrobi</item>
+        <item>Teheran</item>
+        <item>Baku</item>
+        <item>Tbilisi</item>
+        <item>Jerevan</item>
+        <item>Dubai</item>
+        <item>Kabul</item>
+        <item>Islamabad, Karaçi</item>
+        <item>Uralsk</item>
+        <item>Jekaterinburg</item>
+        <item>Kalkuta</item>
+        <item>Sri-Lankë</item>
+        <item>Katmandu</item>
+        <item>Astana</item>
+        <item>Jangon</item>
+        <item>Krasnojarsk</item>
+        <item>Bangkok</item>
+        <item>Pekin</item>
+        <item>Hong-Kong</item>
+        <item>Irkutsk</item>
+        <item>Kuala-Lumpur</item>
+        <item>Përth</item>
+        <item>Taipei</item>
+        <item>Seul</item>
+        <item>Tokio, Osaka</item>
+        <item>Jakutsk</item>
+        <item>Adelajde</item>
+        <item>Darvin</item>
+        <item>Brisbejn</item>
+        <item>Hobart</item>
+        <item>Sidnej, Kanbera</item>
+        <item>Vladivostok</item>
+        <item>Guam</item>
+        <item>Magadan</item>
+        <item>Aukland</item>
+        <item>Fixhi</item>
+        <item>Tongë</item>
+        <item>Xhakartë</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>@string/alarm_alert_snooze_text</item>
+        <item>Ndalo</item>
+        <item>Kontrollo volumin</item>
+        <item>Mos bëj asgjë</item>
+    </string-array>
+    <string-array name="wakeup_alarm_description">
+        <item>Alarmi yt i zgjimit është më pak se 1 minutë nga momenti i tanishëm</item>
+        <item>Alarmi yt i zgjimit është %1$s nga momenti i tanishëm</item>
+        <item>Alarmi yt i zgjimit është %2$s nga momenti i tanishëm</item>
+        <item>Alarmi yt i zgjimit është %1$s e %2$s nga momenti i tanishëm</item>
+        <item>Alarmi yt i zgjimit është %3$s nga momenti i tanishëm</item>
+        <item>Alarmi yt i zgjimit është %1$s e %3$s nga momenti i tanishëm</item>
+        <item>Alarmi yt i zgjimit është %2$s e %3$s nga momenti i tanishëm</item>
+        <item>Alarmi yt i zgjimit është %1$s e %2$s e %3$s nga momenti i tanishëm</item>
+    </string-array>
+    <string-array name="week_start_entries">
+        <item>E premte</item>
+        <item>E shtunë</item>
+        <item>E diel</item>
+        <item>E hënë</item>
+    </string-array>
+</resources>

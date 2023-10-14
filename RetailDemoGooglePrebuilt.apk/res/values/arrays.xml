@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="retail_demo_known_signers">
+        <item>9488B91ADDD5F9EA66133533DC216B86681673C09B70FFF0E1CBF36D7C2514ED</item>
+        <item>6547C73DEE150C103980BFDFFE55CC9A011D785DD694A5F99AFD8205BCAF1F80</item>
+    </string-array>
+</resources>

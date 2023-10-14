@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_retaildemoCommunication">อนุญาตให้แอปโต้ตอบกับบริการสาธิตสำหรับร้านค้าปลีก ควรให้สิทธ์นี้แก่การสาธิตสำหรับร้านค้าปลีกเท่านั้น แอปที่ได้รับสิทธิ์นี้จะสามารถเรียกใช้การดำเนินการที่สงวนไว้สำหรับโหมดการสาธิตสำหรับร้านค้าปลีก</string>
+    <string name="permlab_retaildemoCommunication">การสื่อสารกับแอปการสาธิตสำหรับร้านค้าปลีก</string>
+    <string name="retaildemo_preload_app_name">บริการสาธิตสำหรับร้านค้าปลีก</string>
+</resources>

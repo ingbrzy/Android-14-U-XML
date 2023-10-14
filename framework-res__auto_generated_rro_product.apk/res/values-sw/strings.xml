@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_error_bad_calibration">Imeshindwa kutumia kitambuzi cha alama ya kidole. Tembelea mtoa huduma za urekebishaji au g.co/pixel/fingerprintunlock</string>
+    <string name="fingerprint_recalibrate_notification_content">Tembelea mtoa huduma za urekebishaji au g.co/pixel/fingerprintunlock</string>
+    <string name="battery_saver_description_with_learn_more">"Ili kuongeza muda wa matumizi ya betri, Kiokoa Betri:
+
+• Huwasha Mandhari meusi
+• Huzima au hudhibiti shughuli za chinichini, baadhi ya madoido yanayoonekana na vipengele vingine kama vile \"Ok Google\"
+• Huboresha miunganisho yako ya mtandao
+
+"<annotation id="url">Pata maelezo zaidi</annotation></string>
+</resources>

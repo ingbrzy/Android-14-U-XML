@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">Navighează în sus</string>
+    <string name="abc_action_mode_done">Gata</string>
+    <string name="abc_capital_off">DEZACTIVAT</string>
+    <string name="abc_capital_on">ACTIVAT</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Meniu+</string>
+    <string name="abc_search_hint">Caută…</string>
+    <string name="abc_searchview_description_clear">Șterge interogarea</string>
+    <string name="abc_searchview_description_search">Caută</string>
+    <string name="abc_searchview_description_submit">Trimite interogarea</string>
+    <string name="abc_searchview_description_voice">Căutare vocală</string>
+    <string name="abc_toolbar_collapse_description">Restrânge</string>
+    <string name="activate_title">@string/vzw_tos_title</string>
+    <string name="address_update_error">@string/vzw_address_update_error</string>
+    <string name="apt_suite_number">Apartament etc.</string>
+    <string name="button_setup_web_portal">Continuă configurarea</string>
+    <string name="button_turn_on_wifi">Activează Wi-Fi</string>
+    <string name="city">Oraș</string>
+    <string name="common_google_play_services_enable_button">Activează</string>
+    <string name="common_google_play_services_enable_text">%1$s nu va funcționa decât dacă activezi serviciile Google Play.</string>
+    <string name="common_google_play_services_enable_title">Activează serviciile Google Play</string>
+    <string name="common_google_play_services_install_button">Instalează</string>
+    <string name="common_google_play_services_install_text">%1$s nu va rula fără serviciile Google Play, care lipsesc de pe dispozitivul tău.</string>
+    <string name="common_google_play_services_install_title">Descarcă serviciile Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Disponibilitatea serviciilor Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Eroare a serviciilor Google Play</string>
+    <string name="common_google_play_services_unknown_issue">%1$s întâmpină probleme privind serviciile Google Play. Încearcă din nou.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s nu va rula fără serviciile Google Play, care nu sunt acceptate de dispozitivul tău.</string>
+    <string name="common_google_play_services_update_button">Actualizează</string>
+    <string name="common_google_play_services_update_text">%1$s nu va rula decât dacă actualizezi serviciile Google Play.</string>
+    <string name="common_google_play_services_update_title">Actualizează serviciile Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s nu va rula fără serviciile Google Play, care momentan se actualizează.</string>
+    <string name="common_google_play_services_wear_update_text">Este necesară o nouă versiune a serviciilor Google Play. Se vor actualiza automat în curând.</string>
+    <string name="common_open_on_phone">Deschide pe telefon</string>
+    <string name="connect_to_wifi_or_web_portal_message">"Activează conexiunea Wi-Fi și conectează-te la o rețea pentru a folosi Apelarea prin Wi-Fi.
+
+Poți să configurezi Apelarea prin Wi-Fi sau să actualizezi adresa de urgență folosind rețeaua mobilă."</string>
+    <string name="connect_to_wifi_or_web_portal_title">Rețeaua Wi-Fi nu este conectată</string>
+    <string name="e911_title">@string/vzw_e911_title</string>
+    <string name="edit_address">Editează adresa</string>
+    <string name="emergency_address_app_label">Configurare operator</string>
+    <string name="failure_contact_carrier">Contactează-ți operatorul pentru a activa apelarea prin Wi-Fi.</string>
+    <string name="house_number">Numărul străzii</string>
+    <string name="notification_activation_text">Atinge ca să activezi Apelarea prin Wi-Fi și să poți face apeluri prin Wi-Fi când rețeaua mobilă nu este disponibilă</string>
+    <string name="notification_activation_title">Activează apelarea prin Wi-Fi</string>
+    <string name="notification_channel_name">Apelare prin Wi-Fi</string>
+    <string name="ok">OK</string>
+    <string name="progress_text">Procesul va dura câteva momente</string>
+    <string name="save">Salvează</string>
+    <string name="save_anyway">Salvează oricum</string>
+    <string name="show_terms_and_condition_error">Nu se pot afișa Termenii și condițiile operatorului. Încearcă din nou mai târziu.</string>
+    <string name="state">Stat</string>
+    <string name="street">Stradă</string>
+    <string name="sud_back_button_label">Înapoi</string>
+    <string name="sud_more_button_label">Mai multe</string>
+    <string name="sud_next_button_label">Înainte</string>
+    <string name="tos_continue">Continuă</string>
+    <string name="vzw_address_alternate_text">Te refereai la:</string>
+    <string name="vzw_address_confirm_text_part1">Nu am găsit adresa introdusă, deoarece nu s-a putut identifica adresa fizică sau este posibil ca orașul, statul și codul poștal să nu fie corecte.</string>
+    <string name="vzw_address_confirm_text_part2">Dacă numele orașului, al statului și codul poștal nu sunt corecte, atinge %1$s. În caz contrar, atinge %2$s.</string>
+    <string name="vzw_address_select_text">Nu s-a putut găsi adresa introdusă:</string>
+    <string name="vzw_address_update_error">Momentan, nu se poate actualiza adresa de urgență actuală. Încearcă din nou mai târziu.</string>
+    <string name="vzw_address_update_success_toast">Adresa de urgență a fost actualizată</string>
+    <string name="vzw_e911_description"><b>IMPORTANT – ADRESA OBLIGATORIE PENTRU SERVICIILE DE URGENȚĂ 911</b>"
+Ca să activezi Apelarea prin Wi-Fi, introdu adresa din S.U.A. unde dorești să fie trimise serviciile de urgență dacă apelezi 911. Poți să accesezi Setări și să schimbi adresa oricând. Este foarte important să actualizezi adresa de câte ori îți schimbi locația."</string>
+    <string name="vzw_e911_title">Informații privind locația de urgență</string>
+    <string name="vzw_e911_warning"><b>AVERTISMENTE – LIMITĂRILE APELĂRII NUMĂRULUI DE URGENȚĂ 911</b>"
+Atunci când apelezi 911, spune-i întotdeauna operatorului unde te afli. Apelul tău la 911 va fi trimis prin Wi-Fi numai dacă nu este disponibilă rețeaua mobilă. Este posibil ca apelurile către 911 prin Wi-Fi să fie întârziate sau să nu fie trimise dacă, de exemplu, sistemul de urgență 911 nu recunoaște adresa, nu ai curent electric sau conexiunea Wi-Fi nu funcționează. Serviciile de urgență vor fi trimise la adresa pe care ai indicat-o mai sus, așadar actualizeaz-o de fiecare dată când îți schimbi locația."</string>
+    <string name="vzw_partial_confirm_head">Adresa introdusă nu a putut fi validată de furnizorii de servicii de urgență.</string>
+    <string name="vzw_partial_confirm_text">Sigur dorești să folosești această adresă în caz de urgență?</string>
+    <string name="vzw_partial_failure_text_part1">Este posibil ca orașul, statul sau codul poștal pe care le-ai introdus să nu fie corecte.</string>
+    <string name="vzw_partial_failure_text_part2">Verifică adresa și încearcă din nou.</string>
+    <string name="vzw_tos_link">Termeni și condiții</string>
+    <string name="vzw_tos_text">"Cu ajutorul Apelării prin Wi-Fi, poți să apelezi folosind conexiunea Wi-Fi atunci când nu este disponibilă rețeaua mobilă.
+
+Pentru a configura Apelarea prin Wi-Fi, trebuie să introduci o adresă din S.U.A. Această adresă va fi folosită de serviciile de urgență din zona ta dacă inițiezi un apel de urgență prin Wi-Fi (E911) de pe acest telefon în S.U.A. În plus, operatorul tău poate să primească o adresă MAC din apropiere, care poate dezvălui locația, pentru %1$s.
+
+Îți recomandăm să schimbi această adresă atunci când inițiezi apeluri folosind altă rețea Wi-Fi, pentru ca informațiile privind locația ta să fie exacte. Poți schimba oricând locația accesând meniul de setări pentru Apelarea prin Wi-Fi."</string>
+    <string name="vzw_tos_text_all_calls">toate apelurile</string>
+    <string name="vzw_tos_text_emergency_calls">apel de urgență (E911) și alte apeluri de servicii speciale</string>
+    <string name="vzw_tos_title">Activează Apelarea prin Wi-Fi</string>
+    <string name="vzw_wfc_activation_error">Nu se poate activa Apelarea prin Wi-Fi. Încearcă din nou mai târziu.</string>
+    <string name="wfc_activation_error">@string/vzw_wfc_activation_error</string>
+    <string name="zip_code">Cod poștal</string>
+</resources>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Usluge na više uređaja</string>
+    <string name="app_name_generic">aplikacija</string>
+    <string name="app_stream_error_generic">Došlo je do greške pri deljenju aplikacije</string>
+    <string name="app_stream_init_error_generic">Deljenje aplikacije sa Chromebook-om nije uspelo</string>
+    <string name="audio_permission_rationale">Dozvola za mikrofon za deljenje aplikacije je onemogućena</string>
+    <string name="cancel_button_label">Otkaži</string>
+    <string name="chromebook_keyboard">Tastatura Chromebook-a</string>
+    <string name="chromebook_mouse">Miš Chromebook-a</string>
+    <string name="chromebook_touchscreen">Dodirni ekran Chromebook-a</string>
+    <string name="connect_device">Telefon se povezuje sa udaljenim uređajem: %1$s</string>
+    <string name="decline_button_label">Odbij</string>
+    <string name="development_notification_channel_name">Programiranje</string>
+    <string name="device_camera_cannot_access">Ne možete da pristupite kameri uređaja sa ovog Chromebook-a</string>
+    <string name="done_button_label">Gotovo</string>
+    <string name="enable_button_label">Omogući</string>
+    <string name="foreground_service_notification_channel_name">Opšte</string>
+    <string name="foreground_service_notification_content">Dodirnite da biste izmenili podešavanja</string>
+    <string name="foreground_service_notification_title">{0,plural, =1{Povezano je sa # uređajem}one{Povezano je sa # uređajem}few{Povezano je sa # uređaja}other{Povezano je sa # uređaja}}</string>
+    <string name="interactive_streaming_generic_notification">Strimuje se aplikacija %1$s i sinhronizuju se obaveštenja za Chromebook</string>
+    <string name="interactive_streaming_individual_notification">Strimuje se aplikacija %1$s i sinhronizuju se obaveštenja za %2$s</string>
+    <string name="interactive_streaming_notification">Strimuje se na Chromebook-u</string>
+    <string name="keyboard_name">Tastatura za više uređaja</string>
+    <string name="lock_screen_notif_warning_content">Omogućite obaveštenja na zaključanom ekranu</string>
+    <string name="lock_screen_notif_warning_title">Obaveštenja se neće prosleđivati</string>
+    <string name="mouse_name">Miš za više uređaja</string>
+    <string name="new_connection_confirm">Potvrdi</string>
+    <string name="new_connection_deny">Odbij</string>
+    <string name="new_connection_title">Potvrdite podudaranje stringova</string>
+    <string name="notification_access_missing">Potreban je pristup za obaveštenja</string>
+    <string name="notification_access_missing_description">Da biste otvorili obaveštenja na Chromebook-u, uključite pristup obaveštenjima</string>
+    <string name="notification_channel_name">Opšte</string>
+    <string name="notification_listener_label">Deli aplikacije sa Chromebook-om</string>
+    <string name="open_source_licenses">Licence otvorenog koda</string>
+    <string name="phone_permission_rationale">Dozvola za pozive za deljenje aplikacije je onemogućena</string>
+    <string name="prompt_switch_languages">Pritisnite shift + space da biste promenili Gboard jezik telefona</string>
+    <string name="settings_button">Podešavanja</string>
+    <string name="stop_sharing_button">Završi strim</string>
+    <string name="stream_termination_proximity_warning">Telefon je previše daleko. Približite ga da biste nastavili da strimujete.</string>
+    <string name="substitute_app_name">Sistem</string>
+    <string name="summary_disable_wirecutter">Isključeno</string>
+    <string name="summary_enable_wirecutter">Uključeno</string>
+    <string name="touchscreen_name">Dodirni ekran za više uređaja</string>
+</resources>

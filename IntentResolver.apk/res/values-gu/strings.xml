@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">ઘરનો રસ્તો બતાવો</string>
+    <string name="abc_action_bar_up_description">ઉપર નૅવિગેટ કરો</string>
+    <string name="abc_action_menu_overflow_description">વધુ વિકલ્પો</string>
+    <string name="abc_action_mode_done">થઈ ગયું</string>
+    <string name="abc_activity_chooser_view_see_all">બધી જુઓ</string>
+    <string name="abc_activitychooserview_choose_application">ઍપ્લિકેશન પસંદ કરો</string>
+    <string name="abc_capital_off">બંધ</string>
+    <string name="abc_capital_on">ચાલુ</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">શોધો…</string>
+    <string name="abc_searchview_description_clear">ક્વેરી સાફ કરો</string>
+    <string name="abc_searchview_description_query">શોધ ક્વેરી</string>
+    <string name="abc_searchview_description_search">શોધો</string>
+    <string name="abc_searchview_description_submit">ક્વેરી સબમિટ કરો</string>
+    <string name="abc_searchview_description_voice">વૉઇસ શોધ</string>
+    <string name="abc_shareactionprovider_share_with">આની સાથે શેર કરો</string>
+    <string name="abc_shareactionprovider_share_with_application">%sની સાથે શેર કરો</string>
+    <string name="abc_toolbar_collapse_description">સંકુચિત કરો</string>
+    <string name="activity_resolver_use_always">હંમેશાં</string>
+    <string name="activity_resolver_use_once">ફક્ત એક વાર</string>
+    <string name="activity_resolver_work_profiles_support">%1$s, ઑફિસની પ્રોફાઇલને સપોર્ટ કરતી નથી</string>
+    <string name="call_notification_answer_action">જવાબ</string>
+    <string name="call_notification_answer_video_action">વીડિયો</string>
+    <string name="call_notification_decline_action">નકારો</string>
+    <string name="call_notification_hang_up_action">સમાપ્ત કરો</string>
+    <string name="call_notification_incoming_text">ઇનકમિંગ કૉલ</string>
+    <string name="call_notification_ongoing_text">ચાલુ કૉલ</string>
+    <string name="call_notification_screening_text">ઇનકમિંગ કૉલનું સ્ક્રીનિંગ થાય છે</string>
+    <string name="chooseActivity">ક્રિયા પસંદ કરો</string>
+    <string name="chooser_no_direct_share_targets">શેર કરવા માટે સુઝાવ આપવામાં આવેલા કોઈ લોકો નથી</string>
+    <string name="exclude_link">લિંકને બાકાત કરો</string>
+    <string name="exclude_text">ટેક્સ્ટને બાકાત કરો</string>
+    <string name="file_preview_a11y_description">ફાઇલના પ્રીવ્યૂની થંબનેલ</string>
+    <string name="forward_intent_to_owner">તમે તમારી કાર્ય પ્રોફાઇલની બહાર આ એપ્લિકેશનનો ઉપયોગ કરી રહ્યાં છો</string>
+    <string name="forward_intent_to_work">તમે તમારી કાર્ય પ્રોફાઇલમાં આ એપ્લિકેશનનો ઉપયોગ કરી રહ્યાં છો</string>
+    <string name="image_preview_a11y_description">છબીના પ્રીવ્યૂની થંબનેલ</string>
+    <string name="include_link">લિંક શામેલ કરો</string>
+    <string name="include_text">ટેક્સ્ટ શામેલ કરો</string>
+    <string name="miniresolver_open_in_personal">તમારી વ્યક્તિગત પ્રોફાઇલમાં %s ખોલીએ?</string>
+    <string name="miniresolver_open_in_work">તમારી ઑફિસની પ્રોફાઇલમાં %s ખોલીએ?</string>
+    <string name="miniresolver_use_personal_browser">વ્યક્તિગત બ્રાઉઝરનો ઉપયોગ કરો</string>
+    <string name="miniresolver_use_work_browser">ઑફિસના બ્રાઉઝરના ઉપયોગ કરો</string>
+    <string name="more_files">{count,plural, =1{+ વધુ # ફાઇલ}one{+ વધુ # ફાઇલ}other{+ વધુ # ફાઇલ}}</string>
+    <string name="noApplications">કોઈ ઍપ્લિકેશન આ ક્રિયા કરી શકતી નથી.</string>
+    <string name="other_files">{count,plural, =1{+ # ફાઇલ}one{+ # ફાઇલ}other{+ # ફાઇલ}}</string>
+    <string name="pin_specific_target">%1$sને પિન કરો</string>
+    <string name="resolver_cant_access_personal_apps_explanation">આ કન્ટેન્ટ વ્યક્તિગત ઍપ વડે ખોલી શકાતું નથી</string>
+    <string name="resolver_cant_access_work_apps_explanation">આ કન્ટેન્ટ ઑફિસ માટેની ઍપ વડે ખોલી શકાતું નથી</string>
+    <string name="resolver_cant_share_with_personal_apps_explanation">આ કન્ટેન્ટ વ્યક્તિગત ઍપ સાથે શેર કરી શકાતું નથી</string>
+    <string name="resolver_cant_share_with_work_apps_explanation">આ કન્ટેન્ટ ઑફિસ માટેની ઍપ સાથે શેર કરી શકાતું નથી</string>
+    <string name="resolver_cross_profile_blocked">તમારા IT વ્યવસ્થાપકે બ્લૉક કર્યું છે</string>
+    <string name="resolver_no_personal_apps_available">કોઈ વ્યક્તિગત ઍપ સપોર્ટ કરતી નથી</string>
+    <string name="resolver_no_work_apps_available">કોઈ ઑફિસ માટેની ઍપ સપોર્ટ કરતી નથી</string>
+    <string name="resolver_personal_tab">વ્યક્તિગત</string>
+    <string name="resolver_personal_tab_accessibility">વ્યક્તિગત વ્યૂ</string>
+    <string name="resolver_switch_on_work">ફરી ચાલુ કરો</string>
+    <string name="resolver_turn_on_work_apps">ઑફિસ માટેની ઍપ થોભાવવામાં આવી છે</string>
+    <string name="resolver_work_tab">ઑફિસ</string>
+    <string name="resolver_work_tab_accessibility">ઑફિસ વ્યૂ</string>
+    <string name="screenshot_edit">ફેરફાર કરો</string>
+    <string name="search_menu_title">શોધો</string>
+    <string name="sharing_files">{count,plural, =1{# ફાઇલ શેર કરી રહ્યાં છીએ}one{# ફાઇલ શેર કરી રહ્યાં છીએ}other{# ફાઇલ શેર કરી રહ્યાં છીએ}}</string>
+    <string name="sharing_files_only">{count,plural, =1{ફક્ત ફાઇલ}one{ફક્ત ફાઇલ}other{ફક્ત ફાઇલો}}</string>
+    <string name="sharing_files_with_link">{count,plural, =1{લિંક સાથે ફાઇલ શેર કરી રહ્યાં છીએ}one{લિંક સાથે # ફાઇલ શેર કરી રહ્યાં છીએ}other{લિંક સાથે # ફાઇલ શેર કરી રહ્યાં છીએ}}</string>
+    <string name="sharing_files_with_text">{count,plural, =1{ટેક્સ્ટ સાથે ફાઇલ શેર કરી રહ્યાં છીએ}one{ટેક્સ્ટ સાથે # ફાઇલ શેર કરી રહ્યાં છીએ}other{ટેક્સ્ટ સાથે # ફાઇલ શેર કરી રહ્યાં છીએ}}</string>
+    <string name="sharing_images">{count,plural, =1{છબી શેર કરી રહ્યાં છીએ}one{# છબી શેર કરી રહ્યાં છીએ}other{# છબી શેર કરી રહ્યાં છીએ}}</string>
+    <string name="sharing_images_only">{count,plural, =1{માત્ર છબી}one{માત્ર છબી}other{માત્ર છબીઓ}}</string>
+    <string name="sharing_images_with_link">{count,plural, =1{લિંક સાથે છબી શેર કરી રહ્યાં છીએ}one{લિંક સાથે # છબી શેર કરી રહ્યાં છીએ}other{લિંક સાથે # છબી શેર કરી રહ્યાં છીએ}}</string>
+    <string name="sharing_images_with_text">{count,plural, =1{ટેક્સ્ટ સાથે છબી શેર કરી રહ્યાં છીએ}one{ટેક્સ્ટ સાથે # છબી શેર કરી રહ્યાં છીએ}other{ટેક્સ્ટ સાથે # છબી શેર કરી રહ્યાં છીએ}}</string>
+    <string name="sharing_link">લિંક શેર કરી રહ્યાં છીએ</string>
+    <string name="sharing_text">ટેક્સ્ટ શેર કરીએ છીએ</string>
+    <string name="sharing_videos">{count,plural, =1{વીડિયો શેર કરીએ છીએ}one{# વીડિયો શેર કરીએ છીએ}other{# વીડિયો શેર કરીએ છીએ}}</string>
+    <string name="sharing_videos_only">{count,plural, =1{ફક્ત વીડિયો}one{ફક્ત વીડિયો}other{ફક્ત વીડિયો}}</string>
+    <string name="sharing_videos_with_link">{count,plural, =1{લિંક સાથે વીડિયો શેર કરી રહ્યાં છીએ}one{લિંક સાથે # વીડિયો શેર કરી રહ્યાં છીએ}other{લિંક સાથે # વીડિયો શેર કરી રહ્યાં છીએ}}</string>
+    <string name="sharing_videos_with_text">{count,plural, =1{ટેક્સ્ટ સાથે વીડિયો શેર કરી રહ્યાં છીએ}one{ટેક્સ્ટ સાથે # વીડિયો શેર કરી રહ્યાં છીએ}other{ટેક્સ્ટ સાથે # વીડિયો શેર કરી રહ્યાં છીએ}}</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="unpin_specific_target">%1$sને અનપિન કરો</string>
+    <string name="usb_device_resolve_prompt_warn">આ ઍપને રેકૉર્ડ કરવાની પરવાનગી આપવામાં આવી નથી પરંતુ તે આ USB ડિવાઇસ મારફતે ઑડિયો કૅપ્ચર કરી શકે છે.</string>
+    <string name="use_a_different_app">અલગ એપ્લિકેશનનો ઉપયોગ કરો</string>
+    <string name="video_preview_a11y_description">વીડિયોના પ્રીવ્યૂની થંબનેલ</string>
+    <string name="whichApplication">આના ઉપયોગથી ક્રિયા પૂર્ણ કરો</string>
+    <string name="whichApplicationLabel">ક્રિયા પૂર્ણ કરો</string>
+    <string name="whichApplicationNamed">%1$sના ઉપયોગથી ક્રિયા પૂર્ણ કરો</string>
+    <string name="whichEditApplication">આનાથી સંપાદિત કરો</string>
+    <string name="whichEditApplicationLabel">ફેરફાર કરો</string>
+    <string name="whichEditApplicationNamed">%1$s વડે ફેરફાર કરો</string>
+    <string name="whichGiveAccessToApplicationLabel">ઍક્સેસ આપો</string>
+    <string name="whichHomeApplication">હોમ ઍપ્લિકેશન પસંદ કરો</string>
+    <string name="whichHomeApplicationLabel">છબી કૅપ્ચર કરો</string>
+    <string name="whichHomeApplicationNamed">Home ઍપ તરીકે %1$sનો ઉપયોગ કરો</string>
+    <string name="whichImageCaptureApplication">આની સાથે છબી કૅપ્ચર કરો</string>
+    <string name="whichImageCaptureApplicationLabel">છબી કૅપ્ચર કરો</string>
+    <string name="whichImageCaptureApplicationNamed">%1$s વડે છબી કૅપ્ચર કરો</string>
+    <string name="whichOpenHostLinksWith">આના વડે %1$s લિંક ખોલો</string>
+    <string name="whichOpenHostLinksWithApp">%2$s વડે %1$s લિંક ખોલો</string>
+    <string name="whichOpenLinksWith">આના વડે લિંક ખોલો</string>
+    <string name="whichOpenLinksWithApp">%1$s વડે લિંક ખોલો</string>
+    <string name="whichSendApplication">શેર કરો</string>
+    <string name="whichSendApplicationLabel">શેર કરો</string>
+    <string name="whichSendApplicationNamed">%1$s વડે શેર કરો</string>
+    <string name="whichSendToApplication">આનો ઉપયોગ કરીને મોકલો</string>
+    <string name="whichSendToApplicationLabel">મોકલો</string>
+    <string name="whichSendToApplicationNamed">%1$sનો ઉપયોગ કરીને મોકલો</string>
+    <string name="whichViewApplication">આની સાથે ખોલો</string>
+    <string name="whichViewApplicationLabel">ખોલો</string>
+    <string name="whichViewApplicationNamed">%1$s વડે ખોલો</string>
+</resources>

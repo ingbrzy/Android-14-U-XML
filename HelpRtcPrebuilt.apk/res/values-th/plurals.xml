@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="gh_yt_video_num_views">
+        <item quantity="other">ดู %1$s ครั้ง</item>
+        <item quantity="one">ดู 1 ครั้ง</item>
+    </plurals>
+</resources>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">שירותים למכשירים המקושרים למכשיר אחר</string>
+    <string name="app_name_generic">אפליקציה</string>
+    <string name="app_stream_error_generic">אירעה שגיאה במהלך שיתוף האפליקציה</string>
+    <string name="app_stream_init_error_generic">שיתוף האפליקציה ל-Chromebook לא הצליח</string>
+    <string name="audio_permission_rationale">הרשאת הגישה למיקרופון מושבתת עבור שיתוף אפליקציות</string>
+    <string name="cancel_button_label">ביטול</string>
+    <string name="chromebook_keyboard">מקלדת של Chromebook</string>
+    <string name="chromebook_mouse">עכבר של Chromebook</string>
+    <string name="chromebook_touchscreen">מסך מגע של Chromebook</string>
+    <string name="connect_device">מתבצע חיבור בין הטלפון שלך לבין מכשיר המחובר לרשת אחרת: %1$s</string>
+    <string name="decline_button_label">דחייה</string>
+    <string name="development_notification_channel_name">פיתוח</string>
+    <string name="device_camera_cannot_access">לא ניתן לגשת למצלמת המכשיר מה-Chromebook הזה</string>
+    <string name="done_button_label">סיום</string>
+    <string name="enable_button_label">הפעלה</string>
+    <string name="foreground_service_notification_channel_name">כללי</string>
+    <string name="foreground_service_notification_content">יש להקיש כדי לשנות את ההגדרות</string>
+    <string name="foreground_service_notification_title">{0,plural, =1{מחובר למכשיר אחד}one{מחובר ל-# מכשירים}two{מחובר ל-# מכשירים}other{מחובר ל-# מכשירים}}</string>
+    <string name="interactive_streaming_generic_notification">סטרימינג ל-%1$s וסנכרון התראות ל-Chromebook</string>
+    <string name="interactive_streaming_individual_notification">מתבצע שידור של %1$s וסנכרון התראות ל‑%2$s</string>
+    <string name="interactive_streaming_notification">מבצע סטרימינג ל-Chromebook</string>
+    <string name="keyboard_name">מקלדת שמקושרת למכשיר אחר</string>
+    <string name="lock_screen_notif_warning_content">יש להפעיל את ההתראות במסך הנעילה</string>
+    <string name="lock_screen_notif_warning_title">ההתראות לא יועברו</string>
+    <string name="mouse_name">עכבר שמקושר למכשיר אחר</string>
+    <string name="new_connection_confirm">אישור</string>
+    <string name="new_connection_deny">דחייה</string>
+    <string name="new_connection_title">יש לאשר את ההתאמות למחרוזת</string>
+    <string name="notification_access_missing">נדרשת גישה להתראות</string>
+    <string name="notification_access_missing_description">כדי לפתוח את ההתראות ב-Chromebook, יש להפעיל את הגישה להתראות</string>
+    <string name="notification_channel_name">כללי</string>
+    <string name="notification_listener_label">שיתוף אפליקציות למכשיר Chromebook</string>
+    <string name="open_source_licenses">רישיונות קוד פתוח</string>
+    <string name="phone_permission_rationale">הרשאת הגישה לשיחות טלפון מושבתת עבור שיתוף האפליקציות</string>
+    <string name="prompt_switch_languages">יש ללחוץ על Shift + רווח כדי לשנות את השפה של Gboard בטלפון</string>
+    <string name="settings_button">הגדרות</string>
+    <string name="stop_sharing_button">סיום השידור</string>
+    <string name="stream_termination_proximity_warning">הטלפון שלך רחוק מדי. עליך לקרב אותו כדי להמשיך בסטרימינג.</string>
+    <string name="substitute_app_name">מערכת</string>
+    <string name="summary_disable_wirecutter">כבוי</string>
+    <string name="summary_enable_wirecutter">פועל</string>
+    <string name="touchscreen_name">מסך מגע שמקושר למכשיר אחר</string>
+</resources>

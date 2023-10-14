@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="azure_title">Плава чавка</string>
+    <string name="blackswan_title">Црни лабуд</string>
+    <string name="cockatoo_title">Какаду</string>
+    <string name="come_alive_title">Динамичне позадине</string>
+    <string name="feathers_attribution">Аутор слике: Ендру Цукерман</string>
+    <string name="feathers_description">Пернати приказ боје и детаља</string>
+    <string name="feathers_title">Перје</string>
+    <string name="greenwinged_title">Зеленокрила ара</string>
+    <string name="king_title">Краљевски лешинар</string>
+    <string name="living_universe_title">Живи универзум</string>
+    <string name="photos_memory_gallery_title">Успомене</string>
+    <string name="pied_title">Бела врана</string>
+    <string name="ringnecked_title">Мали александар</string>
+    <string name="seagull_title">Галеб</string>
+</resources>

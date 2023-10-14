@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Googles tilkoblingstjeneste</string>
+    <string name="notification_channel_background_services">Bakgrunnstjenester</string>
+    <string name="notification_channel_feedback">Forespørsler om tilbakemelding</string>
+</resources>

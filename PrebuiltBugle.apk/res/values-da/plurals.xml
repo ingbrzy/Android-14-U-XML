@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="add_invalid_contact_error">
+        <item quantity="other">Ugyldige kontakter</item>
+        <item quantity="one">Ugyldig kontaktperson</item>
+    </plurals>
+    <plurals name="and_n_more_plural">
+        <item quantity="other">og %d til</item>
+        <item quantity="one">and %d more</item>
+    </plurals>
+    <plurals name="archived_toast_message">
+        <item quantity="other">%d samtaler blev arkiveret</item>
+        <item quantity="one">%d samtale blev arkiveret</item>
+    </plurals>
+    <plurals name="attachment_changed_accessibility_announcement">
+        <item quantity="other">%d vedhæftede filer er klar til at blive sendt</item>
+        <item quantity="one">%d vedhæftet fil er klar til at blive sendt</item>
+    </plurals>
+    <plurals name="attachment_preview_photos_link_share_title">
+        <item quantity="other">%d elementer</item>
+        <item quantity="one">%d element</item>
+    </plurals>
+    <plurals name="attachment_preview_photos_link_share_title_videos">
+        <item quantity="other">%d videoer</item>
+        <item quantity="one">%d video</item>
+    </plurals>
+    <plurals name="attachment_save_error">
+        <item quantity="other">%d vedhæftede filer kunne ikke gemmes</item>
+        <item quantity="one">%d vedhæftet fil kunne ikke gemmes</item>
+    </plurals>
+    <plurals name="attachments_saved">
+        <item quantity="other">%d vedhæftede filer blev gemt</item>
+        <item quantity="one">%d vedhæftet fil blev gemt</item>
+    </plurals>
+    <plurals name="audiobubble_slider_minutes_state_description">
+        <item quantity="other">%d minutter</item>
+        <item quantity="one">%d minut</item>
+    </plurals>
+    <plurals name="audiobubble_slider_seconds_state_description">
+        <item quantity="other">%d sekunder</item>
+        <item quantity="one">%d sekund</item>
+    </plurals>
+    <plurals name="badge_content_description">
+        <item quantity="other">%1$d %2$s-badges</item>
+        <item quantity="one">%1$d %2$s-badge</item>
+    </plurals>
+    <plurals name="bugle_content_description_num_minutes_ago">
+        <item quantity="other">%d minutter</item>
+        <item quantity="one">%d minut</item>
+    </plurals>
+    <plurals name="bugle_num_minutes_ago">
+        <item quantity="other">%d min.</item>
+        <item quantity="one">%d min</item>
+    </plurals>
+    <plurals name="content_description_duration_hours">
+        <item quantity="other">%d timer</item>
+        <item quantity="one">%d time</item>
+    </plurals>
+    <plurals name="content_description_duration_minutes">
+        <item quantity="other">%d minutter</item>
+        <item quantity="one">%d minut</item>
+    </plurals>
+    <plurals name="content_description_duration_seconds">
+        <item quantity="other">%d sekunder</item>
+        <item quantity="one">%d sekund</item>
+    </plurals>
+    <plurals name="delete_conversations_confirmation_dialog_title">
+        <item quantity="other">Vil du slette %d samtaler?</item>
+        <item quantity="one">Vil du slette %d samtale?</item>
+    </plurals>
+    <plurals name="delete_conversations_confirmation_dialog_title_supersort_otp">
+        <item quantity="other">Vil du slette beskeder om Engangskode i %d samtaler?</item>
+        <item quantity="one">Vil du slette beskeder om Engangskode i %d samtale?</item>
+    </plurals>
+    <plurals name="delete_conversations_confirmation_dialog_title_supersort_promo">
+        <item quantity="other">Vil du slette beskeder om Tilbuddet i %d samtaler?</item>
+        <item quantity="one">Vil du slette beskeder om Tilbuddet i %d samtale?</item>
+    </plurals>
+    <plurals name="delete_conversations_confirmation_dialog_title_supersort_transaction">
+        <item quantity="other">Vil du slette beskeder om Transaktionen i %d samtaler?</item>
+        <item quantity="one">Vil du slette beskeder om Transaktionen i %d samtale?</item>
+    </plurals>
+    <plurals name="delete_conversations_confirmation_dialog_title_supersort_update">
+        <item quantity="other">Vil du slette beskeder om Opdateringer i %d samtaler?</item>
+        <item quantity="one">Vil du slette beskeder om Opdateringer i %d samtale?</item>
+    </plurals>
+    <plurals name="delete_message_confirmation_dialog_title">
+        <item quantity="other">Vil du slette %d beskeder?</item>
+        <item quantity="one">Vil du slette %d besked?</item>
+    </plurals>
+    <plurals name="deleted_toast_message">
+        <item quantity="other">%d samtaler er slettet</item>
+        <item quantity="one">%d samtale er slettet</item>
+    </plurals>
+    <plurals name="donation_conversation_selected_count_content_description">
+        <item quantity="other">%1$d er valgt</item>
+        <item quantity="one">%1$d selected</item>
+    </plurals>
+    <plurals name="donation_conversation_total_count_content_description">
+        <item quantity="other">af %1$d</item>
+        <item quantity="one">of %1$d</item>
+    </plurals>
+    <plurals name="donation_donate_dialog_body_text_conversations">
+        <item quantity="other">%d afsendere</item>
+        <item quantity="one">%d afsender</item>
+    </plurals>
+    <plurals name="donation_donate_dialog_body_text_messages">
+        <item quantity="other">%d beskeder</item>
+        <item quantity="one">%d messages</item>
+    </plurals>
+    <plurals name="donation_toolbar_title">
+        <item quantity="other">%d er valgt</item>
+        <item quantity="one">%d selected</item>
+    </plurals>
+    <plurals name="encryption_status_self_and_other_users_group">
+        <item quantity="other">E2E-kryptering til grupper er ikke tilgængelig for dig og %1$s andre. %2$s</item>
+        <item quantity="one">E2E-kryptering til grupper er ikke tilgængelig for dig og %1$s anden. %2$s</item>
+    </plurals>
+    <plurals name="encryption_status_user_and_other_users_group">
+        <item quantity="other">E2E-kryptering til grupper er ikke tilgængelig for %1$s og %2$s andre. %3$s</item>
+        <item quantity="one">E2E-kryptering til grupper er ikke tilgængelig for %1$s og %2$s anden. %3$s</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Spol %d sekunder frem</item>
+        <item quantity="one">Spol %d sekund frem</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Spol %d sekunder tilbage</item>
+        <item quantity="one">Spol %d sekund tilbage</item>
+    </plurals>
+    <plurals name="extras_in_joinlist">
+        <item quantity="other">og %d mere</item>
+        <item quantity="one">og %d mere</item>
+    </plurals>
+    <plurals name="failed_to_select_attachments_from_system_picker">
+        <item quantity="other">%d vedhæftede filer blev ikke valgt</item>
+        <item quantity="one">%d vedhæftet fil blev ikke valgt</item>
+    </plurals>
+    <plurals name="lt_num_minutes_ago">
+        <item quantity="other">%1$d min.</item>
+        <item quantity="one">%1$d min</item>
+    </plurals>
+    <plurals name="mediapicker_gallery_title_selection">
+        <item quantity="other">%d er vedhæftet</item>
+        <item quantity="one">%d er vedhæftet</item>
+    </plurals>
+    <plurals name="mediapicker_gallery_title_selection_alternate">
+        <item quantity="other">%d er valgt</item>
+        <item quantity="one">%d selected</item>
+    </plurals>
+    <plurals name="message_deleted_count">
+        <item quantity="other">%d beskeder er slettet</item>
+        <item quantity="one">%d besked er slettet</item>
+    </plurals>
+    <plurals name="message_selected_count">
+        <item quantity="other">%d beskeder er valgt</item>
+        <item quantity="one">%d besked er valgt</item>
+    </plurals>
+    <plurals name="message_status_media_seen_by_list">
+        <item quantity="other">Set af %s</item>
+        <item quantity="one">Set af %s</item>
+    </plurals>
+    <plurals name="message_status_recipients_failed_decryption">
+        <item quantity="other">%1$s modtagere kan ikke dekryptere. Tryk for at se valgmuligheder</item>
+        <item quantity="one">%1$s modtager kan ikke dekryptere. Tryk for at se valgmuligheder</item>
+    </plurals>
+    <plurals name="message_status_recipients_failed_decryption_no_options">
+        <item quantity="other">%1$s modtagere kan ikke dekryptere</item>
+        <item quantity="one">%1$s modtager kan ikke dekryptere</item>
+    </plurals>
+    <plurals name="message_status_seen_by_list">
+        <item quantity="other">Læst af %s</item>
+        <item quantity="one">Læst af %s</item>
+    </plurals>
+    <plurals name="month_count">
+        <item quantity="other">%d måneder</item>
+        <item quantity="one">%d måned</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nye notifikationer</item>
+        <item quantity="one">%d ny notifikation</item>
+    </plurals>
+    <plurals name="multiple_typing_indicators_in_groups">
+        <item quantity="other">%d personer skriver…</item>
+        <item quantity="one">%d people typing…</item>
+    </plurals>
+    <plurals name="name_and_other_plural">
+        <item quantity="other">%1$s + %2$s andre</item>
+        <item quantity="one">%1$s + %2$s anden</item>
+    </plurals>
+    <plurals name="notification2o_new_messages">
+        <item quantity="other">%d nye beskeder</item>
+        <item quantity="one">%d ny besked</item>
+    </plurals>
+    <plurals name="notification_delivery_failures_line2_plural">
+        <item quantity="other">%1$d beskeder til %2$d kan ikke leveres</item>
+        <item quantity="one">%1$d besked til %2$d kan ikke leveres</item>
+    </plurals>
+    <plurals name="notification_download_failures">
+        <item quantity="other">%1$d beskeder i %2$d samtaler</item>
+        <item quantity="one">%1$d beskeder i %2$d samtale</item>
+    </plurals>
+    <plurals name="notification_new_messages">
+        <item quantity="other">%d nye beskeder</item>
+        <item quantity="one">%d ny besked</item>
+    </plurals>
+    <plurals name="notification_new_reminders">
+        <item quantity="other">%d nye påmindelser</item>
+        <item quantity="one">%d ny påmindelse</item>
+    </plurals>
+    <plurals name="notification_picture_count">
+        <item quantity="other">%d billeder</item>
+        <item quantity="one">%d billede</item>
+    </plurals>
+    <plurals name="notification_video_count">
+        <item quantity="other">%d videoer</item>
+        <item quantity="one">%d video</item>
+    </plurals>
+    <plurals name="notification_waiting_for_connection_timeout_line2_plural">
+        <item quantity="other">%1$d beskeder i %2$d samtaler er ikke blevet sendt</item>
+        <item quantity="one">%1$d beskeder i %2$d samtale er ikke blevet sendt</item>
+    </plurals>
+    <plurals name="number_of_characters_remaining_in_message">
+        <item quantity="other">%1$d tegn tilbage til beskeden</item>
+        <item quantity="one">%1$d tegn tilbage til beskeden</item>
+    </plurals>
+    <plurals name="number_of_users_typing_message">
+        <item quantity="other">%d personer skriver</item>
+        <item quantity="one">%d person skriver</item>
+    </plurals>
+    <plurals name="original_image_plural_info">
+        <item quantity="other">%d billeder</item>
+        <item quantity="one">%d billede</item>
+    </plurals>
+    <plurals name="original_images_only_saved_info">
+        <item quantity="other">%1$d billeder blev gemt i mappen %2$s</item>
+        <item quantity="one">%1$d billede blev gemt i mappen %2$s</item>
+    </plurals>
+    <plurals name="original_video_plural_info">
+        <item quantity="other">%d videoer</item>
+        <item quantity="one">%d video</item>
+    </plurals>
+    <plurals name="original_videos_only_saved_info">
+        <item quantity="other">%1$d videoer blev gemt i mappen %2$s</item>
+        <item quantity="one">%1$d video blev gemt i mappen %2$s</item>
+    </plurals>
+    <plurals name="p2p_conversation_suggestion_share_recent_image_display_text">
+        <item quantity="other">Vedhæft nylige billeder</item>
+        <item quantity="one">Vedhæft nyligt billede</item>
+    </plurals>
+    <plurals name="participant_list_count_title">
+        <item quantity="other">%d personer</item>
+        <item quantity="one">%d person</item>
+    </plurals>
+    <plurals name="photos_saved_to_folder">
+        <item quantity="other">%1$d billeder blev gemt i %2$s</item>
+        <item quantity="one">%1$d billede blev gemt i %2$s</item>
+    </plurals>
+    <plurals name="pin_limit_messages_plural">
+        <item quantity="other">Du kan fastgøre op til %1$d samtaler</item>
+        <item quantity="one">Du kan fastgøre op til %1$d samtale</item>
+    </plurals>
+    <plurals name="pin_success_message_plural">
+        <item quantity="other">%1$d af %2$d samtaler blev fastgjort</item>
+        <item quantity="one">%1$d af %2$d samtale blev fastgjort</item>
+    </plurals>
+    <plurals name="plus_n_plural">
+        <item quantity="other">Mere end %d til</item>
+        <item quantity="one">Mere end %d til</item>
+    </plurals>
+    <plurals name="rcs_not_delivered_notification_text">
+        <item quantity="other">Modtagerne er muligvis offline</item>
+        <item quantity="one">Modtageren er muligvis offline</item>
+    </plurals>
+    <plurals name="rcs_not_delivered_notification_title">
+        <item quantity="other">Beskederne er ikke leveret</item>
+        <item quantity="one">Beskeden er ikke leveret</item>
+    </plurals>
+    <plurals name="rcs_still_sending_notification_text">
+        <item quantity="other">Tjek %1$d samtaler for at se valgmuligheder for afsendelse</item>
+        <item quantity="one">Tjek %1$d samtale for at se valgmuligheder for afsendelse</item>
+    </plurals>
+    <plurals name="rcs_still_sending_notification_title">
+        <item quantity="other">%1$d beskeder er ikke blevet sendt</item>
+        <item quantity="one">%1$d besked er ikke blevet sendt</item>
+    </plurals>
+    <plurals name="reaction_badge_content_description">
+        <item quantity="other">%1$d %2$s reaktioner</item>
+        <item quantity="one">%1$d %2$s reaktion</item>
+    </plurals>
+    <plurals name="resize_service_notification_title_attachment_plural">
+        <item quantity="other">%d vedhæftede filer sendes</item>
+        <item quantity="one">%d vedhæftet fil sendes</item>
+    </plurals>
+    <plurals name="resize_service_notification_title_photo_plural">
+        <item quantity="other">%d billeder sendes</item>
+        <item quantity="one">%d billede sendes</item>
+    </plurals>
+    <plurals name="resize_service_notification_title_video_plural">
+        <item quantity="other">%d videoer sendes</item>
+        <item quantity="one">%d video sendes</item>
+    </plurals>
+    <plurals name="scheduled_message">
+        <item quantity="other">Planlagte beskeder</item>
+        <item quantity="one">Planlagt besked</item>
+    </plurals>
+    <plurals name="scheduled_message_toggle">
+        <item quantity="other">Planlagte beskeder (%d)</item>
+        <item quantity="one">Planlagt besked (%d)</item>
+    </plurals>
+    <plurals name="selected_count">
+        <item quantity="other">%d er valgt</item>
+        <item quantity="one">%d selected</item>
+    </plurals>
+    <plurals name="stuck_in_sending_notification_text_beta">
+        <item quantity="other">%1$s beskeder sendes stadig til %2$s. Tryk for at sende feedback til Google. Din feedback i beta er med til at forbedre Beskeder.</item>
+        <item quantity="one">%1$s besked sendes stadig til %2$s. Tryk for at sende feedback til Google. Din feedback i beta er med til at forbedre Beskeder.</item>
+    </plurals>
+    <plurals name="stuck_in_sending_notification_title">
+        <item quantity="other">Beskeder sendes stadig</item>
+        <item quantity="one">En besked sendes stadig</item>
+    </plurals>
+    <plurals name="stuck_in_sending_notification_view_message_action_button">
+        <item quantity="other">Vis beskeder</item>
+        <item quantity="one">Vis besked</item>
+    </plurals>
+    <plurals name="survey_star_rating">
+        <item quantity="other">%1$d stjerner ud af %2$d</item>
+        <item quantity="one">%1$d stjerne ud af %2$d</item>
+    </plurals>
+    <plurals name="text_results_bar_results">
+        <item quantity="other">%1$d/%2$d resultater fundet</item>
+        <item quantity="one">%1$d/%2$d resultater fundet</item>
+    </plurals>
+    <plurals name="typing_indicator_many">
+        <item quantity="other">%1$s og %2$s andre skriver</item>
+        <item quantity="one">%1$s og %2$s anden skriver</item>
+    </plurals>
+    <plurals name="unarchived_toast_message">
+        <item quantity="other">Arkiveringen af %d samtaler blev annulleret</item>
+        <item quantity="one">Arkiveringen af %d samtale blev annulleret</item>
+    </plurals>
+    <plurals name="unread_with_count">
+        <item quantity="other">%d ulæste beskeder</item>
+        <item quantity="one">%d ulæst besked</item>
+    </plurals>
+    <plurals name="vcard_multiple_display_name">
+        <item quantity="other">%d kontakter</item>
+        <item quantity="one">%d kontakt</item>
+    </plurals>
+    <plurals name="vcard_tap_hint_new">
+        <item quantity="other">Se kontakter</item>
+        <item quantity="one">Se kontaktperson</item>
+    </plurals>
+    <plurals name="videos_saved_to_folder">
+        <item quantity="other">%1$d videoer blev gemt i %2$s</item>
+        <item quantity="one">%1$d video blev gemt i %2$s</item>
+    </plurals>
+    <plurals name="voice_messages_saved_to_folder">
+        <item quantity="other">%1$d videobeskeder blev gemt i %2$s</item>
+        <item quantity="one">%1$d videobesked blev gemt i %2$s</item>
+    </plurals>
+    <plurals name="week_count">
+        <item quantity="other">%d uger</item>
+        <item quantity="one">%d uge</item>
+    </plurals>
+    <plurals name="year_count">
+        <item quantity="other">%d år</item>
+        <item quantity="one">%d år</item>
+    </plurals>
+</resources>

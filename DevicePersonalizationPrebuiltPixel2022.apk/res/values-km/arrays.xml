@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="call_captions_typing_predictions_post_system_message">
+        <item>សួស្ដី តើអ្នក​ជានរណា?</item>
+        <item>សួស្ដី តើអ្នក​សុខសប្បាយទេ?</item>
+        <item>សូមរង់ចាំ​បន្តិច</item>
+        <item>សួស្ដី តើអ្នកអាចហៅទូរសព្ទទៅវិញពេលក្រោយបានទេ?</item>
+        <item>សួស្ដី! សូមអរគុណសម្រាប់​ការហៅទូរសព្ទ។</item>
+    </string-array>
+    <string-array name="captions_settings_enable_for_calls_choices_entries">
+        <item>សួរគ្រប់ពេល</item>
+        <item>ជានិច្ច</item>
+        <item>បិទ</item>
+    </string-array>
+    <string-array name="captions_settings_typing_voice_names">
+        <item>សំឡេង A</item>
+        <item>សំឡេង B</item>
+        <item>សំឡេង C</item>
+        <item>សំឡេង D</item>
+        <item>សំឡេង E</item>
+        <item>សំឡេង F</item>
+        <item>សំឡេង G</item>
+        <item>សំឡេង H</item>
+        <item>សំឡេង I</item>
+        <item>សំឡេង J</item>
+        <item>សំឡេង K</item>
+        <item>សំឡេង L</item>
+        <item>សំឡេង M</item>
+        <item>សំឡេង N</item>
+        <item>សំឡេង O</item>
+        <item>សំឡេង P</item>
+    </string-array>
+    <string-array name="pref_download_policy_entries">
+        <item>ទិន្នន័យ​ទូរសព្ទចល័ត + WiFi</item>
+        <item>WiFi តែប៉ុណ្ណោះ</item>
+        <item>កុំធ្វើបច្ចុប្បន្នភាព</item>
+    </string-array>
+    <string-array name="pref_download_policy_entry_values_placeholder">
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+</resources>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="call_captions_typing_predictions_post_system_message">
+        <item>Pronto, chi parla?</item>
+        <item>Ciao, come stai?</item>
+        <item>Puoi restare in linea un attimo</item>
+        <item>Ciao, puoi richiamare più tardi?</item>
+        <item>Ciao! Grazie per aver chiamato.</item>
+    </string-array>
+    <string-array name="captions_settings_enable_for_calls_choices_entries">
+        <item>Chiedi ogni volta</item>
+        <item>Sempre</item>
+        <item>Mai</item>
+    </string-array>
+    <string-array name="captions_settings_typing_voice_names">
+        <item>Voce A</item>
+        <item>Voce B</item>
+        <item>Voce C</item>
+        <item>Voce D</item>
+        <item>Voce E</item>
+        <item>Voce F</item>
+        <item>Voce G</item>
+        <item>Voce H</item>
+        <item>Voce I</item>
+        <item>Voce J</item>
+        <item>Voce K</item>
+        <item>Voce L</item>
+        <item>Voce M</item>
+        <item>Voce N</item>
+        <item>Voce O</item>
+        <item>Voce P</item>
+    </string-array>
+    <string-array name="pref_download_policy_entries">
+        <item>Dati mobili + Wi-Fi</item>
+        <item>Solo Wi-Fi</item>
+        <item>Non aggiornare</item>
+    </string-array>
+    <string-array name="pref_download_policy_entry_values_placeholder">
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+</resources>

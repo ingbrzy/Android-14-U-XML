@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dolphin_html_description">Audio dan perbualan latar tidak dihantar kepada Google, melainkan anda memilih untuk menghantar maklum balas tentang kualiti bunyi</string>
+    <string name="live_transcribe_html_description">Apabila menggunakan Transkripsi Segera, anda boleh:&lt;br/> &lt;ol> &lt;li> Taip respons kepada transkripsi yang anda lihat pada skrin&lt;/li> &lt;li> Dapatkan makluman apabila nama anda disebut&lt;/li> &lt;li> Cari dalam transkripsi&lt;/li> &lt;/ol>&lt;br/> Google memproses perbualan anda, tetapi tidak sekali-kali menyimpan perbualan tersebut</string>
+    <string name="dolphin_intro">Peranti anda akan mengesan bunyi yang anda mahu diberitahu, seperti bunyi bip penggera asap atau bayi menangis</string>
+    <string name="scribe_intro">Transkripsi Segera menunjukkan pertuturan sebagai teks pada skrin supaya anda boleh menyertai perbualan di sekeliling anda dengan lebih mudah</string>
+</resources>

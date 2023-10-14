@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dlg_message_deletion_confirmation">
+        <item quantity="other">ඔබගේ පටිගත කිරීම් ස්ථිරවම මකනු ඇත. මෙම ක්‍රියාව පසුගමනය කළ නොහැකිය.</item>
+        <item quantity="one">ඔබගේ පටිගත කිරීම් ස්ථිරවම මකනු ඇත. මෙම ක්‍රියාව පසුගමනය කළ නොහැකිය.</item>
+    </plurals>
+    <plurals name="dlg_message_deletion_permanent_confirmation">
+        <item quantity="other">පටිගත කිරීම් උපස්ථ කර නැත. මේවා ස්ථිරවම මකනු ඇත. ඔබට මෙම ක්‍රියාව පසුගමනය කළ නොහැකිය.</item>
+        <item quantity="one">පටිගත කිරීම් උපස්ථ කර නැත. මේවා ස්ථිරවම මකනු ඇත. ඔබට මෙම ක්‍රියාව පසුගමනය කළ නොහැකිය.</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_confirmation">
+        <item quantity="other">පටිගත කිරීම් මකන්නද?</item>
+        <item quantity="one">පටිගත කිරීම් මකන්නද?</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_permanent_confirmation">
+        <item quantity="other">මෙම පටිගත කිරීම් ස්ථිරවම මකන්නද?</item>
+        <item quantity="one">මෙම පටිගත කිරීම් ස්ථිරවම මකන්නද?</item>
+    </plurals>
+    <plurals name="download_failure_description_storage_full">
+        <item quantity="other">උපාංග ගබඩාව පිරී ඇති නිසා පටිගත කිරීම් බාගැනීමට නොහැකිය. සමාලෝචනය කිරීමට තට්ටු කරන්න.</item>
+        <item quantity="one">උපාංග ගබඩාව පිරී ඇති නිසා පටිගත කිරීම් බාගැනීමට නොහැකිය. සමාලෝචනය කිරීමට තට්ටු කරන්න.</item>
+    </plurals>
+    <plurals name="downloading_description">
+        <item quantity="other">පටිගත කිරීම් %1$dක් බාගනිමින්</item>
+        <item quantity="one">පටිගත කිරීම් %1$dක් බාගනිමින්</item>
+    </plurals>
+    <plurals name="og_backup_failed_title">
+        <item quantity="other">අයිතම %1$dක් උපස්ථ කිරීමට අසමත් විය</item>
+        <item quantity="one">අයිතම %1$dක් උපස්ථ කිරීමට අසමත් විය</item>
+    </plurals>
+    <plurals name="og_backup_items_left">
+        <item quantity="other">අයිතම %1$dක් ඉතිරිය</item>
+        <item quantity="one">අයිතම %1$dක් ඉතිරිය</item>
+    </plurals>
+    <plurals name="og_backup_items_stopped_title">
+        <item quantity="other">අයිතම %1$dක් උපස්ථ නොකරන ලදී</item>
+        <item quantity="one">අයිතම %1$dක් උපස්ථ නොකරන ලදී</item>
+    </plurals>
+    <plurals name="peoplekit_chips_copied_recipients">
+        <item quantity="other">ලබන්නන් %d දෙනෙක් පිටපත් කරන ලදි</item>
+        <item quantity="one">ලබන්නන් %d දෙනෙක් පිටපත් කරන ලදි</item>
+    </plurals>
+    <plurals name="search_results_count">
+        <item quantity="other">ප්‍රතිඵල %1$d</item>
+        <item quantity="one">ප්‍රතිඵල %1$d</item>
+    </plurals>
+    <plurals name="search_results_position">
+        <item quantity="other">ප්‍රතිඵල ^1/^2</item>
+        <item quantity="one">ප්‍රතිඵල ^1/^2</item>
+    </plurals>
+    <plurals name="search_results_position_content_description">
+        <item quantity="other">ප්‍රතිඵල %2$dකින් %1$d</item>
+        <item quantity="one">ප්‍රතිඵල %2$dකින් %1$d</item>
+    </plurals>
+    <plurals name="selected_recording_quantity">
+        <item quantity="other">%1$dක් තෝරන ලදි</item>
+        <item quantity="one">%1$dක් තෝරන ලදි</item>
+    </plurals>
+    <plurals name="snackbar_message_download_failed_storage_full">
+        <item quantity="other">උපාංග ගබඩාව පිරී ඇත. පටිගත කිරීම් බාගැනීමට නොහැකිය.</item>
+        <item quantity="one">උපාංග ගබඩාව පිරී ඇත. පටිගත කිරීම් බාගැනීමට නොහැකිය.</item>
+    </plurals>
+    <plurals name="speaker_count">
+        <item quantity="other">ස්පීකර් %1$dක්</item>
+        <item quantity="one">ස්පීකර් %1$dක්</item>
+    </plurals>
+    <plurals name="uploading_description">
+        <item quantity="other">පටිගත කිරීම් %1$dක් උඩුගත කරමින්</item>
+        <item quantity="one">පටිගත කිරීම් %1$dක් උඩුගත කරමින්</item>
+    </plurals>
+</resources>

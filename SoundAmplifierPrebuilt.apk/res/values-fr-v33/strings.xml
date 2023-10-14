@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sound_amplifier_html_description">"L'Amplificateur de son fonctionne en amplifiant les sons les plus faibles sans que les sons les plus puissants ne deviennent trop forts&lt;br/>&lt;br/> &lt;b>Utilisation de l'Amplificateur de son&lt;/b>&lt;br/> 1. Branchez un casque filaire ou connectez un casque Bluetooth&lt;br/> 2. Démarrez l'Amplificateur de son"</string>
+    <string name="sound_amplifier_intro">"Utilisez l'Amplificateur de son avec un casque pour améliorer la qualité audio autour de vous et sur votre appareil"</string>
+</resources>

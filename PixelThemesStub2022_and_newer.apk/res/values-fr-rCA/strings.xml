@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bundle1_color_name">Carbone</string>
+    <string name="bundle2_color_name">Papier</string>
+    <string name="bundle3_color_name">Soleil</string>
+    <string name="color_name_monochromatic">Monochromatique</string>
+    <string name="default_color_name">Classique</string>
+    <string name="fruit1_color_name">Palette bicolore jaune et rouge</string>
+    <string name="fruit2_color_name">Palette bicolore vert et orange</string>
+    <string name="fruit3_color_name">Palette bicolore bleu et vert</string>
+    <string name="fruit4_color_name">Palette bicolore violet clair et bleu</string>
+    <string name="fruit5_color_name">Palette bicolore rose et indigo</string>
+    <string name="rainbow1_color_name">Rouge</string>
+    <string name="rainbow2_color_name">Orange</string>
+    <string name="rainbow3_color_name">Jaune</string>
+    <string name="rainbow4_color_name">Vert</string>
+    <string name="rainbow5_color_name">Bleu</string>
+    <string name="rainbow6_color_name">Indigo</string>
+    <string name="rainbow7_color_name">Violet</string>
+</resources>

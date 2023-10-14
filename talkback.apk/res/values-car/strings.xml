@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome_to_talkback_text">"TalkBack is a screen reader intended for situations or people who have difficulty seeing the screen. It gives you spoken feedback so that you can use your device without looking at the screen.
+
+When TalkBack is on, the focused item on the screen is spoken out loud.
+
+Swiping right will move to the next item, and swiping left will move to the previous item.
+
+Swipe right now to find the next button."</string>
+</resources>

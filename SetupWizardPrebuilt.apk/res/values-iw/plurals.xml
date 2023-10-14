@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="account_exists_text_multiple">
+        <item quantity="other">"החשבונות הבאים מוכנים:
+
+"&lt;annotation textAppearance="TextAppearance.SudDescription.Medium">^1&lt;/annotation></item>
+        <item quantity="one">"החשבונות הבאים מוכנים:
+
+"&lt;annotation textAppearance="TextAppearance.SudDescription.Medium">^1&lt;/annotation></item>
+        <item quantity="two">"החשבונות הבאים מוכנים:
+
+"&lt;annotation textAppearance="TextAppearance.SudDescription.Medium">^1&lt;/annotation></item>
+    </plurals>
+    <plurals name="people_contacts_sync_failure_in_contacts_title_in_portal">
+        <item quantity="other">לא ניתן לסנכרן %1$,d מתוך %2$,d אנשי קשר</item>
+        <item quantity="one">לא ניתן לסנכרן %1$,d מתוך %2$,d אנשי קשר</item>
+        <item quantity="two">לא ניתן לסנכרן %1$,d מתוך %2$,d אנשי קשר</item>
+    </plurals>
+    <plurals name="people_contacts_sync_failure_in_photos_title_in_portal">
+        <item quantity="other">לא ניתן לסנכרן %1$,d מתוך %2$,d תמונות של אנשי קשר</item>
+        <item quantity="one">לא ניתן לסנכרן %1$,d מתוך %2$,d תמונות של אנשי קשר</item>
+        <item quantity="two">לא ניתן לסנכרן %1$,d מתוך %2$,d תמונות של אנשי קשר</item>
+    </plurals>
+    <plurals name="people_contacts_sync_succeed_title_in_portal">
+        <item quantity="other">‏%,d אנשי קשר סונכרנו עם אנשי הקשר מחשבון Google</item>
+        <item quantity="one">‏%,d אנשי קשר סונכרנו עם אנשי הקשר מחשבון Google</item>
+        <item quantity="two">‏%,d אנשי קשר סונכרנו עם אנשי הקשר מחשבון Google</item>
+    </plurals>
+    <plurals name="qr_provision_toast">
+        <item quantity="other">%d הקשות נוספות כדי להתחיל בהגדרת קוד תגובה מהירה</item>
+        <item quantity="one">%d הקשות נוספות כדי להתחיל בהגדרת קוד תגובה מהירה</item>
+        <item quantity="two">%d הקשות נוספות כדי להתחיל בהגדרת קוד תגובה מהירה</item>
+    </plurals>
+    <plurals name="slots_selection_text">
+        <item quantity="other">%d מספרים נוספו למכשיר זה, אבל ניתן להשתמש רק באחד בכל פעם.</item>
+        <item quantity="one">%d מספרים נוספו למכשיר זה, אבל ניתן להשתמש רק באחד בכל פעם.</item>
+        <item quantity="two">%d מספרים נוספו למכשיר זה, אבל ניתן להשתמש רק באחד בכל פעם.</item>
+    </plurals>
+    <plurals name="survey_star_rating">
+        <item quantity="other">%1$d כוכבים מתוך %2$d</item>
+        <item quantity="one">%1$d כוכבים מתוך %2$d</item>
+        <item quantity="two">%1$d כוכבים מתוך %2$d</item>
+    </plurals>
+</resources>

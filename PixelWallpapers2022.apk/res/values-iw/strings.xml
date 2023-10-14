@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="azure_title">עורבני כחול</string>
+    <string name="blackswan_title">ברבור שחור</string>
+    <string name="cockatoo_title">קקדו</string>
+    <string name="come_alive_title">המסך מתעורר לחיים</string>
+    <string name="feathers_attribution">תמונה מאת אנדרו צוקרמן</string>
+    <string name="feathers_description">ציפורים בשלל צבעים וצורות</string>
+    <string name="feathers_title">נוצות</string>
+    <string name="greenwinged_title">ארה ירוקת-כנף</string>
+    <string name="king_title">נשרון מלכותי</string>
+    <string name="living_universe_title">היקום בזמן אמת</string>
+    <string name="photos_memory_gallery_title">הזיכרונות שלך</string>
+    <string name="pied_title">עורב צבוע</string>
+    <string name="ringnecked_title">דררה מצויה</string>
+    <string name="seagull_title">שחף</string>
+</resources>

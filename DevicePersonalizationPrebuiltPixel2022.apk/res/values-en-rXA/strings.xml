@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="download_cancel">[Çåñçéļ one]</string>
+    <string name="download_language_pack_details">[Ðöŵñļöåð ţĥîš ûþðåţé (ᐅ%1$sᐊ) ţö ûšé šþééçĥ ŕéçöĝñîţîöñ öƒƒļîñé one two three four five six seven eight nine ten eleven twelve]</string>
+    <string name="download_prompt">[Ðöŵñļöåð one]</string>
+    <string name="download_title">[Ðöŵñļöåð ᐅ%1$sᐊ ûþðåţé one two three four]</string>
+    <string name="language_pack_download_notification_title">[Ðöŵñļöåðîñĝ ᐅ%1$sᐊ Ûþðåţé one two three four five]</string>
+</resources>

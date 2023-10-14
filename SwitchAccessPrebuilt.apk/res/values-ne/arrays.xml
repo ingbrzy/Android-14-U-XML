@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="horizontal_scan_options">
+        <item>@string/point_scan_horizontal_scans_start_from_left</item>
+        <item>@string/point_scan_horizontal_scans_start_from_right</item>
+    </string-array>
+    <string-array name="switch_access_color_entries">
+        <item>हरियो रङ</item>
+        <item>सुन्तले रङ</item>
+        <item>रातो रङ</item>
+        <item>निलो रङ</item>
+        <item>सेतो रङ</item>
+    </string-array>
+    <string-array name="switch_access_sound_volume_entries">
+        <item>मिडियाको भोल्युम जति नै</item>
+        <item>मिडियाको भोल्युमको ७५%</item>
+        <item>मिडियाको भोल्युमको ५०%</item>
+        <item>मिडियाको भोल्युमको २५%</item>
+    </string-array>
+    <string-array name="switch_access_sound_volume_values">
+        <item>१००</item>
+        <item>७५</item>
+        <item>५०</item>
+        <item>२५</item>
+    </string-array>
+    <string-array name="switch_access_weight_entries">
+        <item>पातलो ठोस लाइन</item>
+        <item>मध्यम ठोस लाइन</item>
+        <item>मोटो ठोस लाइन</item>
+    </string-array>
+    <string-array name="vertical_scan_options">
+        <item>@string/point_scan_vertical_scans_start_from_top</item>
+        <item>@string/point_scan_vertical_scans_start_from_bottom</item>
+    </string-array>
+</resources>

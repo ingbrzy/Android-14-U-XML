@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="select_logpersist_summaries">
+        <item>ବନ୍ଦ</item>
+        <item>ସମସ୍ତ ଲଗ୍‌ ବଫର୍‌</item>
+        <item>ରେଡିଓ ଲଗ୍‌ ବଫର୍‌‌ଗୁଡିକ ଛଡ଼ା ଅନ୍ୟ ସବୁ</item>
+        <item>କେବଳ କର୍ନେଲ୍‌ ଲଗ୍‌ ବଫର୍‌</item>
+    </string-array>
+</resources>

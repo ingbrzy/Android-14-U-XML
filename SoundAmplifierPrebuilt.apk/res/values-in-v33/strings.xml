@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sound_amplifier_html_description">Amplifier Suara membuat suara yang lemah menjadi lebih keras tanpa membuat suara yang kuat menjadi terlalu keras&lt;br/>&lt;br/> &lt;b>Cara menggunakan Amplifier Suara&lt;/b>&lt;br/> 1. Colokkan headphone berkabel atau hubungkan headphone Bluetooth&lt;br/> 2. Mulai Amplifier Suara</string>
+    <string name="sound_amplifier_intro">Gunakan Amplifier Suara dengan headphone untuk meningkatkan kualitas audio di sekitar dan di perangkat Anda</string>
+</resources>

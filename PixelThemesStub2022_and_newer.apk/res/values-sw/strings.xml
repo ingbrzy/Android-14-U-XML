@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bundle1_color_name">Kaboni</string>
+    <string name="bundle2_color_name">Karatasi</string>
+    <string name="bundle3_color_name">Jua</string>
+    <string name="color_name_monochromatic">Yenye rangi moja</string>
+    <string name="default_color_name">Kawaida</string>
+    <string name="fruit1_color_name">Safu ya rangi mbili za manjano na nyekundu</string>
+    <string name="fruit2_color_name">Safu ya rangi mbili za kijani na rangi ya chungwa</string>
+    <string name="fruit3_color_name">Safu ya rangi mbili za samawati na kijani</string>
+    <string name="fruit4_color_name">Safu ya rangi mbili za zambarau isiyokolea na samawati</string>
+    <string name="fruit5_color_name">Safu ya rangi mbili za waridi na nili</string>
+    <string name="rainbow1_color_name">Nyekundu</string>
+    <string name="rainbow2_color_name">Rangi ya chungwa</string>
+    <string name="rainbow3_color_name">Manjano</string>
+    <string name="rainbow4_color_name">Kijani</string>
+    <string name="rainbow5_color_name">Samawati</string>
+    <string name="rainbow6_color_name">Nili</string>
+    <string name="rainbow7_color_name">Urujuani iliyokolea</string>
+</resources>

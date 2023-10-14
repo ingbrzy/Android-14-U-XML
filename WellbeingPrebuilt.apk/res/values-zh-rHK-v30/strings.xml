@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="heads_up_location_permission_description">這樣「專心走路」就可以偵測到您在戶外。在下兩個畫面中，選取 <b>[使用應用程式時] > [一律允許]</b>。</string>
+    <string name="wind_down_discovery_notification_text">{DEVICE_TYPE,select, DEVICE_PHONE{在睡眠時間利用「睡眠模式」將手機設定為靜音，並保持螢幕昏暗}DEVICE_TABLET{在睡眠時間利用「睡眠模式」將平板電腦設定為靜音，並保持螢幕昏暗}other{在睡眠時間利用「睡眠模式」將裝置設定為靜音，並保持螢幕昏暗}}</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="calendar_default_name">Өгөгдмөл</string>
+    <string name="calendar_info">Календарийн мэдээлэл</string>
+    <string name="calendar_info_error">Алдаа</string>
+    <string name="calendar_info_events">Үйл явдлууд: %1$d</string>
+    <string name="calendar_info_events_dirty">Үйл явдлууд: %1$d, Хадгалаагүй: %2$d</string>
+    <string name="calendar_info_no_calendars">Календарь алга</string>
+    <string name="calendar_storage">Календарийн сан</string>
+    <string name="debug_tool_delete_button">Одоо устгах</string>
+    <string name="debug_tool_email_body">Хавсралтад миний бүх уулзалтын цаг, хувийн мэдээллийг агуулсан Календарийн өгөгдлийн бааз байгаа. Болгоомжтой хандана уу.</string>
+    <string name="debug_tool_email_sender_picker">Файлаа илгээх программыг сонгоно уу</string>
+    <string name="debug_tool_email_subject">Календарийн Db-г хавсаргасан</string>
+    <string name="debug_tool_message">Та 1) дурын аппаас уншиж болох SD карт/USB сан руу өөрийн календарийн өгөгдлийг хуулах 2) имэйлээр илгээх гэж байна. Та хуулбарыг төхөөрөмжөөс амжилттай хуулж авсан эсвэл имэйлээ хүлээж авсны дараа үүнийг устгахаа бүү мартаарай.</string>
+    <string name="debug_tool_start_button">Эхлүүлэх</string>
+    <string name="provider_label">Календарь</string>
+</resources>

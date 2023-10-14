@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Nenda mwanzo</string>
+    <string name="abc_action_bar_up_description">Sogeza juu</string>
+    <string name="abc_action_menu_overflow_description">Chaguo zaidi</string>
+    <string name="abc_action_mode_done">Nimemaliza</string>
+    <string name="abc_activity_chooser_view_see_all">Angalia zote</string>
+    <string name="abc_activitychooserview_choose_application">Chagua programu</string>
+    <string name="abc_capital_off">IMEZIMWA</string>
+    <string name="abc_capital_on">IMEWASHWA</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Tafuta…</string>
+    <string name="abc_searchview_description_clear">Futa hoja</string>
+    <string name="abc_searchview_description_query">Hoja ya utafutaji</string>
+    <string name="abc_searchview_description_search">Tafuta</string>
+    <string name="abc_searchview_description_submit">Wasilisha hoja</string>
+    <string name="abc_searchview_description_voice">Kutafuta kwa kutamka</string>
+    <string name="abc_shareactionprovider_share_with">Shiriki na</string>
+    <string name="abc_shareactionprovider_share_with_application">Shiriki ukitumia %s</string>
+    <string name="abc_toolbar_collapse_description">Kunja</string>
+    <string name="activity_resolver_use_always">Kila mara</string>
+    <string name="activity_resolver_use_once">Mara moja tu</string>
+    <string name="activity_resolver_work_profiles_support">%1$s haitumii wasifu wa kazini</string>
+    <string name="call_notification_answer_action">Jibu</string>
+    <string name="call_notification_answer_video_action">Video</string>
+    <string name="call_notification_decline_action">Kataa</string>
+    <string name="call_notification_hang_up_action">Kata simu</string>
+    <string name="call_notification_incoming_text">Simu uliyopigiwa</string>
+    <string name="call_notification_ongoing_text">Simu inayoendelea</string>
+    <string name="call_notification_screening_text">Inachuja simu unayopigiwa</string>
+    <string name="chooseActivity">Chagua kitendo</string>
+    <string name="chooser_no_direct_share_targets">Hujapendekezewa watu wa kushiriki nao</string>
+    <string name="exclude_link">Usijumuishe kiungo</string>
+    <string name="exclude_text">Usijumuishe maandishi</string>
+    <string name="file_preview_a11y_description">Kijipicha cha onyesho la kukagua faili</string>
+    <string name="forward_intent_to_owner">Unatumia programu hii nje ya wasifu wako wa kazini</string>
+    <string name="forward_intent_to_work">Unatumia programu hii kwenye wasifu wako wa kazini</string>
+    <string name="image_preview_a11y_description">Kijipicha cha onyesho la kukagua picha</string>
+    <string name="include_link">Jumuisha kiungo</string>
+    <string name="include_text">Jumuisha maandishi</string>
+    <string name="miniresolver_open_in_personal">Je, unataka kufungua %s katika wasifu wako binafsi?</string>
+    <string name="miniresolver_open_in_work">Je, unataka kufungua %s katika wasifu wako wa kazi?</string>
+    <string name="miniresolver_use_personal_browser">Tumia kivinjari cha binafsi</string>
+    <string name="miniresolver_use_work_browser">Tumia kivinjari cha kazini</string>
+    <string name="more_files">{count,plural, =1{Faili nyingine #}other{Faili zingine #}}</string>
+    <string name="noApplications">Hakuna programu zinazoweza kufanya tendo hili.</string>
+    <string name="other_files">{count,plural, =1{+ faili #}other{+ faili #}}</string>
+    <string name="pin_specific_target">Bandika %1$s</string>
+    <string name="resolver_cant_access_personal_apps_explanation">Huwezi kufungua maudhui haya ukitumia programu za binafsi</string>
+    <string name="resolver_cant_access_work_apps_explanation">Huwezi kufungua maudhui haya ukitumia programu za kazini</string>
+    <string name="resolver_cant_share_with_personal_apps_explanation">Huwezi kushiriki maudhui haya na programu za binafsi</string>
+    <string name="resolver_cant_share_with_work_apps_explanation">Huwezi kushiriki maudhui haya na programu za kazini</string>
+    <string name="resolver_cross_profile_blocked">Imezuiwa na msimamizi wako wa Tehama</string>
+    <string name="resolver_no_personal_apps_available">Hakuna programu za binafsi</string>
+    <string name="resolver_no_work_apps_available">Hakuna programu za kazini</string>
+    <string name="resolver_personal_tab">Binafsi</string>
+    <string name="resolver_personal_tab_accessibility">Mwonekano wa binafsi</string>
+    <string name="resolver_switch_on_work">Acha kusitisha</string>
+    <string name="resolver_turn_on_work_apps">Programu za kazini zimesitishwa</string>
+    <string name="resolver_work_tab">Kazini</string>
+    <string name="resolver_work_tab_accessibility">Mwonekano wa kazini</string>
+    <string name="screenshot_edit">Badilisha</string>
+    <string name="search_menu_title">Tafuta</string>
+    <string name="sharing_files">{count,plural, =1{Inashiriki faili #}other{Inashiriki faili #}}</string>
+    <string name="sharing_files_only">{count,plural, =1{Faili pekee}other{Faili pekee}}</string>
+    <string name="sharing_files_with_link">{count,plural, =1{Inashiriki faili na kiungo}other{Inashiriki faili # na kiungo}}</string>
+    <string name="sharing_files_with_text">{count,plural, =1{Inashiriki faili na maandishi}other{Inashiriki faili # na maandishi}}</string>
+    <string name="sharing_images">{count,plural, =1{Inashiriki picha}other{Inashiriki picha #}}</string>
+    <string name="sharing_images_only">{count,plural, =1{Picha pekee}other{Picha pekee}}</string>
+    <string name="sharing_images_with_link">{count,plural, =1{Inashiriki picha na kiungo}other{Inashiriki picha # na kiungo}}</string>
+    <string name="sharing_images_with_text">{count,plural, =1{Inashiriki picha na maandishi}other{Inashiriki picha # na maandishi}}</string>
+    <string name="sharing_link">Inashiriki kiungo</string>
+    <string name="sharing_text">Inashiriki maandishi</string>
+    <string name="sharing_videos">{count,plural, =1{Inashiriki video}other{Inashiriki video #}}</string>
+    <string name="sharing_videos_only">{count,plural, =1{Video pekee}other{Video pekee}}</string>
+    <string name="sharing_videos_with_link">{count,plural, =1{Inashiriki video na kiungo}other{Inashiriki video # na kiungo}}</string>
+    <string name="sharing_videos_with_text">{count,plural, =1{Inashiriki video na maandishi}other{Inashiriki video # na maandishi}}</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="unpin_specific_target">Bandua %1$s</string>
+    <string name="usb_device_resolve_prompt_warn">Programu hii haijapewa ruhusa ya kurekodi lakini inaweza kurekodi sauti kupitia kifaa hiki cha USB.</string>
+    <string name="use_a_different_app">Tumia programu tofauti</string>
+    <string name="video_preview_a11y_description">Kijipicha cha onyesho la kukagua video</string>
+    <string name="whichApplication">Kamilisha kitendo ukitumia</string>
+    <string name="whichApplicationLabel">Kamilisha kitendo</string>
+    <string name="whichApplicationNamed">Kamilisha kitendo ukitumia %1$s</string>
+    <string name="whichEditApplication">Badilisha kwa</string>
+    <string name="whichEditApplicationLabel">Badilisha</string>
+    <string name="whichEditApplicationNamed">Badilisha ukitumia %1$s</string>
+    <string name="whichGiveAccessToApplicationLabel">Ruhusu ufikiaji</string>
+    <string name="whichHomeApplication">Chagua programu ya Mwanzo</string>
+    <string name="whichHomeApplicationLabel">Piga picha</string>
+    <string name="whichHomeApplicationNamed">Tumia %1$s kuwa Skrini ya kwanza</string>
+    <string name="whichImageCaptureApplication">Piga picha ukitumia</string>
+    <string name="whichImageCaptureApplicationLabel">Piga picha</string>
+    <string name="whichImageCaptureApplicationNamed">Piga picha ukitumia %1$s</string>
+    <string name="whichOpenHostLinksWith">Fungua viungo vya %1$s ukitumia</string>
+    <string name="whichOpenHostLinksWithApp">Fungua viungo vya %1$s ukitumia %2$s</string>
+    <string name="whichOpenLinksWith">Fungua viungo ukitumia</string>
+    <string name="whichOpenLinksWithApp">Fungua viungo ukitumia %1$s</string>
+    <string name="whichSendApplication">Shiriki</string>
+    <string name="whichSendApplicationLabel">Shiriki</string>
+    <string name="whichSendApplicationNamed">Shiriki ukitumia %1$s</string>
+    <string name="whichSendToApplication">Tuma kwa kutumia</string>
+    <string name="whichSendToApplicationLabel">Tuma</string>
+    <string name="whichSendToApplicationNamed">Tuma ukitumia %1$s</string>
+    <string name="whichViewApplication">Fungua ukitumia</string>
+    <string name="whichViewApplicationLabel">Fungua</string>
+    <string name="whichViewApplicationNamed">Fungua ukitumia %1$s</string>
+</resources>

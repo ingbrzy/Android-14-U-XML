@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="switch_access_htmlDescription">您可以使用开关来选择内容、滚动页面、输入文字及执行其他操作。</string>
+    <string name="switch_access_intro">如果难以直接与触摸屏互动，您可以通过开关控制 Android 设备。 您可以为设备外接开关，使用方式如同键盘或大按钮。</string>
+</resources>

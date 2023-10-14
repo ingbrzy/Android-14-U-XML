@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="audio_language_selector_titles">
+        <item>Видеоны эх хэл дээр</item>
+        <item>%1$s, боломжтой болох үед</item>
+    </string-array>
+</resources>

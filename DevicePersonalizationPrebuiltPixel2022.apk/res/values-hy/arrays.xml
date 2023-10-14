@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="call_captions_typing_predictions_post_system_message">
+        <item>Բարև ձեզ, ո՞վ է։</item>
+        <item>Ողջույն, ինչպե՞ս եք։</item>
+        <item>Մեկ րոպե սպասեք։</item>
+        <item>Ողջույն, կարո՞ղ եք մի փոքր ուշ զանգել։</item>
+        <item>Ողջույն։ Շնորհակալություն զանգի համար։</item>
+    </string-array>
+    <string-array name="captions_settings_enable_for_calls_choices_entries">
+        <item>Ամեն անգամ հարցնել</item>
+        <item>Միշտ</item>
+        <item>Անջատված է</item>
+    </string-array>
+    <string-array name="captions_settings_typing_voice_names">
+        <item>Ձայն Ա</item>
+        <item>Ձայն Բ</item>
+        <item>Ձայն Գ</item>
+        <item>Ձայն Դ</item>
+        <item>Ձայն Ե</item>
+        <item>Ձայն Զ</item>
+        <item>Ձայն Է</item>
+        <item>Ձայն Ը</item>
+        <item>Ձայն Թ</item>
+        <item>Ձայն Ժ</item>
+        <item>Ձայն Ի</item>
+        <item>Ձայն Լ</item>
+        <item>Ձայն Խ</item>
+        <item>Ձայն Ծ</item>
+        <item>Ձայն Կ</item>
+        <item>Ձայն Հ</item>
+    </string-array>
+    <string-array name="pref_download_policy_entries">
+        <item>Բջջային ինտերնետ + Wi-Fi</item>
+        <item>Միայն Wi-Fi</item>
+        <item>Չթարմացնել</item>
+    </string-array>
+    <string-array name="pref_download_policy_entry_values_placeholder">
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+</resources>

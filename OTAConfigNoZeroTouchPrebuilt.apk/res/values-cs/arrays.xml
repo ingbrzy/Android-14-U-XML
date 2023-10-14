@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sim_locked_notification_custom_content_array">
+        <item>Pokud chcete použít tuto SIM kartu, odemkněte zařízení pomocí aplikace Device Unlock.</item>
+        <item>Kontaktujte poskytovatele mobilních služeb</item>
+    </string-array>
+</resources>

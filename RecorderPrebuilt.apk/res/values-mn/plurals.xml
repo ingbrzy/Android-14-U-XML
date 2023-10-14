@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dlg_message_deletion_confirmation">
+        <item quantity="other">Таны бичлэгийг бүрмөсөн устгана. Энэ үйлдлийг буцаах боломжгүй.</item>
+        <item quantity="one">Таны бичлэгийг бүрмөсөн устгана. Энэ үйлдлийг буцаах боломжгүй.</item>
+    </plurals>
+    <plurals name="dlg_message_deletion_permanent_confirmation">
+        <item quantity="other">Бичлэгүүдийг хуулбарлаагүй. Эдгээрийг бүрмөсөн устгах болно. Та энэ үйлдлийг буцаах боломжгүй.</item>
+        <item quantity="one">Бичлэгийг хуулбарлаагүй. Үүнийг бүрмөсөн утсгах болно. Та энэ үйлдлийг буцаах боломжгүй.</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_confirmation">
+        <item quantity="other">Бичлэгийг устгах уу?</item>
+        <item quantity="one">Бичлэгийг устгах уу?</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_permanent_confirmation">
+        <item quantity="other">Эдгээр бичлэгийг бүрмөсөн устгах уу?</item>
+        <item quantity="one">Энэ бичлэгийг бүрмөсөн устгах уу?</item>
+    </plurals>
+    <plurals name="download_failure_description_storage_full">
+        <item quantity="other">Төхөөрөмжийн хадгалах сан дүүрсэн тул бичлэгийг татаж чадсангүй. Шалгахын тулд товшино уу.</item>
+        <item quantity="one">Төхөөрөмжийн хадгалах сан дүүрсэн байна. Шалгахын тулд товшино уу.</item>
+    </plurals>
+    <plurals name="downloading_description">
+        <item quantity="other">%1$d бичлэг татаж байна</item>
+        <item quantity="one">%1$d бичлэг татаж байна</item>
+    </plurals>
+    <plurals name="og_backup_failed_title">
+        <item quantity="other">%1$d зүйлийг нөөцөлж чадсангүй</item>
+        <item quantity="one">%1$d зүйлийг нөөцөлж чадсангүй</item>
+    </plurals>
+    <plurals name="og_backup_items_left">
+        <item quantity="other">%1$d зүйл үлдсэн</item>
+        <item quantity="one">%1$d зүйл үлдсэн</item>
+    </plurals>
+    <plurals name="og_backup_items_stopped_title">
+        <item quantity="other">%1$d зүйлийг хуулбарлаагүй</item>
+        <item quantity="one">%1$d зүйлийг хуулбарлаагүй</item>
+    </plurals>
+    <plurals name="peoplekit_chips_copied_recipients">
+        <item quantity="other">%d хүлээн авагчийг хуулсан</item>
+        <item quantity="one">%d хүлээн авагчийг хуулсан</item>
+    </plurals>
+    <plurals name="search_results_count">
+        <item quantity="other">%1$d илэрц</item>
+        <item quantity="one">%1$d илэрц</item>
+    </plurals>
+    <plurals name="search_results_position">
+        <item quantity="other">^1/^2 илэрц</item>
+        <item quantity="one">^1/^2 илэрц</item>
+    </plurals>
+    <plurals name="search_results_position_content_description">
+        <item quantity="other">%2$d илэрцээс %1$d</item>
+        <item quantity="one">%2$d илэрцээс %1$d</item>
+    </plurals>
+    <plurals name="selected_recording_quantity">
+        <item quantity="other">%1$d-г сонгосон</item>
+        <item quantity="one">%1$d-г сонгосон</item>
+    </plurals>
+    <plurals name="snackbar_message_download_failed_storage_full">
+        <item quantity="other">Төхөөрөмжийн хадгалах сан дүүрсэн байна. Бичлэгүүдийг татаж чадсангүй.</item>
+        <item quantity="one">Төхөөрөмжийн хадгалах сан дүүрсэн байна. Бичлэгийг татаж чадсангүй.</item>
+    </plurals>
+    <plurals name="speaker_count">
+        <item quantity="other">%1$d чанга яригч</item>
+        <item quantity="one">%1$d чанга яригч</item>
+    </plurals>
+    <plurals name="uploading_description">
+        <item quantity="other">%1$d бичлэг байршуулж байна</item>
+        <item quantity="one">%1$d бичлэг байршуулж байна</item>
+    </plurals>
+</resources>

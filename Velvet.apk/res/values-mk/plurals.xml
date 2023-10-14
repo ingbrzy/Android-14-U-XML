@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="other">Пред %d дена</item>
+        <item quantity="one">Пред %d ден</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="other">Пред %d мин.</item>
+        <item quantity="one">Пред %d мин.</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="other">Пред %d г.</item>
+        <item quantity="one">Пред %d г.</item>
+    </plurals>
+    <plurals name="assistant_custodio_device_list_fragment_legacy_linking_item_text">
+        <item quantity="other">Достапни се %d уреди</item>
+        <item quantity="one">Достапни се %d уред</item>
+    </plurals>
+    <plurals name="assistant_custodio_device_list_home_section_subtitle_text">
+        <item quantity="other">%d уреди</item>
+        <item quantity="one">%d уред</item>
+    </plurals>
+    <plurals name="assistant_holiday_alarms_notification_content_text">
+        <item quantity="other">Tap to pause or cancel your alarms</item>
+        <item quantity="one">Tap to pause or cancel your %s alarm</item>
+    </plurals>
+    <plurals name="assistant_holiday_alarms_notification_pause_button_text">
+        <item quantity="other">Pause your alarms for the holiday</item>
+        <item quantity="one">Pause your %s alarm for the holiday</item>
+    </plurals>
+    <plurals name="assistant_post_task_migration_succeed_notification_title">
+        <item quantity="other">%1$d reminders set up in Google Tasks</item>
+        <item quantity="one">%1$d reminder set up in Google Tasks</item>
+    </plurals>
+    <plurals name="assistantactions_n_phone_numbers">
+        <item quantity="other">%1$d numbers</item>
+        <item quantity="one">%1$d number</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">Секои %d дена</item>
+        <item quantity="one">Секој %d ден</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; за %d пати</item>
+        <item quantity="one">; за %d пат</item>
+    </plurals>
+    <plurals name="fa_message_preview_card_num_of_audio_messages">
+        <item quantity="other">%1$d аудиопораки</item>
+        <item quantity="one">%1$d аудиопорака</item>
+    </plurals>
+    <plurals name="fa_message_preview_card_num_of_pictures">
+        <item quantity="other">%1$d слики</item>
+        <item quantity="one">%1$d слика</item>
+    </plurals>
+    <plurals name="fa_message_preview_card_num_of_videos">
+        <item quantity="other">%1$d видеа</item>
+        <item quantity="one">%1$d видео</item>
+    </plurals>
+    <plurals name="gestalt_duration_in_days_short">
+        <item quantity="other">%1$d дена</item>
+        <item quantity="one">%1$d ден</item>
+    </plurals>
+    <plurals name="gestalt_duration_in_hours_short">
+        <item quantity="other">%1$d часа</item>
+        <item quantity="one">%1$d час</item>
+    </plurals>
+    <plurals name="gestalt_duration_in_minutes_short">
+        <item quantity="other">%1$d мин.</item>
+        <item quantity="one">%1$d мин.</item>
+    </plurals>
+    <plurals name="gestalt_duration_in_months_short">
+        <item quantity="other">%1$d месеци</item>
+        <item quantity="one">%1$d месец</item>
+    </plurals>
+    <plurals name="gestalt_duration_in_years_short">
+        <item quantity="other">%1$d години</item>
+        <item quantity="one">%1$d година</item>
+    </plurals>
+    <plurals name="lens_region_search_area_percent">
+        <item quantity="other">%1$s %2$d проценти</item>
+        <item quantity="one">%1$s %2$d процент</item>
+    </plurals>
+    <plurals name="monthly_interval">
+        <item quantity="other">Секои %1$d месеци</item>
+        <item quantity="one">Секој %1$d месец</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d нови известувања</item>
+        <item quantity="one">%d ново известување</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">Избрани се %1$d</item>
+        <item quantity="one">Избран е %1$d</item>
+    </plurals>
+    <plurals name="peoplekit_chips_copied_recipients">
+        <item quantity="other">Копирани се %d примачи</item>
+        <item quantity="one">Копиран е %d примач</item>
+    </plurals>
+    <plurals name="podcasts_days_ago">
+        <item quantity="other">Пред %1$d дена</item>
+        <item quantity="one">Пред %1$d ден</item>
+    </plurals>
+    <plurals name="podcasts_days_left_to_remove_downloads">
+        <item quantity="other">После %1$d дена</item>
+        <item quantity="one">После %1$d ден</item>
+    </plurals>
+    <plurals name="podcasts_enabled_podcasts_number_label">
+        <item quantity="other">Овозможено за %1$d од %2$d поткасти</item>
+        <item quantity="one">Овозможено за %1$d од %2$d поткасти</item>
+    </plurals>
+    <plurals name="podcasts_episode_list_title_text">
+        <item quantity="other">%1$d епизоди</item>
+        <item quantity="one">%1$d епизода</item>
+    </plurals>
+    <plurals name="podcasts_hours_abbreviated">
+        <item quantity="other">%s ч.</item>
+        <item quantity="one">%s ч.</item>
+    </plurals>
+    <plurals name="podcasts_hours_ago">
+        <item quantity="other">Пред %1$d часа</item>
+        <item quantity="one">Пред %1$d час</item>
+    </plurals>
+    <plurals name="podcasts_hours_left_to_remove_downloads">
+        <item quantity="other">После %1$d часа</item>
+        <item quantity="one">После %1$d час</item>
+    </plurals>
+    <plurals name="podcasts_minutes_abbreviated">
+        <item quantity="other">%s мин.</item>
+        <item quantity="one">%s мин.</item>
+    </plurals>
+    <plurals name="podcasts_minutes_ago">
+        <item quantity="other">Пред %1$d мин.</item>
+        <item quantity="one">Пред %1$d мин.</item>
+    </plurals>
+    <plurals name="public_notification_text">
+        <item quantity="other">%1$d new notifications</item>
+        <item quantity="one">You have a notification</item>
+    </plurals>
+    <plurals name="readaloud_number_of_minutes">
+        <item quantity="other">%d минути</item>
+        <item quantity="one">%d минута</item>
+    </plurals>
+    <plurals name="readaloud_number_of_seconds">
+        <item quantity="other">%d секунди</item>
+        <item quantity="one">%d секунда</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">За %d настани</item>
+        <item quantity="one">За %d настан</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">Секои %d дена</item>
+        <item quantity="one">Секој %d ден</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">Секои %d месеци</item>
+        <item quantity="one">Секој %d месец</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">Секои %d седмици</item>
+        <item quantity="one">Секоја %d седмица</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">Секои %d години</item>
+        <item quantity="one">Секоја %d година</item>
+    </plurals>
+    <plurals name="share_eta_button">
+        <item quantity="other">%d мин.</item>
+        <item quantity="one">%d мин.</item>
+    </plurals>
+    <plurals name="share_eta_message">
+        <item quantity="other">Пристигнува за околу %d минути.</item>
+        <item quantity="one">Пристигнува за околу %d минута.</item>
+    </plurals>
+    <plurals name="share_imminent_eta_message">
+        <item quantity="other">Пристигнува за %d минути.</item>
+        <item quantity="one">Пристигнува за %d минута.</item>
+    </plurals>
+    <plurals name="survey_star_rating">
+        <item quantity="other">%1$d од %2$d ѕвезди</item>
+        <item quantity="one">%1$d од %2$d ѕвезди</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">Секои %1$d седмици во %2$s</item>
+        <item quantity="one">Секоја %1$d седмица во %2$s</item>
+    </plurals>
+    <plurals name="yearly_interval_plain">
+        <item quantity="other">Секои %1$d години</item>
+        <item quantity="one">Секоја %1$d година</item>
+    </plurals>
+</resources>

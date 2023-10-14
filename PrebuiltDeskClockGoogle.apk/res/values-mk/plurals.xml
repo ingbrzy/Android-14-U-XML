@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="alarm_alert_snooze_duration">
+        <item quantity="other">%d мин.</item>
+        <item quantity="one">%d мин.</item>
+    </plurals>
+    <plurals name="alarm_alert_snooze_set">
+        <item quantity="other">Одложи за %d минути.</item>
+        <item quantity="one">Одложи за %d минута.</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%s дена</item>
+        <item quantity="one">%s ден</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">пред %s дена</item>
+        <item quantity="one">пред %s ден</item>
+    </plurals>
+    <plurals name="days_extra_short">
+        <item quantity="other">%s д.</item>
+        <item quantity="one">%s д.</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s часа</item>
+        <item quantity="one">%s час</item>
+    </plurals>
+    <plurals name="hours_extra_short">
+        <item quantity="other">%s ч.</item>
+        <item quantity="one">%s ч.</item>
+    </plurals>
+    <plurals name="hours_short">
+        <item quantity="other">%s ч.</item>
+        <item quantity="one">%s ч.</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s минути</item>
+        <item quantity="one">%s минута</item>
+    </plurals>
+    <plurals name="minutes_extra_short">
+        <item quantity="other">%s м.</item>
+        <item quantity="one">%s м.</item>
+    </plurals>
+    <plurals name="minutes_short">
+        <item quantity="other">%s мин.</item>
+        <item quantity="one">%s мин.</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d нови известувања</item>
+        <item quantity="one">%d ново известување</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%s секунди</item>
+        <item quantity="one">%s секунда</item>
+    </plurals>
+    <plurals name="seconds_extra_short">
+        <item quantity="other">%s с.</item>
+        <item quantity="one">%s с.</item>
+    </plurals>
+</resources>

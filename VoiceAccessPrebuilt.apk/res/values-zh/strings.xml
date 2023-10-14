@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="service_description_supported_languages">借助 Voice Access，无需用手就能控制自己的 Android 设备。您可以使用语音指令打开应用、点按按钮、滚动、输入内容等。此功能目前仅支持英语、法语、意大利语、德语和西班牙语。</string>
+    <string name="service_summary">借助语音控制设备</string>
+    <string name="voice_access_htmlDescription">向 Voice Access 说出指令，无需动手即可控制设备。请尝试说出以下指令：&lt;br> &lt;br> &lt;ul> &lt;li>返回主屏幕 &lt;li>返回 &lt;li>显示通知 &lt;li>点击确定 &lt;li>打开照片 &lt;/ul> &lt;br> 此功能还支持其他很多命令。如需了解详情，请在开启 Voice Access 后说出“我可以下达哪些指令？”</string>
+</resources>

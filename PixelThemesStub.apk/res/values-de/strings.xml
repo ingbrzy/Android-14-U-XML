@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bundle1_color_name">Carbon</string>
+    <string name="bundle2_color_name">Papier</string>
+    <string name="bundle3_color_name">Sonne</string>
+    <string name="color_name_monochromatic">Einfarbig</string>
+    <string name="default_color_name">Klassisch</string>
+    <string name="fruit1_color_name">Zweifarbvorlage, gelb und rot</string>
+    <string name="fruit2_color_name">Zweifarbvorlage, grün und orangefarben</string>
+    <string name="fruit3_color_name">Zweifarbvorlage, blau und grün</string>
+    <string name="fruit4_color_name">Zweifarbvorlage, hellviolett und blau</string>
+    <string name="fruit5_color_name">Zweifarbvorlage, rosa und indigoblau</string>
+    <string name="rainbow1_color_name">Rot</string>
+    <string name="rainbow2_color_name">Orangefarben</string>
+    <string name="rainbow3_color_name">Gelb</string>
+    <string name="rainbow4_color_name">Grün</string>
+    <string name="rainbow5_color_name">Blau</string>
+    <string name="rainbow6_color_name">Indigoblau</string>
+    <string name="rainbow7_color_name">Violett</string>
+</resources>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cross-device-services</string>
+    <string name="app_name_generic">een app</string>
+    <string name="app_stream_error_generic">Er is een fout opgetreden tijdens het delen van een app</string>
+    <string name="app_stream_init_error_generic">Delen van app met je Chromebook is niet gelukt</string>
+    <string name="audio_permission_rationale">Het microfoonrecht voor app delen staat uit</string>
+    <string name="cancel_button_label">Annuleren</string>
+    <string name="chromebook_keyboard">Chromebook-toetsenbord</string>
+    <string name="chromebook_mouse">Chromebook-muis</string>
+    <string name="chromebook_touchscreen">Chromebook-touchscreen</string>
+    <string name="connect_device">Je telefoon verbinden met het externe apparaat: %1$s</string>
+    <string name="decline_button_label">Weigeren</string>
+    <string name="development_notification_channel_name">Ontwikkeling</string>
+    <string name="device_camera_cannot_access">Kan geen toegang tot de camera van het apparaat krijgen vanaf deze Chromebook</string>
+    <string name="done_button_label">Klaar</string>
+    <string name="enable_button_label">Aanzetten</string>
+    <string name="foreground_service_notification_channel_name">Algemeen</string>
+    <string name="foreground_service_notification_content">Tik om de instellingen aan te passen</string>
+    <string name="foreground_service_notification_title">{0,plural, =1{Verbonden met # apparaat}other{Verbonden met # apparaten}}</string>
+    <string name="interactive_streaming_generic_notification">%1$s streamen en meldingen synchroniseren voor je Chromebook</string>
+    <string name="interactive_streaming_individual_notification">Stream %1$s en synchroniseer meldingen voor %2$s</string>
+    <string name="interactive_streaming_notification">Streamen naar je Chromebook</string>
+    <string name="keyboard_name">Cross-device toetsenbord</string>
+    <string name="lock_screen_notif_warning_content">Zet meldingen op het vergrendelscherm aan</string>
+    <string name="lock_screen_notif_warning_title">Meldingen worden niet doorgestuurd</string>
+    <string name="mouse_name">Cross-device muis</string>
+    <string name="new_connection_confirm">Bevestigen</string>
+    <string name="new_connection_deny">Weigeren</string>
+    <string name="new_connection_title">Bevestig de tekenreeksovereenkomsten</string>
+    <string name="notification_access_missing">Toegang tot meldingen vereist</string>
+    <string name="notification_access_missing_description">Zet toegang tot meldingen aan om meldingen te openen op je Chromebook</string>
+    <string name="notification_channel_name">Algemeen</string>
+    <string name="notification_listener_label">Apps delen met je Chromebook</string>
+    <string name="open_source_licenses">Opensource-licenties</string>
+    <string name="phone_permission_rationale">Het recht voor telefoongesprekken voor app delen staat uit</string>
+    <string name="prompt_switch_languages">Druk op Shift + spatiebalk om de Gboard-taal van je telefoon te wijzigen</string>
+    <string name="settings_button">Instellingen</string>
+    <string name="stop_sharing_button">Stream beëindigen</string>
+    <string name="stream_termination_proximity_warning">Je telefoon is te ver weg. Breng deze dichterbij om te blijven streamen.</string>
+    <string name="substitute_app_name">Systeem</string>
+    <string name="summary_disable_wirecutter">Uit</string>
+    <string name="summary_enable_wirecutter">Aan</string>
+    <string name="touchscreen_name">Cross-device touchscreen</string>
+</resources>

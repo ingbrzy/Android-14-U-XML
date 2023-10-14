@@ -1,0 +1,1476 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="MSG_DEFAULT_DISPLAY_NAME">Անհայտ տարածք</string>
+    <string name="MSG_UNDO_TASKS_COMPLETED">{NUM_TASKS_COMPLETED,plural, =1{Առաջադրանքը նշվեց որպես կատարված}one{# առաջադրանք նշվեց որպես կատարված}other{# առաջադրանք նշվեց որպես կատարված}}</string>
+    <string name="MSG_UNDO_TASKS_DELETED">{NUM_TASKS_DELETED,plural, =1{Առաջադրանքը ջնջվեց}one{# առաջադրանք ջնջվեց}other{# առաջադրանք ջնջվեց}}</string>
+    <string name="MSG_UNDO_TASKS_MOVED">{NUM_TASKS_MOVED,plural, =1{Առաջադրանքը տեղափոխվեց «{TITLE}» ցանկ}one{# առաջադրանք տեղափոխվեց «{TITLE}» ցանկ}other{# առաջադրանք տեղափոխվեց «{TITLE}» ցանկ}}</string>
+    <string name="MSG_UNDO_TASKS_UNCOMPLETED">{NUM_TASKS_UNCOMPLETED,plural, =1{Առաջադրանքը նշվեց որպես չկատարված}one{# առաջադրանք նշվեց որպես չկատարված}other{# առաջադրանք նշվեց որպես չկատարված}}</string>
+    <string name="MSG_UNDO_TASK_UNSTARRED">Առաջադրանքը հեռացվեց «Աստղանշված» խմբից</string>
+    <string name="a11y_added_contact">%s կոնտակտն ավելացվեց</string>
+    <string name="a11y_calendar_set">Օրացույց՝ %s</string>
+    <string name="a11y_chat_button">Զրուցել հանդիպման հյուրերի հետ</string>
+    <string name="a11y_expand_all_day_events">Ծավալել մեկ ամբողջ օր տևող միջոցառումները</string>
+    <string name="a11y_filter_require_audio">Անհրաժեշտ են սարքավորումներ աուդիոկոնֆերանսի համար</string>
+    <string name="a11y_filter_require_video">Անհրաժեշտ են սարքավորումներ տեսակոնֆերանսի համար</string>
+    <string name="a11y_location_image">Վայրի պատկերը</string>
+    <string name="a11y_location_list">Վայրեր</string>
+    <string name="a11y_mark_optional">Ներկայությունը պարտադիր չէ</string>
+    <string name="a11y_mark_required">Ներկայությունը պարտադիր է</string>
+    <string name="a11y_marked_optional">%s կոնտակտը նշվեց որպես ոչ պարտադիր</string>
+    <string name="a11y_marked_required">%s կոնտակտը նշվեց որպես պարտադիր</string>
+    <string name="a11y_recurrence_set">Պարբերականության կանոն՝ %s</string>
+    <string name="a11y_remove_contact">Հեռացնել կոնտակտը</string>
+    <string name="a11y_removed_contact">%s կոնտակտը հեռացվեց</string>
+    <string name="a11y_respond_maybe_content_description">Պատասխանել «Միգուցե»</string>
+    <string name="a11y_respond_no_content_description">Պատասխանել «Ոչ»</string>
+    <string name="a11y_respond_yes_content_description">Պատասխանել «Այո»</string>
+    <string name="a11y_respond_yes_meeting_room_content_description">Պատասխանել «Այո, հանդիպումների սենյակում»</string>
+    <string name="a11y_respond_yes_unknown_content_description">Պատասխանել «Այո»</string>
+    <string name="a11y_respond_yes_virtually_content_description">Պատասխանել «Այո, տեսակոնֆերանսի միջոցով»</string>
+    <string name="a11y_responded_yes_meeting_room_content_description">Պատասխանել եք «Այո, հանդիպումների սենյակում»</string>
+    <string name="a11y_responded_yes_unknown_content_description">Պատասխանել եք «Այո»</string>
+    <string name="a11y_responded_yes_virtually_content_description">Պատասխանել եք «Այո, տեսակոնֆերանսի միջոցով»</string>
+    <string name="a11y_room_booking_added_room">%s սենյակն ավելացվեց</string>
+    <string name="a11y_room_booking_removed_room">Սենյակը հեռացվեց՝ %s</string>
+    <string name="a11y_room_booking_rooms_matching_page">%s-ին համապատասխանող սենյակներ</string>
+    <string name="a11y_room_booking_unavailable_room">Զբաղված է՝ %s</string>
+    <string name="a11y_rsvp_join_method_button_label">Հանդիպմանը միանալու տարբերակներ</string>
+    <string name="a11y_select_calendar">Ընտրեք օրացույցը</string>
+    <string name="a11y_share_event_link_content_description">Կիսվել</string>
+    <string name="abc_action_bar_up_description">Անցնել վերև</string>
+    <string name="abc_action_mode_done">Պատրաստ է</string>
+    <string name="abc_capital_off">ԱՆՋԱՏԵԼ</string>
+    <string name="abc_capital_on">ՄԻԱՑՆԵԼ</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">բացատ</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Որոնում…</string>
+    <string name="abc_searchview_description_clear">Ջնջել հարցումը</string>
+    <string name="abc_searchview_description_search">Որոնել</string>
+    <string name="abc_searchview_description_submit">Ուղարկել հարցումը</string>
+    <string name="abc_searchview_description_voice">Ձայնային որոնում</string>
+    <string name="abc_toolbar_collapse_description">Ծալել</string>
+    <string name="accept_action">Ընդունել</string>
+    <string name="accept_scope_selection_title">Ընդունել կրկնվող միջոցառման հրավերը</string>
+    <string name="access_code_format">Մուտքի կոդ՝ %s</string>
+    <string name="access_code_item_host">Խնամորդ՝ %s</string>
+    <string name="access_code_item_no_passcode">Միանալ առանց անցակոդի</string>
+    <string name="access_code_item_participant">Մասնակից՝ %s</string>
+    <string name="access_code_picker_dialog_positive_button">Միանալ</string>
+    <string name="access_code_picker_dialog_title">Անցակոդի ընտրում</string>
+    <string name="accessibility_accept_proposal">Ընդունել</string>
+    <string name="accessibility_clear_search">Մաքրել որոնման դաշտը</string>
+    <string name="accessibility_collapse_all_day">Ծալել «Ամբողջ օրը» բաժինը</string>
+    <string name="accessibility_compose">Ստեղծեք նոր միջոցառում և ավելին</string>
+    <string name="accessibility_drawer_open">Ցուցադրել օրացույցի ցանկը և կարգավորումների դարակը</string>
+    <string name="accessibility_event_open">Բացել միջոցառումը</string>
+    <string name="accessibility_expand_all_day">Ծավալել «Ամբողջ օրը» բաժինը</string>
+    <string name="accessibility_find_a_time_filters_title">Զտիչներ</string>
+    <string name="accessibility_find_a_time_list_title">«Գտնել ժամանակի առաջարկ» էջ</string>
+    <string name="accessibility_find_time_list_item">Ժամանակի առաջարկ՝ %1$s, %2$s, %3$s</string>
+    <string name="accessibility_find_time_new_suggestion">Ստեղծվեց ժամանակի նոր առաջարկ՝ %1$s, %2$s</string>
+    <string name="accessibility_find_time_select_suggestion_button">Ընտրել առաջարկը</string>
+    <string name="accessibility_find_time_show_more_button">«Ցուցադրել այլ առաջարկներ» կոճակ</string>
+    <string name="accessibility_find_time_slab_bar_format">%1$s, %2$s</string>
+    <string name="accessibility_find_time_slab_bar_swipe_hint">Սահեցրեք ձախ՝ հաջորդ առաջարկին անցնելու համար</string>
+    <string name="accessibility_find_time_slab_bar_swipe_hint_rtl">Սահեցրեք աջ՝ հաջորդ առաջարկին անցնելու համար</string>
+    <string name="accessibility_find_time_timeframe_duration_label">Զտիչի ընտրված արժեքը՝ %s</string>
+    <string name="accessibility_hide_date_picker">Թաքցնել ամսաթվի նշիչը</string>
+    <string name="accessibility_navigation_icon">Հետ</string>
+    <string name="accessibility_navigation_icon_search">Որոնել</string>
+    <string name="accessibility_new_event">Ստեղծել նոր միջոցառում</string>
+    <string name="accessibility_pick_end_date">Ավարտի ամսաթիվը՝ %s</string>
+    <string name="accessibility_pick_end_time">Ավարտի ժամը` %s</string>
+    <string name="accessibility_pick_start_date">Մեկնարկի ամսաթիվը՝ %s</string>
+    <string name="accessibility_pick_start_time">Մեկնարկի ժամը՝ %s</string>
+    <string name="accessibility_send_proposal">Ուղարկել</string>
+    <string name="accessibility_show_agenda_view">Բացել օրակարգի տեսքը</string>
+    <string name="accessibility_show_date_picker">Ցուցադրել ամսաթվի նշիչը</string>
+    <string name="accessibility_show_day_view">Բացել օրվա տեսքը</string>
+    <string name="accessibility_speeddial_cancel">«Չեղարկել» կոճակ</string>
+    <string name="accessibility_speeddial_event">«Միջոցառում» կոճակ</string>
+    <string name="accessibility_speeddial_ooo">«Տեղում չէ» կոճակ</string>
+    <string name="accessibility_speeddial_reminder">«Հիշեցում» կոճակ</string>
+    <string name="accessibility_speeddial_task">«Առաջադրանք» կոճակ</string>
+    <string name="accessibility_speeddial_working_location">«Աշխատելու վայրը» կոճակ</string>
+    <string name="accessibility_timely_chip_multi_day_count">%1$s (Օր %2$d/%3$d)</string>
+    <string name="account_change_attachments">Առդիրները հեռացվել են, քանի որ հաշիվը փոխվել է:</string>
+    <string name="account_lacks_calendar_features">Օրացույցի ոչ բոլոր գործառույթներն են աջակցվում այս հաշվում։</string>
+    <string name="account_lacks_features_switch_to_google">Անցեք Google հաշիվ՝ Օրացույցի բոլոր գործառույթներից օգտվելու համար։</string>
+    <string name="account_switch_dialog_subtitle">Հետագայում, երբ օգտագործեք «%1$s» գործառույթը, անհրաժեշտության դեպքում հաշիվներն ավտոմատ կփոխվեն։</string>
+    <string name="account_switch_dialog_title">«%1$s» գործառույթն օգտագործելու համար անցեք մյուս հաշիվ։</string>
+    <string name="account_switch_no_suitable_account_for_events">Այս սարքի հետ դեռ ոչ մի օրացույց չի համաժամացվել</string>
+    <string name="account_switch_toast">Այս հաշիվը (%1$s, %2$s) ընտրվեց որպես Օրացույցի հիմնական հաշիվ</string>
+    <string name="account_switch_toast_unnamed_account">Այս հաշիվը (%1$s) ընտրվեց որպես Օրացույցի հիմնական հաշիվ</string>
+    <string name="account_switched_snackbar_message">Այժմ ձեր հաշիվը %1$s-ն է</string>
+    <string name="account_with_calendar_is_checked">%1$s, %2$s, նշված է</string>
+    <string name="account_with_calendar_is_disabled">%1$s, %2$s, անջատված է</string>
+    <string name="account_with_calendar_is_unchecked">%1$s, %2$s, նշված չէ</string>
+    <string name="acessibility_selected_checkmark_description">Ընտրված է</string>
+    <string name="action_apply">Կիրառել</string>
+    <string name="action_cancel_booked_event">Չեղարկել հանդիպումը</string>
+    <string name="action_delete">Հեռացնել</string>
+    <string name="action_done">Պատրաստ է</string>
+    <string name="action_mark_as_done">Նշել որպես կատարված</string>
+    <string name="action_mark_as_not_done">Նշել որպես չկատարված</string>
+    <string name="action_send_booked_event_cancellation">Ուղարկել չեղարկում</string>
+    <string name="activity_not_found_general">Գործողությունը կատարելու համար ոչ մի հավելված չի գտնվել</string>
+    <string name="actual_scheduled_flight">"Նախատեսված ժամը՝ %1$s
+Փաստացի ժամը՝ %2$s։"</string>
+    <string name="add_additional_notification_label">Ավելացնել այլ ծանուցում</string>
+    <string name="add_attachment">Ավելացնել առդիր</string>
+    <string name="add_birthday_promo_message">Ստացեք հիշեցումներ ձեր մտերիմների ծննդյան օրերի մասին։</string>
+    <string name="add_birthday_promo_negative_button">Ոչ հիմա</string>
+    <string name="add_birthday_promo_positive_button">Ավելացնել ծննդյան օր</string>
+    <string name="add_birthday_promo_title">Ավելացրեք ծննդյան օրեր</string>
+    <string name="add_calendar_no_network_connectivity_message">Օրացույցը կավելացվի, հենց որ միանաք ցանցին։</string>
+    <string name="add_calendar_timeout_message">Օրացույցը բեռնվում է և կհայտնվի, երբ պատրաստ լինի։</string>
+    <string name="add_date">Ավելացնել ամսաթիվ</string>
+    <string name="add_encryption">Ավելացնել գաղտնագրում</string>
+    <string name="add_encryption_data_loss_warning_dialog_attachment_message">հեռացնում է Օրացույցի միջոցառման բոլոր չգաղտնագրված ֆայլերը</string>
+    <string name="add_encryption_data_loss_warning_dialog_attachments_only_message">Ձեր տեղեկությունները պաշտպանելու համար այս գործառույթը հեռացնում է Օրացույցի միջոցառման բոլոր չգաղտնագրված ֆայլերը</string>
+    <string name="add_encryption_data_loss_warning_dialog_conference_message">հեռացնում է տեսակոնֆերանսի մյուս ծառայությունները</string>
+    <string name="add_encryption_data_loss_warning_dialog_conference_only_message">Ձեր տեղեկությունները պաշտպանելու համար այս գործառույթը հեռացնում է տեսակոնֆերանսի մյուս կարգավորումները։ Միայն Google Meet-ի օգտագործումն է ապահովում զանգերի լրացուցիչ գաղտնագրում։</string>
+    <string name="add_location">Ավելացնել վայր</string>
+    <string name="add_meet_conferencing">Ավելացնել Google Meet-ի տեսակոնֆերանս</string>
+    <string name="add_note_edit_text_hint">Ավելացրեք նշում</string>
+    <string name="add_note_prefix">Խմբագրել նշումը՝ %s</string>
+    <string name="add_note_saved">Նշումը պահվեց</string>
+    <string name="add_note_title">Ավելացնել նշում</string>
+    <string name="add_notification">Ավելացնել ծանուցում</string>
+    <string name="add_notification_label">Ավելացնել ծանուցում</string>
+    <string name="add_ons_button">Կոնֆերանսի այլ տարբերակներ</string>
+    <string name="add_other_location">Ավելացնել այլ վայր</string>
+    <string name="add_people">Ավելացնել մարդկանց</string>
+    <string name="add_period">Ավելացնել ժամանակահատված</string>
+    <string name="add_room">Ավելացնել սենյակ</string>
+    <string name="add_to_email">Ավելացնել նամակում</string>
+    <string name="add_video_conferencing">Ավելացնել տեսակոնֆերանս</string>
+    <string name="adding_conference_details">Ավելացվում են տեղեկություններ կոնֆերանսի մասին</string>
+    <string name="address_copied_to_clipboard">Տեղադրության մասին տվյալները պատճենվեցին</string>
+    <string name="agenda_view">Ժամանակացույցը օրացույցում</string>
+    <string name="agenda_view_label">Օրակարգ</string>
+    <string name="agenda_view_label_full">Ժամանակացույցի դիտակերպ</string>
+    <string name="all_day_description_prefix">Ամբողջ օրը`</string>
+    <string name="all_day_reminder_time">%1$s առաջ, ժամը %2$s</string>
+    <string name="all_day_string">Ամբողջ օրը</string>
+    <string name="all_participants_can_attend">Բոլորը կարող են մասնակցել</string>
+    <string name="all_rooms">Բոլոր սենյակները</string>
+    <string name="alternate_calendar_hebrew_adar_ii">Ադար II</string>
+    <string name="anniversary_birth_date_hint">Ավելացրեք ծննդյան ամսաթիվ</string>
+    <string name="anniversary_birthday_title">🎂 Ծննդյան օր</string>
+    <string name="anniversary_birthday_title_name_ends_with_s">🎂 %1$s-ի ծննդյան օրը</string>
+    <string name="anniversary_birthday_title_with_name">🎂 %1$s-ի ծննդյան օրը</string>
+    <string name="anniversary_person_hint">Ավելացրեք անուն</string>
+    <string name="another_location">Այլ վայր</string>
+    <string name="another_office">Այլ գրասենյակ</string>
+    <string name="app_label">Օրացույց</string>
+    <string name="appointment_schedule_booking_disclaimer_text">Բոլոր օգտատերերը, որոնք ունեն ամրագրման էջի հղումը, կարող են հանդիպում ամրագրել։</string>
+    <string name="appointment_schedule_booking_help_link_text">Հղման հասանելիության մասին</string>
+    <string name="appointment_schedule_duration_text">%1$d րոպե տևողությամբ հանդիպումներ</string>
+    <string name="appointment_schedule_edit_disclaimer_text">Փոփոխելու համար անցեք calendar.google.com էջ համակարգչում</string>
+    <string name="appointment_schedule_headline_text">Ամրագրելի հանդիպումների ժամանակացույց</string>
+    <string name="appointment_schedule_inactive_appointment_headline_text">Հանդիպումների ոչ ակտիվ ժամանակացույց</string>
+    <string name="appointment_schedule_meet_location_subtitle">Հանդիպման ամրագրումից հետո կստեղծվի Meet-ին միանալու հղում</string>
+    <string name="appointment_schedule_meet_location_title">Google Meet-ի տեսակոնֆերանս</string>
+    <string name="appointment_schedule_open_page_button">Բացել էջը</string>
+    <string name="appointment_schedule_phone_location_subtitle">Հեռախոսահամարը կտրամադրվի հանդիպումը կազմակերպող անձի կողմից</string>
+    <string name="appointment_schedule_phone_location_title">Հեռախոսազանգ</string>
+    <string name="appointment_schedule_see_all_appointment_schedules_text">Տեսնել հանդիպումների բոլոր ժամանակացույցները</string>
+    <string name="appointment_schedule_share_button">Կիսվել</string>
+    <string name="appointment_schedule_short_link_dialog_cancel">Չեղարկել</string>
+    <string name="appointment_schedule_short_link_dialog_error_share_full">Կիսվել ամբողջական հղումով</string>
+    <string name="appointment_schedule_short_link_dialog_error_title">Այս անգամ չհաջողվեց բեռնել կարճ հղում</string>
+    <string name="appointment_schedule_short_link_dialog_error_try_again">Նորից փորձել</string>
+    <string name="appointment_schedule_short_link_dialog_share_full">Կիսվել ամբողջական հղումով</string>
+    <string name="appointment_schedule_short_link_dialog_title">Բեռնվում է կարճ հղում, որով կարող եք կիսվել</string>
+    <string name="appointment_slot_prefix">Միջակայք՝</string>
+    <string name="appointment_slot_promo_got_it">Եղավ</string>
+    <string name="appointment_slot_promo_learn_more">Իմանալ ավելին</string>
+    <string name="appointment_slot_promo_text">Դուք այժմ կարող եք ստեղծել հանդիպումների ամրագրման ձեր սեփական էջերը։ Սկսելու համար անցեք calendar.google.com էջ համակարգչում</string>
+    <string name="appointment_slot_promo_title">Պարզեցրեք հանդիպումների պլանավորման գործընթացը</string>
+    <string name="appointment_slots_availability">Հասանելիություն</string>
+    <string name="appointment_slots_discard">Անտեսե՞լ ժամանակի այս առաջարկը։</string>
+    <string name="appointment_slots_duration">Միջոցառման տևողությունը</string>
+    <string name="appointment_slots_editor_half_collapsed_hint">Հպեք օրացույցում՝ նշելու, թե երբ եք ազատ</string>
+    <string name="appointment_slots_more_info">Լրացուցիչ տեղեկություններ</string>
+    <string name="appointment_slots_title">Միջոցառման վերնագիրը</string>
+    <string name="appointment_slots_title_collapsed">Ժամանակ գտեք հանդիպումների համար</string>
+    <string name="appointment_slots_title_hint">Հանդիպում</string>
+    <string name="as_email">Էլ․ փոստով</string>
+    <string name="as_notification">Որպես ծանուցում</string>
+    <string name="at_time">Ժամը %s</string>
+    <string name="at_time_of_event">Միջոցառումից առաջ</string>
+    <string name="attachment_encrypted_file_label">Գաղտնագրված ֆայլ «%1$s»</string>
+    <string name="attachment_file_label">Ֆայլ «%1$s»</string>
+    <string name="attachment_no_activity">Չհաջողվեց գտնել հավելված՝ Google Drive-ի ֆայլը բացելու համար</string>
+    <string name="attendee_accepted">%s օգտատերը մասնակցում է</string>
+    <string name="attendee_accepted_in_a_meeting_room">%s օգտատերը կմասնակցի հանդիպմանը հանդիպումների սենյակում</string>
+    <string name="attendee_accepted_virtually">%s օգտատերը կմասնակցի հանդիպմանը տեսակոնֆերանսի միջոցով</string>
+    <string name="attendee_declined">%s օգտատերը մերժել է հրավերը</string>
+    <string name="attendee_not_responded">%s օգտատերը չի պատասխանել</string>
+    <string name="attendee_optional">Կամընտիր</string>
+    <string name="attendee_organizer">Կազմակերպիչ</string>
+    <string name="attendee_tentative">%s օգտատերը գուցե մասնակցի</string>
+    <string name="auth_uncertified_close_button_label">Փակել</string>
+    <string name="auth_uncertified_notification_play_protect_description2">Սարքը հավաստագրված չէ Google հավելվածներ գործարկելու և Google-ի ծառայություններ օգտագործելու համար։ Դիմեք արտադրողին կամ վաճառողին և խնդրեք տրամադրել հավաստագրված սարք։ <a href="https://g.co/AndroidCertifiedDevice">Իմանալ ավելին</a></string>
+    <string name="authentication_accept_button">Շտկել խնդիրը</string>
+    <string name="authentication_cancel_button">Ոչ հիմա</string>
+    <string name="authentication_dialog_body">Որպեսզի Օրացույցը միշտ համաժամացված լինի, շտկեք խնդիրը, ինչի պատճառով %s օգտատերը չի կարողանում մտնել համակարգ</string>
+    <string name="authentication_dialog_title">Դուք մուտք չեք գործել համակարգ</string>
+    <string name="birthday_banner_add_another_birthday_button_text">Ավելացնել մեկ այլ ծննդյան օր</string>
+    <string name="birthday_banner_add_birthday_button_text">Ավելացնել ծննդյան օր</string>
+    <string name="birthday_banner_body">Ստացեք հիշեցումներ ձեր մտերիմների ծննդյան օրերի մասին</string>
+    <string name="birthday_banner_dismiss_button_text">Ոչ հիմա</string>
+    <string name="birthday_banner_title">Ավելացրեք ծննդյան օրեր</string>
+    <string name="birthday_wish_action">Շնորհավորել տարեդարձը</string>
+    <string name="birthdays_on">Ծննդյան տարեդարձեր %s-ին</string>
+    <string name="bottomsheet_action_expand_halfway">Ծավալել կիսով չափ</string>
+    <string name="bottomsheet_drag_handle_content_description">Տեղափոխման նշիչ</string>
+    <string name="building_name_other">Այլ</string>
+    <string name="busy">Զբաղված</string>
+    <string name="button_calendar_permission_allow_label">Թույլատրել</string>
+    <string name="button_label">Կոճակ</string>
+    <string name="button_permissions_manage_label">Անցնել դեպի կարգավորումներ</string>
+    <string name="calendar">Օրացույց</string>
+    <string name="calendar_a11y_action_click_learn_more">իմանալ ավելին</string>
+    <string name="calendar_cannot_be_shown">Օրացույցը չի կարող ցուցադրվել</string>
+    <string name="calendar_ignored_message">Օրացույցը չի ավելացվել։</string>
+    <string name="calendar_is_checked">%1$s, նշված է</string>
+    <string name="calendar_is_disabled">%1$s, անջատված է</string>
+    <string name="calendar_is_unchecked">%1$s, ապանշված է</string>
+    <string name="calendar_picker_account_info_segment_ooo">«Տեղում չէ» կարգավիճակը հասանելի չէ այս հաշվի համար</string>
+    <string name="calendar_picker_account_info_segment_working_location">Այս հաշվում դուք չեք կարող փոխել աշխատելու վայրը</string>
+    <string name="calendar_refresh">Թարմացնել</string>
+    <string name="calendar_screen_blocked">Կարծես թե մեկ այլ հավելված արգելափակում է էկրանը։ Անջատեք բոլոր հավելվածները, որոնք կարող են փակել էկրանը, և նորից փորձեք։</string>
+    <string name="calendar_segment_secondary_text">Ով է կիսվել՝ %s</string>
+    <string name="calendar_storage_disabled_dialog_action">Միացնել կարգավորումներից</string>
+    <string name="calendar_storage_disabled_dialog_message">"Ձեր օրացույցներն ու միջոցառումները չեն կարող ցուցադրվել, քանի որ Օրացույցի պահեստն անջատված է:
+
+Անցեք կարգավորումներ և նորից միացրեք Օրացույցի պահոցը:"</string>
+    <string name="calendar_storage_disabled_dialog_title">Օրացույցի պահեստն անջատված է</string>
+    <string name="calendar_successfully_added_message">Օրացույցն ավելացվեց։</string>
+    <string name="can_not_add_unencrypted_attachment">Դուք չեք կարող չգաղտնագրված ֆայլ կցել գաղտնագրված միջոցառմանը</string>
+    <string name="cancel_booked_event_dialog_content">Բոլոր հյուրերին չեղարկման մասին ծանուցում կուղարկվի</string>
+    <string name="cancel_booked_event_dialog_title">Չեղարկե՞լ հանդիպումը</string>
+    <string name="cancel_button">Չեղարկել</string>
+    <string name="cancel_encryption">Չեղարկել գաղտնագրումը</string>
+    <string name="cancel_speeddial">Չեղարկել</string>
+    <string name="cancellation_discard">Այո</string>
+    <string name="cancellation_keep_editing">Շարունակել խմբագրումը</string>
+    <string name="cannot_reschedule_completed_tasks">Կատարված առաջադրանքները չեն կարող վերապլանավորվել</string>
+    <string name="cannot_reschedule_cross_profile_entry">Դուք կարող եք փոփոխել այս միջոցառումը միայն ձեր անձնական օրացույցում</string>
+    <string name="cannot_reschedule_cross_profile_entry_action">Փոխել</string>
+    <string name="cannot_reschedule_event">Դուք չեք կարող վերապլանավորել այս միջոցառումը</string>
+    <string name="character_counter_content_description">Մուտքագրված նիշեր՝ %1$d/%2$d</string>
+    <string name="character_counter_overflowed_content_description">Նիշերի առավելագույն քանակը գերազանցվել է (%1$d/%2$d)</string>
+    <string name="chat_status_segment_disabled">Chat-ի կարգավիճակը հնարավոր չէ սահմանել 24 ժամից ավել տևողություն ունեցող իրադարձությունների համար։</string>
+    <string name="chat_status_segment_primary">Չանհանգստացնել</string>
+    <string name="chat_status_segment_secondary">Կարգավիճակը դարձնել «Չանհանգստացնել» և անջատել Chat-ի ծանուցումները</string>
+    <string name="chat_suggestion_description">Chat-ի տվյալների հիման վրա</string>
+    <string name="check_in">Ժամանում</string>
+    <string name="check_out">Մեկնում</string>
+    <string name="chime_notification_title">&lt;b> %1$s &lt;/b></string>
+    <string name="choose_a_location">Ընտրեք վայրը</string>
+    <string name="clear_text_end_icon_content_description">Ջնջել տեքստը</string>
+    <string name="clipboard_clip_label">Խմբային զանգին միանալու հղում</string>
+    <string name="close_label">Փակել</string>
+    <string name="collapse_location">Ծալել «%1$s» բաժինը</string>
+    <string name="collapse_sheet">Ծալել միջոցառման թերթը</string>
+    <string name="collapse_task_sheet">Ծալել առաջադրանքի թերթը</string>
+    <string name="collapse_working_location_sheet">Ծալել աշխատելու վայրի մասին տվյալներով թերթը</string>
+    <string name="combined_notification_text">&lt;b> %1$s &lt;/b> %2$s</string>
+    <string name="comma_space">", "</string>
+    <string name="common_google_play_services_enable_button">Միացնել</string>
+    <string name="common_google_play_services_enable_text">%1$s հավելվածը չի աշխատի մինչև չմիացնեք Google Play ծառայությունները:</string>
+    <string name="common_google_play_services_enable_title">Միացնել Google Play ծառայությունները</string>
+    <string name="common_google_play_services_install_button">Տեղադրել</string>
+    <string name="common_google_play_services_install_text">%1$s հավելվածը չի աշխատի առանց Google Play ծառայությունների, որոնք չկան ձեր սարքում:</string>
+    <string name="common_google_play_services_install_title">Տեղադրել Google Play ծառայությունները</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play ծառայությունների հասանելիություն</string>
+    <string name="common_google_play_services_notification_ticker">Google Play ծառայությունների սխալ կա</string>
+    <string name="common_google_play_services_unknown_issue">%1$s հավելվածը Google Play ծառայությունների հետ կապված խնդիր ունի: Փորձեք նորից:</string>
+    <string name="common_google_play_services_unsupported_text">%1$s հավելվածը չի աշխատի առանց Google Play ծառայությունների, որոնք ձեր սարքում չեն աջակցվում:</string>
+    <string name="common_google_play_services_update_button">Թարմացնել</string>
+    <string name="common_google_play_services_update_text">%1$s հավելվածը չի աշխատի մինչև չթարմացնեք Google Play ծառայությունները:</string>
+    <string name="common_google_play_services_update_title">Թարմացնել Google Play ծառայությունները</string>
+    <string name="common_google_play_services_updating_text">%1$s հավելվածը չի աշխատի առանց Google Play ծառայությունների, որոնք այս պահին թարմացվում են:</string>
+    <string name="common_google_play_services_wear_update_text">Անհրաժեշտ է Google Play ծառայությունների նոր տարբերակը: Այն շուտով կթարմացվի ավտոմատ կերպով:</string>
+    <string name="common_open_on_phone">Բացել հեռախոսով</string>
+    <string name="completing_task_with_subtasks_body">Այս առաջադրանքը ենթակետեր ունի: Օգտագործեք Tasks հավելվածը՝ այն և դրա ենթակետերը որպես կատարված նշելու համար:</string>
+    <string name="completing_task_with_subtasks_title">Հնարավոր չէ նշել կատարված մի առաջադրանքը, որը ենթակետեր ունի:</string>
+    <string name="conference_add_ons">Հավելումներ</string>
+    <string name="conference_authorization_required">Անհրաժեշտ է թույլտվություն</string>
+    <string name="conference_authorize_button">ԹՈՒՅԼԱՏՐԵԼ</string>
+    <string name="conference_creation_not_allowed">Հնարավոր չէ կոնֆերանս ստեղծել</string>
+    <string name="conference_entry_point_phone">Հեռախոս</string>
+    <string name="conference_entry_point_sip">SIP</string>
+    <string name="conference_entry_point_video">Տեսանյութ</string>
+    <string name="conference_internal_number">Միայն ներքին</string>
+    <string name="conference_log_in_button">ՄՈՒՏՔ</string>
+    <string name="conference_log_in_required">Անհրաժեշտ է մուտք գործել</string>
+    <string name="conference_no_connection">Կապ չկա</string>
+    <string name="conference_phone_country">%1$s (%2$s)</string>
+    <string name="conference_phone_numbers_activity">Hangouts-ին միանալու համարներ</string>
+    <string name="conference_phone_pin">PIN կոդ՝ %s</string>
+    <string name="conference_solution_forbidden">Կոնֆերանս ստեղծելու այս գործիքը թույլատրված չէ</string>
+    <string name="conference_try_again_button">ԿՐԿԻՆ ՓՈՐՁԵԼ</string>
+    <string name="conference_type_google_meet">Google Meet</string>
+    <string name="conference_type_hangouts">Hangouts</string>
+    <string name="conference_will_be_added">Կավելացվի</string>
+    <string name="conference_will_be_added_action">Տեսազանգ</string>
+    <string name="confirm_rsvp_dialog_save_button">Պահել</string>
+    <string name="confirm_rsvp_dialog_title">Պատասխանի հաստատում</string>
+    <string name="confirm_subscription">Այո</string>
+    <string name="confirmation_id">Հաստատման թիվը` %s</string>
+    <string name="contact_picker_add_people">Ավելացրեք մարդկանց</string>
+    <string name="contact_picker_added_guests">Ավելացված հյուրեր</string>
+    <string name="contact_picker_done">Պատրաստ է</string>
+    <string name="copied_to_clipboard">Պատճենվեց սեղմատախտակին</string>
+    <string name="copied_to_clipboard_phone">Հեռախոսահամարը պատճենվեց սեղմատախտակին:</string>
+    <string name="copied_to_clipboard_sip">SIP հասցեն պատճենվեց սեղմատախտակին:</string>
+    <string name="copied_to_clipboard_video">Խմբային զանգին միանալու հղումը պատճենվեց սեղմատախտակին</string>
+    <string name="copy">Պատճենել</string>
+    <string name="copy_display_name_field">Տեքստը պատճենվեց սեղմատախտակին</string>
+    <string name="country_holidays_hint">Ավելացնել պետական տոները</string>
+    <string name="country_holidays_section_title">Պետական տոներ</string>
+    <string name="create_an_account_desc">"Օրացույցն ավելի լավ է աշխատում Google հաշվի հետ:
+
+• Օգտագործեք այն ցանկացած դիտարկիչից
+• Ապահով պահուստավորեք ձեր միջոցառումները"</string>
+    <string name="create_event_dialog_save">Պահել</string>
+    <string name="create_task_shortcat_long_label">Նոր առաջադրանք</string>
+    <string name="create_task_shortcat_short_label">Նոր առաջադրանք</string>
+    <string name="creating_event">Միջոցառումն ստեղծված է:</string>
+    <string name="creating_event_with_guest">Հրավերները կուղարկվեն</string>
+    <string name="creating_repeating_task">Ստեղծվում է կրկնվող առաջադրանք…</string>
+    <string name="creating_repeating_task_no_connection">Կապ չկա: Կրկնվող առաջադրանքը կստեղծվի, երբ կրկին առցանց լինեք:</string>
+    <string name="creation_cancellation_message">Հեռացնե՞լ միջոցառումը:</string>
+    <string name="cross_profile_drawer_promo_text">Ձեր բոլոր միջոցառումներն այստեղ տեսնելու համար ավելացրեք ձեր անձնական հավելվածի օրացույցները</string>
+    <string name="cross_profile_drawer_promo_title">Դիտեք ձեր անձնական օրացույցները</string>
+    <string name="cross_profile_hide_promos_description">Թաքցնել Google Օրացույցում «Կապված հավելվածներ» գործառույթի առկայության մասին ծանուցումները՝ նախատեսված վերջնական օգտագործողների համար</string>
+    <string name="cross_profile_hide_promos_title">Թաքցնել «Կապված հավելվածներ» գործառույթի ծանուցումները</string>
+    <string name="cross_profile_learn_more">Ավելացնել օրացույցներ</string>
+    <string name="cross_profile_promo_dismiss">Փակել</string>
+    <string name="cross_profile_snackbar_switch_to_personal_app">Անցում կատարվեց անձնական հավելվածին</string>
+    <string name="cross_profile_snackbar_switch_to_work_app">Անցում կատարվեց աշխատանքային հավելվածին</string>
+    <string name="cross_profile_switch_to_personal_app">Անցնել անձնական հավելված</string>
+    <string name="crossprofile_dialog_positive">Միացնել կարգավորումներում</string>
+    <string name="crossprofile_dialog_text">Google Օրացույցը չի փոխի ձեր անձնական օրացույցների տեսանելիության և հասանելիության թույլտվությունները։</string>
+    <string name="crossprofile_dialog_title">Ավելացրեք անձնական օրացույցները ձեր աշխատանքային հավելվածում</string>
+    <string name="cse_add_encryption_data_loss_dialog_add_encryption_dialog_button">Միացնել</string>
+    <string name="cse_add_encryption_data_loss_warning_dialog_title">Միացնե՞լ լրացուցիչ գաղտնագրումը</string>
+    <string name="cse_add_encryption_failed_snackbar">Չհաջողվեց ավելացնել գաղտնագրում</string>
+    <string name="cse_add_encryption_operation_failed_dialog_message">Այս միջոցառմանը լրացուցիչ գաղտնագրում ավելացնելու փորձի ժամանակ սխալ առաջացավ։</string>
+    <string name="cse_add_encryption_operation_failed_dialog_title">Չհաջողվեց ավելացնել լրացուցիչ գաղտնագրում</string>
+    <string name="cse_cancel_decryption">Չեղարկել վերծանումը</string>
+    <string name="cse_contents_encrypted">Բովանդակությունը գաղտնագրված է</string>
+    <string name="cse_contents_encrypted_by">Բովանդակությունը գաղտնագրված է %1$s-ի կողմից</string>
+    <string name="cse_decrypt_error_admin_setup_different_encryptor">Չհաջողվեց վերծանել նկարագրությունը։ Տեղեկացրեք կազմակերպչին, եթե ձեզ մուտքի թույլտվություն է հարկավոր։</string>
+    <string name="cse_decrypt_error_admin_setup_same_encryptor">Չհաջողվեց վերծանել նկարագրությունը։ Եթե սխալը չվերանա, դիմեք ձեր կազմակերպության տեխնիկական աջակցման թիմին։</string>
+    <string name="cse_decrypt_error_email_mismatch">Չհաջողվեց վերծանել նկարագրությունը։ Համոզվեք, որ Օրացույց և IDP մտնելու համար օգտագործում եք նույն հասցեն։</string>
+    <string name="cse_decrypt_error_email_mismatch_idp">Չհաջողվեց վերծանել նկարագրությունը։ Համոզվեք, որ Օրացույց և «%1$s» IDP մտնելու համար օգտագործում եք նույն հասցեն։</string>
+    <string name="cse_decrypt_error_generic">Նկարագրությունն այս պահին հասանելի չէ</string>
+    <string name="cse_decrypt_error_no_internet">Նկարագրությունն այս պահին հասանելի չէ։ Դուք միացած չեք համացանցին։</string>
+    <string name="cse_decrypt_error_sign_in_required">Չհաջողվեց վերծանել նկարագրությունը։ Շարունակելու համար մտեք հաշիվ ձեր IDP-ով։</string>
+    <string name="cse_decrypt_error_sign_in_required_idp">Չհաջողվեց վերծանել նկարագրությունը։ Շարունակելու համար մտեք հաշիվ ձեր «%1$s» IDP-ով։</string>
+    <string name="cse_default_add_encryption_data_loss_warning_dialog_title">Լրացուցիչ գաղտնագրումն ավտոմատ կմիանա</string>
+    <string name="cse_description_hint">Ավելացրեք նկարագրություն</string>
+    <string name="cse_dialog_back">Հետ</string>
+    <string name="cse_dialog_cancel">Չեղարկել</string>
+    <string name="cse_dialog_learn_more">Իմանալ ավելին</string>
+    <string name="cse_encrypt_description_failed_on_save_dialog_message">Չհաջողվեց գաղտնագրել նկարագրությունը։ Եթե պահեք միջոցառումը, նկարագրությունը կհեռացվի դրանից։</string>
+    <string name="cse_encrypt_description_failed_on_save_dialog_title">Նկարագրությունը չի կարող գաղտնագրվել</string>
+    <string name="cse_encrypt_error_admin_setup">Չհաջողվեց ավելացնել գաղտնագրում։ Եթե սխալը չվերանա, դիմեք ձեր կազմակերպության տեխնիկական աջակցման թիմին։</string>
+    <string name="cse_encrypt_error_email_mismatch">Չհաջողվեց ավելացնել գաղտնագրում։ Համոզվեք, որ Օրացույց և IDP մտնելու համար օգտագործում եք նույն հասցեն։</string>
+    <string name="cse_encrypt_error_email_mismatch_idp">Չհաջողվեց ավելացնել գաղտնագրում։ Համոզվեք, որ Օրացույց և «%1$s» IDP մտնելու համար օգտագործում եք նույն հասցեն։</string>
+    <string name="cse_encrypt_error_generic">Գաղտնագրումն այս պահին հասանելի չէ</string>
+    <string name="cse_encrypt_error_no_internet">Չհաջողվեց ավելացնել գաղտնագրում։ Դուք միացած չեք համացանցին։</string>
+    <string name="cse_encrypt_error_sign_in_required">Չհաջողվեց ավելացնել գաղտնագրում։ Շարունակելու համար մտեք հաշիվ ձեր IDP-ով։</string>
+    <string name="cse_encrypt_error_sign_in_required_idp">Չհաջողվեց ավելացնել գաղտնագրում։ Շարունակելու համար մտեք հաշիվ ձեր «%1$s» IDP-ով։</string>
+    <string name="cse_error_action_sign_in">Մուտք գործել</string>
+    <string name="cse_error_action_try_again">Նորից փորձել</string>
+    <string name="cse_error_on_save_dialog_button">Պահել</string>
+    <string name="cse_error_on_save_dialog_cancel_button">Վերադառնալ խմբագրման ռեժիմին</string>
+    <string name="cse_event_copy_data_loss_dialog_button">Պատճենել միջոցառումը</string>
+    <string name="cse_event_copy_data_loss_dialog_title">Պատճենե՞լ այս միջոցառումը</string>
+    <string name="cse_event_duplicate_data_loss_dialog_button">Կրկնօրինակել այս միջոցառումը</string>
+    <string name="cse_event_duplicate_data_loss_dialog_title">Կրկնօրինակե՞լ այս միջոցառումը</string>
+    <string name="cse_explanation_dialog_do_not_show_again_checkbox_text">Այլևս ցույց չտալ</string>
+    <string name="cse_explanation_dialog_information_box">Google Meet-ի տեսակոնֆերանսը կվերածվի սովորական զանգի՝ միայն ձայնի և տեսապատկերի հեռարձակմամբ</string>
+    <string name="cse_explanation_dialog_message_1">Միջոցառման նկարագրության և առդիրների գաղտնագրումը կօգնի գաղտնի պահել դրանք։ Որոշ գործառույթներ (օրինակ՝ որոնումը, անցանց հասանելիությունը) գաղտնագրված ֆայլերում չեն աշխատի։</string>
+    <string name="cse_explanation_dialog_message_2">Համաձայն ադմինիստրատորի կարգավորումների՝ միայն որոշակի մարդիկ կարող են դիտել գաղտնագրված տեղեկությունները։</string>
+    <string name="cse_explanation_dialog_title">Նկարագրության, առդիրների և Google Meet-ի տեսակոնֆերանսների գաղտնագրում</string>
+    <string name="cse_notes_segment_description">Նշումներ</string>
+    <string name="cse_remove_encryption_data_loss_warning_dialog_title">Հեռացնե՞լ լրացուցիչ գաղտնագրումը</string>
+    <string name="cse_unsupported_calendars_unavailable">Ձեր տեղեկությունները պաշտպանելու համար որոշ հաշիվներ կամ օրացույցներ անջատվել են</string>
+    <string name="cse_viewscreen_dialog_button">Իմանալ ավելին գաղտնագրման մասին</string>
+    <string name="cse_viewscreen_dialog_text">Նկարագրությունը, առդիրներն ու Google Meet-ի տեսակոնֆերանսները կունենան լրացուցիչ գաղտնագրում, երբ ավելացվեն այս միջոցառմանը։</string>
+    <string name="cse_viewscreen_icon_label">Գաղտնագրված միջոցառում</string>
+    <string name="custom">Այլ…</string>
+    <string name="custom_duration_error_msg">Մուտքագրեք վավեր տևողություն</string>
+    <string name="custom_notification_dialog_edit_text_error_message">Նշեք ժամանակ նախքան միջոցառման սկսվելը</string>
+    <string name="custom_notification_dialog_title">Հատուկ ծանուցում</string>
+    <string name="custom_notification_override_announcement">Արժեքը փոխվել է %s-ի</string>
+    <string name="data_loss_warning_dialog_description_message">հեռացնում է նկարագրությունը</string>
+    <string name="data_loss_warning_dialog_description_only_message">Ձեր տեղեկությունները պաշտպանելու համար այս գործառույթը հեռացնում է նկարագրությունը</string>
+    <string name="data_loss_warning_dialog_meet_message">զրոյացնում է Meet-ի տեսակոնֆերանսի բոլոր կարգավորումները</string>
+    <string name="data_loss_warning_dialog_meet_only_message">Ձեր տեղեկությունները պաշտպանելու համար այս գործառույթը զրոյացնում է Meet-ի տեսակոնֆերանսի բոլոր կարգավորումները</string>
+    <string name="data_loss_warning_dialog_message">Ձեր տվյալները պաշտպանելու համար այս գործառույթը՝</string>
+    <string name="date_duration_accessibility_description">Ավարտվում է %s</string>
+    <string name="date_duration_label">%s-ին</string>
+    <string name="date_time_fmt">%1$s, %2$s</string>
+    <string name="date_year_toggle">Ներառել տարին</string>
+    <string name="debug_channel_description">Վրիպազերծման ծանուցումներ</string>
+    <string name="decline_action">Մերժել</string>
+    <string name="decline_scope_selection_title">Մերժել կրկնվող միջոցառման հրավերը</string>
+    <string name="decrypt_snackbar_error">Չհաջողվեց վերծանել նկարագրությունը</string>
+    <string name="decrypt_snackbar_error_generic">Նկարագրությունն այս պահին հասանելի չէ</string>
+    <string name="default_for_organization">Կանխադրված կարգավորումը ձեր կազմակերպության համար</string>
+    <string name="default_option">Կանխադրված</string>
+    <string name="delete_proposal">Ջնջել առաջարկը</string>
+    <string name="delete_recurring_event_title">%s-ը ջնջե՞լ:</string>
+    <string name="delete_scope_selection_title_working_location">Ջնջեք աշխատելու վայրը</string>
+    <string name="delete_this_event_title">Ջնջե՞լ այս միջոցառումը:</string>
+    <string name="delete_this_reminder_title">Ջնջե՞լ այս հիշեցումը:</string>
+    <string name="delete_this_task_title">Ջնջե՞լ այս առաջադրանքը:</string>
+    <string name="delete_this_working_location_title">Ջնջե՞լ այս աշխատելու վայրը</string>
+    <string name="deleting_task_with_subtasks_body">Այս առաջադրանքը ենթակետեր ունի: Օգտագործեք Tasks հավելվածը՝ այն և դրա ենթակետերը ջնջելու համար:</string>
+    <string name="deleting_task_with_subtasks_title">Առաջադրանքը, որը ենթակետեր ունի, հնարավոր չէ ջնջել</string>
+    <string name="deletion_action">Ջնջել</string>
+    <string name="deletion_scope_selection_title">Ջնջել կրկնվող միջոցառումը</string>
+    <string name="deletion_scope_selection_title_reminder">Ջնջել կրկնվող հիշեցումները</string>
+    <string name="deletion_scope_selection_title_task">Ջնջե՞լ կրկնվող առաջադրանքը</string>
+    <string name="demo_account_name">Ցուցադրական հաշիվ</string>
+    <string name="demo_calendar_name">Օրացույցի դեմո տարբերակ</string>
+    <string name="describe_attachments_icon">Առդիրներ</string>
+    <string name="describe_bus_icon">Տեղեկություններ ավտոբուսի մասին</string>
+    <string name="describe_calendar_icon">Օրացույցի անունը</string>
+    <string name="describe_confirmation_icon">Դիտել հաստատումը</string>
+    <string name="describe_date_icon">Ամսաթվի տվյալներ</string>
+    <string name="describe_email_icon">Էլ-նամակ</string>
+    <string name="describe_event_icon">Տեղեկություն միջոցառման մասին</string>
+    <string name="describe_flight_icon">Թռիչքի տեղեկություններ</string>
+    <string name="describe_guests_icon">Մարդկանց ցանկը</string>
+    <string name="describe_hotel_icon">Հյուրանոցի մասին տեղեկություններ</string>
+    <string name="describe_location_icon">Տեղադրություն</string>
+    <string name="describe_notes_icon">Նշումներ</string>
+    <string name="describe_notification_icon">Օրացուցային ծանուցումներ</string>
+    <string name="describe_phone_icon">Հեռախոս</string>
+    <string name="describe_repeat_icon">Կրկնություն</string>
+    <string name="describe_restaurant_icon">Ռեստորանի մասին տեղեկություններ</string>
+    <string name="describe_room_icon">Սենյակներ</string>
+    <string name="describe_train_icon">Տեղեկություններ գնացքի մասին</string>
+    <string name="describe_visibility_icon">Տեսանելիություն</string>
+    <string name="description_hint">Ավելացրեք նկարագրություն</string>
+    <string name="desk_label">Աշխատասեղան՝ %s</string>
+    <string name="dialog_header_calendar_title">Ընտրեք օրացույցը</string>
+    <string name="dialog_header_email_title">Ընտրեք էլ․ հասցե</string>
+    <string name="dialog_header_phone_title">Ընտրեք հեռախոսահամարը</string>
+    <string name="disambiguation_email_content_description">Նամակ %1$d/%2$d։ Գրել հետևյալ հասցեին՝ %4$s (%3$s)</string>
+    <string name="disambiguation_phone_content_description">Հեռախոսահամար ^1/^2։ Զանգել հետևյալ համարին՝ ^4 (^3)</string>
+    <string name="disambiguation_sms_content_description">SMS ^1/^2։ SMS (^3)՝ ^4</string>
+    <string name="discard_dialog_body_existing_task">Չեղարկե՞լ այս հիշեցման հետ կապված փոփոխությունները:</string>
+    <string name="discard_dialog_body_new_task">Չեղարկե՞լ հիշեցումը:</string>
+    <string name="discard_dialog_discard">Հեռացնել</string>
+    <string name="discard_dialog_keep_editing">Շարունակել խմբագրումը</string>
+    <string name="dismiss">Փակել</string>
+    <string name="dismiss_warning">Փակել զգուշացումը</string>
+    <string name="dnd_auto_decline_default_message">Անջատված է (կենտրոնանալու պահ)</string>
+    <string name="dnd_chat_status_primary">Չանհանգստացնել</string>
+    <string name="dnd_chat_status_secondary">զրույցի ծանուցումներն անջատված են</string>
+    <string name="does_not_have_audio_equipment">Աուդիոսարքեր չկան</string>
+    <string name="does_not_have_video_equipment">Տեսասարքեր չկան</string>
+    <string name="drawer_account_sync_compete">Համաժամացումն ավարտված է</string>
+    <string name="drawer_account_sync_disabled">Միացնել համաժամացումը</string>
+    <string name="drawer_account_sync_error">Համաժամացման սխալ</string>
+    <string name="drawer_account_sync_syncing">Համաժամացում…</string>
+    <string name="drawer_account_unauthenticated">Մուտք չի գործել համակարգ</string>
+    <string name="drawer_birthdays_text">Ծննդյան տարեդարձեր</string>
+    <string name="drawer_help_feedback">Օգնություն և հետադարձ կապ</string>
+    <string name="drawer_holidays_text">Տոներ</string>
+    <string name="drawer_logo_lockup">Google Օրացույց</string>
+    <string name="drawer_settings">Կարգավորումներ</string>
+    <string name="drive_installation_issue_metadata_not_available">Ֆայլեր կցելու համար անհրաժեշտ է ունենալ Google Drive հավելվածը: Տեղադրեք կամ թարմացրեք այն և նորից փորձեք:</string>
+    <string name="drive_installation_issue_metadata_not_available_title">Չհաջողվեց ֆայլեր կցել</string>
+    <string name="drive_installation_issue_not_installed">Տեղադրեք անվճար Drive հավելվածը՝ առդիրներ ավելացնելու համար:</string>
+    <string name="drive_installation_issue_not_installed_title">Տեղադրեք Google Drive-ը</string>
+    <string name="drive_installation_issue_too_old">Թարմացրեք ձեր Drive հավելվածը՝ առդիրներ ավելացնելու համար:</string>
+    <string name="drive_installation_issue_too_old_title">Թարմացրեք Google Drive-ը</string>
+    <string name="edit_cancellation_message">Չեղարկե՞լ այս միջոցառման հետ կապված փոփոխությունները:</string>
+    <string name="edit_changes_cannot_be_saved_message">Այս միջոցառման տվյալներում փոփոխությունների համադրությունը չի կարող միանգամից կիրառվել:</string>
+    <string name="edit_changes_cannot_be_saved_title">Սխալ փոփոխություն</string>
+    <string name="edit_color_default_color">Կանխադրված գույնը</string>
+    <string name="edit_custom_notification">Հատուկ…</string>
+    <string name="edit_custom_recurrence">Հատուկ…</string>
+    <string name="edit_description_hint">Ավելացրեք նշում</string>
+    <string name="edit_error_event_not_found">Հարցված միջոցառումը չի գտնվել:</string>
+    <string name="edit_error_generic">Ներքին սխալ է տեղի ունեցել:</string>
+    <string name="edit_error_no_calendar">Այս սարքի հետ դեռ ոչ մի օրացույց չի համաժամացվել</string>
+    <string name="edit_event_cancel">Չեղարկել</string>
+    <string name="edit_event_delete">Ջնջել</string>
+    <string name="edit_label">Խմբագրել</string>
+    <string name="edit_label_all_day">Ամբողջ օրը</string>
+    <string name="edit_no_notification">Ծանուցում չկա</string>
+    <string name="edit_recurrence_none">Չի կրկնվում</string>
+    <string name="edit_scope_selection_title">Պահել կրկնվող միջոցառումը</string>
+    <string name="edit_scope_selection_title_reminder">Պահել կրկնվող հիշեցումը</string>
+    <string name="edit_scope_selection_title_task">Պահեք կրկնվող առաջադրանքը</string>
+    <string name="edit_scope_selection_title_working_location">Աշխատելու վայրի փոփոխում</string>
+    <string name="edit_screen_title">Խմբագրման էկրան</string>
+    <string name="edit_title_hint">Մուտքագրեք վերնագիրը</string>
+    <string name="edit_title_task_suggest_hint">Հիշեցնել ինձ...</string>
+    <string name="ellipsized_text">%1$s…</string>
+    <string name="email_guests_label">Գրել հյուրերին</string>
+    <string name="email_organizer_label">Նամակագրել կազմակերպչին</string>
+    <string name="email_picker_label">Նամակագրել</string>
+    <string name="email_response_dialog_title">Ծանուցում էլփոստով</string>
+    <string name="email_separator">,</string>
+    <string name="empty_suggestions_explanation">Բոլոր սենյակներն այս ժամին զբաղված են:</string>
+    <string name="encrypted_conference_label">Գաղտնագրված կոնֆերանս</string>
+    <string name="encrypted_contents_removed">Գաղտնագրումն անջատվել է։</string>
+    <string name="end_by_date">, մինչև %s</string>
+    <string name="end_label">Ավարտվում է</string>
+    <string name="end_time_min">%d րոպե</string>
+    <string name="ended_recurrence_prefix_content_description">Կրկնության ժամանակացույցը դադարեցված է՝ %1$s</string>
+    <string name="error_a11y_label">Error: invalid</string>
+    <string name="error_end_time_not_after_start_time">Ավարտի ժամը պետք է լինի մեկնարկի ժամից հետո</string>
+    <string name="error_generic">Ներքին սխալ առաջացավ:</string>
+    <string name="error_icon_content_description">Սխալ</string>
+    <string name="error_no_connection">Սխալ առաջացավ։ Ստուգեք ձեր կապը։</string>
+    <string name="error_no_task_account">Սարքում անելիքներ աջակցող հաշիվներ չեն գտնվել:</string>
+    <string name="error_no_times_selected">Սեղմեք օրացույցում կամ ավելացրեք ժամեր նախքան նամակին ավելացնելը</string>
+    <string name="error_offline_subtitle">Ստուգեք կապը և նորից փորձեք:</string>
+    <string name="error_offline_title">Կապ չկա</string>
+    <string name="error_opening_gmail_thread">Հարցված նամակագրությունը չհաջողվեց բեռնել։</string>
+    <string name="error_repeating_task_start_time_in_past">Կրկնվող առաջադրանքի մեկնարկի ժամը չի կարող լինել անցյալում:</string>
+    <string name="error_start_time_after_end_time">Մեկնարկի ժամը չի կարող լինել ավարտի ժամից հետո:</string>
+    <string name="error_state_body">Ավելի ուշ փորձեք:</string>
+    <string name="error_state_title">Սխալ առաջացավ</string>
+    <string name="error_working_location_missing">Անհրաժեշտ է նշել աշխատելու վայրը։</string>
+    <string name="event">Միջոցառում</string>
+    <string name="event_copy_to">Պատճենել…</string>
+    <string name="event_duplicate">Կրկնօրինակել</string>
+    <string name="event_encrypted">Գաղտնագրված</string>
+    <string name="event_encrypted_by">Գաղտնագրված է %1$s-ի կողմից</string>
+    <string name="event_encrypted_details">Նկարագրությունը, առդիրներն ու Google Meet-ի տեսակոնֆերանսները լրացուցիչ գաղտնագրում ունեն</string>
+    <string name="event_external_source">Ստեղծվել է արտաքին աղբյուրից</string>
+    <string name="event_forward">Առաջ</string>
+    <string name="event_info_title">Դիտել միջոցառումը</string>
+    <string name="event_not_found">Միջոցառումը չի գտնվել:</string>
+    <string name="event_report_spam">Նշել որպես սպամ</string>
+    <string name="event_report_spam_dialog_title">Նշել որպես սպամ</string>
+    <string name="every_weekday_lower">յուրաքանչյուր աշխատանքային օր (երկ-ուրբ)</string>
+    <string name="everyone_declined_message">Մնացած բոլոր հրավիրվածները մերժել են հրավերը</string>
+    <string name="everyone_declined_prefix">Մյուսները մերժել են՝</string>
+    <string name="ewl_prefix">Աշխատելու վայրը՝</string>
+    <string name="exception_during_external_activity_start">Հավելվածը, որը մշակում է այս գործողությունը, չհաջողվեց գործարկել</string>
+    <string name="expand_button_title">Լրացուցիչ</string>
+    <string name="expand_location">Ծավալել «%1$s» բաժինը</string>
+    <string name="expand_sheet">Ծավալել միջոցառման թերթը</string>
+    <string name="expand_task_sheet">Ծավալել առաջադրանքի թերթը</string>
+    <string name="expand_working_location_sheet">Ծավալել աշխատելու վայրի մասին տվյալներով թերթը</string>
+    <string name="expanded_location_title">Սենյակ %1$d հոգու համար «%2$s» շենքում</string>
+    <string name="exposed_dropdown_menu_content_description">Ցույց տալ իջնող ընտրացանկը</string>
+    <string name="failed_to_copy_to_clipboard">Չհաջողվեց պատճենել սեղմատախտակին:</string>
+    <string name="failed_to_create_conference">Չհաջողվեց ստեղծել կոնֆերանս</string>
+    <string name="feature_events">միջոցառումներ</string>
+    <string name="feature_out_of_office">տեղում չէ</string>
+    <string name="feature_reminders">հիշեցումներ</string>
+    <string name="feature_tasks">առաջադրանքներ</string>
+    <string name="feature_working_location">աշխատելու վայրը</string>
+    <string name="filter_capacity_max">%1$d+</string>
+    <string name="filter_capacity_title">Սենյակում անհրաժեշտ տեղերի քանակը</string>
+    <string name="filter_recurring_future_events">Այս և հետագա միջոցառումները</string>
+    <string name="filter_recurring_this_event">Այս միջոցառումը</string>
+    <string name="find_a_time_bottom_filter_change">Փոխել</string>
+    <string name="find_a_time_button_label_more_to_grid">«Ավելին» կոճակ - ցուցադրում է ժամանակի առաջարկը օրացույցի ցանցում</string>
+    <string name="find_a_time_consider_existing_rooms">Հաշվի առնել առկա սենյակները</string>
+    <string name="find_a_time_duration_timeframe_filter_around_custom">%s-ի սահմաններում</string>
+    <string name="find_a_time_duration_timeframe_filter_format">%1$s %2$s</string>
+    <string name="find_a_time_duration_timeframe_filter_on_custom">%s-ին</string>
+    <string name="find_a_time_event_busy">Զբաղված</string>
+    <string name="find_a_time_event_no_status">Կարգավիճակ չկա</string>
+    <string name="find_a_time_event_out_of_office">Չի աշխատում</string>
+    <string name="find_a_time_event_tentatively_busy">Նախնականորեն զբաղված</string>
+    <string name="find_a_time_filters_title">Զտիչներ</string>
+    <string name="find_a_time_title">Գտնել ժամանակ</string>
+    <string name="find_time_custom_duration_dialog_title">Անհատական տևողություն</string>
+    <string name="find_time_custom_duration_hour_input">ժ</string>
+    <string name="find_time_custom_duration_max_error_msg">Պետք է լինի 24 ժ-ից պակաս</string>
+    <string name="find_time_custom_duration_min_error_msg">Պետք է լինի առնվազն 1 րոպե</string>
+    <string name="find_time_custom_duration_minute_input">ր</string>
+    <string name="find_time_duration_custom_option">Անհատական…</string>
+    <string name="find_time_duration_hour_minute_word_break" />
+    <string name="find_time_duration_picker_title">Տևողությունը</string>
+    <string name="find_time_empty_list_failed_load_calendars_body_title">Օրացույցները չհաջողվեց բեռնել: Ավելի ուշ նորից փորձեք:</string>
+    <string name="find_time_empty_list_failed_load_calendars_label_title">Առաջարկ չկա</string>
+    <string name="find_time_empty_list_label_body">Փոխեք ստորև ժամկետները կամ տևողությունը՝ ավելի լավ արդյունքներ ստանալու համար</string>
+    <string name="find_time_empty_list_label_title">Բոլորը զբաղված են</string>
+    <string name="find_time_empty_list_not_found_all_calendars_body_title">Հյուրերի և ոչ մի օրացույց ձեզ հասանելի չէ:</string>
+    <string name="find_time_everyone_everyone_is_busy_snackbar_label">Բոլորը զբաղված են:</string>
+    <string name="find_time_everyone_is_busy_snackbar_action">ԳՏՆԵԼ</string>
+    <string name="find_time_find_later_on_snackbar_label">Գտնե՞լ առաջարկներ ավելի ուշ ժամանակահատվածի համար:</string>
+    <string name="find_time_grid_slab_datetime_format">%1$s, %2$s</string>
+    <string name="find_time_guest_does_not_take_meetings_at_this_time">%s-ն այս ժամին սովորաբար չի մասնակցում հանդիպումներին</string>
+    <string name="find_time_guest_is_unavailable">%s-ն այդ ժամին զբաղված է</string>
+    <string name="find_time_label_best_times">Լավագույն ժամանակները</string>
+    <string name="find_time_not_considered">Հաշվի չեն առնված՝ %s</string>
+    <string name="find_time_one_or_more_guests_have_conflict">Հյուրերից մեկը կամ մի քանիսն այդ ժամին մեկ այլ միջոցառման են մասնակցում</string>
+    <string name="find_time_plus_x_more">Եվս %d</string>
+    <string name="find_time_room_booking_options_header">Սենյակներ</string>
+    <string name="find_time_room_is_unavailable">%s-ն այդ ժամին ազատ չէ</string>
+    <string name="find_time_several_guests_are_unavailable">Հյուրերից մի քանիսն այդ ժամին զբաղված են</string>
+    <string name="find_time_several_guests_usually_do_not_take_meetings_at_this_time">Հյուրերից մի քանիսն այս ժամին սովորաբար չեն մասնակցում հանդիպումներին</string>
+    <string name="find_time_several_participants_are_unavailable">Մասնակիցներից մի քանիսն այդ ժամին զբաղված են</string>
+    <string name="find_time_several_rooms_are_unavailable">Սենյակներից մի քանիսն այդ ժամին ազատ չեն</string>
+    <string name="find_time_timeframe_picker_on_a_date_label">%s-ին</string>
+    <string name="find_time_timeframe_picker_title">Ժամկետները</string>
+    <string name="find_time_timeframe_picker_within_a_date_label">%s-ի սահմաններում</string>
+    <string name="find_time_two_info">%1$s %2$s﻿</string>
+    <string name="find_time_two_lines_short_layout">%1$s՝ %2$s</string>
+    <string name="find_time_you_are_unavailable">Դուք այդ ժամին զբաղված եք</string>
+    <string name="find_time_you_do_not_take_meetings_at_this_time">Դուք այս ժամին սովորաբար չեք մասնակցում հանդիպումներին</string>
+    <string name="fix_permission_sharing_option_comment">Կարող եք մեկնաբանել</string>
+    <string name="fix_permission_sharing_option_edit">Կարող եք խմբագրել</string>
+    <string name="fix_permission_sharing_option_view">Կարող եք դիտել</string>
+    <string name="fix_permissions_add_collaborators_button">Այս միջոցառման հյուրերը՝</string>
+    <string name="fix_permissions_google_account_not_required_warning">Պարտադիր չէ, որ հյուրերը Google հաշիվ ունենան:</string>
+    <string name="fix_permissions_google_account_required_warning">Հյուրերը պետք է Google հաշիվ ունենան:</string>
+    <string name="fix_permissions_increase_domain_visibility_button">Մարդիկ &lt;b>%1$s&lt;/b>-ում, հետևյալ հղումով՝</string>
+    <string name="fix_permissions_increase_public_visibility_button">Բոլորը, ովքեր ունեն հղումը, կարող են՝</string>
+    <string name="fix_permissions_more_options">Այլ ընտրանքներ</string>
+    <string name="fix_permissions_outside_domain_warning_title">Վստա՞հ եք:</string>
+    <string name="fix_permissions_send_without_sharing">Չհամօգտագործել</string>
+    <string name="fix_permissions_title">Հասանելիության ընտրանքներ</string>
+    <string name="flight_cancelled">Չեղարկվել է</string>
+    <string name="flight_duration">Թռիչքի տևողությունը</string>
+    <string name="flight_redirected">Վերաուղղորդվել է</string>
+    <string name="floor">Հարկ %1$s</string>
+    <string name="floor_and_section">%1$s—%2$s</string>
+    <string name="floor_label">Հարկ՝ %s</string>
+    <string name="floor_section_label">Սեկցիա՝ %s</string>
+    <string name="focus_time_prefix">Կենտրոնանալու ժամանակ՝</string>
+    <string name="foreign_holiday">%1$s (%2$s)</string>
+    <string name="forward_event_chooser_title">Ընտրեք հավելվածը</string>
+    <string name="forward_event_email_subject">Fw: %s</string>
+    <string name="forward_event_message_body">"Ումից՝ %1$s
+Թեմա՝ %2$s
+Ում՝ %3$s
+
+Երբ՝ %4$s
+Որտեղ՝ %5$s
+
+%6$s"</string>
+    <string name="forward_event_toast_title">Միջոցառման փոխանցում…</string>
+    <string name="generic_error">Սխալ</string>
+    <string name="gms_core_unrecoverable_error">Օրացույցը չհաջողվեց գործարկել՝ Google Play ծառայությունների սխալի պատճառով:</string>
+    <string name="go_to_calendar_website">Անցնել Օրացույցի վեբկայք</string>
+    <string name="go_to_play_store">Անցնել Play Խանութ</string>
+    <string name="google_play_protect_title">Google Play Protect</string>
+    <string name="google_primary_calendar_name">Միջոցառումներ</string>
+    <string name="got_it">Եղավ</string>
+    <string name="goto_next_month">Անցնել հաջորդ ամսին</string>
+    <string name="goto_previous_month">Անցնել նախորդ ամսին</string>
+    <string name="goto_tasks">Բացել առաջադրանքները</string>
+    <string name="goto_today">Այսօր</string>
+    <string name="guest_notification_prompt_cancellations_will_be_sent_message">Google Օրացույցի հյուրերին չեղարկման մասին ծանուցումներ կուղարկվեն:</string>
+    <string name="guest_notification_prompt_create_message">Էլփոստով հրավեր ուղարկե՞լ Google Օրացույց օգտագործող հյուրերին։</string>
+    <string name="guest_notification_prompt_delete_message">Ուղարկե՞լ չեղարկման մասին ծանուցումներ Google Օրացույցի հյուրերին:</string>
+    <string name="guest_notification_prompt_invite_new_cancel_removed_guests">Ուղարկե՞լ նամակներ Google Օրացույցի նոր և հեռացված հյուրերին:</string>
+    <string name="guest_notification_prompt_invite_new_guests">Էլփոստով հրավեր ուղարկե՞լ Google Օրացույց օգտագործող նոր հյուրերին։</string>
+    <string name="guest_notification_prompt_invite_new_guests_update_existing">Ուղարկե՞լ նամակներ Google Օրացույցի նոր և արդեն գոյություն ունեցող հյուրերին:</string>
+    <string name="guest_notification_prompt_invite_new_update_existing_cancel_removed_guests">Ուղարկե՞լ նամակներ Google Օրացույցի նոր, արդեն գոյություն ունեցող և հեռացված հյուրերին:</string>
+    <string name="guest_notification_prompt_learn_more">%s Մանրամասն</string>
+    <string name="guest_notification_prompt_negative_button">Չուղարկել</string>
+    <string name="guest_notification_prompt_positive_button">Ուղարկել</string>
+    <string name="guest_notification_prompt_previous_changes_could_be_sent_message">%s Հյուրերը հնարավոր է ծանուցվեն այս միջոցառման նախորդ փոփոխությունների մասին:</string>
+    <string name="guest_notification_prompt_update_cancel_removed_guests_message">Ուղարկե՞լ չեղարկման մասին ծանուցումներ Google Օրացույցի հեռացված հյուրերին:</string>
+    <string name="guest_notification_prompt_update_existing_cancel_removed_guests_message">Ուղարկե՞լ նամակներ Google Օրացույցի արդեն գոյություն ունեցող և հեռացված հյուրերին:</string>
+    <string name="guest_notification_prompt_update_message">Ուղարկե՞լ ծանուցումներ Google Օրացույցի հյուրերին:</string>
+    <string name="guest_notification_prompt_updates_will_be_sent_message">Հյուրերը կծանուցվեն նախորդ և ընթացիկ փոփոխությունների մասին:</string>
+    <string name="guests_can_header">Հյուրերը.</string>
+    <string name="guests_can_item_invite_others">Կարող են հրավիրել այլ հյուրերի</string>
+    <string name="guests_can_item_modify_event">Կարող են փոփոխել միջոցառումը</string>
+    <string name="guests_can_item_no_permissions">Տեսնում են միայն միջոցառման մանրամասները</string>
+    <string name="guests_can_item_see_guest_list">Տեսնում են հյուրերի ցանկը</string>
+    <string name="guests_hidden_large_event">Հյուրերի ամբողջական ցանկը թաքցվել է, որովհետև հյուրերի քանակը չափազանց մեծ է:</string>
+    <string name="guests_hidden_no_permission">Հյուրերի ամբողջական ցանկը թաքցվել է կազմակերպչի պահանջով:</string>
+    <string name="hangout_action">Միանալ Hangout-ին</string>
+    <string name="happy_birthday">Շնորհավորո՛ւմ ենք Ձեր ծննդյան տարեդարձը:</string>
+    <string name="has_audio_equipment">Առկա են աուդիոսարքեր</string>
+    <string name="has_video_equipment">Առկա են տեսասարքեր</string>
+    <string name="holiday_settings_button_text">Թարմացնել տոների կարգավորումները</string>
+    <string name="home">Տուն</string>
+    <string name="hourly_view_label">Օր</string>
+    <string name="hourly_view_label_full">Օրվա դիտակերպ</string>
+    <string name="ical_ask_delete_cancelled_event">«%s» միջոցառումը չեղյալ է համարվել: Կցանկանայի՞ք այն հեռացնել ձեր օրացույցից:</string>
+    <string name="ical_event_existing">Այս միջոցառումն արդեն ձեր օրացույցում է:</string>
+    <string name="ical_event_existing_newer_version">Ձեր օրացույցում արդեն կա այս միջոցառման ավելի նոր տարբերակը։</string>
+    <string name="ical_event_launch_failed">Հնարավոր չէ գործարկել միջոցառումը</string>
+    <string name="ical_file_unsupported">Չաջակցվող ICS ֆայլ։</string>
+    <string name="ical_import_all">Ավելացնել բոլորը</string>
+    <string name="ical_import_all_failure">Ոչ բոլոր միջոցառումներն են ավելացվել օրացույցում:</string>
+    <string name="ical_import_all_success">Բոլոր միջոցառումներն ավելացվել են օրացույցում:</string>
+    <string name="ical_import_failed">Չհաջողվեց ավելացնել միջոցառումը:</string>
+    <string name="ical_import_successful">Միջոցառումն ավելացվեց ձեր օրացույցում:</string>
+    <string name="ical_update_failed">Չհաջողվեց թարմացնել միջոցառումը:</string>
+    <string name="ical_update_successful">Միջոցառումը հաջողությամբ թարմացվել է:</string>
+    <string name="ics_file">ICS ֆայլ</string>
+    <string name="illegal_times_selected_dialog_text">Փոխեք միջոցառման մեկնարկի ժամանակն այնպես, որ այն լինի ավարտի ժամանակից առաջ:</string>
+    <string name="import_event_action_prompt">Ավելացնել Օրացույցում</string>
+    <string name="inferred_rsvp_location_promo_body_text">Օրացույցում կարող եք նշել, թե ինչպես եք միանում հանդիպմանը՝ հիմք ընդունելով ձեր աշխատելու վայրը</string>
+    <string name="infinite_duration_accessibility_description">Երբեք չի ավարտվում</string>
+    <string name="infinite_duration_label">Երբեք</string>
+    <string name="instructions_for_calendar_permission_settings_screen">Կարգավորումներում հպեք «Թույլտվություններ» և միացրեք Օրացույցը։</string>
+    <string name="interval_title">Կրկնվում է ամեն</string>
+    <string name="item_is_selected">Ընտրված է %1$s տարրը</string>
+    <string name="join_by_phone_action_label">Միանալ հեռախոսով</string>
+    <string name="join_conference_with">Միանալ %s-ով</string>
+    <string name="join_from_non_google_system">Միանալ կողմնակի համակարգից</string>
+    <string name="join_live_stream">Դիտել ուղիղ հեռարձակմամբ</string>
+    <string name="join_video_conferencing">Միանալ տեսակոնֆերանսին</string>
+    <string name="join_video_conferencing_short">Միանալ</string>
+    <string name="known_senders_opt_out_promo_body">Անծանոթ մարդկանցից ստացված հրավերներն ավտոմատ չեն հայտնվի ձեր օրացույցում։ Դուք նախկինի պես կարող եք պատասխանել հրավերներին ձեր էլփոտից։</string>
+    <string name="known_senders_opt_out_promo_learn_more_link">Իմանալ ավելին միջոցառումների հրավերների մասին</string>
+    <string name="known_senders_opt_out_promo_neutral_button">Կառավարել կարգավորումը</string>
+    <string name="known_senders_opt_out_promo_positive_button">Եղավ</string>
+    <string name="known_senders_opt_out_promo_title">Այժմ ավելի հեշտ է արգելափակել սպամը</string>
+    <string name="launcher_shortcut_event">Նոր միջոցառում</string>
+    <string name="launcher_shortcut_event_long">Նոր միջոցառում</string>
+    <string name="launcher_shortcut_reminder">Նոր հիշեցում</string>
+    <string name="launcher_shortcut_reminder_long">Նոր հիշեցում</string>
+    <string name="learn_more">Իմացեք ավելին</string>
+    <string name="learn_more_google_accounts">Իմանալ ավելին հաշիվների մասին։</string>
+    <string name="legacy_holiday_label">%s (հին տարբերակ)</string>
+    <string name="libraries_material_featurehighlight_dismiss">Փակել</string>
+    <string name="list_week_view_3days_label">3 օր</string>
+    <string name="list_week_view_3days_label_full">Երեք օրվա դիտակերպ</string>
+    <string name="loading">Բեռնում...</string>
+    <string name="loading_addons_error">Չհաջողվեց բեռնել կոնֆերանսների համար նախատեսված լուծումների ցանկը</string>
+    <string name="loading_addons_error_no_connection">Կոնֆերանսների համար նախատեսված լուծումների ցանկը հնարավոր չէ բեռնել, քանի որ ինտերնետ կապ չկա</string>
+    <string name="loading_attendees">Մասնակիցների բեռնում…</string>
+    <string name="local_account_deactivated_account_picker_popup_explanation">Ստեղծելով միջոցառումներ՝ դուք կարող եք դրանք ավելացնել այս հաշվում։ Օգտագործեք Google հաշիվ՝ Օրացույցի բոլոր գործառույթներից օգտվելու համար։</string>
+    <string name="local_account_deactivated_account_picker_popup_learn_more">Իմանալ ավելին Օրացույցում հաշիվների օգտագործման մասին։</string>
+    <string name="location_conferencing_defer">Նշված չէ / կնշվի ավելի ուշ</string>
+    <string name="location_conferencing_error_subtext">Մուտքագրեք հասցե</string>
+    <string name="location_conferencing_in_person">Ֆիզիկական մասնակցությամբ հանդիպում</string>
+    <string name="location_conferencing_location_hint">Ավելացրեք վայր (պարտադիր է)</string>
+    <string name="location_conferencing_meet">Google Meet-ի տեսակոնֆերանս</string>
+    <string name="location_conferencing_none">Ավելացրեք վայր կամ տեսակոնֆերանս</string>
+    <string name="location_conferencing_phone">Հեռախոսազանգ</string>
+    <string name="location_conferencing_subtext_meet">Ժամը հաստատելուց հետո կստեղծվի Meet-ին միանալու հղում</string>
+    <string name="location_conferencing_subtext_phone">Հեռախոսահամարը կտրամադրվի ժամը հաստատող անձի կողմից</string>
+    <string name="location_error">Չհաջողվեց վայր ավելացնել</string>
+    <string name="location_meeting_room">հանդիպումների սենյակում</string>
+    <string name="location_picker_contacts">Կոնտակտներ</string>
+    <string name="location_picker_hint">Ավելացրեք վայր</string>
+    <string name="location_picker_locations">Մոտակա վայրեր</string>
+    <string name="location_remove">Հեռացնել</string>
+    <string name="location_show_on_map">Ցույց տալ քարտեզի վրա</string>
+    <string name="location_time">%s (տեղական ժամանակով)</string>
+    <string name="location_virtually">տեսակոնֆերանսի միջոցով</string>
+    <string name="map_label">Քարտեզ</string>
+    <string name="maps_not_available">Այս վայրը դիտելու համար համապատասխան ծրագիր չկա:</string>
+    <string name="meet_consumer_description_label">Տեսակոնֆերանսի մանրամասներն ավելացվեցին</string>
+    <string name="meet_description_label">Տեսակոնֆերանսի մանրամասներն ու միացման տվյալները ավելացվեցին</string>
+    <string name="meet_sharing_joining_info">Google Meet հանդիպմանը միանալու վերաբերյալ տեղեկություններ</string>
+    <string name="meet_sharing_more_phone_numbers">Այլ հեռախոսահամարներ՝ %s</string>
+    <string name="meet_sharing_phone_number">Կարող եք նաև զանգել՝ %s</string>
+    <string name="meet_sharing_sip">Կամ միացեք SIP-ի միջոցով՝ %s</string>
+    <string name="meet_sharing_video_call">Տեսազանգի հղում՝ %s</string>
+    <string name="meeting_code_format">ID՝ %s</string>
+    <string name="meetings_decline_type_disabled_explanation">Հասանելի չէ կրկնվող միջոցառումների համար</string>
+    <string name="menu_category_general_preferences">Ընդհանուր</string>
+    <string name="menu_crossprofile_connection_off">Չեն ցուցադրվում</string>
+    <string name="menu_crossprofile_connection_on">Ցուցադրվում են</string>
+    <string name="menu_crossprofile_preferences">Անձնական օրացույցներ</string>
+    <string name="menu_help">Օգնություն</string>
+    <string name="menu_item_help_feedback">Օգնություն և հետադարձ կապ</string>
+    <string name="menu_smartmail_preference_details">"Gmail-ը կարող է ավտոմատ ստեղծել միջոցառումներ, որոնք կարող են ցուցադրվել ձեր օրացույցում։ Այդ միջոցառումները կօգնեն ձեզ միշտ աչքի տակ ունենալ, օրինակ, թռիչքների և մյուս ամրագրումները։
+
+Որպեսզի Gmail-ից միջոցառումներ ստեղծվեն, դուք պետք է Gmail-ի կարգավորումներում միացնեք նաև "<b>Խելացի գործառույթներն ու անհատականացումը</b>։</string>
+    <string name="menu_smartmail_preferences">Միջոցառումներ Gmail-ից</string>
+    <string name="menu_working_hours_preferences">Աշխատանքային ժամեր</string>
+    <string name="missing_permissions_dialog_button_negative">Փակել</string>
+    <string name="missing_permissions_dialog_button_positive">Անցնել անձնական հավելված</string>
+    <string name="missing_permissions_dialog_text">Ձեր բոլոր օրացույցները տեսնելու համար միացրեք ձեր անձնական Օրացույց հավելվածի թույլտվությունները։</string>
+    <string name="missing_permissions_dialog_title">Օրացույցները հասանելի չեն</string>
+    <string name="month_view">Օրացույցը ամսվա դիտակերպում</string>
+    <string name="month_view_label">Ամիս</string>
+    <string name="month_view_label_full">Ամսվա դիտակերպ</string>
+    <string name="monthly_date_frequency">Ամեն ամսվա %1$s-ին</string>
+    <string name="more_info_card_call_content_description">Զանգել (%1$s)՝ %2$s</string>
+    <string name="more_info_card_email_content_description">Գրել (%1$s)՝ %2$s</string>
+    <string name="more_joining_options">Զանգին միանալու այլ տարբերակներ</string>
+    <string name="more_label">Ավելին</string>
+    <string name="more_primary">Ինչպես միանալ</string>
+    <string name="move_reminder_to_date">Հիշեցումը տեղափոխվեց %s:</string>
+    <string name="mtrl_checkbox_state_description_checked">Checked</string>
+    <string name="mtrl_checkbox_state_description_indeterminate">Partially checked</string>
+    <string name="mtrl_checkbox_state_description_unchecked">Not checked</string>
+    <string name="mtrl_chip_close_icon_content_description">Հեռացնել (%1$s)</string>
+    <string name="mtrl_picker_a11y_next_month">Անցնել հաջորդ ամիս</string>
+    <string name="mtrl_picker_a11y_prev_month">Անցնել նախորդ ամիս</string>
+    <string name="mtrl_picker_day_of_week_column_header">Օրերի սյունակ՝ %1$s</string>
+    <string name="mtrl_picker_end_date_description">Ավարտի ամսաթիվը՝ %1$s</string>
+    <string name="mtrl_picker_navigate_to_current_year_description">Անցնել ընթացիկ տարվան (%1$d)</string>
+    <string name="mtrl_picker_navigate_to_year_description">Անցնել %1$d թվական</string>
+    <string name="mtrl_picker_start_date_description">Սկզբի ամսաթիվը՝ %1$s</string>
+    <string name="mtrl_picker_today_description">Այսօր (%1$s)</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Հպեք՝ Օրացույցի դիտակերպին անցնելու համար</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Հպեք՝ տարվա դիտակերպին անցնելու համար</string>
+    <string name="new_event_prefix">Նոր միջոցառում՝</string>
+    <string name="new_task_prefix">Նոր առաջադրանք՝</string>
+    <string name="new_time_proposed">Նոր ժամանակ առաջարկվեց կազմակերպչին</string>
+    <string name="next_month">Հաջորդ ամիս</string>
+    <string name="no_available_conferences">Կոնֆերանսների համար նախատեսված լուծումներ չկան</string>
+    <string name="no_available_dialer">Համարահավաքիչ չկա:</string>
+    <string name="no_calendar_permission_message">Google Օրացույցին անհրաժեշտ է թույլտվություն` միջոցառումներ ստեղծելու և ցուցադրելու համար:</string>
+    <string name="no_calendar_permission_title">Ձեր օրացույց մուտք գործելու թույլտվություն չկա</string>
+    <string name="no_clock_role_message">Միջոցառումների մասին ծանուցումներ ճիշտ ժամանակին ցուցադրելու համար Google Օրացույցին անհրաժեշտ է հիշեցումներ ստեղծելու թույլտվություն</string>
+    <string name="no_clock_role_title">Թույլ տվեք, որ Օրացույցը ժամանակին հիշեցնի ձեզ</string>
+    <string name="no_end_time">Ավարտի ժամանակ չկա</string>
+    <string name="no_entries_after">Այստեղ ցուցադրված են միայն %s-ից հետո արված գրառումները</string>
+    <string name="no_events_for_day">Նախատեսված ոչինչ չկա: Հպեք` ստեղծելու համար:</string>
+    <string name="no_events_today">Այսօր ոչինչ չկա</string>
+    <string name="no_information">Տեղեկություններ չկան</string>
+    <string name="no_more_events_today">Այսօրվա համար էլ ոչինչ չկա</string>
+    <string name="no_one_to_chat_with">Այստեղ ոչ մի զրուցակից չկա</string>
+    <string name="no_reminder">Հիշեցում չկա</string>
+    <string name="no_results_events_and_reminders">Ոչ մի միջոցառում կամ հիշեցում չի գտնվել</string>
+    <string name="no_results_with_quoted_text">«%s» որոնման արդյունքներ չեն գտնվել</string>
+    <string name="no_title_label">(Անվերնագիր)</string>
+    <string name="no_title_placeholder">(Անանուն)</string>
+    <string name="no_visible_calendars_action">Եղավ</string>
+    <string name="no_visible_calendars_body">"Այստեղ ոչինչ չի ցուցադրվում, քանի որ բոլոր օրացույցներն անջատված են:
+
+Բացեք վերևի ձախ ընտրացանկը և հպեք օրացույցին՝ միջոցառումները տեսնելու համար:"</string>
+    <string name="no_visible_calendars_title">Օրացույցները թաքցված են</string>
+    <string name="non_google_account_attachments">Առդիրները հեռացվեցին, քանի որ Drive-ը չի աջակցվում ոչ Google հաշիվների համար:</string>
+    <string name="non_google_account_discouraged">Այս հաշիվը կարող է Google Օրացույցի ոչ բոլոր գործառույթներն աջակցել</string>
+    <string name="not_set">Կարգավորված չէ</string>
+    <string name="notification_chat_button_description">Զրուցել հյուրերի հետ</string>
+    <string name="notification_chat_button_description_short">Զրույց</string>
+    <string name="notification_permission_explanation_page_allow_button">Թույլատրել ծանուցումները</string>
+    <string name="notification_permission_explanation_page_message">Առաջիկա միջոցառումների և առաջադրանքների մասին ծանուցումներ ստանալու համար Օրացույցին թույլատրեք ծանուցումներ ուղարկել։ Յուրաքանչյուր միջոցառման համար կարող եք ծանուցումներն առանձին կարգավորել։</string>
+    <string name="notification_permission_explanation_page_skip_button">Ոչ հիմա</string>
+    <string name="notification_permission_explanation_page_title">Ոչինչ բաց մի՛ թողեք</string>
+    <string name="notification_tone_label">Օրացուցային ծանուցում</string>
+    <string name="notifications_are_turned_off_in_settings">Ծանուցումներն անջատված են այս սարքի կարգավորումներում</string>
+    <string name="notifications_channel_description">Օրացույցի ծանուցումներ</string>
+    <string name="notifications_off_warning">Դուք ծանուցում չեք ստանա այս սարքում, քանի որ Օրացույցի ծանուցումներն անջատված են։</string>
+    <string name="notifications_off_warning_directive">Թույլատրել ծանուցումները</string>
+    <string name="notifications_off_warning_settings_target">Բացել կարգավորումները</string>
+    <string name="office">Գրասենյակ</string>
+    <string name="offline_warning">Կապ չկա: Որոշ ժամանակացույցներ չհաջողվեց բեռնել:</string>
+    <string name="og_a11y_close">Փակել</string>
+    <string name="og_account_and_settings">Հաշիվ և կարգավորումներ։</string>
+    <string name="og_account_critical_alert_view_label_a11y">%1$s %2$s հաշվի համար</string>
+    <string name="og_account_deactivated_a11y">Մեկ հաշվից մյուսն անցնելու գործառույթը միացված չէ %1$s օգտատիրոջ համար</string>
+    <string name="og_account_particle_disc_no_accounts_available_a11y">Մուտք</string>
+    <string name="og_account_switching_deactivated">Մեկ հաշվից մյուսն անցնելու գործառույթը միացված չէ</string>
+    <string name="og_add_another_account">Ավելացնել հաշիվ</string>
+    <string name="og_choose_an_account_title">Ընտրեք հաշիվ</string>
+    <string name="og_collapse_account_list_a11y">Ծալեք հաշիվների ցանկը</string>
+    <string name="og_continue">Շարունակել</string>
+    <string name="og_continue_as">Շարունակել որպես %1$s</string>
+    <string name="og_critical_security_alert_badge_label_a11y">Անվտանգությանն առնչվող կարևոր ծանուցում</string>
+    <string name="og_expand_account_list_a11y">Ծավալեք հաշիվների ցանկը</string>
+    <string name="og_google_one_account_a11y">Google One հաշիվ:</string>
+    <string name="og_got_it">Եղավ</string>
+    <string name="og_important_account_alert_badge_a11y_label">Հաշվին առնչվող կարևոր ծանուցում</string>
+    <string name="og_important_actions_available_a11y_label">Հասանելի են կարևոր %1$s</string>
+    <string name="og_loading_a11y">Բեռնում</string>
+    <string name="og_manage_accounts">Կառավարել հաշիվներն այս սարքից</string>
+    <string name="og_my_account_desc_long_length">Կառավարել Google հաշիվը</string>
+    <string name="og_my_account_desc_meduim_length">Google հաշիվ</string>
+    <string name="og_my_account_desc_short_length">Հաշիվ</string>
+    <string name="og_obake_feature_a11y">Փոխել պրոֆիլի նկարը:</string>
+    <string name="og_privacy_policy">Գաղտնիության քաղաքականություն</string>
+    <string name="og_recommended_actions_entry_point">Առաջարկվող գործողություններ</string>
+    <string name="og_selected_account_a11y">Ընտրվել է %1$s հաշիվը։</string>
+    <string name="og_sign_in_">Մուտք</string>
+    <string name="og_signed_in_as_account">Մուտք եք գործել որպես %1$s</string>
+    <string name="og_terms_of_service">Օգտագործման պայմաններ</string>
+    <string name="og_use_account_a11y_no_period">Օգտագործել %1$s հաշիվը</string>
+    <string name="on_the_day_at">%s ամբողջ օրը</string>
+    <string name="only_reschedule_reminders_to_future">Հիշեցումները չեն կարող տեղափոխվել անցյալ ժամանակ</string>
+    <string name="oobe_done">Եղավ</string>
+    <string name="oobe_next">հաջորդ էջը</string>
+    <string name="oobe_welcome_to_google_calendar">Բարի գալուստ Google Օրացույց</string>
+    <string name="ooo">Տեղում չէ</string>
+    <string name="ooo_auto_decline_default_message">Մերժել, քանի որ այդ ժամին ես տեղում չեմ</string>
+    <string name="ooo_auto_decline_disabled">Հանդիպումները չեն մերժվի</string>
+    <string name="ooo_auto_decline_explanation">Ավտոմատ մերժել հանդիպումները</string>
+    <string name="ooo_auto_decline_message_label">Հաղորդագրություն</string>
+    <string name="ooo_auto_decline_will_apply_to_existing_and_new_invitations">Նոր և առկա հանդիպումները կմերժվեն</string>
+    <string name="ooo_auto_decline_will_apply_to_new_invitations">Միայն նոր հանդիպումները կմերժվեն</string>
+    <string name="ooo_auto_reply_enabled">Gmail-ում կարգավորվել է ավտոմատ պատասխանը</string>
+    <string name="ooo_confirm_dialog_positive">Պահել և մերժել</string>
+    <string name="ooo_confirm_dialog_title">Ավտոմատ մերժե՞լ այս ժամանակահատվածի համար պլանավորված բոլոր նոր և առկա հանդիպումները</string>
+    <string name="ooo_confirm_dialog_title_decline_new_only">Ավտոմատ մերժե՞լ այս ժամանակահատվածի համար պլանավորված բոլոր նոր հանդիպումները</string>
+    <string name="ooo_decline_new_and_existing_meetings">Նոր և առկա հանդիպումները</string>
+    <string name="ooo_decline_new_meetings">Միայն հանդիպումների նոր հրավերները</string>
+    <string name="ooo_decline_new_meetings_read_out">%1$s մերժվում են</string>
+    <string name="ooo_default_title">Տեղում չէ</string>
+    <string name="ooo_meetings_to_decline">Մերժման ենթակա հանդիպումներ</string>
+    <string name="ooo_prefix">Տեղում չէ՝</string>
+    <string name="ooo_visibility_disclaimer">Հասանելիությունը կարող է ցուցադրվել Google-ի այլ հավելվածներում: Սա փոխելու համար ձեր համակարգչում բացեք Օրացույցի կարգավորումները:</string>
+    <string name="open_source_licenses_title">Բաց կոդով արտոնություններ</string>
+    <string name="option_remove">Հեռացնել</string>
+    <string name="organizer">Կազմակերպիչ՝ %s</string>
+    <string name="out_of_office">Տեղում չէ</string>
+    <string name="outside_working_hours">Աշխատանքային ժամերից դուրս</string>
+    <string name="overwrite_event_action_prompt">Վերագրանցել առկա միջոցառումը</string>
+    <string name="palestine_display_name">Պաղեստին</string>
+    <string name="passcode_format">Անցակոդ՝ %s</string>
+    <string name="password_format">Գաղտնաբառ՝ %s</string>
+    <string name="password_toggle_content_description">Ցուցադրել գաղտնաբառը</string>
+    <string name="people_intelligence_busy">Զբաղված է — կազատվի՝ %1$s</string>
+    <string name="people_intelligence_in_a_meeting">Հանդիպման է — կազատվի՝ %1$s</string>
+    <string name="people_intelligence_out_of_office">Տեղում չէ — կվերադառնա՝ %1$s</string>
+    <string name="people_intelligence_outside_working_hours">Ընդունված աշխատանքային ժամերի միջակայքում չէ — տեղական ժամանակը՝ %1$s</string>
+    <string name="peoplekit_contact_selected">Ընտրված է</string>
+    <string name="peoplesheet_add_to_contacts">Ավելացնել կոնտակտներում</string>
+    <string name="peoplesheet_edit_contact">Փոփոխել կոնտակտը</string>
+    <string name="peoplesheet_more_info_card_more_info_link">Բացել մանրամասն տեղեկությունները</string>
+    <string name="personal_profile_header_title">Անձնական պրոֆիլ</string>
+    <string name="phone_number_with_pin_format">%1$s PIN կոդ՝ %2$s</string>
+    <string name="pin_format">PIN կոդ՝ %s</string>
+    <string name="play_protect_uncertified_device_notification_title">Սարքը հավաստագրված չէ Play Protect-ի կողմից</string>
+    <string name="posting_to_chat_dialog_header">Հրապարակվում է զրույցում</string>
+    <string name="posting_to_chat_dialog_save">Պահել և կիսվել</string>
+    <string name="posting_to_chat_dialog_text_group_with_title">Երբ միջոցառումը պահեք, դրա մասին տեղեկությունները կհրապարակվեն «%1$s» խմբային զրույցում։</string>
+    <string name="posting_to_chat_dialog_text_one_on_one">Երբ միջոցառումը պահեք, դրա մասին տեղեկությունները կուղարկվեն %1$s-ին</string>
+    <string name="preference_copied">«%1$s». պատճենվեց սեղմատախտակին:</string>
+    <string name="preference_edit_alternate_calendar_header">Այլընտրանքային օրացույց</string>
+    <string name="preference_edit_alternate_calendar_label_chinese_simplified">Չինական օրացույց՝ պարզեցված</string>
+    <string name="preference_edit_alternate_calendar_label_chinese_traditional">Չինական օրացույց՝ ավանդական</string>
+    <string name="preference_edit_alternate_calendar_label_hebrew">Հրեական օրացույց</string>
+    <string name="preference_edit_alternate_calendar_label_hijri_civil">Հիջրի օրացույց՝ աշխարհիկ</string>
+    <string name="preference_edit_alternate_calendar_label_hijri_kuwaiti">Հիջրի օրացույց - քուվեյթական</string>
+    <string name="preference_edit_alternate_calendar_label_hijri_saudi">Հիջրի օրացույց - սաուդական</string>
+    <string name="preference_edit_alternate_calendar_label_indian">Հնդկական օրացույց՝ հինդուիստական (սակա)</string>
+    <string name="preference_edit_alternate_calendar_label_korean">Կորեական օրացույց</string>
+    <string name="preference_edit_alternate_calendar_label_none">Այլընտրանքային օրացույց չկա</string>
+    <string name="preference_edit_alternate_calendar_label_persian">Պարսկական օրացույց</string>
+    <string name="preference_edit_color_header">Գույն</string>
+    <string name="preference_edit_device_timezone_header">Ժամային գոտի</string>
+    <string name="preference_edit_display_short_events_as_30_min">Կարճ գրառումները ցուցադրել որպես 30 րոպեանոց գրառումներ</string>
+    <string name="preference_edit_family_label">Կառավարել</string>
+    <string name="preference_edit_no_ringtone_string">Ոչ մեկը</string>
+    <string name="preference_edit_notifications_disabled_help">Դուք ծանուցում չեք ստանա, քանի որ Օրացույցի ծանուցումներն անջատված են այս սարքի կարգավորումներում։</string>
+    <string name="preference_edit_notifications_disclaimer">Դուք կարող եք փոխել կանխադրված ծանուցումները անհատական օրացույցում, օրինակ՝ Միջոցառումներում:</string>
+    <string name="preference_edit_notifications_header">Ծանուցումներ</string>
+    <string name="preference_edit_notify">Ծանուցել այս սարքում</string>
+    <string name="preference_edit_ringtone_header">Ձայներանգ</string>
+    <string name="preference_edit_show_declined">Ցուցադրել մերժված միջոցառումները</string>
+    <string name="preference_edit_show_month_illustrations">Ցուցադրել ամիսների պատկերազարդումներ</string>
+    <string name="preference_edit_show_more_events_description">Անջատել սեզոնային նկարազարդերը</string>
+    <string name="preference_edit_show_more_events_label">Դիտել ավելի շատ միջոցառումներ</string>
+    <string name="preference_edit_show_week_number">Ցույց տալ շաբաթվա համարը</string>
+    <string name="preference_edit_sync_header">Համաժամացում</string>
+    <string name="preference_edit_theme_label">Թեմա</string>
+    <string name="preference_edit_title_header">Անուն</string>
+    <string name="preference_edit_use_device_timezone_label">Օգտագործել սարքի ժամային գոտին</string>
+    <string name="preference_edit_use_standard">Օգտագործել սովորական զանգերանգը</string>
+    <string name="preference_edit_vibrate">Թրթռալ</string>
+    <string name="preference_edit_week_start_header">Շաբաթվա սկիզբ</string>
+    <string name="preference_family_disclaimer">Այս օրացույցում ավելացված միջոցառումները հասանելի կլինեն ընտանեկան խմբի բոլոր անդամներին</string>
+    <string name="preference_no_connection">Կապ չկա։ Կարգավորումները կթարմացվեն, հենց որ նորից միանաք ցանցին։</string>
+    <string name="preference_tasks_notifications_enabled">Tasks-ի ծանուցումներ</string>
+    <string name="preference_theme_dark_label">Մուգ</string>
+    <string name="preference_theme_header">Ընտրել թեմա</string>
+    <string name="preference_theme_help_pre_q">Android-ի ձեր տարբերակում վիջեթների և ծանուցումների թեմաները հնարավոր չէ փոխել:</string>
+    <string name="preference_theme_help_q">Օրացույցի վիջեթի և ծանուցումների թեման փոխելու համար անցեք Android-ի <a href="https://support.google.com/android/answer/9084191?ref_topic=7651007">էկրանի և ցուցադրման կարգավորումներ</a>:</string>
+    <string name="preference_theme_light_label">Բաց</string>
+    <string name="preference_theme_set_by_battery_saver_label">Ըստ մարտկոցի տնտեսման ռեժիմի</string>
+    <string name="preference_theme_system_default_label">Համակարգի կանխադրված թեման</string>
+    <string name="preference_unlisted_color_label">Ներկայիս գույնը</string>
+    <string name="preferences_edit_allday_notifications_header">Ամբողջ օրվա միջոցառումների ծանուցումներ</string>
+    <string name="preferences_edit_timed_notifications_header">Կանխադրված ծանուցումներ</string>
+    <string name="preferences_title">Կարգավորումներ</string>
+    <string name="previous_month">Նախորդ ամիս</string>
+    <string name="primary_calendar_display_name">Միջոցառումներ</string>
+    <string name="privacy_policy">Գաղտնիության քաղաքականություն</string>
+    <string name="processing_subscription">Մշակում…</string>
+    <string name="promo_notification_text">Ձեր բոլոր միջոցառումները միասին տեսնելու համար միացրեք ձեր անձնական օրացույցները ձեր աշխատանքային հավելվածին։ Հպեք՝ կարգավորելու համար։</string>
+    <string name="promo_notification_title">Ավելացրեք ձեր անձնական օրացույցները</string>
+    <string name="proposal_in_the_past">Ձեր առաջարկած ժամանակն արդեն անցել է:</string>
+    <string name="proposal_same_as_event_time">Ձեր առաջարկած ժամանակը և միջոցառման ժամանակը համընկնում են:</string>
+    <string name="propose_new_time_optional_note">Ավելացրեք նշում (ըստ ցանկության)</string>
+    <string name="propose_new_time_show_less_text">Ցույց տալ ավելի քիչ</string>
+    <string name="propose_new_time_show_more_text">Ցույց տալ ավելին</string>
+    <string name="propose_new_time_title_propose">Առաջարկեք այլ ժամանակ</string>
+    <string name="propose_new_time_title_review">Ժամանակային առաջարկներ</string>
+    <string name="propose_time_chip_text">Նոր ժամ առաջարկեք</string>
+    <string name="propose_time_proposal_prefix">Առաջարկ՝ %s</string>
+    <string name="propose_time_review_button_text">Դիտել առաջարկվող ժամանակը</string>
+    <string name="public_holidays_only">Միայն պետական տոները</string>
+    <string name="public_holidyays_and_others">Պետական և մյուս տոները</string>
+    <string name="quick_actions_call_content_description">Զանգել %s համարին</string>
+    <string name="quick_actions_chat_content_description">Ուղարկել զրույցի հաղորդագրություն %s կոնտակտին</string>
+    <string name="quick_actions_email_content_description">Ուղարկել նամակ %s հասցեին</string>
+    <string name="quick_actions_meet_content_description">Սկսել տեսահանդիպում %s-ի հետ</string>
+    <string name="quick_actions_schedule_content_description">Պլանավորել հանդիպում %s կոնտակտի հետ</string>
+    <string name="quick_actions_type_call">Զանգ</string>
+    <string name="quick_actions_type_chat">Զրույց</string>
+    <string name="quick_actions_type_email">Էլ․ հասցե</string>
+    <string name="quick_actions_type_meet">Meet</string>
+    <string name="quick_actions_type_schedule">Պլանավորել</string>
+    <string name="quick_response_custom_msg">Գրեք ձեր սեփականը…</string>
+    <string name="quick_response_email_failed">Էլփոստի ծրագրի որոնումը ձախողվել է</string>
+    <string name="quick_response_settings">Արագ պատասխաններ</string>
+    <string name="recurrence_month_pattern_last_day">ամսվա վերջին օրը</string>
+    <string name="recurrence_picker_activity_label">Պարբերականության ընտրիչ</string>
+    <string name="recurrence_toolbar_title">Հատուկ պարբերականություն</string>
+    <string name="reject_subscription">Ոչ</string>
+    <string name="religious_holidays_hint">Ավելացնել եկեղեցական տոները</string>
+    <string name="religious_holidays_section_title">Եկեղեցական տոներ</string>
+    <string name="reminder">Հիշեցում</string>
+    <string name="reminder_description_prefix">Հիշեցում.</string>
+    <string name="reminder_done_description_prefix">Կատարված հիշեցում՝</string>
+    <string name="reminder_full_item">%1$s որպես %2$s</string>
+    <string name="reminder_info_title">Դիտել հիշեցումը</string>
+    <string name="reminders_calendar_name">Հիշեցումներ</string>
+    <string name="reminders_migrated">Հիշեցումներն այժմ առաջադրանքներ են։ Օգտագործեք Google Tasks-ը՝ ձեր անելիքների մասին ծանուցումներ ստանալու համար։</string>
+    <string name="reminders_migration_can_not_create_during_migration">Դուք չեք կարող հիշեցումներ ավելացնել, երբ դրանք վերածվում են առաջադրանքների</string>
+    <string name="reminders_migration_card_button">Հիշեցումները վերածել առաջադրանքների հիմա</string>
+    <string name="reminders_migration_card_description">Առաջադրանքներն ավելի շատ հնարավորություններ են տալիս՝ թույլ տալով կազմել անելիքների ցանկեր և կառավարել դրանք Google Workspace-ում։</string>
+    <string name="reminders_migration_card_title">Շուտով ձեր հիշեցումները կվերածվեն առաջադրանքների</string>
+    <string name="reminders_migration_completed_tooltip_description">Որպես %s հաշվի սեփականատեր՝ դուք այժմ կարող եք օգտագործել առաջադրանքները՝ Google Workspace-ում ձեր անելիքների մասին ծանուցումներ ստանալու և ցանկացած վայրից դրանց հետևելու համար։</string>
+    <string name="reminders_migration_completed_tooltip_title">Հիշեցումներն այժմ առաջադրանքներ են</string>
+    <string name="reminders_migration_dialog_button">Շարունակել</string>
+    <string name="reminders_migration_dialog_description_completed_reminders_remark">Բոլոր ավարտված հիշեցումները կվերածվեն կատարված առաջադրանքների։</string>
+    <string name="reminders_migration_dialog_description_keep_remark">Google Keep-ում ստեղծված հիշեցումները չեն դառնա առաջադրանքներ։ Դրանք նախկինի պես կարող եք կառավարել Keep-ում։</string>
+    <string name="reminders_migration_dialog_description_location_remark">Եթե հիշեցման համար վայր է նշված, այդ վայրը կցուցադրվի առաջադրանքի նկարագրության մեջ, և դուք չեք ստանա ըստ տեղադրության ծանուցումներ։</string>
+    <string name="reminders_migration_dialog_description_more_than_remark">Միաժամանակ կարող է առաջադրանքների վերածվել միայն 1000 հիշեցում։ Ձեզ անհրաժեշտ կլինի կրկնել գործընթացը մնացած հիշեցումների համար։</string>
+    <string name="reminders_migration_dialog_description_only_keep_reminders_remark">Փորձեք առաջադրանքները Օրացույցում՝ Workspace-ի հավելվածներում ձեր անելիքներին հետևելու համար։</string>
+    <string name="reminders_migration_dialog_description_with_account">Որպես %s հաշվի սեփականատեր՝ այժմ դուք Օրացույցում ձեր անելիքներին կհետևեք ոչ թե հիշեցումների, այլ առաջադրանքների միջոցով։</string>
+    <string name="reminders_migration_dialog_more_than_title">Հիշեցումները վերածեք առաջադրանքների</string>
+    <string name="reminders_migration_dialog_no_reminders_title">Սկսեք օգտագործել Tasks-ը</string>
+    <string name="reminders_migration_failure_toast">Սխալ առաջացավ։ Ձեր հիշեցումները չհաջողվեց վերածել առաջադրանքների։</string>
+    <string name="reminders_migration_force_completed_toast_completed_reminders_only">Հիշեցումներն այժմ առաջադրանքներ են։ Այս հաշվի (%s) ավարտված հիշեցումները վերածվեցին առաջադրանքների։</string>
+    <string name="reminders_migration_force_completed_with_only_keep_toast">Այս հաշվի (%s) ձեր հիշեցումները հեռացվեցին Օրացույցից, սակայն դեռ հասանելի կլինեն Google Keep-ում</string>
+    <string name="reminders_migration_only_keep_voluntary_completed_tooltip_title">Ստացեք ծանուցումներ ձեր անելիքների մասին Tasks-ի օգնությամբ</string>
+    <string name="reminders_migration_partial_failure_toast_only_completed_reminders_migrated">Այս հաշվի (%s) ավարտված հիշեցումները վերածվեցին առաջադրանքների։ Մի քանի հիշեցում դեռ մնացել է։</string>
+    <string name="reminders_migration_tasks_disabled_card_description">Ձեր կազմակերպությունն անջատել է Google Tasks-ը ձեր հաշվի համար։ Ձեր Օրացույցի և Օգնականի հիշեցումների տվյալները պահելու համար կապվեք Google Workspace-ի ձեր ադմինիստրատորի հետ և Tasks-ն օգտագործելու կամ ձեր տվյալները ներբեռնելու թույլտվություն խնդրեք։</string>
+    <string name="reminders_migration_tasks_disabled_card_title">Շուտով հիշեցումները կվերածվեն առաջադրանքների</string>
+    <string name="reminders_migration_tasks_disabled_toast">Ձեր կազմակերպությունն անջատել է Google Tasks-ը %s հաշվի համար։ Ձեր հիշեցումները չհաջողվեց տեղափոխել Tasks, ուստի դրանք ջնջվեցին։</string>
+    <string name="reminders_migration_tasks_disabled_tooltip_description">Այս հաշվի (%s) հիշեցումները ջնջվել են, քանի որ դրանք չէր հաջողվել տեղափոխել Tasks։ Ձեր կազմակերպությունն անջատել է Google Tasks-ը ձեր հաշվի համար։</string>
+    <string name="reminders_migration_tooltip_only_keep_reminders_remark">Ձեր բոլոր հիշեցումները նախկինի պես հասանելի են Google Keep-ում։</string>
+    <string name="reminders_migration_tooltip_remark_only_completed_reminders_migrated">Ավարտված հիշեցումները վերածվեցին առաջադրանքների։</string>
+    <string name="reminders_migration_tooltip_with_keep_reminders_only_completed_reminders_migrated_remark">Ավարտված հիշեցումները վերածվեցին առաջադրանքների։ Google Keep-ում ստեղծված հիշեցումները չեն փոխվել։ Այդ հիշեցումները կհեռացվեն Օրացույցից, սակայն դուք նախկինի պես կկարողանաք կառավարել դրանք Keep-ում։</string>
+    <string name="reminders_migration_triggered_no_reminders_toast">Դուք այժմ առաջադրանքներ եք օգտագործում</string>
+    <string name="reminders_migration_triggered_toast">Հիշեցումները վերածվում են առաջադրանքների…</string>
+    <string name="reminders_migration_voluntary_completed_toast_completed_reminders_only">Այս հաշվի (%s) ավարտված հիշեցումները վերածվեցին առաջադրանքների</string>
+    <string name="reminders_migration_voluntary_completed_tooltip_title">Ձեր հիշեցումներն այժմ առաջադրանքներ են</string>
+    <string name="reminders_require_google_account">Հիշեցումներից օգտվելու համար անհրաժեշտ է ունենալ Google հաշիվ:</string>
+    <string name="remove_attachment">Հեռացնել</string>
+    <string name="remove_conference">Հեռացնել կոնֆերանսը</string>
+    <string name="remove_encryption">Հեռացնել գաղտնագրումը</string>
+    <string name="remove_encryption_data_loss_warning_dialog_attachment_keep_message">պահպանում է լրացուցիչ գաղտնագրումը բոլոր կցված ֆայլերում</string>
+    <string name="remove_encryption_data_loss_warning_dialog_attachments_drop_message">հեռացնում է Օրացույցի միջոցառման բոլոր գաղտնագրված ֆայլերը</string>
+    <string name="remove_encryption_data_loss_warning_dialog_attachments_only_drop_message">Ձեր տեղեկությունները պաշտպանելու համար այս գործառույթը հեռացնում է Օրացույցի միջոցառման բոլոր գաղտնագրված ֆայլերը</string>
+    <string name="remove_encryption_failure_notification">Հեռացնել սխալի մասին ծանուցումը</string>
+    <string name="remove_notification_content_description">Հեռացնել ծանուցումը</string>
+    <string name="remove_period">Հեռացնել ժամանակահատվածը</string>
+    <string name="repeats_daily_label">Ամեն օր</string>
+    <string name="repeats_monthly_label">Ամեն ամիս</string>
+    <string name="repeats_preamble">Կրկնվում է %s</string>
+    <string name="repeats_weekly_label">Ամեն շաբաթ</string>
+    <string name="repeats_yearly_label">Ամեն տարի</string>
+    <string name="report_spam_dialog_content">Եթե «%1$s» միջոցառումը նշեք որպես սպամ, այն կհեռացվի ձեր օրացույցից (%2$s)։</string>
+    <string name="report_spam_dialog_positive_action">Նշել որպես սպամ</string>
+    <string name="report_spam_enable_known_senders_result_snackbar">Դուք այս միջոցառումը նշեցիք որպես սպամ և արգելափակեցիք հետագա անհայտ ուղարկողներին</string>
+    <string name="report_spam_known_senders_content_link">Իմանալ ավելին միջոցառումների հրավերների մասին</string>
+    <string name="report_spam_known_senders_content_summary">Եթե միջոցառումը նշեք որպես սպամ, այն կհեռացվի ձեր օրացույցից (%1$s)։</string>
+    <string name="report_spam_known_senders_title">Արգելափակել անհայտ ուղարկողներից ստացվող հրավերները</string>
+    <string name="report_spam_result_snackbar">Դուք այս միջոցառումը նշեցիք որպես սպամ</string>
+    <string name="reschedule_action">Վերապլանավորել</string>
+    <string name="reschedule_failed">Սխալ առաջացավ: Փորձեք ավելի ուշ:</string>
+    <string name="reschedule_started">Տեղափոխվել է %s</string>
+    <string name="reschedule_started_with_invites">Տեղափոխվել է՝ %s: Մասնակիցները լրացուցիչ կտեղեկացվեն:</string>
+    <string name="reschedule_stop">Հետարկել</string>
+    <string name="reservation_for">Ամրագրում %d հոգու համար</string>
+    <string name="response_inferred_location_explanation">Ավտոմատ փոխել հանդիպմանը միանալու եղանակը, եթե իմ աշխատելու վայրը փոխվում է</string>
+    <string name="response_invited">Չի պատասխանել</string>
+    <string name="response_maybe">Միգուցե</string>
+    <string name="response_no">Ոչ</string>
+    <string name="response_status">Պատասխանը՝ %s</string>
+    <string name="response_yes">Այո</string>
+    <string name="response_yes_meeting_room">Այո, հանդիպումների սենյակում</string>
+    <string name="response_yes_unknown">Այո</string>
+    <string name="response_yes_virtually">Այո, տեսակոնֆերանսի միջոցով</string>
+    <string name="restart_device_dialog_text">Օրացույց հավելվածը ինչ-որ սխալի պատճառով չի հաջողվում մեկնարկել: Խնդիրը լուծելու համար վերագործարկեք ձեր սարքը:</string>
+    <string name="room_booking_all_results">Բոլոր արդյունքները</string>
+    <string name="room_booking_duration_too_short_title">Սենյակներ չեն կարող ավելացվել միջոցառումներին, որոնց ավարտի ժամը համընկնում է մեկնարկի ժամի հետ կամ դրանից առաջ է:</string>
+    <string name="room_booking_empty_result_body">Ձեր հանդիպման ժամին բոլոր սենյակները զբաղված են:</string>
+    <string name="room_booking_empty_result_title">Ազատ սենյակներ չկան</string>
+    <string name="room_booking_filter_change_button">Փոխել</string>
+    <string name="room_booking_footer_filter_text_room_for_future_events">Ցուցադրել սենյակներ գալիք միջոցառումների համար</string>
+    <string name="room_booking_footer_filter_text_room_for_this_event">Ցուցադրել սենյակներ այս միջոցառման համար</string>
+    <string name="room_booking_hierarchy_other">Այլ</string>
+    <string name="room_booking_no_rooms_result_body">Սենյակներից ոչ մեկը չի համապատասխանում ձեր որոնման չափանիշներին:</string>
+    <string name="room_booking_no_rooms_result_title">Սենյակներ չեն գտնվել</string>
+    <string name="room_booking_offline_body">Չհաջողվեց բեռնել ազատ սենյակների ցանկը:</string>
+    <string name="room_booking_offline_title">Կապ չկա</string>
+    <string name="room_booking_pagination_error">Կապ չկա</string>
+    <string name="room_booking_remove_room_button_label">Հեռացնել սենյակը</string>
+    <string name="room_booking_search_hint">Բոլոր սենյակների որոնում</string>
+    <string name="room_booking_selected_rooms_collapse">Ցույց տալ ավելի քիչ</string>
+    <string name="room_booking_selected_rooms_expand">Ցույց տալ բոլորը</string>
+    <string name="room_booking_title">Սենյակի ամրագրման էկրան</string>
+    <string name="room_details_screen_label">Տեղեկություններ սենյակի մասին</string>
+    <string name="room_location_compound">%1$s • %2$s</string>
+    <string name="room_more_info">Դիտել տեղեկություններ սենյակի մասին</string>
+    <string name="rsvp_accepted">Պատասխանը՝ այո:</string>
+    <string name="rsvp_declined">Պատասխանը՝ ոչ:</string>
+    <string name="rsvp_location_promo_body_text">Տեղեկացրեք մյուսներին, թե ինչպես եք միանալու։</string>
+    <string name="rsvp_location_promo_header_text">Պատասխանի նոր տարբերակներ</string>
+    <string name="rsvp_tentative">Պատասխանը՝ գուցե:</string>
+    <string name="save">Պահել</string>
+    <string name="saving">Պահվում է…</string>
+    <string name="saving_event">Միջոցառումը պահված է:</string>
+    <string name="saving_event_with_guest">Թարմացումները կուղարկվեն:</string>
+    <string name="scope_selection_all_instances">Բոլոր միջոցառումները</string>
+    <string name="scope_selection_all_instances_tasks">Բոլոր անելիքները</string>
+    <string name="scope_selection_following_instances">Այս և հաջորդ միջոցառումները</string>
+    <string name="scope_selection_following_instances_reminders">Այս և հաջորդ հիշեցումները</string>
+    <string name="scope_selection_following_instances_tasks">Այս և հաջորդող անելիքները</string>
+    <string name="scope_selection_this_instance">Այս միջոցառումը</string>
+    <string name="scope_selection_this_instance_reminder">Այս հիշեցումը</string>
+    <string name="scope_selection_this_instance_task">Այս առաջադրանքը</string>
+    <string name="scope_selection_weekly_routine_weekday_range_working_location">Ամեն %1$s՝ հետևյալ ամսաթվից սկսած՝ %2$s</string>
+    <string name="search">Որոնել</string>
+    <string name="search_hint">Որոնել</string>
+    <string name="search_title">Որոնել իմ օրացույցները</string>
+    <string name="searching">Որոնում</string>
+    <string name="self_view_format_string">%s (դուք)</string>
+    <string name="send_anyway">Կիսվել ամեն դեպքում</string>
+    <string name="settings_auto_add_conferencing_disabled">Միայն ադմինիստրատորները կարող են փոխել այս կարգավորումը</string>
+    <string name="settings_auto_add_conferencing_label">Google Meet տեսակոնֆերանսներն ավտոմատ ավելացնել իմ ստեղծած միջոցառումներում</string>
+    <string name="settings_auto_add_conferencing_title_spinner">Ավելացնել տեսակոնֆերանս</string>
+    <string name="settings_birthday_contact">Կոնտակտներ</string>
+    <string name="settings_birthday_label">Google+ում ծննդյան օրերը ստեղծվում են «Ձեր շրջանակների» կոնտակտների հիման վրա:</string>
+    <string name="settings_default_event_duration_label">"Սա նոր ստեղծված միջոցառման կանխադրված տևողությունն է:
+Ոչ Google հաշիվների համար կանխադրված է 1 ժամ:"</string>
+    <string name="settings_default_event_duration_title_spinner">Կանխադրված տևողությունը</string>
+    <string name="settings_invitation_behavior_confirm_dialog_title">Փոխե՞լ հրավերներ ավելացնելու եղանակը</string>
+    <string name="settings_invitation_behavior_confirm_from_all_to_known_or_responded">"Սա չի ազդի արդեն ստացված հրավերների վրա։
+
+Դուք նամակներ կստանաք անհայտ ուղարկողների բոլոր հրավերների համար։"</string>
+    <string name="settings_invitation_behavior_confirm_from_all_to_responded">"Սա չի ազդի արդեն ստացված հրավերների վրա։
+
+Դուք նամակներ կստանաք բոլոր նոր հրավերների համար։"</string>
+    <string name="settings_invitation_behavior_confirm_other">Սա չի ազդի արդեն ստացված հրավերների վրա։</string>
+    <string name="settings_invitation_behavior_explainer_compact_link">Իմանալ ավելին օրացույցը սպամից պաշտպանելու մասին</string>
+    <string name="settings_invitation_behavior_explainer_extended_link_general">"Իմանալ ավելին օրացույցի հրավերների մասին
+"</string>
+    <string name="settings_invitation_behavior_explainer_extended_no_paragraph">"Օրացույցում կցուցադրվեն այն միջոցառումները, որոնց դուք հրավիրվել եք։ Այս կարգավորման միջոցով կարող եք փոխել հրավերների ավելացման եղանակը։
+"</string>
+    <string name="settings_invitation_behavior_hide_invitations_from_others">Թույլատրել այլ մարդկանց տեսնել բոլոր հրավերները, եթե նրանք իմ միջոցառումները դիտելու կամ փոփոխելու թույլտվություն ունեն</string>
+    <string name="settings_invitation_behavior_option_from_all">Բոլորից</string>
+    <string name="settings_invitation_behavior_option_from_known">Միայն եթե ուղարկողը հայտնի է</string>
+    <string name="settings_invitation_behavior_option_responded">Երբ պատասխանեմ էլփոստով ստացված հրավերին</string>
+    <string name="settings_invitation_behavior_setting_title">Հրավերների ավելացում իմ օրացույցում</string>
+    <string name="settings_invitation_behavior_title">Հրավերներն ավելացվում են</string>
+    <string name="settings_invitation_permission_explainer_extended">Ստուգեք ձեր սարքի թույլտվությունները։ Կանխեք կողմնակի հավելվածների կողմից ձեր օրացույցում միջոցառումներ ավելացնելու փորձերը։</string>
+    <string name="share_action">Կիսվել</string>
+    <string name="share_conference_details_description">Կիսվել կոնֆերանսի մասին մանրամասներով</string>
+    <string name="share_event_link">Կիսվել</string>
+    <string name="shared_task_description">Մյուս օգտատերերը կարող են տեսնել այս առաջադրանքում կատարած ձեր փոփոխությունները</string>
+    <string name="shared_tasks_delete_learn_more">Իմանալ ավելին ընդհանուր առաջադրանքների ջնջման մասին</string>
+    <string name="shared_tasks_unassign_learn_more">Իմանալ ավելին ընդհանուր առաջադրանքների հանձնարարումը չեղարկելու մասին</string>
+    <string name="sharing_to_chat_disclaimer">Հրապարակվում է զրույցում %1$s</string>
+    <string name="sheet_collapsed">Խմբագրիչի թերթը ծալված է</string>
+    <string name="sheet_expanded">Խմբագրիչի թերթը ծավալված է</string>
+    <string name="show_all_rooms">Ցուցադրել բոլոր սենյակները</string>
+    <string name="show_all_rooms_in_building">Ցուցադրել բոլոր սենյակները</string>
+    <string name="show_calendars">Ցուցադրել օրացույցները</string>
+    <string name="show_more">Ցուցադրել ավելին</string>
+    <string name="sign_in_cancel">Չեղարկել</string>
+    <string name="signed_in_as">Մուտք եք գործել որպես %1$s</string>
+    <string name="smart_rsvp_bottom_bar_toggle_label">Լրացուցիչ գործողություններ</string>
+    <string name="smart_rsvp_location_promo_body_text">Ըստ կանխադրման օգտագործվում է ձեր աշխատելու վայրը</string>
+    <string name="smartmail_airline_flight">%1$s չվերթ %2$s</string>
+    <string name="smartmail_airport_search">օդանավակայան %s</string>
+    <string name="smartmail_arrives">Ժամանում՝ %1$s</string>
+    <string name="smartmail_bus">Ավտոբուս %1$s</string>
+    <string name="smartmail_change_visibility_change_all_button_text">Փոխել բոլորը</string>
+    <string name="smartmail_change_visibility_change_new_button_text">Փոխել միայն նոր միջոցառումները</string>
+    <string name="smartmail_change_visibility_dialog_text">Ցանկանո՞ւմ եք փոխել Gmail-ի այն միջոցառումների տեսանելիությունը, որոնք արդեն օրացույցում են:</string>
+    <string name="smartmail_departs">Մեկնում՝ %1$s</string>
+    <string name="smartmail_duration">Տևողությունը՝ %1$s</string>
+    <string name="smartmail_duration_hours">%d ժ</string>
+    <string name="smartmail_duration_hours_minutes">%1$d ժ %2$d ր</string>
+    <string name="smartmail_duration_minutes">%d րոպե</string>
+    <string name="smartmail_flight_arrival">Ժամանում՝ %1$s %2$s</string>
+    <string name="smartmail_flight_arrives">Ժամանում՝ %1$s %2$s</string>
+    <string name="smartmail_flight_delayed">Ուշացում</string>
+    <string name="smartmail_flight_departs">Մեկնում՝ %1$s %2$s</string>
+    <string name="smartmail_flight_departure">Մեկնում՝ %1$s %2$s</string>
+    <string name="smartmail_flight_duration">Թռիչքի տևողությունը՝ %1$s</string>
+    <string name="smartmail_flight_gate">ելք %s</string>
+    <string name="smartmail_flight_landed">Ժամանել է</string>
+    <string name="smartmail_flight_terminal">Տերմինալ %s</string>
+    <string name="smartmail_seat_row">շարք %s</string>
+    <string name="smartmail_seat_section">սեկցիա %s</string>
+    <string name="smartmail_toggle_label">Ցուցադրել միջոցառումներ Gmail-ից</string>
+    <string name="smartmail_train">Գնացք %1$s</string>
+    <string name="smartmail_train_platform">Կառամատույց՝ %1$s</string>
+    <string name="smartmail_updated_toggle_off_dialog_text">"Դուք այլևս չեք տեսնի ձեր էլփոստից ավտոմատ ստեղծվող միջոցառումները, ներառյալ նախկինում ավելացվածները
+
+Որպեսզի այդ միջոցառումները Gmail-ում այլևս չստեղծվեն, դուք պետք է Gmail-ի կարգավորումներում անջատեք նաև "<b>Խելացի գործառույթներն ու անհատականացումը</b></string>
+    <string name="smartmail_updated_toggle_on_dialog_text">"Դուք կտեսնեք ձեր էլփոստից ավտոմատ ստեղծվող միջոցառումները, օրինակ՝ ճամփորդությունների և ռեստորանների ամրագրումները
+
+Որպեսզի այդ միջոցառումները Gmail-ում ստեղծվեն, դուք պետք է Gmail-ի կարգավորումներում միացնեք նաև "<b>Խելացի գործառույթներն ու անհատականացումը</b></string>
+    <string name="smartmail_visibility_label">Էլփոստի միջոցառումների գաղտնիություն</string>
+    <string name="snack_bar_cross_profile_permissions_change_action">Փոխել</string>
+    <string name="snack_bar_cross_profile_permissions_granted">Անձնական օրացույցներն այժմ ցուցադրվում են</string>
+    <string name="snack_bar_cross_profile_permissions_revoked">Անձնական օրացույցներն այլևս չեն ցուցադրվում</string>
+    <string name="snooze_allday_snackbar">Առաջադրանքը տեղափոխվել է %s օրվա վրա</string>
+    <string name="snooze_custom">Այլ</string>
+    <string name="snooze_later_today">Այսօր ավելի ուշ (%s)</string>
+    <string name="snooze_later_today_snackbar">Առաջադրանքը տեղափոխվել է %s</string>
+    <string name="snooze_next_week">Հաջորդ շաբաթ</string>
+    <string name="snooze_snackbar">Առաջադրանքը հետաձգվեց %2$s՝ %1$s</string>
+    <string name="snooze_this_weekend">Այս հանգստյան օրերին</string>
+    <string name="snooze_tomorrow">Վաղը</string>
+    <string name="snooze_tomorrow_allday_snackbar">Առաջադրանքը տեղափոխվել է վաղվա վրա</string>
+    <string name="snooze_tomorrow_snackbar">Առաջադրանքը հետաձգվեց վաղը՝ %s</string>
+    <string name="some_calendars_cannot_be_shown">Որոշ օրացույցներ չեն կարող ցուցադրվել</string>
+    <string name="strip_note_formatting_prompt">Նշումները խմբագրելու արդյունքում ձևաչափումն ու ոճերը կկորեն:</string>
+    <string name="strip_note_formatting_prompt_continue">Շարունակել խմբագրումը</string>
+    <string name="sub_day_working_location_promo_body_text">Այժմ ձեր գործընկերները կարող են տեսնել, որ դուք աշխատում եք մեկից ավելի վայրերում</string>
+    <string name="sub_day_working_location_promo_header_text">Կարգավորեք մի քանի աշխատելու վայր մեկ օրվա համար</string>
+    <string name="subscribe_to_calendar_confirmation_title">Ավելացնե՞լ «%s» օրացույցը ձեր հաշվում</string>
+    <string name="subscribe_to_calendar_picker_title">Ընտրեք հաշիվը, որին ուզում եք ավելացնել «%s» օրացույցը</string>
+    <string name="subscription_cancel">Չեղարկել</string>
+    <string name="subscription_failed_calendar_no_longer_exists">Օրացույցն այլևս գոյություն չունի։</string>
+    <string name="subscription_failed_no_access_to_calendar">Այս օրացույցը ձեզ հասանելի չէ։</string>
+    <string name="sud_back_button_label">Հետ</string>
+    <string name="sud_more_button_label">Ավելին</string>
+    <string name="sud_next_button_label">Առաջ</string>
+    <string name="suggest_time_best_times">Լավագույն ժամերը</string>
+    <string name="suggest_time_everyone_is_busy_subtitle">Փոխեք ամսաթիվը կամ տևողությունը՝ ավելի լավ արդյունքներ ստանալու համար</string>
+    <string name="suggest_time_everyone_is_busy_title">Բոլորը զբաղված են</string>
+    <string name="suggest_time_generic_error_subtitle">Օրացույցները չհաջողվեց բեռնել: Փորձեք ավելի ուշ:</string>
+    <string name="suggest_time_label">Առաջարկվող ժամերը</string>
+    <string name="suggest_time_no_access_subtitle">Հյուրերի և ոչ մի օրացույց ձեզ հասանելի չէ:</string>
+    <string name="suggest_time_no_suggestions_title">Առաջարկներ չկան</string>
+    <string name="suggest_time_not_considered">Հաշվի չեն առնված՝ %1$s</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="survey_account_and_system_info">հաշվի ու համակարգի տվյալները</string>
+    <string name="survey_app_id">Հավելվածի ID-ն</string>
+    <string name="survey_app_name">Հավելվածի անունը</string>
+    <string name="survey_app_version">Հավելվածի տարբերակը</string>
+    <string name="survey_application_data">Հավելվածի տվյալները</string>
+    <string name="survey_brand">Ապրանքանիշ</string>
+    <string name="survey_close_button_description">Փակել</string>
+    <string name="survey_default_prompt_title">Օգնեք մեզ ավելի լավը դարձնել Google-ը։</string>
+    <string name="survey_device_model">Սարքի մոդելը</string>
+    <string name="survey_email_address">Էլ․ հասցե</string>
+    <string name="survey_google_play_services_version">Google Play ծառայությունների տարբերակը</string>
+    <string name="survey_legal_text">Շարունակելով՝ դուք համաձայնում եք, որ Google-ը օգտագործի ձեր պատասխանները, ինչպես նաև %1$s՝ «%2$s» և «%3$s» փաստաթղթերի դրույթների համաձայն ծառայությունները բարելավելու համար</string>
+    <string name="survey_legal_text_car">Շարունակելով՝ դուք համաձայնում եք, որ Google-ը կարող է օգտագործել ձեր պատասխանները, հաշվի և համակարգի մասին տվյալները՝ իր ծառայությունները բարելավելու համար։ Գաղտնիության քաղաքականությունը և օգտագործման պայմանները դիտեք հաշվի պրոֆիլում</string>
+    <string name="survey_library_version">Դարանի տարբերակը</string>
+    <string name="survey_network_request_failed">Հարցումը չհաջողվեց մշակել</string>
+    <string name="survey_neutral">Ոչ գոհ եմ, ոչ դժգոհ</string>
+    <string name="survey_next">Առաջ</string>
+    <string name="survey_num_rating">%1$s-ը՝ %2$s-ից</string>
+    <string name="survey_ok">Եղավ</string>
+    <string name="survey_open_text_hint">Գրեք մեկնաբանություններն այստեղ</string>
+    <string name="survey_open_text_no_pii">Մի՛ ներառեք անձնական տվյալներ</string>
+    <string name="survey_operating_system">Օպերացիոն համակարգը</string>
+    <string name="survey_operating_system_version">Օպերացիոն համակարգի տարբերակը</string>
+    <string name="survey_other_option_hint">Այլ (խնդրում ենք նշել)</string>
+    <string name="survey_platform">Հարթակ</string>
+    <string name="survey_privacy">Գաղտնիություն</string>
+    <string name="survey_prompt_no_thanks">Ոչ, շնորհակալություն</string>
+    <string name="survey_prompt_take_our_survey">Ցույց տալ հարցը</string>
+    <string name="survey_smiley_rating">Զմայլիկ %1$s/%2$s. %3$s</string>
+    <string name="survey_somewhat_dissatisfied">Որոշ չափով դժգոհ եմ</string>
+    <string name="survey_somewhat_satisfied">Որոշ չափով գոհ եմ</string>
+    <string name="survey_submit">Ուղարկել</string>
+    <string name="survey_system_info_dialog_title">Տեղեկություններ հաշվի և համակարգի մասին</string>
+    <string name="survey_terms">Օգտագործման պայմաններ</string>
+    <string name="survey_thank_you_followup_message">Օգնեք մեզ բարելավել մեր արտադրանքը՝ պատասխանելով այլ հարցերի</string>
+    <string name="survey_timezone_offset">Ժամային գոտու շեղում</string>
+    <string name="survey_url">URL</string>
+    <string name="survey_user_agent">Գործակալ ծրագիր</string>
+    <string name="survey_very_dissatisfied">Շատ դժգոհ եմ</string>
+    <string name="survey_very_satisfied">Շատ գոհ եմ</string>
+    <string name="switch_account_button">Անցնել մյուս հաշիվ</string>
+    <string name="sync_device_offline">Կապ չկա</string>
+    <string name="sync_disabled_dialog_button_negative">@string/missing_permissions_dialog_button_negative</string>
+    <string name="sync_disabled_dialog_button_positive">Միացնել</string>
+    <string name="sync_disabled_dialog_text">Ձեր անձնական հաշիվներից մի քանիսի համար համաժամացումն անջատված է։ Ձեր փոփոխությունները չեն պահպանվի։</string>
+    <string name="sync_disabled_dialog_title">Միացրեք համաժամացումը</string>
+    <string name="sync_error">Համաժամացման սխալ</string>
+    <string name="sync_indicator_channel_name">Ֆոնային համաժամացում</string>
+    <string name="sync_notification_text">Օրացույցը համաժամացվում է</string>
+    <string name="sync_off_notification_action_dismiss">Անտեսել</string>
+    <string name="sync_off_notification_action_enable_sync">Միացնել համաժամացումը</string>
+    <string name="sync_off_notification_message_account">Համաժամացումը %s հաշվի համար անջատված է: Այս օրացույցում կատարած փոփոխությունները չեն պահուստավորվի:</string>
+    <string name="sync_off_notification_message_accounts">Համաժամացումը որոշ հաշիվների համար անջատված է: Ձեր փոփոխությունները չեն պահուստավորվի:</string>
+    <string name="sync_off_notification_message_device">Ինքնահամաժամացումն այս սարքում անջատված է: Այստեղ կամ այլ հավելվածներում կատարած ձեր փոփոխությունները չեն պահուստավորվի:</string>
+    <string name="sync_off_notification_message_general">Համաժամացումն անջատված է: Ձեր փոփոխությունները չեն պահուստավորվի:</string>
+    <string name="talkback_activity_title">%s-ի կոնտակտային տվյալները</string>
+    <string name="talkback_activity_title_no_id">Կոնտակտային տվյալներ</string>
+    <string name="talkback_find_time_grid_showing_fragment">Ժամանակի առաջարկի ցուցադրում օրացույցի ցանցում</string>
+    <string name="talkback_find_time_suggestion_chip">Ժամանակի առաջարկ</string>
+    <string name="task">Առաջադրանք</string>
+    <string name="task_action_mark_completed">Նշել որպես կատարված</string>
+    <string name="task_action_mark_incomplete">Նշել որպես չկատարված</string>
+    <string name="task_assigned_to_user">Հանձնարարվել է ձեզ</string>
+    <string name="task_completed">Առաջադրանքը նշվեց որպես կտարված:</string>
+    <string name="task_creation_cancellation_message">Հեռացնե՞լ առաջադրանքը:</string>
+    <string name="task_delete_for_doc_confirmation_dialog_description">Առաջադրանքը կհեռացվի նաև փաստաթղթից։ Ստուգացանկի տարրը կարող է դեռ տեսանելի լինել, սակայն այլևս ձեզ չի հանձնարարվի։</string>
+    <string name="task_delete_for_space_confirmation_dialog_delete_button">Ջնջել</string>
+    <string name="task_delete_for_space_confirmation_dialog_description">Եթե ջնջեք այս առաջադրանքը, այն կջնջվի նաև տարածքի ցանկից։ Որպեսզի առաջադրանքը ցանկից չհեռացվի, չեղարկեք այն։</string>
+    <string name="task_delete_for_space_confirmation_dialog_unassign_button">Չեղարկել հանձնարարումը</string>
+    <string name="task_description_hint">Ավելացրեք մանրամասներ</string>
+    <string name="task_description_prefix">Առաջադրանք`</string>
+    <string name="task_done_description_prefix">Կատարված առաջադրանք՝</string>
+    <string name="task_edit_cancellation_message">Չեղարկե՞լ այս առաջադրանքի հետ կապված փոփոխությունները:</string>
+    <string name="task_empty_title">Հիշեցման վերնագիրը չի կարող դատարկ լինել:</string>
+    <string name="task_from_chat_title">Անհայտ զրույց</string>
+    <string name="task_from_comment_default_title">Մեկնաբանությունից</string>
+    <string name="task_from_docs_default_title">Փաստաթղթից</string>
+    <string name="task_from_drawings_default_title">Գծագրից</string>
+    <string name="task_from_gmail_thread_title">Առնչվող նամակի դիտում</string>
+    <string name="task_from_sheets_default_title">Աղյուսակից</string>
+    <string name="task_from_slides_default_title">Ներկայացումից</string>
+    <string name="task_from_space_title">Անհայտ տարածք</string>
+    <string name="task_info_title">Դիտել առաջադրանքը</string>
+    <string name="task_no_title_placeholder">(Առաջադրանք — անվերնագիր)</string>
+    <string name="task_not_found">Հիշեցումը չի գտնվել:</string>
+    <string name="task_notification_channel">Tasks-ի ծանուցումներ</string>
+    <string name="task_recurrence_stop_confirmation_dialog_action">Դադարեցնել կրկնությունը</string>
+    <string name="task_recurrence_stop_confirmation_dialog_description">"Հեռացնե՞լ բոլոր սպասվող կրկնությունները։
+Դուք այլևս չեք կարողանա այս առաջադրանքը դարձնել կրկնվող։"</string>
+    <string name="task_recurrence_stop_confirmation_dialog_title">Առաջադրանքի կրկնության դադարեցում</string>
+    <string name="task_snooze_label">Տեղափոխել</string>
+    <string name="task_unassign_confirmation_dialog_action">Չեղարկել և պահել</string>
+    <string name="task_unassign_confirmation_dialog_description">Առաջադրանքը կհեռացվի ձեր անհատական ցանկից։ Այն նախկինի պես կարող եք գտնել տարածքի առաջադրանքների ցանկում։</string>
+    <string name="task_unassign_confirmation_dialog_title">Չեղարկե՞լ և պահել առաջադրանքը</string>
+    <string name="task_unassign_content_description">Չեղարկել առաջադրանքը</string>
+    <string name="task_uncompleted">Առաջադրանքը նշվեց որպես չկատարված:</string>
+    <string name="tasks_brickswitch_dialog_description">Պլանավորված առաջադրանքներ ստեղծելու և դրանք տեսնելու համար թարմացրեք Օրացույցը։</string>
+    <string name="tasks_brickswitch_dialog_title">Թարմացրեք Օրացույցը, որպեսզի կարողանաք Tasks-ն օգտագործել</string>
+    <string name="tasks_brickswitch_snackbar">Պլանավորված առաջադրանքներ ստեղծելու և դրանք տեսնելու համար թարմացրեք Օրացույցը։</string>
+    <string name="tasks_calendar_item_tooltip_description">Դուք նախկինի պես ծանուցումներ կստանաք ձեր առաջադրանքների մասին, նույնիսկ երբ դրանք ցուցադրված չեն Օրացույցում։ Սա կարող եք փոխել Կարգավորումներում:</string>
+    <string name="tasks_calendar_item_tooltip_title">Tasks-ի ծանուցումները դեռ միացված են</string>
+    <string name="tasks_calendar_name">Tasks</string>
+    <string name="tasks_killswitch_dialog_description">Դուք «Օրացույց» հավելվածի այս տարբերակով չեք կարող առաջադրանքներ ստեղծել և դրանք դիտել։</string>
+    <string name="tasks_killswitch_dialog_title">Tasks-ը հասանելի չէ</string>
+    <string name="tasks_killswitch_snackbar">Tasks-ը հասանելի չէ «Օրացույց» հավելվածի այս տարբերակում։</string>
+    <string name="tasks_promo_body_text">Ստեղծեք առաջադրանքներ, դիտեք և փոփոխեք դրանք անմիջապես Օրացույցում</string>
+    <string name="tasks_promo_header_text">Google Tasks-ը միշտ ձեռքի տակ</string>
+    <string name="tasks_report_spam_dialog_button">Նշել որպես սպամ</string>
+    <string name="tasks_report_spam_dialog_title">Նշե՞լ առաջադրանքը որպես սպամ</string>
+    <string name="tasks_report_spam_message">Եթե այս առաջադրանքը նշվի որպես սպամ, այն կհեռացվի ձեր ցանկից։</string>
+    <string name="tasks_report_spam_snackbar">Առաջադրանքը նշվեց որպես սպամ</string>
+    <string name="tasks_rollover_dialog_information_menu_item">Տեղեկություններ</string>
+    <string name="tasks_rollover_dialog_title">Առկախ առաջադրանքներ</string>
+    <string name="tasks_rollover_information_text">"Այստեղ ցուցադրվում են վերջին 30 օրվա ընթացքում ստեղծված ձեր չկատարված առաջադրանքները։
+
+Օրացույցի կարգավորումներում կարող եք նշել՝ արդյոք առաջադրանքները պետք է ցուցադրվեն, թե ոչ։"</string>
+    <string name="tasks_sync_adapter">Tasks-ը Օրացույցում</string>
+    <string name="tentatively_accept_scope_selection_title">Կրկնվող միջոցառման հրավերի նախնական ընդունում</string>
+    <string name="terms_of_service">Օգտագործման պայմաններ</string>
+    <string name="the_day_before_at">Նախորդ օրը, ժամը %s</string>
+    <string name="time_in_past">Չեք կարող ընտրել ամսաթիվ, որն արդեն անցել է:</string>
+    <string name="timed_reminder_after">Մեկնակից %s հետո</string>
+    <string name="timed_reminder_time">%s առաջ</string>
+    <string name="timely_chip_multi_day_count">%1$s (Օր %2$d/%3$d)</string>
+    <string name="timely_chip_time_location">%1$s, %2$s-ում</string>
+    <string name="timely_chip_until">Մինչև %s</string>
+    <string name="title_hint">Ավելացրեք վերնագիր</string>
+    <string name="today">Այսօր</string>
+    <string name="today_at_time_fmt_lowercase">այսօր ժամը %s</string>
+    <string name="today_lowercase">այսօր</string>
+    <string name="today_template">Այսօր, %s</string>
+    <string name="toll">վճարովի հեռախոսահամար</string>
+    <string name="toll_free">անվճար հեռախոսահամար</string>
+    <string name="tomorrow">Վաղը</string>
+    <string name="tomorrow_at_time_fmt_lowercase">վաղը ժամը %s</string>
+    <string name="tomorrow_lowercase">վաղը</string>
+    <string name="too_many_participant_details">Զրուցասենյակի համար չափազանց շատ հյուրեր կան։ Կարող եք դատարկ զրույց սկսել և ավելացնել այն մարդկանց, ում հետ ուզում եք զրուցել։</string>
+    <string name="too_many_participant_start_chat">Զրույց սկսել</string>
+    <string name="try_again">Նորից փորձել</string>
+    <string name="tz_picker_activity_label">Ժամային գոտու ընտրիչ</string>
+    <string name="tz_picker_country_with_abbreviation">%1$s (%2$s)</string>
+    <string name="tz_picker_country_with_city">%1$s, %2$s</string>
+    <string name="tz_picker_no_results_found">Ոչինչ չի գտնվել</string>
+    <string name="tz_picker_search_hint">Մուտքագրեք տարածաշրջան կամ ժամային գոտի</string>
+    <string name="tz_picker_timezone_with_abbreviation">%1$s (%2$s)</string>
+    <string name="unable_to_add_calendar_message">Չհաջողվեց օրացույց ավելացնել:</string>
+    <string name="unified_sync_toggle_label">Google Օրացույց</string>
+    <string name="update">Թարմացնել</string>
+    <string name="update_event_action_prompt">Թարմացնել առկա միջոցառումը</string>
+    <string name="v7_preference_off">ԱՆՋԱՏԱԾ</string>
+    <string name="v7_preference_on">ՄԻԱՑՎԱԾ</string>
+    <string name="view_attachment">Դիտել</string>
+    <string name="view_email">Դիտել նամակի աղբյուրը</string>
+    <string name="view_in_keep">Դիտել Keep-ում</string>
+    <string name="view_in_tasks">Դիտել Tasks-ում</string>
+    <string name="view_more_phones">Այլ հեռախոսահամարներ</string>
+    <string name="view_schedules">Դիտել ժամանակացույցները</string>
+    <string name="view_source">Դիտել աղբյուրը</string>
+    <string name="view_subtasks">Դիտել ենթակետերը Google Tasks-ում</string>
+    <string name="view_switcher">Դիտել փոխանջատիչը</string>
+    <string name="visibility_default">Կանխադրված տեսանելիություն</string>
+    <string name="visibility_default_available">Հասանելի</string>
+    <string name="visibility_default_busy">Զբաղված</string>
+    <string name="visibility_private">Անձնական</string>
+    <string name="visibility_private_available">Անձնական - հասանելի</string>
+    <string name="visibility_private_busy">Անձնական - զբաղված</string>
+    <string name="visibility_public">Հանրային</string>
+    <string name="visibility_public_available">Հանրային - հասանելի</string>
+    <string name="visibility_public_busy">Հանրային - զբաղված</string>
+    <string name="visibility_secret">Միայն ինձ</string>
+    <string name="warning">Նախազգուշացում</string>
+    <string name="week_header_template">Մեկ շաբաթ %s-ից</string>
+    <string name="week_header_template_week_number">Շաբաթ %1$d, %2$s</string>
+    <string name="week_in_year_string">Շ %s</string>
+    <string name="week_view_label">Շաբաթ</string>
+    <string name="week_view_label_full">Շաբաթվա դիտակերպ</string>
+    <string name="weekday_buttons_label">Կրկնվում է՝</string>
+    <string name="weekly_by_day_simple_lower">յուրաքանչյուր շաբաթվա %1$s օրերին</string>
+    <string name="weekly_simple_lower">ամեն շաբաթ</string>
+    <string name="widget_day_today">Այսօր, %1$s</string>
+    <string name="widget_day_tomorrow">Վաղը, %1$s</string>
+    <string name="widget_description">Դիտեք ձեր առաջադրանքներն ու առաջիկա միջոցառումներ</string>
+    <string name="widget_no_events_scheduled">Ոչինչ պլանավորված չէ</string>
+    <string name="widgetmonth_description">Ցուցադրեք ձեր օրացույցը ամիս առ ամիս</string>
+    <string name="work_profile_header_title">Աշխատանքային պրոֆիլ</string>
+    <string name="working_hours_copy_time_text">Պատճենել ժամը բոլոր օրերում</string>
+    <string name="working_hours_enable_text">Միացնել աշխատանքային ժամերը</string>
+    <string name="working_hours_end">Ավարտ</string>
+    <string name="working_hours_help">Նշեք ձեր աշխատանքային ժամերը, որպեսզի ձեր գործընկերներն իմանան, թե երբ եք լինում աշխատավայրում և երբ կարող եք մասնակցել հանդիպումների։ Եթե ինչ-որ մեկը փորձի հրավիրել ձեզ հանդիպման աշխատանքային ժամերից դուրս, նա զգուշացնող հաղորդագրություն կտեսնի։</string>
+    <string name="working_hours_set_text">Նշել աշխատանքային ժամերը</string>
+    <string name="working_hours_start">Սկիզբ</string>
+    <string name="working_location_banner_accept_text">Իմանալ ավելին</string>
+    <string name="working_location_banner_subtext">Եթե դուք նույն օրը աշխատում եք մի քանի վայրերում, նշեք ժամերը յուրաքանչյուր վայրի համար</string>
+    <string name="working_location_banner_title">Կարգավորեք մի քանի աշխատելու վայր մեկ օրվա համար</string>
+    <string name="working_location_creation_cancellation_message">Հեռացնե՞լ այս աշխատելու վայրը</string>
+    <string name="working_location_edit_cancellation_message">Չեղարկե՞լ այս աշխատելու վայրի հետ կապված փոփոխությունները</string>
+    <string name="working_location_info_title">Տեղեկություններ աշխատելու վայրի մասին</string>
+    <string name="working_location_label">Աշխատելու վայրը</string>
+    <string name="working_location_promo_body_text">Նշեք, թե որտեղից եք աշխատում, որպեսզի ձեր գործընկերներն ավելի հեշտ կարողանան պլանավորել ձեր մասնակցությամբ հանդիպումները։</string>
+    <string name="working_location_promo_header_text">Հեշտությամբ կիսվեք աշխատելու վայրի մասին տվյալներով</string>
+    <string name="working_location_title_placeholder">Աշխատելու վայրը</string>
+    <string name="working_location_title_with_location">Աշխատելու վայրը՝ %s</string>
+    <string name="yesterday">Երեկ</string>
+    <string name="your_chip_label">Դուք</string>
+</resources>

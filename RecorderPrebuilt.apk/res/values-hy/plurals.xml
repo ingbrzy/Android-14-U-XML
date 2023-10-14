@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dlg_message_deletion_confirmation">
+        <item quantity="other">Ձայնագրություններն ընդմիշտ կջնջվեն։ Այս գործողությունը չի կարող հետարկվել։</item>
+        <item quantity="one">Ձայնագրություններն ընդմիշտ կջնջվեն։ Այս գործողությունը չի կարող հետարկվել։</item>
+    </plurals>
+    <plurals name="dlg_message_deletion_permanent_confirmation">
+        <item quantity="other">Ձայնագրությունները պահուստավորված չեն։ Դրանք ընդմիշտ կջնջվեն։ Այս գործողությունը չեք կարող հետարկել։</item>
+        <item quantity="one">Ձայնագրությունները պահուստավորված չեն։ Դրանք ընդմիշտ կջնջվեն։ Այս գործողությունը չեք կարող հետարկել։</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_confirmation">
+        <item quantity="other">Ջնջե՞լ ձայնագրությունները</item>
+        <item quantity="one">Ջնջե՞լ ձայնագրությունները</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_permanent_confirmation">
+        <item quantity="other">Ընդմիշտ ջնջե՞լ այս ձայնագրությունները</item>
+        <item quantity="one">Ընդմիշտ ջնջե՞լ այս ձայնագրությունները</item>
+    </plurals>
+    <plurals name="download_failure_description_storage_full">
+        <item quantity="other">Հնարավոր չէ ներբեռնել տեսագրությունները, քանի որ սարքի հիշողությունը լցված է։ Հպեք՝ մանրամասները տեսնելու համար։</item>
+        <item quantity="one">Հնարավոր չէ ներբեռնել տեսագրությունը, քանի որ սարքի հիշողությունը լցված է։ Հպեք՝ մանրամասները տեսնելու համար։</item>
+    </plurals>
+    <plurals name="downloading_description">
+        <item quantity="other">Ներբեռնվում է %1$d ձայնագրություն</item>
+        <item quantity="one">Ներբեռնվում է %1$d ձայնագրություն</item>
+    </plurals>
+    <plurals name="og_backup_failed_title">
+        <item quantity="other">Չհաջողվեց պահուստավորել %1$d տարր</item>
+        <item quantity="one">Չհաջողվեց պահուստավորել %1$d տարր</item>
+    </plurals>
+    <plurals name="og_backup_items_left">
+        <item quantity="other">Մնացել է %1$d տարր</item>
+        <item quantity="one">Մնացել է %1$d տարր</item>
+    </plurals>
+    <plurals name="og_backup_items_stopped_title">
+        <item quantity="other">%1$d տարր չի պահուստավորվել</item>
+        <item quantity="one">%1$d տարր չի պահուստավորվել</item>
+    </plurals>
+    <plurals name="peoplekit_chips_copied_recipients">
+        <item quantity="other">%d ստացող պատճենվեց</item>
+        <item quantity="one">%d ստացող պատճենվեց</item>
+    </plurals>
+    <plurals name="search_results_count">
+        <item quantity="other">%1$d արդյունք</item>
+        <item quantity="one">%1$d արդյունք</item>
+    </plurals>
+    <plurals name="search_results_position">
+        <item quantity="other">Արդյունք ^1/^2</item>
+        <item quantity="one">Արդյունք ^1/^2</item>
+    </plurals>
+    <plurals name="search_results_position_content_description">
+        <item quantity="other">Արդյունք %1$d/%2$d</item>
+        <item quantity="one">Արդյունք %1$d/%2$d</item>
+    </plurals>
+    <plurals name="selected_recording_quantity">
+        <item quantity="other">Ընտրված է %1$d ձայնագրություն</item>
+        <item quantity="one">Ընտրված է %1$d ձայնագրություն</item>
+    </plurals>
+    <plurals name="snackbar_message_download_failed_storage_full">
+        <item quantity="other">Սարքի հիշողությունը լցված է։ Հնարավոր չէ ներբեռնել տեսագրությունները։</item>
+        <item quantity="one">Սարքի հիշողությունը լցված է։ Հնարավոր չէ ներբեռնել տեսագրությունները։</item>
+    </plurals>
+    <plurals name="speaker_count">
+        <item quantity="other">%1$d բարձրախոս</item>
+        <item quantity="one">%1$d բարձրախոս</item>
+    </plurals>
+    <plurals name="uploading_description">
+        <item quantity="other">%1$d ձայնագրություն վերբեռնվում է</item>
+        <item quantity="one">%1$d ձայնագրություն վերբեռնվում է</item>
+    </plurals>
+</resources>

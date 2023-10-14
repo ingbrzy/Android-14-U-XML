@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">กลับ</string>
+    <string name="abc_action_mode_done">เสร็จ</string>
+    <string name="abc_capital_off">ปิด</string>
+    <string name="abc_capital_on">เปิด</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">ลบ</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">Space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">เมนู+</string>
+    <string name="abc_search_hint">ค้นหา…</string>
+    <string name="abc_searchview_description_clear">ล้างคำค้นหา</string>
+    <string name="abc_searchview_description_search">ค้นหา</string>
+    <string name="abc_searchview_description_submit">ส่งคำค้นหา</string>
+    <string name="abc_searchview_description_voice">ค้นหาด้วยเสียง</string>
+    <string name="abc_toolbar_collapse_description">ยุบ</string>
+    <string name="bottom_sheet_button_contact_text">@string/common_view</string>
+    <string name="bottom_sheet_button_matter_text">ตั้งค่า</string>
+    <string name="bottom_sheet_button_no_apps_text">ค้นหา</string>
+    <string name="bottom_sheet_button_wifi_text">@string/common_connect</string>
+    <string name="bottom_sheet_copy_error_toast">คัดลอกข้อความไปยังคลิปบอร์ดไม่ได้</string>
+    <string name="bottom_sheet_copy_success_toast">คัดลอกข้อความไปยังคลิปบอร์ดแล้ว</string>
+    <string name="bottom_sheet_image_view_description">ไอคอนของแอปพลิเคชันที่แสดงอยู่</string>
+    <string name="bottom_sheet_sub_title_no_apps">ค้นหาใน Google Play</string>
+    <string name="bottom_sheet_title">เปิดด้วย</string>
+    <string name="bottom_sheet_title_app_found">เปิดโดยใช้ %1$s</string>
+    <string name="bottom_sheet_title_contact">ดูรายละเอียดการติดต่อ</string>
+    <string name="bottom_sheet_title_copy_text">คัดลอกข้อความ</string>
+    <string name="bottom_sheet_title_copy_text_button_text">@string/common_copy</string>
+    <string name="bottom_sheet_title_copy_text_button_text_copied">คัดลอกแล้ว</string>
+    <string name="bottom_sheet_title_matter">ตั้งค่าอุปกรณ์</string>
+    <string name="bottom_sheet_title_passkey">ใช้รหัสผ่าน</string>
+    <string name="bottom_sheet_title_payment">ชำระเงินด้วย</string>
+    <string name="bottom_sheet_title_payment_setup">ตั้งค่าการชำระเงินด้วย</string>
+    <string name="bottom_sheet_title_payment_setup_single_app">ตั้งค่าการชำระเงินด้วย %1$s</string>
+    <string name="bottom_sheet_title_payment_single_app">ชำระเงินด้วย %1$s</string>
+    <string name="bottom_sheet_title_single_app_button_text">เปิด</string>
+    <string name="bottom_sheet_title_wifi">เชื่อมต่อ Wi-Fi</string>
+    <string name="bottomsheet_action_expand_halfway">ขยายรายการครึ่งหนึ่ง</string>
+    <string name="bottomsheet_drag_handle_content_description">แฮนเดิลการลาก</string>
+    <string name="camera_permission_dialog_button">ตกลง</string>
+    <string name="camera_permission_dialog_message">"บริการ Google Play จำเป็นต้องเข้าถึงกล้องของอุปกรณ์เพื่อสแกนโค้ดแทน %1$s
+
+โปรดให้สิทธิ์บริการ Google Play เข้าถึงกล้องในการตั้งค่าเพื่อสแกนโค้ด"</string>
+    <string name="camera_permission_dialog_message_platform">"บริการ Google Play จำเป็นต้องเข้าถึงกล้องของอุปกรณ์เพื่อสแกนคิวอาร์โค้ด
+
+โปรดให้สิทธิ์บริการ Google Play เข้าถึงกล้องในการตั้งค่าเพื่อสแกนโค้ด"</string>
+    <string name="camera_permission_dialog_title">ต้องได้รับสิทธิ์เข้าถึงกล้องถ่ายรูป</string>
+    <string name="cd_cancel_button">ปิดเครื่องมือสแกนโค้ด</string>
+    <string name="cd_info_button">เปิดกล่องโต้ตอบที่มีข้อมูล</string>
+    <string name="cd_selected_photo_view">แสดงรูปภาพที่เลือก</string>
+    <string name="cd_settings_button">เปิดการตั้งค่าเครื่องสแกน</string>
+    <string name="cd_torch_button">เปิด/ปิดไฟฉาย</string>
+    <string name="character_counter_content_description">ป้อนอักขระแล้ว %1$d จาก %2$d ตัว</string>
+    <string name="character_counter_overflowed_content_description">เกินจำนวนอักขระสูงสุด %1$d จาก %2$d</string>
+    <string name="clear_text_end_icon_content_description">ล้างข้อความ</string>
+    <string name="common_connect">เชื่อมต่อ</string>
+    <string name="common_continue">ต่อไป</string>
+    <string name="common_copy">คัดลอก</string>
+    <string name="common_google_play_services_enable_button">เปิดใช้</string>
+    <string name="common_google_play_services_enable_text">%1$s จะไม่ทำงานจนกว่าคุณจะเปิดใช้บริการ Google Play</string>
+    <string name="common_google_play_services_enable_title">เปิดใช้บริการ Google Play</string>
+    <string name="common_google_play_services_install_button">ติดตั้ง</string>
+    <string name="common_google_play_services_install_text">%1$s จะไม่ทำงานหากไม่มีบริการ Google Play ซี่งไม่มีในอุปกรณ์ของคุณ</string>
+    <string name="common_google_play_services_install_title">ติดตั้งบริการ Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">ความพร้อมใช้งานของบริการ Google Play</string>
+    <string name="common_google_play_services_notification_ticker">ข้อผิดพลาดของบริการ Google Play</string>
+    <string name="common_google_play_services_unknown_issue">%1$s มีปัญหาเกี่ยวกับบริการของ Google Play โปรดลองอีกครั้ง</string>
+    <string name="common_google_play_services_unsupported_text">%1$s จะไม่ทำงานหากไม่มีบริการ Google Play ซึ่งอุปกรณ์ของคุณไม่สนับสนุน</string>
+    <string name="common_google_play_services_update_button">อัปเดต</string>
+    <string name="common_google_play_services_update_text">%1$s จะไม่ทำงานจนกว่าคุณจะอัปเดตบริการ Google Play</string>
+    <string name="common_google_play_services_update_title">อัปเดตบริการ Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s จะไม่ทำงานหากไม่มีบริการ Google Play ซึ่งกำลังอัปเดตอยู่ในขณะนี้</string>
+    <string name="common_google_play_services_wear_update_text">จำเป็นต้องใช้บริการ Google Play เวอร์ชันใหม่ ซึ่งจะอัปเดตอัตโนมัติในอีกไม่ช้า</string>
+    <string name="common_got_it">รับทราบ</string>
+    <string name="common_no_apps_found">ไม่พบแอป</string>
+    <string name="common_open_on_phone">เปิดบนโทรศัพท์</string>
+    <string name="common_view">ดู</string>
+    <string name="error_a11y_label">Error: invalid</string>
+    <string name="error_icon_content_description">ข้อผิดพลาด</string>
+    <string name="exposed_dropdown_menu_content_description">แสดงเมนูแบบเลื่อนลง</string>
+    <string name="info_dialog_button">@string/common_got_it</string>
+    <string name="info_dialog_message">"%1$s กำลังขอให้บริการ Google Play สแกนโค้ดแทน ระบบจะแชร์เฉพาะผลการสแกนและไม่แชร์ข้อมูลรูปภาพ
+
+การสแกนเกิดขึ้นในอุปกรณ์ของคุณและ Google จะไม่บันทึกข้อมูลรูปภาพหรือโค้ดที่สแกน"</string>
+    <string name="info_dialog_message_platform">บริการ Google Play กำลังเข้าถึงกล้องของอุปกรณ์นี้ ระบบจะไม่จัดเก็บข้อมูลและรูปภาพของโค้ดที่สแกนและจะไม่ส่งออกจากอุปกรณ์นี้</string>
+    <string name="info_dialog_title">รักษาความปลอดภัยโดย Google</string>
+    <string name="info_dialog_title_platform">ขับเคลื่อนโดย Google</string>
+    <string name="manual_input_hint">แตะที่นี่เพื่อป้อนรหัสเอง</string>
+    <string name="mtrl_checkbox_state_description_checked">Checked</string>
+    <string name="mtrl_checkbox_state_description_indeterminate">Partially checked</string>
+    <string name="mtrl_checkbox_state_description_unchecked">Not checked</string>
+    <string name="password_toggle_content_description">แสดงรหัสผ่าน</string>
+    <string name="qr_detection_failure_dialog_message">ลองสแกนจากรูปภาพอื่น</string>
+    <string name="qr_detection_failure_dialog_title">ไม่พบคิวอาร์โค้ด</string>
+    <string name="scan_from_photo_title">สแกนจากรูปภาพ</string>
+    <string name="scanner_brand">สแกนโดย Google ในนามของ %1$s</string>
+    <string name="scanner_brand_platform">@string/info_dialog_title_platform</string>
+    <string name="scanner_title">สแกนโค้ด</string>
+    <string name="scanner_title_platform">สแกนคิวอาร์โค้ด</string>
+</resources>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="alarm_alert_snooze_duration">
+        <item quantity="other">%d ደቂቃ</item>
+        <item quantity="one">%d ደቂቃ</item>
+    </plurals>
+    <plurals name="alarm_alert_snooze_set">
+        <item quantity="other">ለ%d ደቂቃዎች በማሸለብ ላይ</item>
+        <item quantity="one">ለ%d ደቂቃዎች በማሸለብ ላይ</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%s ቀኖች</item>
+        <item quantity="one">%s ቀኖች</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">ከ%s ቀኖች በፊት</item>
+        <item quantity="one">ከ%s ቀኖች በፊት</item>
+    </plurals>
+    <plurals name="days_extra_short">
+        <item quantity="other">%s ቀ</item>
+        <item quantity="one">%s ቀ</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s ሰዓቶች</item>
+        <item quantity="one">%s ሰዓቶች</item>
+    </plurals>
+    <plurals name="hours_extra_short">
+        <item quantity="other">%s ሰ</item>
+        <item quantity="one">%s ሰ</item>
+    </plurals>
+    <plurals name="hours_short">
+        <item quantity="other">%s ሰ</item>
+        <item quantity="one">%s ሰ</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s ደቂቃዎች</item>
+        <item quantity="one">%s ደቂቃዎች</item>
+    </plurals>
+    <plurals name="minutes_extra_short">
+        <item quantity="other">%sደ</item>
+        <item quantity="one">%sደ</item>
+    </plurals>
+    <plurals name="minutes_short">
+        <item quantity="other">%s ደቂቃ</item>
+        <item quantity="one">%s ደቂቃ</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d አዲስ ማሳወቂያዎች</item>
+        <item quantity="one">%d አዲስ ማሳወቂያዎች</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%s ሰከንዶች</item>
+        <item quantity="one">%s ሰከንዶች</item>
+    </plurals>
+    <plurals name="seconds_extra_short">
+        <item quantity="other">%s ሰ</item>
+        <item quantity="one">%s ሰ</item>
+    </plurals>
+</resources>

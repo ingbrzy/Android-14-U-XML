@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dots">
+        <item quantity="other">အစက်များ %s</item>
+        <item quantity="one">အစက် %s</item>
+    </plurals>
+    <plurals name="gestures_recorded_message">
+        <item quantity="other">လက်ဟန် %d ခု မှတ်တမ်းတင်ပြီးပြီ</item>
+        <item quantity="one">လက်ဟန် ၁ ခု မှတ်တမ်းတင်ပြီးပြီ</item>
+    </plurals>
+    <plurals name="label_num_keys_assigned_format">
+        <item quantity="other">ခလုတ် %d ခု သတ်မှတ်ထားသည်</item>
+        <item quantity="one">ခလုတ် %d ခု သတ်မှတ်ထားသည်</item>
+    </plurals>
+    <plurals name="label_num_scanning_loops_format">
+        <item quantity="other">ပြန်ကျော့မှု %d ကြိမ်</item>
+        <item quantity="one">ပြန်ကျော့မှု %d ကြိမ်</item>
+    </plurals>
+    <plurals name="line_speed_summary_format">
+        <item quantity="other">တစ်စက္ကန့်လျှင် %.2f cm</item>
+        <item quantity="one">တစ်စက္ကန့်လျှင် 1 cm</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">အကြောင်းကြားချက်အသစ် %d ခု</item>
+        <item quantity="one">အကြောင်းကြားချက်အသစ် %d ခု</item>
+    </plurals>
+    <plurals name="time_delay_summary_format">
+        <item quantity="other">%.2f စက္ကန့်</item>
+        <item quantity="one">၁ စက္ကန့်</item>
+    </plurals>
+</resources>

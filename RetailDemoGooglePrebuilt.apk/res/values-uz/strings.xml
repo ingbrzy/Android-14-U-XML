@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_retaildemoCommunication">Ilovaga Demo versiya xizmatlari bilan ishlash imkonini beradi. Bu ruxsat faqat demo rejimga berilishi kerak. Bu ruxsatli ilovalar Demo versiya uchun belgilangan amallarni ishga tushirishi mumkin.</string>
+    <string name="permlab_retaildemoCommunication">Demo versiya aloqasi</string>
+    <string name="retaildemo_preload_app_name">Demo versiya xizmatlari</string>
+</resources>

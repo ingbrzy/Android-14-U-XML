@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="clock_color_ids">
+        <item>GRAY</item>
+        <item>RED</item>
+        <item>ORANGE</item>
+        <item>YELLOW</item>
+        <item>GREEN</item>
+        <item>BLUE</item>
+        <item>INDIGO</item>
+        <item>VIOLET</item>
+        <item>TEAL</item>
+    </string-array>
+    <string-array name="clock_color_names">
+        <item>@string/clock_color_gray</item>
+        <item>@string/clock_color_red</item>
+        <item>@string/clock_color_orange</item>
+        <item>@string/clock_color_yellow</item>
+        <item>@string/clock_color_green</item>
+        <item>@string/clock_color_blue</item>
+        <item>@string/clock_color_indigo</item>
+        <item>@string/clock_color_violet</item>
+        <item>@string/clock_color_teal</item>
+    </string-array>
+    <integer-array name="clock_color_tone_max">
+        <item>100</item>
+        <item>95</item>
+        <item>95</item>
+        <item>95</item>
+        <item>99</item>
+        <item>95</item>
+        <item>95</item>
+        <item>97</item>
+        <item>99</item>
+    </integer-array>
+    <integer-array name="clock_color_tone_min">
+        <item>0</item>
+        <item>20</item>
+        <item>20</item>
+        <item>50</item>
+        <item>20</item>
+        <item>20</item>
+        <item>10</item>
+        <item>20</item>
+        <item>20</item>
+    </integer-array>
+    <array name="clock_colors">
+        <item>#ffb9b9b9</item>
+        <item>#ffffa3a7</item>
+        <item>#fff7ac69</item>
+        <item>#ffffc951</item>
+        <item>#ff88d86a</item>
+        <item>#ff8ec8ff</item>
+        <item>#ffb9aaff</item>
+        <item>#fff6a2ff</item>
+        <item>#ff40d9cf</item>
+    </array>
+    <string-array name="icon_shape_preview_packages">
+        <item>com.google.android.gm</item>
+        <item>com.google.android.googlequicksearchbox</item>
+        <item>com.google.android.apps.photos</item>
+        <item>com.google.android.apps.docs</item>
+        <item>com.google.android.youtube</item>
+        <item>com.android.vending</item>
+    </string-array>
+</resources>

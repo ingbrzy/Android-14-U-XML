@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120000">
+        <item quantity="other">Wag tans vir wi-fi</item>
+        <item quantity="one">Wag tans vir wi-fi</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120002">
+        <item quantity="other">Op hierdie toestel (%d programme)</item>
+        <item quantity="one">Op hierdie toestel (%d program)</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120003">
+        <item quantity="other">Kenmerke van %1$s</item>
+        <item quantity="one">Kenmerk van %1$s</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120004">
+        <item quantity="other">%d dae gelede geïnstalleer</item>
+        <item quantity="one">%d dag gelede geïnstalleer</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120005">
+        <item quantity="other">%d uur gelede geïnstalleer</item>
+        <item quantity="one">%d uur gelede geïnstalleer</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120006">
+        <item quantity="other">%d minute gelede geïnstalleer</item>
+        <item quantity="one">%d minuut gelede geïnstalleer</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120007">
+        <item quantity="other">%1$d gekies</item>
+        <item quantity="one">%1$d gekies</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120008">
+        <item quantity="other">%d dae gelede opgedateer</item>
+        <item quantity="one">%d dag gelede opgedateer</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120009">
+        <item quantity="other">%d uur gelede opgedateer</item>
+        <item quantity="one">%d uur gelede opgedateer</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000a">
+        <item quantity="other">%d minute gelede opgedateer</item>
+        <item quantity="one">%d minuut gelede opgedateer</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000b">
+        <item quantity="other">%d dae gelede laas gebruik</item>
+        <item quantity="one">%d dag gelede laas gebruik</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000c">
+        <item quantity="other">%d uur gelede laas gebruik</item>
+        <item quantity="one">%d uur gelede laas gebruik</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000d">
+        <item quantity="other">%d minute gelede laas gebruik</item>
+        <item quantity="one">%d minuut gelede laas gebruik</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000f">
+        <item quantity="other">Programme is %d dae gelede geskandeer</item>
+        <item quantity="one">Programme is %d dag gelede geskandeer</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120010">
+        <item quantity="other">Programme is %d uur gelede geskandeer</item>
+        <item quantity="one">Programme is %d uur gelede geskandeer</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120011">
+        <item quantity="other">Programme is %d minute gelede geskandeer</item>
+        <item quantity="one">Programme is %d minuut gelede geskandeer</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120014">
+        <item quantity="other">%1$d resensies</item>
+        <item quantity="one">%1$d resensie</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120015">
+        <item quantity="other">%1$d resensies vir stergradering %2$d</item>
+        <item quantity="one">%1$d resensie vir stergradering %2$d</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120016">
+        <item quantity="other">Installeer op %1$d toestelle.</item>
+        <item quantity="one">Installeer op %1$d toestel.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120017">
+        <item quantity="other">Installeer op %1$d toestelle. Nog toestelle beskikbaar.</item>
+        <item quantity="one">Installeer op %1$d toestel. Nog toestelle beskikbaar.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120018">
+        <item quantity="other">Hierdie program sal binnekort op jou %1$d toestelle geïnstalleer word.</item>
+        <item quantity="one">Hierdie program sal binnekort op jou %1$d toestel geïnstalleer word.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120019">
+        <item quantity="other">%1$d ekstras beskikbaar</item>
+        <item quantity="one">%1$d ekstra beskikbaar</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001a">
+        <item quantity="other">%1$d ekstras beskikbaar met aankoop</item>
+        <item quantity="one">%1$d ekstra beskikbaar met aankoop</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001b">
+        <item quantity="other">%1$d dae</item>
+        <item quantity="one">%1$d dag</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001c">
+        <item quantity="other">%1$s gemiddelde gradering in %2$s resensies</item>
+        <item quantity="one">%1$s gemiddelde gradering in 1 resensie</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001d">
+        <item quantity="other">%s resensies</item>
+        <item quantity="one">1 resensie</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001e">
+        <item quantity="other">"Jy het nou %1$d stappe oor voordat jy 'n ontwikkelaar is."</item>
+        <item quantity="one">"Jy het nou %1$d stap oor voordat jy 'n ontwikkelaar is."</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001f">
+        <item quantity="other">motors</item>
+        <item quantity="one">motor</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120020">
+        <item quantity="other">Chromebooks</item>
+        <item quantity="one">Chromebook</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120021">
+        <item quantity="other">opvoubares</item>
+        <item quantity="one">opvoubaar</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120022">
+        <item quantity="other">fone</item>
+        <item quantity="one">foon</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120023">
+        <item quantity="other">tablette</item>
+        <item quantity="one">tablet</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120024">
+        <item quantity="other">"TV's"</item>
+        <item quantity="one">TV</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120025">
+        <item quantity="other">toestelle</item>
+        <item quantity="one">toestel</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120026">
+        <item quantity="other">horlosies</item>
+        <item quantity="one">horlosie</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120027">
+        <item quantity="other">%1$d Play-punte beskikbaar.</item>
+        <item quantity="one">%1$d Play-punt beskikbaar.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120028">
+        <item quantity="other">%1$d uur</item>
+        <item quantity="one">%1$d uur</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120029">
+        <item quantity="other">%1$d uur oor</item>
+        <item quantity="one">1 uur oor</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002a">
+        <item quantity="other">Installeer tans %1$d programme …</item>
+        <item quantity="one">Installeer tans %1$d program …</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002b">
+        <item quantity="other">Installerings is laat wag</item>
+        <item quantity="one">Installering is laat wag</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002c">
+        <item quantity="other">%1$d programme sal geïnstalleer word</item>
+        <item quantity="one">%1$d program sal geïnstalleer word</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002d">
+        <item quantity="other">%d dae gelede laas opgedateer</item>
+        <item quantity="one">%d dag gelede laas opgedateer</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002e">
+        <item quantity="other">%d uur gelede laas opgedateer</item>
+        <item quantity="one">%d uur gelede laas opgedateer</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002f">
+        <item quantity="other">%d minute gelede laas opgedateer</item>
+        <item quantity="one">%d minuut gelede laas opgedateer</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120033">
+        <item quantity="other">%1$d jaar gelede</item>
+        <item quantity="one">%1$d jaar gelede</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120034">
+        <item quantity="other">%1$d minute</item>
+        <item quantity="one">%1$d minuut</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120035">
+        <item quantity="other">%1$d minute oor</item>
+        <item quantity="one">1 minuut oor</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120037">
+        <item quantity="other">%1$d gekies</item>
+        <item quantity="one">%1$d gekies</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120038">
+        <item quantity="other">Argiveer %1$d apps</item>
+        <item quantity="one">Argiveer %1$d apps</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120039">
+        <item quantity="other">Verwyder gekose apps?</item>
+        <item quantity="one">Verwyder gekose app?</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12003a">
+        <item quantity="other">%1$d apps is verwyder</item>
+        <item quantity="one">%1$d app is verwyder</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12003d">
+        <item quantity="other">%1$d installerings is afwagtend</item>
+        <item quantity="one">%1$d installering is afwagtend</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12003e">
+        <item quantity="other">%1$d installerings is aan die gang</item>
+        <item quantity="one">%1$d installering is aan die gang</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120040">
+        <item quantity="other">%1$d opdaterings is afwagtend</item>
+        <item quantity="one">%1$d opdatering is afwagtend</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120041">
+        <item quantity="other">%1$d opdaterings is aan die gang</item>
+        <item quantity="one">%1$d opdatering is aan die gang</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120042">
+        <item quantity="other">%1$d programme is geïnstalleer</item>
+        <item quantity="one">%1$d program is geïnstalleer</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120044">
+        <item quantity="other">%1$d uur gelede vrygestel</item>
+        <item quantity="one">%1$d uur gelede vrygestel</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120045">
+        <item quantity="other">%1$d dae gelede vrygestel</item>
+        <item quantity="one">%1$d dag gelede vrygestel</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120046">
+        <item quantity="other">Programme is verwyder</item>
+        <item quantity="one">Program is verwyder</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120047">
+        <item quantity="other">%1$d opdaterings benodig goedkeuring</item>
+        <item quantity="one">%1$d opdatering benodig goedkeuring</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120048">
+        <item quantity="other">%1$d nuwe opdaterings</item>
+        <item quantity="one">%1$d nuwe opdatering</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120049">
+        <item quantity="other">%1$d opdaterings beskikbaar</item>
+        <item quantity="one">%1$d opdatering beskikbaar</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004a">
+        <item quantity="other">Opdateer almal</item>
+        <item quantity="one">Opdateer</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004b">
+        <item quantity="other">%1$d programme is opgedateer</item>
+        <item quantity="one">%1$d program is opgedateer</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004c">
+        <item quantity="other">Eindig oor %1$d uur</item>
+        <item quantity="one">Eindig oor %1$d uur</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004d">
+        <item quantity="other">Eindig oor %1$d dae</item>
+        <item quantity="one">Eindig oor %1$d dag</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004e">
+        <item quantity="other">%1$d minute</item>
+        <item quantity="one">%1$d minuut</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004f">
+        <item quantity="other">%1$d sekondes</item>
+        <item quantity="one">%1$d sekonde</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120050">
+        <item quantity="other">Persoonlike programme is verwyder</item>
+        <item quantity="one">Persoonlike program is verwyder</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120053">
+        <item quantity="other">Play Beskerming het %d dae gelede geskandeer</item>
+        <item quantity="one">Play Beskerming het %d dag gelede geskandeer</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120054">
+        <item quantity="other">Play Beskerming het %d uur gelede geskandeer</item>
+        <item quantity="one">Play Beskerming het %d uur gelede geskandeer</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120055">
+        <item quantity="other">Play Beskerming het %d minute gelede geskandeer</item>
+        <item quantity="one">Play Beskerming het %d minuut gelede geskandeer</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120056">
+        <item quantity="other">%1$s punte om %2$s volgende jaar te behou</item>
+        <item quantity="one">1 punt om %2$s volgende jaar te behou</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120057">
+        <item quantity="other">%1$s punte tot by %2$s</item>
+        <item quantity="one">1 punt tot by %2$s</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120058">
+        <item quantity="other">Jy het vir hierdie programme toestemming gegee om onbekende programme te installeer of op te dateer, wat jou toestel en persoonlike inligting in gevaar kan stel Weier toestemming om hulle te keer om programme te installeer.</item>
+        <item quantity="one">Jy het vir hierdie program toestemming gegee om onbekende programme te installeer of op te dateer, wat jou toestel en persoonlike inligting in gevaar kan stel. Weier toestemming om hulle te keer om programme te installeer.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120059">
+        <item quantity="other">Jy het vir %1$d programme toestemming gegee om onbekende programme te installeer of op te dateer, wat jou toestel en persoonlike inligting in gevaar kan stel</item>
+        <item quantity="one">Jy het vir 1 program toestemming gegee om onbekende programme te installeer of op te dateer, wat jou toestel en persoonlike inligting in gevaar kan stel</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005a">
+        <item quantity="other">%1$d privaatheidkennisgewings</item>
+        <item quantity="one">1 privaatheidskennisgewing</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005b">
+        <item quantity="other">%1$d skadelike programme gekry</item>
+        <item quantity="one">1 skadelike program gekry</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005c">
+        <item quantity="other">%1$d sekuriteitkennisgewings</item>
+        <item quantity="one">1 sekuriteitkennisgewing</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005d">
+        <item quantity="other">%1$d sekuriteitopdaterings</item>
+        <item quantity="one">1 sekuriteitopdatering</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005e">
+        <item quantity="other">%1$d onveilige programme gekry</item>
+        <item quantity="one">1 onveilige program gekry</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005f">
+        <item quantity="other">%1$d waarskuwings</item>
+        <item quantity="one">1 waarskuwing</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120060">
+        <item quantity="other">Onveilige programme gekry</item>
+        <item quantity="one">Onveilige program gekry</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120061">
+        <item quantity="other">Eindig oor %1$d uur</item>
+        <item quantity="one">Eindig oor %1$d uur</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120062">
+        <item quantity="other">Eindig oor %1$d dae</item>
+        <item quantity="one">Eindig oor %1$d dag</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120063">
+        <item quantity="other">%1$d van %2$d stappe voltooi</item>
+        <item quantity="one">%1$d van %2$d stap voltooi</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120064">
+        <item quantity="other">Gereed om %1$d programme te installeer</item>
+        <item quantity="one">Gereed om %1$d program te installeer</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120065">
+        <item quantity="other">%1$s sal vir jou %2$d programme stuur. Maak seker dat die saambindkode ooreenstem.</item>
+        <item quantity="one">%1$s sal vir jou %2$d program stuur. Maak seker dat die saambindkode ooreenstem.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120066">
+        <item quantity="other">Ontvang tans %1$d programme van \"%2$s\" af …</item>
+        <item quantity="one">Ontvang tans %1$d program van \"%2$s\" af …</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006a">
+        <item quantity="other">%1$d gebruikers het hierdie resensie nuttig gevind. Merk opmerking as nuttig</item>
+        <item quantity="one">%1$d gebruiker het hierdie resensie nuttig gevind. Merk opmerking as nuttig</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006b">
+        <item quantity="other">%1$d gebruikers het hierdie resensie nuttig gevind. Ontmerk opmerking as nuttig</item>
+        <item quantity="one">%1$d gebruiker het hierdie resensie nuttig gevind. Ontmerk opmerking as nuttig</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006c">
+        <item quantity="other">%1$s mense het dit nuttig gevind</item>
+        <item quantity="one">%1$s persoon het dit nuttig gevind</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006f">
+        <item quantity="other">%1$d sekondes</item>
+        <item quantity="one">%1$d sekonde</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120070">
+        <item quantity="other">%1$d sekondes oor</item>
+        <item quantity="one">1 sekonde oor</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120071">
+        <item quantity="other">%1$d gekies • %2$s</item>
+        <item quantity="one">%1$d gekies • %2$s</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120072">
+        <item quantity="other">Stuur tans %1$d programme na \"%2$s\" …</item>
+        <item quantity="one">Stuur tans %1$d program na \"%2$s\" …</item>
+    </plurals>
+    <plurals name="setup_completed_installed">
+        <item quantity="other">%1$d programme is geïnstalleer</item>
+        <item quantity="one">%1$d program is geïnstalleer</item>
+    </plurals>
+    <plurals name="setup_completed_installed_with_failures">
+        <item quantity="other">%1$d van %2$d programme kon nie geïnstalleer word nie</item>
+        <item quantity="one">%1$d van %2$d program kon nie geïnstalleer word nie</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120075">
+        <item quantity="other">%1$d dae gelede laas gebruik</item>
+        <item quantity="one">%1$d dag gelede laas gebruik</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120076">
+        <item quantity="other">Stel %1$d geselekteerde programme terug</item>
+        <item quantity="one">Stel geselekteerde program terug</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120078">
+        <item quantity="other">Laai %1$d nuwe tale af?</item>
+        <item quantity="one">Laai nuwe taal af?</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007b">
+        <item quantity="other">%1$d opnameantwoorde sal permanent uit jou rekening verwyder word.</item>
+        <item quantity="one">%1$d opnameantwoord sal permanent uit jou rekening verwyder word.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007c">
+        <item quantity="other">%1$d gekies</item>
+        <item quantity="one">%1$d gekies</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007d">
+        <item quantity="other">Wys Play Points. %1$d punte beskikbaar.</item>
+        <item quantity="one">Wys Play Points. %1$d punt beskikbaar.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007e">
+        <item quantity="other">%1$d Play-punte beskikbaar.</item>
+        <item quantity="one">%1$d Play-punt beskikbaar.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120080">
+        <item quantity="other">%1$s punte</item>
+        <item quantity="one">1 punt</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120081">
+        <item quantity="other">Dra tans %1$d programme oor met \"%2$s\" …</item>
+        <item quantity="one">Dra tans %1$d program oor met \"%2$s\" …</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120082">
+        <item quantity="other">%1$d programme op jou toestel sal gedeïnstalleer word.</item>
+        <item quantity="one">%1$d program op jou toestel sal gedeïnstalleer word.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120083">
+        <item quantity="other">Deïnstalleer die geselekteerde programme?</item>
+        <item quantity="one">Deïnstalleer die geselekteerde program?</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120084">
+        <item quantity="other">Deïnstalleer opdaterings vir die gekose programme?</item>
+        <item quantity="one">Deïnstalleer opdaterings vir die gekose program?</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120085">
+        <item quantity="other">%1$s programme is verwyder, wat genoeg spasie beskikbaar gemaak het vir %2$s.</item>
+        <item quantity="one">%1$s program is verwyder, wat genoeg spasie beskikbaar gemaak het vir %2$s.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120086">
+        <item quantity="other">Programme sal binnekort geïnstalleer word.</item>
+        <item quantity="one">Program sal binnekort geïnstalleer word.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120087">
+        <item quantity="other">Programopdaterings sal binnekort geïnstalleer word.</item>
+        <item quantity="one">Programopdatering sal binnekort geïnstalleer word.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008a">
+        <item quantity="other">%1$d dae gelede laas gebruik</item>
+        <item quantity="one">%1$d dag gelede laas gebruik</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008b">
+        <item quantity="other">%1$d maande gelede laas gebruik</item>
+        <item quantity="one">%1$d maand gelede laas gebruik</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008c">
+        <item quantity="other">Verwyder programme wat jy nie meer nodig het nie om programme of opdaterings op hierdie toestel te installeer. Jy kan ook spasie beskikbaar maak deur medialêers in Berginginstellings uit te vee.</item>
+        <item quantity="one">Verwyder programme wat jy nie meer nodig het nie om die program of opdatering op hierdie toestel te installeer. Jy kan ook spasie beskikbaar maak deur medialêers in Berginginstellings uit te vee.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008d">
+        <item quantity="other">Verwyder programme wat jy nie meer nodig het nie om programme of opdaterings op hierdie toestel te installeer. Jy kan ook spasie beskikbaar maak deur medialêers in &lt;a href=\"\">Instellings > Berging&lt;/a> uit te vee.</item>
+        <item quantity="one">Verwyder programme wat jy nie meer nodig het nie om die program of opdatering op hierdie toestel te installeer. Jy kan ook spasie beskikbaar maak deur medialêers in &lt;a href=\"\">Instellings > Berging&lt;/a> uit te vee.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008e">
+        <item quantity="other">Verwyder programme wat jy nie meer nodig het nie om programme of opdaterings op hierdie toestel te installeer. Jy kan ook spasie beskikbaar maak deur medialêers in Instellings > Berging uit te vee.</item>
+        <item quantity="one">Verwyder programme wat jy nie meer nodig het nie om die program of opdatering op hierdie toestel te installeer. Jy kan ook spasie beskikbaar maak deur medialêers in Instellings > Berging uit te vee.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008f">
+        <item quantity="other">%1$d programme is gedeïnstalleer</item>
+        <item quantity="one">%1$d program is gedeïnstalleer</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120090">
+        <item quantity="other">"Ons het %1$d programme gekry wat jy 'n ruk lank nie gebruik het nie. As jy hulle verwyder, sal jy %2$d MB se bergingspasie bykry"</item>
+        <item quantity="one">"Ons het %1$d program gekry wat jy 'n ruk lank nie gebruik het nie. As jy dit verwyder, sal jy %2$d MB se bergingspasie bykry"</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120091">
+        <item quantity="other">Begin oor %1$d uur</item>
+        <item quantity="one">Begin oor %1$d uur</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120092">
+        <item quantity="other">Begin oor %1$d dae</item>
+        <item quantity="one">Begin oor %1$d dag</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120093">
+        <item quantity="other">Beskikbaar oor %1$d uur</item>
+        <item quantity="one">Beskikbaar oor %1$d uur</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120094">
+        <item quantity="other">Beskikbaar oor %1$d dae</item>
+        <item quantity="one">Beskikbaar oor %1$d dag</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120095">
+        <item quantity="other">Hierdie toestel het meer as %1$d maande laas ’n stelselopdatering ondergaan</item>
+        <item quantity="one">Hierdie toestel het meer as %1$d maand laas ’n stelselopdatering ondergaan</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120096">
+        <item quantity="other">Werkprogramme is verwyder</item>
+        <item quantity="one">Werkprogram is verwyder</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120097">
+        <item quantity="other">%1$d jaar gelede</item>
+        <item quantity="one">%1$d jaar gelede</item>
+    </plurals>
+</resources>

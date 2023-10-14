@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dots">
+        <item quantity="other">pike %s</item>
+        <item quantity="one">pika %s</item>
+        <item quantity="two">piki %s</item>
+        <item quantity="few">pike %s</item>
+    </plurals>
+    <plurals name="gestures_recorded_message">
+        <item quantity="other">Posnetih je bilo %d potez.</item>
+        <item quantity="one">Posneta je bila %d poteza.</item>
+        <item quantity="two">Posneti sta bili %d potezi.</item>
+        <item quantity="few">Posnete so bile %d poteze.</item>
+    </plurals>
+    <plurals name="label_num_keys_assigned_format">
+        <item quantity="other">%d stikal je dodeljenih</item>
+        <item quantity="one">%d stikalo je dodeljeno</item>
+        <item quantity="two">%d stikali sta dodeljeni</item>
+        <item quantity="few">%d stikala so dodeljena</item>
+    </plurals>
+    <plurals name="label_num_scanning_loops_format">
+        <item quantity="other">%d ponovitev</item>
+        <item quantity="one">%d ponovitev</item>
+        <item quantity="two">%d ponovitvi</item>
+        <item quantity="few">%d ponovitve</item>
+    </plurals>
+    <plurals name="line_speed_summary_format">
+        <item quantity="other">%.2f cm na sekundo</item>
+        <item quantity="one">%.2f cm na sekundo</item>
+        <item quantity="two">%.2f cm na sekundo</item>
+        <item quantity="few">%.2f cm na sekundo</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d novih obvestil</item>
+        <item quantity="one">%d novo obvestilo</item>
+        <item quantity="two">%d novi obvestili</item>
+        <item quantity="few">%d nova obvestila</item>
+    </plurals>
+    <plurals name="time_delay_summary_format">
+        <item quantity="other">%.2f sekund</item>
+        <item quantity="one">%.2f sekunda</item>
+        <item quantity="two">%.2f sekundi</item>
+        <item quantity="few">%.2f sekunde</item>
+    </plurals>
+</resources>

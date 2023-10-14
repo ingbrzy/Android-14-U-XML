@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">የሲም መተግበሪያ መገናኛ</string>
+    <string name="call_notification_answer_action">መልስ</string>
+    <string name="call_notification_answer_video_action">ቪዲዮ</string>
+    <string name="call_notification_decline_action">አትቀበል</string>
+    <string name="call_notification_hang_up_action">ስልኩን ዝጋ</string>
+    <string name="call_notification_incoming_text">ገቢ ጥሪ</string>
+    <string name="call_notification_ongoing_text">እየተካሄደ ያለ ጥሪ</string>
+    <string name="call_notification_screening_text">ገቢ ጥሪ ማጣራት</string>
+    <string name="install_carrier_app_defer_action">አሁን አይደለም</string>
+    <string name="install_carrier_app_description">አዲሱ የእርስዎ ሲም በአግባቡ እንዲሰራ ለማድረግ የ%1$s መተግበሪያውን መጫን አለብዎት</string>
+    <string name="install_carrier_app_description_default">አዲሱ የእርስዎ ሲም በአግባቡ እንዲሰራ ለማድረግ የአገልግሎት አቅራቢ መተግበሪያውን መጫን አለብዎት</string>
+    <string name="install_carrier_app_download_action">መተግበሪያን አውርድ</string>
+    <string name="install_carrier_app_title">የሞባይል አገልግሎትን አግብር</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="suw_back_button_label">ተመለስ</string>
+    <string name="suw_more_button_label">ተጨማሪ</string>
+    <string name="suw_next_button_label">ቀጣይ</string>
+</resources>

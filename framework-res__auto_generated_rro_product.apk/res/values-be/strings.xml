@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_error_bad_calibration">Не ўдалося скарыстаць сканер адбіткаў пальцаў. Звярніцеся ў сэрвісны цэнтр або наведайце старонку g.co/pixel/fingerprintunlock</string>
+    <string name="fingerprint_recalibrate_notification_content">Звярніцеся ў сэрвісны цэнтр або наведайце старонку g.co/pixel/fingerprintunlock</string>
+    <string name="battery_saver_description_with_learn_more">"Каб павялічыць тэрмін службы акумулятара, рэжым эканоміі зараду:
+
+•·уключае цёмную тэму;
+• выключае ці абмяжоўвае дзеянні ў фонавым рэжыме, некаторыя візуальныя эфекты і іншыя функцыі, напрыклад \"Ok Google\";
+• аптымізуе падключэнні да сеткі
+
+"<annotation id="url">Даведацца больш</annotation></string>
+</resources>

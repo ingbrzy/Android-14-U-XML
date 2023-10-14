@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mga Serbisyo sa Connectivity ng Google</string>
+    <string name="notification_channel_background_services">Mga serbisyo sa background</string>
+    <string name="notification_channel_feedback">Mga kahilingan sa feedback</string>
+</resources>

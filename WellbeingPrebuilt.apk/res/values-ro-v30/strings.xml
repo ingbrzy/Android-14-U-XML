@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="heads_up_location_permission_description">Astfel, funcția Privirea în față știe când ești afară. În următoarele două ecrane, selectează <b>În timpul folosirii aplicației > Permite întotdeauna</b>.</string>
+    <string name="wind_down_discovery_notification_text">{DEVICE_TYPE,select, DEVICE_PHONE{Folosește modul Ora de culcare pentru a dezactiva sunetul telefonului și a păstra ecranul întunecat la ora de culcare}DEVICE_TABLET{Folosește modul Ora de culcare pentru a dezactiva sunetul tabletei și a păstra ecranul întunecat la ora de culcare}other{Folosește modul Ora de culcare pentru a dezactiva sunetul dispozitivului și a păstra ecranul întunecat la ora de culcare}}</string>
+</resources>

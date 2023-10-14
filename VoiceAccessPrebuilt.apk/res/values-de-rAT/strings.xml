@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="service_description_supported_languages">Mit Voice Access können Sie Ihr Android-Gerät per Sprachbefehl steuern. Nutzen Sie die Sprachsteuerung, um Apps zu öffnen, auf Schaltflächen zu tippen, zu scrollen, Text einzugeben und mehr. Derzeit nur auf Deutsch, Englisch, Französisch, Italienisch und Spanisch verfügbar.</string>
+    <string name="service_summary">Gerät per Sprachbefehl steuern</string>
+    <string name="voice_access_htmlDescription">Nutzen Sie Voice Access, um Ihr Gerät per Sprachbefehl zu steuern. Versuchen Sie es mit:&lt;br> &lt;br> &lt;ul> &lt;li>Zur Startseite &lt;li>Zurück &lt;li>Benachrichtigungen anzeigen &lt;li>Auf „OK“ klicken &lt;li>Fotos öffnen &lt;/ul> &lt;br> Viele weitere Befehle werden ebenfalls unterstützt. Wenn Voice Access aktiviert ist, sagen Sie „Was kann ich sagen?“, um weitere Informationen zu erhalten.</string>
+</resources>

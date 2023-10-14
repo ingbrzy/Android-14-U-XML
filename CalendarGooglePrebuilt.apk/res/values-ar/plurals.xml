@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ndays">
+        <item quantity="other">%d من الأيام</item>
+        <item quantity="zero">%d من الأيام</item>
+        <item quantity="one">يوم واحد</item>
+        <item quantity="two">يومان (%d)</item>
+        <item quantity="few">%d أيام</item>
+        <item quantity="many">%d يومًا</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%d من الساعات</item>
+        <item quantity="zero">%d من الساعات</item>
+        <item quantity="one">ساعة واحدة</item>
+        <item quantity="two">ساعتان (%d)</item>
+        <item quantity="few">%d ساعات</item>
+        <item quantity="many">%d ساعة</item>
+    </plurals>
+    <plurals name="Nminutes">
+        <item quantity="other">%d من الدقائق</item>
+        <item quantity="zero">%d من الدقائق</item>
+        <item quantity="one">دقيقة واحدة</item>
+        <item quantity="two">دقيقتان (%d)</item>
+        <item quantity="few">%d دقائق</item>
+        <item quantity="many">%d دقيقة</item>
+    </plurals>
+    <plurals name="Nweeks">
+        <item quantity="other">%d من الأسابيع</item>
+        <item quantity="zero">%d من الأسابيع</item>
+        <item quantity="one">أسبوع واحد</item>
+        <item quantity="two">أسبوعان (%d)</item>
+        <item quantity="few">%d أسابيع</item>
+        <item quantity="many">%d أسبوعًا</item>
+    </plurals>
+    <plurals name="a11y_filter_capacity">
+        <item quantity="other">سعة الغرفَة المطلوبة: %1$d مقعد</item>
+        <item quantity="zero">سعة الغرفَة المطلوبة: %1$d مقعد</item>
+        <item quantity="one">سعة الغرفة المطلوبة: مقعد واحد</item>
+        <item quantity="two">سعة الغرفة المطلوبة: مقعدان (%1$d)</item>
+        <item quantity="few">سعة الغرفَة المطلوبة: %1$d مقاعد</item>
+        <item quantity="many">سعة الغرفَة المطلوبة: %1$d مقعدًا</item>
+    </plurals>
+    <plurals name="accessibility_find_time_custom_duration_hour_input">
+        <item quantity="other">%d ساعة</item>
+        <item quantity="zero">%d ساعات</item>
+        <item quantity="one">%d ساعة</item>
+        <item quantity="two">ساعتان (%d)</item>
+        <item quantity="few">%d ساعات</item>
+        <item quantity="many">%d ساعة</item>
+    </plurals>
+    <plurals name="accessibility_find_time_custom_duration_minute_input">
+        <item quantity="other">%d دقيقة</item>
+        <item quantity="zero">%d دقيقة</item>
+        <item quantity="one">%d دقيقة</item>
+        <item quantity="two">دقيقتان (%d)</item>
+        <item quantity="few">%d دقائق</item>
+        <item quantity="many">%d دقيقة</item>
+    </plurals>
+    <plurals name="accessibility_has_time_proposals">
+        <item quantity="other">باقتراحات للوقت</item>
+        <item quantity="zero">باقتراحات للوقت</item>
+        <item quantity="one">باقتراح للوقت</item>
+        <item quantity="two">باقتراحان للوقت</item>
+        <item quantity="few">باقتراحات للوقت</item>
+        <item quantity="many">باقتراحات للوقت</item>
+    </plurals>
+    <plurals name="alternate_search_available_announce">
+        <item quantity="other">انتهى البحث إلى %d نتيجة.</item>
+        <item quantity="zero">انتهى البحث إلى %d نتيجة.</item>
+        <item quantity="one">انتهى البحث إلى نتيجة واحدة (%d).</item>
+        <item quantity="two">انتهى البحث إلى نتيجتَين (%d).</item>
+        <item quantity="few">انتهى البحث إلى %d نتائج.</item>
+        <item quantity="many">انتهى البحث إلى %d نتيجةً.</item>
+    </plurals>
+    <plurals name="annually_frequency_text">
+        <item quantity="other">التكرار كل %1$d %2$s</item>
+        <item quantity="zero">التكرار كل %1$d %2$s</item>
+        <item quantity="one">التكرار كل %1$d %2$s</item>
+        <item quantity="two">التكرار كل %1$d %2$s</item>
+        <item quantity="few">التكرار كل %1$d %2$s</item>
+        <item quantity="many">التكرار كل %1$d %2$s</item>
+    </plurals>
+    <plurals name="birthday_chip_title">
+        <item quantity="other">%d من أعياد الميلاد</item>
+        <item quantity="zero">%d أعياد ميلاد</item>
+        <item quantity="one">عيد ميلاد</item>
+        <item quantity="two">%d عيدا ميلاد</item>
+        <item quantity="few">%d أعياد ميلاد</item>
+        <item quantity="many">%d عيد ميلاد</item>
+    </plurals>
+    <plurals name="calendar_daily_lower">
+        <item quantity="other">كل %d يوم</item>
+        <item quantity="zero">كل %d يوم</item>
+        <item quantity="one">يوميًا</item>
+        <item quantity="two">كل يومَين (%d)</item>
+        <item quantity="few">كل %d أيام</item>
+        <item quantity="many">كل %d يومًا</item>
+    </plurals>
+    <plurals name="calendar_monthly_interval_lower">
+        <item quantity="other">كل %1$d شهر</item>
+        <item quantity="zero">كل %1$d شهر</item>
+        <item quantity="one">شهريًا</item>
+        <item quantity="two">كل شهرَين (%1$d)</item>
+        <item quantity="few">كل %1$d أشهر</item>
+        <item quantity="many">كل %1$d شهرًا</item>
+    </plurals>
+    <plurals name="calendar_weekly_lower">
+        <item quantity="other">كل %1$d أسبوع</item>
+        <item quantity="zero">كل %1$d أسبوع</item>
+        <item quantity="one">أسبوعيًا</item>
+        <item quantity="two">كل أسبوعَين (%1$d)</item>
+        <item quantity="few">كل %1$d أسابيع</item>
+        <item quantity="many">كل %1$d أسبوعًا</item>
+    </plurals>
+    <plurals name="calendar_yearly_interval_lower">
+        <item quantity="other">كل %1$d سنة</item>
+        <item quantity="zero">كل %1$d سنة</item>
+        <item quantity="one">سنويًا</item>
+        <item quantity="two">كل سنتَين (%1$d)</item>
+        <item quantity="few">كل %1$d سنوات</item>
+        <item quantity="many">كل %1$d سنة</item>
+    </plurals>
+    <plurals name="capacity_description">
+        <item quantity="other">%d شخص</item>
+        <item quantity="zero">%d شخص</item>
+        <item quantity="one">شخص واحد</item>
+        <item quantity="two">%d شخصان</item>
+        <item quantity="few">%d أشخاص</item>
+        <item quantity="many">%d شخصًا</item>
+    </plurals>
+    <plurals name="count_duration_accessibility_description">
+        <item quantity="other">ينتهي بعد %d تكرار</item>
+        <item quantity="zero">ينتهي بعد %d تكرار</item>
+        <item quantity="one">ينتهي بعد تكرار واحد</item>
+        <item quantity="two">ينتهي بعد تكرارين (%d)</item>
+        <item quantity="few">ينتهي بعد %d تكرارات</item>
+        <item quantity="many">ينتهي بعد %d تكرارًا</item>
+    </plurals>
+    <plurals name="count_duration_label">
+        <item quantity="other">بعد %d تكرار</item>
+        <item quantity="zero">بعد %d تكرار</item>
+        <item quantity="one">بعد %d تكرار</item>
+        <item quantity="two">بعد تكرارين (%d)</item>
+        <item quantity="few">بعد %d تكرارات</item>
+        <item quantity="many">بعد %d تكرارًا</item>
+    </plurals>
+    <plurals name="daily_frequency_text">
+        <item quantity="other">التكرار كل %1$d %2$s</item>
+        <item quantity="zero">التكرار كل %1$d %2$s</item>
+        <item quantity="one">التكرار كل %1$d %2$s</item>
+        <item quantity="two">التكرار كل %1$d %2$s</item>
+        <item quantity="few">التكرار كل %1$d %2$s</item>
+        <item quantity="many">التكرار كل %1$d %2$s</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">من الأيام</item>
+        <item quantity="zero">من الأيام</item>
+        <item quantity="one">يوم</item>
+        <item quantity="two">يومان</item>
+        <item quantity="few">أيام</item>
+        <item quantity="many">يومًا</item>
+    </plurals>
+    <plurals name="days_before">
+        <item quantity="other">من الأيام قبل</item>
+        <item quantity="zero">من الأيام قبل</item>
+        <item quantity="one">يوم قبل</item>
+        <item quantity="two">يومين قبل</item>
+        <item quantity="few">أيام قبل</item>
+        <item quantity="many">يومًا قبل</item>
+    </plurals>
+    <plurals name="describe_attachments">
+        <item quantity="other">المرفقات: %1$d مرفق</item>
+        <item quantity="zero">المرفقات: %1$d مرفق</item>
+        <item quantity="one">المرفقات: %1$d مرفق</item>
+        <item quantity="two">المرفقات: %1$d مرفقان</item>
+        <item quantity="few">المرفقات: %1$d مرفقات</item>
+        <item quantity="many">المرفقات: %1$d مرفقًا</item>
+    </plurals>
+    <plurals name="done_reminders_title">
+        <item quantity="other">تم %d تذكير</item>
+        <item quantity="zero">تم %d تذكير</item>
+        <item quantity="one">تم %d تذكير واحد</item>
+        <item quantity="two">تم %d تذكيران</item>
+        <item quantity="few">تم %d تذكيرات</item>
+        <item quantity="many">تم %d تذكيرًا</item>
+    </plurals>
+    <plurals name="end_by_count">
+        <item quantity="other">؛ عدد %d مرة</item>
+        <item quantity="zero">؛ عدد %d مرة</item>
+        <item quantity="one">؛ لمرة واحدة</item>
+        <item quantity="two">؛ عدد مرتين (%d)</item>
+        <item quantity="few">؛ عدد %d مرات</item>
+        <item quantity="many">؛ عدد %d مرة</item>
+    </plurals>
+    <plurals name="error_working_location_duration_too_long">
+        <item quantity="other">لا يمكن ضبط أماكن العمل لأكثر من %1$d يوم.</item>
+        <item quantity="zero">لا يمكن ضبط أماكن العمل لأكثر من %1$d يوم.</item>
+        <item quantity="one">لا يمكن ضبط أماكن العمل لأكثر من يوم واحد (%1$d).</item>
+        <item quantity="two">لا يمكن ضبط أماكن العمل لأكثر من يومين (%1$d).</item>
+        <item quantity="few">لا يمكن ضبط أماكن العمل لأكثر من %1$d أيام.</item>
+        <item quantity="many">لا يمكن ضبط أماكن العمل لأكثر من %1$d يومًا.</item>
+    </plurals>
+    <plurals name="files_not_shared_dialog_body">
+        <item quantity="other">‏قد لا يتمكن ضيوفك من الوصول إلى الملفات التي أدرجتها من Drive. قد تحتاج إلى مشاركة الملفات من داخل Google Drive.</item>
+        <item quantity="zero">‏قد لا يتمكن ضيوفك من الوصول إلى الملفات التي أدرجتها من Drive. قد تحتاج إلى مشاركة الملفات من داخل Google Drive.</item>
+        <item quantity="one">‏قد لا يتمكن ضيوفك من الوصول إلى الملف الذي أدرجته من Drive. قد تحتاج إلى مشاركة الملف من داخل Google Drive.</item>
+        <item quantity="two">‏قد لا يتمكن ضيوفك من الوصول إلى الملفين اللذين أدرجتهما من Drive. قد تحتاج إلى مشاركة الملفات من داخل Google Drive.</item>
+        <item quantity="few">‏قد لا يتمكن ضيوفك من الوصول إلى الملفات التي أدرجتها من Drive. قد تحتاج إلى مشاركة الملفات من داخل Google Drive.</item>
+        <item quantity="many">‏قد لا يتمكن ضيوفك من الوصول إلى الملفات التي أدرجتها من Drive. قد تحتاج إلى مشاركة الملفات من داخل Google Drive.</item>
+    </plurals>
+    <plurals name="find_a_time_invisible_attendee">
+        <item quantity="other">+%d آخرون</item>
+        <item quantity="zero">+%d آخرون</item>
+        <item quantity="one">+%d آخر</item>
+        <item quantity="two">+%d آخران</item>
+        <item quantity="few">+%d آخرون</item>
+        <item quantity="many">+%d آخرون</item>
+    </plurals>
+    <plurals name="find_time_duration_hour_label">
+        <item quantity="other">%d ساعة</item>
+        <item quantity="zero">%d ساعات</item>
+        <item quantity="one">%d ساعة</item>
+        <item quantity="two">ساعتان (%d)</item>
+        <item quantity="few">%d ساعات</item>
+        <item quantity="many">%d ساعة</item>
+    </plurals>
+    <plurals name="find_time_duration_minute_label">
+        <item quantity="other">%d دقيقة</item>
+        <item quantity="zero">%d دقائق</item>
+        <item quantity="one">%d دقيقة</item>
+        <item quantity="two">دقيقتان (%d)</item>
+        <item quantity="few">%d دقائق</item>
+        <item quantity="many">%d دقيقة</item>
+    </plurals>
+    <plurals name="fix_permissions_does_not_fix_everything_warning">
+        <item quantity="other">‏ملاحظة: قد لا يزال يتعذر على بعض الضيوف الوصول إلى هذه الملفات. قد تحتاج إلى مشاركة هذه الملفات من داخل Google Drive.</item>
+        <item quantity="zero">‏ملاحظة: قد لا يزال يتعذر على بعض الضيوف الوصول إلى هذه الملفات. قد تحتاج إلى مشاركة هذه الملفات من داخل Google Drive.</item>
+        <item quantity="one">‏ملاحظة: قد لا يزال يتعذر على بعض الضيوف الوصول إلى هذا الملف. قد تحتاج إلى مشاركة هذا الملف من داخل Google Drive.</item>
+        <item quantity="two">‏ملاحظة: قد لا يزال يتعذر على بعض الضيوف الوصول إلى هذين الملفين. قد تحتاج إلى مشاركة هذه الملفات من داخل Google Drive.</item>
+        <item quantity="few">‏ملاحظة: قد لا يزال يتعذر على بعض الضيوف الوصول إلى هذه الملفات. قد تحتاج إلى مشاركة هذه الملفات من داخل Google Drive.</item>
+        <item quantity="many">‏ملاحظة: قد لا يزال يتعذر على بعض الضيوف الوصول إلى هذه الملفات. قد تحتاج إلى مشاركة هذه الملفات من داخل Google Drive.</item>
+    </plurals>
+    <plurals name="fix_permissions_outside_domain_warning_hedgehog">
+        <item quantity="other">"‏لقد اخترت المشاركة مع المدعوّين:&lt;br>&lt;b>%1$s
+&lt;/b>&lt;br>وهم ليسوا ضمن مؤسسة Google Workspace التي تنتمي إليها هذه الملفات."</item>
+        <item quantity="zero">"‏لقد اخترت المشاركة مع المدعوّين:&lt;br>&lt;b>%1$s
+&lt;/b>&lt;br>وهم ليسوا ضمن مؤسسة Google Workspace التي تنتمي إليها هذه الملفات."</item>
+        <item quantity="one">‏لقد اخترت المشاركة مع المدعوّين:&lt;br>&lt;b> %1$s&lt;/b>&lt;br>وهم ليسوا ضمن مؤسسة Google Workspace التي ينتمي إليها هذا الملف.</item>
+        <item quantity="two">"‏لقد اخترت المشاركة مع المدعوّين:&lt;br>&lt;b>%1$s
+&lt;/b>&lt;br>وهم ليسوا ضمن مؤسسة Google Workspace التي ينتمي إليها هذان الملفان."</item>
+        <item quantity="few">"‏لقد اخترت المشاركة مع المدعوّين:&lt;br>&lt;b>%1$s
+&lt;/b>&lt;br>وهم ليسوا ضمن مؤسسة Google Workspace التي تنتمي إليها هذه الملفات."</item>
+        <item quantity="many">"‏لقد اخترت المشاركة مع المدعوّين:&lt;br>&lt;b>%1$s
+&lt;/b>&lt;br>وهم ليسوا ضمن مؤسسة Google Workspace التي تنتمي إليها هذه الملفات."</item>
+    </plurals>
+    <plurals name="guest_count">
+        <item quantity="other">%d من الضيوف</item>
+        <item quantity="zero">%d من الضيوف</item>
+        <item quantity="one">ضيف%d</item>
+        <item quantity="two">ضيفان (%d)</item>
+        <item quantity="few">%d ضيوف</item>
+        <item quantity="many">%d ضيفًا</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">من الساعات</item>
+        <item quantity="zero">من الساعات</item>
+        <item quantity="one">ساعة</item>
+        <item quantity="two">ساعتان</item>
+        <item quantity="few">ساعات</item>
+        <item quantity="many">ساعة</item>
+    </plurals>
+    <plurals name="hours_before">
+        <item quantity="other">من الساعات قبل</item>
+        <item quantity="zero">من الساعات قبل</item>
+        <item quantity="one">ساعة قبل</item>
+        <item quantity="two">ساعتان قبل</item>
+        <item quantity="few">ساعات قبل</item>
+        <item quantity="many">ساعة قبل</item>
+    </plurals>
+    <plurals name="ical_many_events_warning">
+        <item quantity="other">سيضيف هذا %d من الأحداث ولا يمكن التراجع عن هذا الإجراء. هل أنت متأكد؟</item>
+        <item quantity="zero">سيضيف هذا %d من الأحداث ولا يمكن التراجع عن هذا الإجراء. هل أنت متأكد؟</item>
+        <item quantity="one">سيضيف هذا حدثًا %d ولا يمكن التراجع عن هذا الإجراء. هل أنت متأكد؟</item>
+        <item quantity="two">سيضيف هذا حدثين (%d) ولا يمكن التراجع عن هذا الإجراء. هل أنت متأكد؟</item>
+        <item quantity="few">سيضيف هذا %d أحداث ولا يمكن التراجع عن هذا الإجراء. هل أنت متأكد؟</item>
+        <item quantity="many">سيضيف هذا %d حدثًا ولا يمكن التراجع عن هذا الإجراء. هل أنت متأكد؟</item>
+    </plurals>
+    <plurals name="mark_reminders_done_title">
+        <item quantity="other">هل تريد وضع علامة تم على %d تذكير؟</item>
+        <item quantity="zero">هل تريد وضع علامة تم على %d تذكير؟</item>
+        <item quantity="one">هل تريد وضع علامة تم على %d تذكير واحد؟</item>
+        <item quantity="two">هل تريد وضع علامة تم على %d تذكيرين؟</item>
+        <item quantity="few">هل تريد وضع علامة تم على %d تذكيرات؟</item>
+        <item quantity="many">هل تريد وضع علامة تم على %d تذكيرًا؟</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">من الدقائق</item>
+        <item quantity="zero">من الدقائق</item>
+        <item quantity="one">دقيقة</item>
+        <item quantity="two">دقيقتان</item>
+        <item quantity="few">دقائق</item>
+        <item quantity="many">دقيقة</item>
+    </plurals>
+    <plurals name="minutes_before">
+        <item quantity="other">دقيقة</item>
+        <item quantity="zero">دقيقة</item>
+        <item quantity="one">دقيقة</item>
+        <item quantity="two">دقيقة</item>
+        <item quantity="few">دقائق</item>
+        <item quantity="many">دقيقة</item>
+    </plurals>
+    <plurals name="month_view_hidden_events">
+        <item quantity="other">%d حدث آخر</item>
+        <item quantity="zero">%d حدث آخر</item>
+        <item quantity="one">حدث واحد (%d) آخر</item>
+        <item quantity="two">حدثان (%d) آخران</item>
+        <item quantity="few">%d أحداث أخرى</item>
+        <item quantity="many">%d حدثًا آخر</item>
+    </plurals>
+    <plurals name="monthly_frequency_text">
+        <item quantity="other">التكرار كل %1$d %2$s</item>
+        <item quantity="zero">التكرار كل %1$d %2$s</item>
+        <item quantity="one">التكرار كل %1$d %2$s</item>
+        <item quantity="two">التكرار كل %1$d %2$s</item>
+        <item quantity="few">التكرار كل %1$d %2$s</item>
+        <item quantity="many">التكرار كل %1$d %2$s</item>
+    </plurals>
+    <plurals name="more_guests">
+        <item quantity="other">و%1$d مدعوّ آخر</item>
+        <item quantity="zero">و%1$d مدعوّ آخر</item>
+        <item quantity="one">ومدعوّ واحد (%1$d) آخر</item>
+        <item quantity="two">ومدعوّان (%1$d) آخران​</item>
+        <item quantity="few">و%1$d مدعوّون آخرون</item>
+        <item quantity="many">و%1$d مدعوًا آخر</item>
+    </plurals>
+    <plurals name="no_room_suggestions_title">
+        <item quantity="other">%1$d مدعو بدون غرف مقترَحة</item>
+        <item quantity="zero">%1$d مدعو بدون غرف مقترَحة</item>
+        <item quantity="one">مدعو واحد بدون غرف مقترَحة</item>
+        <item quantity="two">مدعوان (%1$d) بدون غرف مقترَحة</item>
+        <item quantity="few">%1$d مدعوين بدون غرف مقترَحة</item>
+        <item quantity="many">%1$d مدعوًا بدون غرف مقترَحة</item>
+    </plurals>
+    <plurals name="num_rooms">
+        <item quantity="other">%1$d غرفة</item>
+        <item quantity="zero">%1$d غرفة</item>
+        <item quantity="one">غرفة واحدة (%1$d)</item>
+        <item quantity="two">غرفتان (%1$d)</item>
+        <item quantity="few">%1$d غرف</item>
+        <item quantity="many">%1$d غرفة</item>
+    </plurals>
+    <plurals name="public_notification_text">
+        <item quantity="other">%1$d إشعار جديد</item>
+        <item quantity="zero">%1$d إشعار جديد</item>
+        <item quantity="one">تلقّيت إشعارًا</item>
+        <item quantity="two">(%1$d) إشعاران جديدان</item>
+        <item quantity="few">%1$d إشعارات جديدة</item>
+        <item quantity="many">%1$d إشعارًا جديدًا</item>
+    </plurals>
+    <plurals name="recurrence_frequency_annually">
+        <item quantity="other">عام</item>
+        <item quantity="zero">عام</item>
+        <item quantity="one">عام واحد</item>
+        <item quantity="two">عامان</item>
+        <item quantity="few">أعوام</item>
+        <item quantity="many">عامًا</item>
+    </plurals>
+    <plurals name="recurrence_frequency_daily">
+        <item quantity="other">يوم</item>
+        <item quantity="zero">يوم</item>
+        <item quantity="one">يوم واحد</item>
+        <item quantity="two">يومان</item>
+        <item quantity="few">أيام</item>
+        <item quantity="many">يومًا</item>
+    </plurals>
+    <plurals name="recurrence_frequency_monthly">
+        <item quantity="other">شهر</item>
+        <item quantity="zero">شهر</item>
+        <item quantity="one">شهر واحد</item>
+        <item quantity="two">شهران</item>
+        <item quantity="few">أشهر</item>
+        <item quantity="many">شهرًا</item>
+    </plurals>
+    <plurals name="recurrence_frequency_weekly">
+        <item quantity="other">أسبوع</item>
+        <item quantity="zero">أسبوع</item>
+        <item quantity="one">أسبوع واحد</item>
+        <item quantity="two">أسبوعان</item>
+        <item quantity="few">أسابيع</item>
+        <item quantity="many">أسبوعًا</item>
+    </plurals>
+    <plurals name="reminder_bundle_description_prefix">
+        <item quantity="other">%d تذكير:</item>
+        <item quantity="zero">%d تذكير:</item>
+        <item quantity="one">%d تذكير واحد:</item>
+        <item quantity="two">%d تذكيران:</item>
+        <item quantity="few">%d تذكيرات:</item>
+        <item quantity="many">%d تذكيرًا:</item>
+    </plurals>
+    <plurals name="reminder_done_bundle_description_prefix">
+        <item quantity="other">تم %d تذكير:</item>
+        <item quantity="zero">تم %d تذكير:</item>
+        <item quantity="one">تم %d تذكير واحد:</item>
+        <item quantity="two">تم %d تذكيران:</item>
+        <item quantity="few">تم %d تذكيرات:</item>
+        <item quantity="many">تم %d تذكيرًا:</item>
+    </plurals>
+    <plurals name="reminders_marked_done">
+        <item quantity="other">تم وضع علامة تم على %d تذكير.</item>
+        <item quantity="zero">تم وضع علامة تم على %d تذكير.</item>
+        <item quantity="one">تم وضع علامة تم على %d تذكير واحد.</item>
+        <item quantity="two">تم وضع علامة تم على %d تذكيرين.</item>
+        <item quantity="few">تم وضع علامة تم على %d تذكيرات.</item>
+        <item quantity="many">تم وضع علامة تم على %d تذكيرًا.</item>
+    </plurals>
+    <plurals name="reminders_migration_dialog_title">
+        <item quantity="other">تحويل %d تذكير إلى مهام</item>
+        <item quantity="zero">تحويل %d تذكير إلى مهام</item>
+        <item quantity="one">تحويل تذكير واحد (%d) إلى مهمة</item>
+        <item quantity="two">تحويل تذكيرَين (%d) إلى مهمتَين</item>
+        <item quantity="few">تحويل %d تذكيرات إلى مهام</item>
+        <item quantity="many">تحويل %d تذكيرًا إلى مهام</item>
+    </plurals>
+    <plurals name="reminders_migration_force_completed_toast">
+        <item quantity="other">أصبحت التذكيرات الآن مهامًا. تم تحويل %1$d تذكير إلى مهام لحساب %2$s.</item>
+        <item quantity="zero">أصبحت التذكيرات الآن مهامًا. تم تحويل %1$d تذكير إلى مهام لحساب %2$s.</item>
+        <item quantity="one">أصبحت التذكيرات الآن مهامًا. تم تحويل تذكير واحد (%1$d) إلى مهمة لحساب %2$s.</item>
+        <item quantity="two">أصبحت التذكيرات الآن مهامًا. تم تحويل تذكيرَين (%1$d) إلى مهمتَين لحساب %2$s.</item>
+        <item quantity="few">أصبحت التذكيرات الآن مهامًا. تم تحويل %1$d تذكيرات إلى مهام لحساب %2$s.</item>
+        <item quantity="many">أصبحت التذكيرات الآن مهامًا. تم تحويل %1$d تذكيرًا إلى مهام لحساب %2$s.</item>
+    </plurals>
+    <plurals name="reminders_migration_keep_only_dialog_title">
+        <item quantity="other">‏سيتوفّر %d تذكير في Google Keep</item>
+        <item quantity="zero">‏سيتوفّر %d تذكير في Google Keep</item>
+        <item quantity="one">‏سيتوفّر تذكير واحد (%d) في Google Keep</item>
+        <item quantity="two">‏سيتوفّر تذكيران (%d) في Google Keep</item>
+        <item quantity="few">‏سيتوفّر %d تذكيرات في Google Keep</item>
+        <item quantity="many">‏سيتوفّر %d تذكيرًا في Google Keep</item>
+    </plurals>
+    <plurals name="reminders_migration_keep_only_reminders_dialog_description_with_account">
+        <item quantity="other">‏في الحساب %s، تم إنشاء كل تذكيراتك في Google Keep ولا يمكن تحويلها إلى مهام. ستتم إزالة التذكيرات من \"تقويم Google\"، ولكن سيظل بإمكانك إدارتها في Keep.</item>
+        <item quantity="zero">‏في الحساب %s، تم إنشاء كل تذكيراتك في Google Keep ولا يمكن تحويلها إلى مهام. ستتم إزالة التذكيرات من \"تقويم Google\"، ولكن سيظل بإمكانك إدارتها في Keep.</item>
+        <item quantity="one">‏في الحساب %s، تم إنشاء التذكير الخاص بك في Google Keep ولا يمكن تحويله إلى مهمة. ستتم إزالة التذكير من \"تقويم Google\"، ولكن سيظل بإمكانك إدارته في Keep.</item>
+        <item quantity="two">‏في الحساب %s، تم إنشاء التذكيرَين في Google Keep ولا يمكن تحويلهما إلى مهمتَين. ستتم إزالة التذكيرَين من \"تقويم Google\"، ولكن سيظل بإمكانك إدارتهما في Keep.</item>
+        <item quantity="few">‏في الحساب %s، تم إنشاء كل تذكيراتك في Google Keep ولا يمكن تحويلها إلى مهام. ستتم إزالة التذكيرات من \"تقويم Google\"، ولكن سيظل بإمكانك إدارتها في Keep.</item>
+        <item quantity="many">‏في الحساب %s، تم إنشاء كل تذكيراتك في Google Keep ولا يمكن تحويلها إلى مهام. ستتم إزالة التذكيرات من \"تقويم Google\"، ولكن سيظل بإمكانك إدارتها في Keep.</item>
+    </plurals>
+    <plurals name="reminders_migration_partial_failure_some_remaining_toast">
+        <item quantity="other">تم تحويل %1$d تذكير فقط إلى مهام للحساب %2$s. ويتبقّى بعض التذكيرات.</item>
+        <item quantity="zero">تم تحويل %1$d تذكير فقط إلى مهام للحساب %2$s. ويتبقّى بعض التذكيرات.</item>
+        <item quantity="one">تم تحويل تذكير واحد (%1$d) فقط إلى مهمة للحساب %2$s. ويتبقّى بعض التذكيرات.</item>
+        <item quantity="two">تم تحويل تذكيرَين (%1$d) فقط إلى مهمتَين للحساب %2$s. ويتبقّى بعض التذكيرات.</item>
+        <item quantity="few">تم تحويل %1$d تذكيرات فقط إلى مهام للحساب %2$s. ويتبقّى بعض التذكيرات.</item>
+        <item quantity="many">تم تحويل %1$d تذكيرًا فقط إلى مهام للحساب %2$s. ويتبقّى بعض التذكيرات.</item>
+    </plurals>
+    <plurals name="reminders_migration_tooltip_remark">
+        <item quantity="other">تم تحويل %d تذكير إلى مهام.</item>
+        <item quantity="zero">تم تحويل %d تذكير إلى مهام.</item>
+        <item quantity="one">تم تحويل تذكير واحد (%d) إلى مَهمّة.</item>
+        <item quantity="two">تم تحويل تذكيرَين (%d) إلى مَهمّتَين.</item>
+        <item quantity="few">تم تحويل %d تذكيرات إلى مهام.</item>
+        <item quantity="many">تم تحويل %d تذكيرًا إلى مهام.</item>
+    </plurals>
+    <plurals name="reminders_migration_tooltip_with_keep_reminders_remark">
+        <item quantity="other">‏تم تحويل %d تذكير إلى مهام. ما مِن تغيير على التذكيرات التي تم إنشاؤها في Google Keep. ستتم إزالتها من \"تقويم Google\"، ولكن سيظل بإمكانك إدارتها في Keep.</item>
+        <item quantity="zero">‏تم تحويل %d تذكير إلى مهام. ما مِن تغيير على التذكيرات التي تم إنشاؤها في Google Keep. ستتم إزالتها من \"تقويم Google\"، ولكن سيظل بإمكانك إدارتها في Keep.</item>
+        <item quantity="one">‏تم تحويل تذكير واحد (%d) إلى مهمة. ما مِن تغيير على التذكيرات التي تم إنشاؤها في Google Keep. ستتم إزالتها من \"تقويم Google\"، ولكن سيظل بإمكانك إدارتها في Keep.</item>
+        <item quantity="two">‏تم تحويل تذكيرَين (%d) إلى مهمتَين. ما مِن تغيير على التذكيرات التي تم إنشاؤها في Google Keep. ستتم إزالتها من \"تقويم Google\"، ولكن سيظل بإمكانك إدارتها في Keep.</item>
+        <item quantity="few">‏تم تحويل %d تذكيرات إلى مهام. ما مِن تغيير على التذكيرات التي تم إنشاؤها في Google Keep. ستتم إزالتها من \"تقويم Google\"، ولكن سيظل بإمكانك إدارتها في Keep.</item>
+        <item quantity="many">‏تم تحويل %d تذكيرًا إلى مهام. ما مِن تغيير على التذكيرات التي تم إنشاؤها في Google Keep. ستتم إزالتها من \"تقويم Google\"، ولكن سيظل بإمكانك إدارتها في Keep.</item>
+    </plurals>
+    <plurals name="reminders_migration_voluntary_completed_keep_only_toast">
+        <item quantity="other">‏تمت إزالة %1$d تذكير من \"تقويم Google\" لحساب %2$s، ولكنها ستظل في Keep.</item>
+        <item quantity="zero">‏تمت إزالة %1$d تذكير من \"تقويم Google\" لحساب %2$s، ولكنها ستظل في Keep.</item>
+        <item quantity="one">‏تمت إزالة تذكير واحد (%1$d) من \"تقويم Google\" لحساب %2$s، ولكنه سيظل في Keep.</item>
+        <item quantity="two">‏تمت إزالة تذكيرَين (%1$d) من \"تقويم Google\" لحساب %2$s، ولكنهما سيظلان في Keep.</item>
+        <item quantity="few">‏تمت إزالة %1$d تذكيرات من \"تقويم Google\" لحساب %2$s، ولكنها ستظل في Keep.</item>
+        <item quantity="many">‏تمت إزالة %1$d تذكيرًا من \"تقويم Google\" لحساب %2$s، ولكنها ستظل في Keep.</item>
+    </plurals>
+    <plurals name="reminders_migration_voluntary_completed_toast">
+        <item quantity="other">تم تحويل %1$d تذكير إلى مهام لحساب %2$s.</item>
+        <item quantity="zero">تم تحويل %1$d تذكير إلى مهام لحساب %2$s.</item>
+        <item quantity="one">تم تحويل تذكير واحد (%1$d) إلى مهمة لحساب %2$s.</item>
+        <item quantity="two">تم تحويل تذكيرَين (%1$d) إلى مهمتَين لحساب %2$s.</item>
+        <item quantity="few">تم تحويل %1$d تذكيرات إلى مهام لحساب %2$s.</item>
+        <item quantity="many">تم تحويل %1$d تذكيرًا إلى مهام لحساب %2$s.</item>
+    </plurals>
+    <plurals name="reminders_title">
+        <item quantity="other">%d تذكير</item>
+        <item quantity="zero">%d تذكير</item>
+        <item quantity="one">%d تذكير واحد</item>
+        <item quantity="two">%d تذكيران</item>
+        <item quantity="few">%d تذكيرات</item>
+        <item quantity="many">%d تذكيرًا</item>
+    </plurals>
+    <plurals name="response_count_accepted">
+        <item quantity="other">%s نعم</item>
+        <item quantity="zero">%s نعم</item>
+        <item quantity="one">%s نعم</item>
+        <item quantity="two">%s نعم</item>
+        <item quantity="few">%s نعم</item>
+        <item quantity="many">%s نعم</item>
+    </plurals>
+    <plurals name="response_count_accepted_in_a_meeting_room">
+        <item quantity="other">%s في غرفة اجتماع</item>
+        <item quantity="zero">%s في غرفة اجتماع</item>
+        <item quantity="one">%s في غرفة اجتماع</item>
+        <item quantity="two">%s في غرفة اجتماع</item>
+        <item quantity="few">%s في غرفة اجتماع</item>
+        <item quantity="many">%s في غرفة اجتماع</item>
+    </plurals>
+    <plurals name="response_count_accepted_virtually">
+        <item quantity="other">%s افتراضيًا</item>
+        <item quantity="zero">%s افتراضيًا</item>
+        <item quantity="one">%s افتراضيًا</item>
+        <item quantity="two">%s افتراضيًا</item>
+        <item quantity="few">%s افتراضيًا</item>
+        <item quantity="many">%s افتراضيًا</item>
+    </plurals>
+    <plurals name="response_count_declined">
+        <item quantity="other">%s لا</item>
+        <item quantity="zero">%s لا</item>
+        <item quantity="one">%s لا</item>
+        <item quantity="two">%s لا</item>
+        <item quantity="few">%s لا</item>
+        <item quantity="many">%s لا</item>
+    </plurals>
+    <plurals name="response_count_need_action">
+        <item quantity="other">%s في انتظار الرد</item>
+        <item quantity="zero">%s في انتظار الرد</item>
+        <item quantity="one">%s في انتظار الرد</item>
+        <item quantity="two">%s في انتظار الرد</item>
+        <item quantity="few">%s في انتظار الرد</item>
+        <item quantity="many">%s في انتظار الرد</item>
+    </plurals>
+    <plurals name="response_count_tentative">
+        <item quantity="other">%s ربما</item>
+        <item quantity="zero">%s ربما</item>
+        <item quantity="one">%s ربما</item>
+        <item quantity="two">%s ربما</item>
+        <item quantity="few">%s ربما</item>
+        <item quantity="many">%s ربما</item>
+    </plurals>
+    <plurals name="room_capacity_description">
+        <item quantity="other">قاعة اجتماعات من أجل %1$d شخص</item>
+        <item quantity="zero">قاعة اجتماعات من أجل %1$d شخص</item>
+        <item quantity="one">قاعة اجتماعات من أجل شخص واحد</item>
+        <item quantity="two">قاعة اجتماعات من أجل %1$d شخصين</item>
+        <item quantity="few">قاعة اجتماعات من أجل %1$d أشخاص</item>
+        <item quantity="many">قاعة اجتماعات من أجل %1$d شخصًا</item>
+    </plurals>
+    <plurals name="short_invisible_all_day_events">
+        <item quantity="other">+%d</item>
+        <item quantity="zero">+%d</item>
+        <item quantity="one">+%d</item>
+        <item quantity="two">+%d</item>
+        <item quantity="few">+%d</item>
+        <item quantity="many">+%d</item>
+    </plurals>
+    <plurals name="smartmail_seats">
+        <item quantity="other">المقاعد %s</item>
+        <item quantity="zero">المقعد %s</item>
+        <item quantity="one">المقعد %s</item>
+        <item quantity="two">المقعدان %s</item>
+        <item quantity="few">المقاعد %s</item>
+        <item quantity="many">المقاعد %s</item>
+    </plurals>
+    <plurals name="smartmail_time_day_offset">
+        <item quantity="other">%d يوم</item>
+        <item quantity="zero">%d يوم</item>
+        <item quantity="one">%d يوم واحد</item>
+        <item quantity="two">%d يومان</item>
+        <item quantity="few">%d أيام</item>
+        <item quantity="many">%d يومًا</item>
+    </plurals>
+    <plurals name="survey_star_rating">
+        <item quantity="other">%1$d نجمة من أصل %2$d</item>
+        <item quantity="zero">%1$d نجمة من أصل %2$d</item>
+        <item quantity="one">نجمة واحدة (%1$d) من أصل %2$d</item>
+        <item quantity="two">نجمتان (%1$d) من أصل %2$d</item>
+        <item quantity="few">%1$d نجوم من أصل %2$d</item>
+        <item quantity="many">%1$d نجمةً من أصل %2$d</item>
+    </plurals>
+    <plurals name="tasks_rollover_chip_title">
+        <item quantity="other">%d غير مكتملة</item>
+        <item quantity="zero">%d مهمة غير مكتملة</item>
+        <item quantity="one">مهمة واحدة (%d) غير مكتملة</item>
+        <item quantity="two">مهمتان (%d) غير مكتملتان</item>
+        <item quantity="few">%d مهام غير مكتملة</item>
+        <item quantity="many">%d مهمة غير مكتملة</item>
+    </plurals>
+    <plurals name="tasks_rollover_dialog_description">
+        <item quantity="other">خلال آخر %d يوم</item>
+        <item quantity="zero">خلال آخر %d يوم</item>
+        <item quantity="one">خلال آخر يوم (%d)</item>
+        <item quantity="two">خلال آخر يومَين (%d)</item>
+        <item quantity="few">خلال آخر %d أيام</item>
+        <item quantity="many">خلال آخر %d يومًا</item>
+    </plurals>
+    <plurals name="weekly_by_day_lower">
+        <item quantity="other">كل %1$d أسبوع في %2$s</item>
+        <item quantity="zero">كل (%1$d) أسبوع %2$s</item>
+        <item quantity="one">أسبوعيًا في %2$s</item>
+        <item quantity="two">كل أسبوعين (%1$d) في %2$s</item>
+        <item quantity="few">كل %1$d أسابيع في %2$s</item>
+        <item quantity="many">كل %1$d أسابيع في %2$s</item>
+    </plurals>
+    <plurals name="weekly_frequency_text">
+        <item quantity="other">التكرار كل %1$d %2$s</item>
+        <item quantity="zero">التكرار كل %1$d %2$s</item>
+        <item quantity="one">التكرار كل %1$d %2$s</item>
+        <item quantity="two">التكرار كل %1$d %2$s</item>
+        <item quantity="few">التكرار كل %1$d %2$s</item>
+        <item quantity="many">التكرار كل %1$d %2$s</item>
+    </plurals>
+    <plurals name="weeks">
+        <item quantity="other">من الأسابيع</item>
+        <item quantity="zero">من الأسابيع</item>
+        <item quantity="one">أسبوع</item>
+        <item quantity="two">أسبوعان</item>
+        <item quantity="few">أسابيع</item>
+        <item quantity="many">أسبوع</item>
+    </plurals>
+    <plurals name="weeks_before">
+        <item quantity="other">من الأسابيع قبل</item>
+        <item quantity="zero">من الأسابيع قبل</item>
+        <item quantity="one">أسبوع قبل</item>
+        <item quantity="two">أسبوعان قبل</item>
+        <item quantity="few">أسابيع قبل</item>
+        <item quantity="many">أسبوعًا قبل</item>
+    </plurals>
+</resources>

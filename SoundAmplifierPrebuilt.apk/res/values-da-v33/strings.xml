@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sound_amplifier_html_description">Lydforstærker gør lave lyde højere, uden at lyde, der i forvejen er høje, bliver endnu højere&lt;br/>&lt;br/> &lt;b>Sådan bruger du Lydforstærker&lt;/b>&lt;br/> 1. Tilslut dine høretelefoner med ledning eller dine Bluetooth-høretelefoner&lt;br/> 2. Start Lydforstærker</string>
+    <string name="sound_amplifier_intro">Brug Lydforstærker med høretelefoner for at forbedre lydkvaliteten omkring dig og på din enhed</string>
+</resources>

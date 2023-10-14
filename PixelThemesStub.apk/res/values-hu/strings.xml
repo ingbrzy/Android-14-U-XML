@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bundle1_color_name">Antracit</string>
+    <string name="bundle2_color_name">Papír</string>
+    <string name="bundle3_color_name">Nap</string>
+    <string name="color_name_monochromatic">Egyszínű</string>
+    <string name="default_color_name">Klasszikus</string>
+    <string name="fruit1_color_name">Sárga és piros, kétszínes paletta</string>
+    <string name="fruit2_color_name">Zöld és narancssárga, kétszínes paletta</string>
+    <string name="fruit3_color_name">Kék és zöld, kétszínes paletta</string>
+    <string name="fruit4_color_name">Világos lila és kék, kétszínes paletta</string>
+    <string name="fruit5_color_name">Rózsaszín és and indigókék, kétszínes paletta</string>
+    <string name="rainbow1_color_name">Piros</string>
+    <string name="rainbow2_color_name">Narancssárga</string>
+    <string name="rainbow3_color_name">Sárga</string>
+    <string name="rainbow4_color_name">Zöld</string>
+    <string name="rainbow5_color_name">Kék</string>
+    <string name="rainbow6_color_name">Indigókék</string>
+    <string name="rainbow7_color_name">Ibolyakék</string>
+</resources>

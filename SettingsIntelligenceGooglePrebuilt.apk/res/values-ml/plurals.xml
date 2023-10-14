@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="other">%d ദിവസം മുമ്പ്</item>
+        <item quantity="one">%d ദിവസം മുമ്പ്</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="other">%d മിനിറ്റ് മുമ്പ്</item>
+        <item quantity="one">%d മിനിറ്റ് മുമ്പ്</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="other">%d വർഷം മുമ്പ്</item>
+        <item quantity="one">%d വർഷം മുമ്പ്</item>
+    </plurals>
+    <plurals name="accessibility_other_devices">
+        <item quantity="other">മറ്റ് %d ഉപകരണങ്ങൾ</item>
+        <item quantity="one">മറ്റ് %d ഉപകരണം</item>
+    </plurals>
+    <plurals name="routines_settings_summary">
+        <item quantity="other">%d നയങ്ങൾ</item>
+        <item quantity="one">ഒരു നയം</item>
+    </plurals>
+</resources>

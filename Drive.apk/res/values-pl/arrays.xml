@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ds_image_enhancement_method_names">
+        <item>Wyłączone</item>
+        <item>Automatycznie</item>
+        <item>Czarno-białe</item>
+        <item>Kolor</item>
+        <item>Pokoloruj rysunek</item>
+    </string-array>
+    <string-array name="ds_jpeg_quality_names">
+        <item>Niska</item>
+        <item>Normalna</item>
+        <item>Wysoka</item>
+    </string-array>
+    <string-array name="ds_pdf_paper_orientation_names">
+        <item>Pionowo</item>
+        <item>Poziomo</item>
+        <item>Automatycznie</item>
+    </string-array>
+    <string-array name="ds_pdf_paper_size_names">
+        <item>US Letter</item>
+        <item>US Legal</item>
+        <item>US Tabloid</item>
+        <item>ISO A3</item>
+        <item>ISO A4</item>
+        <item>ISO A5</item>
+        <item>ISO B4</item>
+        <item>ISO B5</item>
+    </string-array>
+    <string-array name="exo_controls_playback_speeds">
+        <item>0,25x</item>
+        <item>0,5x</item>
+        <item>0,75x</item>
+        <item>Normalna</item>
+        <item>1,25x</item>
+        <item>1,5x</item>
+        <item>2x</item>
+    </string-array>
+</resources>

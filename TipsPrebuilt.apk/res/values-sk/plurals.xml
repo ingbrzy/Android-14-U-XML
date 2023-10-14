@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="setup_info_module_tip_count_text">
+        <item quantity="other">%1$d tipov</item>
+        <item quantity="one">%1$d tip</item>
+        <item quantity="few">%1$d tipy</item>
+        <item quantity="many">%1$d tips</item>
+    </plurals>
+    <plurals name="tip_count_text">
+        <item quantity="other">Pozreli ste si %1$d z %2$d tipov</item>
+        <item quantity="one">Pozreli ste si %1$d z %2$d tipov</item>
+        <item quantity="few">Pozreli ste si %1$d z %2$d tipov</item>
+        <item quantity="many">Pozreli ste si %1$d z %2$d tipov</item>
+    </plurals>
+</resources>

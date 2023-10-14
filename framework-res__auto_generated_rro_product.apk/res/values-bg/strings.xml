@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_error_bad_calibration">Сензорът за отпечатъци не може да се използва. Посетете оторизиран сервиз или g.co/pixel/fingerprintunlock</string>
+    <string name="fingerprint_recalibrate_notification_content">Посетете оторизиран сервиз или g.co/pixel/fingerprintunlock</string>
+    <string name="battery_saver_description_with_learn_more">"С цел удължаване на живота на батерията режимът за запазването ѝ:
+
+• включва тъмната тема;
+• изключва или ограничава активността на заден план, някои визуални ефекти и други функции, като например „Ok Google“;
+• оптимизира връзките ви с мрежата.
+
+"<annotation id="url">Научете повече</annotation></string>
+</resources>

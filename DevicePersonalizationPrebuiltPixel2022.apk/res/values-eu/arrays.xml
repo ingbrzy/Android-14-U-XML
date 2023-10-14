@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="call_captions_typing_predictions_post_system_message">
+        <item>Kaixo, nor da?</item>
+        <item>Kaixo, zer moduz?</item>
+        <item>Itxaron pixka bat, mesedez</item>
+        <item>Deituko al zenidake geroxeago?</item>
+        <item>Kaixo! Eskerrik asko deitzeagatik.</item>
+    </string-array>
+    <string-array name="captions_settings_enable_for_calls_choices_entries">
+        <item>Galdetu beti</item>
+        <item>Beti</item>
+        <item>Desaktibatuta</item>
+    </string-array>
+    <string-array name="captions_settings_typing_voice_names">
+        <item>A ahotsa</item>
+        <item>B ahotsa</item>
+        <item>C ahotsa</item>
+        <item>D ahotsa</item>
+        <item>E ahotsa</item>
+        <item>F ahotsa</item>
+        <item>G ahotsa</item>
+        <item>H ahotsa</item>
+        <item>I ahotsa</item>
+        <item>J ahotsa</item>
+        <item>K ahotsa</item>
+        <item>L ahotsa</item>
+        <item>M ahotsa</item>
+        <item>N ahotsa</item>
+        <item>O ahotsa</item>
+        <item>P ahotsa</item>
+    </string-array>
+    <string-array name="pref_download_policy_entries">
+        <item>Datu-konexioa + wifia</item>
+        <item>Wifia soilik</item>
+        <item>Ez eguneratu</item>
+    </string-array>
+    <string-array name="pref_download_policy_entry_values_placeholder">
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+</resources>

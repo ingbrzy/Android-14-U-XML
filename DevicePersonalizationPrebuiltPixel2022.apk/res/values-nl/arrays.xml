@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="call_captions_typing_predictions_post_system_message">
+        <item>Hallo, wie is dit?</item>
+        <item>Hoi, hoe gaat het?</item>
+        <item>Wacht even</item>
+        <item>Hoi, kun je later terugbellen?</item>
+        <item>Hallo! Bedankt dat je hebt gebeld.</item>
+    </string-array>
+    <string-array name="captions_settings_enable_for_calls_choices_entries">
+        <item>Vraag altijd</item>
+        <item>Altijd</item>
+        <item>Uit</item>
+    </string-array>
+    <string-array name="captions_settings_typing_voice_names">
+        <item>Stem A</item>
+        <item>Stem B</item>
+        <item>Stem C</item>
+        <item>Stem D</item>
+        <item>Stem E</item>
+        <item>Stem F</item>
+        <item>Stem G</item>
+        <item>Stem H</item>
+        <item>Stem I</item>
+        <item>Stem J</item>
+        <item>Stem K</item>
+        <item>Stem L</item>
+        <item>Stem M</item>
+        <item>Stem N</item>
+        <item>Stem O</item>
+        <item>Stem P</item>
+    </string-array>
+    <string-array name="pref_download_policy_entries">
+        <item>Mobiel + wifi</item>
+        <item>Alleen wifi</item>
+        <item>Niet updaten</item>
+    </string-array>
+    <string-array name="pref_download_policy_entry_values_placeholder">
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+</resources>

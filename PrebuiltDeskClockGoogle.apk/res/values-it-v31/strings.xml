@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="analog_gadget">Analogici</string>
+    <string name="digital_gadget">Digitali</string>
+    <string name="analog_widget_clover_clock_name">Trifoglio</string>
+    <string name="analog_widget_clover_content_description">Quadrante a forma di trifoglio</string>
+    <string name="analog_widget_config_activity_title">Seleziona un quadrante</string>
+    <string name="analog_widget_day_clock_name">Giorno</string>
+    <string name="analog_widget_day_content_description">Quadrante con il giorno del mese</string>
+    <string name="analog_widget_numeral_clock_name">Numerale</string>
+    <string name="analog_widget_numeral_content_description">Quadrante con numeri grandi</string>
+    <string name="analog_widget_scallop_clock_name">Conchiglia</string>
+    <string name="analog_widget_scallop_content_description">Quadrante con il giorno della settimana e il mese</string>
+    <string name="cities_widget_config_activity_subtitle">Le città possono essere aggiunte dalla scheda Orologio</string>
+    <string name="cities_widget_config_activity_subtitle_button">"Scegli le città nell'app Orologio"</string>
+    <string name="cities_widget_preview_city_london">Londra</string>
+    <string name="cities_widget_preview_city_mountain_view">Mountain View</string>
+    <string name="clock_widget_opaque_label">Tinta unita</string>
+    <string name="clock_widget_transparent_label">Trasparente</string>
+    <string name="digital_appwidget_config_activity_title">"Scegli lo stile dell'orologio"</string>
+    <string name="digital_cities_gadget">Mondo</string>
+    <string name="digital_cities_gadget_description">"Scegli le città nell'app Orologio"</string>
+    <string name="digital_stacked_gadget">In pila</string>
+    <string name="digital_widgets_preview_alarm">Lun 09:30</string>
+    <string name="stopwatch_gadget_description">"Controlla il cronometro nell'app Orologio"</string>
+</resources>

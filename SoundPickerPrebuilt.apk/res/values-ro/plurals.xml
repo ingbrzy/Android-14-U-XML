@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="track_counts">
+        <item quantity="other">%1$d de sunete</item>
+        <item quantity="one">%1$d sunet</item>
+        <item quantity="few">%1$d sunete</item>
+    </plurals>
+</resources>

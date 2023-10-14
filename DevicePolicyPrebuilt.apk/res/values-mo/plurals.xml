@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_install_failed_multi_app_desc">
+        <item quantity="other">Configurarea nu poate fi finalizată, deoarece %1$d de aplicații obligatorii nu s-au instalat. Contactează direct administratorul de sistem.</item>
+        <item quantity="one">Configurarea nu poate fi finalizată, deoarece %1$d aplicație obligatorie nu s-a instalat. Contactează direct administratorul de sistem.</item>
+        <item quantity="few">Configurarea nu poate fi finalizată, deoarece %1$d aplicații obligatorii nu s-au instalat. Contactează direct administratorul de sistem.</item>
+    </plurals>
+    <plurals name="app_install_failure_title">
+        <item quantity="other">Nu se pot instala aplicațiile</item>
+        <item quantity="one">Aplicația nu poate fi instalată</item>
+        <item quantity="few">Nu se pot instala aplicațiile</item>
+    </plurals>
+    <plurals name="app_install_progress_desc">
+        <item quantity="other">S-au instalat %1$d din %2$d de aplicații</item>
+        <item quantity="one">S-a instalat %1$d din %2$d aplicație</item>
+        <item quantity="few">S-au instalat %1$d din %2$d aplicații</item>
+    </plurals>
+    <plurals name="app_uninstall_button">
+        <item quantity="other">Dezinstalează aplicațiile</item>
+        <item quantity="one">Dezinstalează aplicația</item>
+        <item quantity="few">Dezinstalează aplicațiile</item>
+    </plurals>
+    <plurals name="days_left_message">
+        <item quantity="other">Au mai rămas &lt;annotation id="numeric_time_left">^1&lt;/annotation> de zile</item>
+        <item quantity="one">A mai rămas &lt;annotation id="numeric_time_left">^1&lt;/annotation> zi</item>
+        <item quantity="few">Au mai rămas &lt;annotation id="numeric_time_left">^1&lt;/annotation> zile</item>
+    </plurals>
+    <plurals name="hours_left_message">
+        <item quantity="other">Au mai rămas &lt;annotation id="numeric_time_left">^1&lt;/annotation> de ore</item>
+        <item quantity="one">A mai rămas &lt;annotation id="numeric_time_left">^1&lt;/annotation> oră</item>
+        <item quantity="few">Au mai rămas &lt;annotation id="numeric_time_left">^1&lt;/annotation> ore</item>
+    </plurals>
+    <plurals name="number_of_additional_apps">
+        <item quantity="other">%1$d de aplicații suplimentare</item>
+        <item quantity="one">%1$d aplicație suplimentară</item>
+        <item quantity="few">%1$d aplicații suplimentare</item>
+    </plurals>
+    <plurals name="number_of_required_apps">
+        <item quantity="other">%1$d de aplicații obligatorii</item>
+        <item quantity="one">%1$d aplicație obligatorie</item>
+        <item quantity="few">%1$d aplicații obligatorii</item>
+    </plurals>
+    <plurals name="policy_apps_list_summary">
+        <item quantity="other">%d de aplicații pentru lucru nu pot fi dezinstalate</item>
+        <item quantity="one">%d aplicație pentru lucru nu poate fi dezinstalată</item>
+        <item quantity="few">%d aplicații pentru lucru nu pot fi dezinstalate</item>
+    </plurals>
+    <plurals name="preinstalled_apps">
+        <item quantity="other">S-au instalat %1$d din %2$d de aplicații</item>
+        <item quantity="one">S-a instalat %1$d din %2$d aplicație</item>
+        <item quantity="few">S-au instalat %1$d din %2$d aplicații</item>
+    </plurals>
+    <plurals name="readable_name_applications">
+        <item quantity="other">%1$d de aplicații disponibile (%2$d instalate, %3$d dezactivate)</item>
+        <item quantity="one">%1$d aplicație disponibilă (%2$d instalată, %3$d dezactivată)</item>
+        <item quantity="few">%1$d aplicații disponibile (%2$d instalate, %3$d dezactivate)</item>
+    </plurals>
+</resources>

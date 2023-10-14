@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">მთავარზე გადასვლა</string>
+    <string name="abc_action_bar_up_description">ზემოთ გადასვლა</string>
+    <string name="abc_action_menu_overflow_description">სხვა ვარიანტები</string>
+    <string name="abc_action_mode_done">მზადაა</string>
+    <string name="abc_activity_chooser_view_see_all">ყველას ნახვა</string>
+    <string name="abc_activitychooserview_choose_application">აირჩიეთ აპი</string>
+    <string name="abc_capital_off">გამორთვა</string>
+    <string name="abc_capital_on">ჩართვა</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">შორისი</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">ძიება…</string>
+    <string name="abc_searchview_description_clear">მოთხოვნის გასუფთავება</string>
+    <string name="abc_searchview_description_query">მოთხოვნის ძიება</string>
+    <string name="abc_searchview_description_search">ძიება</string>
+    <string name="abc_searchview_description_submit">მოთხოვნის გადაგზავნა</string>
+    <string name="abc_searchview_description_voice">ხმოვანი ძიება</string>
+    <string name="abc_shareactionprovider_share_with">გაზიარება:</string>
+    <string name="abc_shareactionprovider_share_with_application">%s-ით გაზიარება</string>
+    <string name="abc_toolbar_collapse_description">ჩაკეცვა</string>
+    <string name="activity_resolver_use_always">ყოველთვის</string>
+    <string name="activity_resolver_use_once">მხოლოდ ერთხელ</string>
+    <string name="activity_resolver_work_profiles_support">%1$s-ს არ აქვს სამსახურის პროფილის მხარდაჭერა</string>
+    <string name="call_notification_answer_action">პასუხი</string>
+    <string name="call_notification_answer_video_action">ვიდეო</string>
+    <string name="call_notification_decline_action">უარყოფა</string>
+    <string name="call_notification_hang_up_action">გათიშვა</string>
+    <string name="call_notification_incoming_text">შემომავალი ზარი</string>
+    <string name="call_notification_ongoing_text">მიმდინარე ზარი</string>
+    <string name="call_notification_screening_text">შემომავალი ზარების გაცხრილვა</string>
+    <string name="chooseActivity">აირჩიეთ მოქმედება</string>
+    <string name="chooser_no_direct_share_targets">ვერ იძებნება რეკომენდებული ადამიანები, რომლებთანაც გაზიარება შეიძლება</string>
+    <string name="exclude_link">ბმულის ამოღება</string>
+    <string name="exclude_text">ტექსტის ამოღება</string>
+    <string name="file_preview_a11y_description">ფაილის წინასწარი ვერსიის მინიატურა</string>
+    <string name="forward_intent_to_owner">იყენებთ ამ აპს თქვენს სამუშაო პროფილს მიღმა</string>
+    <string name="forward_intent_to_work">ამ აპს თქვენს სამუშაო პროფილში იყენებთ</string>
+    <string name="image_preview_a11y_description">სურათის წინასწარი ვერსიის მინიატურა</string>
+    <string name="include_link">ბმულის დართვა</string>
+    <string name="include_text">ტექსტის ჩასმა</string>
+    <string name="miniresolver_open_in_personal">გსურთ %s-ის გახსნა თქვენს პირად პროფილში?</string>
+    <string name="miniresolver_open_in_work">გსურთ %s-ის გახსნა თქვენს სამსახურის პროფილში?</string>
+    <string name="miniresolver_use_personal_browser">პირადი ბრაუზერის გამოყენება</string>
+    <string name="miniresolver_use_work_browser">სამსახურის ბრაუზერის გამოყენება</string>
+    <string name="more_files">{count,plural, =1{კიდევ # ფაილი}other{კიდევ # ფაილი}}</string>
+    <string name="noApplications">ვერც ერთი აპი ვერ შეასრულებს ამ ქმედებას.</string>
+    <string name="other_files">{count,plural, =1{+ # ფაილი}other{+ # ფაილი}}</string>
+    <string name="pin_specific_target">%1$s-ის ჩამაგრება</string>
+    <string name="resolver_cant_access_personal_apps_explanation">ამ კონტენტის პირადი აპებით გახსნა შეუძლებელია</string>
+    <string name="resolver_cant_access_work_apps_explanation">ამ კონტენტის სამსახურის აპებით გახსნა შეუძლებელია</string>
+    <string name="resolver_cant_share_with_personal_apps_explanation">ამ კონტენტის პირადი აპებისთვის გაზიარება შეუძლებელია</string>
+    <string name="resolver_cant_share_with_work_apps_explanation">ამ კონტენტის სამსახურის აპებისთვის გაზიარება შეუძლებელია</string>
+    <string name="resolver_cross_profile_blocked">დაბლოკილია თქვენი IT-ადმინისტრატორის მიერ</string>
+    <string name="resolver_no_personal_apps_available">პირადი აპები არ არის</string>
+    <string name="resolver_no_work_apps_available">სამსახურის აპები არ არის</string>
+    <string name="resolver_personal_tab">პირადი</string>
+    <string name="resolver_personal_tab_accessibility">პირადი ხედი</string>
+    <string name="resolver_switch_on_work">პაუზის გაუქმება</string>
+    <string name="resolver_turn_on_work_apps">სამსახურის აპები დაპაუზებულია</string>
+    <string name="resolver_work_tab">სამსახური</string>
+    <string name="resolver_work_tab_accessibility">სამსახურის ხედი</string>
+    <string name="screenshot_edit">რედაქტირება</string>
+    <string name="search_menu_title">ძიება</string>
+    <string name="sharing_files">{count,plural, =1{ზიარდება # ფაილი}other{ზიარდება # ფაილი}}</string>
+    <string name="sharing_files_only">{count,plural, =1{მხოლოდ ფაილი}other{მხოლოდ ფაილები}}</string>
+    <string name="sharing_files_with_link">{count,plural, =1{ფაილი ზიარდება ბმულით}other{# ფაილი ზიარდება ბმულით}}</string>
+    <string name="sharing_files_with_text">{count,plural, =1{ფაილი ზიარდება ტექსტით}other{# ფაილი ზიარდება ტექსტით}}</string>
+    <string name="sharing_images">{count,plural, =1{ზიარდება სურათი}other{ზიარდება # სურათი}}</string>
+    <string name="sharing_images_only">{count,plural, =1{მხოლოდ სურათი}other{მხოლოდ სურათები}}</string>
+    <string name="sharing_images_with_link">{count,plural, =1{სურათი ზიარდება ბმულით}other{# სურათი ზიარდება ბმულით}}</string>
+    <string name="sharing_images_with_text">{count,plural, =1{სურათი ზიარდება ტექსტით}other{# სურათი ზიარდება ტექსტით}}</string>
+    <string name="sharing_link">ზიარდება ბმული</string>
+    <string name="sharing_text">ზიარდება ტექსტი</string>
+    <string name="sharing_videos">{count,plural, =1{ზიარდება ვიდეო}other{ზიარდება # ვიდეო}}</string>
+    <string name="sharing_videos_only">{count,plural, =1{მხოლოდ ვიდეო}other{მხოლოდ ვიდეოები}}</string>
+    <string name="sharing_videos_with_link">{count,plural, =1{ვიდეო ზიარდება ბმულით}other{# ვიდეო ზიარდება ბმულით}}</string>
+    <string name="sharing_videos_with_text">{count,plural, =1{ვიდეო ზიარდება ტექსტით}other{# ვიდეო ზიარდება ტექსტით}}</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="unpin_specific_target">%1$s-ის ჩამაგრების მოხსნა</string>
+    <string name="usb_device_resolve_prompt_warn">ამ აპს არ აქვს მინიჭებული ჩაწერის ნებართვა, მაგრამ შეუძლია ჩაიწეროს აუდიო ამ USB მოწყობილობის მეშვეობით.</string>
+    <string name="use_a_different_app">სხვა აპის გამოყენება</string>
+    <string name="video_preview_a11y_description">ვიდეოს წინასწარი ვერსიის მინიატურა</string>
+    <string name="whichApplication">რა გამოვიყენოთ?</string>
+    <string name="whichApplicationLabel">მოქმედების დასრულება</string>
+    <string name="whichApplicationNamed">მოქმედების შესრულება %1$s აპის დახმარებით</string>
+    <string name="whichEditApplication">რედაქტირება აპით:</string>
+    <string name="whichEditApplicationLabel">რედაქტირება</string>
+    <string name="whichEditApplicationNamed">%1$s აპით რედაქტირება</string>
+    <string name="whichGiveAccessToApplicationLabel">წვდომის მიცემა</string>
+    <string name="whichHomeApplication">აირჩიეთ Home აპი</string>
+    <string name="whichHomeApplicationLabel">სურათის აღბეჭდვა</string>
+    <string name="whichHomeApplicationNamed">%1$s-ის მთავარ აპად გამოყენება</string>
+    <string name="whichImageCaptureApplication">სურათის აღბეჭდვა აპით</string>
+    <string name="whichImageCaptureApplicationLabel">სურათის აღბეჭდვა</string>
+    <string name="whichImageCaptureApplicationNamed">სურათის აღბეჭდვა %1$s აპით</string>
+    <string name="whichOpenHostLinksWith">%1$s ბმულების გახსნა შემდეგით:</string>
+    <string name="whichOpenHostLinksWithApp">%1$s ბმულების %2$s-ით გახსნა</string>
+    <string name="whichOpenLinksWith">ბმულების გახსნა შემდეგით:</string>
+    <string name="whichOpenLinksWithApp">ბმულების გახსნა %1$s-ით</string>
+    <string name="whichSendApplication">გაზიარება</string>
+    <string name="whichSendApplicationLabel">გაზიარება</string>
+    <string name="whichSendApplicationNamed">%1$s აპით გაზიარება</string>
+    <string name="whichSendToApplication">გაგზავნა:</string>
+    <string name="whichSendToApplicationLabel">გაგზავნა</string>
+    <string name="whichSendToApplicationNamed">%1$s აპით გაგზავნა</string>
+    <string name="whichViewApplication">გახსნა აპით</string>
+    <string name="whichViewApplicationLabel">გახსნა</string>
+    <string name="whichViewApplicationNamed">%1$s აპით გახსნა</string>
+</resources>

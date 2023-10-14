@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="call_captions_typing_predictions_post_system_message">
+        <item>Sveiki, kas zvana?</item>
+        <item>Sveiki, kā iet?</item>
+        <item>Lūdzu, uzgaidiet</item>
+        <item>Sveiki, vai varat atzvanīt vēlāk?</item>
+        <item>Sveiki! Paldies par zvanu!</item>
+    </string-array>
+    <string-array name="captions_settings_enable_for_calls_choices_entries">
+        <item>Vaicāt katru reizi</item>
+        <item>Vienmēr</item>
+        <item>Izslēgti</item>
+    </string-array>
+    <string-array name="captions_settings_typing_voice_names">
+        <item>A balss</item>
+        <item>B balss</item>
+        <item>C balss</item>
+        <item>D balss</item>
+        <item>E balss</item>
+        <item>F balss</item>
+        <item>G balss</item>
+        <item>H balss</item>
+        <item>I balss</item>
+        <item>J balss</item>
+        <item>K balss</item>
+        <item>L balss</item>
+        <item>M balss</item>
+        <item>N balss</item>
+        <item>O balss</item>
+        <item>P balss</item>
+    </string-array>
+    <string-array name="pref_download_policy_entries">
+        <item>Mobilie dati un Wi-Fi</item>
+        <item>Tikai Wi-Fi</item>
+        <item>Neatjaunināt</item>
+    </string-array>
+    <string-array name="pref_download_policy_entry_values_placeholder">
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+</resources>

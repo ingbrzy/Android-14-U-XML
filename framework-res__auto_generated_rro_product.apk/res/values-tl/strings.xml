@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_error_bad_calibration">Hindi magamit ang sensor para sa fingerprint. Bumisita sa provider ng pag-aayos o sa g.co/pixel/fingerprintunlock</string>
+    <string name="fingerprint_recalibrate_notification_content">Bumisita sa provider ng pag-aayos o sa g.co/pixel/fingerprintunlock</string>
+    <string name="battery_saver_description_with_learn_more">"Para patagalin ang baterya, ginagawa ng Pantipid ng Baterya ang sumusunod:
+
+• Ino-on ang Madilim na tema
+• Ino-off o pinaghihigpitan ang aktibidad sa background, ilang visual effect, at iba pang feature tulad ng “Hey Google”
+• Ino-optimize ang iyong mga koneksyon sa network
+
+"<annotation id="url">Matuto pa</annotation></string>
+</resources>

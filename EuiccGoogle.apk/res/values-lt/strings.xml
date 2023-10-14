@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">Naršyti aukštyn</string>
+    <string name="abc_action_mode_done">Atlikta</string>
+    <string name="abc_capital_off">IŠJUNGTI</string>
+    <string name="abc_capital_on">ĮJUNGTI</string>
+    <string name="abc_menu_alt_shortcut_label">„Alt“ +</string>
+    <string name="abc_menu_ctrl_shortcut_label">„Ctrl“ +</string>
+    <string name="abc_menu_delete_shortcut_label">„delete“</string>
+    <string name="abc_menu_enter_shortcut_label">„enter“</string>
+    <string name="abc_menu_function_shortcut_label">„Function“ +</string>
+    <string name="abc_menu_meta_shortcut_label">„Meta“ +</string>
+    <string name="abc_menu_shift_shortcut_label">„Shift“ +</string>
+    <string name="abc_menu_space_shortcut_label">„space“</string>
+    <string name="abc_menu_sym_shortcut_label">„Sym“ +</string>
+    <string name="abc_prepend_shortcut_label">„Menu“ +</string>
+    <string name="abc_search_hint">Ieškoti…</string>
+    <string name="abc_searchview_description_clear">Išvalyti užklausą</string>
+    <string name="abc_searchview_description_search">Ieškoti</string>
+    <string name="abc_searchview_description_submit">Pateikti užklausą</string>
+    <string name="abc_searchview_description_voice">Paieška balsu</string>
+    <string name="abc_toolbar_collapse_description">Sutraukti</string>
+    <string name="activation_code_scan_button">Nuskaityti QR kodą</string>
+    <string name="activation_code_text">Įveskite paslaugos teikėjo suteiktą kodą</string>
+    <string name="activation_code_title">Tinklo paslaugos teikėjo pridėjimas</string>
+    <string name="add_profile_title">Pridėti operatorių</string>
+    <string name="asked_for_eid">Aktyvuojama parduotuvėje? Jei atstovas prašo pateikti EID, jį galite %1$s.</string>
+    <string name="back_button_error_msg">Kad būtų išvengta klaidų, šio ekrano negalima uždaryti, kol vykdoma sąranka.</string>
+    <string name="body_check_qr_code_or_go_back">Patikrinkite, ar nuskaitote tinkamą QR kodą.</string>
+    <string name="body_device_is_locked">„%1$s“ užrakino jūsų įrenginį.</string>
+    <string name="body_device_is_locked_no_name">Įrenginys užrakintas.</string>
+    <string name="body_issue_with_sim_profile">Įvyko su SIM kortele susijusi problema. Norėdami išspręsti problemą susisiekite su „%1$s“ numeriu %2$s.</string>
+    <string name="body_issue_with_sim_profile_maximum_attempts">Pasiekėte maksimalų bandymų skaičių. Jei reikia pagalbos prisijungiant, susisiekite su „%1$s“ numeriu %2$s.</string>
+    <string name="body_issue_with_sim_profile_maximum_attempts_no_name">Pasiekėte maksimalų bandymų skaičių. Jei reikia pagalbos prisijungiant, susisiekite su operatoriumi.</string>
+    <string name="body_issue_with_sim_profile_maximum_attempts_no_tel">Pasiekėte maksimalų bandymų skaičių. Jei reikia pagalbos prisijungiant, susisiekite su „%1$s“.</string>
+    <string name="body_issue_with_sim_profile_no_name">Įvyko su SIM kortele susijusi problema. Norėdami išspręsti problemą susisiekite su operatoriumi.</string>
+    <string name="body_issue_with_sim_profile_no_tel">Įvyko su SIM kortele susijusi problema. Norėdami išspręsti problemą susisiekite su „%1$s“.</string>
+    <string name="body_issue_with_sim_profile_used_on_another_device">Ši SIM kortelė naudojama kitame įrenginyje. Norėdami išspręsti problemą susisiekite su „%1$s“ numeriu %2$s.</string>
+    <string name="body_issue_with_sim_profile_used_on_another_device_no_name">Ši SIM kortelė naudojama kitame įrenginyje. Norėdami išspręsti problemą susisiekite su operatoriumi.</string>
+    <string name="body_issue_with_sim_profile_used_on_another_device_no_tel">Ši SIM kortelė naudojama kitame įrenginyje. Norėdami išspręsti problemą susisiekite su „%1$s“.</string>
+    <string name="body_make_sure_not_already_downloaded">"Įsitikinkite, kad pasirinkta SIM kortelė nebuvo atsisiųsta į šį ar kitą įrenginį.
+
+Jei reikia daugiau pagalbos, susisiekite su „%1$s“ numeriu %2$s."</string>
+    <string name="body_make_sure_not_already_downloaded_no_name">"Įsitikinkite, kad pasirinkta SIM kortelė nebuvo atsisiųsta į šį ar kitą įrenginį.
+
+Jei reikia daugiau pagalbos, susisiekite su operatoriumi."</string>
+    <string name="body_make_sure_not_already_downloaded_no_tel">"Įsitikinkite, kad pasirinkta SIM kortelė nebuvo atsisiųsta į šį ar kitą įrenginį.
+
+Jei reikia daugiau pagalbos, susisiekite su „%1$s“."</string>
+    <string name="body_need_wifi_connection">Kad galėtumėte atsisiųsti „eSIM“ kortelę, jums reikės „Wi-Fi“ ryšio.</string>
+    <string name="body_need_wifi_or_mobile_connection">Kad galėtumėte atsisiųsti „eSIM“ kortelę, jums reikės „Wi-Fi“ arba mobiliojo ryšio.</string>
+    <string name="body_not_enough_space_to_download">Nepakanka vietos, kad būtų galima atsisiųsti šią SIM kortelę.</string>
+    <string name="body_sim_has_expired">"Baigėsi „eSIM“ kortelės galiojimo laikas.
+Jei norite gauti naują SIM kortelę, susisiekite su „%1$s“ numeriu %2$s."</string>
+    <string name="body_sim_has_expired_no_name">"Baigėsi „eSIM“ kortelės galiojimo laikas.
+Jei norite gauti naują SIM kortelę, susisiekite su operatoriumi."</string>
+    <string name="body_sim_has_expired_no_tel">"Baigėsi „eSIM“ kortelės galiojimo laikas.
+Jei norite gauti naują SIM kortelę, susisiekite su „%1$s“."</string>
+    <string name="body_something_went_wrong">Bandant suaktyvinti numerį įvyko klaida.</string>
+    <string name="bottomsheet_action_expand_halfway">Išskleisti iki pusės</string>
+    <string name="button_text_close">Uždaryti</string>
+    <string name="button_text_settings">Nustatymai</string>
+    <string name="cancel_button">Atšaukti</string>
+    <string name="cant_get_eid_please_contact_carrier">Kilo problemų ir šiuo metu nepavyko rasti įrenginio EID numerio. Jei reikia pagalbos, susisiekite su operatoriumi.</string>
+    <string name="carrier_confirm_subtitle">Jau turėtumėte būti prisiregistravę prie tinklo</string>
+    <string name="carrier_confirm_title">Patvirtinkite savo tinklą</string>
+    <string name="carrier_selection_msg">Pasirinkite operatorių, kurio paskyrą jau turite ir norite naudoti šiame telefone</string>
+    <string name="carrier_selection_psim">Vietoj to naudoti SIM kortelę</string>
+    <string name="carrier_selection_title">Patvirtinkite operatorių</string>
+    <string name="choose_carrier_title">Pasirinkite norimus naudoti operatorius</string>
+    <string name="choose_number_activating">Suaktyvinama…</string>
+    <string name="choose_number_could_not_activate">Šiuo metu nepavyko suaktyvinti</string>
+    <string name="choose_number_error_no_space">Jei norite naudoti kitus numerius ar tinklus, pirmiausia turėsite atlaisvinti vietos ištrindami bent vieną numerį skiltyje „Nustatymai“</string>
+    <string name="choose_number_error_perm">Jei norite naudoti kitus numerius ar tinklus, kreipkitės pagalbos į tinklo paslaugos teikėjus</string>
+    <string name="choose_number_error_temp">Jei norite naudoti kitus numerius ar tinklus, vėliau suaktyvinkite juos nustatymuose</string>
+    <string name="choose_number_item_summary_unknown">Nežinomas numeris</string>
+    <string name="choose_number_subtitle">{count,plural, =1{Prie šio įrenginio pridėtas 1 numeris, bet vienu metu galima naudoti tik vieną}one{Prie šio įrenginio pridėtas # numeris, bet vienu metu galima naudoti tik vieną}few{Prie šio įrenginio pridėti # numeriai, bet vienu metu galima naudoti tik vieną}many{Prie šio įrenginio pridėta # numerio, bet vienu metu galima naudoti tik vieną}other{Prie šio įrenginio pridėta # numerių, bet vienu metu galima naudoti tik vieną}}</string>
+    <string name="choose_number_title">Norimo naudoti numerio pasirinkimas</string>
+    <string name="choose_second_number_subtitle">Šiame įrenginyje kartu su esamu numeriu galite naudoti ir antrą numerį</string>
+    <string name="choose_second_number_subtitle_with_psim_carrier_name">Šiame įrenginyje kartu su „%1$s“ numeriu galite naudoti ir antrą numerį</string>
+    <string name="choose_second_number_subtitle_with_psim_phone_number">Šiame įrenginyje kartu su %1$s galite naudoti ir antrą numerį</string>
+    <string name="choose_second_number_title">Pasirinkite antrą numerį</string>
+    <string name="common_google_play_services_enable_button">Įgalinti</string>
+    <string name="common_google_play_services_enable_text">„%1$s“ neveiks, jei neįgalinsite „Google Play“ paslaugų.</string>
+    <string name="common_google_play_services_enable_title">Įgalinkite „Google Play“ paslaugas</string>
+    <string name="common_google_play_services_install_button">Įdiegti</string>
+    <string name="common_google_play_services_install_text">Programa „%1$s“ nebus paleidžiama be „Google Play“ paslaugų, kurių nėra įrenginyje.</string>
+    <string name="common_google_play_services_install_title">Gaukite „Google Play“ paslaugas</string>
+    <string name="common_google_play_services_notification_channel_name">„Google Play“ paslaugų pasiekiamumas</string>
+    <string name="common_google_play_services_notification_ticker">„Google Play“ paslaugų klaida</string>
+    <string name="common_google_play_services_unknown_issue">Naudojant programą „%1$s“ kilo problemų dėl „Google Play“ paslaugų. Bandykite dar kartą.</string>
+    <string name="common_google_play_services_unsupported_text">Programa „%1$s“ nebus paleidžiama be „Google Play“ paslaugų, kurių jūsų įrenginys nepalaiko.</string>
+    <string name="common_google_play_services_update_button">Atnaujinti</string>
+    <string name="common_google_play_services_update_text">„%1$s“ nebus paleidžiama, jei neatnaujinsite „Google Play“ paslaugų.</string>
+    <string name="common_google_play_services_update_title">Atnaujinkite „Google Play“ paslaugas</string>
+    <string name="common_google_play_services_updating_text">„%1$s“ nebus paleidžiama be „Google Play“ paslaugų, kurios šiuo metu atnaujinamos.</string>
+    <string name="common_google_play_services_wear_update_text">Reikia naujos versijos „Google Play“ paslaugų. Jos netrukus bus atnaujintos.</string>
+    <string name="common_open_on_phone">Atidaryti telefone</string>
+    <string name="complete_service_setup_text">Suaktyvinote operatoriaus „%1$s“ paslaugą</string>
+    <string name="complete_service_setup_title">„%1$s“ sąranka baigta</string>
+    <string name="complete_update_esim_notification_body_text">Palieskite, kad būtų užbaigtas programinės įrangos atnaujinimas</string>
+    <string name="complete_update_esim_notification_title">Baikite prisijungimo prie mobiliojo ryšio tinklo procesą</string>
+    <string name="confirm_acti_no_space_sub1">Jei norite naudoti kitus numerius, pirmiausia turite atlaisvinti vietos ištrindami šiame įrenginyje esančius numerius. Tai vėliau galėsite atlikti nustatymuose.</string>
+    <string name="confirm_acti_no_space_sub1_multi">Jei norite naudoti kitus numerius ar tinklus, pirmiausia turite atlaisvinti vietos ištrindami šiame įrenginyje esančius numerius. Tai vėliau galėsite atlikti nustatymuose.</string>
+    <string name="confirm_acti_perm_error_sub1">Jei norite naudoti kitus numerius, kreipkitės pagalbos į „%1$s“ numeriu %2$s. Šiam įrenginiui gali reikėti EID numerio:</string>
+    <string name="confirm_acti_perm_error_sub1_multi">Jei norite naudoti kitus numerius ar tinklus, kreipkitės pagalbos į „%1$s“ numeriu %2$s. Šiam įrenginiui gali reikėti EID numerio:</string>
+    <string name="confirm_acti_perm_error_sub1_multi_no_carrier_name">Jei norite naudoti kitus numerius ar tinklus, kreipkitės pagalbos į tinklo paslaugos teikėją. Šiam įrenginiui gali reikėti EID numerio:</string>
+    <string name="confirm_acti_perm_error_sub1_multi_no_phone">Jei norite naudoti kitus numerius ar tinklus, kreipkitės pagalbos į „%1$s“. Šiam įrenginiui gali reikėti EID numerio:</string>
+    <string name="confirm_acti_perm_error_sub1_no_carrier_name">Jei norite naudoti kitus numerius, kreipkitės pagalbos į tinklo paslaugos teikėją. Šiam įrenginiui gali reikėti EID numerio:</string>
+    <string name="confirm_acti_perm_error_sub1_no_eid">Jei norite naudoti kitus numerius, kreipkitės pagalbos į „%1$s“ numeriu %2$s.</string>
+    <string name="confirm_acti_perm_error_sub1_no_eid_multi">Jei norite naudoti kitus numerius ar tinklus, kreipkitės pagalbos į „%1$s“ numeriu %2$s</string>
+    <string name="confirm_acti_perm_error_sub1_no_eid_multi_no_phone">Jei norite naudoti kitus numerius ar tinklus, kreipkitės pagalbos į „%1$s“</string>
+    <string name="confirm_acti_perm_error_sub1_no_eid_no_carrier_name">Jei norite naudoti kitus numerius, kreipkitės pagalbos į tinklo paslaugos teikėją</string>
+    <string name="confirm_acti_perm_error_sub1_no_eid_no_phone">Jei norite naudoti kitus numerius, kreipkitės pagalbos į „%1$s“</string>
+    <string name="confirm_acti_perm_error_sub1_no_phone">Jei norite naudoti kitus numerius, kreipkitės pagalbos į „%1$s“. Šiam įrenginiui gali reikėti EID numerio:</string>
+    <string name="confirm_acti_success_sub_title">Numeris %1$s turi būti parengtas naudoti</string>
+    <string name="confirm_acti_success_sub_title_no_phone">Numeris jau turėtų būti parengtas naudoti</string>
+    <string name="confirm_acti_success_sub_title_w_app">Kad galėtumėte baigti aktyvinti %1$s, turėsite atsisiųsti „%2$s“ programą. Dabar užbaikime telefono sąranką.</string>
+    <string name="confirm_acti_success_sub_title_w_app_no_name">Kad galėtumėte baigti aktyvinti %1$s, turėsite atsisiųsti tinklo paslaugos teikėjo programą. Dabar užbaikime telefono sąranką.</string>
+    <string name="confirm_acti_success_sub_title_w_app_no_name_setting">Kad galėtumėte baigti aktyvinti %1$s, turėsite atsisiųsti tinklo paslaugos teikėjo programą</string>
+    <string name="confirm_acti_success_sub_title_w_app_no_phone">Kad galėtumėte baigti aktyvinti numerį, turėsite atsisiųsti „%1$s“ programą. Dabar užbaikime telefono sąranką.</string>
+    <string name="confirm_acti_success_sub_title_w_app_no_phone_no_name">Kad galėtumėte baigti aktyvinti numerį, turėsite atsisiųsti tinklo paslaugos teikėjo programą. Dabar užbaikime telefono sąranką.</string>
+    <string name="confirm_acti_success_sub_title_w_app_no_phone_no_name_setting">Kad galėtumėte baigti aktyvinti numerį, turėsite atsisiųsti tinklo paslaugos teikėjo programą</string>
+    <string name="confirm_acti_success_sub_title_w_app_no_phone_setting">Kad galėtumėte baigti aktyvinti numerį, turėsite atsisiųsti „%1$s“ programą</string>
+    <string name="confirm_acti_success_sub_title_w_app_setting">Kad galėtumėte baigti aktyvinti %1$s, turėsite atsisiųsti „%2$s“ programą</string>
+    <string name="confirm_acti_success_title">Prisijungta prie „%1$s“</string>
+    <string name="confirm_acti_success_title_no_carrier_name">Tinklas aktyvus</string>
+    <string name="confirm_acti_success_title_with_app">Prisijungti prie „%1$s“ tinklo vėliau</string>
+    <string name="confirm_acti_success_title_with_app_no_name">Prisijunkite prie tinklo vėliau</string>
+    <string name="confirm_acti_temp_error_sub1">Jei norite naudoti kitus numerius, vėliau suaktyvinkite juos skiltyje „Nustatymai“</string>
+    <string name="confirm_acti_temp_error_sub1_multi">Jei norite naudoti kitus numerius ar tinklus, vėliau suaktyvinkite juos skiltyje „Nustatymai“</string>
+    <string name="confirm_code_try_again">Netinkamas kodas. Bandykite dar kartą.</string>
+    <string name="confirm_transfer_single_carrier_dsds_msg">Kai perkelsite %1$s, šis numeris senajame įrenginyje nebeveiks. Užbaigę sąranką galėsite perkelti antrą numerį įdėdami SIM kortelę.</string>
+    <string name="confirm_transfer_single_carrier_msg">Kai perkelsite %1$s, šis numeris senajame įrenginyje nebeveiks</string>
+    <string name="confirm_transfer_single_carrier_title">Perkelti „%1$s“ numerį?</string>
+    <string name="confirmation_code_body_text">Turėjote gauti patvirtinimo kodą iš operatoriaus. Įveskite jį, kad prisijungtumėte prie tinklo.</string>
+    <string name="confirmation_code_body_text_with_carrier">Turėjote gauti patvirtinimo kodą iš „%1$s“. Įveskite jį, kad prisijungtumėte prie tinklo.</string>
+    <string name="confirmation_code_title">Patvirtinimo kodo įvedimas</string>
+    <string name="confirmation_code_what">Kas tai?</string>
+    <string name="contact_carrier_description">Kad nustatytumėte SIM kortelę, turite susisiekti su „%1$s“ tel. Nr. %2$s</string>
+    <string name="contact_carrier_description_eid">EID numeris.</string>
+    <string name="contact_carrier_description_eid_additional">"
+
+Gali reikėti šio įrenginio"</string>
+    <string name="contact_carrier_title">Susisiekimas su „%1$s“</string>
+    <string name="continue_button">Tęsti</string>
+    <string name="copy">Kopijuoti</string>
+    <string name="customer_service_activate_service">Klientų aptarnavimo komandos atstovas, naudodamas EID numerį, gali padėti suaktyvinti paslaugą:</string>
+    <string name="data_plan_select_subtitle">Perkėlus numerį, jis nebeveiks sename įrenginyje</string>
+    <string name="data_plan_select_title">Norimo perkelti numerio pasirinkimas</string>
+    <string name="def_notif_activating_title">„%1$s“ numeris suaktyvinamas…</string>
+    <string name="def_notif_activation_fail_subtitle">Palieskite ir peržiūrėkite išsamią informaciją</string>
+    <string name="def_notif_activation_fail_title">„%1$s“ numerio suaktyvinti nepavyko</string>
+    <string name="def_notif_activation_success_dsds_subtitle">Pasirinkite skambučių, teksto pranešimų ir duomenų nuostatas</string>
+    <string name="def_notif_activation_success_dsds_title">Numeriai turi būti parengti naudoti</string>
+    <string name="def_notif_activation_success_title">„%1$s“ numeris suaktyvintas</string>
+    <string name="default_display_name">SIM kortelė</string>
+    <string name="default_profile_nickname_format">%1$s %2$d</string>
+    <string name="deferred_setup_notification_description">Ready to connect to mobile network</string>
+    <string name="deferred_setup_notification_title">Set you your %1$s SIM</string>
+    <string name="detail_contact_carrier_for_more_help">Jei reikia pagalbos, susisiekite su operatoriumi.</string>
+    <string name="detail_contact_carrier_to_unlock">Norėdami sužinoti, ar galima atrakinti įrenginį, susisiekite su „%1$s“ numeriu %2$s.</string>
+    <string name="detail_contact_carrier_to_unlock_no_name">Norėdami sužinoti, ar galima atrakinti įrenginį, susisiekite su operatoriumi.</string>
+    <string name="detail_contact_carrier_to_unlock_no_tel">Norėdami sužinoti, ar galima atrakinti įrenginį, susisiekite su „%1$s“.</string>
+    <string name="detail_delete_a_profile_before_retrying">Kad atlaisvintumėte vietos, eikite į skiltį „Nustatymai“ ir ištrinkite SIM kortelę. Tada bandykite dar kartą.</string>
+    <string name="detail_may_need_eid_number">EID: %1$s</string>
+    <string name="detail_provide_info_to_carrier">"Operatoriui galite pateikti toliau nurodytą informaciją.
+%1$s
+%2$s"</string>
+    <string name="detail_try_adding_again">Prisijungę pabandykite vėl pridėti mobiliojo ryšio tinklą.</string>
+    <string name="disable_carrier_dialog_text">"Šis įrenginys bus nedelsiant atjungtas nuo tinklo.
+
+Tai atlikus mobiliojo ryšio paslaugų planai nebus atšaukti."</string>
+    <string name="disable_carrier_dialog_text_with_carrier">"Šis įrenginys bus nedelsiant atjungtas nuo „%1$s“ tinklo.
+
+Tai atlikus mobiliojo ryšio paslaugų planai nebus atšaukti."</string>
+    <string name="disable_carrier_dialog_title">Išjungti operatorių?</string>
+    <string name="disable_fail_text">Kažkas nepavyko, todėl operatorius nebuvo išjungtas.</string>
+    <string name="disable_fail_title">Nepavyksta išjungti operatoriaus</string>
+    <string name="disable_profile_title">Išjungti</string>
+    <string name="disabled_profiles_title">Pasiekiami operatoriai</string>
+    <string name="disabling_carrier">Išjungiamas operatorius…</string>
+    <string name="done_button">Atlikta</string>
+    <string name="download_complete_text">Eikite į skiltį „Nustatymai“, kad įjungtumėte šią SIM kortelę</string>
+    <string name="download_complete_text_with_carrier">Norėdami įjungti „%1$s“, eikite į nustatymus</string>
+    <string name="download_complete_title">„eSIM“ kortelė atsisiųsta</string>
+    <string name="download_esim_button">Download eSIM</string>
+    <string name="download_fail_dialog_text">„eSIM“ kortelės negalima atsisiųsti dėl klaidos. Bandykite dar kartą ir, jei problema išlieka, susisiekite su operatoriumi „%1$s“.</string>
+    <string name="download_fail_dialog_text_no_carrier_name">El. SIM negalima atsisiųsti dėl klaidos. Bandykite dar kartą ir, jei problema išlieka, susisiekite su operatoriumi.</string>
+    <string name="download_fail_dialog_title">Nepavyksta atsisiųsti el. SIM</string>
+    <string name="download_sub_multi_carriers_text">{count,plural, =1{Gauname &lt;b>%2$d numerį&lt;/b> iš „%1$s“ ir dar vieno operatoriaus. Tai gali šiek tiek užtrukti.}one{Gauname &lt;b>%2$d numer.&lt;/b> iš „%1$s“ ir dar %3$d operatoriaus. Tai gali šiek tiek užtrukti.}few{Gauname &lt;b>%2$d numer.&lt;/b> iš „%1$s“ ir dar %3$d operatorių. Tai gali šiek tiek užtrukti.}many{Gauname &lt;b>%2$d numer.&lt;/b> iš „%1$s“ ir dar %3$d operatoriaus. Tai gali šiek tiek užtrukti.}other{Gauname &lt;b>%2$d numer.&lt;/b> iš „%1$s“ ir dar %3$d operatorių. Tai gali šiek tiek užtrukti.}}</string>
+    <string name="download_sub_text">{count,plural, =1{Gauname jūsų numerį iš „%1$s“. Tai gali šiek tiek užtrukti.}one{Gauname &lt;b>%2$d numerį&lt;/b> iš „%1$s“. Tai gali šiek tiek užtrukti.}few{Gauname &lt;b>%2$d numerius&lt;/b> iš „%1$s“. Tai gali šiek tiek užtrukti.}many{Gauname &lt;b>%2$d numerio&lt;/b> iš „%1$s“. Tai gali šiek tiek užtrukti.}other{Gauname &lt;b>%2$d numerių&lt;/b> iš „%1$s“. Tai gali šiek tiek užtrukti.}}</string>
+    <string name="download_sub_title">{count,plural, =1{Pridedamas numeris…}one{Pridedami numeriai…}few{Pridedami numeriai…}many{Pridedami numeriai…}other{Pridedami numeriai…}}</string>
+    <string name="download_sub_transform_title">Tikrinama paslauga…</string>
+    <string name="download_switch_confirm_mep_dialog_message">Šiame įrenginyje vienu metu gali būti dvi aktyvios SIM kortelės. Kad galėtumėte atsisiųsti ir naudoti kitą SIM kortelę, išjunkite aktyvią SIM kortelę.</string>
+    <string name="download_switch_confirm_mep_dialog_title">Išjungti SIM ir tęsti</string>
+    <string name="download_web_sub_text">Tai gali užtrukti minutę ar dvi (kartais daugiau)</string>
+    <string name="download_web_sub_title">Nustatoma paslauga…</string>
+    <string name="downloading_no_carrier_name_title">Atsisiunčiama „eSIM“ kortelė…</string>
+    <string name="downloading_with_carrier_name_title">Atsisiunčiama „%1$s“ „eSIM“ kortelė…</string>
+    <string name="dsds_activation_failure_body_msg1">Išimkite SIM kortelę ir vėl įdėkite. Jei problema išlieka, iš naujo paleiskite įrenginį.</string>
+    <string name="dsds_activation_failure_body_msg2">Pabandykite vėl įjungti SIM kortelę. Jei problema išlieka, iš naujo paleiskite įrenginį.</string>
+    <string name="dsds_activation_failure_title">Nepavyko suaktyvinti SIM kortelės</string>
+    <string name="dsds_activation_text">Suaktyvinama SIM kortelė…</string>
+    <string name="dsds_activation_text_in_esim_activation">Atnaujinama…</string>
+    <string name="dsds_choose_number_text">Šiame įrenginyje pasiekiama tiek numerių: %1$d. Tačiau vienu metu galima naudoti tik vieną</string>
+    <string name="dsds_choose_number_title">Pasirinkite norimą naudoti numerį</string>
+    <string name="dsds_choose_second_number_text">Šiame įrenginyje vienu metu galite naudoti 2 numerius. %1$s jau aktyvus.</string>
+    <string name="dsds_choose_second_number_title">Pasirinkite antrą numerį</string>
+    <string name="dsds_learn_more_button">Sužinokite daugiau</string>
+    <string name="dsds_notification_after_reboot_text">Palieskite ir atnaujinkite SIM nustatymus</string>
+    <string name="dsds_notification_after_reboot_text_carrier">Palieskite ir atnaujinkite „%1$s“ nustatymus</string>
+    <string name="dsds_notification_after_reboot_title_carrier">„%1$s“ aktyvus</string>
+    <string name="dsds_notification_after_reboot_title_phone">%1$s aktyvus</string>
+    <string name="dsds_notification_after_suw_text">Pasirinkite aktyvią SIM kortelę arba naudokite 2 SIM korteles vienu metu</string>
+    <string name="dsds_notification_after_suw_title">Nustatykite kitą SIM kortelę</string>
+    <string name="dsds_switch_dialog_no_switch_text">Kad vėliau galėtumėte naudoti mobiliuosius duomenis, skambučių funkcijas ir SMS pranešimus, eikite į tinklo nustatymus</string>
+    <string name="dsds_switch_dialog_no_switch_title">Nėra jokių pasiekiamų aktyvių SIM kortelių</string>
+    <string name="dsds_switch_dialog_progress_text">Perjungiama į „%1$s“…</string>
+    <string name="dsds_switch_dialog_text">„%1$s“ ryšys bus naudojamas mobiliesiems duomenims, skambučiams ir SMS pranešimams</string>
+    <string name="dsds_switch_dialog_title">Naudoti „%1$s“?</string>
+    <string name="eid_not_found">Įrenginio EID nerastas</string>
+    <string name="eid_number">Rodyti išsamią informaciją</string>
+    <string name="eid_qr_code_dialog_error_msg">EID QR kodas nepasiekiamas.</string>
+    <string name="eid_qr_code_dialog_title">Įrenginio EID</string>
+    <string name="enable_carrier_dialog_text">"Šis įrenginys bus prijungtas prie „%1$s“ (vietoj „%2$s“).
+
+Tai atlikus mobiliojo ryšio paslaugų planai nebus atšaukti."</string>
+    <string name="enable_carrier_dialog_text_from_removable">"Šis įrenginys bus prijungtas prie „%1$s“ (vietoj dabartinės SIM kortelės).
+
+Tai atlikus mobiliojo ryšio paslaugų planai nebus atšaukti."</string>
+    <string name="enable_carrier_dialog_text_to_removable">"Šis įrenginys bus prijungtas prie įdėtos SIM kortelės (vietoj „%1$s“).
+
+Tai atlikus mobiliojo ryšio paslaugų planai nebus atšaukti."</string>
+    <string name="enable_carrier_dialog_title">Perjungti operatorių?</string>
+    <string name="enable_fail_text">Negalima perjungti operatoriaus dėl klaidos.</string>
+    <string name="enable_fail_title">Nepavyksta perjungti operatoriaus</string>
+    <string name="enable_profile_title">Įgalinti</string>
+    <string name="enabling_carrier">Prisijungiama prie tinklo…</string>
+    <string name="enter_manually_button">Įvesti kodą neautomatiškai</string>
+    <string name="enter_qr_code_button_title">Įvesti kodą neautomatiškai</string>
+    <string name="erase_sim_confirm_button">Ištrinti</string>
+    <string name="erase_sim_dialog_text">"Ištrynus šią SIM kortelę bus pašalintos „%1$s“ paslaugos iš šio įrenginio.
+
+„%1$s“ paslaugos nebus atšauktos."</string>
+    <string name="erase_sim_dialog_title">Ištrinti šią „eSIM“ kortelę?</string>
+    <string name="erase_sim_fail_text">"Šios SIM kortelės negalima ištrinti dėl klaidos.
+
+Iš naujo paleiskite įrenginį ir bandykite dar kartą."</string>
+    <string name="erase_sim_fail_title">Nepavyko ištrinti SIM kortelės</string>
+    <string name="erasing_carriers">Operatoriai nustatomi iš naujo…</string>
+    <string name="erasing_sim">Ištrinama SIM kortelė…</string>
+    <string name="error_code_text">Klaidos kodas</string>
+    <string name="error_screen_title_multiple_carrier">Tinklai nesuaktyvinti</string>
+    <string name="error_screen_title_single_carrier">Operatoriaus „%1$s“ tinklas nesuaktyvintas</string>
+    <string name="error_screen_title_single_carrier_no_name">Tinklas nesuaktyvintas</string>
+    <string name="esim_setup_channel_id">Tinklo aktyvinimas</string>
+    <string name="esim_warning_title">Atsisiųskite „eSIM“ kortelę</string>
+    <string name="esim_warning_txt_default">Tai pakeičia standartines SIM korteles ir yra taip pat saugu</string>
+    <string name="esim_warning_txt_default_tmo_esim_primary">Prisijunkite prie mobiliojo ryšio tinklo atsisiuntę informaciją, kuri paprastai pateikiama SIM kortelėje. Tai pakeičia standartines SIM korteles ir yra taip pat saugu.</string>
+    <string name="euicc_settings_title">Aparatinės įrangos nustatymai</string>
+    <string name="euicc_title">SIM tvarkyklė</string>
+    <string name="expand_button_title">Išplėstiniai</string>
+    <string name="find_it_here">rasti čia</string>
+    <string name="get_default_sub_title">Tikrinama tinklo informacija…</string>
+    <string name="get_help_ask_for_eid_v2">Operatoriui gali būti reikalingas %1$s, kuris identifikuoja šį telefoną.</string>
+    <string name="get_help_skip_mobile_setup">Praleisti mobiliojo sąranką</string>
+    <string name="get_help_text">Nematote savo numerio? Kreipkitės pagalbos į „%1$s“ tel. Nr. %2$s</string>
+    <string name="get_help_text_multiple_carriers_no_phone">Jei kuris nors operatorius turi daugiau numerių, nei tikėjotės, susisiekite su juo, kad gautumėte pagalbos.</string>
+    <string name="get_help_text_no_phone">Nematote savo numerio? Kreipkitės pagalbos į „%1$s“.</string>
+    <string name="get_help_text_single_carrier">Jei nesitikėjote %3$d numer., susisiekite su „%1$s“ numeriu %2$s, kad gautumėte pagalbos</string>
+    <string name="get_help_text_single_carrier_no_phone">Jei nesitikėjote %2$d numer., susisiekite su „%1$s“, kad gautumėte pagalbos</string>
+    <string name="get_help_text_single_carrier_no_phone_with_eid">Jei nesitikėjote %2$d numer., kreipkitės pagalbos į „%1$s“ Šiam įrenginiui gali reikėti EID numerio:</string>
+    <string name="get_help_title">Gaukite pagalbos dėl sąrankos</string>
+    <string name="get_metadata_fail_title">Nepavyko įkelti mobiliojo tinklo informacijos</string>
+    <string name="help_add_network_info1_msg1_v2">Nepavyksta nuskaityti QR kodo? %1$s</string>
+    <string name="help_add_network_info2_msg1">Prie tinklo taip pat galite prisijungti atlikę šį veiksmą: %1$s</string>
+    <string name="help_add_network_info3">Vis tiek nepavyksta? Kreipkitės pagalbos į tinklo paslaugos teikėją numeriu %1$s</string>
+    <string name="help_add_network_info3_no_phone">Vis tiek nepavyksta? Kreipkitės pagalbos į tinklo paslaugos teikėją.</string>
+    <string name="help_add_network_subtitle">QR kodo ieškokite popieriaus lape, kurį gavote su įrenginiu, arba tinklo paslaugos teikėjo atsiųstame el. laiške.</string>
+    <string name="help_add_network_title">Pagalba pridedant tinklą</string>
+    <string name="insert_psim_button">įdėti standartinę SIM kortelę</string>
+    <string name="insert_text">Jei turite SIM kortelę, įdėkite ją dabar</string>
+    <string name="insert_title">Prisijunkite prie mobiliojo ryšio tinklo</string>
+    <string name="install_system_update_dialog_body_text">Norint atsisiųsti SIM, šiame telefone turi būti įdiegtas naujausias sistemos naujinys. Tai užtruks tik kelias minutes.</string>
+    <string name="install_system_update_dialog_title">Įdiegti sistemos naujinį?</string>
+    <string name="install_update_button">Įdiegti naujinį</string>
+    <string name="insufficient_space_description_q">{count,plural, =1{Kad galėtumėte naudoti numerį, pirmiausia turėsite atlaisvinti vietos iš šio įrenginio ištrindami esamus numerius. Vėliau tai galėsite atlikti skiltyje „Nustatymai“.}one{Kad galėtumėte naudoti numerius, pirmiausia turėsite atlaisvinti vietos iš šio įrenginio ištrindami esamus numerius. Vėliau tai galėsite atlikti skiltyje „Nustatymai“.}few{Kad galėtumėte naudoti numerius, pirmiausia turėsite atlaisvinti vietos iš šio įrenginio ištrindami esamus numerius. Vėliau tai galėsite atlikti skiltyje „Nustatymai“.}many{Kad galėtumėte naudoti numerius, pirmiausia turėsite atlaisvinti vietos iš šio įrenginio ištrindami esamus numerius. Vėliau tai galėsite atlikti skiltyje „Nustatymai“.}other{Kad galėtumėte naudoti numerius, pirmiausia turėsite atlaisvinti vietos iš šio įrenginio ištrindami esamus numerius. Vėliau tai galėsite atlikti skiltyje „Nustatymai“.}}</string>
+    <string name="legal_notices">%1$s, %2$s ir %3$s</string>
+    <string name="low_battery_alert_body_text">Kad atnaujinimas nebūtų pertrauktas, telefoną prijunkite prie maitinimo šaltinio.</string>
+    <string name="low_battery_alert_title">Telefono akumuliatorius senka</string>
+    <string name="manually_add_msg1_v2">Jei turite QR kodą, galite %1$s. Jei parduotuvės atstovas prašo EID numerio, galite %2$s.</string>
+    <string name="mobile_network_connection_alert_description">Jei praleisite šį veiksmą, nebūsite prijungti prie mobiliojo ryšio tinklo. Galite prisijungti vėliau pridėję SIM kortelę „Nustatymų“ skiltyje.</string>
+    <string name="mobile_network_connection_alert_title">Praleisti mobiliojo ryšio tinklo nustatymą?</string>
+    <string name="msg_choose_download_type">Pasirinkite, kaip saugiai suaktyvinti numerį šiame įrenginyje</string>
+    <string name="msg_install_app_notification">Palieskite ir tęskite</string>
+    <string name="msg_portal_intro">Jums reikia prisijungti naudojant operatoriaus „%1$s“ paslaugos naudotojo vardą ir slaptažodį</string>
+    <string name="msg_sign_in_button">Prisijunkite prie operatoriaus „%1$s“ paslaugos</string>
+    <string name="msg_transfer_type_portal">Jums bus reikalingas naudotojo vardas ir slaptažodis</string>
+    <string name="msg_transfer_type_qr">Operatorius „%1$s“ galbūt jį atsiuntė</string>
+    <string name="mtrl_checkbox_state_description_checked">Checked</string>
+    <string name="mtrl_checkbox_state_description_indeterminate">Partially checked</string>
+    <string name="mtrl_checkbox_state_description_unchecked">Not checked</string>
+    <string name="multiple_carrier_download_number_count">{count,plural, =1{1 numeris}one{# numeris}few{# numeriai}many{# numerio}other{# numerių}}</string>
+    <string name="next_button">Kitas</string>
+    <string name="no_licenses_found_error">Licencijų nepavyksta rasti dėl klaidos.</string>
+    <string name="no_qr_code_info_insert_btn">Geriau įdėti SIM kortelę</string>
+    <string name="no_qr_code_info_text">QR kodo ieškokite popieriaus lape, kurį gavote su įrenginiu, arba operatoriaus atsiųstame el. laiške. Jei QR kodo neturite, operatorių galite pridėti vėliau.</string>
+    <string name="no_qr_code_scan_button">Nuskaityti QR kodą</string>
+    <string name="no_qr_code_title">Sąrankos parinktys</string>
+    <string name="no_thanks_button">Ne, ačiū</string>
+    <string name="no_wifi_dialog_message">Naudokite jį, kad galėtumėte atsisiųsti SIM kortelę</string>
+    <string name="no_wifi_dialog_title">Prisijunkite prie „Wi-Fi“</string>
+    <string name="not_set">Nenustatyta</string>
+    <string name="notification_carrier_unknown">{count,plural, =1{1 papildomas numeris paruoštas pridėti}one{# papildomas numeris paruoštas pridėti}few{# papildomi numeriai paruošti pridėti}many{# papildomo numerio paruošta pridėti}other{# papildomų numerių paruošta pridėti}}</string>
+    <string name="notification_channel_ota_update">Operatoriaus naujienos</string>
+    <string name="notification_multiple_carrier_name_known">{count,plural, =1{Operatoriaus „%1$s“ ir dar %2$d numeris paruošti pridėti}one{Operatoriaus „%1$s“ ir dar %2$d numeris paruošti pridėti}few{Operatoriaus „%1$s“ ir dar %2$d numeriai paruošti pridėti}many{Operatoriaus „%1$s“ ir dar %2$d numerio paruošti pridėti}other{Operatoriaus „%1$s“ ir dar %2$d numerių paruošti pridėti}}</string>
+    <string name="notification_single_carrier_name_known">{count,plural, =1{Operatoriaus „%1$s“ numeris paruoštas pridėti}one{Operatoriaus „%1$s“ numeriai paruošti pridėti}few{Operatoriaus „%1$s“ numeriai paruošti pridėti}many{Operatoriaus „%1$s“ numeriai paruošti pridėti}other{Operatoriaus „%1$s“ numeriai paruošti pridėti}}</string>
+    <string name="notification_tap_setup">Palieskite, kad nustatytumėte</string>
+    <string name="open_source_licenses">Atvirojo šaltinio licencijos</string>
+    <string name="operation_code_text">Operacijos ženklo kodas</string>
+    <string name="os_version">OS versija</string>
+    <string name="ota_error_notification_msg">Mobiliojo ryšio paslauga bus tęsiama paleidus iš naujo.</string>
+    <string name="ota_error_notification_title">Nepavyko atnaujinti operatoriaus</string>
+    <string name="ota_notification_msg">Mobiliojo ryšio paslauga bus tęsiama atnaujinus</string>
+    <string name="ota_notification_title">Baigiama atnaujinti operatorių…</string>
+    <string name="perm_error_description_q">{count,plural, =1{Bandant suaktyvinti numerį įvyko klaida. Kreipkitės pagalbos į „%1$s“ numeriu %2$s.}one{Bandant suaktyvinti numerius įvyko klaida. Kreipkitės pagalbos į „%1$s“ numeriu %2$s.}few{Bandant suaktyvinti numerius įvyko klaida. Kreipkitės pagalbos į „%1$s“ numeriu %2$s.}many{Bandant suaktyvinti numerius įvyko klaida. Kreipkitės pagalbos į „%1$s“ numeriu %2$s.}other{Bandant suaktyvinti numerius įvyko klaida. Kreipkitės pagalbos į „%1$s“ numeriu %2$s.}}</string>
+    <string name="perm_error_description_q_multi_carrier">Bandant suaktyvinti numerius įvyko klaida. Kreipkitės pagalbos į tinklo paslaugų teikėjus.</string>
+    <string name="perm_error_description_q_no_phone">{count,plural, =1{Bandant suaktyvinti numerį įvyko klaida. Kreipkitės pagalbos į operatorių „%1$s“.}one{Bandant suaktyvinti numerius įvyko klaida. Kreipkitės pagalbos į operatorių „%1$s“.}few{Bandant suaktyvinti numerius įvyko klaida. Kreipkitės pagalbos į operatorių „%1$s“.}many{Bandant suaktyvinti numerius įvyko klaida. Kreipkitės pagalbos į operatorių „%1$s“.}other{Bandant suaktyvinti numerius įvyko klaida. Kreipkitės pagalbos į operatorių „%1$s“.}}</string>
+    <string name="perm_error_description_q_no_phone_no_carrier_name">{count,plural, =1{Bandant suaktyvinti numerį įvyko klaida. Kreipkitės pagalbos į tinklo paslaugos teikėją.}one{Bandant suaktyvinti numerius įvyko klaida. Kreipkitės pagalbos į tinklo paslaugų teikėjus.}few{Bandant suaktyvinti numerius įvyko klaida. Kreipkitės pagalbos į tinklo paslaugų teikėjus.}many{Bandant suaktyvinti numerius įvyko klaida. Kreipkitės pagalbos į tinklo paslaugų teikėjus.}other{Bandant suaktyvinti numerius įvyko klaida. Kreipkitės pagalbos į tinklo paslaugų teikėjus.}}</string>
+    <string name="perm_error_q_sub2_eid">Gali būti reikalingas šio įrenginio %1$s</string>
+    <string name="pixel_support_page_button">„Pixel“ palaikymo puslapyje</string>
+    <string name="pre_activation_ota_update_complete_subtitle">Programinė įranga sėkmingai atnaujinta. Dabar galite tęsti SIM atsisiuntimą.</string>
+    <string name="pre_activation_ota_update_complete_title">Atnaujinimas baigtas</string>
+    <string name="pre_activation_ota_update_error_msg1">Į telefoną negalima atsisiųsti SIM kortelės.</string>
+    <string name="pre_activation_ota_update_error_msg2_v2">"Vietoj to galite naudoti SIM kortelę arba gauti pagalbos
+%1$s."</string>
+    <string name="pre_activation_ota_update_error_title">Atnaujinimas nebaigtas</string>
+    <string name="pre_activation_ota_update_subtitle">Atlikta %1$d %%. Likite šiame ekrane, kol vyksta atnaujinimas.</string>
+    <string name="pre_activation_ota_update_title">Atnaujinama…</string>
+    <string name="pre_activation_ota_user_consent_msg1">Norint atsisiųsti SIM, reikia naujausios SIM tvarkyklės. Tai užtruks 4–5 minutes.</string>
+    <string name="pre_activation_ota_user_consent_msg2">Kad atnaujinimas nebūtų pertrauktas, neišeikite iš šio ekrano. Kol vyksta atnaujinimas, galimi tik skambučiai pagalbos numeriu.</string>
+    <string name="pre_activation_ota_user_consent_title">Atnaujinti SIM programinę įrangą?</string>
+    <string name="preference_copied">Suvestinė „%1$s“ nukopijuota į iškarpinę.</string>
+    <string name="privacy_policy">Privatumo politika</string>
+    <string name="privacy_warning_message">Tęsdami leidžiate operatoriui „%1$s“ patvirtinti informaciją, kuri identifikuoja šį įrenginį tinkle.</string>
+    <string name="privileged_action_disable_sub_dialog_progress">Išjungiama SIM kortelė…</string>
+    <string name="privileged_action_disable_sub_dialog_text">Jei išjungsite „%1$s“, operatorius „%2$s“ taps aktyvus.</string>
+    <string name="privileged_action_disable_sub_dialog_title">Išjungti „%1$s“?</string>
+    <string name="privileged_action_enable_sub_dialog_title">Įjungti „%1$s“?</string>
+    <string name="privileged_action_switch_psim_dialog_title">Perjungti į SIM kortelę?</string>
+    <string name="privileged_action_switch_sub_dialog_confirm">Perjungti į „%1$s“</string>
+    <string name="privileged_action_switch_sub_dialog_progress">Perjungiama į „%1$s“</string>
+    <string name="privileged_action_switch_sub_dialog_text">"Vienu metu gali būti aktyvi tik viena SIM kortelė.
+
+Perjungus į „%1$s“ jums teikiamos „%2$s“ paslaugos nebus atšauktos."</string>
+    <string name="privileged_action_switch_sub_dialog_text_downloaded">"Vienu metu gali būti aktyvi tik viena SIM kortelė.
+
+Perjungus į „%1$s“ jums teikiamos „%2$s“ paslaugos nebus atšauktos."</string>
+    <string name="privileged_action_switch_sub_dialog_text_no_to">"Vienu metu gali būti aktyvi tik viena SIM kortelė.
+
+Perjungus jums teikiamos „%1$s“ paslaugos nebus atšauktos."</string>
+    <string name="privileged_action_switch_sub_dialog_title">Perjungti į „%1$s“?</string>
+    <string name="privileged_action_turn_on_sub_dialog_progress">Įjungiama: „%1$s“</string>
+    <string name="profile_disabled">Išjungta</string>
+    <string name="profile_disabled_confirmation_body_text">Jei norite suaktyvinti „eSIM“ kortelę, įveskite PIN kodą</string>
+    <string name="profile_disabled_confirmation_title">„eSIM“ kortelė išjungta</string>
+    <string name="profile_enabled">Įgalinta</string>
+    <string name="profile_enabled_with_phone_number">Įgalinta, %1$s</string>
+    <string name="profile_list_action_bar_title">Operatorius</string>
+    <string name="profile_transfer_activation_fail_available_phone_number_description">"Kažkas ne taip. „%1$s“ SIM perdėta į šį įrenginį, bet ji neparuošta naudoti. 
+
+ Kreipkitės pagalbos į „%2$s“ numeriu %3$s.
+
+Šiam įrenginiui gali reikėti EID numerio:
+
+%4$s"</string>
+    <string name="profile_transfer_activation_fail_available_phone_number_title">Nepavyko suaktyvinti numerio</string>
+    <string name="profile_transfer_activation_fail_unavailable_phone_number_description">"Kažkas ne taip. „%1$s“ numeris %2$s perkeltas į šį įrenginį, bet jis neprijungtas prie tinklo. 
+
+ Kreipkitės pagalbos į „%3$s“ numeriu %4$s.
+
+Šiam įrenginiui gali reikėti EID numerio:
+
+%5$s"</string>
+    <string name="profile_transfer_activation_fail_unavailable_phone_number_title">Nepavyko suaktyvinti mobiliojo ryšio tinklo</string>
+    <string name="profile_transfer_connecting_description">Jungiamasi…</string>
+    <string name="profile_transfer_downloading_deferred_notification_content">Jungiamasi prie „%1$s“ serverio…</string>
+    <string name="profile_transfer_downloading_deferred_notification_title">Atsisiunčiama „%1$s“</string>
+    <string name="profile_transfer_error_deferred_notification_title">„%1$s“ perkelti nepavyko</string>
+    <string name="profile_transfer_error_title">„%1$s“ SIM kortelės perkelti nepavyko</string>
+    <string name="profile_transfer_non_recoverable_error_deferred_notification_action">Sužinokite daugiau</string>
+    <string name="profile_transfer_non_recoverable_error_deferred_notification_content">Bandant perkelti SIM kortelę įvyko klaida. Kreipkitės pagalbos į „%1$s“ numeriu %2$s.</string>
+    <string name="profile_transfer_non_recoverable_error_description">"Bandant perkelti SIM kortelę įvyko klaida. Kreipkitės pagalbos į „%1$s“ numeriu %2$s
+
+Šiam įrenginiui gali reikėti EID numerio:
+
+%3$s"</string>
+    <string name="profile_transfer_recoverable_error_deferred_notification_content">Bandant perkelti SIM kortelę įvyko klaida. Jei norite išspręsti šią problemą, galite pabandyti dar kartą</string>
+    <string name="profile_transfer_recoverable_error_description">Bandant perkelti SIM kortelę įvyko klaida.</string>
+    <string name="profile_transfer_retry_button">Bandyti dar kartą</string>
+    <string name="profile_transfer_success_deferred_notification_content">Numeris %1$s turi būti parengtas naudoti</string>
+    <string name="profile_transfer_success_deferred_notification_title">SIM kortelė perkelta sėkmingai</string>
+    <string name="profile_transfer_suw_recoverable_error_description">Bandant perkelti SIM kortelę įvyko klaida. Jei norite išspręsti šią problemą, galite pabandyti dar kartą.</string>
+    <string name="psim_guide_dialog_message">Raskite SIM kortelės dėklą ant telefono krašto. Naudodami SIM kortelės išėmimo įrankį ar sąvaržėlę atidarykite dėklą ir įdėkite SIM kortelę.</string>
+    <string name="psim_guide_dialog_title">SIM kortelės įdėjimas</string>
+    <string name="q_download_sub_text">Tai gali užtrukti kelias minutes</string>
+    <string name="q_download_sub_title">Jungiamasi prie „%1$s“…</string>
+    <string name="q_multiple_carrier_confirm_title">Pasirinkite norimus suaktyvinti tinklus</string>
+    <string name="q_multiple_carrier_metadata_confirm_subtitle">{count,plural, =1{1 numerį galima naudoti šiame įrenginyje. Suaktyvinus tinklo paslaugų teikėjas gali pradėti taikyti mokestį už paslaugą.}one{# numerį galima naudoti šiame įrenginyje. Suaktyvinus tinklo paslaugų teikėjas gali pradėti taikyti mokestį už paslaugą.}few{# numerius galima naudoti šiame įrenginyje. Suaktyvinus tinklo paslaugų teikėjas gali pradėti taikyti mokestį už paslaugą.}many{# numerio galima naudoti šiame įrenginyje. Suaktyvinus tinklo paslaugų teikėjas gali pradėti taikyti mokestį už paslaugą.}other{# numerių galima naudoti šiame įrenginyje. Suaktyvinus tinklo paslaugų teikėjas gali pradėti taikyti mokestį už paslaugą.}}</string>
+    <string name="q_result_download_metadata_text">{count,plural, =1{Šiame įrenginyje galima naudoti vieno operatoriaus „%1$s“ numerį. Prisijungus „%1$s“ gali pradėti taikyti mokestį už paslaugą.}one{Šiame įrenginyje galima naudoti # operatoriaus „%1$s“ numerius. Prisijungus „%1$s“ gali pradėti taikyti mokestį už paslaugą.}few{Šiame įrenginyje galima naudoti # operatorių „%1$s“ numerius. Prisijungus „%1$s“ gali pradėti taikyti mokestį už paslaugą.}many{Šiame įrenginyje galima naudoti # operatoriaus „%1$s“ numerius. Prisijungus „%1$s“ gali pradėti taikyti mokestį už paslaugą.}other{Šiame įrenginyje galima naudoti # operatorių „%1$s“ numerius. Prisijungus „%1$s“ gali pradėti taikyti mokestį už paslaugą.}}</string>
+    <string name="qr_scanner_end_button">Negalite rasti įrenginio?</string>
+    <string name="qr_scanner_failed_msg">Įvyko su fotoaparatu susijusi klaida. Vėliau bandykite dar kartą.</string>
+    <string name="qr_scanner_failed_title">Fotoaparatas nepasiekiamas</string>
+    <string name="qr_scanner_msg">Jei operatorius davė QR kodą, nuskaitykite jį dabar laikydami laukelio centre</string>
+    <string name="qr_scanner_msg_q">Jei „%1$s“ davė QR kodą, nuskaitykite jį dabar laikydami laukelio centre</string>
+    <string name="qr_scanner_msg_q_no_carrier_name">Jei tinklo paslaugos teikėjas suteikė QR kodą, nuskaitykite jį dabar laikydami laukelio centre</string>
+    <string name="qr_scanner_title">Pridėti operatorių naudojant QR kodą</string>
+    <string name="qr_scanner_title_q">Nuskaityti QR kodą, gautą iš „%1$s“</string>
+    <string name="qr_scanner_title_q_no_carrier_name">Nuskaityti QR kodą iš tinklo</string>
+    <string name="reactivate_error_dialog_body">Bandant suaktyvinti numerį įvyko klaida. Vėliau bandykite dar kartą arba iš įdėkite SIM kortelę.</string>
+    <string name="reactivate_error_dialog_title_with_carrier_name">Operatoriaus „%1$s“ tinklas nesuaktyvintas</string>
+    <string name="reactivate_error_dialog_title_without_carrier_name">SIM kortelė nesuaktyvinta</string>
+    <string name="reason_code_text">Priežasties kodas</string>
+    <string name="reboot_button_title">Paleiskite telefoną iš naujo</string>
+    <string name="remove_carrier_dialog_text_disabled">"Šio įrenginio nebebus galima prijungti prie „%1$s“.
+
+Tai atlikus mobiliojo ryšio paslaugų planai nebus atšaukti."</string>
+    <string name="remove_carrier_dialog_text_enabled">"Šis įrenginys bus nedelsiant atjungtas nuo „%1$s“ tinklo.
+
+Tai atlikus mobiliojo ryšio paslaugų planai nebus atšaukti."</string>
+    <string name="remove_carrier_dialog_title">Ištrinti operatorių?</string>
+    <string name="remove_fail_text">Kažkas nepavyko, todėl operatorius nebuvo ištrintas.</string>
+    <string name="remove_fail_title">Nepavyko ištrinti operatoriaus</string>
+    <string name="remove_profile_title">Ištrinti</string>
+    <string name="removing_carrier">Ištrinamas operatorius…</string>
+    <string name="res_activate_profile_later_button">Suaktyvinti vėliau</string>
+    <string name="res_activation_button">Prisijungti</string>
+    <string name="res_continue_info1_general_multi_carriers">{count,plural, =1{Deja, nepavyko pridėti numerių iš „%1$s“ ir dar %2$d operatoriaus.}one{Deja, nepavyko pridėti numerių iš „%1$s“ ir dar %2$d operatoriaus.}few{Deja, nepavyko pridėti numerių iš „%1$s“ ir dar %2$d operatorių.}many{Deja, nepavyko pridėti numerių iš „%1$s“ ir dar %2$d operatoriaus.}other{Deja, nepavyko pridėti numerių iš „%1$s“ ir dar %2$d operatorių.}}</string>
+    <string name="res_continue_info1_general_no_carrier">{count,plural, =1{Deja, nepavyko pridėti &lt;b>1 numerio&lt;/b> iš jūsų operatoriaus.}one{Deja, nepavyko pridėti jūsų numerių iš jokių operatorių.}few{Deja, nepavyko pridėti jūsų numerių iš jokių operatorių.}many{Deja, nepavyko pridėti jūsų numerių iš jokių operatorių.}other{Deja, nepavyko pridėti jūsų numerių iš jokių operatorių.}}</string>
+    <string name="res_continue_info1_general_single_carrier">{count,plural, =1{Deja, nepavyko pridėti &lt;b>%2$d numerio&lt;/b> iš „%1$s“.}one{Deja, nepavyko pridėti &lt;b>%2$d numerio&lt;/b> iš „%1$s“.}few{Deja, nepavyko pridėti &lt;b>%2$d numerių&lt;/b> iš „%1$s“.}many{Deja, nepavyko pridėti &lt;b>%2$d numerio&lt;/b> iš „%1$s“.}other{Deja, nepavyko pridėti &lt;b>%2$d numerių&lt;/b> iš „%1$s“.}}</string>
+    <string name="res_continue_info1_no_mem_multi_carriers">{count,plural, =1{Neužteko vietos pridėti numerių iš „%1$s“ ir dar %2$d operatoriaus.}one{Neužteko vietos pridėti numerių iš „%1$s“ ir dar %2$d operatoriaus.}few{Neužteko vietos pridėti numerių iš „%1$s“ ir dar %2$d operatorių.}many{Neužteko vietos pridėti numerių iš „%1$s“ ir dar %2$d operatoriaus.}other{Neužteko vietos pridėti numerių iš „%1$s“ ir dar %2$d operatorių.}}</string>
+    <string name="res_continue_info1_no_mem_no_carrier">{count,plural, =1{Neužteko vietos pridėti &lt;b>1 numerį&lt;/b>.}one{Neužteko vietos pridėti numerių iš jokių operatorių.}few{Neužteko vietos pridėti numerių iš jokių operatorių.}many{Neužteko vietos pridėti numerių iš jokių operatorių.}other{Neužteko vietos pridėti numerių iš jokių operatorių.}}</string>
+    <string name="res_continue_info1_no_mem_single_carrier">{count,plural, =1{Neužteko vietos pridėti &lt;b>%2$d numerį&lt;/b> iš „%1$s“.}one{Neužteko vietos pridėti &lt;b>%2$d numerį&lt;/b> iš „%1$s“.}few{Neužteko vietos pridėti &lt;b>%2$d numerius&lt;/b> iš „%1$s“.}many{Neužteko vietos pridėti &lt;b>%2$d numerio&lt;/b> iš „%1$s“.}other{Neužteko vietos pridėti &lt;b>%2$d numerių&lt;/b> iš „%1$s“.}}</string>
+    <string name="res_continue_info_item_2">Jei neturite paslaugos, pagalbos kreipkitės į „%1$s“</string>
+    <string name="res_continue_info_item_2_no_carrier_name">Jei neturite paslaugos, pagalbos kreipkitės į operatorių</string>
+    <string name="res_continue_text_partial_complete_multiple_carriers">{count,plural, =1{Pridėjote &lt;b>%1$d numer.&lt;/b> iš „%2$s“ ir „%3$s“}=2{Pridėjote &lt;b>%1$d numer.&lt;/b> iš „%2$s“, „%3$s“ ir dar %4$d operatorių}one{Pridėjote &lt;b>%1$d numer.&lt;/b> iš „%2$s“, „%3$s“ ir dar %4$d operatoriaus}few{Pridėjote &lt;b>%1$d numer.&lt;/b> iš „%2$s“, „%3$s“ ir dar %4$d operatorių}many{Pridėjote &lt;b>%1$d numer.&lt;/b> iš „%2$s“, „%3$s“ ir dar %4$d operatoriaus}other{Pridėjote &lt;b>%1$d numer.&lt;/b> iš „%2$s“, „%3$s“ ir dar %4$d operatorių}}</string>
+    <string name="res_continue_text_partial_complete_single_carrier">{count,plural, =1{Pridėjote &lt;b>%1$d numerį&lt;/b> iš „%2$s“}one{Pridėjote &lt;b>%1$d numerį&lt;/b> iš „%2$s“}few{Pridėjote &lt;b>%1$d numerius&lt;/b> iš „%2$s“}many{Pridėjote &lt;b>%1$d numerio&lt;/b> iš „%2$s“}other{Pridėjote &lt;b>%1$d numerių&lt;/b> iš „%2$s“}}</string>
+    <string name="res_continue_title_all_success">{count,plural, =1{Telefono numeris pridėtas}one{# numeris pridėtas}few{# numeriai pridėti}many{# numerio pridėta}other{# numerių pridėta}}</string>
+    <string name="res_continue_title_partial_success">Pridėta numerių: %1$d iš %2$d</string>
+    <string name="res_download_button">Atsisiųsti</string>
+    <string name="res_enter_pin_button">Įvesti PIN kodą</string>
+    <string name="res_need_help_button">Reikia pagalbos?</string>
+    <string name="res_start_button">Pradėti</string>
+    <string name="reset_button">Nustatyti iš naujo</string>
+    <string name="reset_dialog_carriers_body">Ištrinti visus operatorius iš įrenginio? Šio veiksmo anuliuoti negalima.</string>
+    <string name="reset_dialog_carriers_title">Nustatyti iš naujo operatorius?</string>
+    <string name="reset_fail_text">Kažkas nepavyko, todėl operatoriai nebuvo nustatyti iš naujo.</string>
+    <string name="reset_fail_title">Nepavyksta iš naujo nustatyti operatorių</string>
+    <string name="reset_screen_text_bottom">Tai atlikus mobiliojo ryšio paslaugų planai nebus atšaukti.</string>
+    <string name="reset_screen_text_top">Tai atlikus iš įrenginio bus pašalinti visi operatoriai.</string>
+    <string name="reset_screen_title">Operatorių nustatymas iš naujo</string>
+    <string name="result_connect_title">Prisijungti prie „%1$s“?</string>
+    <string name="result_download_metadata_text">{count,plural, =1{1 operatoriaus „%1$s“ numerį galima naudoti šiame įrenginyje.}one{# operatoriaus „%1$s“ numerį galima naudoti šiame įrenginyje.}few{# operatoriaus „%1$s“ numerius galima naudoti šiame įrenginyje.}many{# operatoriaus „%1$s“ numerio galima naudoti šiame įrenginyje.}other{# operatoriaus „%1$s“ numerių galima naudoti šiame įrenginyje.}}</string>
+    <string name="result_download_text">{count,plural, =1{„%1$s“ numerį galima pridėti jūsų telefone}one{&lt;b>%2$d numerį&lt;/b> iš „%1$s“ galima pridėti šiame telefone}few{&lt;b>%2$d numerius&lt;/b> iš „%1$s“ galima pridėti šiame telefone}many{&lt;b>%2$d numerio&lt;/b> iš „%1$s“ galima pridėti šiame telefone}other{&lt;b>%2$d numerių&lt;/b> iš „%1$s“ galima pridėti šiame telefone}}</string>
+    <string name="result_download_title">Atsisiųsti „%1$s“ „eSIM“ kortelę?</string>
+    <string name="scan_it_now">nuskaityti dabar</string>
+    <string name="send_feedback">Siųsti atsiliepimą</string>
+    <string name="set_up_button">Set up</string>
+    <string name="settings_gear_label">Nustatymai</string>
+    <string name="sim_action_switch_sub_dialog_carrier_list_item_for_turning_off">Išjungti „%1$s“</string>
+    <string name="sim_action_switch_sub_dialog_info_outline_for_turning_off">Išjungus SIM kortelę, paslauga nebus atšaukta</string>
+    <string name="sim_card_label">SIM kortelė</string>
+    <string name="sim_illustration_bottom_alt_text">Laikydami ekraną prieš save, raskite įkrovimo prievadą. SIM kortelės dėklas yra įkrovimo prievado kairėje, netoli telefono apačios. Dėklas yra plokščias su mažais krašteliais kiekvienoje pusėje. Kairiojoje dėklo pusėje yra nedidelė skylutė. Norėdami atidaryti dėklą, įkiškite sąvaržėlės galiuką ar SIM kortelės išėmimo įrankį į skylutę. Norėdami įdėti SIM kortelę, sulygiuokite jos išpjovą su dėklu. SIM kortelė telpa tik viena puse.</string>
+    <string name="sim_illustration_bottom_left_alt_text">Laikydami ekraną prieš save, raskite įkrovimo prievadą. Braukite pirštu telefono kairiuoju kraštu aukštyn. SIM kortelės dėklas yra plokščias su mažais krašteliais kiekvienoje pusėje. Netoli dėklo viršaus yra nedidelė skylutė. Norėdami atidaryti dėklą, įkiškite sąvaržėlės galiuką ar SIM kortelės išėmimo įrankį į skylutę. Norėdami įdėti SIM kortelę, sulygiuokite jos išpjovą su dėklu. SIM kortelė telpa tik viena puse.</string>
+    <string name="sim_illustration_top_left_alt_text">Laikydami ekraną prieš save, raskite įkrovimo prievadą. Braukite pirštu telefono kairiuoju kraštu aukštyn. SIM kortelės dėklas yra plokščias su mažais krašteliais kiekvienoje pusėje. Netoli dėklo viršaus yra nedidelė skylutė. Norėdami atidaryti dėklą, įkiškite sąvaržėlės galiuką ar SIM kortelės išėmimo įrankį į skylutę. Norėdami įdėti SIM kortelę, sulygiuokite jos išpjovą su dėklu. SIM kortelė telpa tik viena puse.</string>
+    <string name="sim_locked_text">"Šiame telefone šiuo metu taikomas kito operatoriaus pasirinkimo ribojimas. Turite naudoti tinkamą SIM kortelę.
+
+Kai įdėsite SIM kortelę, gali praeiti kelios sekundės, kol ji bus suaktyvinta."</string>
+    <string name="sim_locked_title">SIM kortelė nepalaikoma</string>
+    <string name="sim_missing_activity_esim_button_title">Atsisiųsti naują „eSIM“ kortelę</string>
+    <string name="sim_missing_activity_esim_transfer_button_title">Perkelti SIM kortelę iš seno telefono</string>
+    <string name="sim_missing_activity_psim_hint">Sužinokite, kaip naudoti SIM kortelę</string>
+    <string name="sim_missing_activity_subtitle_no_psim">Atsisiųskite „eSIM“ kortelę arba įdėkite SIM kortelę dabar.</string>
+    <string name="sim_missing_activity_subtitle_psim_exists">"Jei norite įdėti kitą SIM kortelę, atsisiųskite naują „eSIM“ kortelę.
+
+Jei norite naudoti kitą SIM kortelę, pirmiausia pašalinkite šiuo metu esančią telefone"</string>
+    <string name="sim_missing_activity_subtitle_tmo_esim_primary">Galite atsisiųsti SIM kortelę arba įdėti SIM kortelę dabar</string>
+    <string name="sim_missing_activity_subtitle_with_psim">Kad galėtumėte naudoti naują SIM kortelę, turėsite pašalinti kortelę, šiuo metu esančią įrenginyje</string>
+    <string name="sim_missing_activity_with_tmo_esim_primary_button_title">Atsisiųsti SIM kortelę</string>
+    <string name="sim_ready_message">Numeris anksčiau buvo nustatytas šiame telefone</string>
+    <string name="sim_ready_message_carrier_app">Kad galėtumėte baigti aktyvinti %1$s, turėsite atsisiųsti programą „%2$s“. Dabar užbaikime telefono sąranką.</string>
+    <string name="sim_ready_message_invalid_phone_number_carrier_app">Kad galėtumėte baigti aktyvinti numerį, turėsite atsisiųsti programą „%1$s“. Dabar užbaikime telefono sąranką.</string>
+    <string name="sim_ready_title">Rasta „eSIM“ kortelė</string>
+    <string name="sim_ready_title_carrier_app">Prisijungti prie operatoriaus „%1$s“ tinklo vėliau</string>
+    <string name="skip_button">Praleisti</string>
+    <string name="status_title">Būsena</string>
+    <string name="subject_code_text">Temos kodas</string>
+    <string name="sud_back_button_label">Atgal</string>
+    <string name="sud_more_button_label">Daugiau</string>
+    <string name="sud_next_button_label">Kitas</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="suw_carrier_support_to_complete_activation_no_carrier_v2">Jei norite suaktyvinti paslaugą, susisiekite su operatoriumi, kad gautumėte pagalbos.</string>
+    <string name="suw_default_failed_msg_no_carrier">Deja, kažkas nepavyko ir jokių telefono numerių nebuvo pridėta</string>
+    <string name="suw_failed_title">Nebaigta nustatyti</string>
+    <string name="suw_pii_sent_msg">Tam tikra įrenginio informacija, kurią reikia nustatyti, bus siunčiama „Google“, jūsų operatoriui ir jų partneriams</string>
+    <string name="suw_setting_up_phone_info">Liko mažiau nei minutė</string>
+    <string name="suw_setting_up_phone_title">Nustatomas telefonas…</string>
+    <string name="suw_sim_missing_activity_for_delayed_setup_decription">"When you're done setting up your phone, go to Settings to connect to your mobile network. Or, if you have a SIM card, insert it now."</string>
+    <string name="suw_sim_missing_activity_for_delayed_setup_title">Connect to mobile network after setup</string>
+    <string name="switch_button">Perjungti</string>
+    <string name="switch_confirm_mep_dialog_message">Šiame įrenginyje vienu metu gali būti dvi aktyvios SIM kortelės.</string>
+    <string name="switch_confirm_mep_dialog_title">Išjunkite SIM kortelę, jei norite naudoti „%1$s“</string>
+    <string name="switch_confirm_message">„%1$s“ bus kol kas atjungtas</string>
+    <string name="switch_confirm_message_no_carrier">Mobiliojo ryšio tinklas bus kol kas atjungtas</string>
+    <string name="switch_confirm_new_title">Naudokite „Wi‑Fi“, kad galėtumėte atsisiųsti SIM kortelę</string>
+    <string name="switch_confirm_no_active_profile_message">Leiskite tinklo paslaugos teikėjui atsisiųsti SIM kortelę</string>
+    <string name="switch_confirm_no_active_profile_title">SIM kortelė netrukus bus atsisiųsta</string>
+    <string name="switch_confirm_no_wifi_message">Galėsite naudoti kitą tinklą</string>
+    <string name="switch_confirm_no_wifi_title">Atjungti nuo „%1$s“?</string>
+    <string name="switch_confirm_no_wifi_title_no_carrier">Atjungti nuo mobiliojo ryšio tinklo?</string>
+    <string name="switch_restriction_message_to_connect_to">Jei norite vietoj „%1$s“ prisijungti prie kito operatoriaus „%2$s“ tinklo, pirmiausia išimkite „%1$s“ SIM kortelę ir bandykite dar kartą.</string>
+    <string name="switch_restriction_message_to_switch_from">Jei norite vietoj „%1$s“ prisijungti prie kito operatoriaus tinklo, pirmiausia išimkite „%1$s“ SIM kortelę ir bandykite dar kartą.</string>
+    <string name="switch_restriction_title_remove_sim">SIM kortelės pašalinimas</string>
+    <string name="sys_notification_5g_enable_dsds_text">"Šiame įrenginyje vienu metu gali būti dvi aktyvios SIM kortelės.
+
+Naudojant dvi SIM korteles, šiame telefone bus galima naudoti tik 4G. %1$s"</string>
+    <string name="sys_notification_after_dsds_reboot_text">Palieskite, kad užbaigtumėte kitos SIM kortelės sąranką</string>
+    <string name="sys_notification_after_dsds_reboot_title">Paruošta naudoti 2 SIM korteles vienu metu</string>
+    <string name="sys_notification_enable_dsds_text">Šiame įrenginyje vienu metu gali būti 2 aktyvios SIM kortelės. Jei norite toliau naudoti 1 SIM kortelę vienu metu, palieskite „Ne, ačiū“.</string>
+    <string name="sys_notification_enable_dsds_title">Naudoti 2 SIM korteles?</string>
+    <string name="sys_notification_no_thanks">Ne, ačiū</string>
+    <string name="sys_notification_reboot">Paleisti iš naujo</string>
+    <string name="sys_notification_restart_text">Kad galėtumėte pradėti, paleiskite įrenginį iš naujo. Tada galėsite pridėti kitą SIM kortelę.</string>
+    <string name="sys_notification_restart_title">Paleisti įrenginį iš naujo?</string>
+    <string name="sys_notification_selected_text">Mobiliojo ryšio tinklas pakeistas</string>
+    <string name="sys_notification_switched_title">Perjungta į „%1$s“</string>
+    <string name="sys_notification_switched_title_no_carrier_name">Perjungta į kitą operatorių</string>
+    <string name="sys_notification_title">Operatoriaus keitimas</string>
+    <string name="temp_error_description_q">{count,plural, =1{Bandant suaktyvinti numerį įvyko klaida. Vėliau galite bandyti atlikti tai skiltyje „Nustatymai“.}one{Bandant suaktyvinti numerius įvyko klaida. Vėliau galite bandyti atlikti tai skiltyje „Nustatymai“.}few{Bandant suaktyvinti numerius įvyko klaida. Vėliau galite bandyti atlikti tai skiltyje „Nustatymai“.}many{Bandant suaktyvinti numerius įvyko klaida. Vėliau galite bandyti atlikti tai skiltyje „Nustatymai“.}other{Bandant suaktyvinti numerius įvyko klaida. Vėliau galite bandyti atlikti tai skiltyje „Nustatymai“.}}</string>
+    <string name="terms_of_service">Paslaugų teikimo sąlygos</string>
+    <string name="text_bottom_transfer_carrier_info">Nematote savo operatoriaus? Susisiekite su operatoriumi, jei reikia pagalbos.</string>
+    <string name="title_app_required">Prisijungti prie operatoriaus „%1$s“ tinklo vėliau</string>
+    <string name="title_cannot_connect_to_network_no_name">Nepavyksta prisijungti prie tinklo</string>
+    <string name="title_cannot_download">Nepavyksta atsisiųsti SIM kortelės</string>
+    <string name="title_choose_download_type">Suaktyvinkite „%1$s“ numerį</string>
+    <string name="title_choose_transfer_type">Pasirinkite „%1$s“ numerio perkėlimo būdą</string>
+    <string name="title_incorrect_qr_code">Netinkamas QR kodas</string>
+    <string name="title_install_app_notification">Gaukite operatoriaus „%1$s“ programą ir nustatykite savo numerį</string>
+    <string name="title_network_not_activated">Tinklas nesuaktyvintas</string>
+    <string name="title_no_connection">Nepavyksta prisijungti prie interneto</string>
+    <string name="title_portal_intro">„%1$s“ numerio perkėlimas</string>
+    <string name="title_profile_already_downloaded">SIM kortelė jau atsisiųsta</string>
+    <string name="title_transfer_type_portal">Prisijunkite prie operatoriaus „%1$s“ paskyros</string>
+    <string name="title_transfer_type_qr">Nuskaityti QR kodą</string>
+    <string name="transfer_button">Perkelti</string>
+    <string name="transfer_device_transfer_error">(negalima perkelti)</string>
+    <string name="transfer_in_device_name">%1$s%2$s</string>
+    <string name="transfer_profile_downloading_description">Galite tęsti „%1$s“ sąranką</string>
+    <string name="transfer_single_description_with_esim">"%1$s will be transferred to this phone.
+
+After you transfer your SIM to this phone, it will no longer work on your other device."</string>
+    <string name="transfer_single_description_with_psim">"You can convert your SIM card into an eSIM and
+transfer it to this phone. After it's been
+converted, your SIM card can't be used again."</string>
+    <string name="transfer_single_psim_hint">Learn how to use a SIM card</string>
+    <string name="transfer_single_psim_sub_info">Or, insert the SIM card now.</string>
+    <string name="transfer_single_subItem_title_with_number">Neteisingas numeris?</string>
+    <string name="transfer_single_subItem_title_without_number_esim">Netinkama „eSIM“ kortelė?</string>
+    <string name="transfer_single_subItem_title_without_number_unknown">Netinkama SIM kortelė?</string>
+    <string name="transfer_single_title">Transfer %1$s SIM?</string>
+    <string name="transfer_subItem_desc">Verčiau atsisiųskite naują „eSIM“ kortelę</string>
+    <string name="transfer_subItem_title_with_number">Neteisingi numeriai?</string>
+    <string name="transfer_subItem_title_without_number_esim">Netinkamos „eSIM“ kortelės?</string>
+    <string name="transfer_subItem_title_without_number_unknown">Netinkamos SIM kortelės?</string>
+    <string name="transfer_title_unknown_sim">Pasirinkite norimą perkelti SIM kortelę</string>
+    <string name="transfer_title_with_number">Pasirinkite norimą perkelti numerį</string>
+    <string name="transfer_title_without_number">Pasirinkite norimą perkelti „eSIM“ kortelę</string>
+    <string name="update_button">Atnaujinti</string>
+    <string name="use_different_network">Naudoti kitą tinklą</string>
+    <string name="use_different_network_button">Naudoti kitą tinklą</string>
+    <string name="user_consent_download_active_profile_body_text">Atsisiunčiant „%1$s“ SIM kortelė bus išjungta</string>
+    <string name="user_consent_download_mobile_data_body_text">SIM kortelė bus atsisiųsta naudojant mobiliuosius duomenis</string>
+    <string name="user_consent_download_no_name_body_text">Atsisiunčiant aktyvi SIM kortelė bus išjungta</string>
+    <string name="user_consent_download_over_wifi_title">Naudoti „Wi‑Fi“ atsisiunčiant SIM kortelę?</string>
+    <string name="user_consent_download_ss_no_profile_title">Leisti operatoriui atsisiųsti SIM kortelę?</string>
+    <string name="user_consent_download_ss_no_profile_wifi_body_text">SIM kortelė bus atsisiųsta naudojant „Wi‑Fi“</string>
+    <string name="user_consent_download_switch_body_text">"Kad galėtumėte atsisiųsti ir naudoti kitą SIM kortelę, išjunkite „%1$s“.
+
+Išjungus „%1$s“ paslauga nebus atšaukta."</string>
+    <string name="user_consent_download_switch_dsds_no_name_body_text">"Kad galėtumėte atsisiųsti ir naudoti kitą SIM kortelę, išjunkite aktyvią SIM kortelę.
+
+Išjungus SIM kortelę paslauga nebus atšaukta."</string>
+    <string name="user_consent_download_switch_dsds_no_name_title">Išjungti SIM kortelę?</string>
+    <string name="user_consent_download_switch_no_profile_body_text">SIM kortelė bus naudojama iš karto atsisiuntus</string>
+    <string name="user_consent_download_switch_ss_no_name_body_text">"Kad galėtumėte atsisiųsti ir naudoti kitą SIM kortelę, išjunkite aktyvią SIM kortelę.
+
+Išjungus SIM kortelę paslauga nebus atšaukta."</string>
+    <string name="user_consent_download_switch_ss_no_name_title">Išjungti SIM kortelę?</string>
+    <string name="user_consent_switch_dsds_body_text">"Šiame įrenginyje gali būti tik viena aktyvi „eSIM“ kortelė.
+
+„%1$s“ kortelė bus išjungta, bet paslauga nebus atšaukta."</string>
+    <string name="user_consent_switch_dsds_no_name_body_text">"Šiame įrenginyje gali būti tik viena aktyvi „eSIM“ kortelė.
+
+Dabartinė SIM kortelė bus išjungta, bet paslauga nebus atšaukta."</string>
+    <string name="user_consent_switch_mep_dsds_body_text">„%1$s“ bus išjungta, bet paslauga nebus atšaukta.</string>
+    <string name="user_consent_switch_mep_dsds_no_name_body_text">Dabartinė SIM kortelė bus išjungta, bet paslauga nebus atšaukta.</string>
+    <string name="user_consent_switch_no_name_title">Naudoti naują SIM kortelę?</string>
+    <string name="user_consent_switch_ss_body_text">"Šiame įrenginyje gali būti tik 1 aktyvi SIM kortelė.
+
+„%1$s“ kortelė bus išjungta, bet paslauga nebus atšaukta."</string>
+    <string name="user_consent_switch_ss_no_name_body_text">"Šiame įrenginyje gali būti tik 1 aktyvi SIM kortelė.
+
+Dabartinė SIM kortelė bus išjungta, bet paslauga nebus atšaukta."</string>
+    <string name="user_consent_switch_title">Naudoti „%1$s“?</string>
+    <string name="v7_preference_off">IŠJUNGTA</string>
+    <string name="v7_preference_on">ĮJUNGTA</string>
+    <string name="wait_msg">Luktelėkite…</string>
+    <string name="wrong_code_dialog_text">"Kai kurie operatoriaus reikalauja patvirtinimo kodo papildomai saugai užtikrinti. Kodą galite rasti:
+
+• ant popieriaus lapo, kurį gavote su įrenginiu;
+• iš operatoriaus gautame el. laiške;
+• į seną įrenginį išsiųstame teksto pranešime."</string>
+    <string name="yes_button">Taip</string>
+</resources>

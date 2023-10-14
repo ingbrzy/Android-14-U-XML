@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d uut märguannet</item>
+        <item quantity="one">%d uus märguanne</item>
+    </plurals>
+    <plurals name="survey_star_rating">
+        <item quantity="other">%1$d tärni %2$d-st</item>
+        <item quantity="one">%1$d tärn %2$d-st</item>
+    </plurals>
+</resources>

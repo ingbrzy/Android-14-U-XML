@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="azure_title">Көгілдір жорға торғай</string>
+    <string name="blackswan_title">Қарақу</string>
+    <string name="cockatoo_title">Какаду</string>
+    <string name="come_alive_title">Жанды тұсқағаздар</string>
+    <string name="feathers_attribution">Фотосурет авторы: Эндрю Цукерман</string>
+    <string name="feathers_description">Түсі мен қауырсыны анық көрсетілген құс бейнесі</string>
+    <string name="feathers_title">Қауырсындар</string>
+    <string name="greenwinged_title">Көк қанатты ара тотықұсы</string>
+    <string name="king_title">Патшалық күшіген</string>
+    <string name="living_universe_title">Тірі әлем</string>
+    <string name="photos_memory_gallery_title">Естеліктеріңіз</string>
+    <string name="pied_title">Ала қарға</string>
+    <string name="ringnecked_title">Шеңбер мойын тотықұс</string>
+    <string name="seagull_title">Шағала</string>
+</resources>

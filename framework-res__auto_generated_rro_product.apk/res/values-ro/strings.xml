@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_error_bad_calibration">Nu se poate folosi senzorul de amprentă. Vizitează un furnizor de servicii de reparații sau accesează g.co/pixel/fingerprintunlock</string>
+    <string name="fingerprint_recalibrate_notification_content">Vizitează un furnizor de servicii de reparații sau accesează g.co/pixel/fingerprintunlock</string>
+    <string name="battery_saver_description_with_learn_more">"Pentru a mări autonomia bateriei, Economisirea bateriei:
+
+•·activează tema întunecată;
+•·dezactivează sau restricționează activitatea în fundal, unele efecte vizuale și alte funcții, cum ar fi „Ok Google”;
+• optimizează conexiunile la rețea
+
+"<annotation id="url">Aflați mai multe</annotation></string>
+</resources>

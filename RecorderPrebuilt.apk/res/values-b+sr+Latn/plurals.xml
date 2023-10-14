@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dlg_message_deletion_confirmation">
+        <item quantity="other">Snimci će se trajno izbrisati. Ova radnja ne može da se opozove.</item>
+        <item quantity="one">Snimci će se trajno izbrisati. Ova radnja ne može da se opozove.</item>
+        <item quantity="few">Snimci će se trajno izbrisati. Ova radnja ne može da se opozove.</item>
+    </plurals>
+    <plurals name="dlg_message_deletion_permanent_confirmation">
+        <item quantity="other">Nisu napravljene rezervne kopije snimaka. Oni će biti trajno izbrisani. Ne možete da opozovete ovu radnju.</item>
+        <item quantity="one">Nisu napravljene rezervne kopije snimaka. Oni će biti trajno izbrisani. Ne možete da opozovete ovu radnju.</item>
+        <item quantity="few">Nisu napravljene rezervne kopije snimaka. Oni će biti trajno izbrisani. Ne možete da opozovete ovu radnju.</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_confirmation">
+        <item quantity="other">Želite li da izbrišete snimke?</item>
+        <item quantity="one">Želite li da izbrišete snimke?</item>
+        <item quantity="few">Želite li da izbrišete snimke?</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_permanent_confirmation">
+        <item quantity="other">Želite li da trajno izbrišete ove snimke?</item>
+        <item quantity="one">Želite li da trajno izbrišete ove snimke?</item>
+        <item quantity="few">Želite li da trajno izbrišete ove snimke?</item>
+    </plurals>
+    <plurals name="download_failure_description_storage_full">
+        <item quantity="other">Preuzimanje snimaka nije uspelo jer je memorijski prostor uređaja pun. Dodirnite da biste pregledali.</item>
+        <item quantity="one">Preuzimanje snimaka nije uspelo jer je memorijski prostor uređaja pun. Dodirnite da biste pregledali.</item>
+        <item quantity="few">Preuzimanje snimaka nije uspelo jer je memorijski prostor uređaja pun. Dodirnite da biste pregledali.</item>
+    </plurals>
+    <plurals name="downloading_description">
+        <item quantity="other">Preuzima se %1$d snimaka</item>
+        <item quantity="one">Preuzima se %1$d snimak</item>
+        <item quantity="few">Preuzimaju se %1$d snimka</item>
+    </plurals>
+    <plurals name="og_backup_failed_title">
+        <item quantity="other">Nije uspelo pravljenje rezervne kopije %1$d stavki</item>
+        <item quantity="one">Nije uspelo pravljenje rezervne kopije %1$d stavke</item>
+        <item quantity="few">Nije uspelo pravljenje rezervne kopije %1$d stavke</item>
+    </plurals>
+    <plurals name="og_backup_items_left">
+        <item quantity="other">Preostalo je %1$d stavki</item>
+        <item quantity="one">Preostala je %1$d stavka</item>
+        <item quantity="few">Preostale su %1$d stavke</item>
+    </plurals>
+    <plurals name="og_backup_items_stopped_title">
+        <item quantity="other">%1$d stavki nema rezervnu kopiju</item>
+        <item quantity="one">%1$d stavka nema rezervnu kopiju</item>
+        <item quantity="few">%1$d stavke nemaju rezervnu kopiju</item>
+    </plurals>
+    <plurals name="peoplekit_chips_copied_recipients">
+        <item quantity="other">Kopirali ste %d primalaca</item>
+        <item quantity="one">Kopirali ste %d primaoca</item>
+        <item quantity="few">Kopirali ste %d primaoca</item>
+    </plurals>
+    <plurals name="search_results_count">
+        <item quantity="other">%1$d rezultata</item>
+        <item quantity="one">%1$d rezultat</item>
+        <item quantity="few">%1$d rezultata</item>
+    </plurals>
+    <plurals name="search_results_position">
+        <item quantity="other">^1/^2 rezultata</item>
+        <item quantity="one">^1/^2 rezultat</item>
+        <item quantity="few">^1/^2 rezultata</item>
+    </plurals>
+    <plurals name="search_results_position_content_description">
+        <item quantity="other">%1$d od %2$d rezultata</item>
+        <item quantity="one">%1$d od %2$d rezultata</item>
+        <item quantity="few">%1$d od %2$d rezultata</item>
+    </plurals>
+    <plurals name="selected_recording_quantity">
+        <item quantity="other">Izabrano je %1$d</item>
+        <item quantity="one">Izabran je %1$d</item>
+        <item quantity="few">Izabrana su %1$d</item>
+    </plurals>
+    <plurals name="snackbar_message_download_failed_storage_full">
+        <item quantity="other">Memorijski prostor uređaja je pun. Preuzimanje snimaka nije uspelo.</item>
+        <item quantity="one">Memorijski prostor uređaja je pun. Preuzimanje snimaka nije uspelo.</item>
+        <item quantity="few">Memorijski prostor uređaja je pun. Preuzimanje snimaka nije uspelo.</item>
+    </plurals>
+    <plurals name="speaker_count">
+        <item quantity="other">%1$d zvučnika</item>
+        <item quantity="one">%1$d zvučnik</item>
+        <item quantity="few">%1$d zvučnika</item>
+    </plurals>
+    <plurals name="uploading_description">
+        <item quantity="other">Otprema se %1$d snimaka</item>
+        <item quantity="one">Otprema se %1$d snimak</item>
+        <item quantity="few">Otpremaju se %1$d snimka</item>
+    </plurals>
+</resources>

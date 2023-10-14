@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">교차 기기 서비스</string>
+    <string name="app_name_generic">앱</string>
+    <string name="app_stream_error_generic">앱 공유 중에 오류가 발생했습니다.</string>
+    <string name="app_stream_init_error_generic">Chromebook과 앱을 공유할 수 없습니다.</string>
+    <string name="audio_permission_rationale">앱 공유를 위한 마이크 권한이 사용 중지되었습니다.</string>
+    <string name="cancel_button_label">취소</string>
+    <string name="chromebook_keyboard">Chromebook 키보드</string>
+    <string name="chromebook_mouse">Chromebook 마우스</string>
+    <string name="chromebook_touchscreen">Chromebook 터치스크린</string>
+    <string name="connect_device">휴대전화를 원격 기기(%1$s)에 연결 중</string>
+    <string name="decline_button_label">거부</string>
+    <string name="development_notification_channel_name">개발</string>
+    <string name="device_camera_cannot_access">Chromebook에서 기기 카메라에 액세스할 수 없습니다.</string>
+    <string name="done_button_label">완료</string>
+    <string name="enable_button_label">사용</string>
+    <string name="foreground_service_notification_channel_name">일반</string>
+    <string name="foreground_service_notification_content">탭하여 설정 변경</string>
+    <string name="foreground_service_notification_title">{0,plural, =1{기기 #대에 연결됨}other{기기 #대에 연결됨}}</string>
+    <string name="interactive_streaming_generic_notification">Chromebook에 %1$s 앱 스트리밍 및 알림 동기화 중</string>
+    <string name="interactive_streaming_individual_notification">%1$s 앱을 스트리밍하고 %2$s 알림을 동기화하는 중</string>
+    <string name="interactive_streaming_notification">Chromebook으로 스트리밍 중</string>
+    <string name="keyboard_name">교차 기기 키보드</string>
+    <string name="lock_screen_notif_warning_content">잠금 화면에서 알림을 사용 설정하세요.</string>
+    <string name="lock_screen_notif_warning_title">알림이 전달되지 않음</string>
+    <string name="mouse_name">교차 기기 마우스</string>
+    <string name="new_connection_confirm">확인</string>
+    <string name="new_connection_deny">거부</string>
+    <string name="new_connection_title">문자열이 일치하는지 확인하세요</string>
+    <string name="notification_access_missing">알림 액세스 권한 필요</string>
+    <string name="notification_access_missing_description">Chromebook에서 알림을 열려면 알림 액세스 권한을 사용 설정하세요.</string>
+    <string name="notification_channel_name">일반</string>
+    <string name="notification_listener_label">Chromebook으로 앱 공유</string>
+    <string name="open_source_licenses">오픈소스 라이선스</string>
+    <string name="phone_permission_rationale">앱 공유를 위한 전화 통화 권한이 사용 중지되었습니다.</string>
+    <string name="prompt_switch_languages">Shift + 스페이스를 눌러서 휴대전화의 Gboard 언어 전환</string>
+    <string name="settings_button">설정</string>
+    <string name="stop_sharing_button">스트리밍 종료</string>
+    <string name="stream_termination_proximity_warning">휴대전화가 너무 멀리 있습니다. 스트리밍을 계속하려면 가까이 가져오세요.</string>
+    <string name="substitute_app_name">시스템</string>
+    <string name="summary_disable_wirecutter">사용 안함</string>
+    <string name="summary_enable_wirecutter">사용</string>
+    <string name="touchscreen_name">교차 기기 터치스크린</string>
+</resources>

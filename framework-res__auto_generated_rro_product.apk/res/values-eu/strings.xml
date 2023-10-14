@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_error_bad_calibration">Ezin da erabili hatz-marken sentsorea. Jarri harremanetan konponketak egiten dituen hornitzaile batekin edo joan g.co/pixel/fingerprintunlock helbidera.</string>
+    <string name="fingerprint_recalibrate_notification_content">Jarri harremanetan konponketak egiten dituen hornitzaile batekin edo joan g.co/pixel/fingerprintunlock helbidera</string>
+    <string name="battery_saver_description_with_learn_more">"Bateriaren iraupena luzatzeko, erabili bateria-aurrezlea:
+
+• Gai iluna aktibatzen du.
+• Atzeko planoko jarduerak, zenbait efektu bisual eta beste eginbide batzuk desaktibatzen edo murrizten ditu, hala nola \"Ok Google\".
+• Sare-konexioak optimizatzen ditu.
+
+"<annotation id="url">Lortu informazio gehiago</annotation></string>
+</resources>

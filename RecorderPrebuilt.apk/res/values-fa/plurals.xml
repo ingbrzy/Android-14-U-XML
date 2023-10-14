@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dlg_message_deletion_confirmation">
+        <item quantity="other">قطعه‌های ضبط‌شده برای همیشه حذف خواهد شد. این کنش واگردشدنی نیست.</item>
+        <item quantity="one">قطعه ضبط‌شده برای همیشه حذف خواهد شد. این کنش واگردشدنی نیست.</item>
+    </plurals>
+    <plurals name="dlg_message_deletion_permanent_confirmation">
+        <item quantity="other">قطعه‌های ضبط‌شده پشتیبان‌گیری نشده‌اند. برای همیشه حذف خواهد شد. این کار واگردشدنی نیست.</item>
+        <item quantity="one">قطعه ضبط‌شده پشتیبان‌گیری نشده است. برای همیشه حذف خواهد شد. این کار واگردشدنی نیست.</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_confirmation">
+        <item quantity="other">قطعه‌های ضبط‌شده حذف شود؟</item>
+        <item quantity="one">قطعه ضبط‌شده حذف شود؟</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_permanent_confirmation">
+        <item quantity="other">این قطعه‌های ضبط‌شده به‌طور دائم حذف شوند؟</item>
+        <item quantity="one">این قطعه ضبط‌شده به‌طور دائم حذف شود؟</item>
+    </plurals>
+    <plurals name="download_failure_description_storage_full">
+        <item quantity="other">ضبط‌ها بارگیری نمی‌شود چون فضای ذخیره‌سازی دستگاه پر است. برای مرور، ضربه بزنید.</item>
+        <item quantity="one">ضبط‌ها بارگیری نمی‌شود چون فضای ذخیره‌سازی دستگاه پر است. برای مرور، ضربه بزنید.</item>
+    </plurals>
+    <plurals name="downloading_description">
+        <item quantity="other">بارگیری %1$d مورد ضبط‌شده</item>
+        <item quantity="one">بارگیری %1$d مورد ضبط‌شده</item>
+    </plurals>
+    <plurals name="og_backup_failed_title">
+        <item quantity="other">%1$d مورد پشتیبان‌گیری نشد</item>
+        <item quantity="one">%1$d مورد پشتیبان‌گیری نشد</item>
+    </plurals>
+    <plurals name="og_backup_items_left">
+        <item quantity="other">%1$d مورد باقی مانده است</item>
+        <item quantity="one">%1$d مورد باقی مانده است</item>
+    </plurals>
+    <plurals name="og_backup_items_stopped_title">
+        <item quantity="other">%1$d مورد پشتیبان‌گیری نشده است</item>
+        <item quantity="one">%1$d مورد پشتیبان‌گیری نشده است</item>
+    </plurals>
+    <plurals name="peoplekit_chips_copied_recipients">
+        <item quantity="other">%d گیرنده کپی شدند</item>
+        <item quantity="one">%d گیرنده کپی شد</item>
+    </plurals>
+    <plurals name="search_results_count">
+        <item quantity="other">%1$d نتیجه</item>
+        <item quantity="one">%1$d نتیجه</item>
+    </plurals>
+    <plurals name="search_results_position">
+        <item quantity="other">^1/^2 نتیجه</item>
+        <item quantity="one">^1/^2 نتیجه</item>
+    </plurals>
+    <plurals name="search_results_position_content_description">
+        <item quantity="other">%1$d مورد از %2$d نتیجه</item>
+        <item quantity="one">%1$d مورد از %2$d نتیجه</item>
+    </plurals>
+    <plurals name="selected_recording_quantity">
+        <item quantity="other">%1$d مورد انتخاب شد</item>
+        <item quantity="one">%1$d مورد انتخاب شد</item>
+    </plurals>
+    <plurals name="snackbar_message_download_failed_storage_full">
+        <item quantity="other">فضای ذخیره‌سازی دستگاه پر است. قطعه‌های ضبط‌شده بارگیری نمی‌شود.</item>
+        <item quantity="one">فضای ذخیره‌سازی دستگاه پر است. قطعه ضبط‌شده بارگیری نمی‌شود.</item>
+    </plurals>
+    <plurals name="speaker_count">
+        <item quantity="other">%1$d گوینده</item>
+        <item quantity="one">%1$d گوینده</item>
+    </plurals>
+    <plurals name="uploading_description">
+        <item quantity="other">درحال بارگذاری %1$d قطعه ضبط‌شده</item>
+        <item quantity="one">درحال بارگذاری %1$d قطعه ضبط‌شده</item>
+    </plurals>
+</resources>

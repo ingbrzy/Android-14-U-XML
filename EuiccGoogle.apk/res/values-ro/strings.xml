@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">Navighează în sus</string>
+    <string name="abc_action_mode_done">Gata</string>
+    <string name="abc_capital_off">DEZACTIVAT</string>
+    <string name="abc_capital_on">ACTIVAT</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Meniu+</string>
+    <string name="abc_search_hint">Caută…</string>
+    <string name="abc_searchview_description_clear">Șterge interogarea</string>
+    <string name="abc_searchview_description_search">Caută</string>
+    <string name="abc_searchview_description_submit">Trimite interogarea</string>
+    <string name="abc_searchview_description_voice">Căutare vocală</string>
+    <string name="abc_toolbar_collapse_description">Restrânge</string>
+    <string name="activation_code_scan_button">Scanează în schimb codul QR</string>
+    <string name="activation_code_text">Introdu codul primit de la furnizorul tău</string>
+    <string name="activation_code_title">Adaugă furnizorul de rețea</string>
+    <string name="add_profile_title">Adaugă un operator</string>
+    <string name="asked_for_eid">Activezi într-un magazin? Dacă un reprezentant îți solicită numărul EID, poți să %1$s.</string>
+    <string name="back_button_error_msg">Pentru a evita erorile, nu poți ieși din acest ecran în timpul configurării</string>
+    <string name="body_check_qr_code_or_go_back">Verifică dacă scanezi codul QR corect.</string>
+    <string name="body_device_is_locked">Dispozitivul a fost blocat de %1$s.</string>
+    <string name="body_device_is_locked_no_name">Dispozitivul este blocat.</string>
+    <string name="body_issue_with_sim_profile">A apărut o eroare legată de cardul SIM. Pentru a remedia problema, contactează %1$s la %2$s.</string>
+    <string name="body_issue_with_sim_profile_maximum_attempts">Ai atins numărul maxim de încercări. Pentru ajutor la conectare, contactează %1$s la %2$s.</string>
+    <string name="body_issue_with_sim_profile_maximum_attempts_no_name">Ai atins numărul maxim de încercări. Pentru ajutor la conectare, contactează operatorul.</string>
+    <string name="body_issue_with_sim_profile_maximum_attempts_no_tel">Ai atins numărul maxim de încercări. Pentru ajutor la conectare, contactează %1$s.</string>
+    <string name="body_issue_with_sim_profile_no_name">A apărut o eroare legată de cardul SIM. Pentru a remedia problema, contactează operatorul.</string>
+    <string name="body_issue_with_sim_profile_no_tel">A apărut o eroare legată de cardul SIM. Pentru a remedia problema, contactează %1$s.</string>
+    <string name="body_issue_with_sim_profile_used_on_another_device">Acest card SIM este folosit pe alt dispozitiv. Pentru a remedia problema, contactează %1$s la %2$s.</string>
+    <string name="body_issue_with_sim_profile_used_on_another_device_no_name">Acest card SIM este folosit pe alt dispozitiv. Pentru a remedia problema, contactează operatorul.</string>
+    <string name="body_issue_with_sim_profile_used_on_another_device_no_tel">Acest card SIM este folosit pe alt dispozitiv. Pentru a remedia problema, contactează %1$s.</string>
+    <string name="body_make_sure_not_already_downloaded">"Asigură-te că profilul SIM selectat nu a fost descărcat pe acest dispozitiv sau pe alt dispozitiv.
+
+Pentru ajutor suplimentar, contactează %1$s la %2$s"</string>
+    <string name="body_make_sure_not_already_downloaded_no_name">"Asigură-te că profilul SIM selectat nu a fost descărcat pe acest dispozitiv sau pe alt dispozitiv.
+
+Pentru ajutor suplimentar, contactează operatorul."</string>
+    <string name="body_make_sure_not_already_downloaded_no_tel">"Asigură-te că profilul SIM selectat nu a fost descărcat pe acest dispozitiv sau pe alt dispozitiv.
+
+Pentru ajutor suplimentar, contactează %1$s"</string>
+    <string name="body_need_wifi_connection">Pentru a descărca un eSIM, ai nevoie de o conexiune Wi-Fi.</string>
+    <string name="body_need_wifi_or_mobile_connection">Pentru a descărca un eSIM, ai nevoie de o conexiune Wi-Fi sau mobilă.</string>
+    <string name="body_not_enough_space_to_download">Nu există suficient spațiu pentru a descărca acest profil SIM.</string>
+    <string name="body_sim_has_expired">"Cardul eSIM a expirat.
+Pentru a obține un card SIM nou, contactează %1$s la %2$s"</string>
+    <string name="body_sim_has_expired_no_name">"Cardul eSIM a expirat.
+Pentru a obține un card SIM nou, contactează operatorul."</string>
+    <string name="body_sim_has_expired_no_tel">"Cardul eSIM a expirat.
+Pentru a obține un card SIM nou, contactează %1$s"</string>
+    <string name="body_something_went_wrong">A apărut o problemă în timpul activării numărului.</string>
+    <string name="bottomsheet_action_expand_halfway">Extinde pe ecran complet</string>
+    <string name="button_text_close">Închide</string>
+    <string name="button_text_settings">Setări</string>
+    <string name="cancel_button">Anulează</string>
+    <string name="cant_get_eid_please_contact_carrier">A apărut o problemă și nu s-a găsit numărul EID al dispozitivului. Contactează operatorul pentru ajutor.</string>
+    <string name="carrier_confirm_subtitle">Ar trebui să te fi înscris deja în rețea</string>
+    <string name="carrier_confirm_title">Confirmă rețeaua</string>
+    <string name="carrier_selection_msg">Alege operatorul la care ai deja un cont și pe care vrei să-l folosești pe telefon</string>
+    <string name="carrier_selection_psim">Folosește un card SIM</string>
+    <string name="carrier_selection_title">Confirmă operatorul</string>
+    <string name="choose_carrier_title">Alege operatorii pe care vrei să îi folosești</string>
+    <string name="choose_number_activating">Se activează…</string>
+    <string name="choose_number_could_not_activate">Nu a putut fi activat în acest moment</string>
+    <string name="choose_number_error_no_space">Pentru a folosi alte numere sau rețele, mai întâi trebuie să eliberezi spațiu ștergând unul sau mai multe dintre numerele existente din Setări</string>
+    <string name="choose_number_error_perm">Pentru a folosi alte numere sau rețele, contactează furnizorii de rețea pentru asistență</string>
+    <string name="choose_number_error_temp">Pentru a folosi alte numere sau rețele, activează-le ulterior din Setări</string>
+    <string name="choose_number_item_summary_unknown">Număr necunoscut</string>
+    <string name="choose_number_subtitle">{count,plural, =1{Un număr a fost adăugat pe acest dispozitiv, însă numai unul poate fi folosit odată}few{# numere au fost adăugate pe acest dispozitiv, însă numai unul poate fi folosit odată}other{# de numere au fost adăugate pe acest dispozitiv, însă numai unul poate fi folosit odată}}</string>
+    <string name="choose_number_title">Alege un număr</string>
+    <string name="choose_second_number_subtitle">Poți folosi un al doilea număr pe acest dispozitiv, pe lângă numărul actual</string>
+    <string name="choose_second_number_subtitle_with_psim_carrier_name">Poți folosi un al doilea număr pe acest dispozitiv, pe lângă numărul de la %1$s</string>
+    <string name="choose_second_number_subtitle_with_psim_phone_number">Poți folosi un al doilea număr pe acest dispozitiv, pe lângă %1$s</string>
+    <string name="choose_second_number_title">Alege un al doilea număr</string>
+    <string name="common_google_play_services_enable_button">Activează</string>
+    <string name="common_google_play_services_enable_text">%1$s nu va funcționa decât dacă activezi serviciile Google Play.</string>
+    <string name="common_google_play_services_enable_title">Activează serviciile Google Play</string>
+    <string name="common_google_play_services_install_button">Instalează</string>
+    <string name="common_google_play_services_install_text">%1$s nu va rula fără serviciile Google Play, care lipsesc de pe dispozitivul tău.</string>
+    <string name="common_google_play_services_install_title">Descarcă serviciile Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Disponibilitatea serviciilor Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Eroare a serviciilor Google Play</string>
+    <string name="common_google_play_services_unknown_issue">%1$s întâmpină probleme privind serviciile Google Play. Încearcă din nou.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s nu va rula fără serviciile Google Play, care nu sunt acceptate de dispozitivul tău.</string>
+    <string name="common_google_play_services_update_button">Actualizează</string>
+    <string name="common_google_play_services_update_text">%1$s nu va rula decât dacă actualizezi serviciile Google Play.</string>
+    <string name="common_google_play_services_update_title">Actualizează serviciile Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s nu va rula fără serviciile Google Play, care momentan se actualizează.</string>
+    <string name="common_google_play_services_wear_update_text">Este necesară o nouă versiune a serviciilor Google Play. Se vor actualiza automat în curând.</string>
+    <string name="common_open_on_phone">Deschide pe telefon</string>
+    <string name="complete_service_setup_text">Ai activat serviciul în %1$s</string>
+    <string name="complete_service_setup_title">Configurarea %1$s este finalizată</string>
+    <string name="complete_update_esim_notification_body_text">Atinge pentru a finaliza actualizarea software-ului</string>
+    <string name="complete_update_esim_notification_title">Finalizează conectarea la rețeaua mobilă</string>
+    <string name="confirm_acti_no_space_sub1">Pentru a folosi alte numere, mai întâi trebuie să eliberezi spațiu ștergând numerele existente de pe acest dispozitiv. Poți face acest lucru ulterior din Setări.</string>
+    <string name="confirm_acti_no_space_sub1_multi">Pentru a folosi alte numere sau rețele, mai întâi trebuie să eliberezi spațiu ștergând numerele existente de pe acest dispozitiv. Poți face acest lucru ulterior din Setări.</string>
+    <string name="confirm_acti_perm_error_sub1">Pentru a folosi alte numere, contactează %1$s pentru asistență la %2$s. Poate fi necesar numărul EID pentru acest dispozitiv:</string>
+    <string name="confirm_acti_perm_error_sub1_multi">Pentru a folosi alte numere sau rețele, contactează %1$s pentru asistență la %2$s. Poate fi necesar numărul EID pentru acest dispozitiv:</string>
+    <string name="confirm_acti_perm_error_sub1_multi_no_carrier_name">Pentru a folosi alte numere sau rețele, contactează furnizorul de rețea pentru asistență. Poate fi necesar numărul EID pentru acest dispozitiv:</string>
+    <string name="confirm_acti_perm_error_sub1_multi_no_phone">Pentru a folosi alte numere sau rețele, contactează %1$s pentru asistență. Poate fi necesar numărul EID pentru acest dispozitiv:</string>
+    <string name="confirm_acti_perm_error_sub1_no_carrier_name">Pentru a folosi alte numere, contactează furnizorul de rețea pentru asistență. Poate fi necesar numărul EID pentru acest dispozitiv:</string>
+    <string name="confirm_acti_perm_error_sub1_no_eid">Pentru a folosi alte numere, contactează %1$s pentru asistență la %2$s.</string>
+    <string name="confirm_acti_perm_error_sub1_no_eid_multi">Pentru a folosi alte numere sau rețele, contactează %1$s pentru asistență la %2$s</string>
+    <string name="confirm_acti_perm_error_sub1_no_eid_multi_no_phone">Pentru a folosi alte numere sau rețele, contactează %1$s pentru asistență.</string>
+    <string name="confirm_acti_perm_error_sub1_no_eid_no_carrier_name">Pentru a folosi alte numere, contactează furnizorul de rețea pentru asistență.</string>
+    <string name="confirm_acti_perm_error_sub1_no_eid_no_phone">Pentru a folosi alte numere, contactează %1$s pentru asistență</string>
+    <string name="confirm_acti_perm_error_sub1_no_phone">Pentru a folosi alte numere, contactează %1$s pentru asistență. Poate fi necesar numărul EID pentru acest dispozitiv:</string>
+    <string name="confirm_acti_success_sub_title">%1$s poate fi folosit</string>
+    <string name="confirm_acti_success_sub_title_no_phone">Numărul poate fi folosit</string>
+    <string name="confirm_acti_success_sub_title_w_app">Pentru a finaliza activarea numărului %1$s, trebuie să descarci aplicația %2$s. Momentan, finalizează configurarea telefonului.</string>
+    <string name="confirm_acti_success_sub_title_w_app_no_name">Pentru a finaliza activarea numărului %1$s, trebuie să descarci aplicația furnizorului de rețea. Momentan, finalizează configurarea telefonului.</string>
+    <string name="confirm_acti_success_sub_title_w_app_no_name_setting">Pentru a finaliza activarea numărului %1$s, trebuie să descarci aplicația furnizorului de rețea</string>
+    <string name="confirm_acti_success_sub_title_w_app_no_phone">Pentru a finaliza activarea numărului, trebuie să descarci aplicația %1$s. Momentan, finalizează configurarea telefonului.</string>
+    <string name="confirm_acti_success_sub_title_w_app_no_phone_no_name">Pentru a finaliza activarea numărului, trebuie să descarci aplicația furnizorului tău de rețea. Momentan, finalizează configurarea telefonului.</string>
+    <string name="confirm_acti_success_sub_title_w_app_no_phone_no_name_setting">Pentru a finaliza activarea numărului, va trebui să descarci aplicația furnizorului de rețea</string>
+    <string name="confirm_acti_success_sub_title_w_app_no_phone_setting">Pentru a finaliza activarea numărului, va trebui să descarci aplicația %1$s</string>
+    <string name="confirm_acti_success_sub_title_w_app_setting">Pentru a finaliza activarea numărului %1$s, va trebui să descarci aplicația %2$s</string>
+    <string name="confirm_acti_success_title">Conectat la %1$s</string>
+    <string name="confirm_acti_success_title_no_carrier_name">Rețeaua este activă</string>
+    <string name="confirm_acti_success_title_with_app">Conectează-te la %1$s mai târziu</string>
+    <string name="confirm_acti_success_title_with_app_no_name">Conectează-te la rețea mai târziu</string>
+    <string name="confirm_acti_temp_error_sub1">Pentru a folosi alte numere, activează-le mai târziu în Setări.</string>
+    <string name="confirm_acti_temp_error_sub1_multi">Pentru a folosi alte numere sau rețele, activează-le ulterior din Setări</string>
+    <string name="confirm_code_try_again">Cod greșit. Încearcă din nou.</string>
+    <string name="confirm_transfer_single_carrier_dsds_msg">După ce este transferat, numărul %1$s nu va mai funcționa pe dispozitivul vechi. Puteți transfera un al doilea număr după configurare, inserând un card SIM.</string>
+    <string name="confirm_transfer_single_carrier_msg">După ce este transferat, numărul %1$s nu va mai funcționa pe dispozitivul vechi</string>
+    <string name="confirm_transfer_single_carrier_title">Transferi numărul %1$s?</string>
+    <string name="confirmation_code_body_text">Trebuie să ai un cod de verificare de la operator. Introdu-l pentru a te conecta la rețea.</string>
+    <string name="confirmation_code_body_text_with_carrier">Trebuie să ai un cod de verificare de la %1$s. Introdu-l pentru a te conecta la rețea.</string>
+    <string name="confirmation_code_title">Introdu codul de verificare</string>
+    <string name="confirmation_code_what">Ce este aceasta?</string>
+    <string name="contact_carrier_description">Pentru a configura cardul SIM, trebuie să contactezi %1$s la numărul %2$s</string>
+    <string name="contact_carrier_description_eid">numărul EID al dispozitivului.</string>
+    <string name="contact_carrier_description_eid_additional">"
+
+Este posibil să ai nevoie de"</string>
+    <string name="contact_carrier_title">Contactează %1$s</string>
+    <string name="continue_button">Continuă</string>
+    <string name="copy">Copiază</string>
+    <string name="customer_service_activate_service">Un reprezentant al serviciului de asistență pentru clienți poate folosi acest număr EID pentru a te ajuta să activezi serviciul:</string>
+    <string name="data_plan_select_subtitle">După ce numărul este transferat, nu va mai funcționa pe dispozitivul vechi</string>
+    <string name="data_plan_select_title">Alege un număr de transferat</string>
+    <string name="def_notif_activating_title">Numărul %1$s se activează…</string>
+    <string name="def_notif_activation_fail_subtitle">Atinge pentru detalii</string>
+    <string name="def_notif_activation_fail_title">Numărul %1$s nu a putut fi activat</string>
+    <string name="def_notif_activation_success_dsds_subtitle">Alege preferințele pentru apeluri, mesaje și date</string>
+    <string name="def_notif_activation_success_dsds_title">Numerele pot fi folosite</string>
+    <string name="def_notif_activation_success_title">Numărul %1$s a fost activat</string>
+    <string name="default_display_name">SIM</string>
+    <string name="default_profile_nickname_format">%1$s %2$d</string>
+    <string name="deferred_setup_notification_description">Ready to connect to mobile network</string>
+    <string name="deferred_setup_notification_title">Set you your %1$s SIM</string>
+    <string name="detail_contact_carrier_for_more_help">Pentru ajutor suplimentar, contactează operatorul.</string>
+    <string name="detail_contact_carrier_to_unlock">Contactează %1$s la %2$s pentru a afla dacă dispozitivul poate fi deblocat.</string>
+    <string name="detail_contact_carrier_to_unlock_no_name">Contactează operatorul pentru a afla dacă dispozitivul poate fi deblocat.</string>
+    <string name="detail_contact_carrier_to_unlock_no_tel">Contactează %1$s pentru a afla dacă dispozitivul poate fi deblocat.</string>
+    <string name="detail_delete_a_profile_before_retrying">Pentru a elibera spațiu, accesează Setările și șterge un profil SIM. Apoi încearcă din nou.</string>
+    <string name="detail_may_need_eid_number">EID: %1$s</string>
+    <string name="detail_provide_info_to_carrier">"Poți trimite operatorului următoarele informații:
+%1$s
+%2$s"</string>
+    <string name="detail_try_adding_again">După ce te conectezi, încearcă din nou să adaugi o rețea mobilă.</string>
+    <string name="disable_carrier_dialog_text">"Dispozitivul va fi deconectat imediat de la rețea.
+
+Acest lucru nu va anula niciun abonament de servicii mobile."</string>
+    <string name="disable_carrier_dialog_text_with_carrier">"Dispozitivul va fi deconectat imediat de la %1$s.
+
+Acest lucru nu va anula niciun abonament de servicii mobile."</string>
+    <string name="disable_carrier_dialog_title">Dezactivezi operatorul?</string>
+    <string name="disable_fail_text">A apărut o eroare și operatorul tău nu a putut fi dezactivat.</string>
+    <string name="disable_fail_title">Nu se poate dezactiva operatorul</string>
+    <string name="disable_profile_title">Dezactivează</string>
+    <string name="disabled_profiles_title">Operatori disponibili</string>
+    <string name="disabling_carrier">Se dezactivează operatorul…</string>
+    <string name="done_button">Gata</string>
+    <string name="download_complete_text">Accesează Setările pentru a activa SIM-ul</string>
+    <string name="download_complete_text_with_carrier">Accesează Setări ca să activezi %1$s</string>
+    <string name="download_complete_title">eSIM descărcat</string>
+    <string name="download_esim_button">Download eSIM</string>
+    <string name="download_fail_dialog_text">Cardul eSIM nu poate fi descărcat din cauza unei erori. Încearcă din nou și, dacă problema continuă, contactează %1$s.</string>
+    <string name="download_fail_dialog_text_no_carrier_name">Cartela eSIM nu poate fi descărcată din cauza unei erori. Încearcă din nou și, dacă problema continuă, contactează operatorul.</string>
+    <string name="download_fail_dialog_title">Cartela eSIM nu poate fi descărcată</string>
+    <string name="download_sub_multi_carriers_text">{count,plural, =1{Se descarcă &lt;b>%2$d numere&lt;/b> de la %1$s și de la un alt operator. Acest proces poate să dureze.}few{Se descarcă &lt;b>%2$d numere&lt;/b> de la %1$s și de la alți %3$d operatori. Acest proces poate să dureze.}other{Se descarcă &lt;b>%2$d de numere&lt;/b> de la %1$s și de la alți %3$d de operatori. Acest proces poate să dureze.}}</string>
+    <string name="download_sub_text">{count,plural, =1{Se descarcă numărul tău de la %1$s. Acest proces poate să dureze.}few{Se descarcă &lt;b>%2$d numere&lt;/b> de la %1$s. Acest proces poate să dureze.}other{Se descarcă &lt;b>%2$d de numere&lt;/b> de la %1$s. Acest proces poate să dureze.}}</string>
+    <string name="download_sub_title">{count,plural, =1{Se adaugă numărul…}few{Se adaugă numerele…}other{Se adaugă numerele…}}</string>
+    <string name="download_sub_transform_title">Se verifică serviciul…</string>
+    <string name="download_switch_confirm_mep_dialog_message">Acest dispozitiv poate avea două carduri SIM active simultan. Pentru a descărca și a folosi alt card SIM, dezactivează un card SIM activ.</string>
+    <string name="download_switch_confirm_mep_dialog_title">Dezactivează un card SIM pentru a continua</string>
+    <string name="download_web_sub_text">Durează un minut sau două, în unele cazuri mai mult</string>
+    <string name="download_web_sub_title">Se configurează serviciul…</string>
+    <string name="downloading_no_carrier_name_title">Se descarcă profilul eSIM…</string>
+    <string name="downloading_with_carrier_name_title">Se descarcă profilul eSIM %1$s…</string>
+    <string name="dsds_activation_failure_body_msg1">Scoate SIM-ul și introdu-l din nou. Dacă problema persistă, repornește dispozitivul.</string>
+    <string name="dsds_activation_failure_body_msg2">Încearcă din nou să activezi SIM-ul. Dacă problema persistă, repornește dispozitivul.</string>
+    <string name="dsds_activation_failure_title">Nu se poate activa SIM-ul</string>
+    <string name="dsds_activation_text">Se activează SIM-ul…</string>
+    <string name="dsds_activation_text_in_esim_activation">Se actualizează…</string>
+    <string name="dsds_choose_number_text">Pe dispozitiv sunt disponibile %1$d numere, însă numai unul poate fi folosit odată</string>
+    <string name="dsds_choose_number_title">Alege un număr</string>
+    <string name="dsds_choose_second_number_text">Poți folosi două numere în același timp pe acest dispozitiv. %1$s este deja activ.</string>
+    <string name="dsds_choose_second_number_title">Alege un al doilea număr</string>
+    <string name="dsds_learn_more_button">Află mai multe</string>
+    <string name="dsds_notification_after_reboot_text">Atinge pentru a actualiza setările SIM</string>
+    <string name="dsds_notification_after_reboot_text_carrier">Atinge pentru a actualiza setările %1$s</string>
+    <string name="dsds_notification_after_reboot_title_carrier">%1$s este activ</string>
+    <string name="dsds_notification_after_reboot_title_phone">%1$s este activ</string>
+    <string name="dsds_notification_after_suw_text">Alege cardul SIM activ sau folosește două carduri SIM în același timp</string>
+    <string name="dsds_notification_after_suw_title">Configurează-ți celălalt card SIM</string>
+    <string name="dsds_switch_dialog_no_switch_text">Pentru a folosi datele mobile, funcțiile de apel și SMS-urile mai târziu, accesează setările pentru rețea</string>
+    <string name="dsds_switch_dialog_no_switch_title">Nu există carduri SIM disponibile</string>
+    <string name="dsds_switch_dialog_progress_text">Se comută la %1$s…</string>
+    <string name="dsds_switch_dialog_text">%1$s va fi folosit pentru date mobile, apeluri și SMS-uri.</string>
+    <string name="dsds_switch_dialog_title">Folosești %1$s?</string>
+    <string name="eid_not_found">Nu s-a găsit numărul EID al dispozitivului</string>
+    <string name="eid_number">Afișează detaliile</string>
+    <string name="eid_qr_code_dialog_error_msg">Codul QR pentru EID nu este disponibil.</string>
+    <string name="eid_qr_code_dialog_title">Numărul EID al dispozitivului</string>
+    <string name="enable_carrier_dialog_text">"Dispozitivul se va conecta la %1$s în loc de %2$s.
+
+Acest lucru nu va anula niciun abonament de servicii mobile."</string>
+    <string name="enable_carrier_dialog_text_from_removable">"Dispozitivul se va conecta la %1$s în loc de cardul SIM introdus.
+
+Acest lucru nu va anula niciun plan de servicii mobile."</string>
+    <string name="enable_carrier_dialog_text_to_removable">"Dispozitivul se va conecta la cardul SIM introdus în loc de %1$s.
+
+Acest lucru nu va anula niciun abonament de servicii mobile."</string>
+    <string name="enable_carrier_dialog_title">Schimbi operatorul?</string>
+    <string name="enable_fail_text">Nu poți schimba operatorul din cauza unei erori.</string>
+    <string name="enable_fail_title">Nu poți schimba operatorul</string>
+    <string name="enable_profile_title">Activează</string>
+    <string name="enabling_carrier">Se conectează la rețea…</string>
+    <string name="enter_manually_button">Introdu-l manual</string>
+    <string name="enter_qr_code_button_title">Introdu manual codul</string>
+    <string name="erase_sim_confirm_button">Șterge</string>
+    <string name="erase_sim_dialog_text">"Dacă ștergi acest SIM, vei elimina serviciul %1$s de pe acest dispozitiv.
+
+Serviciile %1$s nu vor fi anulate."</string>
+    <string name="erase_sim_dialog_title">Ștergi acest eSIM?</string>
+    <string name="erase_sim_fail_text">"Acest SIM nu poate fi șters din cauza unei erori.
+
+Repornește dispozitivul și încearcă din nou."</string>
+    <string name="erase_sim_fail_title">Nu se poate șterge SIM-ul</string>
+    <string name="erasing_carriers">Se resetează operatorii…</string>
+    <string name="erasing_sim">Se șterge SIM-ul…</string>
+    <string name="error_code_text">Cod de eroare</string>
+    <string name="error_screen_title_multiple_carrier">Rețelele nu sunt activate</string>
+    <string name="error_screen_title_single_carrier">%1$s nu este activat</string>
+    <string name="error_screen_title_single_carrier_no_name">Rețeaua nu este activată</string>
+    <string name="esim_setup_channel_id">Activarea rețelei</string>
+    <string name="esim_warning_title">Descarcă eSIM-ul</string>
+    <string name="esim_warning_txt_default">Acesta înlocuiește cardul SIM standard și este la fel de sigur</string>
+    <string name="esim_warning_txt_default_tmo_esim_primary">Conectează-te la rețeaua mobilă descărcând informațiile care se află de obicei pe un card SIM. Acestea înlocuiesc cardurile SIM standard și sunt la fel de sigure.</string>
+    <string name="euicc_settings_title">Setări hardware</string>
+    <string name="euicc_title">Manager SIM</string>
+    <string name="expand_button_title">Avansat</string>
+    <string name="find_it_here">îl găsești aici</string>
+    <string name="get_default_sub_title">Se verifică informațiile rețelei…</string>
+    <string name="get_help_ask_for_eid_v2">Operatorul îți poate cere %1$s care identifică acest telefon.</string>
+    <string name="get_help_skip_mobile_setup">Omite configurarea pentru mobil</string>
+    <string name="get_help_text">Nu vezi numărul tău? Contactează %1$s pentru asistență la %2$s</string>
+    <string name="get_help_text_multiple_carriers_no_phone">Dacă unul dintre operatorii tăi are mai multe numere decât te-ai așteptat, contactează-l pentru a primi ajutor</string>
+    <string name="get_help_text_no_phone">Nu vezi numărul tău? Contactează %1$s pentru asistență.</string>
+    <string name="get_help_text_single_carrier">Dacă nu te-ai așteptat la %3$d numere, contactează %1$s pentru a primi ajutor la %2$s</string>
+    <string name="get_help_text_single_carrier_no_phone">Dacă nu te-ai așteptat la %2$d numere, contactează %1$s pentru a primi ajutor</string>
+    <string name="get_help_text_single_carrier_no_phone_with_eid">Dacă nu te-ai așteptat la %2$d numere, contactează %1$s pentru asistență. Poate fi necesar numărul EID pentru acest dispozitiv:</string>
+    <string name="get_help_title">Primește ajutor pentru configurare</string>
+    <string name="get_metadata_fail_title">Nu s-au putut încărca informații despre rețeaua mobilă</string>
+    <string name="help_add_network_info1_msg1_v2">Ai probleme cu scanarea codului QR? %1$s</string>
+    <string name="help_add_network_info2_msg1">Te poți conecta la rețea și prin %1$s</string>
+    <string name="help_add_network_info3">Încă sunt probleme? Contactează-ți furnizorul de rețea pentru ajutor la %1$s</string>
+    <string name="help_add_network_info3_no_phone">Încă sunt probleme? Contactează-ți furnizorul de rețea pentru ajutor.</string>
+    <string name="help_add_network_subtitle">Caută codul QR pe o hârtie trimisă împreună cu dispozitivul sau într-un e-mail de la furnizorul tău de rețea.</string>
+    <string name="help_add_network_title">Ajutor pentru a adăuga o rețea</string>
+    <string name="insert_psim_button">introducerea unui card SIM standard</string>
+    <string name="insert_text">Dacă ai un card SIM, introdu-l acum</string>
+    <string name="insert_title">Conectează-te la o rețea mobilă</string>
+    <string name="install_system_update_dialog_body_text">Pentru a descărca un SIM, vei avea nevoie de cea mai recentă actualizare de sistem pentru acest telefon. Aceasta va dura câteva minute.</string>
+    <string name="install_system_update_dialog_title">Instalezi actualizarea de sistem?</string>
+    <string name="install_update_button">Instalează actualizarea</string>
+    <string name="insufficient_space_description_q">{count,plural, =1{Pentru a folosi numărul tău, va trebui să eliberezi spațiu ștergând numere existente de pe acest dispozitiv. Poți face acest lucru ulterior din Setări.}few{Pentru a folosi numerele tale, mai întâi trebuie să eliberezi spațiu ștergând numere existente de pe acest dispozitiv. Poți face acest lucru ulterior din Setări.}other{Pentru a folosi numerele tale, mai întâi trebuie să eliberezi spațiu ștergând numere existente de pe acest dispozitiv. Poți face acest lucru ulterior din Setări.}}</string>
+    <string name="legal_notices">%1$s, %2$s și %3$s</string>
+    <string name="low_battery_alert_body_text">Conectează telefonul la o sursă de alimentare ca să eviți întreruperea actualizării.</string>
+    <string name="low_battery_alert_title">Bateria telefonului se descarcă</string>
+    <string name="manually_add_msg1_v2">Dacă ai un cod QR, %1$s. Dacă un reprezentant al magazinului îți solicită numărul EID, poți să %2$s.</string>
+    <string name="mobile_network_connection_alert_description">Dacă omiți acest pas, nu te vei conecta la o rețea mobilă. Te poți conecta mai târziu adăugând un SIM în Setări.</string>
+    <string name="mobile_network_connection_alert_title">Omiți configurarea rețelei mobile?</string>
+    <string name="msg_choose_download_type">Alege o modalitate de a-ți activa în siguranță numărul pe acest dispozitiv</string>
+    <string name="msg_install_app_notification">Atinge pentru a continua</string>
+    <string name="msg_portal_intro">Va trebui să te conectezi cu numele de utilizator și parola %1$s</string>
+    <string name="msg_sign_in_button">Conectează-te la %1$s</string>
+    <string name="msg_transfer_type_portal">Ai nevoie de numele de utilizator și de parolă</string>
+    <string name="msg_transfer_type_qr">Este posibil ca %1$s să-ți fi trimis unul</string>
+    <string name="mtrl_checkbox_state_description_checked">Checked</string>
+    <string name="mtrl_checkbox_state_description_indeterminate">Partially checked</string>
+    <string name="mtrl_checkbox_state_description_unchecked">Not checked</string>
+    <string name="multiple_carrier_download_number_count">{count,plural, =1{Un număr}few{# numere}other{# de numere}}</string>
+    <string name="next_button">Înainte</string>
+    <string name="no_licenses_found_error">Licențele nu pot fi găsite din cauza unei erori.</string>
+    <string name="no_qr_code_info_insert_btn">Introdu în schimb cartela SIM</string>
+    <string name="no_qr_code_info_text">Caută codul QR pe o bucată de hârtie trimisă împreună cu dispozitivul sau într-un e-mail de la operatorul tău. Adaugă mai târziu un operator dacă nu ai un cod QR.</string>
+    <string name="no_qr_code_scan_button">Scanează codul QR</string>
+    <string name="no_qr_code_title">Opțiuni de configurare</string>
+    <string name="no_thanks_button">Nu, mulțumesc</string>
+    <string name="no_wifi_dialog_message">Va fi necesar ca să descarci SIM-ul</string>
+    <string name="no_wifi_dialog_title">Conectează-te la Wi-Fi</string>
+    <string name="not_set">Nesetată</string>
+    <string name="notification_carrier_unknown">{count,plural, =1{Un număr suplimentar poate fi adăugat}few{Cele # numere suplimentare ale tale pot fi adăugate}other{Cele # de numere suplimentare ale tale pot fi adăugate}}</string>
+    <string name="notification_channel_ota_update">Actualizări ale operatorului</string>
+    <string name="notification_multiple_carrier_name_known">{count,plural, =1{Numărul tău de la %1$s și încă %2$d pot fi adăugate}few{Numerele tale de la %1$s și încă %2$d pot fi adăugate}other{Numerele tale de la %1$s și încă %2$d pot fi adăugate}}</string>
+    <string name="notification_single_carrier_name_known">{count,plural, =1{Numărul tău de la %1$s poate fi adăugat}few{Numerele tale de la %1$s pot fi adăugate}other{Numerele tale de la %1$s pot fi adăugate}}</string>
+    <string name="notification_tap_setup">Atinge pentru a configura</string>
+    <string name="open_source_licenses">Licențe open source</string>
+    <string name="operation_code_text">Codul operației</string>
+    <string name="os_version">Versiunea sistemului de operare</string>
+    <string name="ota_error_notification_msg">Serviciul mobil se va relua după ce repornești dispozitivul.</string>
+    <string name="ota_error_notification_title">Nu s-a actualizat operatorul</string>
+    <string name="ota_notification_msg">Serviciul mobil se va relua după actualizare</string>
+    <string name="ota_notification_title">Se finalizează actualizarea operatorului…</string>
+    <string name="perm_error_description_q">{count,plural, =1{A apărut o problemă în timpul activării numărului. Contactează %1$s pentru ajutor la %2$s.}few{A apărut o problemă în timpul activării numerelor. Contactează %1$s pentru ajutor la %2$s.}other{A apărut o problemă în timpul activării numerelor. Contactează %1$s pentru ajutor la %2$s.}}</string>
+    <string name="perm_error_description_q_multi_carrier">A apărut o problemă în timpul activării numerelor. Contactează furnizorii de rețea pentru ajutor.</string>
+    <string name="perm_error_description_q_no_phone">{count,plural, =1{A apărut o problemă în timpul activării numărului. Contactează %1$s pentru ajutor.}few{A apărut o problemă în timpul activării numerelor. Contactează %1$s pentru ajutor.}other{A apărut o problemă în timpul activării numerelor. Contactează %1$s pentru ajutor.}}</string>
+    <string name="perm_error_description_q_no_phone_no_carrier_name">{count,plural, =1{A apărut o problemă în timpul activării numărului. Contactează furnizorul de rețea pentru ajutor.}few{A apărut o problemă în timpul activării numerelor. Contactează furnizorii de rețea pentru ajutor.}other{A apărut o problemă în timpul activării numerelor. Contactează furnizorii de rețea pentru ajutor.}}</string>
+    <string name="perm_error_q_sub2_eid">Poate fi necesar %1$s pentru acest dispozitiv</string>
+    <string name="pixel_support_page_button">pagina de asistență Pixel</string>
+    <string name="pre_activation_ota_update_complete_subtitle">Software-ul a fost actualizat. Acum poți continua să descarci cardul SIM.</string>
+    <string name="pre_activation_ota_update_complete_title">Actualizare finalizată</string>
+    <string name="pre_activation_ota_update_error_msg1">Telefonul nu poate descărca un card SIM.</string>
+    <string name="pre_activation_ota_update_error_msg2_v2">"Poți să folosești un card SIM sau să primești ajutor în
+%1$s."</string>
+    <string name="pre_activation_ota_update_error_title">Actualizarea nu s-a finalizat</string>
+    <string name="pre_activation_ota_update_subtitle">%1$d%% finalizată. Rămâi pe acest ecran pe durata actualizării.</string>
+    <string name="pre_activation_ota_update_title">Se actualizează…</string>
+    <string name="pre_activation_ota_user_consent_msg1">Pentru a descărca un SIM, vei avea nevoie de cel mai recent Manager SIM. Aceasta va dura 4–5 minute.</string>
+    <string name="pre_activation_ota_user_consent_msg2">Pentru a evita întreruperea actualizării, nu trebuie să ieși din acest ecran. Pe durata actualizării poți să inițiezi doar apeluri de urgență.</string>
+    <string name="pre_activation_ota_user_consent_title">Actualizezi software-ul SIM?</string>
+    <string name="preference_copied">„%1$s” a fost copiat în clipboard.</string>
+    <string name="privacy_policy">Politica de confidențialitate</string>
+    <string name="privacy_warning_message">Dacă decizi să continui, permiți %1$s să verifice informațiile de identificare ale dispozitivului în rețea.</string>
+    <string name="privileged_action_disable_sub_dialog_progress">Se dezactivează cardul SIM…</string>
+    <string name="privileged_action_disable_sub_dialog_text">Dacă dezactivezi %1$s, operatorul activ va fi %2$s.</string>
+    <string name="privileged_action_disable_sub_dialog_title">Dezactivezi %1$s?</string>
+    <string name="privileged_action_enable_sub_dialog_title">Activezi %1$s?</string>
+    <string name="privileged_action_switch_psim_dialog_title">Folosești cardul SIM?</string>
+    <string name="privileged_action_switch_sub_dialog_confirm">Comută la %1$s</string>
+    <string name="privileged_action_switch_sub_dialog_progress">Se comută la %1$s</string>
+    <string name="privileged_action_switch_sub_dialog_text">"Doar un SIM poate fi activ odată.
+
+Când comuți la %1$s, nu anulezi serviciul %2$s."</string>
+    <string name="privileged_action_switch_sub_dialog_text_downloaded">"Doar un eSIM poate fi activ la un moment dat.
+
+Trecerea la %1$s nu va anula serviciul %2$s."</string>
+    <string name="privileged_action_switch_sub_dialog_text_no_to">"Doar un SIM poate fi activ odată.
+
+Când comuți, nu anulezi serviciul %1$s."</string>
+    <string name="privileged_action_switch_sub_dialog_title">Comuți la %1$s?</string>
+    <string name="privileged_action_turn_on_sub_dialog_progress">Se activează %1$s</string>
+    <string name="profile_disabled">Dezactivat</string>
+    <string name="profile_disabled_confirmation_body_text">Ca să activezi eSIM, introdu codul PIN</string>
+    <string name="profile_disabled_confirmation_title">eSIM dezactivat</string>
+    <string name="profile_enabled">Activat</string>
+    <string name="profile_enabled_with_phone_number">Activat, %1$s</string>
+    <string name="profile_list_action_bar_title">Operator</string>
+    <string name="profile_transfer_activation_fail_available_phone_number_description">"A apărut o eroare. Profilul tău SIM %1$s a fost transferat pe acest dispozitiv, dar nu este gata de utilizare. 
+
+ Contactează %2$s pentru ajutor la %3$s.
+
+Poate fi necesar numărul EID pentru acest dispozitiv:
+
+%4$s"</string>
+    <string name="profile_transfer_activation_fail_available_phone_number_title">Numărul nu poate fi activat</string>
+    <string name="profile_transfer_activation_fail_unavailable_phone_number_description">"A apărut o eroare. Profilul tău %1$s cu numărul %2$s a fost transferat pe acest dispozitiv, dar nu este conectat la rețea. 
+
+ Contactează %3$s pentru ajutor la %4$s.
+
+Poate fi necesar numărul EID pentru acest dispozitiv:
+
+%5$s"</string>
+    <string name="profile_transfer_activation_fail_unavailable_phone_number_title">Rețeaua mobilă nu poate fi activată</string>
+    <string name="profile_transfer_connecting_description">Se conectează…</string>
+    <string name="profile_transfer_downloading_deferred_notification_content">Se conectează la serverul %1$s…</string>
+    <string name="profile_transfer_downloading_deferred_notification_title">Se descarcă %1$s</string>
+    <string name="profile_transfer_error_deferred_notification_title">Nu s-a putut transfera %1$s</string>
+    <string name="profile_transfer_error_title">Nu s-a putut transfera profilul SIM %1$s</string>
+    <string name="profile_transfer_non_recoverable_error_deferred_notification_action">Află mai multe</string>
+    <string name="profile_transfer_non_recoverable_error_deferred_notification_content">A apărut o problemă în timpul transferului cardului SIM. Contactează %1$s pentru ajutor la %2$s</string>
+    <string name="profile_transfer_non_recoverable_error_description">"A apărut o problemă în timpul transferului cardului SIM. Contactează %1$s pentru ajutor la %2$s
+
+Este posibil să ai nevoie de numărul EID al dispozitivului:
+
+%3$s"</string>
+    <string name="profile_transfer_recoverable_error_deferred_notification_content">A apărut o problemă în timpul transferului cardului SIM. Poți încerca din nou pentru a remedia problema</string>
+    <string name="profile_transfer_recoverable_error_description">A apărut o problemă în timpul transferului cardului SIM.</string>
+    <string name="profile_transfer_retry_button">Încearcă din nou</string>
+    <string name="profile_transfer_success_deferred_notification_content">%1$s poate fi folosit</string>
+    <string name="profile_transfer_success_deferred_notification_title">Cardul SIM a fost transferat</string>
+    <string name="profile_transfer_suw_recoverable_error_description">A apărut o problemă în timpul transferului cardului SIM. Poți încerca din nou pentru a remedia problema.</string>
+    <string name="psim_guide_dialog_message">Găsește suportul pentru card SIM pe marginea telefonului. Folosește instrumentul pentru scoaterea cardului SIM sau o agrafă de hârtie pentru a deschide suportul și introdu un card SIM.</string>
+    <string name="psim_guide_dialog_title">Introdu un card SIM</string>
+    <string name="q_download_sub_text">Poate dura câteva minute</string>
+    <string name="q_download_sub_title">Se conectează la %1$s…</string>
+    <string name="q_multiple_carrier_confirm_title">Alege rețelele pe care vrei să le activezi</string>
+    <string name="q_multiple_carrier_metadata_confirm_subtitle">{count,plural, =1{Un număr este disponibil pentru acest dispozitiv. Furnizorul de rețea poate începe să perceapă taxe pentru serviciu când îl activezi.}few{# numere sunt disponibile pentru acest dispozitiv. Furnizorul de rețea poate începe să perceapă taxe pentru serviciu când îl activezi.}other{# de numere sunt disponibile pentru acest dispozitiv. Furnizorul de rețea poate începe să perceapă taxe pentru serviciu când îl activezi.}}</string>
+    <string name="q_result_download_metadata_text">{count,plural, =1{Un număr de la %1$s este disponibil pentru acest dispozitiv. %1$s poate începe să perceapă taxe pentru serviciu când te conectezi.}few{# numere de la %1$s sunt disponibile pentru acest dispozitiv. %1$s poate începe să perceapă taxe pentru serviciu când te conectezi.}other{# de numere de la %1$s sunt disponibile pentru acest dispozitiv. %1$s poate începe să perceapă taxe pentru serviciu când te conectezi.}}</string>
+    <string name="qr_scanner_end_button">Nu îl găsești?</string>
+    <string name="qr_scanner_failed_msg">A apărut o eroare la camera ta. Încearcă din nou mai târziu.</string>
+    <string name="qr_scanner_failed_title">Camera nu este disponibilă</string>
+    <string name="qr_scanner_msg">Dacă operatorul ți-a dat un cod QR, scanează-l acum, ținând codul în centrul casetei.</string>
+    <string name="qr_scanner_msg_q">Dacă %1$s ți-a dat un cod QR, scanează-l acum, ținând codul în centrul casetei.</string>
+    <string name="qr_scanner_msg_q_no_carrier_name">Dacă furnizorul de rețea ți-a dat un cod QR, scanează-l acum, ținând codul în centrul casetei</string>
+    <string name="qr_scanner_title">Adaugă operatorul cu un cod QR</string>
+    <string name="qr_scanner_title_q">Scanează codul QR de la %1$s</string>
+    <string name="qr_scanner_title_q_no_carrier_name">Scanează codul QR de la rețea</string>
+    <string name="reactivate_error_dialog_body">A apărut o problemă în timpul activării numărului. Încearcă din nou mai târziu sau introdu din nou cardul SIM.</string>
+    <string name="reactivate_error_dialog_title_with_carrier_name">%1$s nu este activat</string>
+    <string name="reactivate_error_dialog_title_without_carrier_name">SIM neactivat</string>
+    <string name="reason_code_text">Codul motivului</string>
+    <string name="reboot_button_title">Repornește telefonul</string>
+    <string name="remove_carrier_dialog_text_disabled">"Dispozitivul nu se va mai putea conecta la %1$s.
+
+Acest lucru nu va anula niciun abonament de servicii mobile."</string>
+    <string name="remove_carrier_dialog_text_enabled">"Dispozitivul va fi deconectat imediat de la %1$s.
+
+Acest lucru nu va anula niciun abonament de servicii mobile."</string>
+    <string name="remove_carrier_dialog_title">Ștergi operatorul?</string>
+    <string name="remove_fail_text">A apărut o eroare și operatorul tău nu a putut fi șters.</string>
+    <string name="remove_fail_title">Nu se poate șterge operatorul</string>
+    <string name="remove_profile_title">Șterge</string>
+    <string name="removing_carrier">Se șterge operatorul…</string>
+    <string name="res_activate_profile_later_button">Activează mai târziu</string>
+    <string name="res_activation_button">Conectează-te</string>
+    <string name="res_continue_info1_general_multi_carriers">{count,plural, =1{Nu s-au putut adăuga numerele tale de la %1$s și %2$d alt operator.}few{Nu s-au putut adăuga numerele tale de la %1$s și %2$d alți operatori.}other{Nu s-au putut adăuga numerele tale de la %1$s și %2$d de alți operatori.}}</string>
+    <string name="res_continue_info1_general_no_carrier">{count,plural, =1{Nu s-a putut adăuga &lt;b>un număr&lt;/b> de la operatorul tău.}few{Nu s-au putut adăuga numerele tale de la niciunul dintre operatori.}other{Nu s-au putut adăuga numerele tale de la niciunul dintre operatori.}}</string>
+    <string name="res_continue_info1_general_single_carrier">{count,plural, =1{Nu s-a putut adăuga &lt;b>%2$d număr&lt;/b> de la %1$s.}few{Nu s-au putut adăuga &lt;b>%2$d numere&lt;/b> de la %1$s.}other{Nu s-au putut adăuga &lt;b>%2$d de numere&lt;/b> de la %1$s.}}</string>
+    <string name="res_continue_info1_no_mem_multi_carriers">{count,plural, =1{Nu există spațiu suficient pentru a adăuga numerele tale de la %1$s și de la %2$d alt operator.}few{Nu există spațiu suficient pentru a adăuga numerele tale de la %1$s și de la %2$d alți operatori.}other{Nu există spațiu suficient pentru a adăuga numerele tale de la %1$s și de la %2$d de alți operatori.}}</string>
+    <string name="res_continue_info1_no_mem_no_carrier">{count,plural, =1{Nu există spațiu suficient pentru a adăuga &lt;b>un număr&lt;/b>.}few{Nu există spațiu suficient pentru a adăuga numerele tale de la niciunul dintre operatori.}other{Nu există spațiu suficient pentru a adăuga numerele tale de la niciunul dintre operatori.}}</string>
+    <string name="res_continue_info1_no_mem_single_carrier">{count,plural, =1{Nu există spațiu suficient pentru a adăuga &lt;b>%2$d număr&lt;/b> de la %1$s.}few{Nu există spațiu suficient pentru a adăuga &lt;b>%2$d numere&lt;/b> de la %1$s.}other{Nu există spațiu suficient pentru a adăuga &lt;b>%2$d de numere&lt;/b> de la %1$s.}}</string>
+    <string name="res_continue_info_item_2">Dacă serviciul mobil nu este activ, contactează %1$s pentru ajutor</string>
+    <string name="res_continue_info_item_2_no_carrier_name">Dacă nu ai servicii mobile, contactează operatorul pentru ajutor</string>
+    <string name="res_continue_text_partial_complete_multiple_carriers">{count,plural, =1{Ai adăugat &lt;b>%1$d numere&lt;/b> de la %2$s și %3$s}=2{Ai adăugat &lt;b>%1$d numere&lt;/b> de la %2$s, %3$s și %4$d alt operator}few{Ai adăugat &lt;b>%1$d numere&lt;/b> de la %2$s, %3$s și alți %4$d operatori}other{Ai adăugat &lt;b>%1$d numere&lt;/b> de la %2$s, %3$s și alți %4$d de operatori}}</string>
+    <string name="res_continue_text_partial_complete_single_carrier">{count,plural, =1{Ai adăugat &lt;b>%1$d număr&lt;/b> de la %2$s}few{Ai adăugat &lt;b>%1$d numere&lt;/b> de la %2$s}other{Ai adăugat &lt;b>%1$d de numere&lt;/b> de la %2$s}}</string>
+    <string name="res_continue_title_all_success">{count,plural, =1{S-a adăugat un număr de telefon}few{S-au adăugat # numere}other{S-au adăugat # de numere}}</string>
+    <string name="res_continue_title_partial_success">%1$d din %2$d numere adăugate</string>
+    <string name="res_download_button">Descarcă</string>
+    <string name="res_enter_pin_button">Introdu PIN-ul</string>
+    <string name="res_need_help_button">Dorești ajutor?</string>
+    <string name="res_start_button">Începe</string>
+    <string name="reset_button">Resetează</string>
+    <string name="reset_dialog_carriers_body">Ștergi toți operatorii de pe dispozitiv? Nu poți anula această acțiune.</string>
+    <string name="reset_dialog_carriers_title">Resetezi operatorii?</string>
+    <string name="reset_fail_text">A apărut o eroare și operatorii tăi nu au putut fi eliminați.</string>
+    <string name="reset_fail_title">Nu se pot reseta operatorii</string>
+    <string name="reset_screen_text_bottom">Acest lucru nu va anula niciun abonament de servicii mobile.</string>
+    <string name="reset_screen_text_top">Astfel vei elimina toți operatorii de pe dispozitiv:</string>
+    <string name="reset_screen_title">Resetează operatorii</string>
+    <string name="result_connect_title">Te conectezi la %1$s?</string>
+    <string name="result_download_metadata_text">{count,plural, =1{Un număr de la %1$s este disponibil pentru acest dispozitiv.}few{# numere de la %1$s sunt disponibile pentru acest dispozitiv.}other{# de numere de la %1$s sunt disponibile pentru acest dispozitiv.}}</string>
+    <string name="result_download_text">{count,plural, =1{Numărul de la %1$s poate fi adăugat pe telefon}few{&lt;b>%2$d numere&lt;/b> de la %1$s pot fi adăugate pe telefon}other{&lt;b>%2$d de numere&lt;/b> de la %1$s pot fi adăugate pe telefon}}</string>
+    <string name="result_download_title">Descarci cartela eSIM %1$s?</string>
+    <string name="scan_it_now">scanează-l acum</string>
+    <string name="send_feedback">Trimite feedback</string>
+    <string name="set_up_button">Set up</string>
+    <string name="settings_gear_label">Setări</string>
+    <string name="sim_action_switch_sub_dialog_carrier_list_item_for_turning_off">Dezactivează %1$s</string>
+    <string name="sim_action_switch_sub_dialog_info_outline_for_turning_off">Dezactivarea unui card SIM nu anulează serviciul</string>
+    <string name="sim_card_label">Card SIM</string>
+    <string name="sim_illustration_bottom_alt_text">Cu ecranul spre tine, caută portul de încărcare. Suportul cardului SIM se află la stânga portului de încărcare, în partea de jos a telefonului. Suportul este plat și are muchii mici pe fiecare parte. În partea stângă a suportului există un orificiu mic. Pentru a deschide suportul, introdu în orificiu capătul unei agrafe de birou sau un instrument care ajută la scoaterea cardului SIM. Pentru a introduce cardul SIM, aliniază fanta acestuia cu suportul. Cardul SIM se introduce într-un singur sens.</string>
+    <string name="sim_illustration_bottom_left_alt_text">Cu ecranul spre tine, caută portul de încărcare. Mișcă degetul pe ecran în sus, în partea din stânga a telefonului. Suportul cardului SIM este plat și are muchii mici pe fiecare parte. Lângă partea de sus a suportului există un orificiu mic. Pentru a deschide suportul, introdu în orificiu capătul unei agrafe de birou sau un instrument care ajută la scoaterea cardului SIM. Pentru a introduce cardul SIM, aliniază fanta acestuia cu suportul. Cardul SIM se introduce într-un singur sens.</string>
+    <string name="sim_illustration_top_left_alt_text">Cu ecranul spre tine, caută portul de încărcare. Mișcă degetul pe ecran în sus, în partea din stânga a telefonului. Suportul cardului SIM este plat și are muchii mici pe fiecare parte. Lângă partea de sus a suportului există un orificiu mic. Pentru a deschide suportul, introdu în orificiu capătul unei agrafe de birou sau un instrument care ajută la scoaterea cardului SIM. Pentru a introduce cardul SIM, aliniază fanta acestuia cu suportul. Cardul SIM se introduce într-un singur sens.</string>
+    <string name="sim_locked_text">"Momentan, acest telefon este blocat în rețeaua altui operator. Va trebui să folosești un card SIM valid.
+
+După ce introduci cardul SIM, poate dura câteva secunde să se activeze."</string>
+    <string name="sim_locked_title">Cardul SIM nu este acceptat</string>
+    <string name="sim_missing_activity_esim_button_title">Descarcă un eSIM nou</string>
+    <string name="sim_missing_activity_esim_transfer_button_title">Transferă un card SIM de pe un telefon vechi</string>
+    <string name="sim_missing_activity_psim_hint">Află cum să folosești un card SIM</string>
+    <string name="sim_missing_activity_subtitle_no_psim">Descarcă-ți eSIM-ul sau introdu acum un card SIM.</string>
+    <string name="sim_missing_activity_subtitle_psim_exists">"Ca să adaugi alt SIM, descarcă un nou eSIM.
+
+Ca să folosești alt card SIM, elimină-l întâi pe cel aflat momentan în telefon"</string>
+    <string name="sim_missing_activity_subtitle_tmo_esim_primary">Poți să-ți descarci SIM-ul sau să introduci acum un card SIM</string>
+    <string name="sim_missing_activity_subtitle_with_psim">Pentru a folosi un card SIM nou, va trebui să-l scoți pe cel care este acum în dispozitiv</string>
+    <string name="sim_missing_activity_with_tmo_esim_primary_button_title">Descarcă SIM-ul</string>
+    <string name="sim_ready_message">Pe acest telefon a fost configurat anterior un număr</string>
+    <string name="sim_ready_message_carrier_app">Pentru a finaliza activarea %1$s, va trebui să descarci aplicația %2$s. Momentan, finalizează configurarea telefonului.</string>
+    <string name="sim_ready_message_invalid_phone_number_carrier_app">Pentru a finaliza activarea numărului, va trebui să descarci aplicația %1$s. Momentan, finalizează configurarea telefonului.</string>
+    <string name="sim_ready_title">S-a găsit un eSIM</string>
+    <string name="sim_ready_title_carrier_app">Conectează-te mai târziu la %1$s</string>
+    <string name="skip_button">Omite</string>
+    <string name="status_title">Stare</string>
+    <string name="subject_code_text">Codul subiectului</string>
+    <string name="sud_back_button_label">Înapoi</string>
+    <string name="sud_more_button_label">Mai multe</string>
+    <string name="sud_next_button_label">Înainte</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="suw_carrier_support_to_complete_activation_no_carrier_v2">Pentru a activa serviciul, contactează operatorul pentru ajutor.</string>
+    <string name="suw_default_failed_msg_no_carrier">A apărut o eroare și nu a fost adăugat niciun număr de telefon</string>
+    <string name="suw_failed_title">Configurarea nu a fost finalizată</string>
+    <string name="suw_pii_sent_msg">Unele informații de pe dispozitiv necesare pentru configurare vor fi trimise la Google, operatorului tău și partenerilor lor</string>
+    <string name="suw_setting_up_phone_info">A rămas mai puțin de un minut</string>
+    <string name="suw_setting_up_phone_title">Se configurează telefonul…</string>
+    <string name="suw_sim_missing_activity_for_delayed_setup_decription">"When you're done setting up your phone, go to Settings to connect to your mobile network. Or, if you have a SIM card, insert it now."</string>
+    <string name="suw_sim_missing_activity_for_delayed_setup_title">Connect to mobile network after setup</string>
+    <string name="switch_button">Comută</string>
+    <string name="switch_confirm_mep_dialog_message">Acest dispozitiv poate avea două carduri SIM active simultan.</string>
+    <string name="switch_confirm_mep_dialog_title">Dezactivează un card SIM pentru a folosi %1$s</string>
+    <string name="switch_confirm_message">%1$s va fi deconectat momentan</string>
+    <string name="switch_confirm_message_no_carrier">Rețeaua mobilă va fi deconectată momentan</string>
+    <string name="switch_confirm_new_title">Folosește rețeaua Wi-Fi pentru a descărca SIM-ul</string>
+    <string name="switch_confirm_no_active_profile_message">Permite ca furnizorul de rețea să-ți descarce profilul SIM</string>
+    <string name="switch_confirm_no_active_profile_title">Profilul SIM va fi descărcat în curând</string>
+    <string name="switch_confirm_no_wifi_message">Vei putea să folosești o altă rețea</string>
+    <string name="switch_confirm_no_wifi_title">Te deconectezi de la %1$s?</string>
+    <string name="switch_confirm_no_wifi_title_no_carrier">Te deconectezi de la rețeaua mobilă?</string>
+    <string name="switch_restriction_message_to_connect_to">Pentru a te conecta la %2$s în loc de %1$s, mai întâi scoate cardul SIM de la %1$s, apoi încearcă din nou.</string>
+    <string name="switch_restriction_message_to_switch_from">Pentru a trece de la %1$s la alt operator, mai întâi scoate cardul SIM de la %1$s, apoi încearcă din nou.</string>
+    <string name="switch_restriction_title_remove_sim">Elimină cardul SIM</string>
+    <string name="sys_notification_5g_enable_dsds_text">"Acest dispozitiv poate avea două carduri SIM active simultan.
+
+Când folosești două carduri SIM, telefonul va fi limitat la 4G. %1$s"</string>
+    <string name="sys_notification_after_dsds_reboot_text">Atinge pentru a finaliza activarea celuilalt card SIM</string>
+    <string name="sys_notification_after_dsds_reboot_title">Se pot folosi două carduri SIM în același timp</string>
+    <string name="sys_notification_enable_dsds_text">Acest dispozitiv poate avea două carduri SIM active simultan. Pentru a folosi în continuare câte un card SIM odată, atinge Nu, mulțumesc.</string>
+    <string name="sys_notification_enable_dsds_title">Folosești două carduri SIM?</string>
+    <string name="sys_notification_no_thanks">Nu, mulțumesc</string>
+    <string name="sys_notification_reboot">Repornește</string>
+    <string name="sys_notification_restart_text">Pentru a începe, repornește dispozitivul. Apoi poți adăuga un alt SIM.</string>
+    <string name="sys_notification_restart_title">Repornești dispozitivul?</string>
+    <string name="sys_notification_selected_text">Rețeaua ta de telefonie mobilă s-a schimbat</string>
+    <string name="sys_notification_switched_title">Ai comutat la %1$s</string>
+    <string name="sys_notification_switched_title_no_carrier_name">Ai comutat la alt operator</string>
+    <string name="sys_notification_title">Schimbarea operatorului</string>
+    <string name="temp_error_description_q">{count,plural, =1{A apărut o problemă în timpul activării numărului. Poți încerca din nou mai târziu în Setări.}few{A apărut o problemă în timpul activării numerelor. Poți încerca din nou mai târziu în Setări.}other{A apărut o problemă în timpul activării numerelor. Poți încerca din nou mai târziu în Setări.}}</string>
+    <string name="terms_of_service">Termeni și condiții</string>
+    <string name="text_bottom_transfer_carrier_info">Operatorul nu este afișat? Contactează operatorul pentru ajutor.</string>
+    <string name="title_app_required">Conectează-te la %1$s mai târziu</string>
+    <string name="title_cannot_connect_to_network_no_name">Nu se poate conecta la rețea</string>
+    <string name="title_cannot_download">Nu se poate descărca profilul SIM</string>
+    <string name="title_choose_download_type">Activează numărul %1$s</string>
+    <string name="title_choose_transfer_type">Alege o modalitate de a transfera numărul %1$s</string>
+    <string name="title_incorrect_qr_code">Cod QR incorect</string>
+    <string name="title_install_app_notification">Descarcă aplicația %1$s ca să-ți configurezi numărul</string>
+    <string name="title_network_not_activated">Rețeaua nu este activată</string>
+    <string name="title_no_connection">Nu ai acces la internet</string>
+    <string name="title_portal_intro">Transferă numărul %1$s</string>
+    <string name="title_profile_already_downloaded">Profilul SIM a fost deja descărcat</string>
+    <string name="title_transfer_type_portal">Conectează-te la contul %1$s</string>
+    <string name="title_transfer_type_qr">Scanează un cod QR</string>
+    <string name="transfer_button">Transferă</string>
+    <string name="transfer_device_transfer_error">(nu se poate realiza transferul)</string>
+    <string name="transfer_in_device_name">%2$s pe %1$s</string>
+    <string name="transfer_profile_downloading_description">Poți continua să-ți configurezi dispozitivul %1$s</string>
+    <string name="transfer_single_description_with_esim">"%1$s se va transfera pe acest telefon.
+
+După ce transferi cardul SIM pe acest telefon, el nu va mai funcționa pe alt dispozitiv."</string>
+    <string name="transfer_single_description_with_psim">"Poți converti cardul SIM într-un eSIM și
+îl poți transfera pe acest telefon. După ce a fost
+transformat, cardul SIM nu poate fi folosit din nou."</string>
+    <string name="transfer_single_psim_hint">Află cum să folosești un card SIM</string>
+    <string name="transfer_single_psim_sub_info">Sau introdu cardul SIM acum.</string>
+    <string name="transfer_single_subItem_title_with_number">Nu este numărul corect?</string>
+    <string name="transfer_single_subItem_title_without_number_esim">Nu este eSIM-ul corect?</string>
+    <string name="transfer_single_subItem_title_without_number_unknown">Nu este cardul SIM corect?</string>
+    <string name="transfer_single_title">Transferi cardul SIM %1$s?</string>
+    <string name="transfer_subItem_desc">Descarcă un eSIM nou</string>
+    <string name="transfer_subItem_title_with_number">Nu sunt numerele corecte?</string>
+    <string name="transfer_subItem_title_without_number_esim">Nu sunt eSIM-urile corecte?</string>
+    <string name="transfer_subItem_title_without_number_unknown">Nu sunt cardurile SIM corecte?</string>
+    <string name="transfer_title_unknown_sim">Selectează un card SIM pentru transfer</string>
+    <string name="transfer_title_with_number">Selectează un număr pentru transfer</string>
+    <string name="transfer_title_without_number">Selectează un eSIM pentru transfer</string>
+    <string name="update_button">Actualizează</string>
+    <string name="use_different_network">Folosește altă rețea</string>
+    <string name="use_different_network_button">Folosește altă rețea</string>
+    <string name="user_consent_download_active_profile_body_text">%1$s va fi dezactivat în timpul descărcării</string>
+    <string name="user_consent_download_mobile_data_body_text">Cardul SIM va fi descărcat prin rețeaua mobilă</string>
+    <string name="user_consent_download_no_name_body_text">Cardul SIM activ va fi dezactivat în timpul descărcării</string>
+    <string name="user_consent_download_over_wifi_title">Folosești rețeaua Wi‑Fi pentru a descărca SIM-ul?</string>
+    <string name="user_consent_download_ss_no_profile_title">Îi permiți operatorului să descarce cardul SIM?</string>
+    <string name="user_consent_download_ss_no_profile_wifi_body_text">Cardul SIM va fi descărcat prin Wi‑Fi</string>
+    <string name="user_consent_download_switch_body_text">"Pentru a descărca și a folosi alt card SIM, dezactivează %1$s.
+
+Dezactivarea %1$s nu anulează serviciul."</string>
+    <string name="user_consent_download_switch_dsds_no_name_body_text">"Pentru a descărca și a folosi alt card SIM, dezactivează un card SIM activ.
+
+Dezactivarea SIM-ului nu anulează serviciul."</string>
+    <string name="user_consent_download_switch_dsds_no_name_title">Dezactivezi un card SIM?</string>
+    <string name="user_consent_download_switch_no_profile_body_text">Cardul SIM va fi folosit imediat după descărcare</string>
+    <string name="user_consent_download_switch_ss_no_name_body_text">"Pentru a descărca și a folosi alt card SIM, dezactivează cardul SIM activ.
+
+Dezactivarea SIM-ului nu anulează serviciul."</string>
+    <string name="user_consent_download_switch_ss_no_name_title">Dezactivezi SIM-ul?</string>
+    <string name="user_consent_switch_dsds_body_text">"Dispozitivul poate avea un singur card eSIM activ.
+
+%1$s va fi dezactivat, dar acest lucru nu va anula serviciul."</string>
+    <string name="user_consent_switch_dsds_no_name_body_text">"Dispozitivul poate avea un singur card eSIM activ.
+
+Cardul SIM actual va fi dezactivat, dar acest lucru nu va anula serviciul."</string>
+    <string name="user_consent_switch_mep_dsds_body_text">%1$s se va dezactiva, dar acest lucru nu va anula serviciul.</string>
+    <string name="user_consent_switch_mep_dsds_no_name_body_text">Cardul SIM actual va fi dezactivat, dar acest lucru nu va anula serviciul.</string>
+    <string name="user_consent_switch_no_name_title">Folosești noul card SIM?</string>
+    <string name="user_consent_switch_ss_body_text">"Dispozitivul poate avea un singur card SIM activ.
+
+%1$s va fi dezactivat, dar acest lucru nu va anula serviciul."</string>
+    <string name="user_consent_switch_ss_no_name_body_text">"Dispozitivul poate avea un singur card SIM activ.
+
+Cardul SIM actual va fi dezactivat, dar acest lucru nu va anula serviciul."</string>
+    <string name="user_consent_switch_title">Folosești %1$s?</string>
+    <string name="v7_preference_off">DEZACTIVAT</string>
+    <string name="v7_preference_on">ACTIVAT</string>
+    <string name="wait_msg">O secundă…</string>
+    <string name="wrong_code_dialog_text">"Unii operatori cer un cod de verificare pentru mai multă securitate. Poți găsi codul:
+
+• pe o bucată de hârtie primită cu dispozitivul;
+• într-un e-mail de la operator;
+• într-un mesaj text trimis pe vechiul dispozitiv."</string>
+    <string name="yes_button">Da</string>
+</resources>

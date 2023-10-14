@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dlg_message_deletion_confirmation">
+        <item quantity="other">As gravacións eliminaranse permanentemente. Esta acción non se pode desfacer.</item>
+        <item quantity="one">A gravación eliminarase permanentemente. Esta acción non se pode desfacer.</item>
+    </plurals>
+    <plurals name="dlg_message_deletion_permanent_confirmation">
+        <item quantity="other">Non hai ningunha copia de seguranza das gravacións, que se eliminarán de maneira permanente. Non se pode desfacer esta acción.</item>
+        <item quantity="one">Non hai ningunha copia de seguranza da gravación, que se eliminará de maneira permanente. Non se pode desfacer esta acción.</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_confirmation">
+        <item quantity="other">Queres eliminar as gravacións?</item>
+        <item quantity="one">Queres eliminar a gravación?</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_permanent_confirmation">
+        <item quantity="other">Queres eliminar estas gravacións de forma permanente?</item>
+        <item quantity="one">Queres eliminar esta gravación de forma permanente?</item>
+    </plurals>
+    <plurals name="download_failure_description_storage_full">
+        <item quantity="other">Non se puideron descargar as gravacións porque o espazo de almacenamento do dispositivo está cheo. Toca para revisalo.</item>
+        <item quantity="one">O espazo de almacenamento do dispositivo está cheo. Toca para revisalo.</item>
+    </plurals>
+    <plurals name="downloading_description">
+        <item quantity="other">Descargando %1$d gravacións</item>
+        <item quantity="one">Descargando %1$d gravación</item>
+    </plurals>
+    <plurals name="og_backup_failed_title">
+        <item quantity="other">Produciuse un erro ao realizar a copia de seguranza de %1$d elementos</item>
+        <item quantity="one">Produciuse un erro ao realizar a copia de seguranza de %1$d elemento</item>
+    </plurals>
+    <plurals name="og_backup_items_left">
+        <item quantity="other">Faltan %1$d elementos</item>
+        <item quantity="one">Falta %1$d elemento</item>
+    </plurals>
+    <plurals name="og_backup_items_stopped_title">
+        <item quantity="other">Hai %1$d elementos sen copia de seguranza</item>
+        <item quantity="one">Hai %1$d elemento sen copia de seguranza</item>
+    </plurals>
+    <plurals name="search_results_count">
+        <item quantity="other">%1$d resultados</item>
+        <item quantity="one">%1$d resultado</item>
+    </plurals>
+    <plurals name="search_results_position">
+        <item quantity="other">Resultados: ^1/^2</item>
+        <item quantity="one">Resultados: ^1/^2</item>
+    </plurals>
+    <plurals name="search_results_position_content_description">
+        <item quantity="other">Resultados: %1$d de %2$d</item>
+        <item quantity="one">Resultados: %1$d de %2$d</item>
+    </plurals>
+    <plurals name="selected_recording_quantity">
+        <item quantity="other">Seleccionáronse %1$d</item>
+        <item quantity="one">Seleccionouse %1$d</item>
+    </plurals>
+    <plurals name="snackbar_message_download_failed_storage_full">
+        <item quantity="other">O espazo de almacenamento do dispositivo está cheo. Non se puideron descargar as gravacións.</item>
+        <item quantity="one">O espazo de almacenamento do dispositivo está cheo. Non se puido descargar a gravación.</item>
+    </plurals>
+    <plurals name="speaker_count">
+        <item quantity="other">%1$d altofalantes</item>
+        <item quantity="one">%1$d altofalante</item>
+    </plurals>
+    <plurals name="uploading_description">
+        <item quantity="other">Cargando %1$d gravacións</item>
+        <item quantity="one">Cargando %1$d gravación</item>
+    </plurals>
+</resources>

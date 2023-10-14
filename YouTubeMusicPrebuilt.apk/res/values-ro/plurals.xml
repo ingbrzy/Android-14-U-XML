@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_duration_description_hours">
+        <item quantity="other">%d de ore</item>
+        <item quantity="one">%d oră</item>
+        <item quantity="few">%d ore</item>
+    </plurals>
+    <plurals name="accessibility_duration_description_minutes">
+        <item quantity="other">%d de minute</item>
+        <item quantity="one">%d minut</item>
+        <item quantity="few">%d minute</item>
+    </plurals>
+    <plurals name="accessibility_duration_description_seconds">
+        <item quantity="other">%d de secunde</item>
+        <item quantity="one">%d secundă</item>
+        <item quantity="few">%d secunde</item>
+    </plurals>
+    <plurals name="accessibility_skip_ad_in">
+        <item quantity="other">Închide anunțul în %1$d de secunde</item>
+        <item quantity="one">Închide anunțul într-o secundă</item>
+        <item quantity="few">Închide anunțul în %1$d secunde</item>
+    </plurals>
+    <plurals name="auto_playlist_with_episode_count_item_subtitle">
+        <item quantity="other">Playlist automat • %1$d de episoade</item>
+        <item quantity="one">Playlist automat • Un episod</item>
+        <item quantity="few">Playlist automat • %1$d episoade</item>
+    </plurals>
+    <plurals name="auto_playlist_with_size_item_subtitle">
+        <item quantity="other">Playlist automat • %1$d de melodii</item>
+        <item quantity="one">Playlist automat • 1 melodie</item>
+        <item quantity="few">Playlist automat • %1$d melodii</item>
+    </plurals>
+    <plurals name="duration_hours">
+        <item quantity="other">%1$d de ore</item>
+        <item quantity="one">%1$d oră</item>
+        <item quantity="few">%1$d ore</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%1$d de minute</item>
+        <item quantity="one">%1$d minut</item>
+        <item quantity="few">%1$d minute</item>
+    </plurals>
+    <plurals name="hours_abbreviated">
+        <item quantity="other">%s h</item>
+        <item quantity="one">%s h</item>
+        <item quantity="few">%s h</item>
+    </plurals>
+    <plurals name="menu_option_hours">
+        <item quantity="other">%s de ore</item>
+        <item quantity="one">%s oră</item>
+        <item quantity="few">%s ore</item>
+    </plurals>
+    <plurals name="menu_option_minutes">
+        <item quantity="other">%s de minute</item>
+        <item quantity="one">%s minut</item>
+        <item quantity="few">%s minute</item>
+    </plurals>
+    <plurals name="minutes_abbreviated">
+        <item quantity="other">%s min.</item>
+        <item quantity="one">%s min.</item>
+        <item quantity="few">%s min.</item>
+    </plurals>
+    <plurals name="notification_offline_playlist_progress_size">
+        <item quantity="other">%1$d din %2$d de melodii</item>
+        <item quantity="one">%1$d din o melodie</item>
+        <item quantity="few">%1$d din %2$d melodii</item>
+    </plurals>
+    <plurals name="notification_offline_playlist_progress_track_count">
+        <item quantity="other">%1$d din %2$d de melodii</item>
+        <item quantity="one">%1$d din 1 melodie</item>
+        <item quantity="few">%1$d din %2$d melodii</item>
+    </plurals>
+    <plurals name="offline_playlist_detail_page_subtitle_with_size">
+        <item quantity="other">Playlist • %1$d de melodii</item>
+        <item quantity="one">Playlist • 1 melodie</item>
+        <item quantity="few">Playlist • %1$d melodii</item>
+    </plurals>
+    <plurals name="offline_playlist_size">
+        <item quantity="other">%1$,d de melodii</item>
+        <item quantity="one">O melodie</item>
+        <item quantity="few">%1$,d melodii</item>
+    </plurals>
+    <plurals name="offline_podcast_playlist_size">
+        <item quantity="other">%1$,d de episoade</item>
+        <item quantity="one">Un episod</item>
+        <item quantity="few">%1$,d episoade</item>
+    </plurals>
+    <plurals name="playlist_subtitle_with_track_count">
+        <item quantity="other">Playlist • %1$d de melodii</item>
+        <item quantity="one">Playlist • O melodie</item>
+        <item quantity="few">Playlist • %1$d melodii</item>
+    </plurals>
+    <plurals name="playlist_with_creator_and_size_item_subtitle">
+        <item quantity="other">%1$s • %2$d de melodii</item>
+        <item quantity="one">%1$s • O melodie</item>
+        <item quantity="few">%1$s • %2$d melodii</item>
+    </plurals>
+    <plurals name="playlist_with_creator_and_track_count_item_subtitle">
+        <item quantity="other">%1$s • %2$d de melodii</item>
+        <item quantity="one">%1$s • O melodie</item>
+        <item quantity="few">%1$s • %2$d melodii</item>
+    </plurals>
+    <plurals name="playlist_with_entity_type_and_creator_and_size_item_subtitle">
+        <item quantity="other">Playlist • %1$s • %2$d de melodii</item>
+        <item quantity="one">Playlist • %1$s • O melodie</item>
+        <item quantity="few">Playlist • %1$s • %2$d melodii</item>
+    </plurals>
+    <plurals name="playlist_with_entity_type_and_creator_and_track_count_item_subtitle">
+        <item quantity="other">Playlist • %1$s • %2$d de melodii</item>
+        <item quantity="one">Playlist • %1$s • O melodie</item>
+        <item quantity="few">Playlist • %1$s • %2$d melodii</item>
+    </plurals>
+    <plurals name="pref_enable_smart_download_recent_music_summary">
+        <item quantity="other">Vom descărca până la %1$d dintre melodiile redate recent.</item>
+        <item quantity="one">Vom descărca până la %1$d dintre melodiile redate recent.</item>
+        <item quantity="few">Vom descărca până la %1$d dintre melodiile redate recent.</item>
+    </plurals>
+    <plurals name="quick_seek_x_second">
+        <item quantity="other">%d de secunde</item>
+        <item quantity="one">%d secundă</item>
+        <item quantity="few">%d secunde</item>
+    </plurals>
+    <plurals name="smart_downloads_details_header_byline_explanation">
+        <item quantity="other">S-a finalizat descărcarea inteligentă pentru %1$d de melodii.</item>
+        <item quantity="one">S-a finalizat descărcarea inteligentă pentru %1$d melodie.</item>
+        <item quantity="few">S-a finalizat descărcarea inteligentă pentru %1$d melodii.</item>
+    </plurals>
+    <plurals name="smart_downloads_num_songs_estimated_space">
+        <item quantity="other">%1$d de melodii (~ %2$s)</item>
+        <item quantity="one">%1$d melodie (~ %2$s)</item>
+        <item quantity="few">%1$d melodii (~ %2$s)</item>
+    </plurals>
+    <plurals name="song_count">
+        <item quantity="other">%1$d de melodii</item>
+        <item quantity="one">O melodie</item>
+        <item quantity="few">%1$d melodii</item>
+    </plurals>
+    <plurals name="track_count">
+        <item quantity="other">%1$d de înregistrări audio</item>
+        <item quantity="one">O înregistrare audio</item>
+        <item quantity="few">%1$d înregistrări audio</item>
+    </plurals>
+    <plurals name="user_education_quick_seek">
+        <item quantity="other">Atinge de două ori în stânga sau în dreapta pentru a derula cu %d de secunde.</item>
+        <item quantity="one">Atinge de două ori în stânga sau în dreapta pentru a derula cu %d secundă.</item>
+        <item quantity="few">Atinge de două ori în stânga sau în dreapta pentru a derula cu %d secunde.</item>
+    </plurals>
+</resources>

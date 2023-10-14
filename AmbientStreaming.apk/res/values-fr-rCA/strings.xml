@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Services multiappareils</string>
+    <string name="app_name_generic">une application</string>
+    <string name="app_stream_error_generic">"Une erreur s'est produite lors du partage d'application"</string>
+    <string name="app_stream_init_error_generic">"Le partage d'application sur votre Chromebook a échoué"</string>
+    <string name="audio_permission_rationale">"L'autorisation d'accès au microphone pour le partage d'applications est désactivée"</string>
+    <string name="cancel_button_label">Annuler</string>
+    <string name="chromebook_keyboard">Clavier Chromebook</string>
+    <string name="chromebook_mouse">Souris Chromebook</string>
+    <string name="chromebook_touchscreen">Écran tactile Chromebook</string>
+    <string name="connect_device">"Connexion de votre téléphone à l'appareil distant %1$s en cours…"</string>
+    <string name="decline_button_label">Refuser</string>
+    <string name="development_notification_channel_name">Développement</string>
+    <string name="device_camera_cannot_access">"Impossible d'accéder à l'appareil photo de l'appareil à partir de ce Chromebook"</string>
+    <string name="done_button_label">OK</string>
+    <string name="enable_button_label">Activer</string>
+    <string name="foreground_service_notification_channel_name">Général</string>
+    <string name="foreground_service_notification_content">Touchez pour modifier les paramètres</string>
+    <string name="foreground_service_notification_title">{0,plural, =1{Connecté à # appareil}one{Connecté à # appareil}other{Connecté à # appareils}}</string>
+    <string name="interactive_streaming_generic_notification">Diffuser %1$s et synchroniser les notifications pour votre Chromebook</string>
+    <string name="interactive_streaming_individual_notification">Diffusion en continu de %1$s et synchronisation des notifications de %2$s en cours…</string>
+    <string name="interactive_streaming_notification">Diffuser vers votre Chromebook</string>
+    <string name="keyboard_name">Clavier multiappareil</string>
+    <string name="lock_screen_notif_warning_content">"Vous devez activer les notifications sur l'écran de verrouillage"</string>
+    <string name="lock_screen_notif_warning_title">Les notifications ne seront pas transférées</string>
+    <string name="mouse_name">Souris multiappareil</string>
+    <string name="new_connection_confirm">Confirmer</string>
+    <string name="new_connection_deny">Refuser</string>
+    <string name="new_connection_title">Confirmer corresp. de la chaîne</string>
+    <string name="notification_access_missing">"L'accès aux notifications est requis"</string>
+    <string name="notification_access_missing_description">"Pour ouvrir les notifications sur votre Chromebook, activez l'accès aux notifications"</string>
+    <string name="notification_channel_name">Général</string>
+    <string name="notification_listener_label">Partager des applications avec votre Chromebook</string>
+    <string name="open_source_licenses">Licences de logiciel libre</string>
+    <string name="phone_permission_rationale">"L'autorisation de faire des appels téléphoniques pour le partage d'applications est désactivée"</string>
+    <string name="prompt_switch_languages">Touchez Maj. + Espace pour changer la langue de Gboard sur votre téléphone</string>
+    <string name="settings_button">Paramètres</string>
+    <string name="stop_sharing_button">Arrêter la diffusion</string>
+    <string name="stream_termination_proximity_warning">Votre téléphone est trop loin. Rapprochez-le pour poursuivre la diffusion en continu.</string>
+    <string name="substitute_app_name">Système</string>
+    <string name="summary_disable_wirecutter">Désactivé</string>
+    <string name="summary_enable_wirecutter">Activé</string>
+    <string name="touchscreen_name">Écran tactile multiappareil</string>
+</resources>

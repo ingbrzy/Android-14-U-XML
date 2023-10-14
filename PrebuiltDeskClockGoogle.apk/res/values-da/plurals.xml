@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="alarm_alert_snooze_duration">
+        <item quantity="other">%d minutter</item>
+        <item quantity="one">%d minutter</item>
+    </plurals>
+    <plurals name="alarm_alert_snooze_set">
+        <item quantity="other">Udsat i %d minutter.</item>
+        <item quantity="one">Udsat i %d minutter.</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%s døgn</item>
+        <item quantity="one">%s døgn</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">For %s dage siden</item>
+        <item quantity="one">For %s dag siden</item>
+    </plurals>
+    <plurals name="days_extra_short">
+        <item quantity="other">%s d.</item>
+        <item quantity="one">%s d.</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s timer</item>
+        <item quantity="one">%s time</item>
+    </plurals>
+    <plurals name="hours_extra_short">
+        <item quantity="other">%s timer</item>
+        <item quantity="one">%s time</item>
+    </plurals>
+    <plurals name="hours_short">
+        <item quantity="other">%s t.</item>
+        <item quantity="one">%s t.</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s minutter</item>
+        <item quantity="one">%s minut</item>
+    </plurals>
+    <plurals name="minutes_extra_short">
+        <item quantity="other">%s min.</item>
+        <item quantity="one">%s min.</item>
+    </plurals>
+    <plurals name="minutes_short">
+        <item quantity="other">%s min.</item>
+        <item quantity="one">%s min.</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nye notifikationer</item>
+        <item quantity="one">%d ny notifikation</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%s sekunder</item>
+        <item quantity="one">%s sekund</item>
+    </plurals>
+    <plurals name="seconds_extra_short">
+        <item quantity="other">%s s.</item>
+        <item quantity="one">%s s.</item>
+    </plurals>
+</resources>

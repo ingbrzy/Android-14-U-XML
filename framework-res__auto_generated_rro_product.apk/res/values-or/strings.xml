@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_error_bad_calibration">ଟିପଚିହ୍ନ ସେନ୍ସରକୁ ବ୍ୟବହାର କରାଯାଇପାରିବ ନାହିଁ। ଏକ ମରାମତି କେନ୍ଦ୍ର କିମ୍ବା g.co/pixel/fingerprintunlockକୁ ଭିଜିଟ କରନ୍ତୁ</string>
+    <string name="fingerprint_recalibrate_notification_content">ଏକ ମରାମତି କେନ୍ଦ୍ର କିମ୍ବା g.co/pixel/fingerprintunlockକୁ ଭିଜିଟ କରନ୍ତୁ</string>
+    <string name="battery_saver_description_with_learn_more">"ବ୍ୟାଟେରୀ ଲାଇଫ୍ ବଢ଼ାଇବାକୁ ବ୍ୟାଟେରୀ ସେଭର୍:
+
+• ଗାଢ଼ା ଥିମ୍ ଚାଲୁ କରେ
+• ପୃଷ୍ଠପଟ କାର୍ଯ୍ୟକଳାପ, କିଛି ଭିଜୁଆଲ୍ ପ୍ରଭାବ ଏବଂ “Hey Google” ପରି ଅନ୍ୟ ଫିଚରଗୁଡ଼ିକୁ ବନ୍ଦ କିମ୍ବା ପ୍ରତିବନ୍ଧିତ କରିଥାଏ
+• ଆପଣଙ୍କ ନେଟୱାର୍କ ସଂଯୋଗଗୁଡ଼ିକୁ ଅପ୍ଟିମାଇଜ୍ କରେ
+
+"<annotation id="url">ଅଧିକ ଜାଣନ୍ତୁ</annotation></string>
+</resources>

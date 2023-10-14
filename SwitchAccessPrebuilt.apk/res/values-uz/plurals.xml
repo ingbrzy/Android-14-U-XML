@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dots">
+        <item quantity="other">%s-nuqta</item>
+        <item quantity="one">%s-nuqta</item>
+    </plurals>
+    <plurals name="gestures_recorded_message">
+        <item quantity="other">%d ta ishora yozib olindi</item>
+        <item quantity="one">1 ta ishora yozib olindi</item>
+    </plurals>
+    <plurals name="label_num_keys_assigned_format">
+        <item quantity="other">%d ta kalit belgilandi</item>
+        <item quantity="one">%d ta kalit belgilandi</item>
+    </plurals>
+    <plurals name="label_num_scanning_loops_format">
+        <item quantity="other">%d marta</item>
+        <item quantity="one">%d marta</item>
+    </plurals>
+    <plurals name="line_speed_summary_format">
+        <item quantity="other">Soniyasiga %.2f sm</item>
+        <item quantity="one">Soniyasiga 1 sm</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d ta yangi bildirishnoma</item>
+        <item quantity="one">%d ta yangi bildirishnoma</item>
+    </plurals>
+    <plurals name="time_delay_summary_format">
+        <item quantity="other">%.2f soniya</item>
+        <item quantity="one">1 soniya</item>
+    </plurals>
+</resources>

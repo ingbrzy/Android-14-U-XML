@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="calendar_default_name">Prestabilit</string>
+    <string name="calendar_info">Informații despre calendar</string>
+    <string name="calendar_info_error">Eroare</string>
+    <string name="calendar_info_events">Evenimente: %1$d</string>
+    <string name="calendar_info_events_dirty">Evenimente: %1$d. Nesalvate: %2$d</string>
+    <string name="calendar_info_no_calendars">Niciun calendar</string>
+    <string name="calendar_storage">Stocarea calendarului</string>
+    <string name="debug_tool_delete_button">Șterge acum</string>
+    <string name="debug_tool_email_body">Găsește atașată baza de date a calendarului, cu toate întâlnirile și informațiile mele cu caracter personal. Gestioneaz-o cu atenție.</string>
+    <string name="debug_tool_email_sender_picker">Alege un program pentru a trimite fișierul</string>
+    <string name="debug_tool_email_subject">Baza de date a calendarului a fost atașată</string>
+    <string name="debug_tool_message">Ești pe cale 1) să faci o copie a bazei de date a calendarului tău pe cardul SD / în stocarea USB, care poate fi citită de orice aplicație și 2) să o trimiți prin e-mail. Nu uita să ștergi copia după ce ai copiat-o de pe respectivul dispozitiv sau după primirea e-mailului.</string>
+    <string name="debug_tool_start_button">Începe</string>
+    <string name="provider_label">Calendar</string>
+</resources>

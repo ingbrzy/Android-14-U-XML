@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="switch_access_htmlDescription">Bạn có thể sử dụng công tắc để chọn các mục, cuộn, nhập và nhiều chức năng khác nữa.</string>
+    <string name="switch_access_intro">Các công tắc có thể giúp bạn điều khiển thiết bị Android nếu bạn gặp khó khăn trong việc thao tác trực tiếp với màn hình cảm ứng. Công tắc, chẳng hạn như bàn phím hoặc nút nhấn lớn, có thể được kết nối với thiết bị từ bên ngoài.</string>
+</resources>

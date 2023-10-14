@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="azure_title">Quạ xanh Azure jay</string>
+    <string name="blackswan_title">Thiên nga đen</string>
+    <string name="cockatoo_title">Vẹt cockatoo</string>
+    <string name="come_alive_title">Sống động</string>
+    <string name="feathers_attribution">Nhiếp ảnh gia: Andrew Zuckerman</string>
+    <string name="feathers_description">Hình ảnh cận cảnh về các loài chim với màu sắc sống động</string>
+    <string name="feathers_title">Lông vũ</string>
+    <string name="greenwinged_title">Vẹt cánh xanh Macaw</string>
+    <string name="king_title">Kền kền vua</string>
+    <string name="living_universe_title">Vũ trụ xoay vần</string>
+    <string name="photos_memory_gallery_title">Kỷ niệm của bạn</string>
+    <string name="pied_title">Quạ lông ức trắng</string>
+    <string name="ringnecked_title">Vẹt đuôi dài cổ đeo nhẫn</string>
+    <string name="seagull_title">Mòng biển</string>
+</resources>

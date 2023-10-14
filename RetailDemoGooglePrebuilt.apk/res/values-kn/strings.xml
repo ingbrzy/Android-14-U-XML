@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_retaildemoCommunication">ರಿಟೇಲ್ ಡೆಮೋ ಸೇವೆಗಳ ಜೊತೆ ಸಂವಹನ ನಡೆಸಲು ಆ್ಯಪ್‌ಗೆ ಅನುಮತಿಸುತ್ತದೆ. ಕೇವಲ ರಿಟೇಲ್ ಡೆಮೋಗೆ ಈ ಅನುಮತಿಯನ್ನು ನೀಡಬೇಕು. ಈ ಅನುಮತಿಯನ್ನು ಪಡೆದಿರುವ ಆ್ಯಪ್‌ಗಳು ರಿಟೇಲ್ ಡೆಮೋ ಮೋಡ್‌ಗೆ ಮೀಸಲಾಗಿರುವ ಕ್ರಮಗಳನ್ನು ಟ್ರಿಗರ್ ಮಾಡಬಲ್ಲವು.</string>
+    <string name="permlab_retaildemoCommunication">ರಿಟೇಲ್ ಡೆಮೋ ಸಂವಹನ</string>
+    <string name="retaildemo_preload_app_name">ರಿಟೇಲ್ ಡೆಮೋ ಸೇವೆಗಳು</string>
+</resources>

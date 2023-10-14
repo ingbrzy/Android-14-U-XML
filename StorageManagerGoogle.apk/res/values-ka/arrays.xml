@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="select_logpersist_summaries">
+        <item>გამორთული</item>
+        <item>ჟურნალების ყველა ბუფერი</item>
+        <item>რადიოჟურნალების ბუფერების გარდა ყველა</item>
+        <item>მხოლოდ ბირთვის ჟურნალის ბუფერი</item>
+    </string-array>
+</resources>

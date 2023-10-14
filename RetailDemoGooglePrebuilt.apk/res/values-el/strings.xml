@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_retaildemoCommunication">Επιτρέπει στην εφαρμογή την αλληλεπίδραση με υπηρεσίες επίδειξης λιανικής. Αυτή η άδεια θα πρέπει να εκχωρηθεί μόνο στην επίδειξη λιανικής. Οι εφαρμογές στις οποίες έχει εκχωρηθεί αυτή η άδεια μπορούν να ενεργοποιήσουν ενέργειες που δεσμεύονται για τη λειτουργία επίδειξης λιανικής.</string>
+    <string name="permlab_retaildemoCommunication">Επικοινωνία με την εφαρμογή επίδειξης λιανικής</string>
+    <string name="retaildemo_preload_app_name">Υπηρ. επίδ. λιανικής</string>
+</resources>

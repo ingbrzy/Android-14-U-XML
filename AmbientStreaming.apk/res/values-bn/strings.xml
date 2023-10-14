@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ক্রস-ডিভাইস পরিষেবা</string>
+    <string name="app_name_generic">একটি অ্যাপ</string>
+    <string name="app_stream_error_generic">অ্যাপ শেয়ার করার সময় কোনও সমস্যা হয়েছে</string>
+    <string name="app_stream_init_error_generic">আপনার Chromebook-এ অ্যাপ শেয়ার করা যায়নি</string>
+    <string name="audio_permission_rationale">অ্যাপ শেয়ার করার জন্য মাইক্রোফোনের অনুমতি বন্ধ করা আছে</string>
+    <string name="cancel_button_label">বাতিল করুন</string>
+    <string name="chromebook_keyboard">Chromebook কীবোর্ড</string>
+    <string name="chromebook_mouse">Chromebook মাউস</string>
+    <string name="chromebook_touchscreen">Chromebook টাচস্ক্রিন</string>
+    <string name="connect_device">আপনার ফোন রিমোট ডিভাইসের সাথে কানেক্ট করা হচ্ছে: %1$s</string>
+    <string name="decline_button_label">বাতিল করুন</string>
+    <string name="development_notification_channel_name">উন্নতি</string>
+    <string name="device_camera_cannot_access">এই Chromebook থেকে ডিভাইসের ক্যামেরা অ্যাক্সেস করা যাবে না</string>
+    <string name="done_button_label">হয়ে গেছে</string>
+    <string name="enable_button_label">চালু করুন</string>
+    <string name="foreground_service_notification_channel_name">সাধারণ</string>
+    <string name="foreground_service_notification_content">সেটিংস পরিবর্তন করতে ট্যাপ করুন</string>
+    <string name="foreground_service_notification_title">{0,plural, =1{#টি ডিভাইসে কানেক্ট করা আছে}one{#টি ডিভাইসে কানেক্ট করা আছে}other{#টি ডিভাইসে কানেক্ট করা আছে}}</string>
+    <string name="interactive_streaming_generic_notification">%1$s স্ট্রিম করা হচ্ছে এবং আপনার Chromebook-এর জন্য সিঙ্ক করার বিজ্ঞপ্তি।</string>
+    <string name="interactive_streaming_individual_notification">%1$s স্ট্রিম করা এবং %2$s-এর জন্য বিজ্ঞপ্তি সিঙ্ক করা হচ্ছে</string>
+    <string name="interactive_streaming_notification">আপনার Chromebook-এ স্ট্রিম করা হচ্ছে</string>
+    <string name="keyboard_name">ক্রস-ডিভাইস কীবোর্ড</string>
+    <string name="lock_screen_notif_warning_content">লক স্ক্রিনে বিজ্ঞপ্তির সুবিধা চালু করুন</string>
+    <string name="lock_screen_notif_warning_title">বিজ্ঞপ্তি ফরওয়ার্ড করা যাবে না</string>
+    <string name="mouse_name">ক্রস-ডিভাইস মাউস</string>
+    <string name="new_connection_confirm">কনফার্ম করুন</string>
+    <string name="new_connection_deny">বাতিল করুন</string>
+    <string name="new_connection_title">স্ট্রিংয়ের মিল কনফার্ম করুন</string>
+    <string name="notification_access_missing">বিজ্ঞপ্তিতে অ্যাক্সেস দিতে হবে</string>
+    <string name="notification_access_missing_description">আপনার Chromebook-এ বিজ্ঞপ্তি দেখতে, বিজ্ঞপ্তি অ্যাক্সেস চালু করুন</string>
+    <string name="notification_channel_name">সাধারণ</string>
+    <string name="notification_listener_label">আপনার Chromebook ব্যবহার করে অ্যাপ শেয়ার করুন</string>
+    <string name="open_source_licenses">ওপেন সোর্স লাইসেন্স</string>
+    <string name="phone_permission_rationale">অ্যাপ শেয়ার করার জন্য ফোন কলের অনুমতি বন্ধ করা আছে</string>
+    <string name="prompt_switch_languages">আপনার ফোনের Gboard-এর ভাষা পরিবর্তন করতে, shift + space প্রেস করুন</string>
+    <string name="settings_button">সেটিংস</string>
+    <string name="stop_sharing_button">স্ট্রিম বন্ধ করুন</string>
+    <string name="stream_termination_proximity_warning">আপনার ফোনটি অনেক দূরে আছে। স্ট্রিমিং চালিয়ে যেতে এটি কাছাকাছি আনুন।</string>
+    <string name="substitute_app_name">সিস্টেম</string>
+    <string name="summary_disable_wirecutter">বন্ধ আছে</string>
+    <string name="summary_enable_wirecutter">চালু আছে</string>
+    <string name="touchscreen_name">ক্রস-ডিভাইস টাচস্ক্রিন</string>
+</resources>

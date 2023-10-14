@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_retaildemoCommunication">Tillad appen at interagere med Demotjenester til butik. Denne tilladelse bør kun gives til Demo til butik. Apps med denne tilladelse kan aktivere handlinger, som er reserveret til tilstanden Demo til butik.</string>
+    <string name="permlab_retaildemoCommunication">Kommunikation med Demo til butik</string>
+    <string name="retaildemo_preload_app_name">Demotjenester til butik</string>
+</resources>

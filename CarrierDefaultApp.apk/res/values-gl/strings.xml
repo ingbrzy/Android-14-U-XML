@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_bar_label">Iniciar sesión na rede de telefonía móbil</string>
+    <string name="android_system_label">Operador móbil</string>
+    <string name="app_name">Comunicacións do operador</string>
+    <string name="mobile_data_status_notification_channel_name">Estado dos datos móbiles</string>
+    <string name="no_data_notification_detail">Ponte en contacto co teu fornecedor de servizo %s</string>
+    <string name="no_data_notification_id">Desactiváronse os datos móbiles</string>
+    <string name="no_mobile_data_connection">Engadir plan de datos ou itinerancia a través de %s</string>
+    <string name="no_mobile_data_connection_title">Non hai conexión de datos móbiles</string>
+    <string name="performance_boost_notification_button_manage">Xestionar</string>
+    <string name="performance_boost_notification_button_not_now">Agora non</string>
+    <string name="performance_boost_notification_channel">Mellora de rendemento</string>
+    <string name="performance_boost_notification_detail">Vai ao sitio web de %s para ver as opcións relacionadas coa túa experiencia na aplicación</string>
+    <string name="performance_boost_notification_title">Opcións de 5G do teu operador</string>
+    <string name="portal_notification_detail">Toca para acceder ao sitio web de %s</string>
+    <string name="portal_notification_id">Esgotáronse os datos móbiles</string>
+    <string name="slice_purchase_app_label">Comprar unha mellora de rendemento.</string>
+    <string name="ssl_error_continue">Continuar igualmente co navegador</string>
+    <string name="ssl_error_example">Por exemplo, é posible que a páxina de inicio de sesión non pertenza á organización que se mostra.</string>
+    <string name="ssl_error_warning">A rede á que tentas unirte ten problemas de seguranza.</string>
+</resources>

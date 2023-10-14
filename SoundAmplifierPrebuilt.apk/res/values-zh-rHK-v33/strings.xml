@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sound_amplifier_html_description">此服務能提高微弱聲音的音量，但不會讓原本較強勁的聲音變得太大聲&lt;br/>&lt;br/> &lt;b>如何使用「聲音擴大器」&lt;/b>&lt;br/> 1. 插入有線耳機或連接藍牙耳機&lt;br/> 2. 啟動「聲音擴大器」</string>
+    <string name="sound_amplifier_intro">使用「聲音擴大器」和耳機改善周遭環境及裝置上的音質</string>
+</resources>

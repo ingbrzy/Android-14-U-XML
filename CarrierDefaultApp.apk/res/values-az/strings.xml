@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_bar_label">Mobil şəbəkəyə daxil olun</string>
+    <string name="android_system_label">Mobil Operator</string>
+    <string name="app_name">Operator Kommunikasiyaları</string>
+    <string name="mobile_data_status_notification_channel_name">Mobil data statusu</string>
+    <string name="no_data_notification_detail">Xidmət provayderi ilə əlaqə saxlayın %s</string>
+    <string name="no_data_notification_id">Mobil data deaktiv edilib</string>
+    <string name="no_mobile_data_connection">Data və ya rominq planını %s vasitəsilə əlavə edin</string>
+    <string name="no_mobile_data_connection_title">Mobil data bağlantısı yoxdur</string>
+    <string name="performance_boost_notification_button_manage">İdarə edin</string>
+    <string name="performance_boost_notification_button_not_now">İndi yox</string>
+    <string name="performance_boost_notification_channel">Performans artırması</string>
+    <string name="performance_boost_notification_detail">Tətbiq təcrübəsi üzrə seçimlərə baxmaq üçün %s veb-saytına daxil olun</string>
+    <string name="performance_boost_notification_title">Operatorunuzdan 5G seçimləri</string>
+    <string name="portal_notification_detail">%s veb saytına daxil olmaq üçün klikləyin</string>
+    <string name="portal_notification_id">Mobil data bitib</string>
+    <string name="slice_purchase_app_label">Performans artırması alın.</string>
+    <string name="ssl_error_continue">Hər bir halda brazuer ilə davam edin</string>
+    <string name="ssl_error_example">Məsələn, giriş səhifəsi göstərilən təşkilata aid olmaya bilər.</string>
+    <string name="ssl_error_warning">Qoşulmaq istədiyiniz şəbəkənin təhlükəsizlik problemləri var.</string>
+</resources>

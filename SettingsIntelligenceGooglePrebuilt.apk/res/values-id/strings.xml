@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ambient_music_aod_switch_title">Identifikasi lagu yang diputar di sekitar</string>
+    <string name="ambient_music_search_keyword_music">Musik</string>
+    <string name="ambient_music_search_keyword_tune">Melodi</string>
+    <string name="ambient_music_settings_subtitle">Identifikasi lagu yang diputar di sekitar</string>
+    <string name="ambient_music_title">Now Playing</string>
+    <string name="captions_settings_provider_keywords">sub, judul, subtitel, pemberian, subtitel, teks, teks subtitel</string>
+    <string name="captions_settings_provider_summary">Otomatis sediakan teks untuk ucapan</string>
+    <string name="captions_settings_provider_title">Teks Otomatis</string>
+    <string name="history_title">Histori Now Playing</string>
+    <string name="preferences_license_title">Pemberitahuan Pihak Ketiga</string>
+</resources>

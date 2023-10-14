@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="switch_access_htmlDescription">Elementləri seçmək, sürüşdürmək, yazmaq və daha çoxu üçün açarlardan istifadə edə bilərsiniz.</string>
+    <string name="switch_access_intro">Sensor ekran ilə birbaşa əlaqə saxlamaq çətin olarsa, açarlar Android cihazınızı idarə etməyə kömək edə bilər. Açar klaviatura və ya böyük düymə kimi cihazınıza xaricdən qoşula bilər.</string>
+</resources>

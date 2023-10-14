@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_retaildemoCommunication">రిటైల్ డెమో సర్వీస్‌లతో ఇంటరాక్ట్ అవడానికి యాప్‌ను అనుమతిస్తుంది. రిటైల్ డెమో మాత్రమే ఈ అనుమతిని మంజూరు చేయాలి. ఈ అనుమతిని మంజూరు చేసిన యాప్‌లు రిటైల్ డెమో మోడ్ కోసం రిజర్వ్ చేయబడిన చర్యలను ట్రిగ్గర్ చేయగలవు.</string>
+    <string name="permlab_retaildemoCommunication">రిటైల్ డెమో కమ్యూనికేషన్</string>
+    <string name="retaildemo_preload_app_name">రిటైల్ డెమో సేవలు</string>
+</resources>

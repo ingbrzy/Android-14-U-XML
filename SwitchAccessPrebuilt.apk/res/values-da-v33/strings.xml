@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="switch_access_htmlDescription">Du kan bruge kontakter til at vælge elementer, rulle, skrive og meget mere.</string>
+    <string name="switch_access_intro">Kontakter kan hjælpe dig med at styre din Android-enhed, hvis du har svært ved at interagere med touchskærmen direkte. En kontakt kan forbindes til din enhed eksternt, f.eks. som et tastatur eller en stor knap.</string>
+</resources>

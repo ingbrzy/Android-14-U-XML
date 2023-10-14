@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="switch_access_htmlDescription">Przełączniki pozwalają wybrać element, przewijać, wpisać tekst i wykonać wiele innych czynności.</string>
+    <string name="switch_access_intro">Przełączniki mogą pomóc w sterowaniu urządzeniem z Androidem, jeśli bezpośrednia interakcja z ekranem dotykowym sprawia Ci trudności. Przełącznik, na przykład klawiatura lub duży przycisk, może być podłączony zewnętrznie do urządzenia.</string>
+</resources>

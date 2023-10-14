@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="azure_title">青蓝鸦</string>
+    <string name="blackswan_title">黑天鹅</string>
+    <string name="cockatoo_title">凤头鹦鹉</string>
+    <string name="come_alive_title">动态壁纸</string>
+    <string name="feathers_attribution">Andrew Zuckerman 拍摄的照片</string>
+    <string name="feathers_description">羽毛颜色、细节各异的鸟类图片</string>
+    <string name="feathers_title">羽毛</string>
+    <string name="greenwinged_title">绿翅金刚鹦鹉</string>
+    <string name="king_title">王鹫</string>
+    <string name="living_universe_title">宇宙实景</string>
+    <string name="photos_memory_gallery_title">您的回忆</string>
+    <string name="pied_title">非洲白颈鸦</string>
+    <string name="ringnecked_title">红领绿鹦鹉</string>
+    <string name="seagull_title">海鸥</string>
+</resources>

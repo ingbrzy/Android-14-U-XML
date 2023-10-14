@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_install_failed_multi_app_desc">
+        <item quantity="other">Não é possível concluir a configuração porque a instalação de %1$d aplicações obrigatórias falhou. Contacte o administrador do sistema diretamente.</item>
+        <item quantity="one">Não é possível concluir a configuração porque a instalação de %1$d aplicação obrigatória falhou. Contacte o administrador do sistema diretamente.</item>
+        <item quantity="many">"Set-up can't be completed as %1$d required apps failed to install. Please contact your system administrator directly."</item>
+    </plurals>
+    <plurals name="app_install_failure_title">
+        <item quantity="other">Não é possível instalar as aplicações</item>
+        <item quantity="one">Não é possível instalar a aplicação</item>
+        <item quantity="many">"Can't install apps"</item>
+    </plurals>
+    <plurals name="app_install_progress_desc">
+        <item quantity="other">%1$d de %2$d aplicações instaladas</item>
+        <item quantity="one">%1$d de %2$d app instalada</item>
+        <item quantity="many">%1$d of %2$d apps installed</item>
+    </plurals>
+    <plurals name="app_uninstall_button">
+        <item quantity="other">Desinstalar aplicações</item>
+        <item quantity="one">Desinstalar aplicação</item>
+        <item quantity="many">Uninstall apps</item>
+    </plurals>
+    <plurals name="days_left_message">
+        <item quantity="other">Faltam &lt;annotation id="numeric_time_left">^1&lt;/annotation> dias</item>
+        <item quantity="one">Falta &lt;annotation id="numeric_time_left">^1&lt;/annotation> dia</item>
+        <item quantity="many">&lt;annotation id="numeric_time_left">^1&lt;/annotation> days left</item>
+    </plurals>
+    <plurals name="hours_left_message">
+        <item quantity="other">Faltam &lt;annotation id="numeric_time_left">^1&lt;/annotation> horas</item>
+        <item quantity="one">Falta &lt;annotation id="numeric_time_left">^1&lt;/annotation> hora</item>
+        <item quantity="many">&lt;annotation id="numeric_time_left">^1&lt;/annotation> hours left</item>
+    </plurals>
+    <plurals name="number_of_additional_apps">
+        <item quantity="other">%1$d apps adicionais</item>
+        <item quantity="one">%1$d app adicional</item>
+        <item quantity="many">%1$d apps adicionais</item>
+    </plurals>
+    <plurals name="number_of_required_apps">
+        <item quantity="other">%1$d apps necessárias</item>
+        <item quantity="one">%1$d app necessária</item>
+        <item quantity="many">%1$d apps necessárias</item>
+    </plurals>
+    <plurals name="policy_apps_list_summary">
+        <item quantity="other">Não é possível desinstalar %d apps de trabalho</item>
+        <item quantity="one">Não é possível desinstalar %d app de trabalho</item>
+        <item quantity="many">"%d work apps can't be uninstalled"</item>
+    </plurals>
+    <plurals name="preinstalled_apps">
+        <item quantity="other">%1$d de %2$d aplicações instaladas</item>
+        <item quantity="one">%1$d de %2$d app instalada</item>
+        <item quantity="many">%1$d of %2$d apps installed</item>
+    </plurals>
+    <plurals name="readable_name_applications">
+        <item quantity="other">%1$d aplicações disponíveis (%2$d instaladas, %3$d desativadas)</item>
+        <item quantity="one">%1$d aplicação disponível (%2$d instalada, %3$d desativada)</item>
+        <item quantity="many">%1$d apps available (%2$d installed, %3$d disabled)</item>
+    </plurals>
+</resources>

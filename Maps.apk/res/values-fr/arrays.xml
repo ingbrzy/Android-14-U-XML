@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="CALLOUT_ALPHABETIC_LABELS">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+    </string-array>
+    <string-array name="RESTRICTION_ALLOWED_PRICE_LEVEL">
+        <item>Tous</item>
+        <item>€</item>
+        <item>€€</item>
+        <item>€€€</item>
+        <item>€€€€</item>
+    </string-array>
+    <string-array name="RESTRICTION_ALLOWED_PRICE_LEVEL_DESCRIPTIONS">
+        <item>Tous les niveaux de prix</item>
+        <item>Bon marché</item>
+        <item>Modérément cher</item>
+        <item>Cher</item>
+        <item>Très cher</item>
+    </string-array>
+    <string-array name="RESTRICTION_HOTEL_CLASSES">
+        <item>Toutes</item>
+        <item>3 étoiles</item>
+        <item>4 étoiles</item>
+        <item>5 étoiles</item>
+    </string-array>
+    <string-array name="RESTRICTION_OPENING_HOURS_OPTIONS">
+        <item>Tous</item>
+        <item>Ouverts</item>
+        <item>Perso</item>
+    </string-array>
+    <string-array name="SHOW_SCALEBAR_ENTRIES">
+        <item>"Lors d'un zoom avant ou arrière"</item>
+        <item>Toujours</item>
+    </string-array>
+    <string-array name="interactive_rating_state_commentary">
+        <item>"J'ai détesté"</item>
+        <item>"Je n'ai pas aimé"</item>
+        <item>"C'était acceptable"</item>
+        <item>"J'ai bien aimé"</item>
+        <item>"J'ai adoré"</item>
+    </string-array>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="analog_gadget">Analogi</string>
+    <string name="digital_gadget">Dijitali</string>
+    <string name="analog_widget_clover_clock_name">Klova</string>
+    <string name="analog_widget_clover_content_description">Uso wa saa wenye umbo linalofanana na la klova</string>
+    <string name="analog_widget_config_activity_title">Chagua Uso wa Saa</string>
+    <string name="analog_widget_day_clock_name">Siku</string>
+    <string name="analog_widget_day_content_description">Uso wa saa wenye siku ya mwezi</string>
+    <string name="analog_widget_numeral_clock_name">Nambari</string>
+    <string name="analog_widget_numeral_content_description">Uso wa saa wenye nambari kubwa</string>
+    <string name="analog_widget_scallop_clock_name">Kombe ya pwani</string>
+    <string name="analog_widget_scallop_content_description">Uso wa saa wenye siku ya wiki na mwezi</string>
+    <string name="cities_widget_config_activity_subtitle">Unaweza kuongeza miji katika kichupo cha Saa</string>
+    <string name="cities_widget_config_activity_subtitle_button">Chagua miji katika programu ya Saa</string>
+    <string name="cities_widget_preview_city_london">London</string>
+    <string name="cities_widget_preview_city_mountain_view">Mountain View</string>
+    <string name="clock_widget_opaque_label">Thabiti</string>
+    <string name="clock_widget_transparent_label">Kupenyeza mwangaza</string>
+    <string name="digital_appwidget_config_activity_title">Chagua mtindo wa saa</string>
+    <string name="digital_cities_gadget">Dunia</string>
+    <string name="digital_cities_gadget_description">Chagua miji katika programu ya Saa</string>
+    <string name="digital_stacked_gadget">Zilizopangwa kwa rafu</string>
+    <string name="digital_widgets_preview_alarm">J3 saa 09:30</string>
+    <string name="stopwatch_gadget_description">Dhibiti kipima wakati katika programu ya Saa</string>
+</resources>

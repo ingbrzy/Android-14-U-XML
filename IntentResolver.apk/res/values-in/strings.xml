@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Tunjukkan jalan ke rumah</string>
+    <string name="abc_action_bar_up_description">Kembali ke atas</string>
+    <string name="abc_action_menu_overflow_description">Opsi lainnya</string>
+    <string name="abc_action_mode_done">Selesai</string>
+    <string name="abc_activity_chooser_view_see_all">Lihat semua</string>
+    <string name="abc_activitychooserview_choose_application">Pilih aplikasi</string>
+    <string name="abc_capital_off">NONAKTIF</string>
+    <string name="abc_capital_on">AKTIF</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">spasi</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Telusuri...</string>
+    <string name="abc_searchview_description_clear">Hapus kueri</string>
+    <string name="abc_searchview_description_query">Telusuri kueri</string>
+    <string name="abc_searchview_description_search">Telusuri</string>
+    <string name="abc_searchview_description_submit">Kirim kueri</string>
+    <string name="abc_searchview_description_voice">Penelusuran suara</string>
+    <string name="abc_shareactionprovider_share_with">Bagikan dengan</string>
+    <string name="abc_shareactionprovider_share_with_application">Bagikan dengan %s</string>
+    <string name="abc_toolbar_collapse_description">Ciutkan</string>
+    <string name="activity_resolver_use_always">Selalu</string>
+    <string name="activity_resolver_use_once">Sekali ini saja</string>
+    <string name="activity_resolver_work_profiles_support">%1$s tidak mendukung profil kerja</string>
+    <string name="call_notification_answer_action">Jawab</string>
+    <string name="call_notification_answer_video_action">Video</string>
+    <string name="call_notification_decline_action">Tolak</string>
+    <string name="call_notification_hang_up_action">Tutup</string>
+    <string name="call_notification_incoming_text">Panggilan masuk</string>
+    <string name="call_notification_ongoing_text">Panggilan sedang berlangsung</string>
+    <string name="call_notification_screening_text">Menyaring panggilan masuk</string>
+    <string name="chooseActivity">Pilih tindakan</string>
+    <string name="chooser_no_direct_share_targets">Tidak ada rekomendasi kontak untuk berbagi</string>
+    <string name="exclude_link">Kecualikan link</string>
+    <string name="exclude_text">Kecualikan teks</string>
+    <string name="file_preview_a11y_description">Thumbnail pratinjau file</string>
+    <string name="forward_intent_to_owner">Anda menggunakan aplikasi ini di luar profil kerja</string>
+    <string name="forward_intent_to_work">Anda menggunakan aplikasi ini di profil kerja</string>
+    <string name="image_preview_a11y_description">Thumbnail pratinjau gambar</string>
+    <string name="include_link">Sertakan link</string>
+    <string name="include_text">Sertakan teks</string>
+    <string name="miniresolver_open_in_personal">Buka %s di profil pribadi?</string>
+    <string name="miniresolver_open_in_work">Buka %s di profil kerja?</string>
+    <string name="miniresolver_use_personal_browser">Gunakan browser pribadi</string>
+    <string name="miniresolver_use_work_browser">Gunakan browser kerja</string>
+    <string name="more_files">{count,plural, =1{+ # file lainnya}other{+ # file lainnya}}</string>
+    <string name="noApplications">Tidak ada apl yang dapat melakukan tindakan ini.</string>
+    <string name="other_files">{count,plural, =1{+ # file}other{+ # file}}</string>
+    <string name="pin_specific_target">Sematkan %1$s</string>
+    <string name="resolver_cant_access_personal_apps_explanation">Konten ini tidak dapat dibuka dengan aplikasi pribadi</string>
+    <string name="resolver_cant_access_work_apps_explanation">Konten ini tidak dapat dibuka dengan aplikasi kerja</string>
+    <string name="resolver_cant_share_with_personal_apps_explanation">Konten ini tidak dapat dibagikan ke aplikasi pribadi</string>
+    <string name="resolver_cant_share_with_work_apps_explanation">Konten ini tidak dapat dibagikan dengan aplikasi kerja</string>
+    <string name="resolver_cross_profile_blocked">Diblokir oleh admin IT Anda</string>
+    <string name="resolver_no_personal_apps_available">Tidak ada aplikasi pribadi</string>
+    <string name="resolver_no_work_apps_available">Tidak ada aplikasi kerja</string>
+    <string name="resolver_personal_tab">Pribadi</string>
+    <string name="resolver_personal_tab_accessibility">Tampilan pribadi</string>
+    <string name="resolver_switch_on_work">Batalkan jeda</string>
+    <string name="resolver_turn_on_work_apps">Aplikasi kerja dijeda</string>
+    <string name="resolver_work_tab">Kerja</string>
+    <string name="resolver_work_tab_accessibility">Tampilan kerja</string>
+    <string name="screenshot_edit">Edit</string>
+    <string name="search_menu_title">Telusuri</string>
+    <string name="sharing_files">{count,plural, =1{Membagikan # file}other{Membagikan # file}}</string>
+    <string name="sharing_files_only">{count,plural, =1{Khusus file}other{Khusus file}}</string>
+    <string name="sharing_files_with_link">{count,plural, =1{Membagikan file dengan link}other{Membagikan # file dengan link}}</string>
+    <string name="sharing_files_with_text">{count,plural, =1{Membagikan file dengan teks}other{Membagikan # file dengan teks}}</string>
+    <string name="sharing_images">{count,plural, =1{Berbagi gambar}other{Berbagi # gambar}}</string>
+    <string name="sharing_images_only">{count,plural, =1{Khusus gambar}other{Khusus gambar}}</string>
+    <string name="sharing_images_with_link">{count,plural, =1{Membagikan gambar dengan link}other{Membagikan # gambar dengan link}}</string>
+    <string name="sharing_images_with_text">{count,plural, =1{Membagikan gambar dengan teks}other{Membagikan # gambar dengan teks}}</string>
+    <string name="sharing_link">Berbagi link</string>
+    <string name="sharing_text">Berbagi teks</string>
+    <string name="sharing_videos">{count,plural, =1{Membagikan video}other{Membagikan # video}}</string>
+    <string name="sharing_videos_only">{count,plural, =1{Khusus video}other{Khusus video}}</string>
+    <string name="sharing_videos_with_link">{count,plural, =1{Membagikan video dengan link}other{Membagikan # video dengan link}}</string>
+    <string name="sharing_videos_with_text">{count,plural, =1{Membagikan video dengan teks}other{Membagikan # video dengan teks}}</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="unpin_specific_target">Lepas sematan %1$s</string>
+    <string name="usb_device_resolve_prompt_warn">Aplikasi ini tidak diberi izin merekam, tetapi dapat merekam audio melalui perangkat USB ini.</string>
+    <string name="use_a_different_app">Gunakan aplikasi yang berbeda</string>
+    <string name="video_preview_a11y_description">Thumbnail pratinjau video</string>
+    <string name="whichApplication">Selesaikan tindakan menggunakan</string>
+    <string name="whichApplicationLabel">Selesaikan tindakan</string>
+    <string name="whichApplicationNamed">Selesaikan tindakan menggunakan %1$s</string>
+    <string name="whichEditApplication">Edit dengan</string>
+    <string name="whichEditApplicationLabel">Edit</string>
+    <string name="whichEditApplicationNamed">Edit dengan %1$s</string>
+    <string name="whichGiveAccessToApplicationLabel">Berikan akses</string>
+    <string name="whichHomeApplication">Pilih aplikasi Beranda</string>
+    <string name="whichHomeApplicationLabel">Jepret gambar</string>
+    <string name="whichHomeApplicationNamed">Gunakan %1$s sebagai aplikasi Layar utama</string>
+    <string name="whichImageCaptureApplication">Jepret gambar dengan</string>
+    <string name="whichImageCaptureApplicationLabel">Jepret gambar</string>
+    <string name="whichImageCaptureApplicationNamed">Ambil gambar dengan %1$s</string>
+    <string name="whichOpenHostLinksWith">Buka link %1$s dengan</string>
+    <string name="whichOpenHostLinksWithApp">Buka link %1$s dengan %2$s</string>
+    <string name="whichOpenLinksWith">Buka link dengan</string>
+    <string name="whichOpenLinksWithApp">Buka link dengan %1$s</string>
+    <string name="whichSendApplication">Bagikan</string>
+    <string name="whichSendApplicationLabel">Bagikan</string>
+    <string name="whichSendApplicationNamed">Berbagi menggunakan %1$s</string>
+    <string name="whichSendToApplication">Kirim menggunakan</string>
+    <string name="whichSendToApplicationLabel">Kirim</string>
+    <string name="whichSendToApplicationNamed">Kirim menggunakan %1$s</string>
+    <string name="whichViewApplication">Buka dengan</string>
+    <string name="whichViewApplicationLabel">Buka</string>
+    <string name="whichViewApplicationNamed">Buka dengan %1$s</string>
+</resources>

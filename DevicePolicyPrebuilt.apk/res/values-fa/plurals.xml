@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_install_failed_multi_app_desc">
+        <item quantity="other">نمی‌توان راه‌اندازی را کامل کرد، زیرا %1$d برنامه لازم نصب نشد. لطفاً مستقیماً با سرپرست سیستم تماس بگیرید.</item>
+        <item quantity="one">نمی‌توان راه‌اندازی را کامل کرد، زیرا %1$d برنامه لازم نصب نشد. لطفاً مستقیماً با سرپرست سیستم تماس بگیرید.</item>
+    </plurals>
+    <plurals name="app_install_failure_title">
+        <item quantity="other">برنامه‌ها نمی‌توانند نصب شوند</item>
+        <item quantity="one">برنامه‌ها نمی‌توانند نصب شوند</item>
+    </plurals>
+    <plurals name="app_install_progress_desc">
+        <item quantity="other">%1$d برنامه از %2$d برنامه نصب شد</item>
+        <item quantity="one">%1$d برنامه از %2$d برنامه نصب شد</item>
+    </plurals>
+    <plurals name="app_uninstall_button">
+        <item quantity="other">حذف نصب برنامه‌ها</item>
+        <item quantity="one">حذف نصب برنامه‌ها</item>
+    </plurals>
+    <plurals name="days_left_message">
+        <item quantity="other">&lt;annotation id="numeric_time_left">^1&lt;/annotation> روز باقی مانده</item>
+        <item quantity="one">&lt;annotation id="numeric_time_left">^1&lt;/annotation> روز باقی مانده</item>
+    </plurals>
+    <plurals name="hours_left_message">
+        <item quantity="other">&lt;annotation id="numeric_time_left">^1&lt;/annotation> ساعت باقی مانده</item>
+        <item quantity="one">&lt;annotation id="numeric_time_left">^1&lt;/annotation> ساعت باقی مانده</item>
+    </plurals>
+    <plurals name="number_of_additional_apps">
+        <item quantity="other">%1$d برنامه تکمیلی</item>
+        <item quantity="one">%1$d برنامه تکمیلی</item>
+    </plurals>
+    <plurals name="number_of_required_apps">
+        <item quantity="other">%1$d برنامه لازم</item>
+        <item quantity="one">%1$d برنامه لازم</item>
+    </plurals>
+    <plurals name="policy_apps_list_summary">
+        <item quantity="other">%d برنامه کاری را نمی‌توان حذف نصب کرد</item>
+        <item quantity="one">%d برنامه کاری را نمی‌توان حذف نصب کرد</item>
+    </plurals>
+    <plurals name="preinstalled_apps">
+        <item quantity="other">%1$d برنامه از %2$d برنامه نصب شد</item>
+        <item quantity="one">%1$d برنامه از %2$d برنامه نصب شد</item>
+    </plurals>
+    <plurals name="readable_name_applications">
+        <item quantity="other">%1$d برنامه دردسترس است (%2$d نصب‌شده، %3$d غیرفعال‌شده)</item>
+        <item quantity="one">%1$d برنامه دردسترس است (%2$d نصب‌شده، %3$d غیرفعال‌شده)</item>
+    </plurals>
+</resources>

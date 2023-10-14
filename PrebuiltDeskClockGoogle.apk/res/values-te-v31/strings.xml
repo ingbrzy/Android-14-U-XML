@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="analog_gadget">అనలాగ్</string>
+    <string name="digital_gadget">డిజిటల్</string>
+    <string name="analog_widget_clover_clock_name">క్లోవర్</string>
+    <string name="analog_widget_clover_content_description">క్లోవర్ ఆకారంలో ఉన్న గడియార ముఖం</string>
+    <string name="analog_widget_config_activity_title">గడియారం హోమ్ స్క్రీన్‌ను ఎంచుకోండి</string>
+    <string name="analog_widget_day_clock_name">రోజు</string>
+    <string name="analog_widget_day_content_description">నెలలోని రోజును చూపించే గడియార ముఖం</string>
+    <string name="analog_widget_numeral_clock_name">నంబర్‌లు</string>
+    <string name="analog_widget_numeral_content_description">పెద్ద నంబర్‌లను చూపించే గడియార ముఖం</string>
+    <string name="analog_widget_scallop_clock_name">స్కాలోప్</string>
+    <string name="analog_widget_scallop_content_description">వారం, నెలలోని రోజును చూపించే గడియార ముఖం</string>
+    <string name="cities_widget_config_activity_subtitle">గడియారం ట్యాబ్ నుండి నగరాలను జోడించవచ్చు</string>
+    <string name="cities_widget_config_activity_subtitle_button">గడియారం యాప్‌లో నగరాలను ఎంచుకోండి</string>
+    <string name="cities_widget_preview_city_london">లండన్</string>
+    <string name="cities_widget_preview_city_mountain_view">మౌంటెయిన్ వ్యూ</string>
+    <string name="clock_widget_opaque_label">సాలిడ్</string>
+    <string name="clock_widget_transparent_label">పారదర్శకం</string>
+    <string name="digital_appwidget_config_activity_title">గడియార స్టయిల్‌ను ఎంచుకోండి</string>
+    <string name="digital_cities_gadget">ప్రపంచం</string>
+    <string name="digital_cities_gadget_description">గడియారం యాప్‌లో నగరాలను ఎంచుకోండి</string>
+    <string name="digital_stacked_gadget">స్ట్యాక్‌డ్</string>
+    <string name="digital_widgets_preview_alarm">సోమ 09:30</string>
+    <string name="stopwatch_gadget_description">గడియారం యాప్‌లో స్టాప్‌వాచ్‌ను కంట్రోల్ చేయండి</string>
+</resources>

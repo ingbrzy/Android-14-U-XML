@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="azure_title">Sojka azurová</string>
+    <string name="blackswan_title">Černá labuť</string>
+    <string name="cockatoo_title">Kakadu</string>
+    <string name="come_alive_title">Živé tapety</string>
+    <string name="feathers_attribution">Autor fotky: Andrew Zuckerman</string>
+    <string name="feathers_description">Detaily barevného peří</string>
+    <string name="feathers_title">Peří</string>
+    <string name="greenwinged_title">Ara zelenokřídlý</string>
+    <string name="king_title">Kondor královský</string>
+    <string name="living_universe_title">Živoucí vesmír</string>
+    <string name="photos_memory_gallery_title">Vaše vzpomínky</string>
+    <string name="pied_title">Vrána černobílá</string>
+    <string name="ringnecked_title">Alexandr malý</string>
+    <string name="seagull_title">Racek</string>
+</resources>

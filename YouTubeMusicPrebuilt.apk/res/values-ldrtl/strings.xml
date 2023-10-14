@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="album_subtitle_with_artist_and_release_year">%2$d • %1$s</string>
+    <string name="auto_playlist_with_owner_item_subtitle">%1$s • Auto playlist</string>
+    <string name="offline_album_detail_page_subtitle_with_year">%2$d • %1$s</string>
+    <string name="playlist_with_num_songs">%2$s • %1$s</string>
+    <string name="song_subtitle_with_artist_and_duration">%2$s • %1$s</string>
+</resources>

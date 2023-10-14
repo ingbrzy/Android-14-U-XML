@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">Перайсці ўверх</string>
+    <string name="abc_action_mode_done">Гатова</string>
+    <string name="abc_capital_off">ВЫКЛ.</string>
+    <string name="abc_capital_on">УКЛ.</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Fn +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Shift +</string>
+    <string name="abc_menu_space_shortcut_label">Прабел</string>
+    <string name="abc_menu_sym_shortcut_label">Sym +</string>
+    <string name="abc_prepend_shortcut_label">Меню +</string>
+    <string name="abc_search_hint">Пошук…</string>
+    <string name="abc_searchview_description_clear">Выдаліць запыт</string>
+    <string name="abc_searchview_description_search">Пошук</string>
+    <string name="abc_searchview_description_submit">Адправіць запыт</string>
+    <string name="abc_searchview_description_voice">Галасавы пошук</string>
+    <string name="abc_toolbar_collapse_description">Згарнуць</string>
+    <string name="bottom_sheet_button_contact_text">@string/common_view</string>
+    <string name="bottom_sheet_button_matter_text">Наладзіць</string>
+    <string name="bottom_sheet_button_no_apps_text">Пошук</string>
+    <string name="bottom_sheet_button_wifi_text">@string/common_connect</string>
+    <string name="bottom_sheet_copy_error_toast">Не ўдалося скапіраваць тэкст у буфер абмену</string>
+    <string name="bottom_sheet_copy_success_toast">Тэкст скапіраваны ў буфер абмену</string>
+    <string name="bottom_sheet_image_view_description">Паказваецца значок праграмы</string>
+    <string name="bottom_sheet_sub_title_no_apps">Пошук у Google Play</string>
+    <string name="bottom_sheet_title">Адкрыць з дапамогай</string>
+    <string name="bottom_sheet_title_app_found">Адкрыць у праграме \"%1$s\"</string>
+    <string name="bottom_sheet_title_contact">Праглядзець кантактную інфармацыю</string>
+    <string name="bottom_sheet_title_copy_text">Капіраваць тэкст</string>
+    <string name="bottom_sheet_title_copy_text_button_text">@string/common_copy</string>
+    <string name="bottom_sheet_title_copy_text_button_text_copied">Скапіравана</string>
+    <string name="bottom_sheet_title_matter">Наладзьце прыладу</string>
+    <string name="bottom_sheet_title_passkey">Скарыстайце ключ доступу</string>
+    <string name="bottom_sheet_title_payment">Аплаціць з дапамогай</string>
+    <string name="bottom_sheet_title_payment_setup">Наладзіць спосаб аплаты з дапамогай</string>
+    <string name="bottom_sheet_title_payment_setup_single_app">Наладзіць спосаб аплаты з дапамогай праграмы \"%1$s\"</string>
+    <string name="bottom_sheet_title_payment_single_app">Аплаціць праз сэрвіс \"%1$s\"</string>
+    <string name="bottom_sheet_title_single_app_button_text">Адкрыць</string>
+    <string name="bottom_sheet_title_wifi">Падключыцца да Wi-Fi</string>
+    <string name="bottomsheet_action_expand_halfway">Разгарнуць напалову</string>
+    <string name="bottomsheet_drag_handle_content_description">Маркер перацягвання</string>
+    <string name="camera_permission_dialog_button">ОК</string>
+    <string name="camera_permission_dialog_message">"Каб сканіраваць код для \"%1$s\", сэрвісам Google Play неабходны доступ да камеры прылады.
+
+Перайдзіце ў Налады і дайце сэрвісам Google Play дазвол на доступ да камеры."</string>
+    <string name="camera_permission_dialog_message_platform">"Каб сканіраваць QR-код, сэрвісам Google Play неабходны доступ да камеры прылады.
+
+Перайдзіце ў Налады і дайце сэрвісам Google Play дазвол на доступ да камеры."</string>
+    <string name="camera_permission_dialog_title">Патрабуецца доступ да камеры</string>
+    <string name="cd_cancel_button">Закрыць сканер кодаў</string>
+    <string name="cd_info_button">Адкрыць дыялогавае акно з інфармацыяй</string>
+    <string name="cd_selected_photo_view">Паказаць выбраны відарыс</string>
+    <string name="cd_settings_button">Адкрыць налады сканера</string>
+    <string name="cd_torch_button">Уключыць/выключыць ліхтарык</string>
+    <string name="character_counter_content_description">Уведзена сімвалаў: %1$d з %2$d</string>
+    <string name="character_counter_overflowed_content_description">Абмежаванне колькасці сімвалаў перавышана: %1$d з %2$d</string>
+    <string name="clear_text_end_icon_content_description">Ачысціць тэкст</string>
+    <string name="common_connect">Падключыцца</string>
+    <string name="common_continue">Працягнуць</string>
+    <string name="common_copy">Капіраваць</string>
+    <string name="common_google_play_services_enable_button">Уключыць</string>
+    <string name="common_google_play_services_enable_text">%1$s не будзе працаваць, пакуль вы не ўключыце службы Google Play.</string>
+    <string name="common_google_play_services_enable_title">Уключыць службы Google Play</string>
+    <string name="common_google_play_services_install_button">Усталяваць</string>
+    <string name="common_google_play_services_install_text">%1$s не будзе працаваць без службаў Google Play, якія адсутнічаюць на вашай прыладзе.</string>
+    <string name="common_google_play_services_install_title">Атрымаць службы Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Даступнасць сэрвісаў Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Памылка службаў Google Play</string>
+    <string name="common_google_play_services_unknown_issue">У праграмы %1$s узніклі праблемы са службамі Google Play. Паўтарыце спробу.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s не будзе працаваць без службаў Google Play, якія не падтрымліваюцца вашай прыладай.</string>
+    <string name="common_google_play_services_update_button">Абнавіць</string>
+    <string name="common_google_play_services_update_text">%1$s не будзе працаваць, пакуль вы не абновіце службы Google Play.</string>
+    <string name="common_google_play_services_update_title">Абнаўленне службаў Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s не будзе працаваць без службаў Google Play, якія ў цяперашні час абнаўляюцца.</string>
+    <string name="common_google_play_services_wear_update_text">Патрабуецца новая версія служб Google Play. Яна абновіцца аўтаматычна ў бліжэйшы час.</string>
+    <string name="common_got_it">Зразумела</string>
+    <string name="common_no_apps_found">Праграмы не знойдзены</string>
+    <string name="common_open_on_phone">Адкрыць на тэлефоне</string>
+    <string name="common_view">Праглядзець</string>
+    <string name="error_a11y_label">Error: invalid</string>
+    <string name="error_icon_content_description">Памылка</string>
+    <string name="exposed_dropdown_menu_content_description">Паказаць выпадное меню</string>
+    <string name="info_dialog_button">@string/common_got_it</string>
+    <string name="info_dialog_message">"%1$s запытвае сканіраванне кода сэрвісамі Google Play. Будуць абагулены толькі вынікі сканіравання (даныя пра відарыс не абагульваюцца).
+
+Сканіраванне выконваецца на вашай прыладзе, Google не захоўвае даныя пра відарыс або адсканіраваныя коды."</string>
+    <string name="info_dialog_message_platform">Сэрвісы Google Play маюць доступ да камеры прылады. Даныя і відарысы адсканіраванага кода нідзе не захоўваюцца і ні з кім не абагульняюцца.</string>
+    <string name="info_dialog_title">Абаронена Google</string>
+    <string name="info_dialog_title_platform">На платформе Google</string>
+    <string name="manual_input_hint">Націсніце тут, каб увесці код уручную</string>
+    <string name="mtrl_checkbox_state_description_checked">Checked</string>
+    <string name="mtrl_checkbox_state_description_indeterminate">Partially checked</string>
+    <string name="mtrl_checkbox_state_description_unchecked">Not checked</string>
+    <string name="password_toggle_content_description">Паказаць пароль</string>
+    <string name="qr_detection_failure_dialog_message">Адсканіруйце з іншага фота</string>
+    <string name="qr_detection_failure_dialog_title">QR-код не знойдзены</string>
+    <string name="scan_from_photo_title">Адсканіраваць з гэтага фота</string>
+    <string name="scanner_brand">Праверана Google ад імя \"%1$s\"</string>
+    <string name="scanner_brand_platform">@string/info_dialog_title_platform</string>
+    <string name="scanner_title">Сканіраваць код</string>
+    <string name="scanner_title_platform">Сканіраваць QR-код</string>
+</resources>

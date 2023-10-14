@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="calendar_default_name">Стандартны</string>
+    <string name="calendar_info">Даныя календара</string>
+    <string name="calendar_info_error">Памылка</string>
+    <string name="calendar_info_events">Падзеі: %1$d</string>
+    <string name="calendar_info_events_dirty">Падзеі: %1$d; незахаваных: %2$d</string>
+    <string name="calendar_info_no_calendars">Няма календароў</string>
+    <string name="calendar_storage">Сховішча календара</string>
+    <string name="debug_tool_delete_button">Выдаліць</string>
+    <string name="debug_tool_email_body">Далучана база даных майго календара з усімі сустрэчамі і асабістай інфармацыяй. Працуйце з ёй уважліва.</string>
+    <string name="debug_tool_email_sender_picker">Выберыце праграму для адпраўкі файла</string>
+    <string name="debug_tool_email_subject">База даных календара далучана</string>
+    <string name="debug_tool_message">Вы збіраецеся: 1) скапіраваць базу даных свайго календара на SD-карту ці USB-сховішча, якія можа прачытаць любая праграма; 2) адправіць копію па электроннай пошце. Не забудзьце выдаліць копію, як толькі база будзе скапіравана з прылады ці атрымана па электроннай пошце.</string>
+    <string name="debug_tool_start_button">Пачаць</string>
+    <string name="provider_label">Каляндар</string>
+</resources>

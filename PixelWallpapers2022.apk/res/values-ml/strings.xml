@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="azure_title">അസൂർ ജെയ്</string>
+    <string name="blackswan_title">കറുത്ത അരയന്നം</string>
+    <string name="cockatoo_title">കോക്കറ്റൂ</string>
+    <string name="come_alive_title">സജീവമാകൂ</string>
+    <string name="feathers_attribution">Andrew Zuckerman നൽകിയ ഫോട്ടോ</string>
+    <string name="feathers_description">തൂവലിന്റെ നിറങ്ങളുടെയും അതിലെ വിശദാംശങ്ങളുടെയും ദൃശ്യവൽക്കരണം</string>
+    <string name="feathers_title">തൂവലുകൾ</string>
+    <string name="greenwinged_title">പച്ച ചിറകുള്ള മക്കോവ്</string>
+    <string name="king_title">കിംഗ് വൾച്ചർ</string>
+    <string name="living_universe_title">ജീവസ്സുറ്റ പ്രപഞ്ചം</string>
+    <string name="photos_memory_gallery_title">നിങ്ങളുടെ ഓർമ്മകൾ</string>
+    <string name="pied_title">പൈഡ് ക്രൗ</string>
+    <string name="ringnecked_title">റിംഗ് നെക്ക് പാരക്കീറ്റ്</string>
+    <string name="seagull_title">കടൽക്കാക്ക</string>
+</resources>

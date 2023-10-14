@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sound_amplifier_html_description">Sound Amplifier makes weak sounds louder without making powerful sounds too loud&lt;br/>&lt;br/> &lt;b>How to use Sound Amplifier&lt;/b>&lt;br/> 1. Plug in wired headphones or connect Bluetooth headphones&lt;br/> 2. Start Sound Amplifier</string>
+    <string name="sound_amplifier_intro">Use Sound Amplifier with headphones to enhance audio quality around you and on your device</string>
+</resources>

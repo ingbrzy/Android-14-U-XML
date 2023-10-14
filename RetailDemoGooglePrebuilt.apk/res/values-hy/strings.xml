@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_retaildemoCommunication">Թույլ է տալիս հավելվածին փոխազդել խանութի ցուցադրական ռեժիմի ծառայությունների հետ։ Այս թույլտվությունը պետք է տրվի միայն խանութի ցուցադրական ռեժիմին։ Թույլտվությունն ունեցող հավելվածները կարող են գործարկել խանութի ցուցադրական ռեժիմի համար ամրագրված գործողություններ։</string>
+    <string name="permlab_retaildemoCommunication">Խանութի ցուցադրական ռեժիմի հետ հաղորդակցում</string>
+    <string name="retaildemo_preload_app_name">Դեմո ծառայություններ</string>
+</resources>

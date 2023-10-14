@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Անցնել գլխավոր էջ</string>
+    <string name="abc_action_bar_up_description">Անցնել վերև</string>
+    <string name="abc_action_menu_overflow_description">Այլ ընտրանքներ</string>
+    <string name="abc_action_mode_done">Պատրաստ է</string>
+    <string name="abc_activity_chooser_view_see_all">Տեսնել բոլորը</string>
+    <string name="abc_activitychooserview_choose_application">Ընտրել հավելված</string>
+    <string name="abc_capital_off">ԱՆՋԱՏԵԼ</string>
+    <string name="abc_capital_on">ՄԻԱՑՆԵԼ</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">բացատ</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Որոնում…</string>
+    <string name="abc_searchview_description_clear">Ջնջել հարցումը</string>
+    <string name="abc_searchview_description_query">Որոնման հարցում</string>
+    <string name="abc_searchview_description_search">Որոնել</string>
+    <string name="abc_searchview_description_submit">Ուղարկել հարցումը</string>
+    <string name="abc_searchview_description_voice">Ձայնային որոնում</string>
+    <string name="abc_shareactionprovider_share_with">Կիսվել…</string>
+    <string name="abc_shareactionprovider_share_with_application">Կիսվել %s հավելվածի միջոցով</string>
+    <string name="abc_toolbar_collapse_description">Ծալել</string>
+    <string name="activity_resolver_use_always">Միշտ</string>
+    <string name="activity_resolver_use_once">Միայն այս անգամ</string>
+    <string name="activity_resolver_work_profiles_support">%1$s հավելվածն աշխատանքային պրոֆիլներ չի աջակցում</string>
+    <string name="call_notification_answer_action">Պատասխանել</string>
+    <string name="call_notification_answer_video_action">Տեսազանգ</string>
+    <string name="call_notification_decline_action">Մերժել</string>
+    <string name="call_notification_hang_up_action">Ավարտել</string>
+    <string name="call_notification_incoming_text">Մուտքային զանգ</string>
+    <string name="call_notification_ongoing_text">Ընթացիկ զանգ</string>
+    <string name="call_notification_screening_text">Մուտքային զանգի զտում</string>
+    <string name="chooseActivity">Ընտրեք գործողություն</string>
+    <string name="chooser_no_direct_share_targets">Չկան օգտատերեր, որոնց հետ կարող եք կիսվել</string>
+    <string name="exclude_link">Բացառել հղումը</string>
+    <string name="exclude_text">Բացառել տեքստը</string>
+    <string name="file_preview_a11y_description">Ֆայլի նախադիտման մանրապատկեր</string>
+    <string name="forward_intent_to_owner">Դուք օգտագործում եք այս հավելվածը ձեր աշխատանքային պրոֆիլից դուրս</string>
+    <string name="forward_intent_to_work">Դուք օգտագործում եք այս հավելվածը ձեր աշխատանքային պրոֆիլում</string>
+    <string name="image_preview_a11y_description">Պատկերի նախադիտման մանրապատկեր</string>
+    <string name="include_link">Ներառել հղումը</string>
+    <string name="include_text">Ներառել տեքստը</string>
+    <string name="miniresolver_open_in_personal">Բացե՞լ %s հավելվածը ձեր անձնական պրոֆիլում</string>
+    <string name="miniresolver_open_in_work">Բացե՞լ %s հավելվածը ձեր աշխատանքային պրոֆիլում</string>
+    <string name="miniresolver_use_personal_browser">Օգտագործել անձնական դիտարկիչը</string>
+    <string name="miniresolver_use_work_browser">Օգտագործել աշխատանքային դիտարկիչը</string>
+    <string name="more_files">{count,plural, =1{Ու ևս # ֆայլ}one{Ու ևս # ֆայլ}other{Ու ևս # ֆայլ}}</string>
+    <string name="noApplications">Ոչ մի հավելված չի կարող կատարել այս գործողությունը:</string>
+    <string name="other_files">{count,plural, =1{+ # ֆայլ}one{# ֆայլ}other{# ֆայլ}}</string>
+    <string name="pin_specific_target">Ամրացնել %1$s հավելվածը</string>
+    <string name="resolver_cant_access_personal_apps_explanation">Այս բովանդակությունը հնարավոր չէ բացել անձնական հավելվածներով</string>
+    <string name="resolver_cant_access_work_apps_explanation">Այս բովանդակությունը հնարավոր չէ բացել աշխատանքային հավելվածներով</string>
+    <string name="resolver_cant_share_with_personal_apps_explanation">Այս բովանդակությունը հնարավոր չէ ուղարկել անձնական հավելվածներով</string>
+    <string name="resolver_cant_share_with_work_apps_explanation">Այս բովանդակությունը հնարավոր չէ ուղարկել աշխատանքային հավելվածներով</string>
+    <string name="resolver_cross_profile_blocked">Արգելափակվել է ձեր ՏՏ ադմինիստրատորի կողմից</string>
+    <string name="resolver_no_personal_apps_available">Անձնական հավելվածներ չկան</string>
+    <string name="resolver_no_work_apps_available">Աշխատանքային հավելվածներ չկան</string>
+    <string name="resolver_personal_tab">Անձնական</string>
+    <string name="resolver_personal_tab_accessibility">Անձնական</string>
+    <string name="resolver_switch_on_work">Նորից միացնել</string>
+    <string name="resolver_turn_on_work_apps">Աշխատանքային հավելվածները դադարեցված են</string>
+    <string name="resolver_work_tab">Աշխատանքային</string>
+    <string name="resolver_work_tab_accessibility">Աշխատանքային</string>
+    <string name="screenshot_edit">Փոփոխել</string>
+    <string name="search_menu_title">Որոնել</string>
+    <string name="sharing_files">{count,plural, =1{Ուղարկվում է # ֆայլ}one{Ուղարկվում է # ֆայլ}other{Ուղարկվում է # ֆայլ}}</string>
+    <string name="sharing_files_only">{count,plural, =1{Միայն ֆայլը}one{Միայն ֆայլը}other{Միայն ֆայլերը}}</string>
+    <string name="sharing_files_with_link">{count,plural, =1{Ֆայլի ուղարկում հղման միջոցով}one{# ֆայլի ուղարկում հղման միջոցով}other{# ֆայլի ուղարկում հղման միջոցով}}</string>
+    <string name="sharing_files_with_text">{count,plural, =1{Ֆայլի ուղարկում տեքստային հաղորդագրության միջոցով}one{# ֆայլի ուղարկում տեքստային հաղորդագրության միջոցով}other{# ֆայլի ուղարկում տեքստային հաղորդագրության միջոցով}}</string>
+    <string name="sharing_images">{count,plural, =1{Պատկերի ուղարկում}one{# պատկերի ուղարկում}other{# պատկերի ուղարկում}}</string>
+    <string name="sharing_images_only">{count,plural, =1{Միայն պատկերը}one{Միայն պատկերը}other{Միայն պատկերները}}</string>
+    <string name="sharing_images_with_link">{count,plural, =1{Պատկերի ուղարկում հղման միջոցով}one{# պատկերի ուղարկում հղման միջոցով}other{# պատկերի ուղարկում հղման միջոցով}}</string>
+    <string name="sharing_images_with_text">{count,plural, =1{Պատկերի ուղարկում տեքստային հաղորդագրության միջոցով}one{# պատկերի ուղարկում տեքստային հաղորդագրության միջոցով}other{# պատկերի ուղարկում տեքստային հաղորդագրության միջոցով}}</string>
+    <string name="sharing_link">Հղման ուղարկում</string>
+    <string name="sharing_text">Տեքստի ուղարկում</string>
+    <string name="sharing_videos">{count,plural, =1{Տեսանյութի ուղարկում}one{# տեսանյութի ուղարկում}other{# տեսանյութի ուղարկում}}</string>
+    <string name="sharing_videos_only">{count,plural, =1{Միայն տեսանյութը}one{Միայն տեսանյութը}other{Միայն տեսանյութերը}}</string>
+    <string name="sharing_videos_with_link">{count,plural, =1{Տեսանյութի ուղարկում հղման միջոցով}one{# տեսանյութի ուղարկում հղման միջոցով}other{# տեսանյութի ուղարկում հղման միջոցով}}</string>
+    <string name="sharing_videos_with_text">{count,plural, =1{Տեսանյութի ուղարկում տեքստային հաղորդագրության միջոցով}one{# տեսանյութի ուղարկում տեքստային հաղորդագրության միջոցով}other{# տեսանյութի ուղարկում տեքստային հաղորդագրության միջոցով}}</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="unpin_specific_target">Ապամրացնել %1$s հավելվածը</string>
+    <string name="usb_device_resolve_prompt_warn">Հավելվածը ձայնագրելու թույլտվություն չունի, սակայն կկարողանա գրանցել ձայնն այս USB սարքի միջոցով։</string>
+    <string name="use_a_different_app">Ուրիշ հավելված</string>
+    <string name="video_preview_a11y_description">Տեսանյութի նախադիտման մանրապատկեր</string>
+    <string name="whichApplication">Ավարտել գործողությունը` օգտագործելով</string>
+    <string name="whichApplicationLabel">Ավարտել գործողությունը</string>
+    <string name="whichApplicationNamed">Ավարտել գործողությունը %1$s հավելվածի միջոցով</string>
+    <string name="whichEditApplication">Խմբագրել հետևյալ ծրագրով՝</string>
+    <string name="whichEditApplicationLabel">Փոփոխել</string>
+    <string name="whichEditApplicationNamed">Խմբագրել %1$s հավելվածի միջոցով</string>
+    <string name="whichGiveAccessToApplicationLabel">Թույլատրել</string>
+    <string name="whichHomeApplication">Ընտրեք Հիմնական հավելվածը</string>
+    <string name="whichHomeApplicationLabel">Լուսանկարել</string>
+    <string name="whichHomeApplicationNamed">Օգտագործել %1$s հավելվածը որպես հիմնական էկրան</string>
+    <string name="whichImageCaptureApplication">Լուսանկարել այս հավելվածի օգնությամբ</string>
+    <string name="whichImageCaptureApplicationLabel">Լուսանկարել</string>
+    <string name="whichImageCaptureApplicationNamed">Լուսանկարել %1$s հավելվածի միջոցով</string>
+    <string name="whichOpenHostLinksWith">%1$s տեսակի հղումները բացել…</string>
+    <string name="whichOpenHostLinksWithApp">%1$s տեսակի հղումները բացել %2$s դիտարկիչում</string>
+    <string name="whichOpenLinksWith">Հղումները բացել այս հավելվածով…</string>
+    <string name="whichOpenLinksWithApp">Հղումները բացել %1$s դիտարկիչում</string>
+    <string name="whichSendApplication">Կիսվել</string>
+    <string name="whichSendApplicationLabel">Կիսվել</string>
+    <string name="whichSendApplicationNamed">Կիսվել %1$s հավելվածի միջոցով</string>
+    <string name="whichSendToApplication">Ուղարկել այս հավելվածով</string>
+    <string name="whichSendToApplicationLabel">Ուղարկել</string>
+    <string name="whichSendToApplicationNamed">Ուղարկել %1$s հավելվածի միջոցով</string>
+    <string name="whichViewApplication">Բացել հետևյալ ծրագրով՝</string>
+    <string name="whichViewApplicationLabel">Բացել</string>
+    <string name="whichViewApplicationNamed">Բացել %1$s հավելվածի միջոցով</string>
+</resources>

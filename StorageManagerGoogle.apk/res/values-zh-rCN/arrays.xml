@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="select_logpersist_summaries">
+        <item>已关闭</item>
+        <item>所有日志缓冲区</item>
+        <item>所有非无线电日志缓冲区</item>
+        <item>仅限内核日志缓冲区</item>
+    </string-array>
+</resources>

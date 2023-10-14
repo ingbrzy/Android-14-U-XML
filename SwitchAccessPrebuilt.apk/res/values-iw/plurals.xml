@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dots">
+        <item quantity="other">%s נקודות</item>
+        <item quantity="one">%s נקודות</item>
+        <item quantity="two">%s נקודות</item>
+    </plurals>
+    <plurals name="gestures_recorded_message">
+        <item quantity="other">הוקלטו %d תנועות</item>
+        <item quantity="one">הוקלטו %d תנועות</item>
+        <item quantity="two">הוקלטו %d תנועות</item>
+    </plurals>
+    <plurals name="label_num_keys_assigned_format">
+        <item quantity="other">הוקצו %d מתגים</item>
+        <item quantity="one">הוקצו %d מתגים</item>
+        <item quantity="two">הוקצו %d מתגים</item>
+    </plurals>
+    <plurals name="label_num_scanning_loops_format">
+        <item quantity="other">%d חזרות</item>
+        <item quantity="one">%d חזרות</item>
+        <item quantity="two">%d חזרות</item>
+    </plurals>
+    <plurals name="line_speed_summary_format">
+        <item quantity="other">%.2f ס\"מ לשנייה</item>
+        <item quantity="one">%.2f ס\"מ לשנייה</item>
+        <item quantity="two">%.2f ס\"מ לשנייה</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d התראות חדשות</item>
+        <item quantity="one">%d התראות חדשות</item>
+        <item quantity="two">%d התראות חדשות</item>
+    </plurals>
+    <plurals name="time_delay_summary_format">
+        <item quantity="other">%.2f שניות</item>
+        <item quantity="one">%.2f שניות</item>
+        <item quantity="two">%.2f שניות</item>
+    </plurals>
+</resources>

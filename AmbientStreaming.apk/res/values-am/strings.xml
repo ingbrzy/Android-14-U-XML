@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">መሣሪያ-ተሻጋሪ አገልግሎቶች</string>
+    <string name="app_name_generic">አንድ መተግበሪያ</string>
+    <string name="app_stream_error_generic">በመተግበሪያ ማጋራት ጊዜ ስህተት ተከስቷል</string>
+    <string name="app_stream_init_error_generic">መተግበሪያን ለእርስዎ Chromebook ማጋራት አልተሳካም</string>
+    <string name="audio_permission_rationale">ለመተግበሪያ ማጋራት የማይክሮፎን ፈቃድ ተሰናክሏል</string>
+    <string name="cancel_button_label">ይቅር</string>
+    <string name="chromebook_keyboard">የChromebook ቁልፍ ሰሌዳ</string>
+    <string name="chromebook_mouse">የChromebook መዳፊት</string>
+    <string name="chromebook_touchscreen">የChromebook ተነኪ ማያ</string>
+    <string name="connect_device">ስልክዎን ከርቀት መሣሪያ ጋር በማገናኘት ላይ፦ %1$s</string>
+    <string name="decline_button_label">አትቀበል</string>
+    <string name="development_notification_channel_name">ልማት</string>
+    <string name="device_camera_cannot_access">ከዚህ Chromebook ሆኖ የመሣሪያ ካሜራን መድረስ አይቻልም</string>
+    <string name="done_button_label">ተከናውኗል</string>
+    <string name="enable_button_label">አንቃ</string>
+    <string name="foreground_service_notification_channel_name">አጠቃላይ</string>
+    <string name="foreground_service_notification_content">ቅንብሮችን ለመቀየር መታ ያድርጉ</string>
+    <string name="foreground_service_notification_title">{0,plural, =1{ከ# መሣሪያ ጋር ተገናኝቷል}one{ከ# መሣሪያዎች ጋር ተገናኝቷል}other{ከ# መሣሪያዎች ጋር ተገናኝቷል}}</string>
+    <string name="interactive_streaming_generic_notification">ለእርስዎ Chromebook %1$sን በዥረት በመልቀቅ እና ማሳወቂያዎችን በማስመር ላይ</string>
+    <string name="interactive_streaming_individual_notification">ዥረት ለ%2$s %1$s መልቀቅ እና ማሳወቂያዎችን ማስመር</string>
+    <string name="interactive_streaming_notification">ወደ እርስዎ Chromebook በዥረት በመልቀቅ ላይ</string>
+    <string name="keyboard_name">መሣሪያ-ተሻጋሪ ቁልፍ ሰሌዳ</string>
+    <string name="lock_screen_notif_warning_content">በማያ ገፅ ቆልፍ ላይ ማሳወቂያዎችን ያንቁ</string>
+    <string name="lock_screen_notif_warning_title">ማሳወቂያዎች አይተላለፉም</string>
+    <string name="mouse_name">መሣሪያ-ተሻጋሪ መዳፊት</string>
+    <string name="new_connection_confirm">አረጋግጥ</string>
+    <string name="new_connection_deny">ከልክል</string>
+    <string name="new_connection_title">እባክዎ የሕብረቁምፊ ተዛማጆቹን ያረጋግጡ</string>
+    <string name="notification_access_missing">የማሳወቂያ መዳረሻ ያስፈልጋል</string>
+    <string name="notification_access_missing_description">በእርስዎ Chromebook ላይ ማሳወቂያዎችን ለመክፈት የማሳወቂያ መዳረሻን ያብሩ</string>
+    <string name="notification_channel_name">ጠቅላላ</string>
+    <string name="notification_listener_label">እርስዎ በChromebook አማካኝነት መተግበሪያዎችን ያጋሩ</string>
+    <string name="open_source_licenses">የክፍት ምንጭ ፈቃዶች</string>
+    <string name="phone_permission_rationale">ለመተግበሪያ ማጋራት የስልክ ጥሪ ፈቃድ ተሰናክሏል</string>
+    <string name="prompt_switch_languages">የስልክዎን የGboard ቋንቋ ለመቀየር ቀያይር + ክፍተትን ይጫኑ</string>
+    <string name="settings_button">ቅንብሮች</string>
+    <string name="stop_sharing_button">ዥረትን ጨርስ</string>
+    <string name="stream_termination_proximity_warning">የእርስዎ ስልክ በጣም ርቋል። ዥረቱን ለመቀጠል ያቅርቡ።</string>
+    <string name="substitute_app_name">ሥርዓት</string>
+    <string name="summary_disable_wirecutter">ጠፍቷል</string>
+    <string name="summary_enable_wirecutter">በርቷል</string>
+    <string name="touchscreen_name">መሣሪያ-ተሻጋሪ መነካት የሚችል ማያ</string>
+</resources>

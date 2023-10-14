@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Služby pre viacero zariadení</string>
+    <string name="app_name_generic">aplikácia</string>
+    <string name="app_stream_error_generic">Počas zdieľania aplikácie sa vyskytla chyba</string>
+    <string name="app_stream_init_error_generic">Aplikáciu sa nepodarilo s Chromebookom zdieľať</string>
+    <string name="audio_permission_rationale">Povolenie mikrofónu na zdieľanie aplikácie je zakázané</string>
+    <string name="cancel_button_label">Zrušiť</string>
+    <string name="chromebook_keyboard">Klávesnica Chromebooku</string>
+    <string name="chromebook_mouse">Myš Chromebooku</string>
+    <string name="chromebook_touchscreen">Dotyková obrazovka Chromebooku</string>
+    <string name="connect_device">Telefón sa pripája k vzdialenému zariadeniu: %1$s</string>
+    <string name="decline_button_label">Odmietnuť</string>
+    <string name="development_notification_channel_name">Vývoj</string>
+    <string name="device_camera_cannot_access">Tento Chromebook nemá prístup ku kamere zariadenia</string>
+    <string name="done_button_label">Hotovo</string>
+    <string name="enable_button_label">Zapnúť</string>
+    <string name="foreground_service_notification_channel_name">Všeobecné</string>
+    <string name="foreground_service_notification_content">Klepnutím zmeníte nastavenia</string>
+    <string name="foreground_service_notification_title">{0,plural, =1{Pripojené k # zariadeniu}few{Pripojené k # zariadeniam}many{Connected to # devices}other{Pripojené k # zariadeniam}}</string>
+    <string name="interactive_streaming_generic_notification">Aplikácia %1$s sa streamuje a synchronizujú sa upozornenia pre váš Chromebook</string>
+    <string name="interactive_streaming_individual_notification">Streamuje sa aplikácia %1$s a synchronizujú sa upozornenia pre používateľa %2$s</string>
+    <string name="interactive_streaming_notification">Streamuje sa do Chromebook</string>
+    <string name="keyboard_name">Klávesnica pre viacero zariadení</string>
+    <string name="lock_screen_notif_warning_content">Povoľte upozornenia na uzamknutej obrazovke</string>
+    <string name="lock_screen_notif_warning_title">Upozornenia nebudú preposielané</string>
+    <string name="mouse_name">Myš pre viaceré zariadenia</string>
+    <string name="new_connection_confirm">Potvrdiť</string>
+    <string name="new_connection_deny">Zamietnuť</string>
+    <string name="new_connection_title">Potvr. zhodu reťazca</string>
+    <string name="notification_access_missing">Vyžaduje sa prístup k upozorneniam</string>
+    <string name="notification_access_missing_description">Ak chcete otvoriť upozornenia v Chromebooku, zapnite prístup k upozorneniam</string>
+    <string name="notification_channel_name">Všeobecné</string>
+    <string name="notification_listener_label">Zdieľanie aplikácie s Chromebookom</string>
+    <string name="open_source_licenses">Licencie open source</string>
+    <string name="phone_permission_rationale">Povolenie telefonického hovoru na zdieľania aplikácie je zakázané</string>
+    <string name="prompt_switch_languages">Ak chcete v telefóne prepnúť jazyk klávesnice Gboard, stlačte Shift + medzerník</string>
+    <string name="settings_button">Nastavenia</string>
+    <string name="stop_sharing_button">Ukončiť streamovanie</string>
+    <string name="stream_termination_proximity_warning">Telefón je príliš ďaleko. Priblížte ho, aby mohlo streamovanie pokračovať.</string>
+    <string name="substitute_app_name">Systém</string>
+    <string name="summary_disable_wirecutter">Vypnuté</string>
+    <string name="summary_enable_wirecutter">Zapnuté</string>
+    <string name="touchscreen_name">Dotyková obrazovka pre viacero zariadení</string>
+</resources>

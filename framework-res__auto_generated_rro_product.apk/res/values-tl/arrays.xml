@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Igalaw ang iyong daliri. Subukan ulit.</item>
+        <item>Na-enroll na ang daliri, gumamit ng ibang daliri.</item>
+        <item>Hindi maganda ang kalidad ng larawan. Subukan ulit.</item>
+        <item></item>
+        <item>Hindi maganda ang kalidad ng larawan. Subukan ulit.</item>
+        <item></item>
+        <item></item>
+        <item>May nakitang dumi, linisin ang screen. Subukan ulit.</item>
+        <item>Hindi na-read ang larawan. Subukan ulit.</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Nire-require ang pag-enroll ulit.</item>
+    </string-array>
+    <string-array name="fingerprint_error_vendor">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Hindi maayos ang data. Subukan ulit.</item>
+        <item>Hindi na-enroll ang daliri. Subukan ulit.</item>
+    </string-array>
+</resources>

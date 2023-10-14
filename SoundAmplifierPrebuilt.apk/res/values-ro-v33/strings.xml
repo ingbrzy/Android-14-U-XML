@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sound_amplifier_html_description">Amplificatorul de sunet face sunetele slabe mai puternice, dar sunetele puternice nu vor deveni prea zgomotoase&lt;br/>&lt;br/> &lt;b>Cum să folosești Amplificatorul de sunet&lt;/b>&lt;br/> 1. Conectează căștile cu fir sau căștile Bluetooth&lt;br/> 2. Pornește Amplificatorul de sunet</string>
+    <string name="sound_amplifier_intro">Folosește Amplificatorul de sunet cu căștile pentru a îmbunătăți calitatea sunetelor din jur și de pe dispozitiv</string>
+</resources>

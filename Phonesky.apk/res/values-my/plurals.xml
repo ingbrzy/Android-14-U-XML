@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120000">
+        <item quantity="other">Wi-Fi ကို စောင့်နေသည်</item>
+        <item quantity="one">Wi-Fi ကို စောင့်နေသည်</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120002">
+        <item quantity="other">ဤစက်တွင် (အက်ပ် %d ခု)</item>
+        <item quantity="one">ဤစက်တွင် (အက်ပ် %d ခု)</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120003">
+        <item quantity="other">%1$s အတွက် ဝန်ဆောင်မှုများ</item>
+        <item quantity="one">%1$s အတွက် ဝန်ဆောင်မှု</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120004">
+        <item quantity="other">ပြီးခဲ့သည့် %d ရက်က ထည့်သွင်းထားသည်</item>
+        <item quantity="one">ပြီးခဲ့သည့် %d ရက်က ထည့်သွင်းထားသည်</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120005">
+        <item quantity="other">ပြီးခဲ့သည့် %d နာရီက ထည့်သွင်းထားသည်</item>
+        <item quantity="one">ပြီးခဲ့သည့် %d နာရီက ထည့်သွင်းထားသည်</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120006">
+        <item quantity="other">ပြီးခဲ့သည့် %d မိနစ်က ထည့်သွင်းထားသည်</item>
+        <item quantity="one">ပြီးခဲ့သည့် %d မိနစ်က ထည့်သွင်းထားသည်</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120007">
+        <item quantity="other">%1$d ခု ရွေးထားသည်</item>
+        <item quantity="one">%1$d ခု ရွေးထားသည်</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120008">
+        <item quantity="other">ပြီးခဲ့သော %d ရက်က အပ်ဒိတ်လုပ်ထားသည်</item>
+        <item quantity="one">ပြီးခဲ့သော %d ရက်က အပ်ဒိတ်လုပ်ထားသည်</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120009">
+        <item quantity="other">ပြီးခဲ့သော %d နာရီက အပ်ဒိတ်လုပ်ထားသည်</item>
+        <item quantity="one">ပြီးခဲ့သော %d နာရီက အပ်ဒိတ်လုပ်ထားသည်</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000a">
+        <item quantity="other">ပြီးခဲ့သော %d မိနစ်က အပ်ဒိတ်လုပ်ထားသည်</item>
+        <item quantity="one">ပြီးခဲ့သော %d မိနစ်က အပ်ဒိတ်လုပ်ထားသည်</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000b">
+        <item quantity="other">ပြီးခဲ့သော %d ရက်က နောက်ဆုံး သုံးထားသည်</item>
+        <item quantity="one">ပြီးခဲ့သော %d ရက်က နောက်ဆုံး သုံးထားသည်</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000c">
+        <item quantity="other">ပြီးခဲ့သော %d နာရီက နောက်ဆုံး သုံးထားသည်</item>
+        <item quantity="one">ပြီးခဲ့သော %d နာရီက နောက်ဆုံး သုံးထားသည်</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000d">
+        <item quantity="other">ပြီးခဲ့သော %d မိနစ်က နောက်ဆုံး သုံးထားသည်</item>
+        <item quantity="one">ပြီးခဲ့သော %d မိနစ်က နောက်ဆုံး သုံးထားသည်</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000f">
+        <item quantity="other">အက်ပ်များကို ပြီးခဲ့သော %d ရက်က စစ်ဆေးထားသည်</item>
+        <item quantity="one">အက်ပ်များကို ပြီးခဲ့သော %d ရက်က စစ်ဆေးထားသည်</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120010">
+        <item quantity="other">အက်ပ်များကို ပြီးခဲ့သော %d နာရီက စစ်ဆေးထားသည်</item>
+        <item quantity="one">အက်ပ်များကို ပြီးခဲ့သော %d နာရီက စစ်ဆေးထားသည်</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120011">
+        <item quantity="other">အက်ပ်များကို ပြီးခဲ့သော %d မိနစ်က စစ်ဆေးထားသည်</item>
+        <item quantity="one">အက်ပ်များကို ပြီးခဲ့သော %d မိနစ်က စစ်ဆေးထားသည်</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120014">
+        <item quantity="other">သုံးသပ်ချက် %1$d</item>
+        <item quantity="one">သုံးသပ်ချက် %1$d</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120015">
+        <item quantity="other">သုံးသပ်ချက် %1$d ခုသည် ကြယ်ပွင့် %2$d ပွင့်အတွက်ဖြစ်၏</item>
+        <item quantity="one">သုံးသပ်ချက် %1$d ခုသည် ကြယ်ပွင့် %2$d ပွင့်အတွက်ဖြစ်၏</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120016">
+        <item quantity="other">စက် %1$d ခုတွင် ထည့်သွင်းမည်။</item>
+        <item quantity="one">စက် %1$d ခုတွင် ထည့်သွင်းမည်။</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120017">
+        <item quantity="other">စက် %1$d ခုတွင် ထည့်သွင်းမည်။ နောက်ထပ်စက်များ ရနိုင်သည်။</item>
+        <item quantity="one">စက် %1$d ခုတွင် ထည့်သွင်းမည်။ နောက်ထပ်စက်များ ရနိုင်သည်။</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120018">
+        <item quantity="other">ဤအက်ပ်ကို သင်၏စက် %1$d ခုတွင် မကြာမီ ထည့်သွင်းပါမည်။</item>
+        <item quantity="one">ဤအက်ပ်ကို သင်၏စက် %1$d ခုတွင် မကြာမီ ထည့်သွင်းပါမည်။</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120019">
+        <item quantity="other">အပို %1$d ခု ရနိုင်မည်</item>
+        <item quantity="one">အပို %1$d ခု ရနိုင်မည်</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001a">
+        <item quantity="other">ဝယ်ယူမှုနှင့်အတူ အပို %1$d ခု ရနိုင်မည်</item>
+        <item quantity="one">ဝယ်ယူမှုနှင့်အတူ အပို %1$d ခု ရနိုင်မည်</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001b">
+        <item quantity="other">%1$d ရက်</item>
+        <item quantity="one">%1$d ရက်</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001c">
+        <item quantity="other">သုံးသပ်ချက် %2$s ခုတွင် ပျမ်းမျှ ကြယ် %1$s ပွင့် သတ်မှတ်သည်</item>
+        <item quantity="one">သုံးသပ်ချက်တစ်ခုတွင် ပျမ်းမျှ ကြယ် %1$s ပွင့် သတ်မှတ်သည်</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001d">
+        <item quantity="other">သုံးသပ်ချက် %s ခု</item>
+        <item quantity="one">သုံးသပ်ချက် ၁ ခု</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001e">
+        <item quantity="other">သင် ဆော့ဖ်ဝဲအင်ဂျင်နီယာ ဖြစ်ရန် အဆင့် %1$d ဆင့် လိုပါသေးသည်။</item>
+        <item quantity="one">သင် ဆော့ဖ်ဝဲအင်ဂျင်နီယာ ဖြစ်ရန် အဆင့် %1$d ဆင့် လိုပါသေးသည်။</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001f">
+        <item quantity="other">ကား</item>
+        <item quantity="one">ကား</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120020">
+        <item quantity="other">Chromebook</item>
+        <item quantity="one">Chromebook</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120021">
+        <item quantity="other">ခေါက်နိုင်သည့်အရာများ</item>
+        <item quantity="one">ခေါက်နိုင်သည့်အရာ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120022">
+        <item quantity="other">ဖုန်း</item>
+        <item quantity="one">ဖုန်း</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120023">
+        <item quantity="other">တက်ဘလက်</item>
+        <item quantity="one">တက်ဘလက်</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120024">
+        <item quantity="other">TV</item>
+        <item quantity="one">TV</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120025">
+        <item quantity="other">စက်များ</item>
+        <item quantity="one">စက်</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120026">
+        <item quantity="other">လက်ပတ်နာရီ</item>
+        <item quantity="one">လက်ပတ်နာရီ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120027">
+        <item quantity="other">Play ရမှတ် %1$d မှတ် ရနိုင်သည်။</item>
+        <item quantity="one">Play ရမှတ် %1$d မှတ် ရနိုင်သည်။</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120028">
+        <item quantity="other">%1$d နာရီ</item>
+        <item quantity="one">%1$d နာရီ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120029">
+        <item quantity="other">%1$d နာရီ ကျန်သည်</item>
+        <item quantity="one">၁ နာရီ ကျန်သည်</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002a">
+        <item quantity="other">အက်ပ် %1$d ခု ထည့်သွင်းနေသည်…</item>
+        <item quantity="one">အက်ပ် %1$d ခု ထည့်သွင်းနေသည်…</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002b">
+        <item quantity="other">ထည့်သွင်းမှုများကိုရပ်ထားပါသည်</item>
+        <item quantity="one">ထည့်သွင်းမှုကို ရပ်ထားပါသည်</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002c">
+        <item quantity="other">အက်ပ် %1$d ခုကို ထည့်သွင်းပါမည်</item>
+        <item quantity="one">အက်ပ် %1$d ခုကို ထည့်သွင်းပါမည်</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002d">
+        <item quantity="other">ပြီးခဲ့သော %d ရက်က နောက်ဆုံး အပ်ဒိတ်လုပ်ထားသည်</item>
+        <item quantity="one">ပြီးခဲ့သော %d ရက်က နောက်ဆုံး အပ်ဒိတ်လုပ်ထားသည်</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002e">
+        <item quantity="other">ပြီးခဲ့သော %d နာရီက နောက်ဆုံး အပ်ဒိတ်လုပ်ထားသည်</item>
+        <item quantity="one">ပြီးခဲ့သော %d နာရီက နောက်ဆုံး အပ်ဒိတ်လုပ်ထားသည်</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002f">
+        <item quantity="other">ပြီးခဲ့သော %d မိနစ်က နောက်ဆုံး အပ်ဒိတ်လုပ်ထားသည်</item>
+        <item quantity="one">ပြီးခဲ့သော %d မိနစ်က နောက်ဆုံး အပ်ဒိတ်လုပ်ထားသည်</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120033">
+        <item quantity="other">ပြီးခဲ့သော %1$d နှစ်</item>
+        <item quantity="one">ပြီးခဲ့သော %1$d နှစ်</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120034">
+        <item quantity="other">%1$d မိနစ်</item>
+        <item quantity="one">%1$d မိနစ်</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120035">
+        <item quantity="other">%1$d မိနစ် ကျန်သည်</item>
+        <item quantity="one">၁ မိနစ် ကျန်သည်</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120037">
+        <item quantity="other">%1$d ခု ရွေးထားသည်</item>
+        <item quantity="one">%1$d ခု ရွေးထားသည်</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120038">
+        <item quantity="other">အက်ပ် %1$d ခု သိမ်းနေသည်</item>
+        <item quantity="one">အက်ပ် %1$d ခု သိမ်းနေသည်</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120039">
+        <item quantity="other">ရွေးထားသည့်အက်ပ်များကို ဖယ်ရှားမလား။</item>
+        <item quantity="one">ရွေးထားသည့်အက်ပ်ကို ဖယ်ရှားမလား။</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12003a">
+        <item quantity="other">အက်ပ် %1$d ခု ဖယ်ရှားလိုက်ပါပြီ</item>
+        <item quantity="one">အက်ပ် %1$d ခု ဖယ်ရှားလိုက်ပါပြီ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12003d">
+        <item quantity="other">ထည့်သွင်းခြင်း %1$d ခုကို ဆိုင်းငံ့ထားသည်</item>
+        <item quantity="one">ထည့်သွင်းခြင်း %1$d ခုကို ဆိုင်းငံ့ထားသည်</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12003e">
+        <item quantity="other">ထည့်သွင်းခြင်း %1$d ခုကို လုပ်နေဆဲဖြစ်သည်</item>
+        <item quantity="one">ထည့်သွင်းခြင်း %1$d ခုကို လုပ်နေဆဲဖြစ်သည်</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120040">
+        <item quantity="other">အပ်ဒိတ် %1$d ခုကို ဆိုင်းငံ့ထားသည်</item>
+        <item quantity="one">အပ်ဒိတ် %1$d ခုကို ဆိုင်းငံ့ထားသည်</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120041">
+        <item quantity="other">အပ်ဒိတ် %1$d ခုကို လုပ်နေဆဲဖြစ်သည်</item>
+        <item quantity="one">အပ်ဒိတ် %1$d ခုကို လုပ်နေဆဲဖြစ်သည်</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120042">
+        <item quantity="other">အက်ပ် %1$d ခု ထည့်သွင်းထားသည်</item>
+        <item quantity="one">အက်ပ် %1$d ခု ထည့်သွင်းထားသည်</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120044">
+        <item quantity="other">ပြီးခဲ့သော %1$d နာရီက ထုတ်ဝေခဲ့သည်</item>
+        <item quantity="one">ပြီးခဲ့သော %1$d နာရီက ထုတ်ဝေခဲ့သည်</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120045">
+        <item quantity="other">ပြီးခဲ့သော %1$d ရက်က ထုတ်ဝေခဲ့သည်</item>
+        <item quantity="one">ပြီးခဲ့သော %1$d ရက်က ထုတ်ဝေခဲ့သည်</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120046">
+        <item quantity="other">အက်ပ်များကို ဖယ်ရှားလိုက်ပါပြီ</item>
+        <item quantity="one">အက်ပ်ကို ဖယ်ရှားလိုက်ပါပြီ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120047">
+        <item quantity="other">%1$d ခုခွင့်ပြုချက်လိုအပ်သည်</item>
+        <item quantity="one">%1$dအသစ်မွမ်းမံမှု ခုခွင့်ပြုချက်လိုအပ်သည်</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120048">
+        <item quantity="other">အသစ်မွမ်းမံမှု %1$d ခု</item>
+        <item quantity="one">အသစ်မွမ်းမံမှု %1$d ခု</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120049">
+        <item quantity="other">%1$d ခုရရှိနိုင်</item>
+        <item quantity="one">အသစ်မွမ်းမံမှု %1$d ခုခွင့်ပြုချက်လိုအပ်သည်</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004a">
+        <item quantity="other">အားလုံး အသစ်မွမ်းမံပါ</item>
+        <item quantity="one">အသစ်မွမ်းမံပါ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004b">
+        <item quantity="other">အက်ပ် %1$d ခု အပ်ဒိတ်လုပ်ပြီးပြီ</item>
+        <item quantity="one">အက်ပ် %1$d ခု အပ်ဒိတ်လုပ်ပြီးပြီ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004c">
+        <item quantity="other">%1$d နာရီအတွင်း ပြီးပါမည်</item>
+        <item quantity="one">%1$d နာရီအတွင်း ပြီးပါမည်</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004d">
+        <item quantity="other">%1$d ရက်အတွင်း ပြီးပါမည်</item>
+        <item quantity="one">%1$d ရက်အတွင်း ပြီးပါမည်</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004e">
+        <item quantity="other">%1$d မိနစ်</item>
+        <item quantity="one">%1$d မိနစ်</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004f">
+        <item quantity="other">%1$d စက္ကန့်</item>
+        <item quantity="one">%1$d စက္ကန့်</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120050">
+        <item quantity="other">ကိုယ်ပိုင်အက်ပ်များကို ဖယ်ရှားလိုက်ပါပြီ</item>
+        <item quantity="one">ကိုယ်ပိုင်အက်ပ်ကို ဖယ်ရှားလိုက်ပါပြီ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120053">
+        <item quantity="other">Play Protect ကို ပြီးခဲ့သော %d ရက်က စစ်ဆေးထားသည်</item>
+        <item quantity="one">Play Protect ကို ပြီးခဲ့သော %d ရက်က စစ်ဆေးထားသည်</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120054">
+        <item quantity="other">Play Protect ကို ပြီးခဲ့သော %d နာရီက စစ်ဆေးထားသည်</item>
+        <item quantity="one">Play Protect ကို ပြီးခဲ့သော %d နာရီက စစ်ဆေးထားသည်</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120055">
+        <item quantity="other">Play Protect ကို ပြီးခဲ့သော %d မိနစ်က စစ်ဆေးထားသည်</item>
+        <item quantity="one">Play Protect ကို ပြီးခဲ့သော %d မိနစ်က စစ်ဆေးထားသည်</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120056">
+        <item quantity="other">နောင်နှစ်တွင် %2$s ဆက်ထိန်းထားရန် %1$s မှတ်</item>
+        <item quantity="one">နောင်နှစ်တွင် %2$s ဆက်ထိန်းထားရန် 1 မှတ်</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120057">
+        <item quantity="other">%2$s ရောက်ရန် %1$s မှတ်</item>
+        <item quantity="one">%2$s ရောက်ရန် 1 မှတ်</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120058">
+        <item quantity="other">သင်သည် အမျိုးအမည်မသိအက်ပ်များ ထည့်သွင်းရန် (သို့) အပ်ဒိတ်လုပ်ရန် ဤအက်ပ်များကို ခွင့်ပြုချက်ပေးထားပြီး ၎င်းတို့က သင့်စက်နှင့် ကိုယ်ရေးကိုယ်တာ အချက်အလက်များကို အန္တရာယ်ရှိစေနိုင်သည်။ ၎င်းတို့မထည့်သွင်းရန် ခွင့်ပြုချက်ကို ငြင်းပါ။</item>
+        <item quantity="one">သင်သည် အမျိုးအမည်မသိအက်ပ်များ ထည့်သွင်းရန် (သို့) အပ်ဒိတ်လုပ်ရန် ဤအက်ပ်ကို ခွင့်ပြုချက်ပေးထားပြီး ၎င်းက သင့်စက်နှင့် ကိုယ်ရေးကိုယ်တာ အချက်အလက်များကို အန္တရာယ်ရှိစေနိုင်သည်။ ၎င်းတို့မထည့်သွင်းရန် ခွင့်ပြုချက်ကို ငြင်းပါ။</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120059">
+        <item quantity="other">သင်သည် အမျိုးအမည်မသိအက်ပ်များ ထည့်သွင်းရန် (သို့) အပ်ဒိတ်လုပ်ရန် အက်ပ် %1$d ခုကို ခွင့်ပြုချက်ပေးထားပြီး ၎င်းတို့က သင့်စက်နှင့် ကိုယ်ရေးကိုယ်တာ အချက်အလက်များကို အန္တရာယ်ရှိစေနိုင်သည်</item>
+        <item quantity="one">သင်သည် အမျိုးအမည်မသိအက်ပ်များ ထည့်သွင်းရန် (သို့) အပ်ဒိတ်လုပ်ရန် အက်ပ် 1 ခုကို ခွင့်ပြုချက်ပေးထားပြီး ၎င်းက သင့်စက်နှင့် ကိုယ်ရေးကိုယ်တာ အချက်အလက်များကို အန္တရာယ်ရှိစေနိုင်သည်</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005a">
+        <item quantity="other">လုံခြုံရေးဆိုင်ရာ သတိပေးချက် %1$d ခု</item>
+        <item quantity="one">လုံခြုံရေးဆိုင်ရာ သတိပေးချက် ၁ ခု</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005b">
+        <item quantity="other">အန္တရာယ်အက်ပ် %1$d ခု တွေ့သည်</item>
+        <item quantity="one">အန္တရာယ်အက်ပ် ၁ ခု တွေ့သည်</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005c">
+        <item quantity="other">လုံခြုံရေးအကြောင်းကြားချက် %1$d ခု</item>
+        <item quantity="one">လုံခြုံရေးအကြောင်းကြားချက် ၁ ခု</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005d">
+        <item quantity="other">လုံခြုံရေးအပ်ဒိတ် %1$d ခု</item>
+        <item quantity="one">လုံခြုံရေးအပ်ဒိတ် ၁ ခု</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005e">
+        <item quantity="other">မလုံခြုံသောအက်ပ် %1$d ခု တွေ့သည်</item>
+        <item quantity="one">မလုံခြုံသောအက်ပ် ၁ ခု တွေ့သည်</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005f">
+        <item quantity="other">သတိပေးချက် %1$d ခု</item>
+        <item quantity="one">သတိပေးချက် ၁ ခု</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120060">
+        <item quantity="other">အန္တရာယ်ရှိသောအက်ပ်များကို ရှာတွေ့သည်</item>
+        <item quantity="one">အန္တရာယ်ရှိသောအက်ပ် ရှာတွေ့သည်</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120061">
+        <item quantity="other">%1$d နာရီအတွင်း ပြီးပါမည်</item>
+        <item quantity="one">%1$d နာရီအတွင်း ပြီးပါမည်</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120062">
+        <item quantity="other">%1$d ရက်အတွင်း ပြီးပါမည်</item>
+        <item quantity="one">%1$d ရက်အတွင်း ပြီးပါမည်</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120063">
+        <item quantity="other">အဆင့် %2$d ထဲမှ %1$d ဆင့် ပြီးသွားပါပြီ</item>
+        <item quantity="one">အဆင့် %2$d ထဲမှ %1$d ဆင့် ပြီးသွားပါပြီ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120064">
+        <item quantity="other">အက်ပ် %1$d ခု ထည့်သွင်းရန် အသင့်ဖြစ်ပါပြီ</item>
+        <item quantity="one">အက်ပ် %1$d ခု ထည့်သွင်းရန် အသင့်ဖြစ်ပါပြီ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120065">
+        <item quantity="other">%1$s သည် သင့်ကို အက်ပ် %2$d ခု ပို့ပါမည်။ အတူတွဲချိတ်ရန်ကုဒ် တူညီကြောင်း သေချာပါစေ။</item>
+        <item quantity="one">%1$s သည် သင့်ကို အက်ပ် %2$d ခု ပို့ပါမည်။ အတူတွဲချိတ်ရန်ကုဒ် တူညီကြောင်း သေချာပါစေ။</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120066">
+        <item quantity="other">အက်ပ် %1$d ခုကို \"%2$s\" မှ လက်ခံနေသည်…</item>
+        <item quantity="one">အက်ပ် %1$d ခုကို \"%2$s\" မှ လက်ခံနေသည်…</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006a">
+        <item quantity="other">အသုံးပြုသူ %1$d ဦး မှ ဤသုံးသပ်ချက်သည် အသုံးဝင်ကြောင်း တွေ့ရ၏ အကြောင်းအရာကို အသုံးဝင်သည်ဟု မှတ်ချက်ပေးရန်</item>
+        <item quantity="one">အသုံးပြုသူ %1$d ဦး မှ ဤသုံးသပ်ချက်သည် အသုံးဝင်ကြောင်း တွေ့ရ၏ အကြောင်းအရာကို အသုံးဝင်သည်ဟု မှတ်ချက်ပေးရန်</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006b">
+        <item quantity="other">%1$d အသုံးပြုသူတို့က ဒီဆန်းစစ်ချက်မှာ အသုံးဝင်တယ်လို့ ဆိုတယ် အသုံးဝင်တဲ့ သုံးသပ်ချက်ကို မှတ်ထားမှုဖျက်ရန်</item>
+        <item quantity="one">အသုံးပြုသူ %1$d ဦးက ဒီဆန်းစစ်ချက်မှာ အသုံးဝင်တယ်လို့ ဆိုတယ် အသုံးဝင်တဲ့ သုံးသပ်ချက်ကို မှတ်ထားမှုဖျက်ရန်</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006c">
+        <item quantity="other">လူ %1$s ဦးက ဤအရာကို အသုံးဝင်သည်ဟု အသိအမှတ်ပြုထားသည်</item>
+        <item quantity="one">လူ %1$s ဦးက ဤအရာကို အသုံးဝင်သည်ဟု အသိအမှတ်ပြုထားသည်</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006f">
+        <item quantity="other">%1$d စက္ကန့်</item>
+        <item quantity="one">%1$d စက္ကန့်</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120070">
+        <item quantity="other">%1$d စက္ကန့် ကျန်သည်</item>
+        <item quantity="one">၁ စက္ကန့် ကျန်သည်</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120071">
+        <item quantity="other">%1$d ရွေးချယ်ထားသည် • %2$s</item>
+        <item quantity="one">%1$d ရွေးချယ်ထားသည် • %2$s</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120072">
+        <item quantity="other">အက်ပ် %1$d ခုကို \"%2$s\" သို့ ပို့နေသည်…</item>
+        <item quantity="one">အက်ပ် %1$d ခုကို \"%2$s\" သို့ ပို့နေသည်…</item>
+    </plurals>
+    <plurals name="setup_completed_installed">
+        <item quantity="other">အက်ပ် %1$d ခု ထည့်သွင်းထားသည်</item>
+        <item quantity="one">အက်ပ် %1$d ခု ထည့်သွင်းထားသည်</item>
+    </plurals>
+    <plurals name="setup_completed_installed_with_failures">
+        <item quantity="other">အက်ပ် %2$d ခုအနက် %1$d ခုကို ထည့်သွင်း၍မရပါ</item>
+        <item quantity="one">အက်ပ် %2$d ခုအနက် %1$d ခုကို ထည့်သွင်း၍မရပါ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120075">
+        <item quantity="other">ရက် %1$d ရက်အကြာက သုံးခဲ့၏</item>
+        <item quantity="one">ရက် %1$d ရက်အကြာက သုံးခဲ့၏</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120076">
+        <item quantity="other">ရွေးချယ်ထားသည့် %1$d အက်ပ်များကို ပြန်လည်အသုံးပြုပါ</item>
+        <item quantity="one">ရွေးချယ်ထားသည့်အက်ပ်ကို ပြန်လည်အသုံးပြုပါ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120078">
+        <item quantity="other">ဘာသာစကားအသစ် %1$d ခုကို ဒေါင်းလုဒ်လုပ်လိုပါသလား။</item>
+        <item quantity="one">ဘာသာစကားအသစ်ကို ဒေါင်းလုဒ်လုပ်လိုပါသလား။</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007b">
+        <item quantity="other">စစ်တမ်းတုံ့ပြန်မှု %1$d ခုကို သင်၏ အကောင့်မှ အပြီးဖယ်ရှားပါမည်။</item>
+        <item quantity="one">စစ်တမ်းတုံ့ပြန်မှု %1$d ခုကို သင်၏ အကောင့်မှ အပြီးဖယ်ရှားပါမည်။</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007c">
+        <item quantity="other">%1$d ခု ရွေးထားသည်</item>
+        <item quantity="one">%1$d ခု ရွေးထားသည်</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007d">
+        <item quantity="other">Play ရမှတ်များ ပြရန်။ %1$d မှတ် ရနိုင်သည်။</item>
+        <item quantity="one">Play ရမှတ်များ ပြရန်။ %1$d မှတ် ရနိုင်သည်။</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007e">
+        <item quantity="other">Play ရမှတ် %1$d မှတ် ရနိုင်သည်။</item>
+        <item quantity="one">Play ရမှတ် %1$d မှတ် ရနိုင်သည်။</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120080">
+        <item quantity="other">%1$s မှတ်</item>
+        <item quantity="one">1 မှတ်</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120081">
+        <item quantity="other">\"%2$s\" ဖြင့် အက်ပ် %1$d ခု ပို့နေသည်…</item>
+        <item quantity="one">\"%2$s\" ဖြင့် အက်ပ် %1$d ခု ပို့နေသည်…</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120082">
+        <item quantity="other">သင့်စက်မှ အက်ပ် %1$d ခုကို ဖယ်ရှားပါမည်။</item>
+        <item quantity="one">သင့်စက်မှ အက်ပ် %1$d ခုကို ဖယ်ရှားပါမည်။</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120083">
+        <item quantity="other">ရွေးထားသောအက်ပ်များကို ဖယ်ရှားမလား။</item>
+        <item quantity="one">ရွေးထားသောအက်ပ်ကို ဖယ်ရှားမလား။</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120084">
+        <item quantity="other">ရွေးထားသောအက်ပ်များအတွက် အပ်ဒိတ်များ ဖယ်ရှားမလား။</item>
+        <item quantity="one">ရွေးထားသောအက်ပ်အတွက် အပ်ဒိတ်များ ဖယ်ရှားမလား။</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120085">
+        <item quantity="other">အက်ပ် %1$s ခု ဖယ်ရှားလိုက်ပါပြီ၊ %2$s အတွက် နေရာအလုံအလောက် ရပါပြီ။</item>
+        <item quantity="one">အက်ပ် %1$s ခု ဖယ်ရှားလိုက်ပါပြီ၊ %2$s အတွက် နေရာအလုံအလောက် ရပါပြီ။</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120086">
+        <item quantity="other">အက်ပ်များကို မကြာမီ ထည့်သွင်းသွားပါမည်။</item>
+        <item quantity="one">အက်ပ်ကို မကြာမီ ထည့်သွင်းသွားပါမည်။</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120087">
+        <item quantity="other">အက်ပ်အပ်ဒိတ်များကို မကြာမီ ထည့်သွင်းသွားပါမည်။</item>
+        <item quantity="one">အက်ပ်အပ်ဒိတ်ကို မကြာမီ ထည့်သွင်းသွားပါမည်။</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008a">
+        <item quantity="other">နောက်ဆုံးအကြိမ်အဖြစ် ပြီးခဲ့သည့် %1$d ရက်က အသုံးပြုခဲ့သည်</item>
+        <item quantity="one">နောက်ဆုံးအကြိမ်အဖြစ် ပြီးခဲ့သည့် %1$d ရက်က အသုံးပြုခဲ့သည်</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008b">
+        <item quantity="other">နောက်ဆုံးအကြိမ်အဖြစ် ပြီးခဲ့သည့် %1$d လက အသုံးပြုခဲ့သည်</item>
+        <item quantity="one">နောက်ဆုံးအကြိမ်အဖြစ် ပြီးခဲ့သည့် %1$d လကအသုံးပြုခဲ့သည်</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008c">
+        <item quantity="other">"ဤစက်ပစ္စည်းတွင် အက်ပ်များ သို့မဟုတ် အပ်ဒိတ်များကို ထည့်သွင်းရန် မလိုတော့သည့် အက်ပ်များကို ဖယ်ရှားပါ။ 'သိုလှောင်ခန်းဆက်တင်များ' တွင် မီဒီယာဖိုင်များကို ဖျက်ခြင်းဖြင့်လည်း နေရာလွတ်ပြုလုပ်နိုင်ပါသည်။"</item>
+        <item quantity="one">"ဤစက်ပစ္စည်းတွင် အက်ပ် သို့မဟုတ် အပ်ဒိတ်ကို ထည့်သွင်းရန် မလိုတော့သည့် အက်ပ်များကို ဖယ်ရှားပါ။ 'သိုလှောင်ခန်းဆက်တင်များ' တွင် မီဒီယာဖိုင်များကို ဖျက်ခြင်းဖြင့်လည်း နေရာလွတ်ပြုလုပ်နိုင်ပါသည်။"</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008d">
+        <item quantity="other">ဤစက်ပစ္စည်းတွင် အက်ပ်များ သို့မဟုတ် အပ်ဒိတ်များကို ထည့်သွင်းရန် မလိုတော့သည့် အက်ပ်များကို ဖယ်ရှားပါ။ &lt;a href=\"\">ဆက်တင်များ > သိုလှောင်ခန်း&lt;/a> တွင် မီဒီယာဖိုင်များကို ဖျက်ခြင်းဖြင့်လည်း နေရာလွတ်ပြုလုပ်နိုင်ပါသည်။</item>
+        <item quantity="one">ဤစက်ပစ္စည်းတွင် အက်ပ် သို့မဟုတ် အပ်ဒိတ်ကို ထည့်သွင်းရန် မလိုတော့သည့် အက်ပ်များကို ဖယ်ရှားပါ။ &lt;a href=\"\">ဆက်တင်များ > သိုလှောင်ခန်း&lt;/a> တွင် မီဒီယာဖိုင်များကို ဖျက်ခြင်းဖြင့်လည်း နေရာလွတ်ပြုလုပ်နိုင်ပါသည်။</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008e">
+        <item quantity="other">ဤစက်ပစ္စည်းတွင် အက်ပ်များ သို့မဟုတ် အပ်ဒိတ်များကို ထည့်သွင်းရန် မလိုတော့သည့် အက်ပ်များကို ဖယ်ရှားပါ။ ဆက်တင်များ > သိုလှောင်ခန်းတွင် မီဒီယာဖိုင်များကို ဖျက်ခြင်းဖြင့်လည်း နေရာလွတ်ပြုလုပ်နိုင်ပါသည်။</item>
+        <item quantity="one">ဤစက်ပစ္စည်းတွင် အက်ပ် သို့မဟုတ် အပ်ဒိတ်ကို ထည့်သွင်းရန် မလိုတော့သည့် အက်ပ်များကို ဖယ်ရှားပါ။ ဆက်တင်များ > သိုလှောင်ခန်းတွင် မီဒီယာဖိုင်များကို ဖျက်ခြင်းဖြင့်လည်း နေရာလွတ်ပြုလုပ်နိုင်ပါသည်။</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008f">
+        <item quantity="other">အက်ပ် %1$d ခုကို ဖယ်ရှားလိုက်ပါပြီ</item>
+        <item quantity="one">အက်ပ် %1$d ခုကို ဖယ်ရှားလိုက်ပါပြီ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120090">
+        <item quantity="other">လတ်တလောတွင် သင်အသုံးမပြုသော အက်ပ် %1$d ခုကို တွေ့ရှိပါသည်။ ၎င်းတို့ကို ဖယ်ရှားပါက သိုလှောင်ခန်း နေရာ %2$dMB ကို ရရှိပါမည်</item>
+        <item quantity="one">လတ်တလောတွင် သင်အသုံးမပြုသော အက်ပ် %1$d ခုကို တွေ့ရှိပါသည်။ ၎င်းတို့ကို ဖယ်ရှားပါက သိုလှောင်ခန်းနေရာ %2$d MB ရရှိပါမည်</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120091">
+        <item quantity="other">%1$d နာရီအတွင်း စတင်ပါမည်</item>
+        <item quantity="one">%1$d နာရီအတွင်း စတင်ပါမည်</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120092">
+        <item quantity="other">%1$d ရက်အတွင်း စတင်ပါမည်</item>
+        <item quantity="one">%1$d ရက် အတွင်း စတင်ပါမည်</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120093">
+        <item quantity="other">%1$d နာရီအတွင်း ရပါမည်</item>
+        <item quantity="one">%1$d နာရီအတွင်း ရပါမည်</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120094">
+        <item quantity="other">%1$d ရက်အတွင်း ရပါမည်</item>
+        <item quantity="one">%1$d ရက်အတွင်း ရပါမည်</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120095">
+        <item quantity="other">ဤစက်သည် %1$d လကျော်တည်းက စနစ်အပ်ဒိတ် လုပ်မထားပါ</item>
+        <item quantity="one">ဤစက်သည် %1$d လကျော်တည်းက စနစ်အပ်ဒိတ် လုပ်မထားပါ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120096">
+        <item quantity="other">အလုပ်သုံးအက်ပ်များကို ဖယ်ရှားလိုက်ပါပြီ</item>
+        <item quantity="one">အလုပ်သုံးအက်ပ်ကို ဖယ်ရှားလိုက်ပါပြီ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120097">
+        <item quantity="other">ပြီးခဲ့သော %1$d နှစ်</item>
+        <item quantity="one">ပြီးခဲ့သော %1$d နှစ်</item>
+    </plurals>
+</resources>

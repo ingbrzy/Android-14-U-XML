@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dolphin_html_description">Med lydvarsler kan du få med deg hva som skjer i hjemmet ditt.&lt;br>&lt;br>Når lydvarsler er på, lytter enheten alltid etter lyder du vil bli varslet om, for eksempel pip fra røykvarsleren eller babygråt.&lt;br>&lt;br>Lyd og bakgrunnssamtaler sendes ikke til Google – med mindre du velger å sende tilbakemelding om lydkvaliteten.</string>
+    <string name="live_transcribe_html_description">Med Transkribering vises tale som tekst på skjermen, slik at det blir enklere for deg å delta i samtaler.&lt;br>&lt;br>Du kan skrive svar på skjermen mens du ser på transkripsjonen, bli varslet når noen sier navnet ditt, og søke i transkripsjoner.&lt;br>&lt;br>Google behandler samtalene dine, men lagrer dem aldri.</string>
+</resources>

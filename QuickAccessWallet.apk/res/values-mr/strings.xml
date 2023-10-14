@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_menu">मेनू</string>
+    <string name="call_notification_answer_action">उत्तर द्या</string>
+    <string name="call_notification_answer_video_action">व्हिडिओ</string>
+    <string name="call_notification_decline_action">नकार द्या</string>
+    <string name="call_notification_hang_up_action">कॉल बंद करा</string>
+    <string name="call_notification_incoming_text">इनकमिंग कॉल</string>
+    <string name="call_notification_ongoing_text">सुरू असलेला कॉल</string>
+    <string name="call_notification_screening_text">इनकमिंग कॉल स्क्रीन करत आहे</string>
+    <string name="error_generic">तुमची कार्डे मिळवताना समस्या आली, कृपया नंतर पुन्हा प्रयत्न करा</string>
+    <string name="error_user_locked">तुमची पेमेंट माहिती लोड करण्यासाठी तुमचा फोन अनलॉक करा</string>
+    <string name="settings">सेटिंग्ज</string>
+    <string name="status_bar_notification_info_overflow">९९९+</string>
+</resources>

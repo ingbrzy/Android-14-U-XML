@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="config_calibrated_compensation_images" />
+    <array name="config_compensation_brightness_conditions" />
+    <array name="config_compensation_images" />
+    <array name="config_compensation_temperature_conditions_list" />
+    <array name="config_compensation_thresholds" />
+    <array name="config_hbmHalServiceArray" />
+    <array name="config_hbmSvAmbientSensorArray" />
+    <array name="config_hbmSvDisplayIdArray" />
+    <array name="config_thermal_compensation_images" />
+</resources>

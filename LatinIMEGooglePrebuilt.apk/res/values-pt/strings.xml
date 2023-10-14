@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f14000a">Navegar para cima</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f14000c">Concluído</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f14000f">DESATIVADO</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f140010">ATIVADO</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f140012">Alt+</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f140013">Ctrl+</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f140014">delete</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f140015">enter</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f140016">Function+</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f140017">Meta+</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f140018">Shift+</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f140019">espaço</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f14001a">Sym+</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f14001b">Menu+</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f14001c">Pesquisar…</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f14001d">Limpar consulta</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f14001f">Pesquisar</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f140020">Enviar consulta</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f140021">Pesquisa por voz</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f140025">Recolher</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f14010b">Copiar</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f1401e7">Avançado</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f1404fb">Não definido</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f14069f">\"%1$s\" copiado para a área de transferência.</string>
+    <string name="preferences_license_title">Avisos de terceiros</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f140b66">%1$s, %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f140e53">DESATIVADO</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f140e54">ATIVADO</string>
+</resources>

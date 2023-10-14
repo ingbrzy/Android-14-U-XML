@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d шинэ мэдэгдэл</item>
+        <item quantity="one">%d шинэ мэдэгдэл</item>
+    </plurals>
+    <plurals name="survey_star_rating">
+        <item quantity="other">%2$d-с %1$d од</item>
+        <item quantity="one">%2$d-с %1$d од</item>
+    </plurals>
+</resources>

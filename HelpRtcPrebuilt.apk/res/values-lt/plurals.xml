@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="gh_yt_video_num_views">
+        <item quantity="other">%1$s perž.</item>
+        <item quantity="one">%1$s perž.</item>
+        <item quantity="few">%1$s perž.</item>
+        <item quantity="many">%1$s perž.</item>
+    </plurals>
+</resources>

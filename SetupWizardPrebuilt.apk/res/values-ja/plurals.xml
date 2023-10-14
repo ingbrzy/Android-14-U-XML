@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="account_exists_text_multiple">
+        <item quantity="other">"次のアカウントを追加しました。
+
+"&lt;annotation textAppearance="TextAppearance.SudDescription.Medium">^1&lt;/annotation></item>
+        <item quantity="one">"次のアカウントを追加しました。
+
+"&lt;annotation textAppearance="TextAppearance.SudDescription.Medium">^1&lt;/annotation></item>
+    </plurals>
+    <plurals name="people_contacts_sync_failure_in_contacts_title_in_portal">
+        <item quantity="other">%2$,d 件中 %1$,d 件の連絡先を同期できませんでした</item>
+        <item quantity="one">%2$,d 件中 %1$,d 件の連絡先を同期できませんでした</item>
+    </plurals>
+    <plurals name="people_contacts_sync_failure_in_photos_title_in_portal">
+        <item quantity="other">%2$,d 件中 %1$,d 件の連絡先の写真を同期できませんでした</item>
+        <item quantity="one">%2$,d 件中 %1$,d 件の連絡先の写真を同期できませんでした</item>
+    </plurals>
+    <plurals name="people_contacts_sync_succeed_title_in_portal">
+        <item quantity="other">%,d 件の連絡先を Google コンタクトと同期しました</item>
+        <item quantity="one">%,d 件の連絡先を Google コンタクトと同期しました</item>
+    </plurals>
+    <plurals name="qr_provision_toast">
+        <item quantity="other">あと %d タップで QR コードのセットアップを開始できます</item>
+        <item quantity="one">あと %d タップで QR コードのセットアップを開始できます</item>
+    </plurals>
+    <plurals name="slots_selection_text">
+        <item quantity="other">このデバイスに %d 個のスロットが追加されましたが、一度に使用できるのは 1 つだけです。</item>
+        <item quantity="one">このデバイスに %d 個のスロットが追加されましたが、一度に使用できるのは 1 つだけです。</item>
+    </plurals>
+    <plurals name="survey_star_rating">
+        <item quantity="other">星 %2$d 個中 %1$d 個</item>
+        <item quantity="one">星 %2$d 個中 %1$d 個</item>
+    </plurals>
+</resources>

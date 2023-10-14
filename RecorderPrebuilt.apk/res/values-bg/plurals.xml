@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dlg_message_deletion_confirmation">
+        <item quantity="other">Записите ще бъдат изтрити за постоянно. Това действие не може да се отмени.</item>
+        <item quantity="one">Записът ще бъде изтрит за постоянно. Това действие не може да се отмени.</item>
+    </plurals>
+    <plurals name="dlg_message_deletion_permanent_confirmation">
+        <item quantity="other">За записите няма създадено резервно копие. Те ще бъдат изтрити за постоянно. Не можете да отмените това действие.</item>
+        <item quantity="one">За записа няма създадено резервно копие. Той ще бъде изтрит за постоянно. Не можете да отмените това действие.</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_confirmation">
+        <item quantity="other">Да се изтрият ли записите?</item>
+        <item quantity="one">Да се изтрие ли записът?</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_permanent_confirmation">
+        <item quantity="other">За постоянно ли да се изтрият тези записи?</item>
+        <item quantity="one">За постоянно ли да се изтрие този запис?</item>
+    </plurals>
+    <plurals name="download_failure_description_storage_full">
+        <item quantity="other">Записите не могат да се изтеглят, защото хранилището на устройството е пълно. Докоснете за преглед.</item>
+        <item quantity="one">Хранилището на устройството е пълно. Докоснете за преглед.</item>
+    </plurals>
+    <plurals name="downloading_description">
+        <item quantity="other">%1$d записа се изтеглят</item>
+        <item quantity="one">%1$d запис се изтегля</item>
+    </plurals>
+    <plurals name="og_backup_failed_title">
+        <item quantity="other">Създ. на резервно копие на %1$d елемента не бе успешно</item>
+        <item quantity="one">Създ. на резервно копие на %1$d елемент не бе успешно</item>
+    </plurals>
+    <plurals name="og_backup_items_left">
+        <item quantity="other">Остават %1$d елемента</item>
+        <item quantity="one">Остава %1$d елемент</item>
+    </plurals>
+    <plurals name="og_backup_items_stopped_title">
+        <item quantity="other">За %1$d елемента не е създадено резервно копие</item>
+        <item quantity="one">За %1$d елемент не е създадено резервно копие</item>
+    </plurals>
+    <plurals name="peoplekit_chips_copied_recipients">
+        <item quantity="other">Копирахте %d получатели</item>
+        <item quantity="one">Копирахте %d получател</item>
+    </plurals>
+    <plurals name="search_results_count">
+        <item quantity="other">%1$d резултата</item>
+        <item quantity="one">%1$d резултат</item>
+    </plurals>
+    <plurals name="search_results_position">
+        <item quantity="other">^1/^2 резултата</item>
+        <item quantity="one">^1/^2 резултат</item>
+    </plurals>
+    <plurals name="search_results_position_content_description">
+        <item quantity="other">%1$d от %2$d резултата</item>
+        <item quantity="one">%1$d от %2$d резултат</item>
+    </plurals>
+    <plurals name="selected_recording_quantity">
+        <item quantity="other">Избрахте %1$d</item>
+        <item quantity="one">Избрахте %1$d</item>
+    </plurals>
+    <plurals name="snackbar_message_download_failed_storage_full">
+        <item quantity="other">Хранилището на устройството е пълно. Записите не могат да се изтеглят.</item>
+        <item quantity="one">Хранилището на устройството е пълно. Записът не може да се изтегли.</item>
+    </plurals>
+    <plurals name="speaker_count">
+        <item quantity="other">%1$d високоговорителя</item>
+        <item quantity="one">%1$d високоговорител</item>
+    </plurals>
+    <plurals name="uploading_description">
+        <item quantity="other">Качват се %1$d записа</item>
+        <item quantity="one">Качва се %1$d запис</item>
+    </plurals>
+</resources>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cross-Device Services</string>
+    <string name="app_name_generic">ஓர் ஆப்ஸ்</string>
+    <string name="app_stream_error_generic">ஆப்ஸ் பகிர்வின்போது பிழை ஏற்பட்டது</string>
+    <string name="app_stream_init_error_generic">உங்கள் Chromebookகிற்கு ஆப்ஸைப் பகிர முடியவில்லை</string>
+    <string name="audio_permission_rationale">ஆப்ஸ் பகிர்வுக்கான மைக்ரோஃபோன் அனுமதி முடக்கப்பட்டுள்ளது</string>
+    <string name="cancel_button_label">ரத்துசெய்</string>
+    <string name="chromebook_keyboard">Chromebook கீபோர்டு</string>
+    <string name="chromebook_mouse">Chromebook மவுஸ்</string>
+    <string name="chromebook_touchscreen">Chromebook டச்ஸ்கிரீன்</string>
+    <string name="connect_device">%1$s எனும் தொலைநிலைச் சாதனத்துடன் உங்கள் மொபைலை இணைக்கிறது</string>
+    <string name="decline_button_label">நிராகரி</string>
+    <string name="development_notification_channel_name">மேம்பாடு</string>
+    <string name="device_camera_cannot_access">இந்த Chromebookகில் இருந்து சாதனத்தின் கேமராவை அணுக முடியவில்லை</string>
+    <string name="done_button_label">முடிந்தது</string>
+    <string name="enable_button_label">அனுமதி</string>
+    <string name="foreground_service_notification_channel_name">பொது</string>
+    <string name="foreground_service_notification_content">அமைப்புகளை மாற்றத் தட்டவும்</string>
+    <string name="foreground_service_notification_title">{0,plural, =1{# சாதனத்துடன் இணைக்கப்பட்டுள்ளது}other{# சாதனங்களுடன் இணைக்கப்பட்டுள்ளது}}</string>
+    <string name="interactive_streaming_generic_notification">%1$s ஆப்ஸை ஸ்ட்ரீம் செய்கிறது, உங்கள் Chromebookகிற்காக அறிவிப்புகளை ஒத்திசைக்கிறது</string>
+    <string name="interactive_streaming_individual_notification">%1$s ஆப்ஸ் ஸ்ட்ரீம் செய்யப்படுவதுடன் %2$sக்கான அறிவிப்புகளும் ஒத்திசைக்கப்படுகின்றன</string>
+    <string name="interactive_streaming_notification">உங்கள் Chromebookகில் ஸ்ட்ரீம் செய்கிறது</string>
+    <string name="keyboard_name">பன்முகச் சாதனக் கீபோர்டு</string>
+    <string name="lock_screen_notif_warning_content">பூட்டுத் திரையில் அறிவிப்புகளை இயக்குக</string>
+    <string name="lock_screen_notif_warning_title">அறிவிப்புகள் முன்னனுப்பப்படாது</string>
+    <string name="mouse_name">பன்முகச் சாதன மவுஸ்</string>
+    <string name="new_connection_confirm">ஆம்</string>
+    <string name="new_connection_deny">நிராகரி</string>
+    <string name="new_connection_title">தொலைநிலைச் சாதன இணைப்பை உறுதிப்படுத்துக</string>
+    <string name="notification_access_missing">அறிவிப்பு அணுகல் தேவை</string>
+    <string name="notification_access_missing_description">உங்கள் Chromebookகில் அறிவிப்புகளைத் திறக்க அறிவிப்பு அணுகலை இயக்குங்கள்</string>
+    <string name="notification_channel_name">பொது</string>
+    <string name="notification_listener_label">உங்கள் Chromebookகிற்கு ஆப்ஸைப் பகிருங்கள்</string>
+    <string name="open_source_licenses">ஓப்பன் சோர்ஸ் உரிமங்கள்</string>
+    <string name="phone_permission_rationale">ஆப்ஸ் பகிர்வுக்கான மொபைல் அழைப்பு அனுமதி முடக்கப்பட்டுள்ளது</string>
+    <string name="prompt_switch_languages">உங்கள் மொபைலின் Gboard மொழியை மாற்ற shift + space பட்டன்களை அழுத்தவும்</string>
+    <string name="settings_button">அமைப்புகள்</string>
+    <string name="stop_sharing_button">ஸ்ட்ரீமை நிறுத்து</string>
+    <string name="stream_termination_proximity_warning">உங்கள் மொபைல் வெகுதூரத்தில் உள்ளது. தொடர்ந்து ஸ்ட்ரீம் செய்ய அதை அருகில் கொண்டுவாருங்கள்.</string>
+    <string name="substitute_app_name">System</string>
+    <string name="summary_disable_wirecutter">முடக்கப்பட்டுள்ளது</string>
+    <string name="summary_enable_wirecutter">இயக்கப்பட்டுள்ளது</string>
+    <string name="touchscreen_name">பன்முகச் சாதன டச்ஸ்கிரீன்</string>
+</resources>

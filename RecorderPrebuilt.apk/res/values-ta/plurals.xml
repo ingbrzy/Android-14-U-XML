@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dlg_message_deletion_confirmation">
+        <item quantity="other">உங்கள் ரெக்கார்டிங்குகள் நிரந்தரமாக நீக்கப்படும். இதைச் செயல்தவிர்க்க முடியாது.</item>
+        <item quantity="one">உங்கள் ரெக்கார்டிங் நிரந்தரமாக நீக்கப்படும். இதைச் செயல்தவிர்க்க முடியாது.</item>
+    </plurals>
+    <plurals name="dlg_message_deletion_permanent_confirmation">
+        <item quantity="other">ரெக்கார்டிங்குகளைக் காப்புப் பிரதி எடுக்கவில்லை. இவை நிரந்தரமாக நீக்கப்படும். இதைச் செயல்தவிர்க்க இயலாது.</item>
+        <item quantity="one">ரெக்கார்டிங்கைக் காப்புப் பிரதி எடுக்கவில்லை. இது நிரந்தரமாக நீக்கப்படும். இதைச் செயல்தவிர்க்க இயலாது.</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_confirmation">
+        <item quantity="other">ரெக்கார்டிங்குகளை நீக்கவா?</item>
+        <item quantity="one">ரெக்கார்டிங்கை நீக்கவா?</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_permanent_confirmation">
+        <item quantity="other">இந்த ரெக்கார்டிங்குகளை நிரந்தரமாக நீக்கவா?</item>
+        <item quantity="one">இந்த ரெக்கார்டிங்கை நிரந்தரமாக நீக்கவா?</item>
+    </plurals>
+    <plurals name="download_failure_description_storage_full">
+        <item quantity="other">சாதனச் சேமிப்பகம் நிரம்பியுள்ளதால் ரெக்கார்டிங்குகளைப் பதிவிறக்க முடியவில்லை. பார்க்க தட்டவும்.</item>
+        <item quantity="one">சாதனச் சேமிப்பகம் நிரம்பிவிட்டது. பார்க்க தட்டவும்.</item>
+    </plurals>
+    <plurals name="downloading_description">
+        <item quantity="other">%1$d ரெக்கார்டிங்குகளைப் பதிவிறக்குகின்றன</item>
+        <item quantity="one">%1$d ரெக்கார்டிங்கைப் பதிவிறக்குகிறது</item>
+    </plurals>
+    <plurals name="og_backup_failed_title">
+        <item quantity="other">%1$d ஆவணங்களைக் காப்புப் பிரதியெடுக்க முடியவில்லை</item>
+        <item quantity="one">%1$d ஆவணத்தைக் காப்புப் பிரதியெடுக்க முடியவில்லை</item>
+    </plurals>
+    <plurals name="og_backup_items_left">
+        <item quantity="other">%1$d ஆவணங்கள் மீதமுள்ளன</item>
+        <item quantity="one">%1$d ஆவணம் மீதமுள்ளது</item>
+    </plurals>
+    <plurals name="og_backup_items_stopped_title">
+        <item quantity="other">காப்புப் பிரதி எடுக்கப்படாதவை: %1$d</item>
+        <item quantity="one">காப்புப் பிரதி எடுக்கப்படாதது: %1$d</item>
+    </plurals>
+    <plurals name="peoplekit_chips_copied_recipients">
+        <item quantity="other">%d பெறுநர்கள் நகலெடுக்கப்பட்டன</item>
+        <item quantity="one">%d பெறுநர் நகலெடுக்கப்பட்டது</item>
+    </plurals>
+    <plurals name="search_results_count">
+        <item quantity="other">%1$d முடிவுகள்</item>
+        <item quantity="one">%1$d முடிவு</item>
+    </plurals>
+    <plurals name="search_results_position">
+        <item quantity="other">^1/^2 முடிவுகள்</item>
+        <item quantity="one">^1/^2 முடிவு</item>
+    </plurals>
+    <plurals name="search_results_position_content_description">
+        <item quantity="other">%1$d / %2$d முடிவுகள்</item>
+        <item quantity="one">%1$d / %2$d முடிவு</item>
+    </plurals>
+    <plurals name="selected_recording_quantity">
+        <item quantity="other">%1$d தேர்ந்தெடுக்கப்பட்டன</item>
+        <item quantity="one">%1$d தேர்ந்தெடுக்கப்பட்டது</item>
+    </plurals>
+    <plurals name="snackbar_message_download_failed_storage_full">
+        <item quantity="other">சாதனச் சேமிப்பகம் நிரம்பிவிட்டது. ரெக்கார்டிங்குகளைப் பதிவிறக்க முடியவில்லை.</item>
+        <item quantity="one">சாதனச் சேமிப்பகம் நிரம்பிவிட்டது. ரெக்கார்டிங்கைப் பதிவிறக்க முடியவில்லை.</item>
+    </plurals>
+    <plurals name="speaker_count">
+        <item quantity="other">%1$d ஸ்பீக்கர்கள்</item>
+        <item quantity="one">%1$d ஸ்பீக்கர்</item>
+    </plurals>
+    <plurals name="uploading_description">
+        <item quantity="other">%1$d ரெக்கார்டிங்குகளைப் பதிவேற்றுகிறது</item>
+        <item quantity="one">%1$d ரெக்கார்டிங்கைப் பதிவேற்றுகிறது</item>
+    </plurals>
+</resources>

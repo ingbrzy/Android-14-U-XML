@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bundle1_color_name">କାର୍ବନ୍</string>
+    <string name="bundle2_color_name">କାଗଜ</string>
+    <string name="bundle3_color_name">ସୂର୍ଯ୍ୟ</string>
+    <string name="color_name_monochromatic">ମୋନୋକ୍ରୋମାଟିକ</string>
+    <string name="default_color_name">କ୍ଲାସିକ୍</string>
+    <string name="fruit1_color_name">ହଳଦିଆ ଏବଂ ଲାଲ ଦୁଇଟି-ରଙ୍ଗ ପେଲେଟ</string>
+    <string name="fruit2_color_name">ସବୁଜ ଏବଂ କମଳା ଦୁଇଟି-ରଙ୍ଗ ପେଲେଟ</string>
+    <string name="fruit3_color_name">ନୀଳ ଏବଂ ସବୁଜ ଦୁଇଟି-ରଙ୍ଗ ପେଲେଟ</string>
+    <string name="fruit4_color_name">ହାଲୁକା ବାଇଗଣୀ ଏବଂ ନୀଳ ଦୁଇଟି-ରଙ୍ଗ ପେଲେଟ</string>
+    <string name="fruit5_color_name">ଗୋଲାପୀ ଏବଂ ଇଣ୍ଡିଗୋ ଦୁଇଟି-ରଙ୍ଗ ପେଲେଟ</string>
+    <string name="rainbow1_color_name">ଲାଲ</string>
+    <string name="rainbow2_color_name">କମଳା</string>
+    <string name="rainbow3_color_name">ହଳଦିଆ</string>
+    <string name="rainbow4_color_name">ସବୁଜ</string>
+    <string name="rainbow5_color_name">ନୀଳ</string>
+    <string name="rainbow6_color_name">ଇଣ୍ଡିଗୋ</string>
+    <string name="rainbow7_color_name">ବାଇଗଣୀ</string>
+</resources>

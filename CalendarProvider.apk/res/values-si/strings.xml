@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="calendar_default_name">පෙරනිමි</string>
+    <string name="calendar_info">දින දර්ශන තතු</string>
+    <string name="calendar_info_error">දෝෂය</string>
+    <string name="calendar_info_events">සිදුවීම්: %1$d</string>
+    <string name="calendar_info_events_dirty">සිදුවීම්: %1$d, සුරකින නොලද: %2$d</string>
+    <string name="calendar_info_no_calendars">දින දර්ශන නොමැත</string>
+    <string name="calendar_storage">දින දර්ශන ගබඩාව</string>
+    <string name="debug_tool_delete_button">දැන් මකන්න</string>
+    <string name="debug_tool_email_body">අමුණා ඇත්තේ මගේ සියලු හමු සහ පුද්ගලික තොරතුරු සහිත මාගේ දින දර්ශන දත්ත සමුදායයි. ප්‍රවේශමෙන් පරිහරණය කරන්න.</string>
+    <string name="debug_tool_email_sender_picker">ඔබගේ ගොනුව යැවීමට ක්‍රමලේඛයක් තෝරන්න</string>
+    <string name="debug_tool_email_subject">දින දර්ශන Db අමුණා ඇත</string>
+    <string name="debug_tool_message">ඔබ 1) ඔබගේ දින දර්ශන දත්ත සමුදායේ පිටපතක් SD පතට/USB ගබඩාවට සෑදීමට යයි, එය ඕනෑම යෙදුමකින් කියවිය හැකිය, සහ 2) ඉ-තැපැල් කිරීමට යයි. එය සාර්ථකව උපාංගයෙන් පිටතට පිටපත් කල පසුව හෝ ඉ-තැපෑල ලද වහාම පිටපත මැකීමට මතක තබා ගන්න.</string>
+    <string name="debug_tool_start_button">අරඹන්න</string>
+    <string name="provider_label">දින දර්ශනය</string>
+</resources>

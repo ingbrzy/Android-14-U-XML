@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="select_logpersist_summaries">
+        <item>ഓഫ്</item>
+        <item>എല്ലാ ലോഗ് ബഫറുകളും</item>
+        <item>റേഡിയോ ലോഗ് ബഫറുകൾ ഒഴികെയുള്ള എല്ലാം</item>
+        <item>കേർനൽ ലോഗ് ബഫർ മാത്രം</item>
+    </string-array>
+</resources>

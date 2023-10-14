@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dlg_message_deletion_confirmation">
+        <item quantity="other">Je opnamen worden definitief verwijderd. Deze actie kan niet ongedaan worden gemaakt.</item>
+        <item quantity="one">Je opname wordt definitief verwijderd. Deze actie kan niet ongedaan worden gemaakt.</item>
+    </plurals>
+    <plurals name="dlg_message_deletion_permanent_confirmation">
+        <item quantity="other">Er zijn geen back-ups van deze opnamen gemaakt. Ze worden definitief verwijderd. Je kunt deze actie niet ongedaan maken.</item>
+        <item quantity="one">Er is geen back-up van de opname gemaakt. Deze wordt definitief verwijderd. Je kunt deze actie niet ongedaan maken.</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_confirmation">
+        <item quantity="other">Opnamen verwijderen?</item>
+        <item quantity="one">Opname verwijderen?</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_permanent_confirmation">
+        <item quantity="other">Deze opnamen definitief verwijderen?</item>
+        <item quantity="one">Deze opname definitief verwijderen?</item>
+    </plurals>
+    <plurals name="download_failure_description_storage_full">
+        <item quantity="other">Kan opnamen niet downloaden omdat de apparaatopslag vol is. Tik om te bekijken.</item>
+        <item quantity="one">Apparaatopslag is vol. Tik om te bekijken.</item>
+    </plurals>
+    <plurals name="downloading_description">
+        <item quantity="other">%1$d opnamen downloaden</item>
+        <item quantity="one">%1$d opname downloaden</item>
+    </plurals>
+    <plurals name="og_backup_failed_title">
+        <item quantity="other">Van %1$d items is de back-up mislukt</item>
+        <item quantity="one">Van %1$d item is de back-up mislukt</item>
+    </plurals>
+    <plurals name="og_backup_items_left">
+        <item quantity="other">Nog %1$d items</item>
+        <item quantity="one">Nog %1$d item</item>
+    </plurals>
+    <plurals name="og_backup_items_stopped_title">
+        <item quantity="other">%1$d items waarvan geen back-up is gemaakt</item>
+        <item quantity="one">%1$d item waarvan geen back-up is gemaakt</item>
+    </plurals>
+    <plurals name="peoplekit_chips_copied_recipients">
+        <item quantity="other">%d ontvangers gekopieerd</item>
+        <item quantity="one">%d ontvanger gekopieerd</item>
+    </plurals>
+    <plurals name="search_results_count">
+        <item quantity="other">%1$d resultaten</item>
+        <item quantity="one">%1$d resultaat</item>
+    </plurals>
+    <plurals name="search_results_position">
+        <item quantity="other">^1 van ^2 resultaten</item>
+        <item quantity="one">^1 van ^2 resultaat</item>
+    </plurals>
+    <plurals name="search_results_position_content_description">
+        <item quantity="other">%1$d van %2$d resultaten</item>
+        <item quantity="one">%1$d van %2$d resultaat</item>
+    </plurals>
+    <plurals name="selected_recording_quantity">
+        <item quantity="other">%1$d geselecteerd</item>
+        <item quantity="one">%1$d geselecteerd</item>
+    </plurals>
+    <plurals name="snackbar_message_download_failed_storage_full">
+        <item quantity="other">Apparaatopslag is vol. Kan opnamen niet downloaden.</item>
+        <item quantity="one">Apparaatopslag is vol. Kan opname niet downloaden.</item>
+    </plurals>
+    <plurals name="speaker_count">
+        <item quantity="other">%1$d sprekers</item>
+        <item quantity="one">%1$d spreker</item>
+    </plurals>
+    <plurals name="uploading_description">
+        <item quantity="other">%1$d opnamen uploaden</item>
+        <item quantity="one">%1$d opname uploaden</item>
+    </plurals>
+</resources>

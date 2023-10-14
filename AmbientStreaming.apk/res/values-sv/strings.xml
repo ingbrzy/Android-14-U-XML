@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tjänster för flera enheter</string>
+    <string name="app_name_generic">en app</string>
+    <string name="app_stream_error_generic">Ett fel uppstod när appen skulle delas</string>
+    <string name="app_stream_init_error_generic">Det gick inte att dela appen med din Chromebook</string>
+    <string name="audio_permission_rationale">Mikrofonbehörighet för appdelning har inaktiverats</string>
+    <string name="cancel_button_label">Avbryt</string>
+    <string name="chromebook_keyboard">Tangentbordet på Chromebook</string>
+    <string name="chromebook_mouse">Musen på Chromebook</string>
+    <string name="chromebook_touchscreen">Pekskärmen på Chromebook</string>
+    <string name="connect_device">Ansluter telefonen till fjärrenheten: %1$s</string>
+    <string name="decline_button_label">Avböj</string>
+    <string name="development_notification_channel_name">Utveckling</string>
+    <string name="device_camera_cannot_access">Det går inte att komma åt enhetens kamera från denna Chromebook</string>
+    <string name="done_button_label">Klar</string>
+    <string name="enable_button_label">Aktivera</string>
+    <string name="foreground_service_notification_channel_name">Allmänt</string>
+    <string name="foreground_service_notification_content">Tryck för att ändra inställningarna</string>
+    <string name="foreground_service_notification_title">{0,plural, =1{Ansluten till # enhet}other{Ansluten till # enheter}}</string>
+    <string name="interactive_streaming_generic_notification">%1$s streamas till och aviseringar synkroniseras med din Chromebook</string>
+    <string name="interactive_streaming_individual_notification">%1$s streamas och aviseringar till %2$s synkroniseras</string>
+    <string name="interactive_streaming_notification">Streamas till din Chromebook</string>
+    <string name="keyboard_name">Tangentbord för flera enheter</string>
+    <string name="lock_screen_notif_warning_content">Aktivera aviseringar på låsskärmen</string>
+    <string name="lock_screen_notif_warning_title">Aviseringar vidarebefordras inte</string>
+    <string name="mouse_name">Mus för flera enheter</string>
+    <string name="new_connection_confirm">Bekräfta</string>
+    <string name="new_connection_deny">Neka</string>
+    <string name="new_connection_title">Bekräfta strängmatchning</string>
+    <string name="notification_access_missing">Åtkomst till aviseringar krävs</string>
+    <string name="notification_access_missing_description">Aktivera åtkomst till aviseringar om du vill öppna aviseringar på din Chromebook</string>
+    <string name="notification_channel_name">Allmänt</string>
+    <string name="notification_listener_label">Dela appar med din Chromebook</string>
+    <string name="open_source_licenses">Licenser för öppen källkod</string>
+    <string name="phone_permission_rationale">Samtalsbehörighet för appdelning har inaktiverats</string>
+    <string name="prompt_switch_languages">Tryck på skift + blanksteg för att byta telefonens språk med Gboard</string>
+    <string name="settings_button">Inställningar</string>
+    <string name="stop_sharing_button">Avsluta stream</string>
+    <string name="stream_termination_proximity_warning">Telefonen är för långt bort. Flytta den närmare för att fortsätta streama.</string>
+    <string name="substitute_app_name">System</string>
+    <string name="summary_disable_wirecutter">Av</string>
+    <string name="summary_enable_wirecutter">På</string>
+    <string name="touchscreen_name">Pekskärm för flera enheter</string>
+</resources>

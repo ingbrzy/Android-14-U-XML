@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">‏Sim ایپ ڈائیلاگ</string>
+    <string name="call_notification_answer_action">جواب دیں</string>
+    <string name="call_notification_answer_video_action">ویڈیو</string>
+    <string name="call_notification_decline_action">مسترد کریں</string>
+    <string name="call_notification_hang_up_action">منقطع کر دیں</string>
+    <string name="call_notification_incoming_text">اِن کمنگ کال</string>
+    <string name="call_notification_ongoing_text">جاری کال</string>
+    <string name="call_notification_screening_text">اِن کمنگ کال کی اسکریننگ</string>
+    <string name="install_carrier_app_defer_action">ابھی نہیں</string>
+    <string name="install_carrier_app_description">‏آپ کی نئی SIM کو ٹھیک طرح سے کام کرنے کے لیے آپ کو %1$s ایپ انسٹال کرنے کی ضرورت ہو گی</string>
+    <string name="install_carrier_app_description_default">‏آپ کی نئی SIM کو ٹھیک طرح سے کام کرنے کے لیے آپ کو کیریئر ایپ انسٹال کرنے کی ضرورت ہو گی</string>
+    <string name="install_carrier_app_download_action">ایپ ڈاؤن لوڈ کریں</string>
+    <string name="install_carrier_app_title">موبائل سروس فعال کریں</string>
+    <string name="status_bar_notification_info_overflow">+999</string>
+    <string name="suw_back_button_label">پیچھے</string>
+    <string name="suw_more_button_label">مزید</string>
+    <string name="suw_next_button_label">آگے</string>
+</resources>

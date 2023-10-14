@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="alarm_alert_snooze_duration">
+        <item quantity="other">%d من الدقائق</item>
+        <item quantity="zero">%d min</item>
+        <item quantity="one">دقيقة واحدة</item>
+        <item quantity="two">دقيقتان (%d)</item>
+        <item quantity="few">%d دقائق</item>
+        <item quantity="many">%d دقيقة</item>
+    </plurals>
+    <plurals name="alarm_alert_snooze_set">
+        <item quantity="other">غفوة لمدة %d من الدقائق.</item>
+        <item quantity="zero">Snoozing for %d minutes.</item>
+        <item quantity="one">غفوة لمدة دقيقة واحدة.</item>
+        <item quantity="two">غفوة لمدة دقيقتين (%d).</item>
+        <item quantity="few">غفوة لمدة %d دقائق.</item>
+        <item quantity="many">غفوة لمدة %d دقيقة.</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%s من الأيام</item>
+        <item quantity="zero">%s من الأيام</item>
+        <item quantity="one">يوم واحد</item>
+        <item quantity="two">يومان (%s)</item>
+        <item quantity="few">%s أيام</item>
+        <item quantity="many">%s يومًا</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">قبل %s يوم</item>
+        <item quantity="zero">قبل %s يوم</item>
+        <item quantity="one">قبل يوم واحد</item>
+        <item quantity="two">قبل يومين (%s)</item>
+        <item quantity="few">قبل %s أيام</item>
+        <item quantity="many">قبل %s يومًا</item>
+    </plurals>
+    <plurals name="days_extra_short">
+        <item quantity="other">%s ي</item>
+        <item quantity="zero">%s ي</item>
+        <item quantity="one">1 ي</item>
+        <item quantity="two">%s ي</item>
+        <item quantity="few">%s ي</item>
+        <item quantity="many">%s ي</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s من الساعات</item>
+        <item quantity="zero">%s من الساعات</item>
+        <item quantity="one">ساعة واحدة</item>
+        <item quantity="two">ساعتان (%s)</item>
+        <item quantity="few">%s ساعات</item>
+        <item quantity="many">%s ساعة</item>
+    </plurals>
+    <plurals name="hours_extra_short">
+        <item quantity="other">%s س</item>
+        <item quantity="zero">%s س</item>
+        <item quantity="one">1 س</item>
+        <item quantity="two">%s س</item>
+        <item quantity="few">%s س</item>
+        <item quantity="many">%s س</item>
+    </plurals>
+    <plurals name="hours_short">
+        <item quantity="other">‏%s ساعة</item>
+        <item quantity="zero">‏%s ساعة</item>
+        <item quantity="one">‏ساعة واحدة</item>
+        <item quantity="two">ساعتان (%s)</item>
+        <item quantity="few">‏%s ساعة</item>
+        <item quantity="many">‏%s ساعة</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s من الدقائق</item>
+        <item quantity="zero">%s من الدقائق</item>
+        <item quantity="one">دقيقة واحدة</item>
+        <item quantity="two">دقيقتان (%s)</item>
+        <item quantity="few">%s دقائق</item>
+        <item quantity="many">%s دقيقة</item>
+    </plurals>
+    <plurals name="minutes_extra_short">
+        <item quantity="other">%s د</item>
+        <item quantity="zero">%s د</item>
+        <item quantity="one">1 د</item>
+        <item quantity="two">%s د</item>
+        <item quantity="few">%s د</item>
+        <item quantity="many">%s د</item>
+    </plurals>
+    <plurals name="minutes_short">
+        <item quantity="other">‏%s دقيقة</item>
+        <item quantity="zero">‏%s دقيقة</item>
+        <item quantity="one">‏دقيقة واحدة</item>
+        <item quantity="two">دقيقتان (%s)</item>
+        <item quantity="few">‏%s دقيقة</item>
+        <item quantity="many">‏%s دقيقة</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d إشعار جديد</item>
+        <item quantity="zero">%d إشعار جديد</item>
+        <item quantity="one">إشعار جديد واحد (%d)</item>
+        <item quantity="two">إشعاران جديدان (%d)</item>
+        <item quantity="few">%d إشعارات جديدة</item>
+        <item quantity="many">%d إشعارًا جديدًا</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%s ثانية</item>
+        <item quantity="zero">%s ثانية</item>
+        <item quantity="one">ثانية واحدة</item>
+        <item quantity="two">ثانيتان (%s)</item>
+        <item quantity="few">%s ثوانٍ</item>
+        <item quantity="many">%s ثانية</item>
+    </plurals>
+    <plurals name="seconds_extra_short">
+        <item quantity="other">%s ث</item>
+        <item quantity="zero">%s ث</item>
+        <item quantity="one">1 ث</item>
+        <item quantity="two">%s ث</item>
+        <item quantity="few">%s ث</item>
+        <item quantity="many">%s ث</item>
+    </plurals>
+</resources>

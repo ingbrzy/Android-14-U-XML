@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120000">
+        <item quantity="other">ৱাই-ফাইৰ বাবে অপেক্ষাৰত</item>
+        <item quantity="one">ৱাই-ফাইৰ বাবে অপেক্ষাৰত</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120002">
+        <item quantity="other">এই ডিভাইচটোত (%d টা এপ্)</item>
+        <item quantity="one">এই ডিভাইচটোত (%d টা এপ্)</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120003">
+        <item quantity="other">%1$sৰ সুবিধাবোৰ</item>
+        <item quantity="one">%1$sৰ সুবিধাবোৰ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120004">
+        <item quantity="other">%d দিন পূৰ্বে ইনষ্টল কৰা হৈছে</item>
+        <item quantity="one">%d দিন পূৰ্বে ইনষ্টল কৰা হৈছে</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120005">
+        <item quantity="other">%d ঘণ্টা পূৰ্বে ইনষ্টল কৰা হৈছে</item>
+        <item quantity="one">%d ঘণ্টা পূৰ্বে ইনষ্টল কৰা হৈছে</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120006">
+        <item quantity="other">%d মিনিট পূৰ্বে ইনষ্টল কৰা হৈছে</item>
+        <item quantity="one">%d মিনিট পূৰ্বে ইনষ্টল কৰা হৈছে</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120007">
+        <item quantity="other">%1$d টা বাছনি কৰা হৈছে</item>
+        <item quantity="one">%1$d টা বাছনি কৰা হৈছে</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120008">
+        <item quantity="other">%d দিন পূৰ্বে আপডে’ট কৰা হৈছে</item>
+        <item quantity="one">%d দিন পূৰ্বে আপডে’ট কৰা হৈছে</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120009">
+        <item quantity="other">%d ঘণ্টা পূৰ্বে আপডে’ট কৰা হৈছে</item>
+        <item quantity="one">%d ঘণ্টা পূৰ্বে আপডে’ট কৰা হৈছে</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000a">
+        <item quantity="other">%d মিনিট পূৰ্বে আপডে’ট কৰা হৈছে</item>
+        <item quantity="one">%d মিনিট পূৰ্বে আপডে’ট কৰা হৈছে</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000b">
+        <item quantity="other">%d দিন পূৰ্বে শেষবাৰ ব্যৱহাৰ কৰা হৈছে</item>
+        <item quantity="one">%d দিন পূৰ্বে শেষবাৰ ব্যৱহাৰ কৰা হৈছে</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000c">
+        <item quantity="other">%d ঘণ্টা পূৰ্বে শেষবাৰ ব্যৱহাৰ কৰা হৈছে</item>
+        <item quantity="one">%d ঘণ্টা পূৰ্বে শেষবাৰ ব্যৱহাৰ কৰা হৈছে</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000d">
+        <item quantity="other">%d মিনিট পূৰ্বে শেষবাৰ ব্যৱহাৰ কৰা হৈছে</item>
+        <item quantity="one">%d মিনিট পূৰ্বে শেষবাৰ ব্যৱহাৰ কৰা হৈছে</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000f">
+        <item quantity="other">%d দিন আগতে স্কেন কৰা এপ্‌</item>
+        <item quantity="one">%d দিন আগতে স্কেন কৰা এপ্‌</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120010">
+        <item quantity="other">%d ঘণ্টা আগতে স্কেন কৰা এপ্‌</item>
+        <item quantity="one">%d ঘণ্টা আগতে স্কেন কৰা এপ্‌</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120011">
+        <item quantity="other">%d মিনিট আগতে স্কেন কৰা এপ্‌</item>
+        <item quantity="one">%d মিনিট আগতে স্কেন কৰা এপ্‌</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120014">
+        <item quantity="other">%1$dটা পৰ্যালোচনা</item>
+        <item quantity="one">%1$dটা পৰ্যালোচনা</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120015">
+        <item quantity="other">%2$dটা তৰা মূল্যাংকনৰ %1$dটা পৰ্যালোচনা</item>
+        <item quantity="one">%2$dটা তৰা মূল্যাংকনৰ %1$dটা পৰ্যালোচনা</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120016">
+        <item quantity="other">%1$d টা ডিভাইচত ইনষ্টল কৰক।</item>
+        <item quantity="one">%1$d টা ডিভাইচত ইনষ্টল কৰক।</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120017">
+        <item quantity="other">%1$d টা ডিভাইচত ইনষ্টল কৰক। অধিক ডিভাইচ উপলব্ধ।</item>
+        <item quantity="one">%1$d টা ডিভাইচত ইনষ্টল কৰক। অধিক ডিভাইচ উপলব্ধ।</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120018">
+        <item quantity="other">"এই এপ্‌টো অতি সোনকালে আপোনাৰ %1$d টা ডিভাইচত ইনষ্টল কৰা হ'ব।"</item>
+        <item quantity="one">"এই এপ্‌টো অতি সোনকালে আপোনাৰ %1$d টা ডিভাইচত ইনষ্টল কৰা হ'ব।"</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120019">
+        <item quantity="other">%1$dটা অতিৰিক্তভাৱে পোৱা যাব</item>
+        <item quantity="one">%1$dটা অতিৰিক্তভাৱে পোৱা যাব</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001a">
+        <item quantity="other">ক্ৰয় কৰিলে %1$dটা অতিৰিক্তভাৱে পোৱা যাব</item>
+        <item quantity="one">ক্ৰয় কৰিলে %1$dটা অতিৰিক্তভাৱে পোৱা যাব</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001b">
+        <item quantity="other">%1$d দিন</item>
+        <item quantity="one">%1$d দিন</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001c">
+        <item quantity="other">%1$s টা পর্যালোচনাত গড় মূল্যাংকন %2$s টা তৰা</item>
+        <item quantity="one">%1$s টা পর্যালোচনাত গড় মূল্যাংকন %2$s টা তৰা</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001d">
+        <item quantity="other">%s টা পৰ্যালোচনা</item>
+        <item quantity="one">%s টা পৰ্যালোচনা</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001e">
+        <item quantity="other">আপুনি এতিয়া এজন বিকাশকৰ্তা হোৱাৰ পৰা %1$dটা পদক্ষেপ দূৰত।</item>
+        <item quantity="one">আপুনি এতিয়া এজন বিকাশকৰ্তা হোৱাৰ পৰা %1$dটা পদক্ষেপ দূৰত।</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001f">
+        <item quantity="other">গাড়ী</item>
+        <item quantity="one">গাড়ী</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120020">
+        <item quantity="other">Chromebook</item>
+        <item quantity="one">Chromebook</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120021">
+        <item quantity="other">জপাব পৰা</item>
+        <item quantity="one">জপাব পৰা</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120022">
+        <item quantity="other">"ফ'ন"</item>
+        <item quantity="one">"ফ'ন"</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120023">
+        <item quantity="other">টেবলেট</item>
+        <item quantity="one">টেবলেট</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120024">
+        <item quantity="other">টিভি</item>
+        <item quantity="one">টিভি</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120025">
+        <item quantity="other">ডিভাইচ</item>
+        <item quantity="one">ডিভাইচ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120026">
+        <item quantity="other">ঘড়ী</item>
+        <item quantity="one">ঘড়ী</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120027">
+        <item quantity="other">%1$d টা Play Point উপলব্ধ।</item>
+        <item quantity="one">%1$d টা Play Point উপলব্ধ।</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120028">
+        <item quantity="other">%1$d ঘণ্টা</item>
+        <item quantity="one">%1$d ঘণ্টা</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120029">
+        <item quantity="other">%1$d ঘণ্টা বাকী আছে</item>
+        <item quantity="one">%1$d ঘণ্টা বাকী আছে</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002a">
+        <item quantity="other">%1$d টা এপ্‌ ইনষ্টল কৰি থকা হৈছে…</item>
+        <item quantity="one">%1$d টা এপ্‌ ইনষ্টল কৰি থকা হৈছে…</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002b">
+        <item quantity="other">ইনষ্টলসমূহ পজ হ’ল</item>
+        <item quantity="one">ইনষ্টলসমূহ পজ হ’ল</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002c">
+        <item quantity="other">%1$dটা এপ্‌ ইনষ্টল কৰা হ’ব</item>
+        <item quantity="one">%1$dটা এপ্‌ ইনষ্টল কৰা হ’ব</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002d">
+        <item quantity="other">%d ঘণ্টা পূৰ্বে অন্তিমবাৰ আপডে’ট কৰা হৈছে</item>
+        <item quantity="one">%d ঘণ্টা পূৰ্বে অন্তিমবাৰ আপডে’ট কৰা হৈছে</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002e">
+        <item quantity="other">%d ঘণ্টা পূৰ্বে অন্তিমবাৰ আপডে’ট কৰা হৈছে</item>
+        <item quantity="one">%d ঘণ্টা পূৰ্বে অন্তিমবাৰ আপডে’ট কৰা হৈছে</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002f">
+        <item quantity="other">%d মিনিট পূৰ্বে অন্তিমবাৰ আপডে’ট কৰা হৈছে</item>
+        <item quantity="one">%d মিনিট পূৰ্বে অন্তিমবাৰ আপডে’ট কৰা হৈছে</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120033">
+        <item quantity="other">%1$d বছৰ পূৰ্বে</item>
+        <item quantity="one">%1$d বছৰ পূৰ্বে</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120034">
+        <item quantity="other">%1$d মিনিট</item>
+        <item quantity="one">%1$d মিনিট</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120035">
+        <item quantity="other">%1$d মিনিট বাকী আছে</item>
+        <item quantity="one">%1$d মিনিট বাকী আছে</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120037">
+        <item quantity="other">%1$d টা বাছনি কৰা হৈছে</item>
+        <item quantity="one">%1$d টা বাছনি কৰা হৈছে</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120038">
+        <item quantity="other">%1$d টা এপ্‌ আৰ্কাইভ কৰি থকা হৈছে</item>
+        <item quantity="one">%1$d টা এপ্‌ আৰ্কাইভ কৰি থকা হৈছে</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120039">
+        <item quantity="other">বাছনি কৰা এপ্‌সমূহ আঁতৰাবনে?</item>
+        <item quantity="one">বাছনি কৰা এপ্‌সমূহ আঁতৰাবনে?</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12003a">
+        <item quantity="other">%1$d টা এপ্‌ আঁতৰোৱা হৈছে</item>
+        <item quantity="one">%1$d টা এপ্‌ আঁতৰোৱা হৈছে</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12003d">
+        <item quantity="other">%1$d টা ইনষ্টল হ’বলৈ বাকী আছে</item>
+        <item quantity="one">%1$d টা ইনষ্টল হ’বলৈ বাকী আছে</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12003e">
+        <item quantity="other">%1$d টা ইনষ্টল চলি আছে</item>
+        <item quantity="one">%1$d টা ইনষ্টল চলি আছে</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120040">
+        <item quantity="other">%1$d টা আপডে’ট হ’বলৈ বাকী আছে</item>
+        <item quantity="one">%1$d টা আপডে’ট হ’বলৈ বাকী আছে</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120041">
+        <item quantity="other">%1$d টা আপডে’ট চলি আছে</item>
+        <item quantity="one">%1$d টা আপডে’ট চলি আছে</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120042">
+        <item quantity="other">%1$d টা এপ্‌ ইনষ্টল কৰা হ’ল</item>
+        <item quantity="one">%1$d টা এপ্‌ ইনষ্টল কৰা হ’ল</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120044">
+        <item quantity="other">%1$d ঘণ্টা পূৰ্বে ৰিলীজ হৈছে</item>
+        <item quantity="one">%1$d ঘণ্টা পূৰ্বে ৰিলীজ হৈছে</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120045">
+        <item quantity="other">%1$d দিন পূৰ্বে ৰিলীজ হৈছে</item>
+        <item quantity="one">%1$d দিন পূৰ্বে ৰিলীজ হৈছে</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120046">
+        <item quantity="other">এপ্‌সমূহ আঁতৰোৱা হৈছে</item>
+        <item quantity="one">এপ্‌সমূহ আঁতৰোৱা হৈছে</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120047">
+        <item quantity="other">%1$dটা আপডেটক অনুমোদনৰ প্ৰয়োজন</item>
+        <item quantity="one">%1$dটা আপডেটক অনুমোদনৰ প্ৰয়োজন</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120048">
+        <item quantity="other">%1$dটা নতুন আপডে’ট</item>
+        <item quantity="one">%1$dটা নতুন আপডে’ট</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120049">
+        <item quantity="other">%1$dটা আপডে’ট আছে</item>
+        <item quantity="one">%1$dটা আপডে’ট আছে</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004a">
+        <item quantity="other">সকলো আপডে’ট কৰক</item>
+        <item quantity="one">সকলো আপডে’ট কৰক</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004b">
+        <item quantity="other">%1$dটা এপ্ আপডে’ট হ’ল</item>
+        <item quantity="one">%1$dটা এপ্ আপডে’ট হ’ল</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004c">
+        <item quantity="other">%1$d ঘণ্টাত সমাপ্ত হ’ব</item>
+        <item quantity="one">%1$d ঘণ্টাত সমাপ্ত হ’ব</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004d">
+        <item quantity="other">%1$d দিনত সমাপ্ত হ’ব</item>
+        <item quantity="one">%1$d দিনত সমাপ্ত হ’ব</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004e">
+        <item quantity="other">%1$d মিনিট</item>
+        <item quantity="one">%1$d মিনিট</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004f">
+        <item quantity="other">%1$d ছেকেণ্ড</item>
+        <item quantity="one">%1$d ছেকেণ্ড</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120050">
+        <item quantity="other">ব্যক্তিগত এপ্‌সমূহ আঁতৰোৱা হৈছে</item>
+        <item quantity="one">ব্যক্তিগত এপ্‌সমূহ আঁতৰোৱা হৈছে</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120053">
+        <item quantity="other">Play Protectএ %d দিন পূৰ্বে স্কেন কৰিছিল</item>
+        <item quantity="one">Play Protectএ %d দিন পূৰ্বে স্কেন কৰিছিল</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120054">
+        <item quantity="other">Play Protectএ %d ঘণ্টা পূৰ্বে স্কেন কৰিছে</item>
+        <item quantity="one">Play Protectএ %d ঘণ্টা পূৰ্বে স্কেন কৰিছে</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120055">
+        <item quantity="other">Play Protectএ %d মিনিট পূৰ্বে স্কেন কৰিছে</item>
+        <item quantity="one">Play Protectএ %d মিনিট পূৰ্বে স্কেন কৰিছে</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120056">
+        <item quantity="other">অহা বছৰ পৰ্যন্ত %2$sত থাকিবলৈ %1$s১ পইণ্ট লাগে</item>
+        <item quantity="one">অহা বছৰ পৰ্যন্ত %2$sত থাকিবলৈ %1$s১ পইণ্ট লাগে</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120057">
+        <item quantity="other">%2$s পাবলৈ %1$s পইণ্ট লাগে</item>
+        <item quantity="one">%2$s পাবলৈ %1$s পইণ্ট লাগে</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120058">
+        <item quantity="other">আপুনি এই এপ্‌সমূহক অজ্ঞাত এপ্‌ ইনষ্টল অথবা আপডে’ট কৰিবলৈ অনুমতি দিছে, যিয়ে আপোনাৰ ডিভাইচ আৰু ব্যক্তিগত তথ্যৰ ক্ষতি হোৱাৰ সম্ভাৱনা সৃষ্টি কৰিব পাৰে। সেইসমূহ ইনষ্টল হোৱাত বাধা দিবলৈ অনুমতি অস্বীকাৰ কৰক।</item>
+        <item quantity="one">আপুনি এই এপ্‌সমূহক অজ্ঞাত এপ্‌ ইনষ্টল অথবা আপডে’ট কৰিবলৈ অনুমতি দিছে, যিয়ে আপোনাৰ ডিভাইচ আৰু ব্যক্তিগত তথ্যৰ ক্ষতি হোৱাৰ সম্ভাৱনা সৃষ্টি কৰিব পাৰে। সেইসমূহ ইনষ্টল হোৱাত বাধা দিবলৈ অনুমতি অস্বীকাৰ কৰক।</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120059">
+        <item quantity="other">আপুনি %1$d টা এপক অজ্ঞাত এপ্‌ ইনষ্টল অথবা আপডে’ট কৰিবলৈ অনুমতি দিছে, যিয়ে আপোনাৰ ডিভাইচ আৰু ব্যক্তিগত তথ্যৰ ক্ষতি হোৱাৰ সম্ভাৱনা সৃষ্টি কৰিব পাৰে</item>
+        <item quantity="one">আপুনি %1$d টা এপক অজ্ঞাত এপ্‌ ইনষ্টল অথবা আপডে’ট কৰিবলৈ অনুমতি দিছে, যিয়ে আপোনাৰ ডিভাইচ আৰু ব্যক্তিগত তথ্যৰ ক্ষতি হোৱাৰ সম্ভাৱনা সৃষ্টি কৰিব পাৰে</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005a">
+        <item quantity="other">%1$dটা গোপনীয়তাৰ সতৰ্কবাণী</item>
+        <item quantity="one">%1$dটা গোপনীয়তাৰ সতৰ্কবাণী</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005b">
+        <item quantity="other">%1$d টা ক্ষতিকাৰক এপ্‌ পোৱা গৈছে</item>
+        <item quantity="one">%1$d টা ক্ষতিকাৰক এপ্‌ পোৱা গৈছে</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005c">
+        <item quantity="other">%1$d টা সুৰক্ষা সম্পৰ্কীয় জাননী</item>
+        <item quantity="one">%1$d টা সুৰক্ষা সম্পৰ্কীয় জাননী</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005d">
+        <item quantity="other">%1$d টা সুৰক্ষা সম্পৰ্কীয় আপডে’ট</item>
+        <item quantity="one">%1$d টা সুৰক্ষা সম্পৰ্কীয় আপডে’ট</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005e">
+        <item quantity="other">%1$d টা অসুৰক্ষিত এপ্‌ পোৱা গৈছে</item>
+        <item quantity="one">%1$d টা অসুৰক্ষিত এপ্‌ পোৱা গৈছে</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005f">
+        <item quantity="other">%1$dটা সকীয়নি</item>
+        <item quantity="one">%1$dটা সকীয়নি</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120060">
+        <item quantity="other">অসুৰক্ষিত এপ্‌ পোৱা গৈছে</item>
+        <item quantity="one">অসুৰক্ষিত এপ্‌ পোৱা গৈছে</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120061">
+        <item quantity="other">%1$d ঘণ্টাত শেষ হ’ব</item>
+        <item quantity="one">%1$d ঘণ্টাত শেষ হ’ব</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120062">
+        <item quantity="other">%1$d দিনত শেষ হ’ব</item>
+        <item quantity="one">%1$d দিনত শেষ হ’ব</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120063">
+        <item quantity="other">%2$d টা পদক্ষেপৰ %1$d টা সম্পূৰ্ণ কৰা হৈছে</item>
+        <item quantity="one">%2$d টা পদক্ষেপৰ %1$d টা সম্পূৰ্ণ কৰা হৈছে</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120064">
+        <item quantity="other">%1$d টা এপ্‌ ইনষ্টল কৰিবলৈ সাজু</item>
+        <item quantity="one">%1$d টা এপ্‌ ইনষ্টল কৰিবলৈ সাজু</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120065">
+        <item quantity="other">%1$sএ আপোনালৈ %2$d টা এপ্‌ পঠিয়াব। পেয়াৰিং ক’ড মিল খোৱাটো নিশ্চিত কৰক।</item>
+        <item quantity="one">%1$sএ আপোনালৈ %2$d টা এপ্‌ পঠিয়াব। পেয়াৰিং ক’ড মিল খোৱাটো নিশ্চিত কৰক।</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120066">
+        <item quantity="other">\"%2$s\"ৰ পৰা %1$d টা এপ্‌ লাভ কৰি থকা হৈছে…</item>
+        <item quantity="one">\"%2$s\"ৰ পৰা %1$d টা এপ্‌ লাভ কৰি থকা হৈছে…</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006a">
+        <item quantity="other">%1$dজন ব্যৱহাৰকাৰীয়ে উপযোগী হোৱা বুলি কৈছে। মন্তব্যটো সহায়ক হোৱা বুলি চিহ্নিত কৰক</item>
+        <item quantity="one">%1$dজন ব্যৱহাৰকাৰীয়ে উপযোগী হোৱা বুলি কৈছে। মন্তব্যটো সহায়ক হোৱা বুলি চিহ্নিত কৰক</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006b">
+        <item quantity="other">%1$d জন ব্যৱহাৰকাৰীয়ে এই পর্যালোচনাটি উপযোগী হোৱা বুলি কৈছে। সহায়ক হোৱা বুলি দিয়া চিহ্ন আঁতৰাওক</item>
+        <item quantity="one">%1$d জন ব্যৱহাৰকাৰীয়ে এই পর্যালোচনাটি উপযোগী হোৱা বুলি কৈছে। সহায়ক হোৱা বুলি দিয়া চিহ্ন আঁতৰাওক</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006c">
+        <item quantity="other">%1$sজন মানুহে এইটো সহায়ক পাইছে</item>
+        <item quantity="one">%1$sজন মানুহে এইটো সহায়ক পাইছে</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006f">
+        <item quantity="other">%1$d ছেকেণ্ড</item>
+        <item quantity="one">%1$d ছেকেণ্ড</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120070">
+        <item quantity="other">%1$d ছেকেণ্ড বাকী আছে</item>
+        <item quantity="one">%1$d ছেকেণ্ড বাকী আছে</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120071">
+        <item quantity="other">%1$d টা বাছনি কৰা হৈছে • %2$s</item>
+        <item quantity="one">%1$d টা বাছনি কৰা হৈছে • %2$s</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120072">
+        <item quantity="other">\"%2$s\"লৈ %1$d টা এপ্‌ পঠিয়াই থকা হৈছে…</item>
+        <item quantity="one">\"%2$s\"লৈ %1$d টা এপ্‌ পঠিয়াই থকা হৈছে…</item>
+    </plurals>
+    <plurals name="setup_completed_installed">
+        <item quantity="other">%1$d টা এপ্‌ ইনষ্টল কৰা হ’ল</item>
+        <item quantity="one">%1$d টা এপ্‌ ইনষ্টল কৰা হ’ল</item>
+    </plurals>
+    <plurals name="setup_completed_installed_with_failures">
+        <item quantity="other">%2$d টা এপৰ %1$d টা ইনষ্টল কৰিব পৰা নগ’ল</item>
+        <item quantity="one">%2$d টা এপৰ %1$d টা ইনষ্টল কৰিব পৰা নগ’ল</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120075">
+        <item quantity="other">%1$d দিন পূৰ্বে অন্তিমবাৰ ব্যৱহাৰ কৰা হৈছিল</item>
+        <item quantity="one">%1$d দিন পূৰ্বে অন্তিমবাৰ ব্যৱহাৰ কৰা হৈছিল</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120076">
+        <item quantity="other">বাছনি কৰা %1$dটা এপ্ পুনঃস্থাপন কৰক</item>
+        <item quantity="one">বাছনি কৰা %1$dটা এপ্ পুনঃস্থাপন কৰক</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120078">
+        <item quantity="other">%1$dটা নতুন ভাষা ডাউনল’ড কৰিবনে?</item>
+        <item quantity="one">%1$dটা নতুন ভাষা ডাউনল’ড কৰিবনে?</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007b">
+        <item quantity="other">আপোনাৰ একাউণ্টৰ পৰা %1$d টা সমীক্ষাৰ সঁহাৰি স্থায়ীভাৱে আঁতৰোৱা হ’ব।</item>
+        <item quantity="one">আপোনাৰ একাউণ্টৰ পৰা %1$d টা সমীক্ষাৰ সঁহাৰি স্থায়ীভাৱে আঁতৰোৱা হ’ব।</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007c">
+        <item quantity="other">%1$d টা বাছনি কৰা হ’ল</item>
+        <item quantity="one">%1$d টা বাছনি কৰা হ’ল</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007d">
+        <item quantity="other">Play Points দেখুৱাওক। %1$d টা পইণ্ট উপলব্ধ।</item>
+        <item quantity="one">Play Points দেখুৱাওক। %1$d টা পইণ্ট উপলব্ধ।</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007e">
+        <item quantity="other">%1$d টা Play Point উপলব্ধ।</item>
+        <item quantity="one">%1$d টা Play Point উপলব্ধ।</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120080">
+        <item quantity="other">%1$s টা পইণ্ট</item>
+        <item quantity="one">%1$s টা পইণ্ট</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120081">
+        <item quantity="other">\"%2$s\"ৰ জৰিয়তে %1$d টা এপ্‌ স্থানান্তৰ কৰি থকা হৈছে…</item>
+        <item quantity="one">\"%2$s\"ৰ জৰিয়তে %1$d টা এপ্‌ স্থানান্তৰ কৰি থকা হৈছে…</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120082">
+        <item quantity="other">আপোনাৰ ডিভাইচটোৰ পৰা %1$d টা এপ্‌ আনইনষ্টল কৰা হ’ব।</item>
+        <item quantity="one">আপোনাৰ ডিভাইচটোৰ পৰা %1$d টা এপ্‌ আনইনষ্টল কৰা হ’ব।</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120083">
+        <item quantity="other">বাছনি কৰা এপ্‌সমূহ আনইনষ্টল কৰিবনে?</item>
+        <item quantity="one">বাছনি কৰা এপ্‌সমূহ আনইনষ্টল কৰিবনে?</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120084">
+        <item quantity="other">বাছনি কৰা এপ্‌সমূহৰ আপডে’টসমূহ আনইনষ্টল কৰিবনে?</item>
+        <item quantity="one">বাছনি কৰা এপ্‌সমূহৰ আপডে’টসমূহ আনইনষ্টল কৰিবনে?</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120085">
+        <item quantity="other">%1$s টা এপ্‌ আঁতৰোৱা হৈছে যাতে %2$sৰ বাবে পৰ্যাপ্ত ঠাই থাকে।</item>
+        <item quantity="one">%1$s টা এপ্‌ আঁতৰোৱা হৈছে যাতে %2$sৰ বাবে পৰ্যাপ্ত ঠাই থাকে।</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120086">
+        <item quantity="other">এপ্‌বোৰ শীঘ্ৰেই ইনষ্টল হ’ব।</item>
+        <item quantity="one">এপ্‌বোৰ শীঘ্ৰেই ইনষ্টল হ’ব।</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120087">
+        <item quantity="other">"এপ্ আপডে’টসমূহ শীঘ্ৰেই ইনষ্টল কৰা হ'ব।"</item>
+        <item quantity="one">"এপ্ আপডে’টসমূহ শীঘ্ৰেই ইনষ্টল কৰা হ'ব।"</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008a">
+        <item quantity="other">%1$dদিন পূৰ্বে অন্তিমবাৰ ব্যৱহাৰ কৰা হৈছিল</item>
+        <item quantity="one">%1$dদিন পূৰ্বে অন্তিমবাৰ ব্যৱহাৰ কৰা হৈছিল</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008b">
+        <item quantity="other">%1$d মাহ আগতে শেষৰবাৰ ব্যৱহাৰ কৰা হৈছিল</item>
+        <item quantity="one">%1$d মাহ আগতে শেষৰবাৰ ব্যৱহাৰ কৰা হৈছিল</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008c">
+        <item quantity="other">এই ডিভাইচটোত এপ্‌সমূহ অথবা আপডে’টসমূহ ইনষ্টল কৰিবলৈ আপোনাক আৰু প্ৰয়োজন নোহোৱা এপ্‌সমূহ আঁতৰাওক। আপুনি ষ্ট’ৰেজ ছেটিংসমূহ-ত মিডিয়া ফাইলসমূহ মচিও ঠাই খালী কৰিব পাৰে।</item>
+        <item quantity="one">এই ডিভাইচটোত এপ্‌সমূহ অথবা আপডে’টসমূহ ইনষ্টল কৰিবলৈ আপোনাক আৰু প্ৰয়োজন নোহোৱা এপ্‌সমূহ আঁতৰাওক। আপুনি ষ্ট’ৰেজ ছেটিংসমূহ-ত মিডিয়া ফাইলসমূহ মচিও ঠাই খালী কৰিব পাৰে।</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008d">
+        <item quantity="other">এই ডিভাইচটোত এপ্‌সমূহ অথবা আপডে’টসমূহ ইনষ্টল কৰিবলৈ আপোনাক আৰু প্ৰয়োজন নোহোৱা এপ্‌সমূহ আঁতৰাওক। আপুনি &lt;a href=\"\">ছেটিংসমূহ> ষ্ট’ৰেজ&lt;/a>ত মিডিয়া ফাইলসমূহ মচিও ঠাই খালী কৰিব পাৰে।</item>
+        <item quantity="one">এই ডিভাইচটোত এপ্‌সমূহ অথবা আপডে’টসমূহ ইনষ্টল কৰিবলৈ আপোনাক আৰু প্ৰয়োজন নোহোৱা এপ্‌সমূহ আঁতৰাওক। আপুনি &lt;a href=\"\">ছেটিংসমূহ> ষ্ট’ৰেজ&lt;/a>ত মিডিয়া ফাইলসমূহ মচিও ঠাই খালী কৰিব পাৰে।</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008e">
+        <item quantity="other">এই ডিভাইচটোত এপ্‌সমূহ অথবা আপডে’টসমূহ ইনষ্টল কৰিবলৈ আপোনাক আৰু প্ৰয়োজন নোহোৱা এপ্‌সমূহ আঁতৰাওক। আপুনি ছেটিংসমূহ> ষ্ট’ৰেজ-ত মিডিয়া ফাইলসমূহ মচিও ঠাই খালী কৰিব পাৰে।</item>
+        <item quantity="one">এই ডিভাইচটোত এপ্‌সমূহ অথবা আপডে’টসমূহ ইনষ্টল কৰিবলৈ আপোনাক আৰু প্ৰয়োজন নোহোৱা এপ্‌সমূহ আঁতৰাওক। আপুনি ছেটিংসমূহ> ষ্ট’ৰেজ-ত মিডিয়া ফাইলসমূহ মচিও ঠাই খালী কৰিব পাৰে।</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008f">
+        <item quantity="other">%1$d টা এপ্‌ আনইনষ্টল কৰা হ’ল</item>
+        <item quantity="one">%1$d টা এপ্‌ আনইনষ্টল কৰা হ’ল</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120090">
+        <item quantity="other">আপুনি যথেষ্ট সময় ধৰি ব্যৱহাৰ নকৰা %1$dটা এপ্‌ আমি বিচাৰি পাইছোঁ। আপুনি সেইবোৰ আঁতৰালে ষ্ট’ৰেজত %2$dএমবি খালী ঠাই পাব</item>
+        <item quantity="one">আপুনি যথেষ্ট সময় ধৰি ব্যৱহাৰ নকৰা %1$dটা এপ্‌ আমি বিচাৰি পাইছোঁ। আপুনি সেইবোৰ আঁতৰালে ষ্ট’ৰেজত %2$dএমবি খালী ঠাই পাব</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120091">
+        <item quantity="other">%1$d ঘণ্টাত আৰম্ভ হ’ব</item>
+        <item quantity="one">%1$d ঘণ্টাত আৰম্ভ হ’ব</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120092">
+        <item quantity="other">%1$d দিনত আৰম্ভ হ’ব</item>
+        <item quantity="one">%1$d দিনত আৰম্ভ হ’ব</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120093">
+        <item quantity="other">%1$d ঘণ্টাত উপলব্ধ হ’ব</item>
+        <item quantity="one">%1$d ঘণ্টাত উপলব্ধ হ’ব</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120094">
+        <item quantity="other">%1$d দিনত উপলব্ধ হ’ব</item>
+        <item quantity="one">%1$d দিনত উপলব্ধ হ’ব</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120095">
+        <item quantity="other">এই ডিভাইচটোত যোৱা %1$d মাহতকৈ অধিক সময়ত কোনো ছিষ্টেম আপডে’ট কৰা হোৱা নাই</item>
+        <item quantity="one">এই ডিভাইচটোত যোৱা %1$d মাহতকৈ অধিক সময়ত কোনো ছিষ্টেম আপডে’ট কৰা হোৱা নাই</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120096">
+        <item quantity="other">কাম সম্পৰ্কীয় এপ্‌সমূহ আঁতৰোৱা হৈছে</item>
+        <item quantity="one">কাম সম্পৰ্কীয় এপ্‌সমূহ আঁতৰোৱা হৈছে</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120097">
+        <item quantity="other">%1$d বছৰ আগতে</item>
+        <item quantity="one">%1$d বছৰ আগতে</item>
+    </plurals>
+</resources>

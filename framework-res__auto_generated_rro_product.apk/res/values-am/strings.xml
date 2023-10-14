@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_error_bad_calibration">የጣት አሻራ ዳሳሽን መጠቀም አልተቻለም። የጥገና አገልግሎት ሰጪን ወይም g.co/pixel/fingerprintunlockን ይጎብኙ</string>
+    <string name="fingerprint_recalibrate_notification_content">የጥገና አገልግሎት ሰጪን ወይም g.co/pixel/fingerprintunlockን ይጎብኙ</string>
+    <string name="battery_saver_description_with_learn_more">"የባትሪ ዕድሜን ለማራዘም የባትሪ ኃይል ቆጣቢ፦
+
+• ጨለማ ገጽታን ያበራል
+• የበስተጀርባ እንቅስቃሴን፣ አንዳንድ ምስላዊ ተጽዕኖዎችን እና ሌሎች እንደ «Hey Google» ያሉ ባህሪያትን ያጠፋል ወይም ይገድባል
+• የአውታረ መረብ ግንኙነቶችዎን ያመቻቻል
+
+"<annotation id="url">የበለጠ ለመረዳት</annotation></string>
+</resources>

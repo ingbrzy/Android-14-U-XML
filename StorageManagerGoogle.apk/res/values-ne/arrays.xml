@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="select_logpersist_summaries">
+        <item>निष्क्रिय</item>
+        <item>सबै लग बफर</item>
+        <item>रेडियो सम्बन्धी लगका बफरहरू बाहेक सबै</item>
+        <item>कर्नेलको लग सम्बन्धी बफर मात्र</item>
+    </string-array>
+</resources>

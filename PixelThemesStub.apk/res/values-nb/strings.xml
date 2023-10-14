@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bundle1_color_name">Karbon</string>
+    <string name="bundle2_color_name">Papir</string>
+    <string name="bundle3_color_name">Sol</string>
+    <string name="color_name_monochromatic">Ensfarget</string>
+    <string name="default_color_name">Klassisk</string>
+    <string name="fruit1_color_name">Fargepalett med to farger: gul og rød</string>
+    <string name="fruit2_color_name">Fargepalett med to farger: grønn og oransje</string>
+    <string name="fruit3_color_name">Fargepalett med to farger: blå og grønn</string>
+    <string name="fruit4_color_name">Fargepalett med to farger: lyselilla og blå</string>
+    <string name="fruit5_color_name">Fargepalett med to farger: rosa og indigo</string>
+    <string name="rainbow1_color_name">Rød</string>
+    <string name="rainbow2_color_name">Oransje</string>
+    <string name="rainbow3_color_name">Gul</string>
+    <string name="rainbow4_color_name">Grønn</string>
+    <string name="rainbow5_color_name">Blå</string>
+    <string name="rainbow6_color_name">Indigo</string>
+    <string name="rainbow7_color_name">Fiolett</string>
+</resources>

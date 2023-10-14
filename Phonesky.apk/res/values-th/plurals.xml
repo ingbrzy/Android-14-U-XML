@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120000">
+        <item quantity="other">กำลังรอ Wi-Fi</item>
+        <item quantity="one">กำลังรอ Wi-Fi</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120002">
+        <item quantity="other">ในอุปกรณ์นี้ (%d แอป)</item>
+        <item quantity="one">ในอุปกรณ์นี้ (%d แอป)</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120003">
+        <item quantity="other">ฟีเจอร์สำหรับ %1$s</item>
+        <item quantity="one">ฟีเจอร์สำหรับ %1$s</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120004">
+        <item quantity="other">ติดตั้งเมื่อ %d วันที่ผ่านมา</item>
+        <item quantity="one">ติดตั้งเมื่อ %d วันที่ผ่านมา</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120005">
+        <item quantity="other">ติดตั้งเมื่อ %d ชั่วโมงที่ผ่านมา</item>
+        <item quantity="one">ติดตั้งเมื่อ %d ชั่วโมงที่ผ่านมา</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120006">
+        <item quantity="other">ติดตั้งเมื่อ %d นาทีที่ผ่านมา</item>
+        <item quantity="one">ติดตั้งเมื่อ %d นาทีที่ผ่านมา</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120007">
+        <item quantity="other">เลือกไว้ %1$d รายการ</item>
+        <item quantity="one">เลือกไว้ %1$d รายการ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120008">
+        <item quantity="other">อัปเดตเมื่อ %d วันที่ผ่านมา</item>
+        <item quantity="one">อัปเดตเมื่อ %d วันที่ผ่านมา</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120009">
+        <item quantity="other">อัปเดตเมื่อ %d ชั่วโมงที่ผ่านมา</item>
+        <item quantity="one">อัปเดตเมื่อ %d ชั่วโมงที่ผ่านมา</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000a">
+        <item quantity="other">อัปเดตเมื่อ %d นาทีที่ผ่านมา</item>
+        <item quantity="one">อัปเดตเมื่อ %d นาทีที่ผ่านมา</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000b">
+        <item quantity="other">ใช้ล่าสุดเมื่อ %d วันที่ผ่านมา</item>
+        <item quantity="one">ใช้ล่าสุดเมื่อ %d วันที่ผ่านมา</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000c">
+        <item quantity="other">ใช้ล่าสุดเมื่อ %d ชั่วโมงที่ผ่านมา</item>
+        <item quantity="one">ใช้ล่าสุดเมื่อ %d ชั่วโมงที่ผ่านมา</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000d">
+        <item quantity="other">ใช้ล่าสุดเมื่อ %d นาทีที่ผ่านมา</item>
+        <item quantity="one">ใช้ล่าสุดเมื่อ %d นาทีที่ผ่านมา</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000f">
+        <item quantity="other">สแกนแอปเมื่อ %d วันที่ผ่านมา</item>
+        <item quantity="one">สแกนแอปเมื่อ %d วันที่ผ่านมา</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120010">
+        <item quantity="other">สแกนแอปเมื่อ %d ชั่วโมงที่ผ่านมา</item>
+        <item quantity="one">สแกนแอปเมื่อ %d ชั่วโมงที่ผ่านมา</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120011">
+        <item quantity="other">สแกนแอปเมื่อ %d นาทีที่ผ่านมา</item>
+        <item quantity="one">สแกนแอปเมื่อ %d นาทีที่ผ่านมา</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120014">
+        <item quantity="other">%1$d รีวิว</item>
+        <item quantity="one">%1$d รีวิว</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120015">
+        <item quantity="other">มีรีวิว %1$d รายการที่ให้คะแนน %2$d ดาว</item>
+        <item quantity="one">มีรีวิว %1$d รายการที่ให้คะแนน %2$d ดาว</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120016">
+        <item quantity="other">ติดตั้งในอุปกรณ์ %1$d เครื่อง</item>
+        <item quantity="one">ติดตั้งในอุปกรณ์ %1$d เครื่อง</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120017">
+        <item quantity="other">ติดตั้งในอุปกรณ์ %1$d เครื่อง มีอุปกรณ์อื่นๆ พร้อมใช้งาน</item>
+        <item quantity="one">ติดตั้งในอุปกรณ์ %1$d เครื่อง มีอุปกรณ์อื่นๆ พร้อมใช้งาน</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120018">
+        <item quantity="other">ระบบจะติดตั้งแอปนี้ในอุปกรณ์ %1$d เครื่องเร็วๆ นี้</item>
+        <item quantity="one">ระบบจะติดตั้งแอปนี้ในอุปกรณ์ %1$d เครื่องเร็วๆ นี้</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120019">
+        <item quantity="other">มี %1$d รายการ</item>
+        <item quantity="one">มี %1$d รายการ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001a">
+        <item quantity="other">มี %1$d รายการกับการซื้อ</item>
+        <item quantity="one">มี %1$d รายการกับการซื้อ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001b">
+        <item quantity="other">%1$d วัน</item>
+        <item quantity="one">%1$d วัน</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001c">
+        <item quantity="other">คะแนนเฉลี่ย %1$s ดาวใน %2$s รีวิว</item>
+        <item quantity="one">คะแนนเฉลี่ย %1$s ดาวใน 1 รีวิว</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001d">
+        <item quantity="other">%s รีวิว</item>
+        <item quantity="one">1 รีวิว</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001e">
+        <item quantity="other">ตอนนี้คุณเหลืออีกเพียง %1$d ขั้นตอนก็จะได้เป็นนักพัฒนาซอฟต์แวร์แล้ว</item>
+        <item quantity="one">ตอนนี้คุณเหลืออีกเพียง %1$d ขั้นตอนก็จะได้เป็นนักพัฒนาซอฟต์แวร์แล้ว</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001f">
+        <item quantity="other">รถยนต์</item>
+        <item quantity="one">รถยนต์</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120020">
+        <item quantity="other">Chromebook</item>
+        <item quantity="one">Chromebook</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120021">
+        <item quantity="other">อุปกรณ์แบบพับได้</item>
+        <item quantity="one">อุปกรณ์แบบพับได้</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120022">
+        <item quantity="other">โทรศัพท์</item>
+        <item quantity="one">โทรศัพท์</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120023">
+        <item quantity="other">แท็บเล็ต</item>
+        <item quantity="one">แท็บเล็ต</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120024">
+        <item quantity="other">ทีวี</item>
+        <item quantity="one">ทีวี</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120025">
+        <item quantity="other">อุปกรณ์</item>
+        <item quantity="one">อุปกรณ์</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120026">
+        <item quantity="other">นาฬิกา</item>
+        <item quantity="one">นาฬิกา</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120027">
+        <item quantity="other">มีแต้ม Play อยู่ %1$d แต้ม</item>
+        <item quantity="one">มีแต้ม Play อยู่ %1$d แต้ม</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120028">
+        <item quantity="other">%1$d ชั่วโมง</item>
+        <item quantity="one">%1$d ชั่วโมง</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120029">
+        <item quantity="other">เหลือ %1$d ชั่วโมง</item>
+        <item quantity="one">เหลือ 1 ชั่วโมง</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002a">
+        <item quantity="other">กำลังติดตั้ง %1$d แอป…</item>
+        <item quantity="one">กำลังติดตั้ง %1$d แอป…</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002b">
+        <item quantity="other">หยุดการติดตั้งชั่วคราวแล้ว</item>
+        <item quantity="one">หยุดการติดตั้งชั่วคราวแล้ว</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002c">
+        <item quantity="other">ระบบจะติดตั้งแอป %1$d แอป</item>
+        <item quantity="one">ระบบจะติดตั้งแอป %1$d แอป</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002d">
+        <item quantity="other">อัปเดตล่าสุดเมื่อ %d วันที่ผ่านมา</item>
+        <item quantity="one">อัปเดตล่าสุดเมื่อ %d วันที่ผ่านมา</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002e">
+        <item quantity="other">อัปเดตล่าสุดเมื่อ %d ชั่วโมงที่ผ่านมา</item>
+        <item quantity="one">อัปเดตล่าสุดเมื่อ %d ชั่วโมงที่ผ่านมา</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002f">
+        <item quantity="other">อัปเดตล่าสุดเมื่อ %d นาทีที่ผ่านมา</item>
+        <item quantity="one">อัปเดตล่าสุดเมื่อ %d นาทีที่ผ่านมา</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120033">
+        <item quantity="other">%1$d ปีที่ผ่านมา</item>
+        <item quantity="one">%1$d ปีที่ผ่านมา</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120034">
+        <item quantity="other">%1$d นาที</item>
+        <item quantity="one">%1$d นาที</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120035">
+        <item quantity="other">เหลือ %1$d นาที</item>
+        <item quantity="one">เหลือ 1 นาที</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120037">
+        <item quantity="other">เลือกไว้ %1$d รายการ</item>
+        <item quantity="one">เลือกไว้ %1$d รายการ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120038">
+        <item quantity="other">กำลังจะเก็บ %1$d แอป</item>
+        <item quantity="one">กำลังจะเก็บ %1$d แอป</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120039">
+        <item quantity="other">นำแอปที่เลือกออกใช่ไหม</item>
+        <item quantity="one">นำแอปที่เลือกออกใช่ไหม</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12003a">
+        <item quantity="other">นำออกแล้ว %1$d แอป</item>
+        <item quantity="one">นำออกแล้ว %1$d แอป</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12003d">
+        <item quantity="other">กำลังรอการติดตั้ง %1$d รายการ</item>
+        <item quantity="one">กำลังรอการติดตั้ง %1$d รายการ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12003e">
+        <item quantity="other">อยู่ระหว่างติดตั้ง %1$d รายการ</item>
+        <item quantity="one">อยู่ระหว่างติดตั้ง %1$d รายการ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120040">
+        <item quantity="other">อัปเดตรอดำเนินการ %1$d รายการ</item>
+        <item quantity="one">อัปเดตรอดำเนินการ %1$d รายการ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120041">
+        <item quantity="other">อยู่ระหว่างอัปเดต %1$d รายการ</item>
+        <item quantity="one">อยู่ระหว่างอัปเดต %1$d รายการ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120042">
+        <item quantity="other">ติดตั้งแล้ว %1$d แอป</item>
+        <item quantity="one">ติดตั้งแล้ว %1$d แอป</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120044">
+        <item quantity="other">เผยแพร่เมื่อ %1$d ชั่วโมงก่อน</item>
+        <item quantity="one">เผยแพร่เมื่อ %1$d ชั่วโมงก่อน</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120045">
+        <item quantity="other">เผยแพร่เมื่อ %1$d วันที่ผ่านมา</item>
+        <item quantity="one">เผยแพร่เมื่อ %1$d วันที่ผ่านมา</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120046">
+        <item quantity="other">มีการนำแอปออก</item>
+        <item quantity="one">มีการนำแอปออก</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120047">
+        <item quantity="other">การอัปเดต %1$d รายการต้องมีการอนุมัติ</item>
+        <item quantity="one">การอัปเดต %1$d รายการต้องมีการอนุมัติ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120048">
+        <item quantity="other">%1$d การอัปเดตใหม่</item>
+        <item quantity="one">%1$d การอัปเดตใหม่</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120049">
+        <item quantity="other">มีการอัปเดต %1$d รายการให้บริการ</item>
+        <item quantity="one">มีการอัปเดต %1$d รายการให้บริการ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004a">
+        <item quantity="other">อัปเดตทั้งหมด</item>
+        <item quantity="one">อัปเดต</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004b">
+        <item quantity="other">อัปเดตแล้ว %1$d แอป</item>
+        <item quantity="one">อัปเดตแล้ว %1$d แอป</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004c">
+        <item quantity="other">สิ้นสุดใน %1$d ชั่วโมง</item>
+        <item quantity="one">สิ้นสุดใน %1$d ชั่วโมง</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004d">
+        <item quantity="other">สิ้นสุดใน %1$d วัน</item>
+        <item quantity="one">สิ้นสุดใน %1$d วัน</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004e">
+        <item quantity="other">%1$d นาที</item>
+        <item quantity="one">%1$d นาที</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004f">
+        <item quantity="other">%1$d วินาที</item>
+        <item quantity="one">%1$d วินาที</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120050">
+        <item quantity="other">มีการนำแอปส่วนตัวออก</item>
+        <item quantity="one">มีการนำแอปส่วนตัวออก</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120053">
+        <item quantity="other">Play Protect สแกนเมื่อ %d วันที่ผ่านมา</item>
+        <item quantity="one">Play Protect สแกนเมื่อ %d วันที่ผ่านมา</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120054">
+        <item quantity="other">Play Protect สแกนเมื่อ %d ชั่วโมงที่ผ่านมา</item>
+        <item quantity="one">Play Protect สแกนเมื่อ %d ชั่วโมงที่ผ่านมา</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120055">
+        <item quantity="other">Play Protect สแกนเมื่อ %d นาทีที่ผ่านมา</item>
+        <item quantity="one">Play Protect สแกนเมื่อ %d นาทีที่ผ่านมา</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120056">
+        <item quantity="other">อีก %1$s แต้มเพื่อรักษาระดับ%2$sไว้ในปีหน้า</item>
+        <item quantity="one">อีก 1 แต้มเพื่อรักษาระดับ%2$sไว้ในปีหน้า</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120057">
+        <item quantity="other">อีก %1$s แต้มจะถึงระดับ%2$s</item>
+        <item quantity="one">อีก 1 แต้มจะถึงระดับ%2$s</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120058">
+        <item quantity="other">คุณให้สิทธิ์แอปเหล่านี้ในการติดตั้งหรืออัปเดตแอปที่ไม่รู้จัก ซึ่งอาจทำให้อุปกรณ์และข้อมูลส่วนบุคคลของคุณมีความเสี่ยงได้ ปฏิเสธการให้สิทธิ์เพื่อป้องกันการติดตั้งของแอปดังกล่าว</item>
+        <item quantity="one">คุณให้สิทธิ์แอปนี้ในการติดตั้งหรืออัปเดตแอปที่ไม่รู้จัก ซึ่งอาจทำให้อุปกรณ์และข้อมูลส่วนบุคคลของคุณมีความเสี่ยงได้ ปฏิเสธการให้สิทธิ์เพื่อป้องกันการติดตั้งของแอปดังกล่าว</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120059">
+        <item quantity="other">คุณให้สิทธิ์แอป %1$d แอปในการติดตั้งหรืออัปเดตแอปที่ไม่รู้จัก ซึ่งอาจทำให้อุปกรณ์และข้อมูลส่วนบุคคลของคุณมีความเสี่ยงได้</item>
+        <item quantity="one">คุณให้สิทธิ์แอป 1 แอปในการติดตั้งหรืออัปเดตแอปที่ไม่รู้จัก ซึ่งอาจทำให้อุปกรณ์และข้อมูลส่วนบุคคลของคุณมีความเสี่ยงได้</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005a">
+        <item quantity="other">คำเตือนความเป็นส่วนตัว %1$d รายการ</item>
+        <item quantity="one">คำเตือนความเป็นส่วนตัว 1 รายการ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005b">
+        <item quantity="other">พบแอปที่เป็นอันตราย %1$d แอป</item>
+        <item quantity="one">พบแอปที่เป็นอันตราย 1 แอป</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005c">
+        <item quantity="other">การแจ้งเตือนด้านความปลอดภัย %1$d รายการ</item>
+        <item quantity="one">การแจ้งเตือนด้านความปลอดภัย 1 รายการ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005d">
+        <item quantity="other">การอัปเดตความปลอดภัย %1$d รายการ</item>
+        <item quantity="one">การอัปเดตความปลอดภัย 1 รายการ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005e">
+        <item quantity="other">พบแอปที่ไม่ปลอดภัย %1$d แอป</item>
+        <item quantity="one">พบแอปที่ไม่ปลอดภัย 1 แอป</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005f">
+        <item quantity="other">คำเตือน %1$d รายการ</item>
+        <item quantity="one">คำเตือน 1 รายการ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120060">
+        <item quantity="other">พบแอปที่ไม่ปลอดภัย</item>
+        <item quantity="one">พบแอปที่ไม่ปลอดภัย</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120061">
+        <item quantity="other">สิ้นสุดใน %1$d ชั่วโมง</item>
+        <item quantity="one">สิ้นสุดใน %1$d ชั่วโมง</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120062">
+        <item quantity="other">สิ้นสุดใน %1$d วัน</item>
+        <item quantity="one">สิ้นสุดใน %1$d วัน</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120063">
+        <item quantity="other">ทำภารกิจเสร็จแล้ว %1$d จาก %2$d ขั้นตอน</item>
+        <item quantity="one">ทำภารกิจเสร็จแล้ว %1$d จาก %2$d ขั้นตอน</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120064">
+        <item quantity="other">พร้อมติดตั้ง %1$d แอปแล้ว</item>
+        <item quantity="one">พร้อมติดตั้ง %1$d แอปแล้ว</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120065">
+        <item quantity="other">%1$s จะส่งแอปให้คุณ %2$d แอป โปรดตรวจสอบว่ารหัสการจับคู่ตรงกัน</item>
+        <item quantity="one">%1$s จะส่งแอปให้คุณ %2$d แอป โปรดตรวจสอบว่ารหัสการจับคู่ตรงกัน</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120066">
+        <item quantity="other">กำลังรับ %1$d แอปจาก \"%2$s\"…</item>
+        <item quantity="one">กำลังรับ %1$d แอปจาก \"%2$s\"…</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006a">
+        <item quantity="other">ผู้ใช้ %1$d คนเห็นว่ารีวิวนี้มีประโยชน์ ทำเครื่องหมายความคิดเห็นว่ามีประโยชน์</item>
+        <item quantity="one">ผู้ใช้ %1$d คนเห็นว่ารีวิวนี้มีประโยชน์ ทำเครื่องหมายความคิดเห็นว่ามีประโยชน์</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006b">
+        <item quantity="other">ผู้ใช้ %1$d คนเห็นว่ารีวิวนี้มีประโยชน์ เลิกทำเครื่องหมายความคิดเห็นว่ามีประโยชน์</item>
+        <item quantity="one">ผู้ใช้ %1$d คนเห็นว่ารีวิวนี้มีประโยชน์ เลิกทำเครื่องหมายความคิดเห็นว่ามีประโยชน์</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006c">
+        <item quantity="other">%1$s คนพบว่ารีวิวนี้มีประโยชน์</item>
+        <item quantity="one">%1$s คนพบว่ารีวิวนี้มีประโยชน์</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006f">
+        <item quantity="other">%1$d วินาที</item>
+        <item quantity="one">%1$d วินาที</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120070">
+        <item quantity="other">เหลือ %1$d วินาที</item>
+        <item quantity="one">เหลือ 1 วินาที</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120071">
+        <item quantity="other">เลือกไว้ %1$d แอป • %2$s</item>
+        <item quantity="one">เลือกไว้ %1$d แอป • %2$s</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120072">
+        <item quantity="other">กำลังส่ง %1$d แอปไปยัง \"%2$s\"…</item>
+        <item quantity="one">กำลังส่ง %1$d แอปไปยัง \"%2$s\"…</item>
+    </plurals>
+    <plurals name="setup_completed_installed">
+        <item quantity="other">ติดตั้งแล้ว %1$d แอป</item>
+        <item quantity="one">ติดตั้งแล้ว %1$d แอป</item>
+    </plurals>
+    <plurals name="setup_completed_installed_with_failures">
+        <item quantity="other">ติดตั้งแอปไม่ได้ %1$d จาก %2$d แอป</item>
+        <item quantity="one">ติดตั้งแอปไม่ได้ %1$d จาก %2$d แอป</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120075">
+        <item quantity="other">ใช้ล่าสุดเมื่อ %1$d วันที่ผ่านมา</item>
+        <item quantity="one">ใช้ล่าสุดเมื่อ %1$d วันที่ผ่านมา</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120076">
+        <item quantity="other">คืนค่า %1$d แอปที่เลือก</item>
+        <item quantity="one">คืนค่าแอปที่เลือก</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120078">
+        <item quantity="other">ดาวน์โหลดภาษาใหม่ %1$d ภาษาไหม</item>
+        <item quantity="one">ดาวน์โหลดภาษาใหม่ไหม</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007b">
+        <item quantity="other">ระบบจะนำคำตอบของแบบสำรวจ %1$d คำตอบออกจากบัญชีของคุณอย่างถาวร</item>
+        <item quantity="one">ระบบจะนำคำตอบของแบบสำรวจ %1$d คำตอบออกจากบัญชีของคุณอย่างถาวร</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007c">
+        <item quantity="other">เลือกไว้ %1$d รายการ</item>
+        <item quantity="one">เลือกไว้ %1$d รายการ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007d">
+        <item quantity="other">แสดงแต้ม Play มีอยู่ %1$d แต้ม</item>
+        <item quantity="one">แสดงแต้ม Play มีอยู่ %1$d แต้ม</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007e">
+        <item quantity="other">มีแต้ม Play อยู่ %1$d แต้ม</item>
+        <item quantity="one">มีแต้ม Play อยู่ %1$d แต้ม</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120080">
+        <item quantity="other">%1$s แต้ม</item>
+        <item quantity="one">1 แต้ม</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120081">
+        <item quantity="other">กำลังโอน %1$d แอปกับ \"%2$s\"…</item>
+        <item quantity="one">กำลังโอน %1$d แอปกับ \"%2$s\"…</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120082">
+        <item quantity="other">ระบบจะถอนการติดตั้ง %1$d แอปจากอุปกรณ์</item>
+        <item quantity="one">ระบบจะถอนการติดตั้ง %1$d แอปจากอุปกรณ์</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120083">
+        <item quantity="other">ถอนการติดตั้งแอปที่เลือกใช่ไหม</item>
+        <item quantity="one">ถอนการติดตั้งแอปที่เลือกใช่ไหม</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120084">
+        <item quantity="other">ถอนการติดตั้งอัปเดตสำหรับแอปที่เลือกใช่ไหม</item>
+        <item quantity="one">ถอนการติดตั้งอัปเดตสำหรับแอปที่เลือกใช่ไหม</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120085">
+        <item quantity="other">นำออกแล้ว %1$s แอป จึงมีพื้นที่ว่างพอสำหรับ %2$s</item>
+        <item quantity="one">นำออกแล้ว %1$s แอป จึงมีพื้นที่ว่างพอสำหรับ %2$s</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120086">
+        <item quantity="other">ระบบจะติดตั้งแอปในไม่ช้า</item>
+        <item quantity="one">ระบบจะติดตั้งแอปในไม่ช้า</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120087">
+        <item quantity="other">ระบบจะติดตั้งการอัปเดตแอปในไม่ช้า</item>
+        <item quantity="one">ระบบจะติดตั้งการอัปเดตแอปในไม่ช้า</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008a">
+        <item quantity="other">ใช้ล่าสุดเมื่อ %1$d วันที่ผ่านมา</item>
+        <item quantity="one">ใช้ล่าสุดเมื่อ %1$d วันที่ผ่านมา</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008b">
+        <item quantity="other">ใช้ล่าสุดเมื่อ %1$d เดือนที่ผ่านมา</item>
+        <item quantity="one">ใช้ล่าสุดเมื่อ %1$d เดือนที่ผ่านมา</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008c">
+        <item quantity="other">หากต้องการติดตั้งแอปหรืออัปเดตในอุปกรณ์นี้ ให้นำแอปที่ไม่ได้ใช้แล้วออก หรือลบไฟล์สื่อใน \"การตั้งค่าพื้นที่เก็บข้อมูล\" เพื่อเพิ่มพื้นที่ว่างก็ได้</item>
+        <item quantity="one">หากต้องการติดตั้งแอปหรืออัปเดตในอุปกรณ์นี้ ให้นำแอปที่ไม่ได้ใช้แล้วออก หรือลบไฟล์สื่อใน \"การตั้งค่าพื้นที่เก็บข้อมูล\" เพื่อเพิ่มพื้นที่ว่างก็ได้</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008d">
+        <item quantity="other">หากต้องการติดตั้งแอปหรืออัปเดตในอุปกรณ์นี้ ให้นำแอปที่ไม่ได้ใช้แล้วออก หรือลบไฟล์สื่อใน&lt;a href=\"\">การตั้งค่า > พื้นที่เก็บข้อมูล&lt;/a> เพื่อเพิ่มพื้นที่ว่างก็ได้</item>
+        <item quantity="one">หากต้องการติดตั้งแอปหรืออัปเดตในอุปกรณ์นี้ ให้นำแอปที่ไม่ได้ใช้แล้วออก หรือลบไฟล์สื่อใน&lt;a href=\"\">การตั้งค่า > พื้นที่เก็บข้อมูล&lt;/a> เพื่อเพิ่มพื้นที่ว่างก็ได้</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008e">
+        <item quantity="other">หากต้องการติดตั้งแอปหรืออัปเดตในอุปกรณ์นี้ ให้นำแอปที่ไม่ได้ใช้แล้วออก หรือลบไฟล์สื่อในการตั้งค่า > พื้นที่เก็บข้อมูล เพื่อเพิ่มพื้นที่ว่างก็ได้</item>
+        <item quantity="one">หากต้องการติดตั้งแอปหรืออัปเดตในอุปกรณ์นี้ ให้นำแอปที่ไม่ได้ใช้แล้วออก หรือลบไฟล์สื่อในการตั้งค่า > พื้นที่เก็บข้อมูล เพื่อเพิ่มพื้นที่ว่างก็ได้</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008f">
+        <item quantity="other">ถอนการติดตั้ง %1$d แอปแล้ว</item>
+        <item quantity="one">ถอนการติดตั้ง %1$d แอปแล้ว</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120090">
+        <item quantity="other">เราพบว่ามี %1$d แอปที่คุณไม่ได้ใช้มาระยะหนึ่ง การนำแอปเหล่านี้ออกจะทำให้มีพื้นที่เก็บข้อมูลเพิ่มขึ้น %2$dMB</item>
+        <item quantity="one">เราพบว่ามี %1$d แอปที่คุณไม่ได้ใช้มาระยะหนึ่ง การนำแอปนี้ออกจะทำให้มีพื้นที่เก็บข้อมูลเพิ่มขึ้น %2$dMB</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120091">
+        <item quantity="other">เริ่มใน %1$d ชั่วโมง</item>
+        <item quantity="one">เริ่มใน %1$d ชั่วโมง</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120092">
+        <item quantity="other">เริ่มใน %1$d วัน</item>
+        <item quantity="one">เริ่มใน %1$d วัน</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120093">
+        <item quantity="other">พร้อมใช้งานใน %1$d ชั่วโมง</item>
+        <item quantity="one">พร้อมใช้งานใน %1$d ชั่วโมง</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120094">
+        <item quantity="other">พร้อมใช้งานใน %1$d วัน</item>
+        <item quantity="one">พร้อมใช้งานใน %1$d วัน</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120095">
+        <item quantity="other">อุปกรณ์นี้ไม่ได้รับการอัปเดตระบบเป็นเวลานานกว่า %1$d เดือนแล้ว</item>
+        <item quantity="one">อุปกรณ์นี้ไม่ได้รับการอัปเดตระบบเป็นเวลานานกว่า %1$d เดือนแล้ว</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120096">
+        <item quantity="other">มีการนำแอปงานออก</item>
+        <item quantity="one">มีการนำแอปงานออก</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120097">
+        <item quantity="other">%1$d ปีที่ผ่านมา</item>
+        <item quantity="one">%1$d ปีที่ผ่านมา</item>
+    </plurals>
+</resources>

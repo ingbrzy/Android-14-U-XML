@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dots">
+        <item quantity="other">dot %s</item>
+        <item quantity="one">dot %s</item>
+    </plurals>
+    <plurals name="gestures_recorded_message">
+        <item quantity="other">May na-record na %d na galaw</item>
+        <item quantity="one">May na-record na %d galaw</item>
+    </plurals>
+    <plurals name="label_num_keys_assigned_format">
+        <item quantity="other">%d na switch ang naitalaga</item>
+        <item quantity="one">%d switch ang naitalaga</item>
+    </plurals>
+    <plurals name="label_num_scanning_loops_format">
+        <item quantity="other">%d na Loop</item>
+        <item quantity="one">%d Loop</item>
+    </plurals>
+    <plurals name="line_speed_summary_format">
+        <item quantity="other">%.2f cm kada segundo</item>
+        <item quantity="one">%.2f cm kada segundo</item>
+    </plurals>
+    <plurals name="time_delay_summary_format">
+        <item quantity="other">%.2f na Segundo</item>
+        <item quantity="one">%.2f Segundo</item>
+    </plurals>
+</resources>

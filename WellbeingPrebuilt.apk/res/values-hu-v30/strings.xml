@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="heads_up_location_permission_description">Ez alapján tudja a „Nézzen előre”, hogy Ön éppen szabadtéren tartózkodik. A következő két képernyőn válassza <b>Az alkalmazás használata közben > Mindig engedélyezett</b> lehetőséget.</string>
+    <string name="wind_down_discovery_notification_text">{DEVICE_TYPE,select, DEVICE_PHONE{Az Alvásidő móddal lenémíthatja telefonját, és elsötétítheti a képernyőt az alvásidő idejére}DEVICE_TABLET{Az Alvásidő móddal lenémíthatja táblagépét, és elsötétítheti a képernyőt az alvásidő idejére}other{Az Alvásidő móddal lenémíthatja eszközét, és elsötétítheti a képernyőt az alvásidő idejére}}</string>
+</resources>

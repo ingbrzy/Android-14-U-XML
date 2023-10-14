@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120000">
+        <item quantity="other">Αναμονή για Wi-Fi</item>
+        <item quantity="one">Αναμονή για Wi-Fi</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120002">
+        <item quantity="other">Σε αυτήν τη συσκευή (%d εφαρμογές)</item>
+        <item quantity="one">Σε αυτήν τη συσκευή (%d εφαρμογή)</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120003">
+        <item quantity="other">Λειτουργίες για την εφαρμογή %1$s</item>
+        <item quantity="one">Λειτουργία για την εφαρμογή %1$s</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120004">
+        <item quantity="other">Εγκαταστάθηκε πριν από %d ημέρα</item>
+        <item quantity="one">Εγκαταστάθηκε πριν από %d ημέρα</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120005">
+        <item quantity="other">Εγκατάσταση πριν από %d ώρες</item>
+        <item quantity="one">Εγκατάσταση πριν από %d ώρα</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120006">
+        <item quantity="other">Εγκαταστάθηκε πριν από %d λεπτά</item>
+        <item quantity="one">Εγκαταστάθηκε πριν από %d λεπτό</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120007">
+        <item quantity="other">Επιλέχθηκαν %1$d</item>
+        <item quantity="one">Επιλέχθηκε %1$d</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120008">
+        <item quantity="other">Ενημερώθηκε πριν από %d ημέρες</item>
+        <item quantity="one">Ενημερώθηκε πριν από %d ημέρα</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120009">
+        <item quantity="other">Ενημερώθηκε πριν από %d ώρες</item>
+        <item quantity="one">Ενημερώθηκε πριν από %d ώρα</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000a">
+        <item quantity="other">Ενημερώθηκε πριν από %d λεπτά</item>
+        <item quantity="one">Ενημερώθηκε πριν από %d λεπτό</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000b">
+        <item quantity="other">Τελευταία χρήση πριν από %d ημέρες</item>
+        <item quantity="one">Τελευταία χρήση πριν από %d ημέρα</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000c">
+        <item quantity="other">Τελευταία χρήση πριν από %d ώρες</item>
+        <item quantity="one">Τελευταία χρήση πριν από %d ώρα</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000d">
+        <item quantity="other">Τελευταία χρήση πριν από %d λεπτά</item>
+        <item quantity="one">Τελευταία χρήση πριν από %d λεπτό</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000f">
+        <item quantity="other">Οι εφαρμογές σαρώθηκαν πριν από %d ημέρες.</item>
+        <item quantity="one">Οι εφαρμογές σαρώθηκαν πριν από %d ημέρα.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120010">
+        <item quantity="other">Οι εφαρμογές σαρώθηκαν πριν από %d ώρες.</item>
+        <item quantity="one">Οι εφαρμογές σαρώθηκαν πριν από %d ώρα.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120011">
+        <item quantity="other">Οι εφαρμογές σαρώθηκαν πριν από %d λεπτά.</item>
+        <item quantity="one">Οι εφαρμογές σαρώθηκαν πριν από %d λεπτό.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120014">
+        <item quantity="other">%1$d κριτικές</item>
+        <item quantity="one">%1$d κριτική</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120015">
+        <item quantity="other">%1$d κριτικές για αξιολόγηση με αστέρια %2$d</item>
+        <item quantity="one">%1$d κριτική για αξιολόγηση με αστέρια %2$d</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120016">
+        <item quantity="other">Εγκατάσταση σε %1$d συσκευές.</item>
+        <item quantity="one">Εγκατάσταση σε %1$d συσκευή.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120017">
+        <item quantity="other">Εγκατάσταση σε %1$d συσκευές. Περισσότερες διαθέσιμες συσκευές.</item>
+        <item quantity="one">Εγκατάσταση σε %1$d συσκευή. Περισσότερες διαθέσιμες συσκευές.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120018">
+        <item quantity="other">Αυτή η εφαρμογή θα εγκατασταθεί σύντομα σε %1$d συσκευές.</item>
+        <item quantity="one">Αυτή η εφαρμογή θα εγκατασταθεί σύντομα σε %1$d συσκευή.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120019">
+        <item quantity="other">%1$d προεγκατεστημένα διαθέσιμα</item>
+        <item quantity="one">%1$d προεγκατεστημένο διαθέσιμο</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001a">
+        <item quantity="other">%1$d προεγκατεστημένα διαθέσιμα με την αγορά</item>
+        <item quantity="one">%1$d προεγκατεστημένο διαθέσιμο με την αγορά</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001b">
+        <item quantity="other">%1$d ημέρες</item>
+        <item quantity="one">%1$d ημέρα</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001c">
+        <item quantity="other">Μέση βαθμολογία %1$s αστεριών σε %2$s αξιολογήσεις</item>
+        <item quantity="one">Μέση βαθμολογία %1$s αστεριών σε 1 αξιολόγηση</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001d">
+        <item quantity="other">%s αξιολογήσεις</item>
+        <item quantity="one">1 αξιολόγηση</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001e">
+        <item quantity="other">Απομένουν %1$d βήματα, για να γίνετε προγραμματιστής.</item>
+        <item quantity="one">Απομένει %1$d βήμα, για να γίνετε προγραμματιστής.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001f">
+        <item quantity="other">αυτοκίνητα</item>
+        <item quantity="one">αυτοκίνητο</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120020">
+        <item quantity="other">Chromebook</item>
+        <item quantity="one">Chromebook</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120021">
+        <item quantity="other">αναδιπλούμενες</item>
+        <item quantity="one">αναδιπλούμενη</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120022">
+        <item quantity="other">τηλέφωνα</item>
+        <item quantity="one">τηλέφωνο</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120023">
+        <item quantity="other">tablet</item>
+        <item quantity="one">tablet</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120024">
+        <item quantity="other">τηλεοράσεις</item>
+        <item quantity="one">τηλεόραση</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120025">
+        <item quantity="other">συσκευές</item>
+        <item quantity="one">συσκευή</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120026">
+        <item quantity="other">watch</item>
+        <item quantity="one">watch</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120027">
+        <item quantity="other">%1$d Πόντοι Play διαθέσιμοι.</item>
+        <item quantity="one">%1$d Πόντος Play διαθέσιμος.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120028">
+        <item quantity="other">%1$d ώρες</item>
+        <item quantity="one">%1$d ώρα</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120029">
+        <item quantity="other">Απομένουν %1$d ώρες</item>
+        <item quantity="one">Απομένει 1 ώρα</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002a">
+        <item quantity="other">Εγκατάσταση %1$d εφαρμογών…</item>
+        <item quantity="one">Εγκατάσταση %1$d εφαρμογής…</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002b">
+        <item quantity="other">Οι εγκαταστάσεις τέθηκαν σε παύση</item>
+        <item quantity="one">Η εγκατάσταση τέθηκε σε παύση</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002c">
+        <item quantity="other">%1$d εφαρμογές θα εγκατασταθούν</item>
+        <item quantity="one">%1$d εφαρμογή θα εγκατασταθεί</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002d">
+        <item quantity="other">Τελευταία ενημέρωση πριν από %d ημέρες</item>
+        <item quantity="one">Τελευταία ενημέρωση πριν από %d ημέρα</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002e">
+        <item quantity="other">Τελευταία ενημέρωση πριν από %d ώρες</item>
+        <item quantity="one">Τελευταία ενημέρωση πριν από %d ώρα</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002f">
+        <item quantity="other">Τελευταία ενημέρωση πριν από %d λεπτά</item>
+        <item quantity="one">Τελευταία ενημέρωση πριν από %d λεπτό</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120033">
+        <item quantity="other">Πριν από %1$d χρόνια</item>
+        <item quantity="one">Πριν από %1$d χρόνο</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120034">
+        <item quantity="other">%1$d λεπτά</item>
+        <item quantity="one">%1$d λεπτό</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120035">
+        <item quantity="other">Απομένουν %1$d λεπτά</item>
+        <item quantity="one">Απομένει 1 λεπτό</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120037">
+        <item quantity="other">Επιλέχθηκαν %1$d</item>
+        <item quantity="one">Επιλέχθηκε %1$d</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120038">
+        <item quantity="other">Αρχειοθέτηση %1$d εφαρμογών</item>
+        <item quantity="one">Αρχειοθέτηση %1$d εφαρμογής</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120039">
+        <item quantity="other">Κατάργηση επιλεγμένων εφαρμογών;</item>
+        <item quantity="one">Κατάργηση επιλεγμένης εφαρμογής;</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12003a">
+        <item quantity="other">Καταργήθηκαν %1$d εφαρμογές</item>
+        <item quantity="one">Καταργήθηκε %1$d εφαρμογή</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12003d">
+        <item quantity="other">%1$d εγκαταστάσεις σε εκκρεμότητα</item>
+        <item quantity="one">%1$d εγκατάσταση σε εκκρεμότητα</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12003e">
+        <item quantity="other">%1$d εγκαταστάσεις σε εξέλιξη</item>
+        <item quantity="one">%1$d εγκατάσταση σε εξέλιξη</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120040">
+        <item quantity="other">%1$d ενημερώσεις σε εκκρεμότητα</item>
+        <item quantity="one">%1$d ενημέρωση σε εκκρεμότητα</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120041">
+        <item quantity="other">%1$d ενημερώσεις σε εξέλιξη</item>
+        <item quantity="one">%1$d ενημέρωση σε εξέλιξη</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120042">
+        <item quantity="other">Εγκαταστάθηκαν %1$d εφαρμογές.</item>
+        <item quantity="one">Εγκαταστάθηκε %1$d εφαρμογή.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120044">
+        <item quantity="other">Κυκλοφόρησε πριν από %1$d ώρες</item>
+        <item quantity="one">Κυκλοφόρησε πριν από %1$d ώρα</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120045">
+        <item quantity="other">Κυκλοφόρησε πριν από %1$d ημέρες</item>
+        <item quantity="one">Κυκλοφόρησε πριν από %1$d ημέρα</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120046">
+        <item quantity="other">Κατάργηση εφαρμογών</item>
+        <item quantity="one">Κατάργηση εφαρμογής</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120047">
+        <item quantity="other">%1$d ενημερώσεις απαιτούν έγκριση</item>
+        <item quantity="one">%1$d ενημέρωση απαιτεί έγκριση</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120048">
+        <item quantity="other">%1$d νέες ενημερώσεις</item>
+        <item quantity="one">%1$d νέα ενημέρωση</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120049">
+        <item quantity="other">%1$d διαθέσιμες ενημερώσεις</item>
+        <item quantity="one">%1$d διαθέσιμη ενημέρωση</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004a">
+        <item quantity="other">Ενημέρωση όλων</item>
+        <item quantity="one">Ενημέρωση</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004b">
+        <item quantity="other">%1$d εφαρμογές ενημερώθηκαν</item>
+        <item quantity="one">%1$d εφαρμογή ενημερώθηκε</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004c">
+        <item quantity="other">Λήγει σε %1$d ώρες</item>
+        <item quantity="one">Λήγει σε %1$d ώρα</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004d">
+        <item quantity="other">Λήγει σε %1$d ημέρες</item>
+        <item quantity="one">Λήγει σε %1$d ημέρα</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004e">
+        <item quantity="other">%1$d λεπτά</item>
+        <item quantity="one">%1$d λεπτό</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004f">
+        <item quantity="other">%1$d δευτερόλεπτα</item>
+        <item quantity="one">%1$d δευτερόλεπτο</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120050">
+        <item quantity="other">Κατάργηση προσωπικών εφαρμογών</item>
+        <item quantity="one">Κατάργηση προσωπικής εφαρμογής</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120053">
+        <item quantity="other">Το Play Protect πραγματοποίησε σάρωση πριν από %d ημέρες.</item>
+        <item quantity="one">Το Play Protect πραγματοποίησε σάρωση πριν από %d ημέρα.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120054">
+        <item quantity="other">Το Play Protect πραγματοποίησε σάρωση πριν από %d ώρες.</item>
+        <item quantity="one">Το Play Protect πραγματοποίησε σάρωση πριν από %d ώρα.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120055">
+        <item quantity="other">Το Play Protect πραγματοποίησε σάρωση πριν από %d λεπτά.</item>
+        <item quantity="one">Το Play Protect πραγματοποίησε σάρωση πριν από %d λεπτό.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120056">
+        <item quantity="other">%1$s πόντοι για τη διατήρηση του επιπέδου %2$s το επόμενο έτος</item>
+        <item quantity="one">1 πόντος για τη διατήρηση του επιπέδου %2$s το επόμενο έτος</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120057">
+        <item quantity="other">%1$s πόντοι για το επίπεδο %2$s</item>
+        <item quantity="one">1 πόντος για το επίπεδο %2$s</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120058">
+        <item quantity="other">Εκχωρήσατε άδεια σε αυτές τις εφαρμογές για εγκατάσταση ή ενημέρωση άγνωστων εφαρμογών, κάτι που μπορεί να θέσει σε κίνδυνο τη συσκευή και τα προσωπικά σας στοιχεία. Απορρίψτε την άδεια, για να αποτρέψετε την εγκατάστασή τους.</item>
+        <item quantity="one">Εκχωρήσατε άδεια σε αυτήν την εφαρμογή για εγκατάσταση ή ενημέρωση άγνωστων εφαρμογών, κάτι που μπορεί να θέσει σε κίνδυνο τη συσκευή και τα προσωπικά σας στοιχεία. Απορρίψτε την άδεια, για να αποτρέψετε την εγκατάστασή τους.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120059">
+        <item quantity="other">Εκχωρήσατε άδεια σε %1$d εφαρμογές για εγκατάσταση ή ενημέρωση άγνωστων εφαρμογών, κάτι που μπορεί να θέσει σε κίνδυνο τη συσκευή και τα προσωπικά σας στοιχεία.</item>
+        <item quantity="one">Εκχωρήσατε άδεια σε μία εφαρμογή για εγκατάσταση ή ενημέρωση άγνωστων εφαρμογών, κάτι που μπορεί να θέσει σε κίνδυνο τη συσκευή και τα προσωπικά σας στοιχεία.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005a">
+        <item quantity="other">%1$d προειδοποιήσεις απορρήτου</item>
+        <item quantity="one">1 προειδοποίηση απορρήτου</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005b">
+        <item quantity="other">Βρέθηκαν %1$d επιβλαβείς εφαρμογές.</item>
+        <item quantity="one">Βρέθηκε 1 επιβλαβής εφαρμογή.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005c">
+        <item quantity="other">%1$d ειδοποιήσεις ασφαλείας</item>
+        <item quantity="one">1 ειδοποίηση ασφαλείας</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005d">
+        <item quantity="other">%1$d ενημερώσεις ασφάλειας</item>
+        <item quantity="one">1 ενημέρωση ασφάλειας</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005e">
+        <item quantity="other">Βρέθηκαν %1$d μη ασφαλείς εφαρμογές.</item>
+        <item quantity="one">Βρέθηκε 1 μη ασφαλής εφαρμογή.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005f">
+        <item quantity="other">%1$d προειδοποιήσεις</item>
+        <item quantity="one">1 προειδοποίηση</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120060">
+        <item quantity="other">Βρέθηκαν μη ασφαλείς εφαρμογές</item>
+        <item quantity="one">Βρέθηκε μη ασφαλής εφαρμογή</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120061">
+        <item quantity="other">Λήγει σε %1$d ώρες</item>
+        <item quantity="one">Λήγει σε %1$d ώρα</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120062">
+        <item quantity="other">Λήγει σε %1$d ημέρες</item>
+        <item quantity="one">Λήγει σε %1$d ημέρα</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120063">
+        <item quantity="other">Ολοκληρώθηκαν %1$d από %2$d βήματα</item>
+        <item quantity="one">Ολοκληρώθηκαν %1$d από %2$d βήμα</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120064">
+        <item quantity="other">%1$d εφαρμογές έτοιμες για εγκατάσταση</item>
+        <item quantity="one">%1$d εφαρμογή έτοιμη για εγκατάσταση</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120065">
+        <item quantity="other">Η συσκευή %1$s θα σας στείλει %2$d εφαρμογές. Βεβαιωθείτε ότι ταιριάζει ο κωδικός σύζευξης.</item>
+        <item quantity="one">Η συσκευή %1$s θα σας στείλει %2$d εφαρμογή. Βεβαιωθείτε ότι ταιριάζει ο κωδικός σύζευξης.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120066">
+        <item quantity="other">Λήψη %1$d εφαρμογών από τη συσκευή \"%2$s\"…</item>
+        <item quantity="one">Λήψη %1$d εφαρμογής από τη συσκευή \"%2$s\"…</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006a">
+        <item quantity="other">%1$d χρήστες θεώρησαν χρήσιμη την κριτική. Επισήμανση σχολίου ως χρήσιμου</item>
+        <item quantity="one">%1$d χρήστης θεώρησε χρήσιμη την κριτική. Επισήμανση σχολίου ως χρήσιμου</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006b">
+        <item quantity="other">%1$d χρήστες θεώρησαν χρήσιμη την κριτική. Κατάργηση επισήμανσης σχολίου ως χρήσιμου</item>
+        <item quantity="one">%1$d χρήστης θεώρησε χρήσιμη την κριτική. Κατάργηση επισήμανσης σχολίου ως χρήσιμου</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006c">
+        <item quantity="other">%1$s άτομα βρήκαν την αξιολόγηση χρήσιμη</item>
+        <item quantity="one">%1$s άτομο βρήκε την αξιολόγηση χρήσιμη</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006f">
+        <item quantity="other">%1$d δευτερόλεπτα</item>
+        <item quantity="one">%1$d δευτερόλεπτο</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120070">
+        <item quantity="other">Απομένουν %1$d δευτερόλεπτα</item>
+        <item quantity="one">Απομένει 1 δευτερόλεπτο</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120071">
+        <item quantity="other">Επιλέχτηκαν %1$d • %2$s</item>
+        <item quantity="one">Επιλέχτηκε %1$d • %2$s</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120072">
+        <item quantity="other">Αποστολή %1$d εφαρμογών στη συσκευή \"%2$s\"…</item>
+        <item quantity="one">Αποστολή %1$d εφαρμογής στη συσκευή \"%2$s\"…</item>
+    </plurals>
+    <plurals name="setup_completed_installed">
+        <item quantity="other">Εγκαταστάθηκαν %1$d εφαρμογές</item>
+        <item quantity="one">Εγκαταστάθηκε %1$d εφαρμογή</item>
+    </plurals>
+    <plurals name="setup_completed_installed_with_failures">
+        <item quantity="other">Δεν ήταν δυνατή η εγκατάσταση %1$d από %2$d εφαρμογές</item>
+        <item quantity="one">Δεν ήταν δυνατή η εγκατάσταση %1$d από %2$d εφαρμογή</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120075">
+        <item quantity="other">Τελευταία χρήση πριν από %1$d ημέρες</item>
+        <item quantity="one">Τελευταία χρήση πριν από %1$d ημέρα</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120076">
+        <item quantity="other">Επαναφορά %1$d επιλεγμένων εφαρμογών</item>
+        <item quantity="one">Επαναφορά επιλεγμένης εφαρμογής</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120078">
+        <item quantity="other">Λήψη %1$d νέων γλωσσών;</item>
+        <item quantity="one">Λήψη νέας γλώσσας;</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007b">
+        <item quantity="other">%1$d απαντήσεις έρευνας θα καταργηθούν οριστικά από τον λογαριασμό σας.</item>
+        <item quantity="one">%1$d απάντηση έρευνας θα καταργηθεί οριστικά από τον λογαριασμό σας.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007c">
+        <item quantity="other">Επιλέχθηκαν %1$d</item>
+        <item quantity="one">Επιλέχθηκε %1$d</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007d">
+        <item quantity="other">Εμφάνιση Πόντων Play. %1$d πόντοι διαθέσιμοι.</item>
+        <item quantity="one">Εμφάνιση Πόντων Play. %1$d πόντος διαθέσιμος.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007e">
+        <item quantity="other">%1$d Πόντοι Play διαθέσιμοι.</item>
+        <item quantity="one">%1$d Πόντος Play διαθέσιμος.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120080">
+        <item quantity="other">%1$s πόντοι</item>
+        <item quantity="one">1 πόντος</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120081">
+        <item quantity="other">Μεταφορά %1$d εφαρμογών με τη συσκευή \"%2$s\"…</item>
+        <item quantity="one">Μεταφορά %1$d εφαρμογής με τη συσκευή \"%2$s\"…</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120082">
+        <item quantity="other">%1$d εφαρμογές θα απεγκατασταθούν από τη συσκευή σας.</item>
+        <item quantity="one">%1$d εφαρμογή θα απεγκατασταθεί από τη συσκευή σας.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120083">
+        <item quantity="other">Απεγκατάσταση επιλεγμένων εφαρμογών;</item>
+        <item quantity="one">Απεγκατάσταση επιλεγμένης εφαρμογής;</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120084">
+        <item quantity="other">Απεγκατάσταση ενημερώσεων για τις επιλεγμένες εφαρμογές;</item>
+        <item quantity="one">Απεγκατάσταση ενημερώσεων για την επιλεγμένη εφαρμογή;</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120085">
+        <item quantity="other">%1$s εφαρμογές καταργήθηκαν και δημιουργήθηκε χώρος για το %2$s.</item>
+        <item quantity="one">%1$s εφαρμογή καταργήθηκε και δημιουργήθηκε χώρος για το %2$s.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120086">
+        <item quantity="other">Οι εφαρμογές θα εγκατασταθούν σύντομα</item>
+        <item quantity="one">Η εφαρμογή θα εγκατασταθεί σύντομα.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120087">
+        <item quantity="other">Οι ενημερώσεις των εφαρμογών θα εγκατασταθούν σύντομα.</item>
+        <item quantity="one">Η ενημέρωσης της εφαρμογής θα εγκατασταθεί σύντομα.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008a">
+        <item quantity="other">Τελευταία χρήση πριν από %1$d ημέρες</item>
+        <item quantity="one">Τελευταία χρήση πριν από %1$d ημέρα</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008b">
+        <item quantity="other">Τελευταία χρήση πριν από %1$d μήνες</item>
+        <item quantity="one">Τελευταία χρήση πριν από %1$d μήνα</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008c">
+        <item quantity="other">Για εγκατάσταση εφαρμογών ή ενημερώσεων στη συσκευή, καταργήστε τις εφαρμογές που δεν χρειάζεστε. Επίσης, μπορείτε να ελευθερώσετε χώρο διαγράφοντας αρχεία μέσων από τις ρυθμίσεις αποθηκευτικού χώρου.</item>
+        <item quantity="one">Για εγκατάσταση εφαρμογής ή ενημέρωσης στη συσκευή, καταργήστε τις εφαρμογές που δεν χρειάζεστε. Επίσης, μπορείτε να ελευθερώσετε χώρο διαγράφοντας αρχεία μέσων από τις ρυθμίσεις αποθηκευτικού χώρου.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008d">
+        <item quantity="other">Για εγκατάσταση εφαρμογών ή ενημερώσεων στη συσκευή, καταργήστε τις εφαρμογές που δεν χρειάζεστε. Επίσης, απελευθερώστε χώρο διαγράφοντας αρχεία μέσων από τις &lt;a href=\"\">Ρυθμίσεις > Αποθηκευτικός χώρος&lt;/a>.</item>
+        <item quantity="one">Για εγκατάσταση εφαρμογής ή ενημέρωσης στη συσκευή, καταργήστε τις εφαρμογές που δεν χρειάζεστε. Επίσης, απελευθερώστε χώρο διαγράφοντας αρχεία μέσων από τις &lt;a href=\"\">Ρυθμίσεις > Αποθηκευτικός χώρος&lt;/a>.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008e">
+        <item quantity="other">Για εγκατάσταση εφαρμογών ή ενημερώσεων στη συσκευή, καταργήστε τις εφαρμογές που δεν χρειάζεστε. Επίσης, απελευθερώστε χώρο διαγράφοντας αρχεία μέσων από την επιλογή Ρυθμίσεις > Αποθηκευτικός χώρος.</item>
+        <item quantity="one">Για εγκατάσταση εφαρμογής ή ενημέρωσης στη συσκευή, καταργήστε τις εφαρμογές που δεν χρειάζεστε. Επίσης, απελευθερώστε χώρο διαγράφοντας αρχεία μέσων από την επιλογή Ρυθμίσεις > Αποθηκευτικός χώρος.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008f">
+        <item quantity="other">%1$d εφαρμογές απεγκαταστάθηκαν.</item>
+        <item quantity="one">%1$d εφαρμογή απεγκαταστάθηκε.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120090">
+        <item quantity="other">Βρέθηκαν %1$d εφαρμογές τις οποίες δεν έχετε χρησιμοποιήσει εδώ και αρκετό καιρό. Εάν τις καταργήσετε, θα ελευθερώσετε %2$d MB αποθηκευτικού χώρου.</item>
+        <item quantity="one">Βρέθηκε %1$d εφαρμογή την οποία δεν έχετε χρησιμοποιήσει εδώ και αρκετό καιρό. Εάν την καταργήσετε, θα ελευθερώσετε %2$d MB αποθηκευτικού χώρου.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120091">
+        <item quantity="other">Ξεκινά σε %1$d ώρες</item>
+        <item quantity="one">Ξεκινά σε %1$d ώρα</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120092">
+        <item quantity="other">Ξεκινά σε %1$d ημέρες</item>
+        <item quantity="one">Ξεκινά σε %1$d ημέρα</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120093">
+        <item quantity="other">Διαθέσιμη σε %1$d ώρες</item>
+        <item quantity="one">Διαθέσιμη σε %1$d ώρα</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120094">
+        <item quantity="other">Διαθέσιμη σε %1$d ημέρες</item>
+        <item quantity="one">Διαθέσιμη σε %1$d ημέρα</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120095">
+        <item quantity="other">Η συγκεκριμένη συσκευή δεν έχει λάβει ενημέρωση συστήματος για πάνω από %1$d μήνες</item>
+        <item quantity="one">Η συγκεκριμένη συσκευή δεν έχει λάβει ενημέρωση συστήματος για πάνω από %1$d μήνα</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120096">
+        <item quantity="other">Κατάργηση εφαρμογών εργασιών</item>
+        <item quantity="one">Κατάργηση εφαρμογής εργασιών</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120097">
+        <item quantity="other">Πριν από %1$d χρόνια</item>
+        <item quantity="one">Πριν από %1$d χρόνο</item>
+    </plurals>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="account_exists_text_multiple">
+        <item quantity="other">"As seguintes contas estão prontas:
+
+"&lt;annotation textAppearance="TextAppearance.SudDescription.Medium">^1&lt;/annotation></item>
+        <item quantity="one">"A seguinte conta está pronta:
+
+"&lt;annotation textAppearance="TextAppearance.SudDescription.Medium">^1&lt;/annotation></item>
+    </plurals>
+    <plurals name="people_contacts_sync_failure_in_contacts_title_in_portal">
+        <item quantity="other">Não foi possível encontrar %1$,d de %2$,d contactos</item>
+        <item quantity="one">Não foi possível sincronizar %1$,d de %2$,d contacto</item>
+    </plurals>
+    <plurals name="people_contacts_sync_failure_in_photos_title_in_portal">
+        <item quantity="other">Não foi possível sincronizar %1$,d de %2$,d fotos de contacto</item>
+        <item quantity="one">Não foi possível sincronizar %1$,d de %2$,d foto de contacto</item>
+    </plurals>
+    <plurals name="people_contacts_sync_succeed_title_in_portal">
+        <item quantity="other">%,d contactos sincronizados com os Contactos do Google</item>
+        <item quantity="one">%,d contacto sincronizado com os Contactos do Google</item>
+    </plurals>
+    <plurals name="qr_provision_toast">
+        <item quantity="other">Mais %d toques para iniciar a configuração com um código QR</item>
+        <item quantity="one">Mais %d toque para iniciar a configuração com um código QR</item>
+    </plurals>
+    <plurals name="slots_selection_text">
+        <item quantity="other">%d números foram adicionados a este dispositivo, mas apenas é possível utilizar um de cada vez.</item>
+        <item quantity="one">%d número foi adicionado a este dispositivo, mas apenas é possível utilizar um de cada vez.</item>
+    </plurals>
+    <plurals name="survey_star_rating">
+        <item quantity="other">%1$d em %2$d estrelas</item>
+        <item quantity="one">%1$d em %2$d estrelas</item>
+    </plurals>
+</resources>

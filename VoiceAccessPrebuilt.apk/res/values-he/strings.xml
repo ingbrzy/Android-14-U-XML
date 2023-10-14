@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="service_description_supported_languages">‏Voice Access מאפשרת לשלוט במכשיר באמצעות הפעלה קולית. בעזרת הפקודות הקוליות אפשר לפתוח אפליקציות, להקיש על לחצנים, לגלול, להקליד ועוד. Voice Access זמינה כרגע באנגלית, בצרפתית, באיטלקית, בגרמנית ובספרדית בלבד.</string>
+    <string name="service_summary">שליטה במכשיר באמצעות הקול</string>
+    <string name="voice_access_htmlDescription">"‏אפשר לדבר אל Voice Access ולשלוט במכשיר באמצעות הפעלה קולית. כדאי לנסות את הפקודות הבאות:&lt;br> &lt;br> &lt;ul dir=\"rtl\"> &lt;li>⁦go home⁩ (מעבר לבית) &lt;li>⁦go back⁩ (חזרה) &lt;li>⁦show notifications⁩ (הצגת התראות) &lt;li>⁦click OK⁩ (לחיצה על 'אישור') &lt;li>⁦open photos⁩ (פתיחת התמונות) &lt;/ul> &lt;br> יש תמיכה בעוד הרבה פקודות. כשהאפליקציה Voice Access נמצאת במצב האזנה, אפשר לומר \"What can I say?‎\" (מה אפשר לומר?) כדי לקבל מידע נוסף."</string>
+</resources>

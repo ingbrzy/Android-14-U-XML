@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_menu">Izvēlne</string>
+    <string name="call_notification_answer_action">Atbildēt</string>
+    <string name="call_notification_answer_video_action">Video</string>
+    <string name="call_notification_decline_action">Noraidīt</string>
+    <string name="call_notification_hang_up_action">Pārtraukt</string>
+    <string name="call_notification_incoming_text">Ienākošais zvans</string>
+    <string name="call_notification_ongoing_text">Pašreizējais zvans</string>
+    <string name="call_notification_screening_text">Ienākošā zvana filtrēšana</string>
+    <string name="error_generic">Ienesot jūsu kartes, radās problēma. Lūdzu, vēlāk mēģiniet vēlreiz.</string>
+    <string name="error_user_locked">Atbloķējiet tālruni, lai ielādētu maksājumu informāciju</string>
+    <string name="settings">Iestatījumi</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

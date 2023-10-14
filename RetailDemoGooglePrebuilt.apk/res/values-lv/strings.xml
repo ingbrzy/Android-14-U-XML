@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_retaildemoCommunication">Lietotne drīkst mijiedarboties ar demoversijas pakalpojumiem. Šo atļauju drīkst piešķirt tikai demoversijai. Lietotnes, kam piešķirta šī atļauja, var aktivizēt darbības, kas paredzētas demoversijas režīmam.</string>
+    <string name="permlab_retaildemoCommunication">Saziņa ar demoversiju</string>
+    <string name="retaildemo_preload_app_name">Demoversijas pakalpojumi</string>
+</resources>

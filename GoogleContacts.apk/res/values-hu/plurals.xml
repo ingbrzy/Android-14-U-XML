@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="addToGroup">
+        <item quantity="other">%1$d névjegy hozzáadva az alábbi címkéhez: %2$s</item>
+        <item quantity="one">%1$d névjegy hozzáadva az alábbi címkéhez: %2$s</item>
+    </plurals>
+    <plurals name="addToGroupTitle">
+        <item quantity="other">%1$d névjegy hozzáadása a következő címkéhez: %2$s</item>
+        <item quantity="one">%1$d névjegy hozzáadása a következő címkéhez: %2$s</item>
+    </plurals>
+    <plurals name="add_info_assistant_apply_all_title">
+        <item quantity="other">Frissít %d névjegyet?</item>
+        <item quantity="one">Frissít %d névjegyet?</item>
+    </plurals>
+    <plurals name="add_info_assistant_summary_body">
+        <item quantity="other">%d olyan személlyel kapcsolatban új adatokat találtunk, akivel kapcsolatba lépett</item>
+        <item quantity="one">%d olyan személlyel kapcsolatban új adatokat találtunk, akivel kapcsolatba lépett</item>
+    </plurals>
+    <plurals name="add_missing_names_title">
+        <item quantity="other">&lt;xliff id="count">%d&lt;/xliff> hiányzó név hozzáadása</item>
+        <item quantity="one">&lt;xliff id="count">%d&lt;/xliff> hiányzó név hozzáadása</item>
+    </plurals>
+    <plurals name="added_missing_names">
+        <item quantity="other">&lt;xliff id="count">%d&lt;/xliff> hiányzó név hozzáadva</item>
+        <item quantity="one">&lt;xliff id="count">%d&lt;/xliff> hiányzó név hozzáadva</item>
+    </plurals>
+    <plurals name="aggregate_read_only_sim_delete_confirmation_message">
+        <item quantity="other">A Google Névjegyek megpróbálja a SIM-kártyáról is végleg törölni a kijelölt névjegyeket.</item>
+        <item quantity="one">A Google Névjegyek megpróbálja a SIM-kártyáról is végleg törölni ezt a névjegyet.</item>
+    </plurals>
+    <plurals name="assistant_cleanup_body">
+        <item quantity="other">%d cím nem képes e-mailt fogadni</item>
+        <item quantity="one">%d cím nem képes e-mailt fogadni</item>
+    </plurals>
+    <plurals name="assistant_duplicates_body">
+        <item quantity="other">%d személy ismétlődő bejegyzésének ellenőrzése</item>
+        <item quantity="one">%d személy ismétlődő bejegyzésének ellenőrzése</item>
+    </plurals>
+    <plurals name="assistant_no_name_summary_card_body">
+        <item quantity="other">&lt;xliff id="count">%d&lt;/xliff> névjegyhez nem tartozik név</item>
+        <item quantity="one">&lt;xliff id="count">%d&lt;/xliff> névjegyhez nem tartozik név</item>
+    </plurals>
+    <plurals name="backup_and_sync_notification_headline">
+        <item quantity="other">%d névjegy nem szinkronizálódik</item>
+        <item quantity="one">%d névjegy nem szinkronizálódik</item>
+    </plurals>
+    <plurals name="block_numbers_dialog_title">
+        <item quantity="other">Letiltja a számokat?</item>
+        <item quantity="one">Letiltja a számot?</item>
+    </plurals>
+    <plurals name="cleanup_fragment_title_count">
+        <item quantity="other">%d használhatatlan e-mail-cím törlése</item>
+        <item quantity="one">%d használhatatlan e-mail-cím törlése</item>
+    </plurals>
+    <plurals name="cleanup_number_deleted">
+        <item quantity="other">%d törölve</item>
+        <item quantity="one">%d törölve</item>
+    </plurals>
+    <plurals name="collapsed_managers_text">
+        <item quantity="other">%d kezelő</item>
+        <item quantity="one">%d kezelő</item>
+    </plurals>
+    <plurals name="contact_names_added">
+        <item quantity="other">%d hozzáadva</item>
+        <item quantity="one">%d hozzáadva</item>
+    </plurals>
+    <plurals name="contacts_count_attribution">
+        <item quantity="other">%1$d névjegy</item>
+        <item quantity="one">%1$d névjegy</item>
+    </plurals>
+    <plurals name="contacts_deleted_toast">
+        <item quantity="other">%1$d névjegy törölve</item>
+        <item quantity="one">%1$d névjegy törölve</item>
+    </plurals>
+    <plurals name="contacts_selected_title_fmt">
+        <item quantity="other">%d kiválasztva</item>
+        <item quantity="one">%d kiválasztva</item>
+    </plurals>
+    <plurals name="contacts_sync_down">
+        <item quantity="other">%1$d névjegy lekérése</item>
+        <item quantity="one">%1$d névjegy lekérése</item>
+    </plurals>
+    <plurals name="contacts_sync_up">
+        <item quantity="other">Biztonsági másolat készítése %1$d névjegyről</item>
+        <item quantity="one">Biztonsági másolat készítése %1$d névjegyről</item>
+    </plurals>
+    <plurals name="contacts_trashed_toast">
+        <item quantity="other">%1$d névjegy áthelyezve a Kukába</item>
+        <item quantity="one">%1$d névjegy áthelyezve a Kukába</item>
+    </plurals>
+    <plurals name="delete_aggregate_sim_confirmation_title">
+        <item quantity="other">Töröl %1$s névjegyet?</item>
+        <item quantity="one">Törli a névjegyet?</item>
+    </plurals>
+    <plurals name="delete_confirmation_message">
+        <item quantity="other">Ezek a névjegyek végleg törlődni fognak az eszközéről</item>
+        <item quantity="one">Ez a névjegy végleg törlődni fog az eszközéről</item>
+    </plurals>
+    <plurals name="delete_confirmation_title">
+        <item quantity="other">Törli a névjegyeket?</item>
+        <item quantity="one">Törli a névjegyet?</item>
+    </plurals>
+    <plurals name="delete_only_sim_finished_title_with_count">
+        <item quantity="other">%1$d névjegy törölve a SIM-kártyáról</item>
+        <item quantity="one">%1$d névjegy törölve a SIM-kártyáról</item>
+    </plurals>
+    <plurals name="delete_raw_sim_confirmation_title">
+        <item quantity="other">Töröl %1$s névjegyet innen: %2$s?</item>
+        <item quantity="one">Törli a névjegyet innen: %2$s?</item>
+    </plurals>
+    <plurals name="delete_read_only_SIM_success_toast">
+        <item quantity="other">%1$d névjegy törölve a SIM-kártyáról</item>
+        <item quantity="one">%1$d névjegy törölve a SIM-kártyáról</item>
+    </plurals>
+    <plurals name="delete_read_only_aggregate_SIM_failure_toast">
+        <item quantity="other">Egyes névjegyek törlése sikeres volt. A SIM-kártyáról nem sikerült törölni a névjegyeket.</item>
+        <item quantity="one">A névjegy adatainak egy részét töröltük. A SIM-kártyáról nem sikerült törölni az adatokat.</item>
+    </plurals>
+    <plurals name="delete_read_only_raw_SIM_failure_toast">
+        <item quantity="other">Nem sikerült törölni a névjegyeket</item>
+        <item quantity="one">Nem sikerült törölni a névjegyet</item>
+    </plurals>
+    <plurals name="delete_undeletable_contacts_failure_toast">
+        <item quantity="other">Az írásvédett névjegyeket nem sikerült törölni.</item>
+        <item quantity="one">Az írásvédett névjegyet nem sikerült törölni.</item>
+    </plurals>
+    <plurals name="duplicates_assistant_merge_all_success">
+        <item quantity="other">%d egyesítve</item>
+        <item quantity="one">%d egyesítve</item>
+    </plurals>
+    <plurals name="duplicates_assistant_merge_all_title">
+        <item quantity="other">Egyesít %d ismétlődő elemet?</item>
+        <item quantity="one">Egyesít %d ismétlődő elemet?</item>
+    </plurals>
+    <plurals name="duplicates_cluster_content_description">
+        <item quantity="other">%1$d ismétlődés tartozik a következőhöz: %2$s</item>
+        <item quantity="one">%1$d ismétlődés tartozik a következőhöz: %2$s</item>
+    </plurals>
+    <plurals name="emptyAccountSubtext">
+        <item quantity="other">%1$d névjegy a többi fiókjában</item>
+        <item quantity="one">1 névjegy a többi fiókjában</item>
+    </plurals>
+    <plurals name="encrypted_restore_assistant_message">
+        <item quantity="other">%1$d eszközről</item>
+        <item quantity="one">%1$d eszközről</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_contact_count_fmt">
+        <item quantity="other">%1$d névjegy</item>
+        <item quantity="one">1 névjegy</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_template">
+        <item quantity="other">^1 névjegy • ^2</item>
+        <item quantity="one">^1 névjegy • ^2</item>
+    </plurals>
+    <plurals name="importing_sim_finished_title_with_count">
+        <item quantity="other">%1$d névjegyet importáltunk a SIM-kártyáról</item>
+        <item quantity="one">%1$d névjegyet importáltunk a SIM-kártyáról</item>
+    </plurals>
+    <plurals name="mixed_delete_confirmation_message">
+        <item quantity="other">Ezek a névjegyek törlődni fognak minden szinkronizált eszközéről A Google Névjegyekkel szinkronizált névjegyek a Kukába kerülnek.</item>
+        <item quantity="one">Ez a névjegy törlődni fog minden szinkronizált eszközéről. A Google Névjegyekkel szinkronizált névjegyek a Kukába kerülnek.</item>
+    </plurals>
+    <plurals name="move_contacts_confirmation_message_fmt">
+        <item quantity="other">Áthelyezi ezt a(z) %1$d névjegyet a következő fiókba: %2$s?</item>
+        <item quantity="one">Áthelyezi a névjegyet a következő fiókba: %2$s?</item>
+    </plurals>
+    <plurals name="move_contacts_success_toast">
+        <item quantity="other">%d névjegy áthelyezve</item>
+        <item quantity="one">%d névjegy áthelyezve</item>
+    </plurals>
+    <plurals name="moving_contacts_finished_title">
+        <item quantity="other">%1$d névjegy áthelyezése befejeződött</item>
+        <item quantity="one">A névjegy áthelyezése befejeződött</item>
+    </plurals>
+    <plurals name="moving_contacts_in_progress_notification_title">
+        <item quantity="other">%1$d névjegy áthelyezése a következő fiókba: %2$s</item>
+        <item quantity="one">Névjegy áthelyezése a következő fiókba: %2$s</item>
+    </plurals>
+    <plurals name="moving_contacts_in_progress_title">
+        <item quantity="other">%1$d névjegy áthelyezése</item>
+        <item quantity="one">Névjegy áthelyezése</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d új értesítés</item>
+        <item quantity="one">%d új értesítés</item>
+    </plurals>
+    <plurals name="new_contact_assistant_summary_card_body">
+        <item quantity="other">%d javaslat áttekintése</item>
+        <item quantity="one">%d javaslat áttekintése</item>
+    </plurals>
+    <plurals name="permanent_delete_progress_title">
+        <item quantity="other">%1$d névjegy végleges törlése…</item>
+        <item quantity="one">%1$d névjegy végleges törlése…</item>
+    </plurals>
+    <plurals name="permanent_delete_success_toast">
+        <item quantity="other">%1$d névjegy végleg törölve</item>
+        <item quantity="one">%1$d névjegy végleg törölve</item>
+    </plurals>
+    <plurals name="phone_repair_contacts_to_update">
+        <item quantity="other">%d országot érintő változtatások</item>
+        <item quantity="one">%d országot érintő változtatások</item>
+    </plurals>
+    <plurals name="phone_repair_number_updated">
+        <item quantity="other">%d frissítve</item>
+        <item quantity="one">%d frissítve</item>
+    </plurals>
+    <plurals name="phone_repair_updating_notification">
+        <item quantity="other">%d telefonszám frissítése. A módosítás alkalmazása eltarthat egy ideig.</item>
+        <item quantity="one">Telefonszám frissítése. A módosítás alkalmazása eltarthat egy ideig.</item>
+    </plurals>
+    <plurals name="public_notification_text">
+        <item quantity="other">%1$d új értesítés</item>
+        <item quantity="one">Értesítése jött</item>
+    </plurals>
+    <plurals name="raw_read_only_sim_delete_confirmation_message">
+        <item quantity="other">A Google Névjegyek megpróbálja végleg törölni a kijelölt névjegyeket a SIM-kártyáról</item>
+        <item quantity="one">A Google Névjegyek megpróbálja végleg törölni ezt a névjegyet a SIM-kártyáról</item>
+    </plurals>
+    <plurals name="restore_assistant_message">
+        <item quantity="other">%1$d névjegy automatikusan mentve itt: %2$s</item>
+        <item quantity="one">%1$d névjegy automatikusan mentve itt: %2$s</item>
+    </plurals>
+    <plurals name="restore_notification_title_fmt">
+        <item quantity="other">%1$d névjegy visszaállításra kész</item>
+        <item quantity="one">%1$d névjegy visszaállításra kész</item>
+    </plurals>
+    <plurals name="sheepdog_assistant_body">
+        <item quantity="other">Előfordulhat, hogy az eszközön található %d névjegyről nem készül biztonsági mentés.</item>
+        <item quantity="one">Előfordulhat, hogy az eszközön található %d névjegyről nem készül biztonsági mentés.</item>
+    </plurals>
+    <plurals name="sheepdog_assistant_body_2">
+        <item quantity="other">Az eszközön lévő névjegyek közül %d nem szinkronizálódik a Google Névjegyekkel</item>
+        <item quantity="one">Az eszközön lévő névjegyek közül %d nem szinkronizálódik a Google Névjegyekkel</item>
+    </plurals>
+    <plurals name="sheepdog_confirm_cancel_dialog_content">
+        <item quantity="other">Előfordulhat, hogy az eszközön található %d névjegyről nem készül biztonsági mentés.</item>
+        <item quantity="one">Előfordulhat, hogy az eszközön található %d névjegyről nem készül biztonsági mentés.</item>
+    </plurals>
+    <plurals name="sheepdog_sim_import_dialog_multiple_sim_title">
+        <item quantity="other">Szinkronizálja a több SIM-kártyán tárolt %d névjegyet is?</item>
+        <item quantity="one">Szinkronizálja a több SIM-kártyán tárolt %d névjegyet is?</item>
+    </plurals>
+    <plurals name="sheepdog_sim_import_dialog_single_sim_title">
+        <item quantity="other">Szinkronizálja a SIM-kártyán tárolt %d névjegyet is?</item>
+        <item quantity="one">Szinkronizálja a SIM-kártyán tárolt %d névjegyet is?</item>
+    </plurals>
+    <plurals name="sim_delete_failure_notification_title">
+        <item quantity="other">Nem sikerült törölni a névjegyeket a SIM-kártyáról</item>
+        <item quantity="one">Nem sikerült törölni a névjegyet a SIM-kártyáról</item>
+    </plurals>
+    <plurals name="sim_delete_only_success_toast">
+        <item quantity="other">%d névjegy törölve a SIM-kártyáról</item>
+        <item quantity="one">%d névjegy törölve a SIM-kártyáról</item>
+    </plurals>
+    <plurals name="sim_import_card_header">
+        <item quantity="other">Importálás SIM-kártyákról</item>
+        <item quantity="one">Importálás SIM-kártyáról</item>
+    </plurals>
+    <plurals name="sim_import_card_message_fmt">
+        <item quantity="other">%d névjegy</item>
+        <item quantity="one">1 névjegy</item>
+    </plurals>
+    <plurals name="sim_import_notification_title">
+        <item quantity="other">Importál %d névjegyet a SIM-kártyáról</item>
+        <item quantity="one">Importál %d névjegyet a SIM-kártyáról?</item>
+    </plurals>
+    <plurals name="sim_import_success_toast_fmt">
+        <item quantity="other">%d névjegyet importáltunk a SIM-kártyáról</item>
+        <item quantity="one">%d névjegyet importáltunk a SIM-kártyáról</item>
+    </plurals>
+    <plurals name="sim_import_success_with_delete_failure">
+        <item quantity="other">%d névjegyet importáltunk. Nem sikerült eltávolítani a SIM-kártyán lévő példányukat.</item>
+        <item quantity="one">1 névjegyet importáltunk. Nem sikerült eltávolítani a SIM-kártyán lévő példányát.</item>
+    </plurals>
+    <plurals name="sim_import_success_with_delete_success">
+        <item quantity="other">%d névjegyet importáltunk. A SIM-kártyán lévő példányukat eltávolítottuk.</item>
+        <item quantity="one">%d névjegyet importáltunk. A SIM-kártyán lévő példányát eltávolítottuk.</item>
+    </plurals>
+    <plurals name="starred_contacts_activity_title">
+        <item quantity="other">%d csillaggal megjelölt névjegy</item>
+        <item quantity="one">%d csillaggal megjelölt névjegy</item>
+    </plurals>
+    <plurals name="survey_star_rating">
+        <item quantity="other">%1$d/%2$d csillag</item>
+        <item quantity="one">%1$d/%2$d csillag</item>
+    </plurals>
+    <plurals name="sync_status_successful">
+        <item quantity="other">%1$d névjegy szinkronizálva</item>
+        <item quantity="one">%1$d névjegy szinkronizálva</item>
+    </plurals>
+    <plurals name="trash_confirmation_message">
+        <item quantity="other">Ezek a névjegyek törlődni fognak minden szinkronizált eszközéről</item>
+        <item quantity="one">Ez a névjegy törlődni fog minden szinkronizált eszközéről</item>
+    </plurals>
+    <plurals name="trash_list_banner_text">
+        <item quantity="other">A több mint %1$d napja a Kukában lévő névjegyeket véglegesen törli a rendszer</item>
+        <item quantity="one">A több mint %1$d napja a Kukában lévő névjegyeket véglegesen törli a rendszer</item>
+    </plurals>
+    <plurals name="unblock_numbers_dialog_title">
+        <item quantity="other">Feloldja a telefonszámok letiltását?</item>
+        <item quantity="one">Feloldja a telefonszám letiltását?</item>
+    </plurals>
+    <plurals name="untrash_limit_dialog_message">
+        <item quantity="other">Egyszerre legfeljebb %1$d névjegy állítható helyre, azonban megismételheti ezt a lépést több névjegy helyreállításához</item>
+        <item quantity="one">Egyszerre legfeljebb %1$d névjegy állítható helyre, azonban megismételheti ezt a lépést több névjegy helyreállításához</item>
+    </plurals>
+    <plurals name="untrash_limit_dialog_title">
+        <item quantity="other">Helyre szeretne állítani %1$d névjegyet?</item>
+        <item quantity="one">Helyre szeretne állítani %1$d névjegyet?</item>
+    </plurals>
+    <plurals name="untrash_progress_title">
+        <item quantity="other">%1$d névjegy helyreállítása…</item>
+        <item quantity="one">%1$d névjegy helyreállítása…</item>
+    </plurals>
+    <plurals name="untrash_success_toast">
+        <item quantity="other">%1$d helyreállított névjegy hamarosan szinkronizálódni fog</item>
+        <item quantity="one">%1$d helyreállított névjegy hamarosan szinkronizálódni fog</item>
+    </plurals>
+</resources>

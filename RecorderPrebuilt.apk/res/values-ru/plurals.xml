@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dlg_message_deletion_confirmation">
+        <item quantity="other">Записи будут удалены без возможности восстановления. Это действие нельзя отменить.</item>
+        <item quantity="one">Записи будут удалены без возможности восстановления. Это действие нельзя отменить.</item>
+        <item quantity="few">Записи будут удалены без возможности восстановления. Это действие нельзя отменить.</item>
+        <item quantity="many">Записи будут удалены без возможности восстановления. Это действие нельзя отменить.</item>
+    </plurals>
+    <plurals name="dlg_message_deletion_permanent_confirmation">
+        <item quantity="other">Не созданы резервные копии записей. Записи будут удалены навсегда. Это действие нельзя отменить.</item>
+        <item quantity="one">Не созданы резервные копии записей. Записи будут удалены навсегда. Это действие нельзя отменить.</item>
+        <item quantity="few">Не созданы резервные копии записей. Записи будут удалены навсегда. Это действие нельзя отменить.</item>
+        <item quantity="many">Не созданы резервные копии записей. Записи будут удалены навсегда. Это действие нельзя отменить.</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_confirmation">
+        <item quantity="other">Удалить записи?</item>
+        <item quantity="one">Удалить записи?</item>
+        <item quantity="few">Удалить записи?</item>
+        <item quantity="many">Удалить записи?</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_permanent_confirmation">
+        <item quantity="other">Записи будут удалены навсегда. Продолжить?</item>
+        <item quantity="one">Записи будут удалены навсегда. Продолжить?</item>
+        <item quantity="few">Записи будут удалены навсегда. Продолжить?</item>
+        <item quantity="many">Записи будут удалены навсегда. Продолжить?</item>
+    </plurals>
+    <plurals name="download_failure_description_storage_full">
+        <item quantity="other">Не удается скачать записи, потому что хранилище устройства заполнено. Нажмите, чтобы посмотреть подробности.</item>
+        <item quantity="one">Не удается скачать записи, потому что хранилище устройства заполнено. Нажмите, чтобы посмотреть подробности.</item>
+        <item quantity="few">Не удается скачать записи, потому что хранилище устройства заполнено. Нажмите, чтобы посмотреть подробности.</item>
+        <item quantity="many">Не удается скачать записи, потому что хранилище устройства заполнено. Нажмите, чтобы посмотреть подробности.</item>
+    </plurals>
+    <plurals name="downloading_description">
+        <item quantity="other">Скачивание %1$d записи…</item>
+        <item quantity="one">Скачивание %1$d записи…</item>
+        <item quantity="few">Скачивание %1$d записей…</item>
+        <item quantity="many">Скачивание %1$d записей…</item>
+    </plurals>
+    <plurals name="og_backup_failed_title">
+        <item quantity="other">Не удалось создать резервные копии %1$d объекта</item>
+        <item quantity="one">Не удалось создать резервные копии %1$d объекта</item>
+        <item quantity="few">Не удалось создать резервные копии %1$d объектов</item>
+        <item quantity="many">Не удалось создать резервные копии %1$d объектов</item>
+    </plurals>
+    <plurals name="og_backup_items_left">
+        <item quantity="other">Осталось %1$d объекта.</item>
+        <item quantity="one">Остался %1$d объект.</item>
+        <item quantity="few">Осталось %1$d объекта.</item>
+        <item quantity="many">Осталось %1$d объектов.</item>
+    </plurals>
+    <plurals name="og_backup_items_stopped_title">
+        <item quantity="other">Не выполнено резервное копирование %1$d объекта</item>
+        <item quantity="one">Не выполнено резервное копирование %1$d объекта</item>
+        <item quantity="few">Не выполнено резервное копирование %1$d объектов</item>
+        <item quantity="many">Не выполнено резервное копирование %1$d объектов</item>
+    </plurals>
+    <plurals name="peoplekit_chips_copied_recipients">
+        <item quantity="other">Скопировано %d получателя.</item>
+        <item quantity="one">Скопирован %d получатель.</item>
+        <item quantity="few">Скопировано %d получателя.</item>
+        <item quantity="many">Скопировано %d получателей.</item>
+    </plurals>
+    <plurals name="search_results_count">
+        <item quantity="other">%1$d результата</item>
+        <item quantity="one">%1$d результат</item>
+        <item quantity="few">%1$d результата</item>
+        <item quantity="many">%1$d результатов</item>
+    </plurals>
+    <plurals name="search_results_position">
+        <item quantity="other">Результат ^1 из ^2</item>
+        <item quantity="one">Результат ^1 из ^2</item>
+        <item quantity="few">Результат ^1 из ^2</item>
+        <item quantity="many">Результат ^1 из ^2</item>
+    </plurals>
+    <plurals name="search_results_position_content_description">
+        <item quantity="other">%1$d из %2$d результата</item>
+        <item quantity="one">%1$d из %2$d результата</item>
+        <item quantity="few">%1$d из %2$d результатов</item>
+        <item quantity="many">%1$d из %2$d результатов</item>
+    </plurals>
+    <plurals name="selected_recording_quantity">
+        <item quantity="other">Выбрано %1$d записи</item>
+        <item quantity="one">Выбрана %1$d запись</item>
+        <item quantity="few">Выбрано %1$d записи</item>
+        <item quantity="many">Выбрано %1$d записей</item>
+    </plurals>
+    <plurals name="snackbar_message_download_failed_storage_full">
+        <item quantity="other">Хранилище устройства заполнено. Невозможно скачать записи.</item>
+        <item quantity="one">Хранилище устройства заполнено. Невозможно скачать записи.</item>
+        <item quantity="few">Хранилище устройства заполнено. Невозможно скачать записи.</item>
+        <item quantity="many">Хранилище устройства заполнено. Невозможно скачать записи.</item>
+    </plurals>
+    <plurals name="speaker_count">
+        <item quantity="other">%1$d говорящего</item>
+        <item quantity="one">%1$d говорящий</item>
+        <item quantity="few">%1$d говорящих</item>
+        <item quantity="many">%1$d говорящих</item>
+    </plurals>
+    <plurals name="uploading_description">
+        <item quantity="other">Загрузка %1$d записи…</item>
+        <item quantity="one">Загрузка %1$d записи…</item>
+        <item quantity="few">Загрузка %1$d записей…</item>
+        <item quantity="many">Загрузка %1$d записей…</item>
+    </plurals>
+</resources>

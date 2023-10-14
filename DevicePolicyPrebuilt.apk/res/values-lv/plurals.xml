@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_install_failed_multi_app_desc">
+        <item quantity="other">Iestatīšanu nevar pabeigt, jo %1$d pieprasīto lietotņu instalēšana neizdevās. Lūdzu, sazinieties ar sistēmas administratoru tiešā veidā.</item>
+        <item quantity="zero">Iestatīšanu nevar pabeigt, jo %1$d pieprasīto lietotņu instalēšana neizdevās. Lūdzu, sazinieties ar sistēmas administratoru tiešā veidā.</item>
+        <item quantity="one">Iestatīšanu nevar pabeigt, jo %1$d pieprasītās lietotnes instalēšana neizdevās. Lūdzu, sazinieties ar sistēmas administratoru tiešā veidā.</item>
+    </plurals>
+    <plurals name="app_install_failure_title">
+        <item quantity="other">Nevar instalēt lietotnes</item>
+        <item quantity="zero">Nevar instalēt lietotnes</item>
+        <item quantity="one">Nevar instalēt lietotnes</item>
+    </plurals>
+    <plurals name="app_install_progress_desc">
+        <item quantity="other">Instalētas %1$d no %2$d lietotnēm</item>
+        <item quantity="zero">Instalētas %1$d no %2$d lietotnēm</item>
+        <item quantity="one">Instalēta %1$d no %2$d lietotnēm</item>
+    </plurals>
+    <plurals name="app_uninstall_button">
+        <item quantity="other">Atinstalēt lietotnes</item>
+        <item quantity="zero">Atinstalēt lietotnes</item>
+        <item quantity="one">Atinstalēt lietotnes</item>
+    </plurals>
+    <plurals name="days_left_message">
+        <item quantity="other">Atlikušas vēl &lt;annotation id="numeric_time_left">^1&lt;/annotation> dienas</item>
+        <item quantity="zero">Atlikušas vēl &lt;annotation id="numeric_time_left">^1&lt;/annotation> dienas</item>
+        <item quantity="one">Atlikusi vēl &lt;annotation id="numeric_time_left">^1&lt;/annotation> diena</item>
+    </plurals>
+    <plurals name="hours_left_message">
+        <item quantity="other">Atlikušas &lt;annotation id="numeric_time_left">^1&lt;/annotation> stundas</item>
+        <item quantity="zero">Atlikušas &lt;annotation id="numeric_time_left">^1&lt;/annotation> stundas</item>
+        <item quantity="one">Atlikusi &lt;annotation id="numeric_time_left">^1&lt;/annotation> stunda</item>
+    </plurals>
+    <plurals name="number_of_additional_apps">
+        <item quantity="other">%1$d papildu lietotnes</item>
+        <item quantity="zero">%1$d papildu lietotņu</item>
+        <item quantity="one">%1$d papildu lietotne</item>
+    </plurals>
+    <plurals name="number_of_required_apps">
+        <item quantity="other">%1$d nepieciešamās lietotnes</item>
+        <item quantity="zero">%1$d nepieciešamo lietotņu</item>
+        <item quantity="one">%1$d nepieciešamā lietotne</item>
+    </plurals>
+    <plurals name="policy_apps_list_summary">
+        <item quantity="other">Nevar atinstalēt %d darba lietotnes.</item>
+        <item quantity="zero">Nevar atinstalēt %d darba lietotnes.</item>
+        <item quantity="one">Nevar atinstalēt %d darba lietotni.</item>
+    </plurals>
+    <plurals name="preinstalled_apps">
+        <item quantity="other">Instalētas %1$d no %2$d lietotnēm</item>
+        <item quantity="zero">Instalētas %1$d no %2$d lietotnēm</item>
+        <item quantity="one">Instalēta %1$d no %2$d lietotnēm</item>
+    </plurals>
+    <plurals name="readable_name_applications">
+        <item quantity="other">Pieejamas %1$d lietotnes (instalētas %2$d lietotnes, atspējotas %3$d lietotnes)</item>
+        <item quantity="zero">Pieejamas %1$d lietotnes (instalētas %2$d lietotnes, atspējotas %3$d lietotnes)</item>
+        <item quantity="one">Pieejama %1$d lietotne (instalēta %2$d lietotne, atspējota %3$d lietotne)</item>
+    </plurals>
+</resources>

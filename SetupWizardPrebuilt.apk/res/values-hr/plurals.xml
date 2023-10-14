@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="account_exists_text_multiple">
+        <item quantity="other">"Sljedeći su računi spremni:
+
+"&lt;annotation textAppearance="TextAppearance.SudDescription.Medium">^1&lt;/annotation></item>
+        <item quantity="one">"Sljedeći su računi spremni:
+
+"&lt;annotation textAppearance="TextAppearance.SudDescription.Medium">^1&lt;/annotation></item>
+        <item quantity="few">"Sljedeći su računi spremni:
+
+"&lt;annotation textAppearance="TextAppearance.SudDescription.Medium">^1&lt;/annotation></item>
+    </plurals>
+    <plurals name="people_contacts_sync_failure_in_contacts_title_in_portal">
+        <item quantity="other">Nije uspjela sinkronizacija %1$,d od %2$,d kontakata</item>
+        <item quantity="one">Nije uspjela sinkronizacija %1$,d od %2$,d kontakta</item>
+        <item quantity="few">Nije uspjela sinkronizacija %1$,d od %2$,d kontakta</item>
+    </plurals>
+    <plurals name="people_contacts_sync_failure_in_photos_title_in_portal">
+        <item quantity="other">Nije uspjela sinkronizacija %1$,d od %2$,d fotografija kontakata</item>
+        <item quantity="one">Nije uspjela sinkronizacija %1$,d od %2$,d fotografije kontakata</item>
+        <item quantity="few">Nije uspjela sinkronizacija %1$,d od %2$,d fotografije kontakata</item>
+    </plurals>
+    <plurals name="people_contacts_sync_succeed_title_in_portal">
+        <item quantity="other">%,d kontakata sinkronizirano je s Google kontaktima</item>
+        <item quantity="one">%,d kontakt sinkroniziran je s Google kontaktima</item>
+        <item quantity="few">%,d kontakta sinkronizirana su s Google kontaktima</item>
+    </plurals>
+    <plurals name="qr_provision_toast">
+        <item quantity="other">Još %d dodira da biste pokrenuli postavljanje QR koda</item>
+        <item quantity="one">Još %d dodir da biste pokrenuli postavljanje QR koda</item>
+        <item quantity="few">Još %d dodira da biste pokrenuli postavljanje QR koda</item>
+    </plurals>
+    <plurals name="slots_selection_text">
+        <item quantity="other">Na ovaj uređaj dodano je %d brojeva, a odjednom se može koristiti samo jedan.</item>
+        <item quantity="one">Na ovaj uređaj dodan je %d broj, a odjednom se može koristiti samo jedan.</item>
+        <item quantity="few">Na ovaj uređaj dodana su %d broja, a odjednom se može koristiti samo jedan.</item>
+    </plurals>
+    <plurals name="survey_star_rating">
+        <item quantity="other">%1$d zvjezdica od %2$d</item>
+        <item quantity="one">%1$d zvjezdica od %2$d</item>
+        <item quantity="few">%1$d zvjezdice od %2$d</item>
+    </plurals>
+</resources>

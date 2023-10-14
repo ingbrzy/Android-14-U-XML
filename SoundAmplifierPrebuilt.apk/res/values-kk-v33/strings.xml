@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sound_amplifier_html_description">Sound Amplifier арқылы әлсіз дыбыстар жақсырақ шығады, бірақ қатты дыбыстар шамадан тыс күшейтілмейді.&lt;br/>&lt;br/> &lt;b>Sound Amplifier қолданбасын пайдалану әдісі:&lt;/b>&lt;br/> 1. Құлақаспапты (сымды немесе Bluetooth) жалғаңыз.&lt;br/> 2. Sound Amplifier қолданбасын іске қосыңыз.</string>
+    <string name="sound_amplifier_intro">Айналадағы және құрылғыдағы дыбыс сапасын жақсарту үшін Sound Amplifier қолданбасын құлақаспаппен пайдаланыңыз.</string>
+</resources>

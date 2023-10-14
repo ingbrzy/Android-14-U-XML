@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="service_description_supported_languages">‏‮Voice‬‏ ‏‮Access‬‏ ‏‮lets‬‏ ‏‮you‬‏ ‏‮control‬‏ ‏‮your‬‏ ‏‮Android‬‏ ‏‮device‬‏ ‏‮hands‬‏-‏‮free‬‏. ‏‮Use‬‏ ‏‮voice‬‏ ‏‮commands‬‏ ‏‮to‬‏ ‏‮open‬‏ ‏‮apps‬‏, ‏‮tap‬‏ ‏‮buttons‬‏, ‏‮scroll‬‏, ‏‮type‬‏, ‏‮and‬‏ ‏‮more‬‏. ‏‮Currently‬‏ ‏‮available‬‏ ‏‮in‬‏ ‏‮English‬‏, ‏‮French‬‏, ‏‮Italian‬‏, ‏‮German‬‏ ‏‮and‬‏ ‏‮Spanish‬‏ ‏‮only‬‏.</string>
+    <string name="service_summary">‏‮Control‬‏ ‏‮device‬‏ ‏‮with‬‏ ‏‮voice‬‏</string>
+    <string name="voice_access_htmlDescription">‏‮Speak‬‏ ‏‮to‬‏ ‏‮Voice‬‏ ‏‮Access‬‏ ‏‮and‬‏ ‏‮control‬‏ ‏‮your‬‏ ‏‮device‬‏ ‏‮hands‬‏ ‏‮free‬‏. ‏‮Try‬‏:&lt;br> &lt;br> &lt;ul> &lt;li>‏‮go‬‏ ‏‮home‬‏ &lt;li>‏‮go‬‏ ‏‮back‬‏ &lt;li>‏‮show‬‏ ‏‮notifications‬‏ &lt;li>‏‮click‬‏ ‏‮OK‬‏ &lt;li>‏‮open‬‏ ‏‮photos‬‏ &lt;/ul> &lt;br> ‏‮Many‬‏ ‏‮more‬‏ ‏‮commands‬‏ ‏‮are‬‏ ‏‮supported‬‏. ‏‮When‬‏ ‏‮Voice‬‏ ‏‮Access‬‏ ‏‮is‬‏ ‏‮listening‬‏, ‏‮say‬‏ \"‏‮what‬‏ ‏‮can‬‏ ‏‮I‬‏ ‏‮say‬‏?\" ‏‮for‬‏ ‏‮more‬‏ ‏‮information‬‏.</string>
+</resources>

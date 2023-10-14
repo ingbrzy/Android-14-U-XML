@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_retaildemoCommunication">Permite que a app interaja com os serviços de demonstração para retalho. Esta autorização deve ser concedida apenas à demonstração para retalho. As apps às quais seja concedida esta autorização podem acionar ações reservadas ao modo de demonstração para retalho.</string>
+    <string name="permlab_retaildemoCommunication">Comunicação da demonstração para retalho</string>
+    <string name="retaildemo_preload_app_name">Retail Demo Services</string>
+</resources>

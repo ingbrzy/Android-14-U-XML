@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Sposta il dito. Riprova.</item>
+        <item>Dito già registrato: utilizza un altro dito.</item>
+        <item>"Scarsa qualità dell'immagine. Riprova."</item>
+        <item></item>
+        <item>"Scarsa qualità dell'immagine. Riprova."</item>
+        <item></item>
+        <item></item>
+        <item>Macchia rilevata, pulisci lo schermo. Riprova.</item>
+        <item>"Impossibile leggere l'immagine. Riprova."</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Nuova registrazione richiesta.</item>
+    </string-array>
+    <string-array name="fingerprint_error_vendor">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Dati non validi. Riprova.</item>
+        <item>Impossibile registrare il dito. Riprova.</item>
+    </string-array>
+</resources>

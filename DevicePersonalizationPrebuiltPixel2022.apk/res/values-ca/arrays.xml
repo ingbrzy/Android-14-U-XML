@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="call_captions_typing_predictions_post_system_message">
+        <item>Hola, qui ets?</item>
+        <item>Hola, com estàs?</item>
+        <item>Espera un minut</item>
+        <item>Hola, puc trucar-te més tard?</item>
+        <item>Hola! Gràcies per la teva trucada.</item>
+    </string-array>
+    <string-array name="captions_settings_enable_for_calls_choices_entries">
+        <item>Pregunta sempre</item>
+        <item>Sempre</item>
+        <item>Desactivat</item>
+    </string-array>
+    <string-array name="captions_settings_typing_voice_names">
+        <item>Veu A</item>
+        <item>Veu B</item>
+        <item>Veu C</item>
+        <item>Veu D</item>
+        <item>Veu E</item>
+        <item>Veu F</item>
+        <item>Veu G</item>
+        <item>Veu H</item>
+        <item>Veu I</item>
+        <item>Veu J</item>
+        <item>Veu K</item>
+        <item>Veu L</item>
+        <item>Veu M</item>
+        <item>Veu N</item>
+        <item>Veu O</item>
+        <item>Veu P</item>
+    </string-array>
+    <string-array name="pref_download_policy_entries">
+        <item>Dades mòbils i Wi‑Fi</item>
+        <item>Només Wi-Fi</item>
+        <item>No actualitzis</item>
+    </string-array>
+    <string-array name="pref_download_policy_entry_values_placeholder">
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="azure_title">అజూర్ జే</string>
+    <string name="blackswan_title">నలుపు రంగు హంస</string>
+    <string name="cockatoo_title">కాకటూ</string>
+    <string name="come_alive_title">సహజమైన అనుభూతి కలిగే దృశ్యాలు</string>
+    <string name="feathers_attribution">ఆండ్రూ జుకర్‌మాన్ తీసిన ఫోటో</string>
+    <string name="feathers_description">రంగులు, వివరాలతో ఈకల ప్రదర్శన</string>
+    <string name="feathers_title">ఈకలు</string>
+    <string name="greenwinged_title">ఆకుపచ్చ-రెక్కల మకావ్</string>
+    <string name="king_title">కింగ్ వల్చర్</string>
+    <string name="living_universe_title">జీవరాశులు గల విశ్వం</string>
+    <string name="photos_memory_gallery_title">మీ జ్ఞాపకాలు</string>
+    <string name="pied_title">పైడ్ క్రో</string>
+    <string name="ringnecked_title">గుండ్రని మెడ గల రామచిలుక</string>
+    <string name="seagull_title">సీగల్</string>
+</resources>

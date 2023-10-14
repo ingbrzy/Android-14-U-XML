@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dlg_message_deletion_confirmation">
+        <item quantity="other">Вашы запісы будуць назаўсёды выдалены. Гэта дзеянне нельга адрабіць.</item>
+        <item quantity="one">Вашы запісы будуць назаўсёды выдалены. Гэта дзеянне нельга адрабіць.</item>
+        <item quantity="few">Вашы запісы будуць назаўсёды выдалены. Гэта дзеянне нельга адрабіць.</item>
+        <item quantity="many">Вашы запісы будуць назаўсёды выдалены. Гэта дзеянне нельга адрабіць.</item>
+    </plurals>
+    <plurals name="dlg_message_deletion_permanent_confirmation">
+        <item quantity="other">Рэзервовыя копіі запісаў не створаны. Яны будуць назаўсёды выдалены. Гэта дзеянне нельга адрабіць.</item>
+        <item quantity="one">Рэзервовыя копіі запісаў не створаны. Яны будуць назаўсёды выдалены. Гэта дзеянне нельга адрабіць.</item>
+        <item quantity="few">Рэзервовыя копіі запісаў не створаны. Яны будуць назаўсёды выдалены. Гэта дзеянне нельга адрабіць.</item>
+        <item quantity="many">Рэзервовыя копіі запісаў не створаны. Яны будуць назаўсёды выдалены. Гэта дзеянне нельга адрабіць.</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_confirmation">
+        <item quantity="other">Выдаліць запісы?</item>
+        <item quantity="one">Выдаліць запісы?</item>
+        <item quantity="few">Выдаліць запісы?</item>
+        <item quantity="many">Выдаліць запісы?</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_permanent_confirmation">
+        <item quantity="other">Назаўсёды выдаліць гэтыя запісы?</item>
+        <item quantity="one">Назаўсёды выдаліць гэтыя запісы?</item>
+        <item quantity="few">Назаўсёды выдаліць гэтыя запісы?</item>
+        <item quantity="many">Назаўсёды выдаліць гэтыя запісы?</item>
+    </plurals>
+    <plurals name="download_failure_description_storage_full">
+        <item quantity="other">Не ўдалося спампаваць запісы, таму што сховішча прылады перапоўнена. Націсніце, каб праглядзець.</item>
+        <item quantity="one">Не ўдалося спампаваць запісы, таму што сховішча прылады перапоўнена. Націсніце, каб праглядзець.</item>
+        <item quantity="few">Не ўдалося спампаваць запісы, таму што сховішча прылады перапоўнена. Націсніце, каб праглядзець.</item>
+        <item quantity="many">Не ўдалося спампаваць запісы, таму што сховішча прылады перапоўнена. Націсніце, каб праглядзець.</item>
+    </plurals>
+    <plurals name="downloading_description">
+        <item quantity="other">Спампоўваецца %1$d запісу</item>
+        <item quantity="one">Спампоўваецца %1$d запіс</item>
+        <item quantity="few">Спампоўваецца %1$d запісы</item>
+        <item quantity="many">Спампоўваецца %1$d запісаў</item>
+    </plurals>
+    <plurals name="og_backup_failed_title">
+        <item quantity="other">Не ўдалося стварыць рэзервовыя копіі %1$d элемента</item>
+        <item quantity="one">Не ўдалося стварыць рэзервовыя копіі %1$d элемента</item>
+        <item quantity="few">Не ўдалося стварыць рэзервовыя копіі %1$d элементаў</item>
+        <item quantity="many">Не ўдалося стварыць рэзервовыя копіі %1$d элементаў</item>
+    </plurals>
+    <plurals name="og_backup_items_left">
+        <item quantity="other">Засталося %1$d элемента</item>
+        <item quantity="one">Застаўся %1$d элемент</item>
+        <item quantity="few">Засталося %1$d элементы</item>
+        <item quantity="many">Засталося %1$d элементаў</item>
+    </plurals>
+    <plurals name="og_backup_items_stopped_title">
+        <item quantity="other">Не выканана рэзервовае капіраванне %1$d элемента</item>
+        <item quantity="one">Не выканана рэзервовае капіраванне %1$d элемента</item>
+        <item quantity="few">Не выканана рэзервовае капіраванне %1$d элементаў</item>
+        <item quantity="many">Не выканана рэзервовае капіраванне %1$d элементаў</item>
+    </plurals>
+    <plurals name="search_results_count">
+        <item quantity="other">%1$d выніку</item>
+        <item quantity="one">%1$d вынік</item>
+        <item quantity="few">%1$d вынікі</item>
+        <item quantity="many">%1$d вынікаў</item>
+    </plurals>
+    <plurals name="search_results_position">
+        <item quantity="other">Вынікаў: ^1/^2</item>
+        <item quantity="one">Вынікаў: ^1/^2</item>
+        <item quantity="few">Вынікаў: ^1/^2</item>
+        <item quantity="many">Вынікаў: ^1/^2</item>
+    </plurals>
+    <plurals name="search_results_position_content_description">
+        <item quantity="other">Вынікаў: %1$d з %2$d</item>
+        <item quantity="one">Вынікаў: %1$d з %2$d</item>
+        <item quantity="few">Вынікаў: %1$d з %2$d</item>
+        <item quantity="many">Вынікаў: %1$d з %2$d</item>
+    </plurals>
+    <plurals name="selected_recording_quantity">
+        <item quantity="other">Выбрана: %1$d</item>
+        <item quantity="one">Выбрана: %1$d</item>
+        <item quantity="few">Выбрана: %1$d</item>
+        <item quantity="many">Выбрана: %1$d</item>
+    </plurals>
+    <plurals name="snackbar_message_download_failed_storage_full">
+        <item quantity="other">Сховішча прылады перапоўнена. Не ўдалося спампаваць запісы.</item>
+        <item quantity="one">Сховішча прылады перапоўнена. Не ўдалося спампаваць запісы.</item>
+        <item quantity="few">Сховішча прылады перапоўнена. Не ўдалося спампаваць запісы.</item>
+        <item quantity="many">Сховішча прылады перапоўнена. Не ўдалося спампаваць запісы.</item>
+    </plurals>
+    <plurals name="speaker_count">
+        <item quantity="other">%1$d прамоўцы</item>
+        <item quantity="one">%1$d прамоўца</item>
+        <item quantity="few">%1$d прамоўцы</item>
+        <item quantity="many">%1$d прамоўцаў</item>
+    </plurals>
+    <plurals name="uploading_description">
+        <item quantity="other">Запампоўваюцца %1$d запісу</item>
+        <item quantity="one">Запампоўваецца %1$d запіс</item>
+        <item quantity="few">Запампоўваюцца %1$d запісы</item>
+        <item quantity="many">Запампоўваюцца %1$d запісаў</item>
+    </plurals>
+</resources>

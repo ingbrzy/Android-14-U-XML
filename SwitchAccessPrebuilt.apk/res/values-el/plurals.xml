@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dots">
+        <item quantity="other">κουκκίδες %s</item>
+        <item quantity="one">κουκκίδα %s</item>
+    </plurals>
+    <plurals name="gestures_recorded_message">
+        <item quantity="other">%d κινήσεις εγγράφηκαν</item>
+        <item quantity="one">Μία κίνηση εγγράφηκε</item>
+    </plurals>
+    <plurals name="label_num_keys_assigned_format">
+        <item quantity="other">Αντιστοιχίστηκαν %d διακόπτες</item>
+        <item quantity="one">Αντιστοιχίστηκε %d διακόπτης</item>
+    </plurals>
+    <plurals name="label_num_scanning_loops_format">
+        <item quantity="other">%d επαναλήψεις</item>
+        <item quantity="one">%d επανάληψη</item>
+    </plurals>
+    <plurals name="line_speed_summary_format">
+        <item quantity="other">%.2f εκ. ανά δευτερόλεπτο</item>
+        <item quantity="one">1 εκ. ανά δευτερόλεπτο</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d νέες ειδοποιήσεις</item>
+        <item quantity="one">%d νέα ειδοποίηση</item>
+    </plurals>
+    <plurals name="time_delay_summary_format">
+        <item quantity="other">%.2f δευτερόλεπτα</item>
+        <item quantity="one">Ένα δευτερόλεπτο</item>
+    </plurals>
+</resources>

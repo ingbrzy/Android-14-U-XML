@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="horizontal_scan_options">
+        <item>@string/point_scan_horizontal_scans_start_from_left</item>
+        <item>@string/point_scan_horizontal_scans_start_from_right</item>
+    </string-array>
+    <string-array name="switch_access_color_entries">
+        <item>Zaļš</item>
+        <item>Oranžs</item>
+        <item>Sarkans</item>
+        <item>Zils</item>
+        <item>Balts</item>
+    </string-array>
+    <string-array name="switch_access_sound_volume_entries">
+        <item>Vienāds ar multivides skaļumu</item>
+        <item>75% no multivides skaļuma</item>
+        <item>50% no multivides skaļuma</item>
+        <item>25% no multivides skaļuma</item>
+    </string-array>
+    <string-array name="switch_access_sound_volume_values">
+        <item>100</item>
+        <item>75</item>
+        <item>50</item>
+        <item>25</item>
+    </string-array>
+    <string-array name="switch_access_weight_entries">
+        <item>Šaura, nepārtraukta līnija</item>
+        <item>Vidēji bieza, nepārtraukta līnija</item>
+        <item>Bieza, nepārtraukta līnija</item>
+    </string-array>
+    <string-array name="vertical_scan_options">
+        <item>@string/point_scan_vertical_scans_start_from_top</item>
+        <item>@string/point_scan_vertical_scans_start_from_bottom</item>
+    </string-array>
+</resources>

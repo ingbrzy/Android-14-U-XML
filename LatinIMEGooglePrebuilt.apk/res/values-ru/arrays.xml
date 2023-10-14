@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f03001f">
+        <item>@string/APKTOOL_DUMMYVAL_0x7f140317</item>
+        <item>@string/APKTOOL_DUMMYVAL_0x7f140319</item>
+        <item>@string/APKTOOL_DUMMYVAL_0x7f14031a</item>
+        <item>@string/APKTOOL_DUMMYVAL_0x7f140318</item>
+        <item>@string/APKTOOL_DUMMYVAL_0x7f140316</item>
+    </string-array>
+</resources>

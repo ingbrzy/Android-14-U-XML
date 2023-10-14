@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="account_exists_text_multiple">
+        <item quantity="other">"다음 계정이 준비되었습니다.
+
+"&lt;annotation textAppearance="TextAppearance.SudDescription.Medium">^1&lt;/annotation></item>
+        <item quantity="one">"다음 계정이 준비되었습니다.
+
+"&lt;annotation textAppearance="TextAppearance.SudDescription.Medium">^1&lt;/annotation></item>
+    </plurals>
+    <plurals name="people_contacts_sync_failure_in_contacts_title_in_portal">
+        <item quantity="other">연락처 %1$,d/%2$,d개를 동기화할 수 없음</item>
+        <item quantity="one">연락처 %1$,d/%2$,d개를 동기화할 수 없음</item>
+    </plurals>
+    <plurals name="people_contacts_sync_failure_in_photos_title_in_portal">
+        <item quantity="other">연락처 사진 %1$,d/%2$,d개를 동기화할 수 없음</item>
+        <item quantity="one">연락처 사진 %1$,d/%2$,d개를 동기화할 수 없음</item>
+    </plurals>
+    <plurals name="people_contacts_sync_succeed_title_in_portal">
+        <item quantity="other">연락처 %,d개가 Google 주소록과 동기화됨</item>
+        <item quantity="one">연락처 %,d개가 Google 주소록과 동기화됨</item>
+    </plurals>
+    <plurals name="qr_provision_toast">
+        <item quantity="other">QR 코드 설정을 시작하려면 %d번 더 탭하세요.</item>
+        <item quantity="one">QR 코드 설정을 시작하려면 %d번 더 탭하세요.</item>
+    </plurals>
+    <plurals name="slots_selection_text">
+        <item quantity="other">번호 %d개가 이 기기에 추가되었지만 한 번에 하나의 번호만 사용할 수 있습니다.</item>
+        <item quantity="one">번호 %d개가 이 기기에 추가되었지만 한 번에 하나의 번호만 사용할 수 있습니다.</item>
+    </plurals>
+    <plurals name="survey_star_rating">
+        <item quantity="other">별 %2$d개 중 %1$d개</item>
+        <item quantity="one">별 %2$d개 중 %1$d개</item>
+    </plurals>
+</resources>

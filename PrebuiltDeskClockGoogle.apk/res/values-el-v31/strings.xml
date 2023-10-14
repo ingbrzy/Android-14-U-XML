@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="analog_gadget">Αναλογικό</string>
+    <string name="analog_widget_clover_clock_name">Τριφύλλι</string>
+    <string name="analog_widget_clover_content_description">Όψη ρολογιού σε σχήμα τριφυλλιού</string>
+    <string name="analog_widget_config_activity_title">Επιλογή όψης ρολογιού</string>
+    <string name="analog_widget_day_clock_name">Ημέρα</string>
+    <string name="analog_widget_day_content_description">Όψη ρολογιού με την ημέρα του μήνα</string>
+    <string name="analog_widget_numeral_clock_name">Αριθμητικό</string>
+    <string name="analog_widget_numeral_content_description">Όψη ρολογιού με μεγάλους αριθμούς</string>
+    <string name="analog_widget_scallop_clock_name">Κοχύλι</string>
+    <string name="analog_widget_scallop_content_description">Όψη ρολογιού με την ημέρα της εβδομάδας και τον μήνα</string>
+    <string name="cities_widget_config_activity_subtitle">Μπορείτε να προσθέσετε πόλεις από την καρτέλα Ρολόι</string>
+    <string name="cities_widget_config_activity_subtitle_button">Επιλέξτε πόλεις στην εφαρμογή Ρολόι</string>
+    <string name="cities_widget_preview_city_london">Λονδίνο</string>
+    <string name="cities_widget_preview_city_mountain_view">Μάουντεν Βιου</string>
+    <string name="clock_widget_opaque_label">Συμπαγές</string>
+    <string name="clock_widget_transparent_label">Διαφανές</string>
+    <string name="digital_appwidget_config_activity_title">Επιλογή στιλ ρολογιού</string>
+    <string name="digital_cities_gadget">Παγκόσμια ώρα</string>
+    <string name="digital_cities_gadget_description">Επιλέξτε πόλεις στην εφαρμογή Ρολόι</string>
+    <string name="digital_stacked_gadget">Σε στοίβα</string>
+    <string name="digital_widgets_preview_alarm">Δευτ. 09.30</string>
+    <string name="stopwatch_gadget_description">Ελέγξτε το χρονόμετρο στην εφαρμογή Ρολόι</string>
+</resources>

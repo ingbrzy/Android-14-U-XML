@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="analog_gadget">អាណាឡូក</string>
+    <string name="digital_gadget">ឌីជីថល</string>
+    <string name="analog_widget_clover_clock_name">សន្លឹកឈើ</string>
+    <string name="analog_widget_clover_content_description">មុខនាឡិកា​ដែលមានរាង​ដូចសន្លឹកឈើ</string>
+    <string name="analog_widget_config_activity_title">ជ្រើសរើស​មុខនាឡិកា</string>
+    <string name="analog_widget_day_clock_name">ថ្ងៃ</string>
+    <string name="analog_widget_day_content_description">មុខនាឡិកា​ដែលមានថ្ងៃ​នៃខែ</string>
+    <string name="analog_widget_numeral_clock_name">លេខ</string>
+    <string name="analog_widget_numeral_content_description">មុខនាឡិកា​ដែលមាន​លេខធំៗ</string>
+    <string name="analog_widget_scallop_clock_name">Scallop</string>
+    <string name="analog_widget_scallop_content_description">មុខនាឡិកា​ដែលមានថ្ងៃ​នៃសប្ដាហ៍ និងខែ</string>
+    <string name="cities_widget_config_activity_subtitle">អាចបញ្ចូល​ទីក្រុង​ពីផ្ទាំងនាឡិកា​បាន</string>
+    <string name="cities_widget_config_activity_subtitle_button">ជ្រើសរើសទីក្រុង​នៅក្នុងកម្មវិធី​នាឡិកា</string>
+    <string name="cities_widget_preview_city_london">ឡុងដ៍</string>
+    <string name="cities_widget_preview_city_mountain_view">ម៉ោនធីនវីយូ</string>
+    <string name="clock_widget_opaque_label">ស្រអាប់</string>
+    <string name="clock_widget_transparent_label">ថ្លា</string>
+    <string name="digital_appwidget_config_activity_title">ជ្រើសរើស​រចនាប័ទ្មនាឡិកា</string>
+    <string name="digital_cities_gadget">ពិភពលោក</string>
+    <string name="digital_cities_gadget_description">ជ្រើសរើសទីក្រុង​នៅក្នុងកម្មវិធី​នាឡិកា</string>
+    <string name="digital_stacked_gadget">បាន​ដាក់​ជា​ជង់</string>
+    <string name="digital_widgets_preview_alarm">ចន្ទ 09:30</string>
+    <string name="stopwatch_gadget_description">គ្រប់គ្រងនាឡិកា​បញ្ឈប់នៅក្នុង​កម្មវិធីនាឡិកា</string>
+</resources>

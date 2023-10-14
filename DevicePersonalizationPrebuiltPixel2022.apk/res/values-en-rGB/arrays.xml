@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="call_captions_typing_predictions_post_system_message">
+        <item>Hello, who is it?</item>
+        <item>Hi, how are you?</item>
+        <item>Please hold on a minute</item>
+        <item>Hi, can you call back later?</item>
+        <item>Hi there! Thanks for calling.</item>
+    </string-array>
+    <string-array name="captions_settings_enable_for_calls_choices_entries">
+        <item>Ask every time</item>
+        <item>Always</item>
+        <item>Off</item>
+    </string-array>
+    <string-array name="captions_settings_typing_voice_names">
+        <item>Voice A</item>
+        <item>Voice B</item>
+        <item>Voice C</item>
+        <item>Voice D</item>
+        <item>Voice E</item>
+        <item>Voice F</item>
+        <item>Voice G</item>
+        <item>Voice H</item>
+        <item>Voice I</item>
+        <item>Voice J</item>
+        <item>Voice K</item>
+        <item>Voice L</item>
+        <item>Voice M</item>
+        <item>Voice N</item>
+        <item>Voice O</item>
+        <item>Voice P</item>
+    </string-array>
+    <string-array name="pref_download_policy_entries">
+        <item>Mobile + Wi-Fi</item>
+        <item>Wi-Fi only</item>
+        <item>Do not update</item>
+    </string-array>
+    <string-array name="pref_download_policy_entry_values_placeholder">
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+</resources>

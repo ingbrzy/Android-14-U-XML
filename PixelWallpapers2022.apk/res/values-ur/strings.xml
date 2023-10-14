@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="azure_title">ازور جے پرندہ</string>
+    <string name="blackswan_title">سیاہ راج ہنس</string>
+    <string name="cockatoo_title">کوکاٹو</string>
+    <string name="come_alive_title">اسکرین الائیو وال پیپر</string>
+    <string name="feathers_attribution">اینڈریو زکر مین کی تصویر</string>
+    <string name="feathers_description">رنگ اور تفصیل کا ایک پنکھ والا ڈسپلے</string>
+    <string name="feathers_title">پنکھ</string>
+    <string name="greenwinged_title">سبز پروں والا مکاؤ (پرندہ)</string>
+    <string name="king_title">شاہی گدھ</string>
+    <string name="living_universe_title">لونگ کائنات وال پیپر</string>
+    <string name="photos_memory_gallery_title">آپ کی میموریز</string>
+    <string name="pied_title">کاروس البس کوا</string>
+    <string name="ringnecked_title">گلابی گردن طوطا</string>
+    <string name="seagull_title">سمندری سفید پرندہ</string>
+</resources>

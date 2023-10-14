@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dlg_message_deletion_confirmation">
+        <item quantity="other">"ਤੁਹਾਡੀਆਂ ਰਿਕਾਰਡਿੰਗਾਂ ਨੂੰ ਸਥਾਈ ਤੌਰ 'ਤੇ ਮਿਟਾ ਦਿੱਤਾ ਜਾਵੇਗਾ। ਇਹਨਾਂ ਕਾਰਵਾਈਆਂ ਨੂੰ ਅਣਕੀਤਾ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ।"</item>
+        <item quantity="one">"ਤੁਹਾਡੀ ਰਿਕਾਰਡਿੰਗ ਨੂੰ ਸਥਾਈ ਤੌਰ 'ਤੇ ਮਿਟਾ ਦਿੱਤਾ ਜਾਵੇਗਾ। ਇਸ ਕਾਰਵਾਈ ਨੂੰ ਅਣਕੀਤਾ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ।"</item>
+    </plurals>
+    <plurals name="dlg_message_deletion_permanent_confirmation">
+        <item quantity="other">"ਰਿਕਾਰਡਿੰਗਾਂ ਦਾ ਬੈਕਅੱਪ ਨਹੀਂ ਲਿਆ ਗਿਆ। ਇਹ ਸਥਾਈ ਤੌਰ 'ਤੇ ਮਿਟਾ ਦਿੱਤੀ ਜਾਵੇਗੀ। ਤੁਸੀਂ ਇਸ ਕਾਰਵਾਈ ਨੂੰ ਅਣਕੀਤਾ ਨਹੀਂ ਕਰ ਸਕਦੇ।"</item>
+        <item quantity="one">"ਰਿਕਾਰਡਿੰਗ ਦਾ ਬੈਕਅੱਪ ਨਹੀਂ ਲਿਆ ਗਿਆ। ਇਹ ਸਥਾਈ ਤੌਰ 'ਤੇ ਮਿਟਾ ਦਿੱਤੀ ਜਾਵੇਗੀ। ਤੁਸੀਂ ਇਸ ਕਾਰਵਾਈ ਨੂੰ ਅਣਕੀਤਾ ਨਹੀਂ ਕਰ ਸਕਦੇ।"</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_confirmation">
+        <item quantity="other">ਕੀ ਰਿਕਾਰਡਿੰਗਾਂ ਨੂੰ ਮਿਟਾਉਣਾ ਹੈ?</item>
+        <item quantity="one">ਕੀ ਰਿਕਾਰਡਿੰਗ ਨੂੰ ਮਿਟਾਉਣਾ ਹੈ?</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_permanent_confirmation">
+        <item quantity="other">"ਕੀ ਇਹਨਾਂ ਰਿਕਾਰਡਿੰਗਾਂ ਨੂੰ ਸਥਾਈ ਤੌਰ 'ਤੇ ਮਿਟਾਉਣਾ ਹੈ?"</item>
+        <item quantity="one">"ਕੀ ਇਸ ਰਿਕਾਰਡਿੰਗ ਨੂੰ ਸਥਾਈ ਤੌਰ 'ਤੇ ਮਿਟਾਉਣਾ ਹੈ?"</item>
+    </plurals>
+    <plurals name="download_failure_description_storage_full">
+        <item quantity="other">ਰਿਕਾਰਡਿੰਗਾਂ ਨੂੰ ਡਾਊਨਲੋਡ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ ਕਿਉਂਕਿ ਡੀਵਾਈਸ ਸਟੋਰੇਜ ਭਰ ਗਈ ਹੈ। ਸਮੀਖਿਆ ਲਈ ਟੈਪ ਕਰੋ।</item>
+        <item quantity="one">ਰਿਕਾਰਡਿੰਗਾਂ ਨੂੰ ਡਾਊਨਲੋਡ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ ਕਿਉਂਕਿ ਡੀਵਾਈਸ ਸਟੋਰੇਜ ਭਰ ਗਈ ਹੈ। ਸਮੀਖਿਆ ਲਈ ਟੈਪ ਕਰੋ।</item>
+    </plurals>
+    <plurals name="downloading_description">
+        <item quantity="other">%1$d ਰਿਕਾਰਡਿੰਗਾਂ ਨੂੰ ਡਾਊਨਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ</item>
+        <item quantity="one">%1$d ਰਿਕਾਰਡਿੰਗ ਨੂੰ ਡਾਊਨਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ</item>
+    </plurals>
+    <plurals name="og_backup_failed_title">
+        <item quantity="other">%1$d ਆਈਟਮਾਂ ਦਾ ਬੈਕਅੱਪ ਲੈਣਾ ਅਸਫਲ ਰਿਹਾ</item>
+        <item quantity="one">%1$d ਆਈਟਮ ਦਾ ਬੈਕਅੱਪ ਲੈਣਾ ਅਸਫਲ ਰਿਹਾ</item>
+    </plurals>
+    <plurals name="og_backup_items_left">
+        <item quantity="other">%1$d ਆਈਟਮਾਂ ਬਾਕੀ</item>
+        <item quantity="one">%1$d ਆਈਟਮ ਬਾਕੀ</item>
+    </plurals>
+    <plurals name="og_backup_items_stopped_title">
+        <item quantity="other">%1$d ਆਈਟਮਾਂ ਦਾ ਬੈਕਅੱਪ ਨਹੀਂ ਲਿਆ ਗਿਆ</item>
+        <item quantity="one">%1$d ਆਈਟਮ ਦਾ ਬੈਕਅੱਪ ਨਹੀਂ ਲਿਆ ਗਿਆ</item>
+    </plurals>
+    <plurals name="peoplekit_chips_copied_recipients">
+        <item quantity="other">%d ਪ੍ਰਾਪਤਕਰਤਾਵਾਂ ਨੂੰ ਕਾਪੀ ਕੀਤਾ ਗਿਆ</item>
+        <item quantity="one">%d ਪ੍ਰਾਪਤਕਰਤਾ ਨੂੰ ਕਾਪੀ ਕੀਤਾ ਗਿਆ</item>
+    </plurals>
+    <plurals name="search_results_count">
+        <item quantity="other">%1$d ਨਤੀਜੇ</item>
+        <item quantity="one">%1$d ਨਤੀਜਾ</item>
+    </plurals>
+    <plurals name="search_results_position">
+        <item quantity="other">^1/^2 ਨਤੀਜੇ</item>
+        <item quantity="one">^1/^2 ਨਤੀਜਾ</item>
+    </plurals>
+    <plurals name="search_results_position_content_description">
+        <item quantity="other">%2$d ਵਿੱਚੋਂ %1$d ਨਤੀਜੇ</item>
+        <item quantity="one">%2$d ਵਿੱਚੋਂ %1$d ਨਤੀਜਾ</item>
+    </plurals>
+    <plurals name="selected_recording_quantity">
+        <item quantity="other">%1$d ਨੂੰ ਚੁਣਿਆ ਗਿਆ</item>
+        <item quantity="one">%1$d ਨੂੰ ਚੁਣਿਆ ਗਿਆ</item>
+    </plurals>
+    <plurals name="snackbar_message_download_failed_storage_full">
+        <item quantity="other">ਡੀਵਾਈਸ ਸਟੋਰੇਜ ਭਰ ਗਈ ਹੈ। ਰਿਕਾਰਡਿੰਗਾਂ ਨੂੰ ਡਾਊਨਲੋਡ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ।</item>
+        <item quantity="one">ਡੀਵਾਈਸ ਸਟੋਰੇਜ ਭਰ ਗਈ ਹੈ। ਰਿਕਾਰਡਿੰਗ ਨੂੰ ਡਾਊਨਲੋਡ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ।</item>
+    </plurals>
+    <plurals name="speaker_count">
+        <item quantity="other">%1$d ਸਪੀਕਰ</item>
+        <item quantity="one">%1$d ਸਪੀਕਰ</item>
+    </plurals>
+    <plurals name="uploading_description">
+        <item quantity="other">%1$d ਰਿਕਾਰਡਿੰਗਾਂ ਅੱਪਲੋਡ ਕੀਤੀਆਂ ਜਾ ਰਹੀਆਂ ਹਨ</item>
+        <item quantity="one">%1$d ਰਿਕਾਰਡਿੰਗ ਅੱਪਲੋਡ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ</item>
+    </plurals>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="select_logpersist_summaries">
+        <item>ਬੰਦ</item>
+        <item>ਸਾਰੇ ਲੌਗ ਬਫ਼ਰ</item>
+        <item>ਸਭ ਪਰ ਰੇਡੀਓ ਲੌਗ ਬਫ਼ਰ</item>
+        <item>ਸਿਰਫ਼ ਕਰਨਲ ਲੌਗ ਬਫ਼ਰ</item>
+    </string-array>
+</resources>

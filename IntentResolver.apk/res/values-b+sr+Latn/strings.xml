@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Idite na početnu</string>
+    <string name="abc_action_bar_up_description">Idite nagore</string>
+    <string name="abc_action_menu_overflow_description">Još opcija</string>
+    <string name="abc_action_mode_done">Gotovo</string>
+    <string name="abc_activity_chooser_view_see_all">Prikaži sve</string>
+    <string name="abc_activitychooserview_choose_application">Izaberite aplikaciju</string>
+    <string name="abc_capital_off">ISKLJUČENO</string>
+    <string name="abc_capital_on">UKLJUČENO</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">taster za razmak</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Pretražite…</string>
+    <string name="abc_searchview_description_clear">Obrišite upit</string>
+    <string name="abc_searchview_description_query">Pretražite upit</string>
+    <string name="abc_searchview_description_search">Pretražite</string>
+    <string name="abc_searchview_description_submit">Pošaljite upit</string>
+    <string name="abc_searchview_description_voice">Glasovna pretraga</string>
+    <string name="abc_shareactionprovider_share_with">Delite pomoću</string>
+    <string name="abc_shareactionprovider_share_with_application">Delite pomoću aplikacije %s</string>
+    <string name="abc_toolbar_collapse_description">Skupi</string>
+    <string name="activity_resolver_use_always">Uvek</string>
+    <string name="activity_resolver_use_once">Samo jednom</string>
+    <string name="activity_resolver_work_profiles_support">%1$s ne podržava poslovni profil</string>
+    <string name="call_notification_answer_action">Odgovori</string>
+    <string name="call_notification_answer_video_action">Video</string>
+    <string name="call_notification_decline_action">Odbij</string>
+    <string name="call_notification_hang_up_action">Prekini vezu</string>
+    <string name="call_notification_incoming_text">Dolazni poziv</string>
+    <string name="call_notification_ongoing_text">Poziv je u toku</string>
+    <string name="call_notification_screening_text">Proverava se dolazni poziv</string>
+    <string name="chooseActivity">Odaberite radnju</string>
+    <string name="chooser_no_direct_share_targets">Nema preporučenih ljudi za deljenje</string>
+    <string name="exclude_link">Izuzmi link</string>
+    <string name="exclude_text">Isključi tekst</string>
+    <string name="file_preview_a11y_description">Sličica za pregled fajla</string>
+    <string name="forward_intent_to_owner">Koristite ovu aplikaciju izvan poslovnog profila</string>
+    <string name="forward_intent_to_work">Koristite ovu aplikaciju na poslovnom profilu</string>
+    <string name="image_preview_a11y_description">Sličica za pregled slike</string>
+    <string name="include_link">Uvrsti link</string>
+    <string name="include_text">Uvrsti tekst</string>
+    <string name="miniresolver_open_in_personal">Želite da na ličnom profilu otvorite: %s?</string>
+    <string name="miniresolver_open_in_work">Želite da na poslovnom profilu otvorite: %s?</string>
+    <string name="miniresolver_use_personal_browser">Koristi lični pregledač</string>
+    <string name="miniresolver_use_work_browser">Koristi poslovni pregledač</string>
+    <string name="more_files">{count,plural, =1{+ još # fajl}one{+ još # fajl}few{+ još # fajla}other{+ još # fajlova}}</string>
+    <string name="noApplications">Nijedna aplikacija ne može da obavlja ovu radnju.</string>
+    <string name="other_files">{count,plural, =1{i još # fajl}one{i još # fajl}few{i još # fajla}other{i još # fajlova}}</string>
+    <string name="pin_specific_target">Zakačite osobu %1$s</string>
+    <string name="resolver_cant_access_personal_apps_explanation">Ovaj sadržaj ne može da se otvara pomoću ličnih aplikacija</string>
+    <string name="resolver_cant_access_work_apps_explanation">Ovaj sadržaj ne može da se otvara pomoću poslovnih aplikacija</string>
+    <string name="resolver_cant_share_with_personal_apps_explanation">Ovaj sadržaj ne može da se deli pomoću ličnih aplikacija</string>
+    <string name="resolver_cant_share_with_work_apps_explanation">Ovaj sadržaj ne može da se deli pomoću poslovnih aplikacija</string>
+    <string name="resolver_cross_profile_blocked">Blokira IT administrator</string>
+    <string name="resolver_no_personal_apps_available">Nema ličnih aplikacija</string>
+    <string name="resolver_no_work_apps_available">Nema poslovnih aplikacija</string>
+    <string name="resolver_personal_tab">Lično</string>
+    <string name="resolver_personal_tab_accessibility">Lični prikaz</string>
+    <string name="resolver_switch_on_work">Ponovo aktiviraj</string>
+    <string name="resolver_turn_on_work_apps">Poslovne aplikacije su pauzirane</string>
+    <string name="resolver_work_tab">Poslovno</string>
+    <string name="resolver_work_tab_accessibility">Prikaz za posao</string>
+    <string name="screenshot_edit">Izmeni</string>
+    <string name="search_menu_title">Pretražite</string>
+    <string name="sharing_files">{count,plural, =1{Deli se # fajl}one{Deli se # fajl}few{Dele se # fajla}other{Deli se # fajlova}}</string>
+    <string name="sharing_files_only">{count,plural, =1{Samo fajl}one{Samo fajlovi}few{Samo fajlovi}other{Samo fajlovi}}</string>
+    <string name="sharing_files_with_link">{count,plural, =1{Deli se fajl sa linkom}one{Deli se # fajl sa linkom}few{Dele se # fajla sa linkom}other{Deli se # fajlova sa linkom}}</string>
+    <string name="sharing_files_with_text">{count,plural, =1{Deli se fajl sa tekstom}one{Deli se # fajl sa tekstom}few{Dele se # fajla sa tekstom}other{Deli se # fajlova sa tekstom}}</string>
+    <string name="sharing_images">{count,plural, =1{Deli se slika}one{Deli se # slika}few{Dele se # slike}other{Deli se # slika}}</string>
+    <string name="sharing_images_only">{count,plural, =1{Samo slika}one{Samo slike}few{Samo slike}other{Samo slike}}</string>
+    <string name="sharing_images_with_link">{count,plural, =1{Deli se slika sa linkom}one{Deli se # slika sa linkom}few{Dele se # slike sa linkom}other{Deli se # slika sa linkom}}</string>
+    <string name="sharing_images_with_text">{count,plural, =1{Deli se slika sa tekstom}one{Deli se # slika sa tekstom}few{Dele se # slike sa tekstom}other{Deli se # slika sa tekstom}}</string>
+    <string name="sharing_link">Deli se link</string>
+    <string name="sharing_text">Deli se tekst</string>
+    <string name="sharing_videos">{count,plural, =1{Deli se video}one{Deli se # video}few{Dele se # video snimka}other{Deli se # video snimaka}}</string>
+    <string name="sharing_videos_only">{count,plural, =1{Samo video}one{Samo video snimci}few{Samo video snimci}other{Samo video snimci}}</string>
+    <string name="sharing_videos_with_link">{count,plural, =1{Deli se video sa linkom}one{Deli se # video sa linkom}few{Dele se # video snimka sa linkom}other{Deli se # video snimaka sa linkom}}</string>
+    <string name="sharing_videos_with_text">{count,plural, =1{Deli se video sa tekstom}one{Deli se # video sa tekstom}few{Dele se # video snimka sa tekstom}other{Deli se # video snimaka sa tekstom}}</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="unpin_specific_target">Otkači aplikaciju %1$s</string>
+    <string name="usb_device_resolve_prompt_warn">Ova aplikacija nema dozvolu za snimanje, ali bi mogla da snima zvuk pomoću ovog USB uređaja.</string>
+    <string name="use_a_different_app">Koristite drugu aplikaciju</string>
+    <string name="video_preview_a11y_description">Sličica za pregled videa</string>
+    <string name="whichApplication">Dovrši radnju preko</string>
+    <string name="whichApplicationLabel">Završi radnju</string>
+    <string name="whichApplicationNamed">Dovršite radnju pomoću aplikacije %1$s</string>
+    <string name="whichEditApplication">Izmenite pomoću</string>
+    <string name="whichEditApplicationLabel">Izmeni</string>
+    <string name="whichEditApplicationNamed">Izmenite pomoću aplikacije %1$s</string>
+    <string name="whichGiveAccessToApplicationLabel">Dozvoli pristup</string>
+    <string name="whichHomeApplication">Izaberite aplikaciju za početnu stranicu</string>
+    <string name="whichHomeApplicationLabel">Snimite sliku</string>
+    <string name="whichHomeApplicationNamed">Koristite %1$s za početnu</string>
+    <string name="whichImageCaptureApplication">Snimite sliku pomoću aplikacije</string>
+    <string name="whichImageCaptureApplicationLabel">Snimite sliku</string>
+    <string name="whichImageCaptureApplicationNamed">Snimite sliku pomoću aplikacije %1$s</string>
+    <string name="whichOpenHostLinksWith">Otvarajte %1$s linkove pomoću</string>
+    <string name="whichOpenHostLinksWithApp">Otvarajte %1$s linkove pomoću aplikacije %2$s</string>
+    <string name="whichOpenLinksWith">Otvaraj linkove pomoću</string>
+    <string name="whichOpenLinksWithApp">Otvarajte linkove pomoću aplikacije %1$s</string>
+    <string name="whichSendApplication">Delite</string>
+    <string name="whichSendApplicationLabel">Deli</string>
+    <string name="whichSendApplicationNamed">Delite pomoću aplikacije %1$s</string>
+    <string name="whichSendToApplication">Pošaljite pomoću:</string>
+    <string name="whichSendToApplicationLabel">Pošalji</string>
+    <string name="whichSendToApplicationNamed">Pošaljite pomoću aplikacije %1$s</string>
+    <string name="whichViewApplication">Otvorite pomoću</string>
+    <string name="whichViewApplicationLabel">Otvori</string>
+    <string name="whichViewApplicationNamed">Otvorite pomoću aplikacije %1$s</string>
+</resources>

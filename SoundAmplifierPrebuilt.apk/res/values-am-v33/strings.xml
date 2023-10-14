@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sound_amplifier_html_description">ድምፅ ማጉያ ኃይለኛ ድምፆችን በጣም ሳያስጮህ ደካማ ድምፆችን ጮክ እንዲሉ ያደርጋቸዋል&lt;br/>&lt;br/> &lt;b>ድምፅ ማጉያን እንዴት መጠቀም ይቻላል&lt;/b>&lt;br/> 1. ባለገመድ የራስ ላይ ማዳመጫዎችን ይሰኩ ወይም የብሉቱዝ የራስ ላይ ማዳመጫዎችን ያገናኙ&lt;br/> 2. ድምፅ ማጉያን ያስጀምሩ</string>
+    <string name="sound_amplifier_intro">በእርስዎ እና በመሣሪያዎ ዙሪያ ያለ የኦዲዮ ጥራትን ለማሻሻል ድምፅ ማጉያን ከጆሮ ማዳመጫ ጋር ይጠቀሙ</string>
+</resources>

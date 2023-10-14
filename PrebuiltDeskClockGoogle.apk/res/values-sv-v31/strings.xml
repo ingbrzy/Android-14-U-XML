@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="analog_gadget">Analog</string>
+    <string name="digital_gadget">Digital</string>
+    <string name="analog_widget_clover_clock_name">Klöver</string>
+    <string name="analog_widget_clover_content_description">Urtavla formad som en klöver</string>
+    <string name="analog_widget_config_activity_title">Välj en urtavla</string>
+    <string name="analog_widget_day_clock_name">Dag</string>
+    <string name="analog_widget_day_content_description">Urtavla med månad</string>
+    <string name="analog_widget_numeral_clock_name">Siffror</string>
+    <string name="analog_widget_numeral_content_description">Urtavla med stora siffor</string>
+    <string name="analog_widget_scallop_clock_name">Kammussla</string>
+    <string name="analog_widget_scallop_content_description">Urtavla med veckodag och månad</string>
+    <string name="cities_widget_config_activity_subtitle">Städer kan läggas till från fliken Klocka</string>
+    <string name="cities_widget_config_activity_subtitle_button">Välj städer i appen Klocka</string>
+    <string name="cities_widget_preview_city_london">London</string>
+    <string name="cities_widget_preview_city_mountain_view">Mountain View</string>
+    <string name="clock_widget_opaque_label">Solid</string>
+    <string name="clock_widget_transparent_label">Genomskinlig</string>
+    <string name="digital_appwidget_config_activity_title">Välj stil på klockan</string>
+    <string name="digital_cities_gadget">Världen</string>
+    <string name="digital_cities_gadget_description">Välj städer i appen Klocka</string>
+    <string name="digital_stacked_gadget">Staplad</string>
+    <string name="digital_widgets_preview_alarm">Mån 9.30</string>
+    <string name="stopwatch_gadget_description">Styr stoppuret i appen Klocka</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="azure_title">Modrowronka lazurowa</string>
+    <string name="blackswan_title">Łabędź czarny</string>
+    <string name="cockatoo_title">Kakadu</string>
+    <string name="come_alive_title">Animowane</string>
+    <string name="feathers_attribution">Zdjęcie: Andrew Zuckerman</string>
+    <string name="feathers_description">Kolory i detale ptasich piór</string>
+    <string name="feathers_title">Pióra</string>
+    <string name="greenwinged_title">Ara zielonoskrzydła</string>
+    <string name="king_title">Kondor królewski</string>
+    <string name="living_universe_title">Żyjący wszechświat</string>
+    <string name="photos_memory_gallery_title">Wspomnienia</string>
+    <string name="pied_title">Kruk srokaty</string>
+    <string name="ringnecked_title">Aleksandretta obrożna</string>
+    <string name="seagull_title">Mewa</string>
+</resources>

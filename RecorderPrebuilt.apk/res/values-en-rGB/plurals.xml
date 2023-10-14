@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dlg_message_deletion_confirmation">
+        <item quantity="other">"Your recordings will be permanently deleted. This action can't be undone."</item>
+        <item quantity="one">"Your recording will be permanently deleted. This action can't be undone."</item>
+    </plurals>
+    <plurals name="dlg_message_deletion_permanent_confirmation">
+        <item quantity="other">Recordings are not backed up. These will be permanently deleted. You can’t undo this action.</item>
+        <item quantity="one">Recording is not backed up. This will be permanently deleted. You can’t undo this action.</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_confirmation">
+        <item quantity="other">Delete recordings?</item>
+        <item quantity="one">Delete recording?</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_permanent_confirmation">
+        <item quantity="other">Permanently delete these recordings?</item>
+        <item quantity="one">Permanently delete this recording?</item>
+    </plurals>
+    <plurals name="download_failure_description_storage_full">
+        <item quantity="other">"Can't download recordings because device storage is full. Tap to review."</item>
+        <item quantity="one">Device storage is full. Tap to review.</item>
+    </plurals>
+    <plurals name="downloading_description">
+        <item quantity="other">Downloading %1$d recordings</item>
+        <item quantity="one">Downloading %1$d recording</item>
+    </plurals>
+    <plurals name="og_backup_failed_title">
+        <item quantity="other">%1$d items failed to back up</item>
+        <item quantity="one">%1$d item failed to back up</item>
+    </plurals>
+    <plurals name="og_backup_items_left">
+        <item quantity="other">%1$d items left</item>
+        <item quantity="one">%1$d item left</item>
+    </plurals>
+    <plurals name="og_backup_items_stopped_title">
+        <item quantity="other">%1$d items not backed up</item>
+        <item quantity="one">%1$d item not backed up</item>
+    </plurals>
+    <plurals name="peoplekit_chips_copied_recipients">
+        <item quantity="other">Copied %d recipients</item>
+        <item quantity="one">Copied %d recipient</item>
+    </plurals>
+    <plurals name="search_results_count">
+        <item quantity="other">%1$d results</item>
+        <item quantity="one">%1$d result</item>
+    </plurals>
+    <plurals name="search_results_position">
+        <item quantity="other">^1/^2 results</item>
+        <item quantity="one">^1/^2 result</item>
+    </plurals>
+    <plurals name="search_results_position_content_description">
+        <item quantity="other">%1$d of %2$d results</item>
+        <item quantity="one">%1$d of %2$d result</item>
+    </plurals>
+    <plurals name="selected_recording_quantity">
+        <item quantity="other">%1$d selected</item>
+        <item quantity="one">%1$d selected</item>
+    </plurals>
+    <plurals name="snackbar_message_download_failed_storage_full">
+        <item quantity="other">"Device storage is full. Can't download recordings."</item>
+        <item quantity="one">"Device storage is full. Can't download recording."</item>
+    </plurals>
+    <plurals name="speaker_count">
+        <item quantity="other">%1$d speakers</item>
+        <item quantity="one">%1$d speaker</item>
+    </plurals>
+    <plurals name="uploading_description">
+        <item quantity="other">Uploading %1$d recordings</item>
+        <item quantity="one">Uploading %1$d recording</item>
+    </plurals>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="calendar_default_name">Демейки</string>
+    <string name="calendar_info">Жылнаамадагы маалымат</string>
+    <string name="calendar_info_error">Ката</string>
+    <string name="calendar_info_events">Иш-чаралар: %1$d</string>
+    <string name="calendar_info_events_dirty">Иш-чаралар: %1$d, Сакталбаган иш-чаралар: %2$d</string>
+    <string name="calendar_info_no_calendars">Жылнаамалар жок</string>
+    <string name="calendar_storage">Жылнаамадагы сактагыч</string>
+    <string name="debug_tool_delete_button">Азыр жок кылуу</string>
+    <string name="debug_tool_email_body">Жылнааманын маалыматтар базасы, анын ичинде бардык жолугушуулар менен жеке маалыматым тиркелди. Этият болуңуз.</string>
+    <string name="debug_tool_email_sender_picker">Файлыңызды жөнөтүүчү программаны тандаңыз</string>
+    <string name="debug_tool_email_subject">Жылнааманын маалыматтар базасы тиркелди</string>
+    <string name="debug_tool_message">1) жылнааманын дайындар базасын бардык колдонмолордо окулган SD картага/USB сактагычка көчүрүп, 2) электрондук почта аркылуу жөнөткөнү жатасыз. Аны түзмөктөн көчүрүп же электрондук почта аркылуу алаарыңыз менен жок кылууну унутпаңыз.</string>
+    <string name="debug_tool_start_button">Баштоо</string>
+    <string name="provider_label">Жылнаама</string>
+</resources>

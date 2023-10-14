@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_retaildemoCommunication">Разрешава на приложението да взаимодейства с Retail Demo Services. Това разрешение трябва да бъде предоставено само на Retail Demo. Приложенията, които разполагат с разрешението, могат да задействат действия, резервирани за режима на Retail Demo.</string>
+    <string name="permlab_retaildemoCommunication">Връзка с Retail Demo</string>
+    <string name="retaildemo_preload_app_name">Retail Demo Services</string>
+</resources>

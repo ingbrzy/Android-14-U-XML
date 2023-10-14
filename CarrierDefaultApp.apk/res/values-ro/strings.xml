@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_bar_label">Conectează-te la rețeaua mobilă</string>
+    <string name="android_system_label">Operator de telefonie mobilă</string>
+    <string name="app_name">Notificări de la operator</string>
+    <string name="mobile_data_status_notification_channel_name">Starea datelor mobile</string>
+    <string name="no_data_notification_detail">Contactează furnizorul de servicii %s</string>
+    <string name="no_data_notification_id">Datele mobile au fost dezactivate</string>
+    <string name="no_mobile_data_connection">Adaugă un plan de date sau de roaming prin %s</string>
+    <string name="no_mobile_data_connection_title">Nu există o conexiune de date mobile</string>
+    <string name="performance_boost_notification_button_manage">Gestionează</string>
+    <string name="performance_boost_notification_button_not_now">Nu acum</string>
+    <string name="performance_boost_notification_channel">Boost de performanță</string>
+    <string name="performance_boost_notification_detail">Accesează site-ul %s ca să vezi opțiunile pentru experiența ta cu aplicațiile</string>
+    <string name="performance_boost_notification_title">Opțiuni 5G de la operator</string>
+    <string name="portal_notification_detail">Atinge pentru a accesa site-ul %s</string>
+    <string name="portal_notification_id">Datele mobile au expirat</string>
+    <string name="slice_purchase_app_label">Achiziționează un boost de performanță.</string>
+    <string name="ssl_error_continue">Continuă oricum prin browser</string>
+    <string name="ssl_error_example">De exemplu, este posibil ca pagina de conectare să nu aparțină organizației afișate.</string>
+    <string name="ssl_error_warning">Rețeaua la care încercați să vă conectați are probleme de securitate.</string>
+</resources>

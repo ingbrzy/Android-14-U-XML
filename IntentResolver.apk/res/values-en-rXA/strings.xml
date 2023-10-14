@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">[ÑåVîĝåţé ĥöḿé one two]</string>
+    <string name="abc_action_bar_up_description">[ÑåVîĝåţé ûþ one two]</string>
+    <string name="abc_action_menu_overflow_description">[Ḿöŕé öþţîöñš one two]</string>
+    <string name="abc_action_mode_done">[Ðöñé one]</string>
+    <string name="abc_activity_chooser_view_see_all">[Šéé åļļ one two]</string>
+    <string name="abc_activitychooserview_choose_application">[Çĥööšé åñ åþþ one two]</string>
+    <string name="abc_capital_off">[ÖFF one]</string>
+    <string name="abc_capital_on">[ÖÑ one]</string>
+    <string name="abc_menu_alt_shortcut_label">[Åļţ+ one]</string>
+    <string name="abc_menu_ctrl_shortcut_label">[Çţŕļ+ one]</string>
+    <string name="abc_menu_delete_shortcut_label">[ðéļéţé one two]</string>
+    <string name="abc_menu_enter_shortcut_label">[éñţéŕ one]</string>
+    <string name="abc_menu_function_shortcut_label">[Fûñçţîöñ+ one two]</string>
+    <string name="abc_menu_meta_shortcut_label">[Ḿéţå+ one]</string>
+    <string name="abc_menu_shift_shortcut_label">[Šĥîƒţ+ one two]</string>
+    <string name="abc_menu_space_shortcut_label">[šþåçé one]</string>
+    <string name="abc_menu_sym_shortcut_label">[Šýḿ+ one]</string>
+    <string name="abc_prepend_shortcut_label">[Ḿéñû+ one]</string>
+    <string name="abc_search_hint">[Šéåŕçĥ… one two]</string>
+    <string name="abc_searchview_description_clear">[Çļéåŕ Qûéŕý one two]</string>
+    <string name="abc_searchview_description_query">[Šéåŕçĥ Qûéŕý one two]</string>
+    <string name="abc_searchview_description_search">[Šéåŕçĥ one two]</string>
+    <string name="abc_searchview_description_submit">[Šûɓḿîţ Qûéŕý one two]</string>
+    <string name="abc_searchview_description_voice">[νöîçé šéåŕçĥ one two]</string>
+    <string name="abc_shareactionprovider_share_with">[Šĥåŕé ŵîţĥ one two]</string>
+    <string name="abc_shareactionprovider_share_with_application">[Šĥåŕé ŵîţĥ %s one two]</string>
+    <string name="abc_toolbar_collapse_description">[Çöļļåþšé one two]</string>
+    <string name="activity_resolver_use_always">[Åļŵåýš one two]</string>
+    <string name="activity_resolver_use_once">[Ĵûšţ öñçé one two]</string>
+    <string name="activity_resolver_work_profiles_support">"[%1$s ðöéšñ'ţ šûþþöŕţ ŵöŕķ þŕöƒîļé one two three four]"</string>
+    <string name="call_notification_answer_action">[Åñšŵéŕ one two]</string>
+    <string name="call_notification_answer_video_action">[νîðéö one]</string>
+    <string name="call_notification_decline_action">[Ðéçļîñé one two]</string>
+    <string name="call_notification_hang_up_action">[Ĥåñĝ Ûþ one two]</string>
+    <string name="call_notification_incoming_text">[Îñçöḿîñĝ çåļļ one two]</string>
+    <string name="call_notification_ongoing_text">[Öñĝöîñĝ çåļļ one two]</string>
+    <string name="call_notification_screening_text">[Šçŕééñîñĝ åñ îñçöḿîñĝ çåļļ one two three four]</string>
+    <string name="chooseActivity">[Çĥööšé åñ åçţîöñ one two three]</string>
+    <string name="chooser_no_direct_share_targets">[Ñö ŕéçöḿḿéñðéð þéöþļé ţö šĥåŕé ŵîţĥ one two three four]</string>
+    <string name="exclude_link">[Éхçļûðé ļîñķ one two]</string>
+    <string name="exclude_text">[Éхçļûðé ţéхţ one two]</string>
+    <string name="file_preview_a11y_description">[Fîļé þŕéVîéŵ ţĥûḿɓñåîļ one two three]</string>
+    <string name="forward_intent_to_owner">"[Ýöû'ŕé ûšîñĝ ţĥîš åþþ öûţšîðé öƒ ýöûŕ ŵöŕķ þŕöƒîļé one two three four five six]"</string>
+    <string name="forward_intent_to_work">"[Ýöû'ŕé ûšîñĝ ţĥîš åþþ îñ ýöûŕ ŵöŕķ þŕöƒîļé one two three four five]"</string>
+    <string name="image_preview_a11y_description">[Îḿåĝé þŕéVîéŵ ţĥûḿɓñåîļ one two three]</string>
+    <string name="include_link">[Îñçļûðé ļîñķ one two]</string>
+    <string name="include_text">[Îñçļûðé ţéхţ one two]</string>
+    <string name="miniresolver_open_in_personal">[Öþéñ %s îñ ýöûŕ þéŕšöñåļ þŕöƒîļé¿ one two three four]</string>
+    <string name="miniresolver_open_in_work">[Öþéñ %s îñ ýöûŕ ŵöŕķ þŕöƒîļé¿ one two three four]</string>
+    <string name="miniresolver_use_personal_browser">[Ûšé þéŕšöñåļ ɓŕöŵšéŕ one two three]</string>
+    <string name="miniresolver_use_work_browser">[Ûšé ŵöŕķ ɓŕöŵšéŕ one two three]</string>
+    <string name="more_files">[{count, plural, =1 {+ # ḿöŕé ƒîļé one two} other {+ # ḿöŕé ƒîļéš one two three} }]</string>
+    <string name="noApplications">[Ñö åþþš çåñ þéŕƒöŕḿ ţĥîš åçţîöñ. one two three four]</string>
+    <string name="other_files">[{count, plural, =1 {+ # ƒîļé one two} other {+ # ƒîļéš one two} }]</string>
+    <string name="pin_specific_target">[Þîñ %1$s one]</string>
+    <string name="resolver_cant_access_personal_apps_explanation">[Ţĥîš çöñţéñţ çåñ’ţ ɓé öþéñéð ŵîţĥ þéŕšöñåļ åþþš one two three four five six]</string>
+    <string name="resolver_cant_access_work_apps_explanation">[Ţĥîš çöñţéñţ çåñ’ţ ɓé öþéñéð ŵîţĥ ŵöŕķ åþþš one two three four five]</string>
+    <string name="resolver_cant_share_with_personal_apps_explanation">[Ţĥîš çöñţéñţ çåñ’ţ ɓé šĥåŕéð ŵîţĥ þéŕšöñåļ åþþš one two three four five six]</string>
+    <string name="resolver_cant_share_with_work_apps_explanation">[Ţĥîš çöñţéñţ çåñ’ţ ɓé šĥåŕéð ŵîţĥ ŵöŕķ åþþš one two three four five]</string>
+    <string name="resolver_cross_profile_blocked">[βļöçķéð ɓý ýöûŕ ÎŢ åðḿîñ one two three]</string>
+    <string name="resolver_no_personal_apps_available">[Ñö þéŕšöñåļ åþþš one two three]</string>
+    <string name="resolver_no_work_apps_available">[Ñö ŵöŕķ åþþš one two]</string>
+    <string name="resolver_personal_tab">[Þéŕšöñåļ one two]</string>
+    <string name="resolver_personal_tab_accessibility">[Þéŕšöñåļ Vîéŵ one two]</string>
+    <string name="resolver_switch_on_work">[Ûñþåûšé one two]</string>
+    <string name="resolver_turn_on_work_apps">[Ŵöŕķ åþþš åŕé þåûšéð one two three]</string>
+    <string name="resolver_work_tab">[Ŵöŕķ one]</string>
+    <string name="resolver_work_tab_accessibility">[Ŵöŕķ Vîéŵ one two]</string>
+    <string name="screenshot_edit">[Éðîţ one]</string>
+    <string name="search_menu_title">[Šéåŕçĥ one two]</string>
+    <string name="sharing_files">[{count, plural, =1 {Šĥåŕîñĝ # ƒîļé one two three} other {Šĥåŕîñĝ # ƒîļéš one two three} }]</string>
+    <string name="sharing_files_only">[{count, plural, =1 {Fîļé öñļý one two} other {Fîļéš öñļý one two} }]</string>
+    <string name="sharing_files_with_link">[{count, plural, =1 {Šĥåŕîñĝ ƒîļé ŵîţĥ ļîñķ one two three} other {Šĥåŕîñĝ # ƒîļéš ŵîţĥ ļîñķ one two three} }]</string>
+    <string name="sharing_files_with_text">[{count, plural, =1 {Šĥåŕîñĝ ƒîļé ŵîţĥ ţéхţ one two three} other {Šĥåŕîñĝ # ƒîļéš ŵîţĥ ţéхţ one two three} }]</string>
+    <string name="sharing_images">[{count, plural, =1 {Šĥåŕîñĝ îḿåĝé one two} other {Šĥåŕîñĝ # îḿåĝéš one two three} }]</string>
+    <string name="sharing_images_only">[{count, plural, =1 {Îḿåĝé öñļý one two} other {Îḿåĝéš öñļý one two} }]</string>
+    <string name="sharing_images_with_link">[{count, plural, =1 {Šĥåŕîñĝ îḿåĝé ŵîţĥ ļîñķ one two three} other {Šĥåŕîñĝ # îḿåĝéš ŵîţĥ ļîñķ one two three four} }]</string>
+    <string name="sharing_images_with_text">[{count, plural, =1 {Šĥåŕîñĝ îḿåĝé ŵîţĥ ţéхţ one two three} other {Šĥåŕîñĝ # îḿåĝéš ŵîţĥ ţéхţ one two three four} }]</string>
+    <string name="sharing_link">[Šĥåŕîñĝ ļîñķ one two]</string>
+    <string name="sharing_text">[Šĥåŕîñĝ ţéхţ one two]</string>
+    <string name="sharing_videos">[{count, plural, =1 {Šĥåŕîñĝ Vîðéö one two} other {Šĥåŕîñĝ # Vîðéöš one two three} }]</string>
+    <string name="sharing_videos_only">[{count, plural, =1 {νîðéö öñļý one two} other {νîðéöš öñļý one two} }]</string>
+    <string name="sharing_videos_with_link">[{count, plural, =1 {Šĥåŕîñĝ Vîðéö ŵîţĥ ļîñķ one two three} other {Šĥåŕîñĝ # Vîðéöš ŵîţĥ ļîñķ one two three four} }]</string>
+    <string name="sharing_videos_with_text">[{count, plural, =1 {Šĥåŕîñĝ Vîðéö ŵîţĥ ţéхţ one two three} other {Šĥåŕîñĝ # Vîðéöš ŵîţĥ ţéхţ one two three four} }]</string>
+    <string name="status_bar_notification_info_overflow">[999+ one]</string>
+    <string name="unpin_specific_target">[Ûñþîñ %1$s one two]</string>
+    <string name="usb_device_resolve_prompt_warn">[Ţĥîš åþþ ĥåš ñöţ ɓééñ ĝŕåñţéð ŕéçöŕð þéŕḿîššîöñ ɓûţ çöûļð çåþţûŕé åûðîö ţĥŕöûĝĥ ţĥîš ÛŠβ ðéVîçé. one two three four five six seven eight nine ten eleven]</string>
+    <string name="use_a_different_app">[Ûšé å ðîƒƒéŕéñţ åþþ one two three]</string>
+    <string name="video_preview_a11y_description">[νîðéö þŕéVîéŵ ţĥûḿɓñåîļ one two three]</string>
+    <string name="whichApplication">[Çöḿþļéţé åçţîöñ ûšîñĝ one two three]</string>
+    <string name="whichApplicationLabel">[Çöḿþļéţé åçţîöñ one two three]</string>
+    <string name="whichApplicationNamed">[Çöḿþļéţé åçţîöñ ûšîñĝ %1$s one two three]</string>
+    <string name="whichEditApplication">[Éðîţ ŵîţĥ one two]</string>
+    <string name="whichEditApplicationLabel">[Éðîţ one]</string>
+    <string name="whichEditApplicationNamed">[Éðîţ ŵîţĥ %1$s one two]</string>
+    <string name="whichGiveAccessToApplicationLabel">[ĜîVé åççéšš one two]</string>
+    <string name="whichHomeApplication">[Šéļéçţ å Ĥöḿé åþþ one two three]</string>
+    <string name="whichHomeApplicationLabel">[Çåþţûŕé îḿåĝé one two]</string>
+    <string name="whichHomeApplicationNamed">[Ûšé %1$s åš Ĥöḿé one two]</string>
+    <string name="whichImageCaptureApplication">[Çåþţûŕé îḿåĝé ŵîţĥ one two three]</string>
+    <string name="whichImageCaptureApplicationLabel">[Çåþţûŕé îḿåĝé one two]</string>
+    <string name="whichImageCaptureApplicationNamed">[Çåþţûŕé îḿåĝé ŵîţĥ %1$s one two three]</string>
+    <string name="whichOpenHostLinksWith">[Öþéñ %1$s ļîñķš ŵîţĥ one two three]</string>
+    <string name="whichOpenHostLinksWithApp">[Öþéñ %1$s ļîñķš ŵîţĥ %2$s one two three]</string>
+    <string name="whichOpenLinksWith">[Öþéñ ļîñķš ŵîţĥ one two three]</string>
+    <string name="whichOpenLinksWithApp">[Öþéñ ļîñķš ŵîţĥ %1$s one two three]</string>
+    <string name="whichSendApplication">[Šĥåŕé one]</string>
+    <string name="whichSendApplicationLabel">[Šĥåŕé one]</string>
+    <string name="whichSendApplicationNamed">[Šĥåŕé ŵîţĥ %1$s one two]</string>
+    <string name="whichSendToApplication">[Šéñð ûšîñĝ one two]</string>
+    <string name="whichSendToApplicationLabel">[Šéñð one]</string>
+    <string name="whichSendToApplicationNamed">[Šéñð ûšîñĝ %1$s one two]</string>
+    <string name="whichViewApplication">[Öþéñ ŵîţĥ one two]</string>
+    <string name="whichViewApplicationLabel">[Öþéñ one]</string>
+    <string name="whichViewApplicationNamed">[Öþéñ ŵîţĥ %1$s one two]</string>
+</resources>

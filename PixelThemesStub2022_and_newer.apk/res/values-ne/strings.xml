@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bundle1_color_name">कार्बन</string>
+    <string name="bundle2_color_name">कागज</string>
+    <string name="bundle3_color_name">आइत</string>
+    <string name="color_name_monochromatic">Monochromatic</string>
+    <string name="default_color_name">क्लासिक</string>
+    <string name="fruit1_color_name">पहेँलो र रातो रङका दुई कलर प्यालेट</string>
+    <string name="fruit2_color_name">हरियो र सुन्तले रङका दुई कलर प्यालेट</string>
+    <string name="fruit3_color_name">निलो र हरियो रङका दुई कलर प्यालेट</string>
+    <string name="fruit4_color_name">फिक्का बैजनी र निलो रङका दुई कलर प्यालेट</string>
+    <string name="fruit5_color_name">गुलाबी र इन्डिगो रङका दुई कलर प्यालेट</string>
+    <string name="rainbow1_color_name">रातो</string>
+    <string name="rainbow2_color_name">सुन्तले रङ</string>
+    <string name="rainbow3_color_name">पहेँलो</string>
+    <string name="rainbow4_color_name">हरियो</string>
+    <string name="rainbow5_color_name">निलो</string>
+    <string name="rainbow6_color_name">इन्डिगो</string>
+    <string name="rainbow7_color_name">बैजनी</string>
+</resources>

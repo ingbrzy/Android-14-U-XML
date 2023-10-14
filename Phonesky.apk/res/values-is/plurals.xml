@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120000">
+        <item quantity="other">Bíður eftir Wi-Fi</item>
+        <item quantity="one">Bíður eftir Wi-Fi</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120002">
+        <item quantity="other">Í þessu tæki (%d forrit)</item>
+        <item quantity="one">Í þessu tæki (%d forrit)</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120003">
+        <item quantity="other">Eiginleikar fyrir %1$s</item>
+        <item quantity="one">Eiginleiki fyrir %1$s</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120004">
+        <item quantity="other">Sett upp fyrir %d dögum</item>
+        <item quantity="one">Sett upp fyrir %d degi</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120005">
+        <item quantity="other">Sett upp fyrir %d klukkustundum</item>
+        <item quantity="one">Sett upp fyrir %d klukkustund</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120006">
+        <item quantity="other">Sett upp fyrir %d mínútum</item>
+        <item quantity="one">Sett upp fyrir %d mínútu</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120007">
+        <item quantity="other">%1$d valin</item>
+        <item quantity="one">%1$d valið</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120008">
+        <item quantity="other">Uppfært fyrir %d dögum</item>
+        <item quantity="one">Uppfært fyrir %d degi</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120009">
+        <item quantity="other">Uppfært fyrir %d klukkustundum</item>
+        <item quantity="one">Uppfært fyrir %d klukkustund</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000a">
+        <item quantity="other">Uppfært fyrir %d mínútum</item>
+        <item quantity="one">Uppfært fyrir %d mínútu</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000b">
+        <item quantity="other">Síðast notað fyrir %d dögum</item>
+        <item quantity="one">Síðast notað fyrir %d degi</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000c">
+        <item quantity="other">Síðast notað fyrir %d klukkustundum</item>
+        <item quantity="one">Síðast notað fyrir %d klukkustund</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000d">
+        <item quantity="other">Síðast notað fyrir %d mínútum</item>
+        <item quantity="one">Síðast notað fyrir %d mínútu</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000f">
+        <item quantity="other">Leitað í forritum fyrir %d dögum</item>
+        <item quantity="one">Leitað í forritum fyrir %d degi</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120010">
+        <item quantity="other">Leitað í forritum fyrir %d klukkustundum</item>
+        <item quantity="one">Leitað í forritum fyrir %d klukkustund</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120011">
+        <item quantity="other">Leitað í forritum fyrir %d mínútum</item>
+        <item quantity="one">Leitað í forritum fyrir %d mínútu</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120014">
+        <item quantity="other">%1$d umsagnir</item>
+        <item quantity="one">%1$d umsögn</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120015">
+        <item quantity="other">%1$d umsagnir fyrir stjörnugjöfina %2$d</item>
+        <item quantity="one">%1$d umsögn fyrir stjörnugjöfina %2$d</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120016">
+        <item quantity="other">Setja upp í %1$d tækjum.</item>
+        <item quantity="one">Setja upp í %1$d tæki.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120017">
+        <item quantity="other">Setja upp í %1$d tækjum. Fleiri tæki eru tiltæk.</item>
+        <item quantity="one">Setja upp í %1$d tæki. Fleiri tæki eru tiltæk.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120018">
+        <item quantity="other">Þetta forrit verður bráðum sett upp í %1$d tækjum.</item>
+        <item quantity="one">Þetta forrit verður bráðum sett upp í %1$d tæki.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120019">
+        <item quantity="other">%1$d aukaefni í boði</item>
+        <item quantity="one">%1$d aukaefni í boði</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001a">
+        <item quantity="other">%1$d aukaefni í boði með kaupum</item>
+        <item quantity="one">%1$d aukaefni í boði með kaupum</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001b">
+        <item quantity="other">%1$d daga</item>
+        <item quantity="one">%1$d dag</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001c">
+        <item quantity="other">Meðaleinkunn: %1$s stjörnur í %2$s umsögnum</item>
+        <item quantity="one">Meðaleinkunn: %1$s stjarna í %2$s umsögn</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001d">
+        <item quantity="other">%s umsagnir</item>
+        <item quantity="one">%s umsögn</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001e">
+        <item quantity="other">Nú ertu %1$d skrefum frá því að verða þróunaraðili.</item>
+        <item quantity="one">Nú ertu %1$d skrefi frá því að verða þróunaraðili.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001f">
+        <item quantity="other">bílar</item>
+        <item quantity="one">bíll</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120020">
+        <item quantity="other">Chromebook tæki</item>
+        <item quantity="one">Chromebook tæki</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120021">
+        <item quantity="other">samanbrjótanlegum tækjum</item>
+        <item quantity="one">samanbrjótanlegum tækjum</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120022">
+        <item quantity="other">símar</item>
+        <item quantity="one">sími</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120023">
+        <item quantity="other">spjaldtölvur</item>
+        <item quantity="one">spjaldtölva</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120024">
+        <item quantity="other">Sjónvörp</item>
+        <item quantity="one">Sjónvarp</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120025">
+        <item quantity="other">tækjunum</item>
+        <item quantity="one">tækjunum</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120026">
+        <item quantity="other">úr</item>
+        <item quantity="one">úr</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120027">
+        <item quantity="other">%1$d Play punktar í boði.</item>
+        <item quantity="one">%1$d Play punktur í boði.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120028">
+        <item quantity="other">%1$d klukkustundir</item>
+        <item quantity="one">%1$d klukkustund</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120029">
+        <item quantity="other">%1$d klst. eftir</item>
+        <item quantity="one">%1$d klst. eftir</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002a">
+        <item quantity="other">Verið er að setja upp %1$d forrit…</item>
+        <item quantity="one">Verið er að setja upp %1$d forrit…</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002b">
+        <item quantity="other">Hlé gert á uppsetningu</item>
+        <item quantity="one">Hlé gert á uppsetningu</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002c">
+        <item quantity="other">%1$d forrit verða sett upp</item>
+        <item quantity="one">%1$d forrit verður sett upp</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002d">
+        <item quantity="other">Síðast uppfært fyrir %d dögum</item>
+        <item quantity="one">Síðast uppfært fyrir %d degi</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002e">
+        <item quantity="other">Síðast uppfært fyrir %d klukkustundum</item>
+        <item quantity="one">Síðast uppfært fyrir %d klukkustund</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002f">
+        <item quantity="other">Síðast uppfært fyrir %d mínútum</item>
+        <item quantity="one">Síðast uppfært fyrir %d mínútu</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120033">
+        <item quantity="other">Fyrir %1$d árum</item>
+        <item quantity="one">Fyrir %1$d ári</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120034">
+        <item quantity="other">%1$d mínútur</item>
+        <item quantity="one">%1$d mínútu</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120035">
+        <item quantity="other">%1$d mínútur eftir</item>
+        <item quantity="one">%1$d mínúta eftir</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120037">
+        <item quantity="other">%1$d valin</item>
+        <item quantity="one">%1$d valið</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120038">
+        <item quantity="other">Setur %1$d forrit í geymslu</item>
+        <item quantity="one">Setur %1$d forrit í geymslu</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120039">
+        <item quantity="other">Fjarlægja valin forrit?</item>
+        <item quantity="one">Fjarlægja valin forrit?</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12003a">
+        <item quantity="other">%1$d forrit fjarlægð</item>
+        <item quantity="one">%1$d forrit fjarlægt</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12003d">
+        <item quantity="other">%1$d uppsetningar í bið</item>
+        <item quantity="one">%1$d uppsetning í bið</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12003e">
+        <item quantity="other">%1$d uppsetningar í gangi</item>
+        <item quantity="one">%1$d uppsetning í gangi</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120040">
+        <item quantity="other">%1$d uppfærslur í bið</item>
+        <item quantity="one">%1$d uppfærsla í bið</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120041">
+        <item quantity="other">%1$d uppfærslur í gangi</item>
+        <item quantity="one">%1$d uppfærsla í gangi</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120042">
+        <item quantity="other">%1$d forrit uppsett</item>
+        <item quantity="one">%1$d forrit uppsett</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120044">
+        <item quantity="other">Kom út fyrir %1$d klukkustundum</item>
+        <item quantity="one">Kom út fyrir %1$d klukkustund</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120045">
+        <item quantity="other">Kom út fyrir %1$d dögum</item>
+        <item quantity="one">Kom út fyrir %1$d degi</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120046">
+        <item quantity="other">Forrit fjarlægð</item>
+        <item quantity="one">Forrit fjarlægð</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120047">
+        <item quantity="other">%1$d uppfærslur þarfnast samþykkis</item>
+        <item quantity="one">%1$d uppfærsla þarfnast samþykkis</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120048">
+        <item quantity="other">%1$d nýjar uppfærslur</item>
+        <item quantity="one">%1$d ný uppfærsla</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120049">
+        <item quantity="other">%1$d uppfærslur í boði</item>
+        <item quantity="one">%1$d uppfærsla í boði</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004a">
+        <item quantity="other">Uppfæra allt</item>
+        <item quantity="one">Uppfæra allt</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004b">
+        <item quantity="other">%1$d forrit uppfærð</item>
+        <item quantity="one">%1$d forrit uppfært</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004c">
+        <item quantity="other">Rennur út eftir %1$d klukkustundir</item>
+        <item quantity="one">Rennur út eftir %1$d klukkustund</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004d">
+        <item quantity="other">Rennur út eftir %1$d daga</item>
+        <item quantity="one">Rennur út eftir %1$d dag</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004e">
+        <item quantity="other">%1$d mín.</item>
+        <item quantity="one">%1$d mín.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004f">
+        <item quantity="other">%1$d sek.</item>
+        <item quantity="one">%1$d sek.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120050">
+        <item quantity="other">Forrit til einkanota fjarlægð</item>
+        <item quantity="one">Forrit til einkanota fjarlægð</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120053">
+        <item quantity="other">Play Protect leitaði fyrir %d dögum</item>
+        <item quantity="one">Play Protect leitaði fyrir %d degi</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120054">
+        <item quantity="other">Play Protect leitaði fyrir %d klukkustundum</item>
+        <item quantity="one">Play Protect leitaði fyrir %d klukkustund</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120055">
+        <item quantity="other">Play Protect leitaði fyrir %d mínútum</item>
+        <item quantity="one">Play Protect leitaði fyrir %d mínútu</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120056">
+        <item quantity="other">%1$s punktar til að halda %2$s næsta árið</item>
+        <item quantity="one">%1$s punktur til að halda %2$s næsta árið</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120057">
+        <item quantity="other">%1$s punktar upp í %2$s</item>
+        <item quantity="one">%1$s punktur upp í %2$s</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120058">
+        <item quantity="other">Þú hefur veitt þessum forritum heimild til að setja upp eða uppfæra óþekkt forrit, sem kann að setja tækið þitt og persónuupplýsingar í hættu. Hafnaðu heimild til að koma í veg fyrir að þau séu sett upp.</item>
+        <item quantity="one">Þú hefur veitt þessum forritum heimild til að setja upp eða uppfæra óþekkt forrit, sem kann að setja tækið þitt og persónuupplýsingar í hættu. Hafnaðu heimild til að koma í veg fyrir að þau séu sett upp.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120059">
+        <item quantity="other">Þú hefur veitt %1$d forritum heimild til að setja upp eða uppfæra óþekkt forrit, sem kann að setja tækið þitt og persónuupplýsingar í hættu</item>
+        <item quantity="one">Þú hefur veitt %1$d forriti heimild til að setja upp eða uppfæra óþekkt forrit, sem kann að setja tækið þitt og persónuupplýsingar í hættu</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005a">
+        <item quantity="other">%1$d viðvaranir vegna persónuverndar</item>
+        <item quantity="one">%1$d viðvörun vegna persónuverndar</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005b">
+        <item quantity="other">%1$d skaðleg forrit fundust</item>
+        <item quantity="one">%1$d skaðlegt forrit fannst</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005c">
+        <item quantity="other">%1$d öryggistilkynningar</item>
+        <item quantity="one">%1$d öryggistilkynning</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005d">
+        <item quantity="other">%1$d öryggisuppfærslur</item>
+        <item quantity="one">%1$d öryggisuppfærsla</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005e">
+        <item quantity="other">%1$d ótraust forrit fundust</item>
+        <item quantity="one">%1$d ótraust forrit fannst</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005f">
+        <item quantity="other">%1$d viðvaranir</item>
+        <item quantity="one">%1$d viðvörun</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120060">
+        <item quantity="other">Ótraust forrit fundust</item>
+        <item quantity="one">Ótraust forrit fundust</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120061">
+        <item quantity="other">Lýkur eftir %1$d klukkustundir</item>
+        <item quantity="one">Lýkur eftir %1$d klukkustund</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120062">
+        <item quantity="other">Lýkur eftir %1$d daga</item>
+        <item quantity="one">Lýkur eftir %1$d dag</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120063">
+        <item quantity="other">%1$d skrefum lokið af %2$d</item>
+        <item quantity="one">%1$d skrefi lokið af %2$d</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120064">
+        <item quantity="other">Hægt er að setja upp %1$d forrit</item>
+        <item quantity="one">Hægt er að setja upp %1$d forrit</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120065">
+        <item quantity="other">%1$s mun senda þér %2$d forrit. Gættu þess að pörunarkóðarnir passi saman.</item>
+        <item quantity="one">%1$s mun senda þér %2$d forrit. Gættu þess að pörunarkóðarnir passi saman.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120066">
+        <item quantity="other">Móttekur %1$d forrit frá „%2$s“…</item>
+        <item quantity="one">Móttekur %1$d forrit frá „%2$s“…</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006a">
+        <item quantity="other">%1$d notendum fannst þessi umsögn gagnleg. Merkja ummæli sem gagnleg</item>
+        <item quantity="one">%1$d notanda fannst þessi umsögn gagnleg. Merkja ummæli sem gagnleg</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006b">
+        <item quantity="other">%1$d notendum fannst þessi umsögn gagnleg. Merkja ummæli sem ógagnleg</item>
+        <item quantity="one">%1$d notanda fannst þessi umsögn gagnleg. Merkja ummæli sem ógagnleg</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006c">
+        <item quantity="other">%1$s einstaklingum fannst þetta gagnlegt</item>
+        <item quantity="one">%1$s einstaklingi fannst þetta gagnlegt</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006f">
+        <item quantity="other">%1$d sekúndur</item>
+        <item quantity="one">%1$d sekúndu</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120070">
+        <item quantity="other">%1$d sekúndur eftir</item>
+        <item quantity="one">%1$d sekúnda eftir</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120071">
+        <item quantity="other">%1$d valin • %2$s</item>
+        <item quantity="one">%1$d valið • %2$s</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120072">
+        <item quantity="other">Sendir %1$d forrit í „%2$s“…</item>
+        <item quantity="one">Sendir %1$d forrit í „%2$s“…</item>
+    </plurals>
+    <plurals name="setup_completed_installed">
+        <item quantity="other">%1$d forrit uppsett</item>
+        <item quantity="one">%1$d forrit uppsett</item>
+    </plurals>
+    <plurals name="setup_completed_installed_with_failures">
+        <item quantity="other">Ekki tókst að setja upp %1$d af %2$d forritum</item>
+        <item quantity="one">Ekki tókst að setja upp %1$d af %2$d forriti</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120075">
+        <item quantity="other">Síðast notað fyrir %1$d dögum</item>
+        <item quantity="one">Síðast notað fyrir %1$d degi</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120076">
+        <item quantity="other">Endurheimta %1$d valin forrit</item>
+        <item quantity="one">Endurheimta %1$d valið forrit</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120078">
+        <item quantity="other">Sækja %1$d ný tungumál?</item>
+        <item quantity="one">Sækja %1$d nýtt tungumál?</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007b">
+        <item quantity="other">%1$d svör við könnun verða fjarlægð af reikningnum þínum fyrir fullt og allt.</item>
+        <item quantity="one">%1$d svar við könnun verður fjarlægt af reikningnum þínum fyrir fullt og allt.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007c">
+        <item quantity="other">%1$d valin</item>
+        <item quantity="one">%1$d valið</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007d">
+        <item quantity="other">Sýna Play punkta. %1$d punktar í boði.</item>
+        <item quantity="one">Sýna Play punkta. %1$d punktur í boði.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007e">
+        <item quantity="other">%1$d Play punktar í boði.</item>
+        <item quantity="one">%1$d Play punktur í boði.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120080">
+        <item quantity="other">%1$s punktar</item>
+        <item quantity="one">%1$s punktur</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120081">
+        <item quantity="other">Flytur %1$d forrit með „%2$s“…</item>
+        <item quantity="one">Flytur %1$d forrit með „%2$s“…</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120082">
+        <item quantity="other">%1$d forrit verða fjarlægð úr tækinu</item>
+        <item quantity="one">%1$d forrit verður fjarlægt úr tækinu.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120083">
+        <item quantity="other">Fjarlægja valin forrit?</item>
+        <item quantity="one">Fjarlægja valin forrit?</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120084">
+        <item quantity="other">Fjarlægja uppfærslur fyrir valin forrit?</item>
+        <item quantity="one">Fjarlægja uppfærslur fyrir valin forrit?</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120085">
+        <item quantity="other">%1$s forrit fjarlægð, sem gefur nóg pláss fyrir %2$s.</item>
+        <item quantity="one">%1$s forrit fjarlægt, sem gefur nóg pláss fyrir %2$s.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120086">
+        <item quantity="other">Forrit verða sett upp innan skamms.</item>
+        <item quantity="one">Forrit verða sett upp innan skamms.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120087">
+        <item quantity="other">Forritsuppfærslur verða settar upp innan skamms.</item>
+        <item quantity="one">Forritsuppfærslur verða settar upp innan skamms.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008a">
+        <item quantity="other">Síðast notað fyrir %1$d dögum</item>
+        <item quantity="one">Síðast notað fyrir %1$d degi</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008b">
+        <item quantity="other">Síðast notað fyrir %1$d mánuðum</item>
+        <item quantity="one">Síðast notað fyrir %1$d mánuði</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008c">
+        <item quantity="other">Til að setja upp forrit eða uppfærslur í þessu tæki skaltu fjarlægja forrit sem þú þarft ekki lengur á að halda. Þú getur einnig losað um pláss með því að eyða margmiðlunarskrám í geymslustillingum.</item>
+        <item quantity="one">Til að setja upp forrit eða uppfærslur í þessu tæki skaltu fjarlægja forrit sem þú þarft ekki lengur á að halda. Þú getur einnig losað um pláss með því að eyða margmiðlunarskrám í geymslustillingum.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008d">
+        <item quantity="other">Til að setja upp forrit eða uppfærslur í þessu tæki skaltu fjarlægja forrit sem þú þarft ekki lengur á að halda. Þú getur einnig losað um pláss með því að eyða margmiðlunarskrám undir &lt;a href=\"\">Stillingar > Geymsla&lt;/a>.</item>
+        <item quantity="one">Til að setja upp forrit eða uppfærslur í þessu tæki skaltu fjarlægja forrit sem þú þarft ekki lengur á að halda. Þú getur einnig losað um pláss með því að eyða margmiðlunarskrám undir &lt;a href=\"\">Stillingar > Geymsla&lt;/a>.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008e">
+        <item quantity="other">Til að setja upp forrit eða uppfærslur í þessu tæki skaltu fjarlægja forrit sem þú þarft ekki lengur á að halda. Þú getur einnig losað um pláss með því að eyða margmiðlunarskrám undir Stillingar > Geymsla.</item>
+        <item quantity="one">Til að setja upp forrit eða uppfærslur í þessu tæki skaltu fjarlægja forrit sem þú þarft ekki lengur á að halda. Þú getur einnig losað um pláss með því að eyða margmiðlunarskrám undir Stillingar > Geymsla.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008f">
+        <item quantity="other">%1$d forrit fjarlægð</item>
+        <item quantity="one">%1$d forrit fjarlægt</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120090">
+        <item quantity="other">Við fundum %1$d forrit sem þú hefur ekki notað í dágóðan tíma. Ef þau eru fjarlægð losnar um %2$d MB geymslurými</item>
+        <item quantity="one">Við fundum %1$d forrit sem þú hefur ekki notað í dágóðan tíma. Ef þau eru fjarlægð losnar um %2$d MB geymslurými</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120091">
+        <item quantity="other">Hefst eftir %1$d klukkustundir</item>
+        <item quantity="one">Hefst eftir %1$d klukkustund</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120092">
+        <item quantity="other">Hefst eftir %1$d daga</item>
+        <item quantity="one">Hefst eftir %1$d dag</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120093">
+        <item quantity="other">Í boði eftir %1$d klukkustundir</item>
+        <item quantity="one">Í boði eftir %1$d klukkustund</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120094">
+        <item quantity="other">Í boði eftir %1$d daga</item>
+        <item quantity="one">Í boði eftir %1$d dag</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120095">
+        <item quantity="other">Kerfisuppfærsla hefur ekki verið gerð í tækinu í meira en %1$d mánuði</item>
+        <item quantity="one">Kerfisuppfærsla hefur ekki verið gerð í tækinu í meira en %1$d mánuð</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120096">
+        <item quantity="other">Vinnuforrit fjarlægð</item>
+        <item quantity="one">Vinnuforrit fjarlægð</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120097">
+        <item quantity="other">Fyrir %1$d árum</item>
+        <item quantity="one">Fyrir %1$d ári</item>
+    </plurals>
+</resources>

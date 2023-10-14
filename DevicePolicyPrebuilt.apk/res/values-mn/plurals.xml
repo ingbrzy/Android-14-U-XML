@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_install_failed_multi_app_desc">
+        <item quantity="other">Шаардлагатай %1$d аппыг суулгаж чадаагүй тул тохируулгыг дуусгах боломжгүй байна. Системийнхээ админтай шууд холбогдоно уу.</item>
+        <item quantity="one">Шаардлагатай %1$d аппыг суулгаж чадаагүй тул тохируулгыг дуусгах боломжгүй байна. Системийнхээ админтай шууд холбогдоно уу.</item>
+    </plurals>
+    <plurals name="app_install_failure_title">
+        <item quantity="other">Аппуудыг суулгах боломжгүй байна</item>
+        <item quantity="one">Аппыг суулгах боломжгүй байна</item>
+    </plurals>
+    <plurals name="app_install_progress_desc">
+        <item quantity="other">%1$d-н %2$d аппыг суулгасан</item>
+        <item quantity="one">%2$d-н %1$d аппыг суулгасан</item>
+    </plurals>
+    <plurals name="app_uninstall_button">
+        <item quantity="other">Аппууд устгах</item>
+        <item quantity="one">Апп устгах</item>
+    </plurals>
+    <plurals name="days_left_message">
+        <item quantity="other">&lt;annotation id="numeric_time_left">^1&lt;/annotation> хоног үлдсэн</item>
+        <item quantity="one">&lt;annotation id="numeric_time_left">^1&lt;/annotation> хоног үлдсэн</item>
+    </plurals>
+    <plurals name="hours_left_message">
+        <item quantity="other">&lt;annotation id="numeric_time_left">^1&lt;/annotation> цаг үлдсэн</item>
+        <item quantity="one">&lt;annotation id="numeric_time_left">^1&lt;/annotation> цаг үлдсэн</item>
+    </plurals>
+    <plurals name="number_of_additional_apps">
+        <item quantity="other">Нэмэлт аппууд %1$d</item>
+        <item quantity="one">Нэмэлт апп %1$d</item>
+    </plurals>
+    <plurals name="number_of_required_apps">
+        <item quantity="other">Шаардлагатай аппууд %1$d</item>
+        <item quantity="one">Шаардлагатай апп %1$d</item>
+    </plurals>
+    <plurals name="policy_apps_list_summary">
+        <item quantity="other">%d ажлын аппыг устгах боломжгүй</item>
+        <item quantity="one">%d ажлын аппыг устгах боломжгүй</item>
+    </plurals>
+    <plurals name="preinstalled_apps">
+        <item quantity="other">%1$d-н %2$d аппыг суулгасан</item>
+        <item quantity="one">%2$d-н %1$d аппыг суулгасан</item>
+    </plurals>
+    <plurals name="readable_name_applications">
+        <item quantity="other">%1$d апп боломжтой (%2$d-г суулгасан, %3$d-г идэвхгүй болгосон)</item>
+        <item quantity="one">%1$d апп боломжтой (%2$d-г суулгасан, %3$d-г идэвхгүй болгосон)</item>
+    </plurals>
+</resources>

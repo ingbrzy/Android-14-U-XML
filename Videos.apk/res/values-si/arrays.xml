@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="audio_language_selector_titles">
+        <item>වීඩියෝවේ මුල් භාෂාව</item>
+        <item>%1$s, ලද හැකි විට</item>
+    </string-array>
+</resources>

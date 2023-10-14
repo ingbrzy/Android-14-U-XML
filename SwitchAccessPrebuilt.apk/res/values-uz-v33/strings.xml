@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="switch_access_htmlDescription">Elementlarni tanlash, varaqlash, matn kiritish va boshqa amallarni tashqi pult orqali bajarish mumkin.</string>
+    <string name="switch_access_intro">Sensorli ekrandan foydalanish qiyin boʻlsa, maxsus kalitlar Android qurilmangizni boshqarishni osonlashtiradi. Ular katta tugma kabi tashqi qurilmalar yoki klaviatura kabi qurilmadagi tugmalar boʻlishi mumkin.</string>
+</resources>

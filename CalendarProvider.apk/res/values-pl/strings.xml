@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="calendar_default_name">Domyślny</string>
+    <string name="calendar_info">Informacje o kalendarzu</string>
+    <string name="calendar_info_error">Błąd</string>
+    <string name="calendar_info_events">Wydarzenia: %1$d</string>
+    <string name="calendar_info_events_dirty">Wydarzenia: %1$d, niezapisane: %2$d</string>
+    <string name="calendar_info_no_calendars">Brak kalendarzy</string>
+    <string name="calendar_storage">Pamięć kalendarza</string>
+    <string name="debug_tool_delete_button">Usuń teraz</string>
+    <string name="debug_tool_email_body">Załączam bazę danych kalendarza zawierającą informacje o wszystkich moich spotkaniach oraz moje dane osobowe. Proszę o zachowanie ostrożności.</string>
+    <string name="debug_tool_email_sender_picker">Wybierz program do wysłania pliku</string>
+    <string name="debug_tool_email_subject">Załączono bazę danych Kalendarza</string>
+    <string name="debug_tool_message">Zamierzasz: 1) skopiować bazę danych kalendarza na kartę SD lub nośnik USB, gdzie będzie dostępna dla wszystkich aplikacji, a następnie 2) wysłać ją e-mailem. Pamiętaj o usunięciu kopii po umieszczeniu jej na nośniku lub gdy dowiesz się, że e-mail został odebrany.</string>
+    <string name="debug_tool_start_button">Rozpocznij</string>
+    <string name="provider_label">Kalendarz</string>
+</resources>

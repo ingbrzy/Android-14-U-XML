@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_error_bad_calibration">ফিংগাৰপ্ৰিণ্ট ছেন্সৰ ব্যৱহাৰ কৰিব নোৱাৰি। মেৰামতি সেৱা প্ৰদানকাৰী কোনো প্ৰতিষ্ঠান অথবা g.co/pixel/fingerprintunlockলৈ যাওক</string>
+    <string name="fingerprint_recalibrate_notification_content">মেৰামতি সেৱা প্ৰদানকাৰী কোনো প্ৰতিষ্ঠান অথবা g.co/pixel/fingerprintunlockলৈ যাওক</string>
+    <string name="battery_saver_description_with_learn_more">"বেটাৰীৰ জীৱনকাল বৃদ্ধি কৰিবলৈ বেটাৰী সঞ্চয়কাৰীয়ে:
+
+• গাঢ় ৰঙৰ থীম অন কৰে
+• নেপথ্যৰ কাৰ্যকলাপ, কিছুমান ভিজুৱেল ইফেক্ট আৰু “Hey Google”ৰ দৰে অন্য সুবিধাসমূহ অফ কৰে অথবা সেইবোৰ সীমাবদ্ধ কৰে
+• আপোনাৰ নেটৱৰ্কৰ সংযোগ অপ্টিমাইজ কৰে
+
+"<annotation id="url">অধিক জানক</annotation></string>
+</resources>

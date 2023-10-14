@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sound_amplifier_html_description">Skaņas pastiprinātājs padara vājas skaņas skaļākas, nepadarot spēcīgas skaņas pārāk skaļas.&lt;br/>&lt;br/> &lt;b>Skaņas pastiprinātāja lietošana&lt;/b>&lt;br/> 1. Pievienojiet vadu austiņas vai Bluetooth austiņas.&lt;br/> 2. Palaidiet Skaņas pastiprinātāju.</string>
+    <string name="sound_amplifier_intro">Izmantojiet Skaņas pastiprinātāju ar austiņām, lai uzlabotu skaņas kvalitāti apkārtējā vidē un savā ierīcē.</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="select_logpersist_summaries">
+        <item>Исклучено</item>
+        <item>Сите евиденциски меѓумемории</item>
+        <item>Привремена мем. на цела евиденција освен за радио</item>
+        <item>само привремена меморија за евиденција на јадро</item>
+    </string-array>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120000">
+        <item quantity="other">Přiřazeno %d kláves</item>
+        <item quantity="one">Přiřazena %d klávesa</item>
+        <item quantity="few">Přiřazeny %d klávesy</item>
+        <item quantity="many">Přiřazeno %d klávesy</item>
+    </plurals>
+</resources>

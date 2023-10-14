@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dialogové okno aplikace SIM karty</string>
+    <string name="call_notification_answer_action">Přijmout</string>
+    <string name="call_notification_answer_video_action">Video</string>
+    <string name="call_notification_decline_action">Odmítnout</string>
+    <string name="call_notification_hang_up_action">Zavěsit</string>
+    <string name="call_notification_incoming_text">Příchozí hovor</string>
+    <string name="call_notification_ongoing_text">Probíhající hovor</string>
+    <string name="call_notification_screening_text">Prověřování příchozího hovoru</string>
+    <string name="install_carrier_app_defer_action">Teď ne</string>
+    <string name="install_carrier_app_description">Aby vaše nová SIM karta fungovala správně, je třeba nainstalovat aplikaci %1$s</string>
+    <string name="install_carrier_app_description_default">Aby vaše nová SIM karta fungovala správně, je třeba nainstalovat aplikaci operátora</string>
+    <string name="install_carrier_app_download_action">Stáhnout aplikaci</string>
+    <string name="install_carrier_app_title">Aktivovat mobilní službu</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="suw_back_button_label">Zpět</string>
+    <string name="suw_more_button_label">Další</string>
+    <string name="suw_next_button_label">Další</string>
+</resources>

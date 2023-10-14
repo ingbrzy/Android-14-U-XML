@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="azure_title">Araukaaria-sininäär</string>
+    <string name="blackswan_title">Mustluik</string>
+    <string name="cockatoo_title">Kakaduu</string>
+    <string name="come_alive_title">Ärkab ellu</string>
+    <string name="feathers_attribution">Foto autor: Andrew Zuckerman</string>
+    <string name="feathers_description">Värvide ja detailide mäng sulgedel</string>
+    <string name="feathers_title">Suled</string>
+    <string name="greenwinged_title">Rohetiib-aara</string>
+    <string name="king_title">Kuningkondor</string>
+    <string name="living_universe_title">Elav universum</string>
+    <string name="photos_memory_gallery_title">Teie mälestused</string>
+    <string name="pied_title">Pugalronk</string>
+    <string name="ringnecked_title">Kaeluspapagoi</string>
+    <string name="seagull_title">Kajakas</string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_bar_label">Logg på mobilnettverk</string>
+    <string name="android_system_label">Mobiloperatør</string>
+    <string name="app_name">Operatørkommunikasjon</string>
+    <string name="mobile_data_status_notification_channel_name">Status for mobildata</string>
+    <string name="no_data_notification_detail">Ta kontakt med tjenesteleverandøren din, %s</string>
+    <string name="no_data_notification_id">Mobildata er deaktivert</string>
+    <string name="no_mobile_data_connection">Legg til data- eller roamingabonnement via %s</string>
+    <string name="no_mobile_data_connection_title">Ingen mobildatatilkobling</string>
+    <string name="performance_boost_notification_button_manage">Administrer</string>
+    <string name="performance_boost_notification_button_not_now">Ikke nå</string>
+    <string name="performance_boost_notification_channel">Bedre ytelse</string>
+    <string name="performance_boost_notification_detail">Gå til nettstedet til %s for å se alternativer for opplevelsen i appen</string>
+    <string name="performance_boost_notification_title">5G-alternativer fra operatøren</string>
+    <string name="portal_notification_detail">Trykk for å besøke %s-nettstedet</string>
+    <string name="portal_notification_id">Du er tom for mobildata</string>
+    <string name="slice_purchase_app_label">Kjøp bedre ytelse.</string>
+    <string name="ssl_error_continue">Fortsett likevel via nettleseren</string>
+    <string name="ssl_error_example">Det er for eksempel mulig at påloggingssiden ikke tilhører organisasjonen som vises.</string>
+    <string name="ssl_error_warning">Nettverket du prøver å logge på, har sikkerhetsproblemer.</string>
+</resources>

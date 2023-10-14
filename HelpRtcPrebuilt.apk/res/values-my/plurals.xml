@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="gh_yt_video_num_views">
+        <item quantity="other">ကြည့်ရှုမှု %1$s ခု</item>
+        <item quantity="one">ကြည့်ရှုမှု 1 ခု</item>
+    </plurals>
+</resources>

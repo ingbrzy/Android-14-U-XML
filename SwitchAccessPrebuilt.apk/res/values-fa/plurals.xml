@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dots">
+        <item quantity="other">نقاط %s</item>
+        <item quantity="one">نقطه %s</item>
+    </plurals>
+    <plurals name="gestures_recorded_message">
+        <item quantity="other">%d اشاره ضبط شد</item>
+        <item quantity="one">%d اشاره ضبط شد</item>
+    </plurals>
+    <plurals name="label_num_keys_assigned_format">
+        <item quantity="other">%d کلید اختصاص داده شده است</item>
+        <item quantity="one">%d کلید اختصاص داده شده است</item>
+    </plurals>
+    <plurals name="label_num_scanning_loops_format">
+        <item quantity="other">%d حلقه</item>
+        <item quantity="one">%d حلقه</item>
+    </plurals>
+    <plurals name="line_speed_summary_format">
+        <item quantity="other">%.2f سانتی‌متر در ثانیه</item>
+        <item quantity="one">%.2f سانتی‌متر در ثانیه</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d اعلان جدید</item>
+        <item quantity="one">%d اعلان جدید</item>
+    </plurals>
+    <plurals name="time_delay_summary_format">
+        <item quantity="other">%.2f ثانیه</item>
+        <item quantity="one">%.2f ثانیه</item>
+    </plurals>
+</resources>

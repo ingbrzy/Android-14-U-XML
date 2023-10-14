@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="other">Pre %d dana</item>
+        <item quantity="one">Pre %d dan</item>
+        <item quantity="few">Pre %d dana</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="other">Pre %d min</item>
+        <item quantity="one">Pre %d min</item>
+        <item quantity="few">Pre %d min</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="other">Pre %d god</item>
+        <item quantity="one">Pre %d god</item>
+        <item quantity="few">Pre %d god</item>
+    </plurals>
+    <plurals name="accessibility_other_devices">
+        <item quantity="other">%d drugih uređaja</item>
+        <item quantity="one">%d drugi uređaj</item>
+        <item quantity="few">%d druga uređaja</item>
+    </plurals>
+    <plurals name="routines_settings_summary">
+        <item quantity="other">%d pravila</item>
+        <item quantity="one">%d pravilo</item>
+        <item quantity="few">%d pravila</item>
+    </plurals>
+</resources>

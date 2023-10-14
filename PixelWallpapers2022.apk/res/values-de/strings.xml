@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="azure_title">Azurblaurabe</string>
+    <string name="blackswan_title">Trauerschwan</string>
+    <string name="cockatoo_title">Kakadu</string>
+    <string name="come_alive_title">Lebendige Hintergründe</string>
+    <string name="feathers_attribution">Foto von Andrew Zuckerman</string>
+    <string name="feathers_description">Bunte Vögel voller interessanter Details</string>
+    <string name="feathers_title">Federn</string>
+    <string name="greenwinged_title">Grünflügelara</string>
+    <string name="king_title">Königsgeier</string>
+    <string name="living_universe_title">Lebendiges Universum</string>
+    <string name="photos_memory_gallery_title">Deine Erinnerungen</string>
+    <string name="pied_title">Schildrabe</string>
+    <string name="ringnecked_title">Halsbandsittich</string>
+    <string name="seagull_title">Möwe</string>
+</resources>

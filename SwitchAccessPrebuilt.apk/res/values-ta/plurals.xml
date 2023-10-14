@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dots">
+        <item quantity="other">%s புள்ளிகள்</item>
+        <item quantity="one">%s புள்ளி</item>
+    </plurals>
+    <plurals name="gestures_recorded_message">
+        <item quantity="other">%d சைகைகள் ரெக்கார்டு செய்யப்பட்டன</item>
+        <item quantity="one">1 சைகை ரெக்கார்டு செய்யப்பட்டது</item>
+    </plurals>
+    <plurals name="label_num_keys_assigned_format">
+        <item quantity="other">%d ஸ்விட்ச்சுகள் ஒதுக்கப்பட்டுள்ளன</item>
+        <item quantity="one">%d ஸ்விட்ச் ஒதுக்கப்பட்டுள்ளது</item>
+    </plurals>
+    <plurals name="label_num_scanning_loops_format">
+        <item quantity="other">%d முறை</item>
+        <item quantity="one">%d முறை</item>
+    </plurals>
+    <plurals name="line_speed_summary_format">
+        <item quantity="other">வினாடிக்கு %.2f செமீ</item>
+        <item quantity="one">வினாடிக்கு 1 செமீ</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d புதிய அறிவிப்புகள்</item>
+        <item quantity="one">%d புதிய அறிவிப்பு</item>
+    </plurals>
+    <plurals name="time_delay_summary_format">
+        <item quantity="other">%.2f வினாடிகள்</item>
+        <item quantity="one">1 வினாடி</item>
+    </plurals>
+</resources>

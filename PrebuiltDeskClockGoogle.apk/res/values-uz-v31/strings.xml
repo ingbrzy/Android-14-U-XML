@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="analog_gadget">Analog</string>
+    <string name="digital_gadget">Raqamli</string>
+    <string name="analog_widget_clover_clock_name">Beda</string>
+    <string name="analog_widget_clover_content_description">Beda shaklli soat yuzi</string>
+    <string name="analog_widget_config_activity_title">Soat yuzini tanlang</string>
+    <string name="analog_widget_day_clock_name">Kun</string>
+    <string name="analog_widget_day_content_description">Oy kuni tasvirlangan soat yuzi</string>
+    <string name="analog_widget_numeral_clock_name">Raqam</string>
+    <string name="analog_widget_numeral_content_description">Katta raqamli soat yuzi</string>
+    <string name="analog_widget_scallop_clock_name">Chigʻanoq</string>
+    <string name="analog_widget_scallop_content_description">Hafta va oy kuni tasvirlangan soat yuzi</string>
+    <string name="cities_widget_config_activity_subtitle">Shaharlarni Soat varagʻidan kiritish mumkin</string>
+    <string name="cities_widget_config_activity_subtitle_button">Soat ilovasida shaharlarni tanlang</string>
+    <string name="cities_widget_preview_city_london">London</string>
+    <string name="cities_widget_preview_city_mountain_view">Mauntin-Vyu</string>
+    <string name="clock_widget_opaque_label">Yaxlit rang</string>
+    <string name="clock_widget_transparent_label">Shaffof</string>
+    <string name="digital_appwidget_config_activity_title">Soat stilini tanlang</string>
+    <string name="digital_cities_gadget">Dunyo</string>
+    <string name="digital_cities_gadget_description">Soat ilovasida shaharlarni tanlang</string>
+    <string name="digital_stacked_gadget">Yigʻma</string>
+    <string name="digital_widgets_preview_alarm">Dush 09:30</string>
+    <string name="stopwatch_gadget_description">Sekundomerni Soat ilovasida boshqaring</string>
+</resources>

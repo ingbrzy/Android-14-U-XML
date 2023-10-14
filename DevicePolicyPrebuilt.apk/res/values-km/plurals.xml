@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_install_failed_multi_app_desc">
+        <item quantity="other">មិនអាច​បញ្ចប់​ការរៀបចំ​បានទេ ដោយសារតែ​មិនអាច​ដំឡើង​កម្មវិធី​ដែលចាំបាច់​ចំនួន %1$d បាន។ សូម​ទាក់ទង​អ្នកគ្រប់គ្រងប្រព័ន្ធ​របស់អ្នក​ដោយផ្ទាល់។</item>
+        <item quantity="one">មិនអាច​បញ្ចប់​ការរៀបចំ​បានទេ ដោយសារតែ​មិនអាច​ដំឡើង​កម្មវិធី​ដែលចាំបាច់​ចំនួន %1$d បាន។ សូម​ទាក់ទង​អ្នកគ្រប់គ្រងប្រព័ន្ធ​របស់អ្នក​ដោយផ្ទាល់។</item>
+    </plurals>
+    <plurals name="app_install_failure_title">
+        <item quantity="other">មិនអាច​ដំឡើង​កម្មវិធី​បានទេ</item>
+        <item quantity="one">មិនអាច​ដំឡើង​កម្មវិធី​បានទេ</item>
+    </plurals>
+    <plurals name="app_install_progress_desc">
+        <item quantity="other">បាន​ដំឡើង​កម្មវិធី %1$d ក្នុង​ចំណោម %2$d</item>
+        <item quantity="one">បានដំឡើង​កម្មវិធី %1$d ក្នុងចំណោម %2$d</item>
+    </plurals>
+    <plurals name="app_uninstall_button">
+        <item quantity="other">លុប​កម្មវិធី</item>
+        <item quantity="one">លុប​កម្មវិធី</item>
+    </plurals>
+    <plurals name="days_left_message">
+        <item quantity="other">នៅសល់ &lt;annotation id="numeric_time_left">^1&lt;/annotation> ថ្ងៃទៀត</item>
+        <item quantity="one">នៅសល់ &lt;annotation id="numeric_time_left">^1&lt;/annotation> ថ្ងៃទៀត</item>
+    </plurals>
+    <plurals name="hours_left_message">
+        <item quantity="other">នៅសល់ &lt;annotation id="numeric_time_left">^1&lt;/annotation> ម៉ោងទៀត</item>
+        <item quantity="one">នៅសល់ &lt;annotation id="numeric_time_left">^1&lt;/annotation> ម៉ោងទៀត</item>
+    </plurals>
+    <plurals name="number_of_additional_apps">
+        <item quantity="other">កម្មវិធី​បន្ថែម %1$d</item>
+        <item quantity="one">កម្មវិធី​បន្ថែម %1$d</item>
+    </plurals>
+    <plurals name="number_of_required_apps">
+        <item quantity="other">តម្រូវឱ្យមានកម្មវិធី %1$d</item>
+        <item quantity="one">តម្រូវឱ្យមានកម្មវិធី %1$d</item>
+    </plurals>
+    <plurals name="policy_apps_list_summary">
+        <item quantity="other">%d មិនអាចដំឡើងកម្មវិធីការងារបានទេ</item>
+        <item quantity="one">%d មិនអាចដំឡើងកម្មវិធីការងារបានទេ</item>
+    </plurals>
+    <plurals name="preinstalled_apps">
+        <item quantity="other">បាន​ដំឡើង​កម្មវិធី %1$d ក្នុង​ចំណោម %2$d</item>
+        <item quantity="one">បានដំឡើង​កម្មវិធី %1$d ក្នុងចំណោម %2$d</item>
+    </plurals>
+    <plurals name="readable_name_applications">
+        <item quantity="other">មាន​កម្មវិធី %1$d (បានដំឡើង %2$d បានបិទ %3$d)</item>
+        <item quantity="one">មាន​កម្មវិធី %1$d (បានដំឡើង %2$d បានបិទ %3$d)</item>
+    </plurals>
+</resources>

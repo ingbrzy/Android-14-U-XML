@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="heads_up_location_permission_description">「看路提醒」功能可藉由這項資料判斷你是否人在戶外。在接下來的兩個畫面中，請依序選取 [使用應用程式時] > [一律允許]<b/>。</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="calendar_default_name">ნაგულისხმევი</string>
+    <string name="calendar_info">კალენდრის ინფო</string>
+    <string name="calendar_info_error">შეცდომა</string>
+    <string name="calendar_info_events">ღონისძიებები: %1$d</string>
+    <string name="calendar_info_events_dirty">ღონისძიებები: %1$d, შეუნახავი: %2$d</string>
+    <string name="calendar_info_no_calendars">კალენდრები არ არის</string>
+    <string name="calendar_storage">კალენდრის მეხსიერება</string>
+    <string name="debug_tool_delete_button">ახლავე წაშლა</string>
+    <string name="debug_tool_email_body">თან ერთვის ჩემი კალენდრის მონაცემთა ბაზა ყველა დანიშნული შეხვედრითა და პირადი ინფორმაციით. მოეკიდეთ სიფრთხილით.</string>
+    <string name="debug_tool_email_sender_picker">აირჩიეთ პროგრამა თქვენი ფაილის გასაგზავნად</string>
+    <string name="debug_tool_email_subject">თან ერთვის კალენდრის მონაცემთა ბაზა</string>
+    <string name="debug_tool_message">ცოტა ხანში თქვენ 1) შექმნით კალენდრის მონაცემთა ბაზის ისეთ ასლს SD ბარათზე/USB მეხსიერებაში, რომლის წაკითხვასაც ნებისმიერი აპი შეძლებს და 2) ელფოსტით გაგზავნით მას. გახსოვდეთ, რომ წაშალოთ ასლი, როგორც კი მას წარმატებით დააკოპირებთ მოწყობილობიდან ან როგორც კი ელწერილს მიიღებენ.</string>
+    <string name="debug_tool_start_button">დაწყება</string>
+    <string name="provider_label">კალენდარი</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_feature_in_talkback_title">Эмне жаңылык</string>
+    <string name="notification_message_talkback_gestures_changed">Толук маалымат алуу үчүн TalkBack функциясын ачыңыз</string>
+    <string name="notification_title_talkback_gestures_changed">TalkBack жаңсоолору жаңыртылды</string>
+    <string name="reset_button_in_reset_gesture_settings_confirm_dialog">Ооба</string>
+    <string name="summary_custom_action">Учурдагы объектте ыңгайлаштырылган аракеттер колдоого алынса көрүнөт</string>
+    <string name="talkback_service_description">TalkBack – көзү начар көргөн адамдарга Android түзмөгүн пайдаланууга жардам берген колдонмо. Ал экрандагы нерселерди окуп берип турат.</string>
+    <string name="welcome_to_talkback_text">Экрандагы текстти окуп бергендиктен, саатыңызды экранды карабастан эле колдоносуз</string>
+</resources>

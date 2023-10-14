@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="other">%d күн мурун</item>
+        <item quantity="one">%d күн мурун</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="other">%d мүн. мурун</item>
+        <item quantity="one">%d мүн. мурун</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="other">%d жыл мурун</item>
+        <item quantity="one">%d жыл мурун</item>
+    </plurals>
+    <plurals name="lockscreen_quick_affordances_summary">
+        <item quantity="other">%1$s, %2$s</item>
+        <item quantity="one">%1$s</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d жаңы билдирме</item>
+        <item quantity="one">%d жаңы билдирме</item>
+    </plurals>
+    <plurals name="security_settings_hub_show_warnings_preference">
+        <item quantity="other">Бардык эскертүүлөрдү көрсөтүү (%1$d)</item>
+        <item quantity="one">%1$d эскертүүнү көрсөтүү</item>
+    </plurals>
+    <plurals name="security_settings_hub_warnings_title">
+        <item quantity="other">%1$d эскертүү</item>
+        <item quantity="one">%1$d эскертүү</item>
+    </plurals>
+    <plurals name="special_access_summary">
+        <item quantity="other">%d колдонмо маалыматтарды чектөөсүз өткөрө алат</item>
+        <item quantity="one">1 колдонмо маалыматтарды чектөөсүз өткөрө алат</item>
+    </plurals>
+</resources>

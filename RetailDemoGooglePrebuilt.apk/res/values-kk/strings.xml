@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_retaildemoCommunication">Қолданбаға Retail Demo қызметтерімен әрекеттесуіне мүмкіндік береді. Бұл рұқсат тек Retail Demo қолданбасына берілуі керек. Рұқсаты бар қолданбалар Retail Demo режимінде қолдануға арналған әрекеттерді орындай алады.</string>
+    <string name="permlab_retaildemoCommunication">Retail Demo арқылы байланыс</string>
+    <string name="retaildemo_preload_app_name">Retail Demo Services</string>
+</resources>

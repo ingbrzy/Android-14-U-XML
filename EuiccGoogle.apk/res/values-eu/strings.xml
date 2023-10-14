@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">Joan gora</string>
+    <string name="abc_action_mode_done">Eginda</string>
+    <string name="abc_capital_off">DESAKTIBATU</string>
+    <string name="abc_capital_on">AKTIBATU</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ktrl +</string>
+    <string name="abc_menu_delete_shortcut_label">ezabatu</string>
+    <string name="abc_menu_enter_shortcut_label">sartu</string>
+    <string name="abc_menu_function_shortcut_label">Funtzioa +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Maius +</string>
+    <string name="abc_menu_space_shortcut_label">zuriunea</string>
+    <string name="abc_menu_sym_shortcut_label">Sym +</string>
+    <string name="abc_prepend_shortcut_label">Menua +</string>
+    <string name="abc_search_hint">Bilatu…</string>
+    <string name="abc_searchview_description_clear">Garbitu kontsulta</string>
+    <string name="abc_searchview_description_search">Bilatu</string>
+    <string name="abc_searchview_description_submit">Bidali kontsulta</string>
+    <string name="abc_searchview_description_voice">Ahozko bilaketa</string>
+    <string name="abc_toolbar_collapse_description">Tolestu</string>
+    <string name="activation_code_scan_button">Bestela, eskaneatu QR kodea</string>
+    <string name="activation_code_text">Idatzi hornitzaileak eman dizun kodea</string>
+    <string name="activation_code_title">Gehitu sare-hornitzailea</string>
+    <string name="add_profile_title">Gehitu operadorea</string>
+    <string name="asked_for_eid">Denda batean ari zara aktibatzen? Komertzialak EIDa eskatzen badizu, %1$s.</string>
+    <string name="back_button_error_msg">Erroreak saihesteko, pantaila hau ezin da editatu konfigurazio-prozesua abian denean</string>
+    <string name="body_check_qr_code_or_go_back">Ziurtatu QR kode zuzena eskaneatzen ari zarela.</string>
+    <string name="body_device_is_locked">%1$s operadoreak gailua blokeatu du.</string>
+    <string name="body_device_is_locked_no_name">Gailua blokeatuta dago.</string>
+    <string name="body_issue_with_sim_profile">Arazoren bat izan da SIMarekin. Arazoa konpontzeko, jarri %1$s operadorearekin harremanetan %2$s zenbakira deituz.</string>
+    <string name="body_issue_with_sim_profile_maximum_attempts">Saiakeren gehieneko mugara iritsi zara. Konektatzeko laguntza behar baduzu, jarri %1$s operadorearekin harremanetan %2$s zenbakira deituz.</string>
+    <string name="body_issue_with_sim_profile_maximum_attempts_no_name">Saiakeren gehieneko mugara iritsi zara. Konektatzeko laguntza behar baduzu, jarri operadorearekin harremanetan.</string>
+    <string name="body_issue_with_sim_profile_maximum_attempts_no_tel">Saiakeren gehieneko mugara iritsi zara. Konektatzeko laguntza behar baduzu, jarri %1$s operadorearekin harremanetan.</string>
+    <string name="body_issue_with_sim_profile_no_name">Arazoren bat izan da SIMarekin. Arazoa konpontzeko, jarri operadorearekin harremanetan.</string>
+    <string name="body_issue_with_sim_profile_no_tel">Arazoren bat izan da SIMarekin. Arazoa konpontzeko, jarri %1$s operadorearekin harremanetan.</string>
+    <string name="body_issue_with_sim_profile_used_on_another_device">Beste gailu batean erabiltzen ari da SIMa. Arazoa konpontzeko, jarri %1$s operadorearekin harremanetan %2$s zenbakira deituz.</string>
+    <string name="body_issue_with_sim_profile_used_on_another_device_no_name">Beste gailu batean erabiltzen ari da SIMa. Arazoa konpontzeko, jarri operadorearekin harremanetan.</string>
+    <string name="body_issue_with_sim_profile_used_on_another_device_no_tel">Beste gailu batean erabiltzen ari da SIMa. Arazoa konpontzeko, jarri %1$s operadorearekin harremanetan.</string>
+    <string name="body_make_sure_not_already_downloaded">"Ziurtatu hautatutako SIMa ez dela deskargatu gailu honetan edo beste gailu batean.
+
+Laguntza gehiago behar baduzu, jarri %1$s operadorearekin harremanetan %2$s zenbakira deituz"</string>
+    <string name="body_make_sure_not_already_downloaded_no_name">"Ziurtatu hautatutako SIMa ez dela deskargatu gailu honetan edo beste gailu batean.
+
+Laguntza gehiago behar baduzu, jarri operadorearekin harremanetan."</string>
+    <string name="body_make_sure_not_already_downloaded_no_tel">"Ziurtatu hautatutako SIMa ez dela deskargatu gailu honetan edo beste gailu batean.
+
+Laguntza gehiago behar baduzu, jarri %1$s operadorearekin harremanetan"</string>
+    <string name="body_need_wifi_connection">Wifi-sare batera konektatuta egon behar duzu eSIM bat deskargatzeko.</string>
+    <string name="body_need_wifi_or_mobile_connection">Wifi-sare batera konektatuta egon behar duzu edo mugikorreko konexioa erabili behar duzu eSIM bat deskargatzeko.</string>
+    <string name="body_not_enough_space_to_download">Ez dago behar adina toki SIMa deskargatzeko.</string>
+    <string name="body_sim_has_expired">"eSIMa iraungi egin da.
+Beste bat eskuratzeko, jarri %1$s operadorearekin harremanetan %2$s zenbakira deituz"</string>
+    <string name="body_sim_has_expired_no_name">"eSIMa iraungi egin da.
+Beste bat eskuratzeko, jarri operadorearekin harremanetan."</string>
+    <string name="body_sim_has_expired_no_tel">"eSIMa iraungi egin da.
+Beste bat eskuratzeko, jarri %1$s operadorearekin harremanetan"</string>
+    <string name="body_something_went_wrong">Arazo bat izan da zenbakia aktibatzean.</string>
+    <string name="bottomsheet_action_expand_halfway">Zabaldu erdiraino</string>
+    <string name="button_text_close">Itxi</string>
+    <string name="button_text_settings">Ezarpenak</string>
+    <string name="cancel_button">Utzi</string>
+    <string name="cant_get_eid_please_contact_carrier">Arazo bat izan da eta ezin izan da aurkitu gailuaren EID zenbakia. Laguntza lortzeko, jarri operadorearekin harremanetan.</string>
+    <string name="carrier_confirm_subtitle">Dagoeneko eduki beharko zenuke saioa hasita sare-hornitzailearekin</string>
+    <string name="carrier_confirm_title">Berretsi sarea</string>
+    <string name="carrier_selection_msg">Hautatu telefonoan erabili nahi duzun operadorea. Operadore horrekin kontu bat izan behar duzu.</string>
+    <string name="carrier_selection_psim">Horren ordez, erabili SIM txartel bat</string>
+    <string name="carrier_selection_title">Berretsi operadorea</string>
+    <string name="choose_carrier_title">Aukeratu erabili nahi dituzun operadoreak</string>
+    <string name="choose_number_activating">Aktibatzen…</string>
+    <string name="choose_number_could_not_activate">Ezin izan da aktibatu</string>
+    <string name="choose_number_error_no_space">Beste zenbaki edo sareren bat erabiltzeko, tokia egin beharko duzu, gailuan gordeta dagoen zenbaki bat edo gehiago ezabatuta Ezarpenak atalean</string>
+    <string name="choose_number_error_perm">Beste zenbaki edo sareren bat erabiltzeko, jarri sare-hornitzaileekin harremanetan laguntza lortzeko</string>
+    <string name="choose_number_error_temp">Beste zenbaki edo sareren bat erabiltzeko, aktiba ezazu geroago Ezarpenak atalean</string>
+    <string name="choose_number_item_summary_unknown">Zenbaki ezezaguna</string>
+    <string name="choose_number_subtitle">{count,plural, =1{1 zenbaki gehitu da gailuan, baina bakarra erabil daiteke aldiko}other{# zenbaki gehitu dira gailuan, baina bakarra erabil daiteke aldiko}}</string>
+    <string name="choose_number_title">Aukeratu erabili nahi duzun zenbakia</string>
+    <string name="choose_second_number_subtitle">Oraingo zenbakiarekin batera, beste zenbaki bat erabil dezakezu gailuan</string>
+    <string name="choose_second_number_subtitle_with_psim_carrier_name">%1$s operadoreko zenbakiarekin batera, beste zenbaki bat erabil dezakezu gailuan</string>
+    <string name="choose_second_number_subtitle_with_psim_phone_number">%1$s zenbakiarekin batera, beste zenbaki bat erabil dezakezu gailuan</string>
+    <string name="choose_second_number_title">Aukeratu beste zenbaki bat</string>
+    <string name="common_google_play_services_enable_button">Gaitu</string>
+    <string name="common_google_play_services_enable_text">%1$s aplikazioak ez du funtzionatuko Google Play Services gaitzen ez baduzu.</string>
+    <string name="common_google_play_services_enable_title">Gaitu Google Play Services</string>
+    <string name="common_google_play_services_install_button">Instalatu</string>
+    <string name="common_google_play_services_install_text">%1$s ez da exekutatuko Google Play Services gabe, baina ez dago halakorik gailuan.</string>
+    <string name="common_google_play_services_install_title">Lortu Google Play Services</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play Services-en erabilgarritasuna</string>
+    <string name="common_google_play_services_notification_ticker">Google Play Services-en errorea</string>
+    <string name="common_google_play_services_unknown_issue">%1$s aplikazioak arazoak ditu Google Play Services-ekin. Saiatu berriro.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s aplikazioa ezin da erabili Google Play Services gabe, baina zure gailua ez da harekin bateragarria.</string>
+    <string name="common_google_play_services_update_button">Eguneratu</string>
+    <string name="common_google_play_services_update_text">%1$s ez da exekutatuko Google Play Services eguneratzen ez baduzu.</string>
+    <string name="common_google_play_services_update_title">Eguneratu Google Play Services</string>
+    <string name="common_google_play_services_updating_text">%1$s ez da exekutatuko Google Play Services gabe; zerbitzu hori eguneratzen ari da.</string>
+    <string name="common_google_play_services_wear_update_text">Google Play Services-en bertsio berria behar da. Berehala eguneratuko da automatikoki.</string>
+    <string name="common_open_on_phone">Ireki telefonoan</string>
+    <string name="complete_service_setup_text">Aktibatu duzu %1$s operadorearen zerbitzua</string>
+    <string name="complete_service_setup_title">Konfiguratu da %1$s operadorearen zerbitzua</string>
+    <string name="complete_update_esim_notification_body_text">Sakatu hau software-eguneratzea osatzeko</string>
+    <string name="complete_update_esim_notification_title">Amaitu sare mugikorrera konektatzeko prozesua</string>
+    <string name="confirm_acti_no_space_sub1">Beste zenbakiren bat erabiltzeko, tokia egin beharko duzu, gailuan gordeta dauden zenbakiak ezabatuta. Hori egiteko, joan Ezarpenak atalera.</string>
+    <string name="confirm_acti_no_space_sub1_multi">Beste zenbaki edo sareren bat erabiltzeko, tokia egin beharko duzu, gailuan gordeta dauden zenbakiak ezabatuta. Hori egiteko, joan Ezarpenak atalera.</string>
+    <string name="confirm_acti_perm_error_sub1">Beste zenbakiren bat erabiltzeko, jarri %1$s operadorearekin harremanetan laguntza lortzeko %2$s zenbakiaren bidez. Baliteke gailu honen EID zenbakia behar izatea:</string>
+    <string name="confirm_acti_perm_error_sub1_multi">Beste zenbaki edo sareren bat erabiltzeko, jarri %1$s operadorearekin harremanetan laguntza lortzeko %2$s zenbakiaren bidez. Baliteke gailu honen EID zenbakia behar izatea:</string>
+    <string name="confirm_acti_perm_error_sub1_multi_no_carrier_name">Beste zenbaki edo sareren bat erabiltzeko, jarri sare-hornitzailearekin harremanetan laguntza lortzeko. Baliteke gailu honen EID zenbakia behar izatea:</string>
+    <string name="confirm_acti_perm_error_sub1_multi_no_phone">Beste zenbaki edo sareren bat erabiltzeko, jarri %1$s operadorearekin harremanetan laguntza lortzeko. Baliteke gailu honen EID zenbakia behar izatea:</string>
+    <string name="confirm_acti_perm_error_sub1_no_carrier_name">Beste zenbakiren bat erabiltzeko, jarri sare-hornitzailearekin harremanetan laguntza lortzeko. Baliteke gailu honen EID zenbakia behar izatea:</string>
+    <string name="confirm_acti_perm_error_sub1_no_eid">Beste zenbakiren bat erabiltzeko, jarri %1$s operadorearekin harremanetan laguntza lortzeko %2$s zenbakiaren bidez</string>
+    <string name="confirm_acti_perm_error_sub1_no_eid_multi">Beste zenbaki edo sareren bat erabiltzeko, jarri %1$s operadorearekin harremanetan laguntza lortzeko %2$s zenbakiaren bidez</string>
+    <string name="confirm_acti_perm_error_sub1_no_eid_multi_no_phone">Beste zenbaki edo sareren bat erabiltzeko, jarri %1$s operadorearekin harremanetan laguntza lortzeko</string>
+    <string name="confirm_acti_perm_error_sub1_no_eid_no_carrier_name">Beste zenbakiren bat erabiltzeko, jarri sare-hornitzailearekin harremanetan laguntza lortzeko</string>
+    <string name="confirm_acti_perm_error_sub1_no_eid_no_phone">Beste zenbakiren bat erabiltzeko, jarri %1$s operadorearekin harremanetan laguntza lortzeko</string>
+    <string name="confirm_acti_perm_error_sub1_no_phone">Beste zenbakiren bat erabiltzeko, jarri %1$s operadorearekin harremanetan laguntza lortzeko. Baliteke gailu honen EID zenbakia behar izatea:</string>
+    <string name="confirm_acti_success_sub_title">%1$s erabiltzeko prest dago</string>
+    <string name="confirm_acti_success_sub_title_no_phone">Telefono-zenbakia erabiltzeko prest dago</string>
+    <string name="confirm_acti_success_sub_title_w_app">%1$s telefono-zenbakia aktibatzen amaitzeko, %2$s operadorearen aplikazioa deskargatu beharko duzu. Oraingoz, amai dezagun telefonoa konfiguratzen.</string>
+    <string name="confirm_acti_success_sub_title_w_app_no_name">%1$s telefono-zenbakia aktibatzen amaitzeko, sare-hornitzailearen aplikazioa deskargatu beharko duzu. Oraingoz, amai dezagun telefonoa konfiguratzen.</string>
+    <string name="confirm_acti_success_sub_title_w_app_no_name_setting">%1$s telefono-zenbakia aktibatzen amaitzeko, sare-hornitzailearen aplikazioa deskargatu beharko duzu</string>
+    <string name="confirm_acti_success_sub_title_w_app_no_phone">Telefono-zenbakia aktibatzen amaitzeko, %1$s operadorearen aplikazioa deskargatu beharko duzu. Oraingoz, amai dezagun telefonoa konfiguratzen.</string>
+    <string name="confirm_acti_success_sub_title_w_app_no_phone_no_name">Telefono-zenbakia aktibatzen amaitzeko, sare-hornitzailearen aplikazioa deskargatu beharko duzu. Oraingoz, amai dezagun telefonoa konfiguratzen.</string>
+    <string name="confirm_acti_success_sub_title_w_app_no_phone_no_name_setting">Telefono-zenbakia aktibatzen amaitzeko, sare-hornitzailearen aplikazioa deskargatu beharko duzu</string>
+    <string name="confirm_acti_success_sub_title_w_app_no_phone_setting">Telefono-zenbakia aktibatzen amaitzeko, %1$s operadorearen aplikazioa deskargatu beharko duzu</string>
+    <string name="confirm_acti_success_sub_title_w_app_setting">%1$s telefono-zenbakia aktibatzen amaitzeko, %2$s operadorearen aplikazioa deskargatu beharko duzu</string>
+    <string name="confirm_acti_success_title">%1$s operadorera konektatuta</string>
+    <string name="confirm_acti_success_title_no_carrier_name">Aktibo dago sarea</string>
+    <string name="confirm_acti_success_title_with_app">Konektatu %1$s operadorera geroago</string>
+    <string name="confirm_acti_success_title_with_app_no_name">Konektatu sarera geroago</string>
+    <string name="confirm_acti_temp_error_sub1">Beste zenbakiren bat erabiltzeko, aktiba ezazu geroago Ezarpenak atalean</string>
+    <string name="confirm_acti_temp_error_sub1_multi">Beste zenbaki edo sareren bat erabiltzeko, aktiba ezazu geroago Ezarpenak atalean</string>
+    <string name="confirm_code_try_again">Kodea ez da zuzena. Saiatu berriro.</string>
+    <string name="confirm_transfer_single_carrier_dsds_msg">Behin transferituta, %1$s telefono-zenbakiak funtzionatzeari utziko dio gailu zaharrean. Beste zenbaki bat transferi dezakezu konfigurazio-prozesua amaitzen duzunean. Horretarako, SIM bat sartu behar duzu telefonoan.</string>
+    <string name="confirm_transfer_single_carrier_msg">Behin transferituta, %1$s telefono-zenbakiak funtzionatzeari utziko dio gailu zaharrean</string>
+    <string name="confirm_transfer_single_carrier_title">%1$s operadorearen zenbakia transferitu nahi duzu?</string>
+    <string name="confirmation_code_body_text">Operadoreak egiaztapen-kode bat bidali dizu. Idatz ezazu sarera konektatzeko.</string>
+    <string name="confirmation_code_body_text_with_carrier">%1$s operadoreak egiaztapen-kode bat bidali dizu. Idatz ezazu sarera konektatzeko.</string>
+    <string name="confirmation_code_title">Idatzi egiaztapen-kodea</string>
+    <string name="confirmation_code_what">Zer da hau?</string>
+    <string name="contact_carrier_description">SIMa konfiguratzeko, %1$s operadorearekin harremanetan jarri beharko zara %2$s telefonora deituta</string>
+    <string name="contact_carrier_description_eid">EID zenbakia behar izatea.</string>
+    <string name="contact_carrier_description_eid_additional">"
+
+Baliteke gailuaren"</string>
+    <string name="contact_carrier_title">Jarri %1$s operadorearekin harremanetan</string>
+    <string name="continue_button">Egin aurrera</string>
+    <string name="copy">Kopiatu</string>
+    <string name="customer_service_activate_service">Bezeroarentzako laguntza-zerbitzuko ordezkariak zerbitzua aktibatzen laguntzeko erabil dezake EID zenbakia:</string>
+    <string name="data_plan_select_subtitle">Behin transferituta, zenbakiak funtzionatzeari utziko dio gailu zaharrean</string>
+    <string name="data_plan_select_title">Aukeratu transferitu nahi duzun zenbakia</string>
+    <string name="def_notif_activating_title">%1$s operadorearen telefono-zenbakia aktibatzen…</string>
+    <string name="def_notif_activation_fail_subtitle">Sakatu hau xehetasunak ikusteko</string>
+    <string name="def_notif_activation_fail_title">Ezin izan da aktibatu %1$s operadorearen telefono-zenbakia</string>
+    <string name="def_notif_activation_success_dsds_subtitle">Aukeratu deien, testu-mezuen eta datu-konexioaren hobespenak</string>
+    <string name="def_notif_activation_success_dsds_title">Erabiltzeko prest dituzu telefono-zenbakiak</string>
+    <string name="def_notif_activation_success_title">Aktibatu da %1$s operadorearen telefono-zenbakia</string>
+    <string name="default_display_name">SIMa</string>
+    <string name="default_profile_nickname_format">%1$s %2$d</string>
+    <string name="deferred_setup_notification_description">Ready to connect to mobile network</string>
+    <string name="deferred_setup_notification_title">Set you your %1$s SIM</string>
+    <string name="detail_contact_carrier_for_more_help">Laguntza gehiago behar baduzu, jarri operadorearekin harremanetan.</string>
+    <string name="detail_contact_carrier_to_unlock">Jarri harremanetan %1$s operadorearekin %2$s zenbakira deituz gailua desblokea daitekeen galdetzeko.</string>
+    <string name="detail_contact_carrier_to_unlock_no_name">Jarri operadorearekin harremanetan gailua desblokea daitekeen galdetzeko.</string>
+    <string name="detail_contact_carrier_to_unlock_no_tel">Jarri harremanetan %1$s operadorearekin gailua desblokea daitekeen galdetzeko.</string>
+    <string name="detail_delete_a_profile_before_retrying">Tokia egiteko, joan ezarpenetara eta kendu SIM bateko eduki guztia. Ondoren, saiatu berriro.</string>
+    <string name="detail_may_need_eid_number">EIDa: %1$s</string>
+    <string name="detail_provide_info_to_carrier">"Eman datu hauek operadoreari:
+%1$s
+%2$s"</string>
+    <string name="detail_try_adding_again">Sarera konektatuta zaudenean, gehitu sare mugikor bat berriro.</string>
+    <string name="disable_carrier_dialog_text">"Gailu hau berehala deskonektatuko da saretik.
+
+Ez da utziko bertan behera mugikorretarako zerbitzu-planik."</string>
+    <string name="disable_carrier_dialog_text_with_carrier">"Gailu hau berehala deskonektatuko da %1$s saretik.
+
+Ez da utziko bertan behera mugikorretarako zerbitzu-planik."</string>
+    <string name="disable_carrier_dialog_title">Operadorea desgaitu nahi duzu?</string>
+    <string name="disable_fail_text">Arazo bat izan da, eta ezin izan da desgaitu operadorea.</string>
+    <string name="disable_fail_title">Ezin da desgaitu operadorea</string>
+    <string name="disable_profile_title">Desgaitu</string>
+    <string name="disabled_profiles_title">Operadore erabilgarriak</string>
+    <string name="disabling_carrier">Operadorea desgaitzen…</string>
+    <string name="done_button">Eginda</string>
+    <string name="download_complete_text">SIMa aktibatzeko, joan Ezarpenak atalera</string>
+    <string name="download_complete_text_with_carrier">Joan ezarpenetara %1$s aktibatzeko</string>
+    <string name="download_complete_title">Deskargatu da eSIM txartela</string>
+    <string name="download_esim_button">Download eSIM</string>
+    <string name="download_fail_dialog_text">Errore bat gertatu da eta ezin da deskargatu eSIM txartela. Saiatu berriro eta, arazoak bere horretan jarraitzen badu, jarri harremanetan %1$s operadorearekin.</string>
+    <string name="download_fail_dialog_text_no_carrier_name">Errore bat gertatu da eta ezin da deskargatu eSIM txartela. Saiatu berriro eta, arazoak badirau, jarri operadorearekin harremanetan.</string>
+    <string name="download_fail_dialog_title">Ezin da deskargatu eSIM txartela</string>
+    <string name="download_sub_multi_carriers_text">{count,plural, =1{&lt;b>%2$d zenbaki&lt;/b> eskatu behar dizkiegu %1$s eta beste operadore bati. Denbora pixka bat beharko dugu.}other{&lt;b>%2$d zenbaki&lt;/b> eskatu behar dizkiegu %1$s eta beste %3$d operadoreri. Denbora pixka bat beharko dugu.}}</string>
+    <string name="download_sub_text">{count,plural, =1{Zenbakia eskatu behar diogu %1$s operadoreari. Denbora pixka bat beharko dugu.}other{&lt;b>%2$d zenbaki&lt;/b> eskatu behar dizkiogu %1$s operadoreari. Denbora pixka bat beharko dugu.}}</string>
+    <string name="download_sub_title">{count,plural, =1{Zenbakia gehitzen…}other{Zenbakiak gehitzen…}}</string>
+    <string name="download_sub_transform_title">Zerbitzua egiaztatzen…</string>
+    <string name="download_switch_confirm_mep_dialog_message">Gaitu honek bi SIM eduki ditzake aktibo aldi berean. Hirugarren bat deskargatu eta erabiltzeko, aurrena desaktibatu aktibo daukazun SIMetako bat.</string>
+    <string name="download_switch_confirm_mep_dialog_title">Aurrera egiteko, desaktibatu SIM bat</string>
+    <string name="download_web_sub_text">Minutu bat edo bi behar izan daitezke; batzuetan, apur bat gehiago</string>
+    <string name="download_web_sub_title">Zerbitzua konfiguratzen…</string>
+    <string name="downloading_no_carrier_name_title">eSIM txartela deskargatzen…</string>
+    <string name="downloading_with_carrier_name_title">%1$s operadorearen eSIM txartela deskargatzen…</string>
+    <string name="dsds_activation_failure_body_msg1">Kendu SIMa eta sar ezazu berriro. Arazoak badirau, berrabiarazi gailua.</string>
+    <string name="dsds_activation_failure_body_msg2">Saiatu berriro SIMa aktibatzen. Arazoak badirau, berrabiarazi gailua.</string>
+    <string name="dsds_activation_failure_title">Ezin da aktibatu SIMa</string>
+    <string name="dsds_activation_text">SIMa aktibatzen…</string>
+    <string name="dsds_activation_text_in_esim_activation">Eguneratzen…</string>
+    <string name="dsds_choose_number_text">%1$d zenbaki daude erabilgarri gailu honetan, baina bakarra erabil daiteke aldiko</string>
+    <string name="dsds_choose_number_title">Aukeratu erabili nahi duzun zenbakia</string>
+    <string name="dsds_choose_second_number_text">Bi zenbaki erabil ditzakezu aldi berean gailu honetan. %1$s zenbakia aktibo dago jada.</string>
+    <string name="dsds_choose_second_number_title">Aukeratu beste zenbakia</string>
+    <string name="dsds_learn_more_button">Informazio gehiago</string>
+    <string name="dsds_notification_after_reboot_text">Sakatu SIMaren ezarpenak eguneratzeko</string>
+    <string name="dsds_notification_after_reboot_text_carrier">Sakatu %1$s operadorearen ezarpenak eguneratzeko</string>
+    <string name="dsds_notification_after_reboot_title_carrier">Aktibo dago %1$s</string>
+    <string name="dsds_notification_after_reboot_title_phone">Aktibo dago %1$s</string>
+    <string name="dsds_notification_after_suw_text">Aukeratu SIM txartel aktiboa edo erabili bi SIM txartel aldi berean</string>
+    <string name="dsds_notification_after_suw_title">Konfiguratu beste SIMa</string>
+    <string name="dsds_switch_dialog_no_switch_text">Geroago datu-konexioa, deien eginbideak eta SMSak erabiltzeko, joan sarearen ezarpenetara</string>
+    <string name="dsds_switch_dialog_no_switch_title">Ez dago SIM txartel aktiborik erabilgarri</string>
+    <string name="dsds_switch_dialog_progress_text">%1$s operadorera aldatzen…</string>
+    <string name="dsds_switch_dialog_text">%1$s operadorearen bitartez egingo dira deiak, SMS bidalketak eta datu-konexioak.</string>
+    <string name="dsds_switch_dialog_title">%1$s erabili nahi duzu?</string>
+    <string name="eid_not_found">Ez da aurkitu gailuaren EID zenbakia</string>
+    <string name="eid_number">Erakutsi xehetasunak</string>
+    <string name="eid_qr_code_dialog_error_msg">EIDaren QR kodea ez dago erabilgarri.</string>
+    <string name="eid_qr_code_dialog_title">Gailuaren EIDa</string>
+    <string name="enable_carrier_dialog_text">"Gailu hau %1$s sarera konektatuko da, eta ez %2$s sarera.
+
+Ez da utziko bertan behera mugikorretarako zerbitzu-planik."</string>
+    <string name="enable_carrier_dialog_text_from_removable">"Gailu hau %1$s sarera konektatuko da, eta ez une honetako SIMera.
+
+Ez da utziko bertan behera mugikorretarako zerbitzu-planik."</string>
+    <string name="enable_carrier_dialog_text_to_removable">"Gailu hau sartutako SIM txartelera konektatuko da, eta ez %1$s sarera.
+
+Ez da utziko bertan behera mugikorretarako zerbitzu-planik."</string>
+    <string name="enable_carrier_dialog_title">Operadorea aldatu nahi duzu?</string>
+    <string name="enable_fail_text">Errore bat gertatu da eta ezin da aldatu operadorea.</string>
+    <string name="enable_fail_title">Ezin da aldatu operadorea</string>
+    <string name="enable_profile_title">Gaitu</string>
+    <string name="enabling_carrier">Sarera konektatzen…</string>
+    <string name="enter_manually_button">Idatzi kodea eskuz</string>
+    <string name="enter_qr_code_button_title">Idatzi kodea eskuz</string>
+    <string name="erase_sim_confirm_button">Ezabatu eduki guztia</string>
+    <string name="erase_sim_dialog_text">"SIM honetako eduki guztia ezabatuz gero, %1$s operadorearen zerbitzua gailu honetatik kenduko da.
+
+Ez da utziko bertan behera %1$s operadorearen zerbitzua."</string>
+    <string name="erase_sim_dialog_title">eSIM honetako eduki guztia ezabatu nahi duzu?</string>
+    <string name="erase_sim_fail_text">"Ezin da ezabatu SIM txarteleko eduki guztia errore bat gertatu delako.
+
+Berrabiarazi gailua eta saiatu berriro."</string>
+    <string name="erase_sim_fail_title">Ezin da ezabatu SIMeko eduki guztia</string>
+    <string name="erasing_carriers">Operadoreak berrezartzen…</string>
+    <string name="erasing_sim">SIM txarteleko eduki guztia ezabatzen…</string>
+    <string name="error_code_text">Errore-kodea</string>
+    <string name="error_screen_title_multiple_carrier">Ez dira aktibatu sareak</string>
+    <string name="error_screen_title_single_carrier">Ez da aktibatu %1$s</string>
+    <string name="error_screen_title_single_carrier_no_name">Ez da aktibatu sarea</string>
+    <string name="esim_setup_channel_id">Sarearen aktibazioa</string>
+    <string name="esim_warning_title">Deskargatu eSIM bat</string>
+    <string name="esim_warning_txt_default">Aukera honek SIM txartel arruntak ordezten ditu, eta haiek bezain segurua da</string>
+    <string name="esim_warning_txt_default_tmo_esim_primary">Konektatu sare mugikorrera SIM txarteletan egon ohi den informazioa deskargatuta. Aukera honek SIM txartel arruntak ordezten ditu, eta haiek bezain segurua da.</string>
+    <string name="euicc_settings_title">Hardware-ezarpenak</string>
+    <string name="euicc_title">SIMen kudeatzailea</string>
+    <string name="expand_button_title">Hobespen aurreratuak</string>
+    <string name="find_it_here">hemen aurkituko duzu</string>
+    <string name="get_default_sub_title">Sarearen informazioa egiaztatzen…</string>
+    <string name="get_help_ask_for_eid_v2">Baliteke operadoreak telefonoa identifikatzeko balio duen %1$s eskatzea.</string>
+    <string name="get_help_skip_mobile_setup">Saltatu telefono mugikorraren konfigurazioa</string>
+    <string name="get_help_text">Ez duzu ikusten zenbakia? Laguntza lortzeko, jarri %1$s operadorearekin harremanetan %2$s zenbakira deituta</string>
+    <string name="get_help_text_multiple_carriers_no_phone">Zure operadoreetako batek espero baino zenbaki gehiago baditu, jarri operadorearekin harremanetan laguntza lortzeko</string>
+    <string name="get_help_text_no_phone">Ez duzu ikusten zenbakia? Laguntza lortzeko, jarri %1$s operadorearekin harremanetan.</string>
+    <string name="get_help_text_single_carrier">Ez bazenituen espero %3$d zenbaki, jarri %1$s operadorearekin harremanetan %2$s zenbakiaren bidez, laguntza lortzeko</string>
+    <string name="get_help_text_single_carrier_no_phone">Ez bazenituen espero %2$d zenbaki, jarri %1$s operadorearekin harremanetan laguntza lortzeko</string>
+    <string name="get_help_text_single_carrier_no_phone_with_eid">Ez bazenituen espero %2$d zenbaki, jarri %1$s operadorearekin harremanetan laguntza lortzeko. Baliteke gailu honen EID zenbakia behar izatea:</string>
+    <string name="get_help_title">Lortu konfigurazioarekin erlazionatutako laguntza</string>
+    <string name="get_metadata_fail_title">Ezin izan da kargatu sare mugikorrari buruzko informazioa</string>
+    <string name="help_add_network_info1_msg1_v2">Arazoak dituzu QR kodea eskaneatzeko? %1$s.</string>
+    <string name="help_add_network_info2_msg1">Halaber, %1$s konekta dezakezu gailua sarera.</string>
+    <string name="help_add_network_info3">Ez dakizu nola egin aurrera? Jarri sare-hornitzailearekin harremanetan laguntza lortzeko: %1$s</string>
+    <string name="help_add_network_info3_no_phone">Ez dakizu nola egin aurrera? Jarri sare-hornitzailearekin harremanetan laguntza lortzeko.</string>
+    <string name="help_add_network_subtitle">Bilatu QR kodea gailuarekin zetorren paperen batean edo sare-hornitzaileak bidalitako mezu elektronikoren batean.</string>
+    <string name="help_add_network_title">Sareak gehitzeko laguntza</string>
+    <string name="insert_psim_button">SIM estandar bat sartuta</string>
+    <string name="insert_text">SIM txartelik baduzu, sar ezazu orain</string>
+    <string name="insert_title">Konektatu sare mugikor batera</string>
+    <string name="install_system_update_dialog_body_text">SIM txartel bat deskargatzeko, sistemaren eguneratzerik berriena behar duzu telefonoan. Minutu gutxi batzuk beharko dira.</string>
+    <string name="install_system_update_dialog_title">Sistemaren eguneratzea instalatu nahi duzu?</string>
+    <string name="install_update_button">Instalatu eguneratzea</string>
+    <string name="insufficient_space_description_q">{count,plural, =1{Zure zenbakia erabili nahi baduzu, gailuan dauden zenbakietako batzuk ezabatu beharko dituzu lehendabizi, tokia egiteko. Horretarako, joan Ezarpenak atalera.}other{Zure zenbakiak erabili nahi badituzu, gailuan dauden zenbakietako batzuk ezabatu beharko dituzu lehendabizi, tokia egiteko. Horretarako, joan Ezarpenak atalera.}}</string>
+    <string name="legal_notices">%1$s, %2$s eta %3$s</string>
+    <string name="low_battery_alert_body_text">Eguneratzea eten ez dadin, konektatu telefonoa energia-iturri batera.</string>
+    <string name="low_battery_alert_title">Telefonoaren bateria agortzen ari da</string>
+    <string name="manually_add_msg1_v2">QR kode bat baduzu, %1$s. Dendako ordezkariak EIDa eskatzen badizu, %2$s.</string>
+    <string name="mobile_network_connection_alert_description">Urrats hau saltatzen baduzu, ez zara konektatuko inongo sare mugikorretara. Geroago konektatzeko, ezarpenetan gehi beharko duzu SIMa.</string>
+    <string name="mobile_network_connection_alert_title">Sare mugikorra konfiguratzeko prozesua saltatu nahi duzu?</string>
+    <string name="msg_choose_download_type">Aukeratu telefono-zenbakia gailu honetan aktibatzeko modu seguru bat</string>
+    <string name="msg_install_app_notification">Sakatu aurrera egiteko</string>
+    <string name="msg_portal_intro">%1$s erabiltzaile-izenarekin eta pasahitzarekin hasi beharko duzu saioa</string>
+    <string name="msg_sign_in_button">Hasi saioa %1$s kontuan</string>
+    <string name="msg_transfer_type_portal">Erabiltzaile-izena eta pasahitza erabili beharko dituzu</string>
+    <string name="msg_transfer_type_qr">Agian %1$s operadoreak bat bidali dizu</string>
+    <string name="mtrl_checkbox_state_description_checked">Checked</string>
+    <string name="mtrl_checkbox_state_description_indeterminate">Partially checked</string>
+    <string name="mtrl_checkbox_state_description_unchecked">Not checked</string>
+    <string name="multiple_carrier_download_number_count">{count,plural, =1{1 zenbaki}other{# zenbaki}}</string>
+    <string name="next_button">Hurrengoa</string>
+    <string name="no_licenses_found_error">Errore bat gertatu da eta ezin da aurkitu lizentziarik.</string>
+    <string name="no_qr_code_info_insert_btn">Bestela, sartu SIM txartela</string>
+    <string name="no_qr_code_info_text">Bilatu QR kodea gailuarekin zetorren paperen batean edo operadoreak bidalitako mezu elektronikoren batean. QR koderik ez baduzu, gehitu operadorea geroago.</string>
+    <string name="no_qr_code_scan_button">Eskaneatu QR kodea</string>
+    <string name="no_qr_code_title">Konfigurazio-aukerak</string>
+    <string name="no_thanks_button">Ez, eskerrik asko</string>
+    <string name="no_wifi_dialog_message">SIMa deskargatzeko beharko duzu</string>
+    <string name="no_wifi_dialog_title">Konektatu wifi-sare batera</string>
+    <string name="not_set">Ez da ezarri</string>
+    <string name="notification_carrier_unknown">{count,plural, =1{Beste zenbaki bat gehitzeko prest dago}other{Beste # zenbaki gehitzeko prest daude}}</string>
+    <string name="notification_channel_ota_update">Operadorearen eguneratzeak</string>
+    <string name="notification_multiple_carrier_name_known">{count,plural, =1{%1$s operadorearen zenbakia eta beste %2$d zenbaki gehitzeko prest daude}other{%1$s operadorearen zenbakia eta beste %2$d zenbaki gehitzeko prest daude}}</string>
+    <string name="notification_single_carrier_name_known">{count,plural, =1{%1$s operadorearen zenbakia gehitzeko prest dago}other{%1$s operadorearen zenbakiak gehitzeko prest daude}}</string>
+    <string name="notification_tap_setup">Sakatu konfiguratzeko</string>
+    <string name="open_source_licenses">Kode irekiko lizentziak</string>
+    <string name="operation_code_text">Eragiketaren kodea</string>
+    <string name="os_version">Sistema eragilearen bertsioa</string>
+    <string name="ota_error_notification_msg">Berrabiarazi ondoren berrekingo zaio mugikorraren zerbitzuari.</string>
+    <string name="ota_error_notification_title">Ezin izan da eguneratu operadorea</string>
+    <string name="ota_notification_msg">Eguneratu ondoren berrekingo zaio mugikorraren zerbitzuari</string>
+    <string name="ota_notification_title">Operadorea eguneratzen amaitzen…</string>
+    <string name="perm_error_description_q">{count,plural, =1{Arazoren bat izan da zenbakia aktibatzean. Laguntza lortzeko, jarri %1$s operadorearekin harremanetan %2$s zenbakira deituta.}other{Arazoren bat izan da zenbakiak aktibatzean. Laguntza lortzeko, jarri %1$s operadorearekin harremanetan %2$s zenbakira deituta.}}</string>
+    <string name="perm_error_description_q_multi_carrier">Arazo bat izan da zenbakiak aktibatzean. Laguntza lortzeko, jarri sare-hornitzaileekin harremanetan.</string>
+    <string name="perm_error_description_q_no_phone">{count,plural, =1{Arazoren bat izan da zenbakia aktibatzean. Laguntza lortzeko, jarri %1$s operadorearekin harremanetan.}other{Arazoren bat izan da zenbakiak aktibatzean. Laguntza lortzeko, jarri %1$s operadorearekin harremanetan.}}</string>
+    <string name="perm_error_description_q_no_phone_no_carrier_name">{count,plural, =1{Arazoren bat izan da zenbakia aktibatzean. Laguntza lortzeko, jarri sare-hornitzaileekin harremanetan.}other{Arazoren bat izan da zenbakiak aktibatzean. Laguntza lortzeko, jarri sare-hornitzaileekin harremanetan.}}</string>
+    <string name="perm_error_q_sub2_eid">Baliteke gailu honen %1$s behar izatea</string>
+    <string name="pixel_support_page_button">Pixel-en laguntza-zerbitzuaren orria</string>
+    <string name="pre_activation_ota_update_complete_subtitle">Eguneratu da softwarea. SIMa deskargatzen jarrai dezakezu.</string>
+    <string name="pre_activation_ota_update_complete_title">Eguneratu da</string>
+    <string name="pre_activation_ota_update_error_msg1">Telefonoak ezin du deskargatu SIM bat.</string>
+    <string name="pre_activation_ota_update_error_msg2_v2">"Bestela, SIM txartel bat erabil zenezake, edo
+%1$s webgunera jo laguntza bila."</string>
+    <string name="pre_activation_ota_update_error_title">Ez da eguneratu</string>
+    <string name="pre_activation_ota_update_subtitle">%% %1$d osatuta. Ez irten pantailatik eguneratzen amaitu arte.</string>
+    <string name="pre_activation_ota_update_title">Eguneratzen…</string>
+    <string name="pre_activation_ota_user_consent_msg1">SIM txartelak deskargatu ahal izateko, SIMen kudeatzailearen bertsiorik berriena behar duzu. Lauzpabost minutu beharko dira.</string>
+    <string name="pre_activation_ota_user_consent_msg2">Eguneratzea eten ez dadin, ez irten pantaila honetatik. Larrialdi-deiak soilik egin daitezke eguneratzea abian den bitartean.</string>
+    <string name="pre_activation_ota_user_consent_title">SIM txartelen softwarea eguneratu nahi duzu?</string>
+    <string name="preference_copied">Arbelean kopiatu da \"%1$s\".</string>
+    <string name="privacy_policy">Pribatutasun-gidalerroak</string>
+    <string name="privacy_warning_message">Aurrera egiten baduzu, baimena emango diozu %1$s operadoreari gailua sarean identifikatzeko balio duen informazioa egiaztatzeko.</string>
+    <string name="privileged_action_disable_sub_dialog_progress">SIMa desaktibatzen…</string>
+    <string name="privileged_action_disable_sub_dialog_text">%1$s desaktibatuz gero, %2$s ezartzen da operadore aktibo gisa.</string>
+    <string name="privileged_action_disable_sub_dialog_title">%1$s desaktibatu nahi duzu?</string>
+    <string name="privileged_action_enable_sub_dialog_title">%1$s aktibatu nahi duzu?</string>
+    <string name="privileged_action_switch_psim_dialog_title">SIM txartela erabiltzen hasi nahi duzu?</string>
+    <string name="privileged_action_switch_sub_dialog_confirm">Aldatu (%1$s)</string>
+    <string name="privileged_action_switch_sub_dialog_progress">%1$s operadorera aldatzen</string>
+    <string name="privileged_action_switch_sub_dialog_text">"SIM bakarra aktiba daiteke aldiko.
+
+%1$s operadorera aldatuta ere, ez da bertan behera utziko %2$s operadorearen zerbitzua."</string>
+    <string name="privileged_action_switch_sub_dialog_text_downloaded">"eSIM bakarra aktiba daiteke aldiko.
+
+%1$s operadorera aldatuta ere, ez da bertan behera utziko %2$s operadorearen zerbitzua."</string>
+    <string name="privileged_action_switch_sub_dialog_text_no_to">"SIM bakarra aktiba daiteke aldiko.
+
+Aldatuta ere, ez da utziko bertan behera %1$s zerbitzua."</string>
+    <string name="privileged_action_switch_sub_dialog_title">%1$s operadorera aldatu nahi duzu?</string>
+    <string name="privileged_action_turn_on_sub_dialog_progress">%1$s aktibatzen</string>
+    <string name="profile_disabled">Desgaituta</string>
+    <string name="profile_disabled_confirmation_body_text">eSIMa aktibatzeko, idatzi PINa</string>
+    <string name="profile_disabled_confirmation_title">Desgaitu da eSIMa</string>
+    <string name="profile_enabled">Gaituta</string>
+    <string name="profile_enabled_with_phone_number">Gaituta, %1$s</string>
+    <string name="profile_list_action_bar_title">Operadorea</string>
+    <string name="profile_transfer_activation_fail_available_phone_number_description">"Arazoren bat izan da. %1$s profileko SIMa gailu honetara transferitu da, baina ez dago erabiltzeko prest. 
+
+ Laguntza lortzeko, jarri %2$s operadorearekin harremanetan %3$s. zenbakira deituta.
+
+Baliteke gailuaren EID zenbakia eskatzea:
+
+%4$s"</string>
+    <string name="profile_transfer_activation_fail_available_phone_number_title">Ezin da aktibatu zenbakia</string>
+    <string name="profile_transfer_activation_fail_unavailable_phone_number_description">"Arazoren bat izan da. %1$s profileko %2$s zenbakia gailu honetara transferitu da baina ez dago konektatuta sarera. 
+
+ Laguntza lortzeko, jarri %3$s operadorearekin harremanetan %4$s. zenbakira deituta.
+
+Baliteke gailuaren EID zenbakia eskatzea:
+
+%5$s"</string>
+    <string name="profile_transfer_activation_fail_unavailable_phone_number_title">Ezin da aktibatu sare mugikorra</string>
+    <string name="profile_transfer_connecting_description">Konektatzen…</string>
+    <string name="profile_transfer_downloading_deferred_notification_content">%1$s operadorearen zerbitzariarekin konektatzen…</string>
+    <string name="profile_transfer_downloading_deferred_notification_title">%1$s deskargatzen</string>
+    <string name="profile_transfer_error_deferred_notification_title">Ezin izan da transferitu %1$s</string>
+    <string name="profile_transfer_error_title">Ezin izan da transferitu %1$s operadorearen SIMa</string>
+    <string name="profile_transfer_non_recoverable_error_deferred_notification_action">Informazioa</string>
+    <string name="profile_transfer_non_recoverable_error_deferred_notification_content">Arazoren bat izan da SIMa transferitzean. Laguntza lortzeko, jarri %1$s operadorearekin harremanetan %2$s zenbakira deituta</string>
+    <string name="profile_transfer_non_recoverable_error_description">"Arazoren bat izan da SIMa transferitzean. Laguntza lortzeko, jarri %1$s operadorearekin harremanetan %2$s zenbakira deituta.
+
+Baliteke gailuaren EID zenbakia eskatzea:
+
+%3$s"</string>
+    <string name="profile_transfer_recoverable_error_deferred_notification_content">Arazoren bat izan da SIMa transferitzean. Saiatu berriro arazoa konpontzen</string>
+    <string name="profile_transfer_recoverable_error_description">Arazoren bat izan da SIMa transferitzean.</string>
+    <string name="profile_transfer_retry_button">Saiatu berriro</string>
+    <string name="profile_transfer_success_deferred_notification_content">%1$s erabiltzeko prest dago</string>
+    <string name="profile_transfer_success_deferred_notification_title">Transferitu da SIMa</string>
+    <string name="profile_transfer_suw_recoverable_error_description">Arazoren bat izan da SIMa transferitzean. Saiatu berriro edo ahalegindu arazoa konpontzen.</string>
+    <string name="psim_guide_dialog_message">Telefonoaren ertzean dago SIM txartelaren erretilua. Erabili SIMa ateratzeko tresna edo klip bat erretilua ireki eta SIM txartel bat sartzeko.</string>
+    <string name="psim_guide_dialog_title">Sartu SIM txartela</string>
+    <string name="q_download_sub_text">Agian minutu batzuk beharko dira</string>
+    <string name="q_download_sub_title">%1$s operadorera konektatzen…</string>
+    <string name="q_multiple_carrier_confirm_title">Aukeratu aktibatu nahi dituzun sareak</string>
+    <string name="q_multiple_carrier_metadata_confirm_subtitle">{count,plural, =1{1 zenbaki dago erabilgarri gailu honetan. Baliteke sare-hornitzailea zerbitzuaren truke kobratzen hastea zenbakiak aktibatzen dituzunean.}other{# zenbaki daude erabilgarri gailu honetan. Baliteke sare-hornitzailea zerbitzuaren truke kobratzen hastea zenbakiak aktibatzen dituzunean.}}</string>
+    <string name="q_result_download_metadata_text">{count,plural, =1{%1$s operadorearen zenbaki bat dago erabilgarri gailu honetan. Baliteke konektatzen zarenean %1$s zerbitzua kobratzen hastea.}other{%1$s operadorearen # zenbaki daude erabilgarri gailu honetan. Baliteke konektatzen zarenean %1$s zerbitzua kobratzen hastea.}}</string>
+    <string name="qr_scanner_end_button">Ezin duzu aurkitu?</string>
+    <string name="qr_scanner_failed_msg">Arazoren bat izan du kamerak. Saiatu berriro geroago.</string>
+    <string name="qr_scanner_failed_title">Kamera ez dago erabilgarri</string>
+    <string name="qr_scanner_msg">Operadoreak QR kode bat eman badizu, eskanea ezazu koadroan erdiratuta</string>
+    <string name="qr_scanner_msg_q">%1$s operadoreak QR kode bat eman badizu, eskanea ezazu koadroan erdiratuta</string>
+    <string name="qr_scanner_msg_q_no_carrier_name">Sare-hornitzaileak QR kode bat eman badizu, eskanea ezazu koadroan erdiratuta</string>
+    <string name="qr_scanner_title">Gehitu operadorea QR kode baten bidez</string>
+    <string name="qr_scanner_title_q">Eskaneatu %1$s sare-hornitzailearen QR kodea</string>
+    <string name="qr_scanner_title_q_no_carrier_name">Eskaneatu sarearen QR kodea</string>
+    <string name="reactivate_error_dialog_body">Arazo bat izan da zenbakia aktibatzean. Saiatu berriro geroago edo sartu berriro SIM txartela.</string>
+    <string name="reactivate_error_dialog_title_with_carrier_name">Ez da aktibatu %1$s operadorea</string>
+    <string name="reactivate_error_dialog_title_without_carrier_name">SIMa ez dago aktibatuta</string>
+    <string name="reason_code_text">Arrazoiaren kodea</string>
+    <string name="reboot_button_title">Berrabiarazi telefonoa</string>
+    <string name="remove_carrier_dialog_text_disabled">"Aurrerantzean gailu hau ez da konektatuko %1$s sarera.
+
+Ez da utziko bertan behera mugikorretarako zerbitzu-planik."</string>
+    <string name="remove_carrier_dialog_text_enabled">"Gailu hau berehala deskonektatuko da %1$s saretik.
+
+Ez da utziko bertan behera mugikorretarako zerbitzu-planik."</string>
+    <string name="remove_carrier_dialog_title">Operadorea ezabatu nahi duzu?</string>
+    <string name="remove_fail_text">Arazo bat izan da; ezin izan da ezabatu operadorea.</string>
+    <string name="remove_fail_title">Ezin izan da ezabatu operadorea</string>
+    <string name="remove_profile_title">Ezabatu</string>
+    <string name="removing_carrier">Operadorea ezabatzen…</string>
+    <string name="res_activate_profile_later_button">Aktibatu geroago</string>
+    <string name="res_activation_button">Konektatu</string>
+    <string name="res_continue_info1_general_multi_carriers">{count,plural, =1{Ezin izan ditugu gehitu %1$s operadorearen eta beste %2$d operadoreren zenbakiak.}other{Ezin izan ditugu gehitu %1$s operadorearen eta beste %2$d operadoreren zenbakiak.}}</string>
+    <string name="res_continue_info1_general_no_carrier">{count,plural, =1{Ezin izan dugu gehitu operadorearen &lt;b>zenbaki bat&lt;/b>.}other{Ezin izan dugu gehitu ezein operadoreren zenbakirik.}}</string>
+    <string name="res_continue_info1_general_single_carrier">{count,plural, =1{Ezin izan dugu gehitu %1$s operadorearen &lt;b>%2$d zenbaki&lt;/b>.}other{Ezin izan ditugu gehitu %1$s operadorearen &lt;b>%2$d zenbaki&lt;/b>.}}</string>
+    <string name="res_continue_info1_no_mem_multi_carriers">{count,plural, =1{Ez dago behar adina toki %1$s operadorearen eta beste %2$d operadoreren zenbakiak gehitzeko.}other{Ez dago behar adina toki %1$s operadorearen eta beste %2$d operadoreren zenbakiak gehitzeko.}}</string>
+    <string name="res_continue_info1_no_mem_no_carrier">{count,plural, =1{Ez dago behar adina toki &lt;b>zenbaki bat&lt;/b> gehitzeko.}other{Ez dago behar adina toki ezein operadoreren zenbakirik gehitzeko.}}</string>
+    <string name="res_continue_info1_no_mem_single_carrier">{count,plural, =1{Ez dago behar adina toki %1$s operadorearen &lt;b>%2$d zenbaki&lt;/b> gehitzeko.}other{Ez dago behar adina toki %1$s operadorearen &lt;b>%2$d zenbaki&lt;/b> gehitzeko.}}</string>
+    <string name="res_continue_info_item_2">Zerbitzurik ez baduzu, eskatu laguntza %1$s operadoreari</string>
+    <string name="res_continue_info_item_2_no_carrier_name">Zerbitzurik ez baduzu, eskatu laguntza operadoreari</string>
+    <string name="res_continue_text_partial_complete_multiple_carriers">{count,plural, =1{%2$s eta %3$s operadoreen &lt;b>%1$d zenbaki&lt;/b> gehitu dituzu}=2{%2$s, %3$s eta beste %4$d operadoreren &lt;b>%1$d zenbaki&lt;/b> gehitu dituzu}other{%2$s, %3$s eta beste %4$d operadoreren &lt;b>%1$d zenbaki&lt;/b> gehitu dituzu}}</string>
+    <string name="res_continue_text_partial_complete_single_carrier">{count,plural, =1{%2$s operadorearen &lt;b>%1$d zenbaki&lt;/b> gehitu duzu}other{%2$s operadorearen &lt;b>%1$d zenbaki&lt;/b> gehitu dituzu}}</string>
+    <string name="res_continue_title_all_success">{count,plural, =1{Gehitu da zenbakia}other{# zenbaki gehitu dira}}</string>
+    <string name="res_continue_title_partial_success">%1$d/%2$d zenbaki gehitu dira</string>
+    <string name="res_download_button">Deskargatu</string>
+    <string name="res_enter_pin_button">Idatzi PINa</string>
+    <string name="res_need_help_button">Laguntza behar duzu?</string>
+    <string name="res_start_button">Hasi</string>
+    <string name="reset_button">Berrezarri</string>
+    <string name="reset_dialog_carriers_body">Operadore guztiak ezabatu nahi dituzu gailutik? Ezingo duzu desegin ekintza.</string>
+    <string name="reset_dialog_carriers_title">Operadoreak berrezarri nahi dituzu?</string>
+    <string name="reset_fail_text">Arazo bat izan da, eta ezin izan dira berrezarri operadoreak.</string>
+    <string name="reset_fail_title">Ezin dira berrezarri operadoreak</string>
+    <string name="reset_screen_text_bottom">Ez da utziko bertan behera mugikorretarako zerbitzu-planik.</string>
+    <string name="reset_screen_text_top">Operadore guztiak kenduko dira gailutik:</string>
+    <string name="reset_screen_title">Berrezarri operadoreak</string>
+    <string name="result_connect_title">%1$s operadorera konektatu nahi duzu?</string>
+    <string name="result_download_metadata_text">{count,plural, =1{%1$s operadorearen zenbaki bat dago erabilgarri gailu honetan.}other{%1$s operadorearen # zenbaki daude erabilgarri gailu honetan.}}</string>
+    <string name="result_download_text">{count,plural, =1{%1$s operadorearen zenbakia telefonoan gehitzeko prest dago}other{%1$s operadorearen &lt;b>%2$d zenbaki&lt;/b> telefonoan gehitzeko prest daude}}</string>
+    <string name="result_download_title">%1$s operadorearen eSIM txartela deskargatu?</string>
+    <string name="scan_it_now">eskanea ezazu</string>
+    <string name="send_feedback">Bidali oharrak</string>
+    <string name="set_up_button">Set up</string>
+    <string name="settings_gear_label">Ezarpenak</string>
+    <string name="sim_action_switch_sub_dialog_carrier_list_item_for_turning_off">Desaktibatu %1$s</string>
+    <string name="sim_action_switch_sub_dialog_info_outline_for_turning_off">SIMa desaktibatu arren, zerbitzua ez da geratuko bertan behera</string>
+    <string name="sim_card_label">SIM txartela</string>
+    <string name="sim_illustration_bottom_alt_text">Pantaila zuregana begira duzula, bilatu kargatzeko ataka. Kargatzeko atakaren ezkerrera dago SIMaren erretilua, telefonoaren behealdean. Erretilua laua da eta koskor txikiak ditu albo guztietan. Zulo txiki bat dago erretiluaren ezkerraldean. Erretilua irekitzeko, sartu zuloan klip baten muturra edo SIMa ateratzeko tresna. SIMa sartzeko, lerrokatu koska erretiluarekin. Modu bakarra dago SIMa sartzeko.</string>
+    <string name="sim_illustration_bottom_left_alt_text">Pantaila zuregana begira duzula, bilatu kargatzeko ataka. Eraman hatza gorantz, telefonoaren ezkerraldera. SIMaren erretilua laua da eta koskor txikiak ditu albo guztietan. Zulo txiki bat dago erretiluaren goialdetik gertu. Erretilua irekitzeko, sartu zuloan klip baten muturra edo SIMa ateratzeko tresna. SIMa sartzeko, lerrokatu koska erretiluarekin. Modu bakarra dago SIMa sartzeko.</string>
+    <string name="sim_illustration_top_left_alt_text">Pantaila zuregana begira duzula, bilatu kargatzeko ataka. Eraman hatza gorantz, telefonoaren ezkerraldera. SIMaren erretilua laua da eta koskor txikiak ditu albo guztietan. Zulo txiki bat dago erretiluaren goialdetik gertu. Erretilua irekitzeko, sartu zuloan klip baten muturra edo SIMa ateratzeko tresna. SIMa sartzeko, lerrokatu koska erretiluarekin. Modu bakarra dago SIMa sartzeko.</string>
+    <string name="sim_locked_text">"Telefonoa operadore jakin baten txartelekin bakarrik erabil daiteke. Sartu operadore horren SIM bat.
+
+SIMa sartutakoan, agian segundo batzuk beharko dira hura aktibatzeko."</string>
+    <string name="sim_locked_title">SIMa ez da bateragarria</string>
+    <string name="sim_missing_activity_esim_button_title">Deskargatu beste eSIM bat</string>
+    <string name="sim_missing_activity_esim_transfer_button_title">Transferitu telefono zahar bateko SIM bat</string>
+    <string name="sim_missing_activity_psim_hint">Lortu SIM txartelak erabiltzeko argibideak</string>
+    <string name="sim_missing_activity_subtitle_no_psim">Deskargatu eSIMa edo sartu SIM txartel bat.</string>
+    <string name="sim_missing_activity_subtitle_psim_exists">"Beste SIM bat gehitzeko, deskargatu beste eSIM bat.
+
+Beste SIM txartel bat erabiltzeko, kendu une honetan telefonoan daukazuna"</string>
+    <string name="sim_missing_activity_subtitle_tmo_esim_primary">Orain, eSIMa deskarga dezakezu, edo SIM txartel bat sartu</string>
+    <string name="sim_missing_activity_subtitle_with_psim">Beste SIM txartel bat erabiltzeko, gailuan dagoena kendu behar duzu</string>
+    <string name="sim_missing_activity_with_tmo_esim_primary_button_title">Deskargatu eSIMa</string>
+    <string name="sim_ready_message">Jada beste zenbaki bat dago konfiguratuta telefonoan</string>
+    <string name="sim_ready_message_carrier_app">%1$s aktibatzen amaitzeko, %2$s operadorearen aplikazioa deskargatu beharko duzu. Oraingoz, amai dezagun telefonoa konfiguratzen.</string>
+    <string name="sim_ready_message_invalid_phone_number_carrier_app">Telefono-zenbakia aktibatzen amaitzeko, %1$s operadorearen aplikazioa deskargatu beharko duzu. Oraingoz, amai dezagun telefonoa konfiguratzen.</string>
+    <string name="sim_ready_title">eSIM bat aurkitu da</string>
+    <string name="sim_ready_title_carrier_app">Konektatu %1$s operadorearen sarera geroago</string>
+    <string name="skip_button">Saltatu</string>
+    <string name="status_title">Egoera</string>
+    <string name="subject_code_text">Gaiaren kodea</string>
+    <string name="sud_back_button_label">Atzera</string>
+    <string name="sud_more_button_label">Gehiago</string>
+    <string name="sud_next_button_label">Hurrengoa</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="suw_carrier_support_to_complete_activation_no_carrier_v2">Zerbitzua aktibatzeko, jarri operadorearekin harremanetan laguntza lortzeko.</string>
+    <string name="suw_default_failed_msg_no_carrier">Arazo bat izan da eta ez da gehitu telefono-zenbakirik</string>
+    <string name="suw_failed_title">Ez da osatu konfigurazioa</string>
+    <string name="suw_pii_sent_msg">Konfiguraziorako behar diren gailuari buruzko datu batzuk Google-ri, operadoreari eta haien bazkideei bidaliko zaizkie</string>
+    <string name="suw_setting_up_phone_info">Minutu bat baino gutxiago geratzen da</string>
+    <string name="suw_setting_up_phone_title">Telefonoa konfiguratzen…</string>
+    <string name="suw_sim_missing_activity_for_delayed_setup_decription">"When you're done setting up your phone, go to Settings to connect to your mobile network. Or, if you have a SIM card, insert it now."</string>
+    <string name="suw_sim_missing_activity_for_delayed_setup_title">Connect to mobile network after setup</string>
+    <string name="switch_button">Aldatu</string>
+    <string name="switch_confirm_mep_dialog_message">Gailu honek bi SIM txartel izan ditzake aktibo aldi berean.</string>
+    <string name="switch_confirm_mep_dialog_title">%1$s erabiltzeko, desaktibatu SIM bat</string>
+    <string name="switch_confirm_message">%1$s operadoretik deskonektatuko da oraingoz</string>
+    <string name="switch_confirm_message_no_carrier">Sare mugikorretik deskonektatuko da oraingoz</string>
+    <string name="switch_confirm_new_title">Erabili wifi-konexioa SIMa deskargatzeko</string>
+    <string name="switch_confirm_no_active_profile_message">Eman SIMa deskargatzeko baimena sare-hornitzaileari</string>
+    <string name="switch_confirm_no_active_profile_title">Laster deskargatuko da SIMa</string>
+    <string name="switch_confirm_no_wifi_message">Beste sare bat erabiltzeko aukera izango duzu</string>
+    <string name="switch_confirm_no_wifi_title">%1$s operadoretik deskonektatu nahi duzu?</string>
+    <string name="switch_confirm_no_wifi_title_no_carrier">Sare mugikorretik deskonektatu nahi duzu?</string>
+    <string name="switch_restriction_message_to_connect_to">%2$s operadorearekin konektatzeko (eta ez %1$s operadorearekin), lehendabizi, kendu %1$s operadorearen SIMa eta saiatu berriro.</string>
+    <string name="switch_restriction_message_to_switch_from">%1$s erabiltzeari uzteko, lehendabizi, kendu %1$s operadorearen SIMa eta saiatu berriro.</string>
+    <string name="switch_restriction_title_remove_sim">Kendu SIMa</string>
+    <string name="sys_notification_5g_enable_dsds_text">"Gailu honek bi SIM txartel izan ditzake aktibo aldi berean.
+
+Bi SIM txartel erabiltzen dituzunean, 4G izango da gehieneko abiadura. %1$s"</string>
+    <string name="sys_notification_after_dsds_reboot_text">Sakatu hau beste SIMa aktibatzen amaitzeko</string>
+    <string name="sys_notification_after_dsds_reboot_title">Aldi berean bi SIM txartel erabiltzeko prest</string>
+    <string name="sys_notification_enable_dsds_text">Gailu honek bi SIM izan ditzake aktibo aldi berean. SIM bakarra erabili nahi baduzu, sakatu \"Ez, eskerrik asko\".</string>
+    <string name="sys_notification_enable_dsds_title">Bi SIM erabili nahi dituzu?</string>
+    <string name="sys_notification_no_thanks">Ez, eskerrik asko</string>
+    <string name="sys_notification_reboot">Berrabiarazi</string>
+    <string name="sys_notification_restart_text">Hasteko, berrabiarazi gailua. Gero, beste SIM txartel bat gehitu ahalko duzu.</string>
+    <string name="sys_notification_restart_title">Gailua berrabiarazi nahi duzu?</string>
+    <string name="sys_notification_selected_text">Aldatu egin da sare mugikorra</string>
+    <string name="sys_notification_switched_title">%1$s sarera aldatu zara</string>
+    <string name="sys_notification_switched_title_no_carrier_name">Beste operadore batera aldatu zara</string>
+    <string name="sys_notification_title">Operadore-aldaketa</string>
+    <string name="temp_error_description_q">{count,plural, =1{Arazoren bat izan da zenbakia aktibatzean. Berriro saia zaitezke geroago Ezarpenak atalean.}other{Arazoren bat izan da zenbakiak aktibatzean. Berriro saia zaitezke geroago Ezarpenak atalean.}}</string>
+    <string name="terms_of_service">Zerbitzu-baldintzak</string>
+    <string name="text_bottom_transfer_carrier_info">Ez duzu ikusten operadorea? Jarri harekin harremanetan laguntza jasotzeko.</string>
+    <string name="title_app_required">Konektatu %1$s sarera geroago</string>
+    <string name="title_cannot_connect_to_network_no_name">Ezin da konektatu sarera</string>
+    <string name="title_cannot_download">Ezin da deskargatu SIMa</string>
+    <string name="title_choose_download_type">Aktibatu %1$s operadorearen telefono-zenbakia</string>
+    <string name="title_choose_transfer_type">Aukeratu %1$s zenbakia transferitzeko modu bat</string>
+    <string name="title_incorrect_qr_code">QR kodea ez da zuzena</string>
+    <string name="title_install_app_notification">Lortu %1$s aplikazioa zenbakia konfiguratzeko</string>
+    <string name="title_network_not_activated">Ez da aktibatu sarea</string>
+    <string name="title_no_connection">Ezin da konektatu Internetera</string>
+    <string name="title_portal_intro">Transferitu %1$s zenbakia</string>
+    <string name="title_profile_already_downloaded">Jada deskargatu da SIMa</string>
+    <string name="title_transfer_type_portal">Hasi saioa %1$s kontuan</string>
+    <string name="title_transfer_type_qr">Eskaneatu QR kode bat</string>
+    <string name="transfer_button">Transferitu</string>
+    <string name="transfer_device_transfer_error">(ezin da transferitu)</string>
+    <string name="transfer_in_device_name">%1$s, %2$s</string>
+    <string name="transfer_profile_downloading_description">Bitartean, %1$s gailua konfiguratzen jarrai dezakezu</string>
+    <string name="transfer_single_description_with_esim">"%1$s will be transferred to this phone.
+
+After you transfer your SIM to this phone, it will no longer work on your other device."</string>
+    <string name="transfer_single_description_with_psim">"You can convert your SIM card into an eSIM and
+transfer it to this phone. After it's been
+converted, your SIM card can't be used again."</string>
+    <string name="transfer_single_psim_hint">Learn how to use a SIM card</string>
+    <string name="transfer_single_psim_sub_info">Or, insert the SIM card now.</string>
+    <string name="transfer_single_subItem_title_with_number">Ez da zenbaki zuzena?</string>
+    <string name="transfer_single_subItem_title_without_number_esim">Ez da eSIM zuzena?</string>
+    <string name="transfer_single_subItem_title_without_number_unknown">Ez da SIM zuzena?</string>
+    <string name="transfer_single_title">Transfer %1$s SIM?</string>
+    <string name="transfer_subItem_desc">Deskargatu beste eSIM bat</string>
+    <string name="transfer_subItem_title_with_number">Ez dira zenbaki zuzenak?</string>
+    <string name="transfer_subItem_title_without_number_esim">Ez dira eSIM zuzenak?</string>
+    <string name="transfer_subItem_title_without_number_unknown">Ez dira SIM zuzenak?</string>
+    <string name="transfer_title_unknown_sim">Hautatu transferitu nahi duzun SIMa</string>
+    <string name="transfer_title_with_number">Hautatu transferitu nahi duzun zenbakia</string>
+    <string name="transfer_title_without_number">Hautatu transferitu nahi duzun eSIM-a</string>
+    <string name="update_button">Eguneratu</string>
+    <string name="use_different_network">Erabili beste sare bat</string>
+    <string name="use_different_network_button">Erabili beste sare bat</string>
+    <string name="user_consent_download_active_profile_body_text">%1$s operadorearen eSIMa desaktibatu egingo da deskargatu bitartean</string>
+    <string name="user_consent_download_mobile_data_body_text">eSIMa sare mugikorraren bidez deskargatuko da</string>
+    <string name="user_consent_download_no_name_body_text">eSIM aktiboa desaktibatu egingo da deskargatu bitartean</string>
+    <string name="user_consent_download_over_wifi_title">Wifi-konexioa erabili nahi duzu eSIMa deskargatzeko?</string>
+    <string name="user_consent_download_ss_no_profile_title">eSIMa deskargatzeko baimena eman nahi diozu operadoreari?</string>
+    <string name="user_consent_download_ss_no_profile_wifi_body_text">eSIMa wifi-konexioaren bidez deskargatuko da</string>
+    <string name="user_consent_download_switch_body_text">"Beste eSIM bat deskargatu eta erabiltzeko, desaktibatu %1$s operadorearen eSIMa.
+
+%1$s operadorearen eSIMa desaktibatuta ere ez da utziko bertan behera zerbitzua."</string>
+    <string name="user_consent_download_switch_dsds_no_name_body_text">"Beste eSIM bat deskargatu eta erabiltzeko, desaktibatu eSIM aktibo bat.
+
+eSIMa desaktibatuta ere ez da utziko bertan behera zerbitzua."</string>
+    <string name="user_consent_download_switch_dsds_no_name_title">eSIM bat desaktibatu nahi duzu?</string>
+    <string name="user_consent_download_switch_no_profile_body_text">Deskargatu bezain laster erabiliko da eSIMa</string>
+    <string name="user_consent_download_switch_ss_no_name_body_text">"Beste eSIM bat deskargatu eta erabiltzeko, desaktibatu eSIM aktiboa.
+
+eSIMa desaktibatuta ere ez da utziko bertan behera zerbitzua."</string>
+    <string name="user_consent_download_switch_ss_no_name_title">eSIMa desaktibatu nahi duzu?</string>
+    <string name="user_consent_switch_dsds_body_text">"Gailuak eSIM bakarra eduki dezake aktibo.
+
+%1$s operadorearen eSIMa desaktibatu egingo da, baina ez da utziko bertan behera zerbitzua."</string>
+    <string name="user_consent_switch_dsds_no_name_body_text">"Gailuak eSIM bakarra eduki dezake aktibo.
+
+Une honetako eSIMa desaktibatu egingo da, baina ez da utziko bertan behera zerbitzua."</string>
+    <string name="user_consent_switch_mep_dsds_body_text">%1$s desaktibatu egingo da, baina ez da utziko bertan behera zerbitzua.</string>
+    <string name="user_consent_switch_mep_dsds_no_name_body_text">Une honetako SIMa desaktibatu egingo da, baina ez da utziko bertan behera zerbitzua.</string>
+    <string name="user_consent_switch_no_name_title">eSIM berria erabili nahi duzu?</string>
+    <string name="user_consent_switch_ss_body_text">"Gailuak eSIM bakarra eduki dezake aktibo.
+
+%1$s operadorearen eSIMa desaktibatu egingo da, baina ez da utziko bertan behera zerbitzua."</string>
+    <string name="user_consent_switch_ss_no_name_body_text">"Gailuak eSIM bakarra eduki dezake aktibo.
+
+Une honetako eSIMa desaktibatu egingo da, baina ez da utziko bertan behera zerbitzua."</string>
+    <string name="user_consent_switch_title">%1$s operadorearen eSIMa erabili nahi duzu?</string>
+    <string name="v7_preference_off">DESAKTIBATUTA</string>
+    <string name="v7_preference_on">AKTIBATUTA</string>
+    <string name="wait_msg">Unetxo bat…</string>
+    <string name="wrong_code_dialog_text">"Operadore batzuk egiaztapen-kode bat eskatzen dute segurtasun gehiago izateko. Litekeena da kodea hauetako batean egotea:
+
+• gailuarekin zetorren paper batean
+• operadoreak bidalitako mezu elektroniko batean
+• aurreko gailura bidalitako testu-mezu batean"</string>
+    <string name="yes_button">Bai</string>
+</resources>

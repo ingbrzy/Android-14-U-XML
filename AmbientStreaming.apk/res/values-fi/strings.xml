@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Laitteidenväliset palvelut</string>
+    <string name="app_name_generic">sovellus</string>
+    <string name="app_stream_error_generic">Sovelluksen jakamisen aikana tapahtui virhe</string>
+    <string name="app_stream_init_error_generic">Sovelluksen jakaminen Chromebookiin ei onnistunut</string>
+    <string name="audio_permission_rationale">Mikrofonin lupa sovelluksen jakamiselle ei ole käytössä</string>
+    <string name="cancel_button_label">Peru</string>
+    <string name="chromebook_keyboard">Chromebookin näppäimistö</string>
+    <string name="chromebook_mouse">Chromebookin hiiri</string>
+    <string name="chromebook_touchscreen">Chromebookin kosketusnäyttö</string>
+    <string name="connect_device">Yhdistetään puhelinta etälaitteeseen: %1$s</string>
+    <string name="decline_button_label">Hylkää</string>
+    <string name="development_notification_channel_name">Kehitys</string>
+    <string name="device_camera_cannot_access">Laitteen kameraa ei voi käyttää tämän Chromebookin kautta</string>
+    <string name="done_button_label">Valmis</string>
+    <string name="enable_button_label">Käytä</string>
+    <string name="foreground_service_notification_channel_name">Yleiset</string>
+    <string name="foreground_service_notification_content">Muuta asetuksia napauttamalla</string>
+    <string name="foreground_service_notification_title">{0,plural, =1{Yhdistetty # laitteeseen}other{Yhdistetty # laitteeseen}}</string>
+    <string name="interactive_streaming_generic_notification">Striimataan: %1$s. Ilmoituksia synkronoidaan Chromebookin kanssa</string>
+    <string name="interactive_streaming_individual_notification">Striimataan %1$s-sovellusta ja synkronoidaan ilmoituksia: %2$s</string>
+    <string name="interactive_streaming_notification">Striimataan Chromebookiin</string>
+    <string name="keyboard_name">Laitteiden välinen näppäimistö</string>
+    <string name="lock_screen_notif_warning_content">Salli ilmoitukset lukitusnäytöllä</string>
+    <string name="lock_screen_notif_warning_title">Ilmoituksia ei välitetä eteenpäin</string>
+    <string name="mouse_name">Laitteiden välinen hiiri</string>
+    <string name="new_connection_confirm">Vahvista</string>
+    <string name="new_connection_deny">Estä</string>
+    <string name="new_connection_title">Vahvista vastaavuus</string>
+    <string name="notification_access_missing">Ilmoituksien pääsyoikeus tarvitaan</string>
+    <string name="notification_access_missing_description">Laita ilmoitusten käyttöoikeus päälle, niin voit avata ilmoituksia Chromebookilla</string>
+    <string name="notification_channel_name">Yleinen</string>
+    <string name="notification_listener_label">Jaa sovelluksia Chromebookille</string>
+    <string name="open_source_licenses">Avoimen lähdekoodin lisenssit</string>
+    <string name="phone_permission_rationale">Soittolupa sovellusten jakamiseksi on poistettu käytöstä</string>
+    <string name="prompt_switch_languages">Vaihda puhelimen Gboard-kieltä painamalla vaihto + välilyönti</string>
+    <string name="settings_button">Asetukset</string>
+    <string name="stop_sharing_button">Lopeta striimi</string>
+    <string name="stream_termination_proximity_warning">Puhelimesi on liian kaukana. Tuo puhelin lähemmäs, jotta voit jatkaa striimausta.</string>
+    <string name="substitute_app_name">Järjestelmä</string>
+    <string name="summary_disable_wirecutter">Poissa päältä</string>
+    <string name="summary_enable_wirecutter">Päällä</string>
+    <string name="touchscreen_name">Laitteiden välinen kosketusnäyttö</string>
+</resources>

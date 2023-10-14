@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dots">
+        <item quantity="other">%s نقطے</item>
+        <item quantity="one">نقطہ %s</item>
+    </plurals>
+    <plurals name="gestures_recorded_message">
+        <item quantity="other">%d اشارے ریکارڈ کیے گئے</item>
+        <item quantity="one">1 اشارہ ریکارڈ کیا گیا</item>
+    </plurals>
+    <plurals name="label_num_keys_assigned_format">
+        <item quantity="other">%d سوئچز تفویض کئے گئے</item>
+        <item quantity="one">%d سوئچ تفویض کیا گیا</item>
+    </plurals>
+    <plurals name="label_num_scanning_loops_format">
+        <item quantity="other">%d لوپس</item>
+        <item quantity="one">%d لوپ</item>
+    </plurals>
+    <plurals name="line_speed_summary_format">
+        <item quantity="other">%.2f سینٹی میٹر فی سیکنڈ</item>
+        <item quantity="one">1 سینٹی میٹر فی سیکنڈ</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d نئی اطلاعات</item>
+        <item quantity="one">%d نئی اطلاع</item>
+    </plurals>
+    <plurals name="time_delay_summary_format">
+        <item quantity="other">%.2f سیکنڈ</item>
+        <item quantity="one">1 سیکنڈ</item>
+    </plurals>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_error_bad_calibration">Tipala prstnih odtisov ni mogoče uporabiti. Obiščite ponudnika popravil ali spletno stran g.co/pixel/fingerprintunlock.</string>
+    <string name="fingerprint_recalibrate_notification_content">Obiščite ponudnika popravil ali spletno stran g.co/pixel/fingerprintunlock.</string>
+    <string name="battery_saver_description_with_learn_more">"Funkcija varčevanja z energijo baterije podaljša čas delovanja baterije tako:
+
+• vklopi temno temo;
+• izklopi ali omeji dejavnost v ozadju, nekatere vizualne učinke in druge funkcije, kot je »Hey Google«;
+• optimizira omrežne povezave.
+
+"<annotation id="url">Več o tem</annotation></string>
+</resources>

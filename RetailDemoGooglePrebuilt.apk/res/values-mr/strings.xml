@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_retaildemoCommunication">अ‍ॅपला रिटेल डेमो सेवांशी संवाद साधण्याची अनुमती देते. फक्त रिटेल डेमो ला ही परवानगी दिली जावी. ही परवानगी दिलेली अ‍ॅप्स रिटेल डेमो मोड साठी राखीव असलेल्या कृती ट्रिगर करू शकतात.</string>
+    <string name="permlab_retaildemoCommunication">रिटेल डेमो संबंधित संवाद</string>
+    <string name="retaildemo_preload_app_name">रिटेल डेमो सेवा</string>
+</resources>

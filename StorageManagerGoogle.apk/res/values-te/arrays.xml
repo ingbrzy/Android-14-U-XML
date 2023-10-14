@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="select_logpersist_summaries">
+        <item>ఆఫ్</item>
+        <item>అన్ని లాగ్ బఫర్‌లు</item>
+        <item>అన్నీ కానీ రేడియో లాగ్ బఫర్‌లు</item>
+        <item>కెర్నెల్ లాగ్ బఫర్ మాత్రమే</item>
+    </string-array>
+</resources>

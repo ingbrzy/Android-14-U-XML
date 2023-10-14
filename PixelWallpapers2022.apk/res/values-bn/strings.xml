@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="azure_title">অ্যাজর জে</string>
+    <string name="blackswan_title">কালো রাজহাঁস</string>
+    <string name="cockatoo_title">কাকাতুয়া</string>
+    <string name="come_alive_title">আপনার স্পর্শে জীবন্ত</string>
+    <string name="feathers_attribution">অ্যান্ড্রু জুকারমেনের তোলা ছবি</string>
+    <string name="feathers_description">সুন্দর রঙের সূক্ষ পালক</string>
+    <string name="feathers_title">পালক</string>
+    <string name="greenwinged_title">সবুজ পালক যুক্ত ম্যাকাউ</string>
+    <string name="king_title">কিং ভালচার</string>
+    <string name="living_universe_title">মহাবিশ্বের বাস্তব ছবি</string>
+    <string name="photos_memory_gallery_title">আপনার স্মৃতি</string>
+    <string name="pied_title">পাইড ক্রো</string>
+    <string name="ringnecked_title">সবুজ টিয়া</string>
+    <string name="seagull_title">সিগাল</string>
+</resources>

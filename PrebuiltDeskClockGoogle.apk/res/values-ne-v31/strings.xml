@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="analog_gadget">एनालग</string>
+    <string name="digital_gadget">डिजिटल</string>
+    <string name="analog_widget_clover_clock_name">क्लोभर</string>
+    <string name="analog_widget_clover_content_description">क्लोभरका आकारको घडी</string>
+    <string name="analog_widget_config_activity_title">वाच फेस चयन गर्नुहोस्</string>
+    <string name="analog_widget_day_clock_name">दिन</string>
+    <string name="analog_widget_day_content_description">गते/तारिख देखाइएको घडी</string>
+    <string name="analog_widget_numeral_clock_name">अङ्क देखाइएको घडी</string>
+    <string name="analog_widget_numeral_content_description">ठुला साइजका अङ्क देखाइएको घडी</string>
+    <string name="analog_widget_scallop_clock_name">स्क्यालप</string>
+    <string name="analog_widget_scallop_content_description">स्मार्ट घडीको महिना र हप्ताका दिनको जानकारी दिइएको स्क्रिन</string>
+    <string name="cities_widget_config_activity_subtitle">घडीको ट्याबबाट सहरहरू हाल्न सकिन्छ</string>
+    <string name="cities_widget_config_activity_subtitle_button">घडी एपमा सहरहरू छनौट गर्नुहोस्</string>
+    <string name="cities_widget_preview_city_london">लन्डन</string>
+    <string name="cities_widget_preview_city_mountain_view">माउन्टेन भ्यू</string>
+    <string name="clock_widget_opaque_label">अपारदर्शी</string>
+    <string name="clock_widget_transparent_label">पारदर्शी</string>
+    <string name="digital_appwidget_config_activity_title">घडीको शैली छनौट गर्नुहोस्</string>
+    <string name="digital_cities_gadget">विश्व</string>
+    <string name="digital_cities_gadget_description">घडी एपमा सहरहरू छनौट गर्नुहोस्</string>
+    <string name="digital_stacked_gadget">घण्टाको मुनि मिनेट भएको घडी</string>
+    <string name="digital_widgets_preview_alarm">सोम ०९:३०</string>
+    <string name="stopwatch_gadget_description">घडी एपको स्टपवाच नियन्त्रण गर्नुहोस्</string>
+</resources>

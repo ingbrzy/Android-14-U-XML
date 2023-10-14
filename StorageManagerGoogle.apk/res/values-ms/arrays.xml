@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="select_logpersist_summaries">
+        <item>Mati</item>
+        <item>Semua penimbal log</item>
+        <item>Semua kecuali penimbal log radio</item>
+        <item>penimbal log inti sahaja</item>
+    </string-array>
+</resources>

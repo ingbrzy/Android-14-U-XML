@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_retaildemoCommunication">"Permet a l'aplicació interaccionar amb Serveis de demostració per a botigues. Només s'ha de concedir aquest permís a la demostració per a botigues. Les aplicacions amb aquest permís poden activar accions reservades per al mode de demostració per a botigues."</string>
+    <string name="permlab_retaildemoCommunication">Comunicacions de demostració per a botigues</string>
+    <string name="retaildemo_preload_app_name">Demo. per a botigues</string>
+</resources>

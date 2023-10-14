@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sound_amplifier_html_description">Amplificatore alza il volume dei suoni deboli senza alzare troppo i suoni potenti&lt;br/>&lt;br/> &lt;b>Come utilizzare Amplificatore&lt;/b>&lt;br/> 1. Collega le cuffie tramite cavo o Bluetooth&lt;br/> 2. Avvia Amplificatore</string>
+    <string name="sound_amplifier_intro">"Usa Amplificatore con le cuffie per migliorare la qualità dell'audio dell'ambiente in cui ti trovi e del dispositivo"</string>
+</resources>

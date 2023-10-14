@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="calendar_default_name">ברירת מחדל</string>
+    <string name="calendar_info">פרטי היומן</string>
+    <string name="calendar_info_error">שגיאה</string>
+    <string name="calendar_info_events">אירועים: %1$d</string>
+    <string name="calendar_info_events_dirty">אירועים: %1$d, לא התבצעה שמירה: %2$d</string>
+    <string name="calendar_info_no_calendars">אין יומנים</string>
+    <string name="calendar_storage">אחסון היומן</string>
+    <string name="debug_tool_delete_button">אני רוצה למחוק עכשיו</string>
+    <string name="debug_tool_email_body">מצורף מסד הנתונים של היומן שלי, עם כל הפגישות והמידע האישי שלי. צריך לשמור עליו היטב.</string>
+    <string name="debug_tool_email_sender_picker">בחירת תוכנית לשליחת הקובץ שלך</string>
+    <string name="debug_tool_email_subject">מצורף מסד הנתונים של היומן</string>
+    <string name="debug_tool_message">הפעולות שעומדות להתבצע: 1) יצירת עותק של מסד הנתונים של היומן בכרטיס SD/באחסון USB, שיהיה ניתן לקריאה על ידי כל אפליקציה ו-2) שליחה שלו באימייל. חשוב למחוק עותק זה מיד לאחר שהוא יועתק בהצלחה מהמכשיר או לאחר שהאימייל יתקבל.</string>
+    <string name="debug_tool_start_button">התחלה</string>
+    <string name="provider_label">יומן</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_retaildemoCommunication">Mengizinkan aplikasi berinteraksi dengan Layanan Demo Promo. Hanya Demo Promo yang boleh diberikan izin ini. Aplikasi yang diberikan izin ini dapat memicu tindakan yang disediakan untuk Mode Demo Promo.</string>
+    <string name="permlab_retaildemoCommunication">Komunikasi Demo Promo</string>
+    <string name="retaildemo_preload_app_name">Layanan Demo Promo</string>
+</resources>

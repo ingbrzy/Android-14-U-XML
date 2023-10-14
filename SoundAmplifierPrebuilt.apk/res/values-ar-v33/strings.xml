@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sound_amplifier_html_description">تساعد خدمة \"مضخّم الصوت\" على رفع مستوى الأصوات المنخفضة بدون الشعور بارتفاع في الأصوات القوية&lt;br/>&lt;br/> &lt;b>كيفية استخدام \"مضخّم الصوت\"&lt;/b>&lt;br/> 1- توصيل سمّاعات رأس سلكية أو تعمل بالبلوتوث&lt;br/> 2- بدء \"مضخّم الصوت\"</string>
+    <string name="sound_amplifier_intro">يمكنك استخدام \"مضخّم الصوت\" مع سمّاعات الرأس لتحسين جودة الصوت في بيئتك المحيطة وعلى جهازك.</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="live_transcribe_description">"Миттєва транскрипція фіксує мовлення з мікрофона пристрою та виводить його як текст.
+
+Google обробляє ваші розмови, але ніколи не зберігає їх."</string>
+</resources>

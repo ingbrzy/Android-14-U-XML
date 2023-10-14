@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="call_captions_typing_predictions_post_system_message">
+        <item>नमस्ते, यह कौन है?</item>
+        <item>नमस्ते, क्या हाल हैं आपके?</item>
+        <item>कृपया थोड़ी देर रुकें</item>
+        <item>नमस्ते, मुझे थोड़ी देर बाद कॉल करें?</item>
+        <item>नमस्ते! कॉल करने के लिए धन्यवाद.</item>
+    </string-array>
+    <string-array name="captions_settings_enable_for_calls_choices_entries">
+        <item>हर बार पूछें</item>
+        <item>हमेशा</item>
+        <item>बंद</item>
+    </string-array>
+    <string-array name="captions_settings_typing_voice_names">
+        <item>आवाज़ A</item>
+        <item>आवाज़ B</item>
+        <item>आवाज़ C</item>
+        <item>आवाज़ D</item>
+        <item>आवाज़ E</item>
+        <item>आवाज़ F</item>
+        <item>आवाज़ G</item>
+        <item>आवाज़ H</item>
+        <item>आवाज़ I</item>
+        <item>आवाज़ J</item>
+        <item>आवाज़ K</item>
+        <item>आवाज़ L</item>
+        <item>आवाज़ M</item>
+        <item>आवाज़ N</item>
+        <item>आवाज़ O</item>
+        <item>आवाज़ P</item>
+    </string-array>
+    <string-array name="pref_download_policy_entries">
+        <item>मोबाइल और वाई-फ़ाई</item>
+        <item>सिर्फ़ वाई-फ़ाई का इस्तेमाल करें</item>
+        <item>अपडेट न करें</item>
+    </string-array>
+    <string-array name="pref_download_policy_entry_values_placeholder">
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+</resources>

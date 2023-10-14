@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="azure_title">Азурна сојка</string>
+    <string name="blackswan_title">Црн лебед</string>
+    <string name="cockatoo_title">Какаду</string>
+    <string name="come_alive_title">Внесете живот</string>
+    <string name="feathers_attribution">Фотографија од Ендру Зукерман</string>
+    <string name="feathers_description">Пердувест приказ на бои и детали</string>
+    <string name="feathers_title">Пердуви</string>
+    <string name="greenwinged_title">Зеленокрила ара</string>
+    <string name="king_title">Кралски мршојадец</string>
+    <string name="living_universe_title">Жив универзум</string>
+    <string name="photos_memory_gallery_title">Вашите спомени</string>
+    <string name="pied_title">Пегава чавка</string>
+    <string name="ringnecked_title">Мал александар</string>
+    <string name="seagull_title">Галеб</string>
+</resources>

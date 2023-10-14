@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ndays">
+        <item quantity="other">%d дни</item>
+        <item quantity="one">1 ден</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%d часа</item>
+        <item quantity="one">1 час</item>
+    </plurals>
+    <plurals name="Nminutes">
+        <item quantity="other">%d минути</item>
+        <item quantity="one">1 минута</item>
+    </plurals>
+    <plurals name="Nweeks">
+        <item quantity="other">%d седмици</item>
+        <item quantity="one">1 седмица</item>
+    </plurals>
+    <plurals name="a11y_filter_capacity">
+        <item quantity="other">Необходим капацитет на помещението: %1$d места</item>
+        <item quantity="one">Необходим капацитет на помещението: 1 място</item>
+    </plurals>
+    <plurals name="accessibility_find_time_custom_duration_hour_input">
+        <item quantity="other">%d часа</item>
+        <item quantity="one">%d час</item>
+    </plurals>
+    <plurals name="accessibility_find_time_custom_duration_minute_input">
+        <item quantity="other">%d минути</item>
+        <item quantity="one">%d минута</item>
+    </plurals>
+    <plurals name="accessibility_has_time_proposals">
+        <item quantity="other">има предложения за време</item>
+        <item quantity="one">има предложение за време</item>
+    </plurals>
+    <plurals name="alternate_search_available_announce">
+        <item quantity="other">Търсенето завърши с(ъс) %d резултата.</item>
+        <item quantity="one">Търсенето завърши с %d резултат.</item>
+    </plurals>
+    <plurals name="annually_frequency_text">
+        <item quantity="other">Да се повтаря на %1$d %2$s</item>
+        <item quantity="one">Да се повтаря на %1$d %2$s</item>
+    </plurals>
+    <plurals name="birthday_chip_title">
+        <item quantity="other">%d рождени дни</item>
+        <item quantity="one">Рожден ден</item>
+    </plurals>
+    <plurals name="calendar_daily_lower">
+        <item quantity="other">на всеки %d дни</item>
+        <item quantity="one">ежедневно</item>
+    </plurals>
+    <plurals name="calendar_monthly_interval_lower">
+        <item quantity="other">на всеки %1$d месеца</item>
+        <item quantity="one">ежемесечно</item>
+    </plurals>
+    <plurals name="calendar_weekly_lower">
+        <item quantity="other">на всеки %1$d седмици</item>
+        <item quantity="one">ежеседмично</item>
+    </plurals>
+    <plurals name="calendar_yearly_interval_lower">
+        <item quantity="other">на всеки %1$d години</item>
+        <item quantity="one">ежегодно</item>
+    </plurals>
+    <plurals name="capacity_description">
+        <item quantity="other">%d души</item>
+        <item quantity="one">един човек</item>
+    </plurals>
+    <plurals name="count_duration_accessibility_description">
+        <item quantity="other">Завършва след %d провеждания</item>
+        <item quantity="one">Завършва след едно провеждане</item>
+    </plurals>
+    <plurals name="count_duration_label">
+        <item quantity="other">След %d провеждания</item>
+        <item quantity="one">След %d провеждане</item>
+    </plurals>
+    <plurals name="daily_frequency_text">
+        <item quantity="other">Да се повтаря на %1$d %2$s</item>
+        <item quantity="one">Да се повтаря на %1$d %2$s</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">дни</item>
+        <item quantity="one">ден</item>
+    </plurals>
+    <plurals name="days_before">
+        <item quantity="other">дни преди</item>
+        <item quantity="one">ден преди</item>
+    </plurals>
+    <plurals name="describe_attachments">
+        <item quantity="other">Прикачени файлове: %1$d прикачени файла</item>
+        <item quantity="one">Прикачени файлове: %1$d прикачен файл</item>
+    </plurals>
+    <plurals name="done_reminders_title">
+        <item quantity="other">%d готови напомняния</item>
+        <item quantity="one">%d готово напомняне</item>
+    </plurals>
+    <plurals name="end_by_count">
+        <item quantity="other">– общо %d пъти</item>
+        <item quantity="one">– общо един път</item>
+    </plurals>
+    <plurals name="error_working_location_duration_too_long">
+        <item quantity="other">Работните места не могат да се настройват за повече от %1$d дни.</item>
+        <item quantity="one">Работните места не могат да се настройват за повече от %1$d ден.</item>
+    </plurals>
+    <plurals name="files_not_shared_dialog_body">
+        <item quantity="other">Гостите ви може да нямат достъп до файловете, които вмъкнахте от Диск. Може да се наложи да ги споделите от Google Диск.</item>
+        <item quantity="one">Гостите ви може да нямат достъп до файла, който вмъкнахте от Диск. Може да се наложи да го споделите от Google Диск.</item>
+    </plurals>
+    <plurals name="find_a_time_invisible_attendee">
+        <item quantity="other">Още +%d</item>
+        <item quantity="one">Още +%d</item>
+    </plurals>
+    <plurals name="find_time_duration_hour_label">
+        <item quantity="other">%d часа</item>
+        <item quantity="one">%d час</item>
+    </plurals>
+    <plurals name="find_time_duration_minute_label">
+        <item quantity="other">%d минути</item>
+        <item quantity="one">%d минута</item>
+    </plurals>
+    <plurals name="fix_permissions_does_not_fix_everything_warning">
+        <item quantity="other">Забележка: Възможно е някои гости все пак да нямат достъп до тези файлове. Може да се наложи да ги споделите от Google Диск.</item>
+        <item quantity="one">Забележка: Възможно е някои гости все пак да нямат достъп до този файл. Може да се наложи да го споделите от Google Диск.</item>
+    </plurals>
+    <plurals name="fix_permissions_outside_domain_warning_hedgehog">
+        <item quantity="other">"Споделяте със следните гости,&lt;br>&lt;b>%1$s
+&lt;/b>&lt;br> които не са в организацията в Google Workspace, притежаваща тези файлове"</item>
+        <item quantity="one">Споделяте със следните гости,&lt;br>&lt;b>%1$s&lt;/b>&lt;br> които не са в организацията в Google Workspace, притежаваща този файл</item>
+    </plurals>
+    <plurals name="guest_count">
+        <item quantity="other">%d гости</item>
+        <item quantity="one">%d гост</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">часа</item>
+        <item quantity="one">час</item>
+    </plurals>
+    <plurals name="hours_before">
+        <item quantity="other">часа преди</item>
+        <item quantity="one">час преди</item>
+    </plurals>
+    <plurals name="ical_many_events_warning">
+        <item quantity="other">Това действие ще добави %d събития и не може да бъде отменено. Наистина ли искате това?</item>
+        <item quantity="one">Това действие ще добави %d събитие и не може да бъде отменено. Наистина ли искате това?</item>
+    </plurals>
+    <plurals name="mark_reminders_done_title">
+        <item quantity="other">Да се означат ли %d напомняния като готови?</item>
+        <item quantity="one">Да се означи ли %d напомняне като готово?</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">минути</item>
+        <item quantity="one">минута</item>
+    </plurals>
+    <plurals name="minutes_before">
+        <item quantity="other">минути преди</item>
+        <item quantity="one">минута преди</item>
+    </plurals>
+    <plurals name="month_view_hidden_events">
+        <item quantity="other">Още %d</item>
+        <item quantity="one">Още %d</item>
+    </plurals>
+    <plurals name="monthly_frequency_text">
+        <item quantity="other">Да се повтаря на %1$d %2$s</item>
+        <item quantity="one">Да се повтаря на %1$d %2$s</item>
+    </plurals>
+    <plurals name="more_guests">
+        <item quantity="other">и още %1$d</item>
+        <item quantity="one">и още %1$d</item>
+    </plurals>
+    <plurals name="no_room_suggestions_title">
+        <item quantity="other">За %1$d гости няма предложения за помещения</item>
+        <item quantity="one">За 1 гост няма предложения за помещения</item>
+    </plurals>
+    <plurals name="num_rooms">
+        <item quantity="other">%1$d помещения</item>
+        <item quantity="one">%1$d помещение</item>
+    </plurals>
+    <plurals name="public_notification_text">
+        <item quantity="other">%1$d new notifications</item>
+        <item quantity="one">You have a notification</item>
+    </plurals>
+    <plurals name="recurrence_frequency_annually">
+        <item quantity="other">години</item>
+        <item quantity="one">година</item>
+    </plurals>
+    <plurals name="recurrence_frequency_daily">
+        <item quantity="other">дни</item>
+        <item quantity="one">ден</item>
+    </plurals>
+    <plurals name="recurrence_frequency_monthly">
+        <item quantity="other">месеца</item>
+        <item quantity="one">месец</item>
+    </plurals>
+    <plurals name="recurrence_frequency_weekly">
+        <item quantity="other">седмици</item>
+        <item quantity="one">седмица</item>
+    </plurals>
+    <plurals name="reminder_bundle_description_prefix">
+        <item quantity="other">%d напомняния:</item>
+        <item quantity="one">%d напомняне:</item>
+    </plurals>
+    <plurals name="reminder_done_bundle_description_prefix">
+        <item quantity="other">%d готови напомняния:</item>
+        <item quantity="one">%d готово напомняне:</item>
+    </plurals>
+    <plurals name="reminders_marked_done">
+        <item quantity="other">%d напомняния са означени като готови.</item>
+        <item quantity="one">%d напомняне е означено като готово.</item>
+    </plurals>
+    <plurals name="reminders_migration_dialog_title">
+        <item quantity="other">Превръщане на %d напомняния в задачи</item>
+        <item quantity="one">Превръщане на %d напомняне в задача</item>
+    </plurals>
+    <plurals name="reminders_migration_force_completed_toast">
+        <item quantity="other">Напомнянията вече са задачи. %1$d напомняния бяха превърнати в задачи за %2$s.</item>
+        <item quantity="one">Напомнянията вече са задачи. %1$d напомняне бе превърнато в задача за %2$s.</item>
+    </plurals>
+    <plurals name="reminders_migration_keep_only_dialog_title">
+        <item quantity="other">Вашите %d напомняния ще са налице в Google Keep</item>
+        <item quantity="one">Вашето %d напомняне ще бъде налице в Google Keep</item>
+    </plurals>
+    <plurals name="reminders_migration_keep_only_reminders_dialog_description_with_account">
+        <item quantity="other">Като %s всичките ви напомняния бяха създадени в Google Keep и не могат да бъдат превърнати в задачи. Те ще бъдат премахнати от Календар, но пак можете да ги управлявате в Keep.</item>
+        <item quantity="one">Като %s напомнянето ви бе създадено в Google Keep и не може да бъде превърнато в задача. Ще бъде премахнато от Календар, но пак можете да го управлявате в Keep.</item>
+    </plurals>
+    <plurals name="reminders_migration_partial_failure_some_remaining_toast">
+        <item quantity="other">Само %1$d напомняния бяха превърнати в задачи за %2$s. Остават някои напомняния.</item>
+        <item quantity="one">Само %1$d напомняне бе превърнато в задача за %2$s. Остават някои напомняния.</item>
+    </plurals>
+    <plurals name="reminders_migration_tooltip_remark">
+        <item quantity="other">Вашите %d напомняния бяха превърнати в задачи.</item>
+        <item quantity="one">Вашето %d напомняне бе превърнато в задача.</item>
+    </plurals>
+    <plurals name="reminders_migration_tooltip_with_keep_reminders_remark">
+        <item quantity="other">%d напомняния бяха превърнати в задачи. Напомнянията, създадени в Google Keep, не бяха променени. Те ще бъдат премахнати от Календар, но пак можете да ги управлявате в Keep.</item>
+        <item quantity="one">%d напомняне бе превърнато в задача. Напомнянията, създадени в Google Keep, не бяха променени. Те ще бъдат премахнати от Календар, но пак можете да ги управлявате в Keep.</item>
+    </plurals>
+    <plurals name="reminders_migration_voluntary_completed_keep_only_toast">
+        <item quantity="other">%1$d напомняния бяха премахнати от Календар за %2$s, но остават в Keep</item>
+        <item quantity="one">%1$d напомняне бе премахнато от Календар за %2$s, но остава в Keep</item>
+    </plurals>
+    <plurals name="reminders_migration_voluntary_completed_toast">
+        <item quantity="other">%1$d напомняния бяха превърнати в задачи за %2$s</item>
+        <item quantity="one">%1$d напомняне бе превърнато в задача за %2$s</item>
+    </plurals>
+    <plurals name="reminders_title">
+        <item quantity="other">%d напомняния</item>
+        <item quantity="one">%d напомняне</item>
+    </plurals>
+    <plurals name="response_count_accepted">
+        <item quantity="other">%s „да“</item>
+        <item quantity="one">%s „да“</item>
+    </plurals>
+    <plurals name="response_count_accepted_in_a_meeting_room">
+        <item quantity="other">%s в помещение за срещи</item>
+        <item quantity="one">%s в помещение за срещи</item>
+    </plurals>
+    <plurals name="response_count_accepted_virtually">
+        <item quantity="other">%s виртуално</item>
+        <item quantity="one">%s виртуално</item>
+    </plurals>
+    <plurals name="response_count_declined">
+        <item quantity="other">%s „не“</item>
+        <item quantity="one">%s „не“</item>
+    </plurals>
+    <plurals name="response_count_need_action">
+        <item quantity="other">%s неотговорили</item>
+        <item quantity="one">%s неотговорил(а)</item>
+    </plurals>
+    <plurals name="response_count_tentative">
+        <item quantity="other">%s „може би“</item>
+        <item quantity="one">%s „може би“</item>
+    </plurals>
+    <plurals name="room_capacity_description">
+        <item quantity="other">Конферентна зала за %1$d души</item>
+        <item quantity="one">Конферентна зала за един човек</item>
+    </plurals>
+    <plurals name="short_invisible_all_day_events">
+        <item quantity="other">+%d</item>
+        <item quantity="one">+%d</item>
+    </plurals>
+    <plurals name="smartmail_seats">
+        <item quantity="other">места %s</item>
+        <item quantity="one">място %s</item>
+    </plurals>
+    <plurals name="smartmail_time_day_offset">
+        <item quantity="other">%d дни</item>
+        <item quantity="one">%d ден</item>
+    </plurals>
+    <plurals name="survey_star_rating">
+        <item quantity="other">%1$d от %2$d звезди</item>
+        <item quantity="one">%1$d от %2$d звезди</item>
+    </plurals>
+    <plurals name="tasks_rollover_chip_title">
+        <item quantity="other">%d предстоящи задачи</item>
+        <item quantity="one">%d предстояща задача</item>
+    </plurals>
+    <plurals name="tasks_rollover_dialog_description">
+        <item quantity="other">През последните %d дни</item>
+        <item quantity="one">През последния %d ден</item>
+    </plurals>
+    <plurals name="weekly_by_day_lower">
+        <item quantity="other">на всеки %1$d седмици в(ъв) %2$s</item>
+        <item quantity="one">ежеседмично в(ъв) %2$s</item>
+    </plurals>
+    <plurals name="weekly_frequency_text">
+        <item quantity="other">Да се повтаря на %1$d %2$s</item>
+        <item quantity="one">Да се повтаря на %1$d %2$s</item>
+    </plurals>
+    <plurals name="weeks">
+        <item quantity="other">седмици</item>
+        <item quantity="one">седмица</item>
+    </plurals>
+    <plurals name="weeks_before">
+        <item quantity="other">седмици преди</item>
+        <item quantity="one">седмица преди</item>
+    </plurals>
+</resources>

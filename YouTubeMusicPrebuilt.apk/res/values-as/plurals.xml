@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_duration_description_hours">
+        <item quantity="other">%dঘণ্টা</item>
+        <item quantity="one">%dঘণ্টা</item>
+    </plurals>
+    <plurals name="accessibility_duration_description_minutes">
+        <item quantity="other">%dমিনিট</item>
+        <item quantity="one">%dমিনিট</item>
+    </plurals>
+    <plurals name="accessibility_duration_description_seconds">
+        <item quantity="other">%dছেকেণ্ড</item>
+        <item quantity="one">%dছেকেণ্ড</item>
+    </plurals>
+    <plurals name="accessibility_skip_ad_in">
+        <item quantity="other">%1$d মিনিটত বিজ্ঞাপন এৰি যাওক</item>
+        <item quantity="one">%1$d মিনিটত বিজ্ঞাপন এৰি যাওক</item>
+    </plurals>
+    <plurals name="quick_seek_x_second">
+        <item quantity="other">%d ছেকেণ্ড</item>
+        <item quantity="one">%d ছেকেণ্ড</item>
+    </plurals>
+    <plurals name="user_education_quick_seek">
+        <item quantity="other">%d ছেকেণ্ড এৰি যাবলৈ বাওঁ বা সোঁফালে দুবাৰ টিপক</item>
+        <item quantity="one">%d ছেকেণ্ড এৰি যাবলৈ বাওঁ বা সোঁফালে দুবাৰ টিপক</item>
+    </plurals>
+</resources>

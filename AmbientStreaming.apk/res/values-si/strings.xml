@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">හරස්-උපාංග සේවා</string>
+    <string name="app_name_generic">යෙදුමක්</string>
+    <string name="app_stream_error_generic">යෙදුම බෙදා ගන්නා අතරතුර දෝෂයක් සිදු විය</string>
+    <string name="app_stream_init_error_generic">ඔබගේ Chromebook වෙත යෙදුම බෙදා ගැනීම අසාර්ථක විය</string>
+    <string name="audio_permission_rationale">යෙදුම බෙදා ගැනීම සඳහා මයික්‍රෆෝන අවසරය අබලයි</string>
+    <string name="cancel_button_label">අවලංගු කරන්න</string>
+    <string name="chromebook_keyboard">Chromebook යතුරු පුවරුව</string>
+    <string name="chromebook_mouse">Chromebook මූසිකය</string>
+    <string name="chromebook_touchscreen">Chromebook ස්පර්ශ තිරය</string>
+    <string name="connect_device">ඔබගේ දුරකථනය දුරස්ථ උපාංගයට සම්බන්ධ කරමින්: %1$s</string>
+    <string name="decline_button_label">ප්‍රතික්ෂේප කරන්න</string>
+    <string name="development_notification_channel_name">සංවර්ධනය</string>
+    <string name="device_camera_cannot_access">මෙම Chromebook වෙතින් උපාංග කැමරාවට ප්‍රවේශ විය නොහැකිය</string>
+    <string name="done_button_label">නිමයි</string>
+    <string name="enable_button_label">සබල කරන්න</string>
+    <string name="foreground_service_notification_channel_name">පොදු</string>
+    <string name="foreground_service_notification_content">සැකසීම් වෙනස් කිරීමට තට්ටු කරන්න</string>
+    <string name="foreground_service_notification_title">{0,plural, =1{උපාංග #කට සම්බන්ධයි}one{උපාංග #කට සම්බන්ධයි}other{උපාංග #කට සම්බන්ධයි}}</string>
+    <string name="interactive_streaming_generic_notification">%1$s ප්‍රවාහය සහ ඔබේ Chromebook සඳහා දැනුම්දීම් සමමුහුර්ත කිරීම</string>
+    <string name="interactive_streaming_individual_notification">%1$s ප්‍රවාහ කරමින් සහ %2$s සඳහා දැනුම්දීම් සමමුහුර්ත කරමින්</string>
+    <string name="interactive_streaming_notification">ඔබේ Chromebook වෙත ප්‍රවාහ කිරීම</string>
+    <string name="keyboard_name">හරස්-උපාංග යතුරු පුවරුව</string>
+    <string name="lock_screen_notif_warning_content">අගුලු තිරයේ දැනුම්දීම් සබල කරන්න</string>
+    <string name="lock_screen_notif_warning_title">දැනුම්දීම් යොමු නොකරනු ඇත</string>
+    <string name="mouse_name">හරස්-උපාංග මූසිකය</string>
+    <string name="new_connection_confirm">තහවුරු කරන්න</string>
+    <string name="new_connection_deny">ප්‍රතික්ෂේප කරන්න</string>
+    <string name="new_connection_title">තන්තු ගැළපීම් තහවුරු ක.</string>
+    <string name="notification_access_missing">දැනුම්දීම් ප්‍රවේශය අවශ්‍යයි</string>
+    <string name="notification_access_missing_description">ඔබගේ Chromebook හි ඔබගේ දැනුම්දීම් විවෘත කිරීමට, දැනුම්දීම් ප්‍රවේශය ක්‍රියාත්මක කරන්න</string>
+    <string name="notification_channel_name">පොදු</string>
+    <string name="notification_listener_label">ඔබගේ Chromebook සමඟ යෙදුම් බෙදා ගන්න</string>
+    <string name="open_source_licenses">විවෘත මූලාශ්‍ර බලපත්‍ර</string>
+    <string name="phone_permission_rationale">යෙදුම බෙදා ගැනීම සඳහා දුරකථන ඇමතුම් අවසරය අබලයි</string>
+    <string name="prompt_switch_languages">ඔබේ දුරකථනයේ Gboard භාෂාව මාරු කිරීමට shift + space ඔබන්න</string>
+    <string name="settings_button">සැකසීම්</string>
+    <string name="stop_sharing_button">ප්‍රවාහය නිමා කරන්න</string>
+    <string name="stream_termination_proximity_warning">ඔබගේ දුරකථනය දුර වැඩිය. ප්‍රවාහ කිරීම දිගටම සිදු කිරීමට එය වඩාත් සමීපයට ගෙන එන්න.</string>
+    <string name="substitute_app_name">පද්ධතිය</string>
+    <string name="summary_disable_wirecutter">ක්‍රියාවිරහිතයි</string>
+    <string name="summary_enable_wirecutter">ක්‍රියාත්මකයි</string>
+    <string name="touchscreen_name">හරස්-උපාංග ස්පර්ශ තිරය</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_error_bad_calibration">"Impossible d'utiliser le lecteur d'empreinte digitale. Contactez un réparateur ou rendez-vous sur g.co/pixel/fingerprintunlock"</string>
+    <string name="fingerprint_recalibrate_notification_content">Contactez un réparateur ou rendez-vous sur g.co/pixel/fingerprintunlock</string>
+    <string name="battery_saver_description_with_learn_more">"Pour prolonger l'autonomie de la batterie, l'économiseur de batterie :
+
+• active le thème sombre ;
+• désactive ou restreint les activités en arrière-plan, certains effets visuels et d'autres fonctionnalités, comme \"Hey Google\" ;
+• optimise vos connexions réseau.
+
+"<annotation id="url">En savoir plus</annotation></string>
+</resources>

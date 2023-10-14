@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sound_amplifier_html_description">โปรแกรมขยายเสียงจะทำให้เสียงที่เบาดังขึ้นโดยไม่ทำให้เสียงที่ดังอยู่แล้วดังจนเกินไป&lt;br/>&lt;br/> &lt;b>วิธีใช้โปรแกรมขยายเสียง&lt;/b>&lt;br/> 1. เสียบหูฟังแบบมีสายหรือเชื่อมต่อหูฟังบลูทูธ&lt;br/> 2. เริ่มใช้โปรแกรมขยายเสียง</string>
+    <string name="sound_amplifier_intro">ใช้โปรแกรมขยายเสียงกับหูฟังเพื่อเพิ่มคุณภาพเสียงรอบตัวคุณและในอุปกรณ์</string>
+</resources>

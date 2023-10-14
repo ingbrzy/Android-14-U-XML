@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_retaildemoCommunication">রিটেল ডেমো পরিষেবার সাথে অ্যাপকে ইন্টার‌্যাক্ট করার অনুমতি দেয়। শুধুমাত্র রিটেল ডেমোর জন্য এই অনুমতি দেওয়া হবে। এই অনুমতি দেওয়া হয়েছে এমন অ্যাপ রিটেল ডেমো মোডের জন্য সেট করা অ্যাকশন ট্রিগার করতে পারবে।</string>
+    <string name="permlab_retaildemoCommunication">Retail Demo কমিউনিকেশন</string>
+    <string name="retaildemo_preload_app_name">Retail Demo Services</string>
+</resources>

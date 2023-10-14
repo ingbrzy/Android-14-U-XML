@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="digital_gadget">ဒစ်ဂျစ်တယ်</string>
+    <string name="analog_widget_clover_clock_name">ကလိုဗာပဲပင်သဏ္ဌာန်</string>
+    <string name="analog_widget_clover_content_description">ကလိုဗာပဲပင်သဏ္ဌာန် နာရီဒိုင်ခွက်</string>
+    <string name="analog_widget_config_activity_title">‘နာရီဒိုင်ခွက်’ ရွေးပါ</string>
+    <string name="analog_widget_day_clock_name">ရက်စွဲ</string>
+    <string name="analog_widget_day_content_description">ရက်စွဲပါသည့် နာရီဒိုင်ခွက်</string>
+    <string name="analog_widget_numeral_clock_name">နံပါတ်</string>
+    <string name="analog_widget_numeral_content_description">နံပါတ်စာလုံးအကြီးများဖြင့် နာရီဒိုင်ခွက်</string>
+    <string name="analog_widget_scallop_clock_name">ဂုံးကောင်ပုံစံ</string>
+    <string name="analog_widget_scallop_content_description">နေ့နှင့် ရက်စွဲပါသည့် နာရီဒိုင်ခွက်</string>
+    <string name="cities_widget_config_activity_subtitle">မြို့များကို ‘နာရီ’ တဘ်မှ ထည့်နိုင်သည်</string>
+    <string name="cities_widget_config_activity_subtitle_button">‘နာရီ’ အက်ပ်တွင် မြို့များရွေးရန်</string>
+    <string name="cities_widget_preview_city_london">လန်ဒန်</string>
+    <string name="cities_widget_preview_city_mountain_view">မောင်တိန်းဗျူး</string>
+    <string name="clock_widget_opaque_label">အပြည့်</string>
+    <string name="clock_widget_transparent_label">အကြည်</string>
+    <string name="digital_appwidget_config_activity_title">နာရီပုံစံ ရွေးခြင်း</string>
+    <string name="digital_cities_gadget">ကမ္ဘာ့နာရီ</string>
+    <string name="digital_cities_gadget_description">‘နာရီ’ အက်ပ်တွင် မြို့များကိုရွေးနိုင်သည်</string>
+    <string name="digital_stacked_gadget">ဆင့်လျက်သဏ္ဌာန်</string>
+    <string name="digital_widgets_preview_alarm">တနင်္လာ ၀၉:၃၀</string>
+    <string name="stopwatch_gadget_description">‘နာရီ’ အက်ပ်တွင် အချိန်တိုင်းနာရီကို ထိန်းချုပ်နိုင်သည်</string>
+</resources>

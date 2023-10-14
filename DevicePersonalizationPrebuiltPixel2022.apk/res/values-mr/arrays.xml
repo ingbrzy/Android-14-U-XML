@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="call_captions_typing_predictions_post_system_message">
+        <item>हॅलॉ, तुम्ही कोण आहात?</item>
+        <item>हाय, तुम्ही कसे आहात?</item>
+        <item>कृपया एक मिनिट होल्ड करा</item>
+        <item>हाय, तुम्ही नंतर परत कॉल करू शकता का?</item>
+        <item>हाय! कॉल केल्याबद्दल धन्यवाद.</item>
+    </string-array>
+    <string-array name="captions_settings_enable_for_calls_choices_entries">
+        <item>प्रत्येक वेळी विचारा</item>
+        <item>नेहमी</item>
+        <item>बंद करा</item>
+    </string-array>
+    <string-array name="captions_settings_typing_voice_names">
+        <item>आवाज ए</item>
+        <item>आवाज बी</item>
+        <item>आवाज सी</item>
+        <item>आवाज डी</item>
+        <item>आवाज इ</item>
+        <item>आवाज एफ</item>
+        <item>आवाज जी</item>
+        <item>आवाज एच</item>
+        <item>आवाज आय</item>
+        <item>आवाज जे</item>
+        <item>आवाज के</item>
+        <item>आवाज एल</item>
+        <item>आवाज एम</item>
+        <item>आवाज एन</item>
+        <item>आवाज ओ</item>
+        <item>आवाज पी</item>
+    </string-array>
+    <string-array name="pref_download_policy_entries">
+        <item>मोबाइल आणि वायफाय</item>
+        <item>फक्त वायफाय</item>
+        <item>अपडेट करू नका</item>
+    </string-array>
+    <string-array name="pref_download_policy_entry_values_placeholder">
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+</resources>

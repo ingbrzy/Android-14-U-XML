@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dlg_message_deletion_confirmation">
+        <item quantity="other">Οι εγγραφές σας θα διαγραφούν οριστικά. Δεν είναι δυνατή η αναίρεση αυτής της ενέργειας.</item>
+        <item quantity="one">Η εγγραφή σας θα διαγραφεί οριστικά. Δεν είναι δυνατή η αναίρεση αυτής της ενέργειας.</item>
+    </plurals>
+    <plurals name="dlg_message_deletion_permanent_confirmation">
+        <item quantity="other">Οι εγγραφές δεν διαθέτουν αντίγραφα ασφαλείας. Πρόκειται να διαγραφούν οριστικά. Δεν μπορείτε να αναιρέσετε αυτή την ενέργεια.</item>
+        <item quantity="one">Η εγγραφή δεν διαθέτει αντίγραφο ασφαλείας. Πρόκειται να διαγραφεί οριστικά. Δεν μπορείτε να αναιρέσετε αυτή την ενέργεια.</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_confirmation">
+        <item quantity="other">Διαγραφή εγγραφών;</item>
+        <item quantity="one">Διαγραφή εγγραφής;</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_permanent_confirmation">
+        <item quantity="other">Οριστική διαγραφή αυτών των εγγραφών;</item>
+        <item quantity="one">Οριστική διαγραφή αυτής της εγγραφής;</item>
+    </plurals>
+    <plurals name="download_failure_description_storage_full">
+        <item quantity="other">Δεν είναι δυνατή η λήψη εγγραφών, επειδή ο αποθηκευτικός χώρος της συσκευής είναι πλήρης. Πατήστε για έλεγχο.</item>
+        <item quantity="one">Ο αποθηκευτικός χώρος της συσκευής είναι πλήρης. Πατήστε για έλεγχο.</item>
+    </plurals>
+    <plurals name="downloading_description">
+        <item quantity="other">Λήψη %1$d εγγραφών</item>
+        <item quantity="one">Λήψη %1$d εγγραφής</item>
+    </plurals>
+    <plurals name="og_backup_failed_title">
+        <item quantity="other">Απέτυχε η δημιουργία αντιγρ. ασφ. για %1$d στοιχεία</item>
+        <item quantity="one">Απέτυχε η δημιουργία αντιγρ. ασφ. για %1$d στοιχείο</item>
+    </plurals>
+    <plurals name="og_backup_items_left">
+        <item quantity="other">Απομένουν %1$d στοιχεία.</item>
+        <item quantity="one">Απομένει %1$d στοιχείο.</item>
+    </plurals>
+    <plurals name="og_backup_items_stopped_title">
+        <item quantity="other">Δεν έχουν δημιουργηθεί αντίγραφα ασφαλείας για %1$d στοιχεία</item>
+        <item quantity="one">%1$d στοιχείο χωρίς αντίγραφο ασφαλείας</item>
+    </plurals>
+    <plurals name="peoplekit_chips_copied_recipients">
+        <item quantity="other">Αντιγράφηκαν %d παραλήπτες</item>
+        <item quantity="one">Αντιγράφηκε %d παραλήπτης</item>
+    </plurals>
+    <plurals name="search_results_count">
+        <item quantity="other">%1$d αποτελέσματα</item>
+        <item quantity="one">%1$d αποτέλεσμα</item>
+    </plurals>
+    <plurals name="search_results_position">
+        <item quantity="other">^1/^2 αποτελέσματα</item>
+        <item quantity="one">^1/^2 αποτέλεσμα</item>
+    </plurals>
+    <plurals name="search_results_position_content_description">
+        <item quantity="other">%1$d από %2$d αποτελέσματα</item>
+        <item quantity="one">%1$d από %2$d αποτέλεσμα</item>
+    </plurals>
+    <plurals name="selected_recording_quantity">
+        <item quantity="other">Επιλέχτηκαν %1$d</item>
+        <item quantity="one">Επιλέχτηκε %1$d</item>
+    </plurals>
+    <plurals name="snackbar_message_download_failed_storage_full">
+        <item quantity="other">Ο αποθηκευτικός χώρος της συσκευής είναι πλήρης. Δεν είναι δυνατή η λήψη των εγγραφών.</item>
+        <item quantity="one">Ο αποθηκευτικός χώρος της συσκευής είναι πλήρης. Δεν είναι δυνατή η λήψη της εγγραφής.</item>
+    </plurals>
+    <plurals name="speaker_count">
+        <item quantity="other">%1$d ομιλητές</item>
+        <item quantity="one">%1$d ομιλητής</item>
+    </plurals>
+    <plurals name="uploading_description">
+        <item quantity="other">Μεταφόρτωση %1$d εγγραφών</item>
+        <item quantity="one">Μεταφόρτωση %1$d εγγραφής</item>
+    </plurals>
+</resources>

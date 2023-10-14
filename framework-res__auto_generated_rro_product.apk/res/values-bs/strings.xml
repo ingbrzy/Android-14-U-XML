@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_error_bad_calibration">Nije moguće koristiti senzor za otisak prsta. Posjetite servis ili g.co/pixel/fingerprintunlock</string>
+    <string name="fingerprint_recalibrate_notification_content">Posjetite servis ili g.co/pixel/fingerprintunlock</string>
+    <string name="battery_saver_description_with_learn_more">"Radi produženja vijeka trajanja baterije Ušteda baterije:
+
+• uključuje Tamnu temu
+• isključuje ili ograničava aktivnost u pozadini, određene vizuelne efekte i druge funkcije kao što je \"Ok Google\"
+• optimizira vaše mrežne veze
+
+"<annotation id="url">Saznajte više</annotation></string>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sound_amplifier_html_description">Med ljudförstärkaren höjs svaga ljud utan att höga ljud blir för starka&lt;br/>&lt;br/> &lt;b>Så här använder du ljudförstärkaren&lt;/b>&lt;br/> 1. Koppla in hörlurar med sladd eller anslut Bluetooth-hörlurar&lt;br/> 2. Starta ljudförstärkaren</string>
+    <string name="sound_amplifier_intro">Förbättra kvaliteten på ljud i din omgivning och på enheten med hjälp av ljudförstärkaren</string>
+</resources>

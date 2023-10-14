@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">Yuxarı keçin</string>
+    <string name="abc_action_mode_done">Hazırdır</string>
+    <string name="abc_capital_off">DEAKTİV</string>
+    <string name="abc_capital_on">AKTİV</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">silin</string>
+    <string name="abc_menu_enter_shortcut_label">daxil olun</string>
+    <string name="abc_menu_function_shortcut_label">Funksiya+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menyu+</string>
+    <string name="abc_search_hint">Axtarış...</string>
+    <string name="abc_searchview_description_clear">Sorğunu silin</string>
+    <string name="abc_searchview_description_search">Axtarın</string>
+    <string name="abc_searchview_description_submit">Sorğunu göndərin</string>
+    <string name="abc_searchview_description_voice">Səsli axtarış</string>
+    <string name="abc_toolbar_collapse_description">Yığcamlaşdırın</string>
+    <string name="bottom_sheet_button_contact_text">@string/common_view</string>
+    <string name="bottom_sheet_button_matter_text">Ayarlama</string>
+    <string name="bottom_sheet_button_no_apps_text">Axtarış</string>
+    <string name="bottom_sheet_button_wifi_text">@string/common_connect</string>
+    <string name="bottom_sheet_copy_error_toast">Mətni buferə kopyalamaq mümkün olmadı</string>
+    <string name="bottom_sheet_copy_success_toast">Mətn buferə kopyalandı</string>
+    <string name="bottom_sheet_image_view_description">Göstərilən tətbiqin ikonası</string>
+    <string name="bottom_sheet_sub_title_no_apps">"Google Play'də axtarın"</string>
+    <string name="bottom_sheet_title">Bununla açın:</string>
+    <string name="bottom_sheet_title_app_found">%1$s ilə açın</string>
+    <string name="bottom_sheet_title_contact">Kontakt məlumatlarına baxın</string>
+    <string name="bottom_sheet_title_copy_text">Mətni Kopyalayın</string>
+    <string name="bottom_sheet_title_copy_text_button_text">@string/common_copy</string>
+    <string name="bottom_sheet_title_copy_text_button_text_copied">Kopyalandı</string>
+    <string name="bottom_sheet_title_matter">Cihazınızı ayarlayın</string>
+    <string name="bottom_sheet_title_passkey">Parol istifadə edin</string>
+    <string name="bottom_sheet_title_payment">Bununla ödəyin:</string>
+    <string name="bottom_sheet_title_payment_setup">Ödənişi bununla ayarlayın</string>
+    <string name="bottom_sheet_title_payment_setup_single_app">Ödənişi %1$s ilə ayarlayın</string>
+    <string name="bottom_sheet_title_payment_single_app">%1$s ilə ödəyin</string>
+    <string name="bottom_sheet_title_single_app_button_text">Açıq</string>
+    <string name="bottom_sheet_title_wifi">"WiFi'a qoşulun"</string>
+    <string name="bottomsheet_action_expand_halfway">Tam genişləndirin</string>
+    <string name="bottomsheet_drag_handle_content_description">Dəstək</string>
+    <string name="camera_permission_dialog_button">OK</string>
+    <string name="camera_permission_dialog_message">"Google Play xidmətləri %1$s kodunu skan etmək üçün cihazınızın kamerasına giriş tələb edir.
+
+Aktiv etmək üçün Ayarlarda Google Play xidmətlərinə kamera icazəsi verin."</string>
+    <string name="camera_permission_dialog_message_platform">"Google Play xidmətləri QR kodunu skan etmək üçün cihazınızın kamerasına giriş tələb edir.
+
+Aktiv etmək üçün Ayarlarda Google Play xidmətlərinə kamera icazəsi verin."</string>
+    <string name="camera_permission_dialog_title">Kamera icazəsi tələb olunur</string>
+    <string name="cd_cancel_button">Kod skanerini bağlayın</string>
+    <string name="cd_info_button">Məlumat dialoqunu açın</string>
+    <string name="cd_selected_photo_view">Seçilmiş şəkli göstərin</string>
+    <string name="cd_settings_button">Skaner ayarlarını açın</string>
+    <string name="cd_torch_button">Fənəri dəyişdirin</string>
+    <string name="character_counter_content_description">%1$d/%2$d simvol daxil edilib</string>
+    <string name="character_counter_overflowed_content_description">Simvol limiti %1$d/%2$d dəyərini keçdi</string>
+    <string name="clear_text_end_icon_content_description">Mətni silin</string>
+    <string name="common_connect">Qoşulun</string>
+    <string name="common_continue">Davam edin</string>
+    <string name="common_copy">Kopyalayın</string>
+    <string name="common_google_play_services_enable_button">Aktiv edin</string>
+    <string name="common_google_play_services_enable_text">%1$s Google Play xidmətlərini aktiv edənə kimi işləməyəcək.</string>
+    <string name="common_google_play_services_enable_title">Google Play xidmətlərini aktiv edin</string>
+    <string name="common_google_play_services_install_button">Quraşdırın</string>
+    <string name="common_google_play_services_install_text">%1$s cihazınızda mövcud olmayan Google Play xidmətləri olmadan çalışmayacaq.</string>
+    <string name="common_google_play_services_install_title">Google Play xidmətlərini əldə edin</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play xidmətlərinin əlçatanlığı</string>
+    <string name="common_google_play_services_notification_ticker">Google Play xidmətləri xətası</string>
+    <string name="common_google_play_services_unknown_issue">%1$s tətbiqi ilə Google Play xidmətləri arasında problem var. Daha sonra yenidən cəhd edin.</string>
+    <string name="common_google_play_services_unsupported_text">Cihazınız tərəfindən dəstəklənməyən Google Play xidmətləri olmadan %1$s tətbiqi işləməyəcək.</string>
+    <string name="common_google_play_services_update_button">Güncəlləyin</string>
+    <string name="common_google_play_services_update_text">%1$s Google Play xidmətləri yeniləmə halda çalışmaz.</string>
+    <string name="common_google_play_services_update_title">Google Play xidmətlərini güncəlləşdirin</string>
+    <string name="common_google_play_services_updating_text">%1$s hal-hazırda güncəllənən Google Play xidmətləri olmadan çalışmayacaq.</string>
+    <string name="common_google_play_services_wear_update_text">Google Play xidmətlərinin yeni versiyası lazımdır. Qısa müddətə özünü yeniləyəcək.</string>
+    <string name="common_got_it">Anladım</string>
+    <string name="common_no_apps_found">Tətbiq tapılmadı</string>
+    <string name="common_open_on_phone">Telefonda açın</string>
+    <string name="common_view">Baxın</string>
+    <string name="error_a11y_label">Error: invalid</string>
+    <string name="error_icon_content_description">Xəta</string>
+    <string name="exposed_dropdown_menu_content_description">Açılan menyunu göstərin</string>
+    <string name="info_dialog_button">@string/common_got_it</string>
+    <string name="info_dialog_message">"%1$s Google Play xidmətlərindən onun adından kodu skan etməyi tələb edir. Heç bir şəkil datası paylaşılmayacaq, yalnız skan nəticələri paylaşılacaq.
+
+Skanlama cihazınızda həyata keçirilir və Google heç bir şəkil datasını və ya skan edilmiş kodları yadda saxlamayacaq."</string>
+    <string name="info_dialog_message_platform">Google Play Xidmətləri bu cihazın kamerasına giriş edir. Skan edilmiş kod datası və şəkilləri saxlanmır və bu cihazdan kənara çıxmayacaq.</string>
+    <string name="info_dialog_title">Google tərəfindən qorunur</string>
+    <string name="info_dialog_title_platform">Google tərəfindən dəstəklənir</string>
+    <string name="manual_input_hint">Kodu manual olaraq daxil etmək üçün bura toxunun</string>
+    <string name="mtrl_checkbox_state_description_checked">Checked</string>
+    <string name="mtrl_checkbox_state_description_indeterminate">Partially checked</string>
+    <string name="mtrl_checkbox_state_description_unchecked">Not checked</string>
+    <string name="password_toggle_content_description">Parolu göstərin</string>
+    <string name="qr_detection_failure_dialog_message">Fərqli fotodan skan edin</string>
+    <string name="qr_detection_failure_dialog_title">QR kodu tapılmadı</string>
+    <string name="scan_from_photo_title">Fotoda skan edin</string>
+    <string name="scanner_brand">%1$s adından Google tərəfindən skan edilib</string>
+    <string name="scanner_brand_platform">@string/info_dialog_title_platform</string>
+    <string name="scanner_title">Kodu skan edin</string>
+    <string name="scanner_title_platform">QR kodu skanlayın</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="azure_title">Kapuciarka araukáriová</string>
+    <string name="blackswan_title">Čierna labuť</string>
+    <string name="cockatoo_title">Kakadu</string>
+    <string name="come_alive_title">Živá obrazovka</string>
+    <string name="feathers_attribution">Fotka: Andrew Zuckerman</string>
+    <string name="feathers_description">Detaily farebného peria</string>
+    <string name="feathers_title">Perie</string>
+    <string name="greenwinged_title">Ara zelenokrídla</string>
+    <string name="king_title">Kondor kráľovský</string>
+    <string name="living_universe_title">Živý vesmír</string>
+    <string name="photos_memory_gallery_title">Vaše spomienky</string>
+    <string name="pied_title">Vrana čiernobiela</string>
+    <string name="ringnecked_title">Alexander malý</string>
+    <string name="seagull_title">Čajka</string>
+</resources>

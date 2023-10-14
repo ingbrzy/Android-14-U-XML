@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="call_captions_typing_predictions_post_system_message">
+        <item>ഹലോ, ഇത് ആരാണ്?</item>
+        <item>ഹായ്, സുഖമാണോ?</item>
+        <item>ഒരു മിനിറ്റ് കാത്തിരിക്കുക</item>
+        <item>ഹായ്, പിന്നീട് തിരിച്ചുവിളിക്കാനാകുമോ?</item>
+        <item>ഹായ്! വിളിച്ചതിന് നന്ദി.</item>
+    </string-array>
+    <string-array name="captions_settings_enable_for_calls_choices_entries">
+        <item>എപ്പോഴും ചോദിക്കുക</item>
+        <item>എപ്പോഴും</item>
+        <item>ഓഫാക്കുക</item>
+    </string-array>
+    <string-array name="captions_settings_typing_voice_names">
+        <item>ശബ്‌ദം A</item>
+        <item>ശബ്‌ദം B</item>
+        <item>ശബ്‌ദം C</item>
+        <item>ശബ്‌ദം D</item>
+        <item>ശബ്‌ദം E</item>
+        <item>ശബ്‌ദം F</item>
+        <item>ശബ്‌ദം G</item>
+        <item>ശബ്‌ദം H</item>
+        <item>ശബ്‌ദം I</item>
+        <item>ശബ്‌ദം J</item>
+        <item>ശബ്‌ദം K</item>
+        <item>ശബ്‌ദം L</item>
+        <item>ശബ്‌ദം M</item>
+        <item>ശബ്‌ദം N</item>
+        <item>ശബ്‌ദം O</item>
+        <item>ശബ്‌ദം P</item>
+    </string-array>
+    <string-array name="pref_download_policy_entries">
+        <item>മൊബെെൽ + വെെഫെെ</item>
+        <item>വൈഫൈ മാത്രം</item>
+        <item>അപ്‌ഡേറ്റ് ചെയ്യരുത്</item>
+    </string-array>
+    <string-array name="pref_download_policy_entry_values_placeholder">
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+</resources>

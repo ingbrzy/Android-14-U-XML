@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ndays">
+        <item quantity="other">%d kun</item>
+        <item quantity="one">1 kun</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%d soat</item>
+        <item quantity="one">1 soat</item>
+    </plurals>
+    <plurals name="Nminutes">
+        <item quantity="other">%d daqiqa</item>
+        <item quantity="one">1 daqiqa</item>
+    </plurals>
+    <plurals name="Nweeks">
+        <item quantity="other">%d hafta</item>
+        <item quantity="one">1 hafta</item>
+    </plurals>
+    <plurals name="a11y_filter_capacity">
+        <item quantity="other">Xonadagi zarur joylar soni: %1$d ta</item>
+        <item quantity="one">Xonadagi zarur joylar soni: 1 ta</item>
+    </plurals>
+    <plurals name="accessibility_find_time_custom_duration_hour_input">
+        <item quantity="other">%d soat</item>
+        <item quantity="one">%d soat</item>
+    </plurals>
+    <plurals name="accessibility_find_time_custom_duration_minute_input">
+        <item quantity="other">%d daqiqa</item>
+        <item quantity="one">%d daqiqa</item>
+    </plurals>
+    <plurals name="accessibility_has_time_proposals">
+        <item quantity="other">boshqa vaqtlarni taklif qildi</item>
+        <item quantity="one">boshqa vaqtni taklif qildi</item>
+    </plurals>
+    <plurals name="alternate_search_available_announce">
+        <item quantity="other">Qidiruv yakunlandi – %d ta natija topildi.</item>
+        <item quantity="one">Qidiruv yakunlandi – %d ta natija topildi.</item>
+    </plurals>
+    <plurals name="annually_frequency_text">
+        <item quantity="other">Har %1$d %2$s takrorlansin</item>
+        <item quantity="one">Har %1$d %2$s takrorlansin</item>
+    </plurals>
+    <plurals name="birthday_chip_title">
+        <item quantity="other">%d ta tug‘ilgan kun</item>
+        <item quantity="one">Tug‘ilgan kun</item>
+    </plurals>
+    <plurals name="calendar_daily_lower">
+        <item quantity="other">har %d kunda</item>
+        <item quantity="one">har kuni</item>
+    </plurals>
+    <plurals name="calendar_monthly_interval_lower">
+        <item quantity="other">har %1$d oyda</item>
+        <item quantity="one">har oy</item>
+    </plurals>
+    <plurals name="calendar_weekly_lower">
+        <item quantity="other">har %1$d haftada</item>
+        <item quantity="one">har hafta</item>
+    </plurals>
+    <plurals name="calendar_yearly_interval_lower">
+        <item quantity="other">har %1$d yilda</item>
+        <item quantity="one">har yili</item>
+    </plurals>
+    <plurals name="capacity_description">
+        <item quantity="other">%d kishi</item>
+        <item quantity="one">1 kishi</item>
+    </plurals>
+    <plurals name="count_duration_accessibility_description">
+        <item quantity="other">%d marta takrorlangandan keyin tugaydi</item>
+        <item quantity="one">Bir martadan keyin tugaydi</item>
+    </plurals>
+    <plurals name="count_duration_label">
+        <item quantity="other">%d marta takrorlangandan keyin</item>
+        <item quantity="one">%d martadan keyin</item>
+    </plurals>
+    <plurals name="daily_frequency_text">
+        <item quantity="other">Har %1$d %2$s takrorlansin</item>
+        <item quantity="one">Har %1$d %2$s takrorlansin</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">kun</item>
+        <item quantity="one">kun</item>
+    </plurals>
+    <plurals name="days_before">
+        <item quantity="other">kun oldin</item>
+        <item quantity="one">kun oldin</item>
+    </plurals>
+    <plurals name="describe_attachments">
+        <item quantity="other">Biriktirilgan fayllar: %1$d ta</item>
+        <item quantity="one">Biriktirilgan fayllar: %1$d ta</item>
+    </plurals>
+    <plurals name="done_reminders_title">
+        <item quantity="other">%d ta eslatma bajarildi deb belgilandi</item>
+        <item quantity="one">%d ta eslatma bajarildi deb belgilandi</item>
+    </plurals>
+    <plurals name="end_by_count">
+        <item quantity="other">; %d marta</item>
+        <item quantity="one">; bir marta</item>
+    </plurals>
+    <plurals name="error_working_location_duration_too_long">
+        <item quantity="other">Ish joyini ko‘pi bilan %1$d kunga belgilash mumkin.</item>
+        <item quantity="one">Ish joyini ko‘pi bilan %1$d kunga belgilash mumkin.</item>
+    </plurals>
+    <plurals name="files_not_shared_dialog_body">
+        <item quantity="other">Ehtimol, mehmonlarda Google Drive’dagi fayllarga kirish uchun ruxsat yo‘q bo‘lishi mumkin. Fayllarni Google Drive orqali oching va ularga ruxsat bering.</item>
+        <item quantity="one">Ehtimol, mehmonlarda Google Drive’dagi faylga kirish uchun ruxsat yo‘q bo‘lishi mumkin. Faylni Google Drive orqali oching va unga ruxsat bering.</item>
+    </plurals>
+    <plurals name="find_a_time_invisible_attendee">
+        <item quantity="other">+%d kishi</item>
+        <item quantity="one">+%d kishi</item>
+    </plurals>
+    <plurals name="find_time_duration_hour_label">
+        <item quantity="other">%d soat</item>
+        <item quantity="one">%d soat</item>
+    </plurals>
+    <plurals name="find_time_duration_minute_label">
+        <item quantity="other">%d daqiqa</item>
+        <item quantity="one">%d daqiqa</item>
+    </plurals>
+    <plurals name="fix_permissions_does_not_fix_everything_warning">
+        <item quantity="other">Eslatma: Ayrim mehmonlarda bu fayllarga kirishga hanuzgacha ruxsat yo‘q ko‘rinadi. Fayllarni Google Drive orqali oching va ularga ruxsat bering.</item>
+        <item quantity="one">Eslatma: Ayrim mehmonlarda bu faylga kirishga hanuzgacha ruxsat yo‘q ko‘rinadi. Faylni Google Drive orqali oching va unga ruxsat bering.</item>
+    </plurals>
+    <plurals name="fix_permissions_outside_domain_warning_hedgehog">
+        <item quantity="other">"Bu mehmonlarga ulashyapsiz:&lt;br>&lt;b>%1$s
+&lt;/b>&lt;br>Ular bu fayllar joylashgan Google Workspace domenidan foydalanayotgan tashkilotda ishlamaydi."</item>
+        <item quantity="one">Bu mehmonlarga ulashyapsiz:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>Ular bu fayl joylashgan Google Workspace domenidan foydalanayotgan tashkilotda ishlamaydi.</item>
+    </plurals>
+    <plurals name="guest_count">
+        <item quantity="other">%d ta mehmon</item>
+        <item quantity="one">%d ta mehmon</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">soat</item>
+        <item quantity="one">soat</item>
+    </plurals>
+    <plurals name="hours_before">
+        <item quantity="other">soat oldin</item>
+        <item quantity="one">soat oldin</item>
+    </plurals>
+    <plurals name="ical_many_events_warning">
+        <item quantity="other">%d ta tadbir qo‘shiladi. Bu amalni bekor qilib bo‘lmaydi. Davom etasizmi?</item>
+        <item quantity="one">%d ta tadbir qo‘shiladi. Bu amalni bekor qilib bo‘lmaydi. Davom etasizmi?</item>
+    </plurals>
+    <plurals name="mark_reminders_done_title">
+        <item quantity="other">%d ta eslatma bajarildi deb belgilansinmi?</item>
+        <item quantity="one">%d ta eslatma bajarildi deb belgilansinmi?</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">daqiqa</item>
+        <item quantity="one">daqiqa</item>
+    </plurals>
+    <plurals name="minutes_before">
+        <item quantity="other">daqiqa oldin</item>
+        <item quantity="one">daqiqa oldin</item>
+    </plurals>
+    <plurals name="month_view_hidden_events">
+        <item quantity="other">Yana %d ta</item>
+        <item quantity="one">Yana %d ta</item>
+    </plurals>
+    <plurals name="monthly_frequency_text">
+        <item quantity="other">Har %1$d %2$s takrorlansin</item>
+        <item quantity="one">Har %1$d %2$s takrorlansin</item>
+    </plurals>
+    <plurals name="more_guests">
+        <item quantity="other">va yana %1$d kishi</item>
+        <item quantity="one">va yana %1$d kishi</item>
+    </plurals>
+    <plurals name="no_room_suggestions_title">
+        <item quantity="other">%1$d ta mehmonga xona taklif qilinmadi</item>
+        <item quantity="one">1 ta mehmonga xona taklif qilinmadi</item>
+    </plurals>
+    <plurals name="num_rooms">
+        <item quantity="other">%1$d ta muloqot xonasi</item>
+        <item quantity="one">%1$d ta muloqot xonasi</item>
+    </plurals>
+    <plurals name="public_notification_text">
+        <item quantity="other">%1$d new notifications</item>
+        <item quantity="one">You have a notification</item>
+    </plurals>
+    <plurals name="recurrence_frequency_annually">
+        <item quantity="other">yil</item>
+        <item quantity="one">yil</item>
+    </plurals>
+    <plurals name="recurrence_frequency_daily">
+        <item quantity="other">kun</item>
+        <item quantity="one">kun</item>
+    </plurals>
+    <plurals name="recurrence_frequency_monthly">
+        <item quantity="other">oy</item>
+        <item quantity="one">oy</item>
+    </plurals>
+    <plurals name="recurrence_frequency_weekly">
+        <item quantity="other">hafta</item>
+        <item quantity="one">hafta</item>
+    </plurals>
+    <plurals name="reminder_bundle_description_prefix">
+        <item quantity="other">%d ta eslatma:</item>
+        <item quantity="one">%d ta eslatma:</item>
+    </plurals>
+    <plurals name="reminder_done_bundle_description_prefix">
+        <item quantity="other">%d ta eslatma bajarildi deb belgilandi:</item>
+        <item quantity="one">%d ta eslatma bajarildi deb belgilandi:</item>
+    </plurals>
+    <plurals name="reminders_marked_done">
+        <item quantity="other">%d ta eslatma bajarildi deb belgilandi.</item>
+        <item quantity="one">%d ta eslatma bajarildi deb belgilandi.</item>
+    </plurals>
+    <plurals name="reminders_migration_dialog_title">
+        <item quantity="other">%d ta eslatmani vazifalarga aylantiring</item>
+        <item quantity="one">%d ta eslatmani vazifaga aylantiring</item>
+    </plurals>
+    <plurals name="reminders_migration_force_completed_toast">
+        <item quantity="other">Eslatmalar endi vazifalardir. %1$d ta eslatma %2$s uchun vazifalarga aylantirildi.</item>
+        <item quantity="one">Eslatmalar endi vazifalardir. %1$d ta eslatma %2$s uchun vazifaga aylantirildi.</item>
+    </plurals>
+    <plurals name="reminders_migration_keep_only_dialog_title">
+        <item quantity="other">%d ta eslatmangiz Google Keep ilovasiga oʻtkaziladi</item>
+        <item quantity="one">%d ta eslatmangiz Google Keep ilovasiga oʻtkaziladi</item>
+    </plurals>
+    <plurals name="reminders_migration_keep_only_reminders_dialog_description_with_account">
+        <item quantity="other">%s sifatida barcha eslatmalaringiz Google Keep ilovasida yaratilgan va vazifalarga aylantirish imkonsiz. Ular Taqvimdan olib tashlanadi, lekin siz ularni Keep orqali boshqarishingiz mumkin.</item>
+        <item quantity="one">%s eslatmangiz Google Keep ilovasida yaratilgan va uni vazifaga aylantirish imkonsiz. U Taqvimdan olib tashlanadi, lekin siz uni Keep orqali boshqarishingiz mumkin.</item>
+    </plurals>
+    <plurals name="reminders_migration_partial_failure_some_remaining_toast">
+        <item quantity="other">Faqat %1$d ta eslatma %2$s uchun vazifalarga aylantirildi. Ayrim eslatmalar qoldi.</item>
+        <item quantity="one">Faqat %1$d ta eslatma %2$s uchun vazifaga aylantirildi. Ayrim eslatmalar qoldi.</item>
+    </plurals>
+    <plurals name="reminders_migration_tooltip_remark">
+        <item quantity="other">%d eslatmalaringiz vazifalarga aylandi.</item>
+        <item quantity="one">%d eslatmangiz vazifaga aylandi.</item>
+    </plurals>
+    <plurals name="reminders_migration_tooltip_with_keep_reminders_remark">
+        <item quantity="other">%d ta eslatma vazifalarga aylantirildi. Google Keep ilovasida yaratilgan eslatmalar o‘zgartirilmadi. Ular Taqvimdan olib tashlanadi, lekin siz ularni Keep orqali boshqarishingiz mumkin.</item>
+        <item quantity="one">%d ta eslatma vazifaga aylantirildi. Google Keep ilovasida yaratilgan eslatmalar o‘zgartirilmadi. Ular Taqvimdan olib tashlanadi, lekin siz ularni Keep orqali boshqarishingiz mumkin.</item>
+    </plurals>
+    <plurals name="reminders_migration_voluntary_completed_keep_only_toast">
+        <item quantity="other">%1$d ta eslatma %2$s uchun Taqvimdan olib tashlandi, lekin Keep ilovasida qoladi</item>
+        <item quantity="one">%1$d ta eslatma %2$s uchun Taqvimdan olib tashlandi, lekin Keep ilovasida qoladi</item>
+    </plurals>
+    <plurals name="reminders_migration_voluntary_completed_toast">
+        <item quantity="other">%1$d ta eslatma %2$s uchun vazifalarga aylantirildi</item>
+        <item quantity="one">%1$d ta eslatma %2$s uchun vazifalarga aylantirildi</item>
+    </plurals>
+    <plurals name="reminders_title">
+        <item quantity="other">%d ta eslatma</item>
+        <item quantity="one">%d ta eslatma</item>
+    </plurals>
+    <plurals name="response_count_accepted">
+        <item quantity="other">%s ta Ha</item>
+        <item quantity="one">%s ta Ha</item>
+    </plurals>
+    <plurals name="response_count_accepted_in_a_meeting_room">
+        <item quantity="other">Muloqot xonasida %s kishi bor</item>
+        <item quantity="one">Muloqot xonasida %s kishi bor</item>
+    </plurals>
+    <plurals name="response_count_accepted_virtually">
+        <item quantity="other">%s kishi virtual rejimda</item>
+        <item quantity="one">%s kishi virtual rejimda</item>
+    </plurals>
+    <plurals name="response_count_declined">
+        <item quantity="other">%s ta Yo‘q</item>
+        <item quantity="one">%s ta Yo‘q</item>
+    </plurals>
+    <plurals name="response_count_need_action">
+        <item quantity="other">%s kishi javob bermadi</item>
+        <item quantity="one">%s kishi javob bermadi</item>
+    </plurals>
+    <plurals name="response_count_tentative">
+        <item quantity="other">%s ta Balki</item>
+        <item quantity="one">%s ta Balki</item>
+    </plurals>
+    <plurals name="room_capacity_description">
+        <item quantity="other">%1$d kishi uchun muzokara xonasi</item>
+        <item quantity="one">1 kishi uchun muzokara xonasi</item>
+    </plurals>
+    <plurals name="short_invisible_all_day_events">
+        <item quantity="other">+%d</item>
+        <item quantity="one">+%d</item>
+    </plurals>
+    <plurals name="smartmail_seats">
+        <item quantity="other">o‘rinlar: %s</item>
+        <item quantity="one">o‘rin: %s</item>
+    </plurals>
+    <plurals name="smartmail_time_day_offset">
+        <item quantity="other">%d kun</item>
+        <item quantity="one">%d kun</item>
+    </plurals>
+    <plurals name="survey_star_rating">
+        <item quantity="other">%1$d/%2$d yulduz</item>
+        <item quantity="one">%1$d/%2$d yulduz</item>
+    </plurals>
+    <plurals name="tasks_rollover_chip_title">
+        <item quantity="other">%d ta bajarilmagan vazifa</item>
+        <item quantity="one">%d ta bajarilmagan vazifa</item>
+    </plurals>
+    <plurals name="tasks_rollover_dialog_description">
+        <item quantity="other">Oxirgi %d kun ichida</item>
+        <item quantity="one">Oxirgi %d kun ichida</item>
+    </plurals>
+    <plurals name="weekly_by_day_lower">
+        <item quantity="other">har %1$d haftada %2$s kuni</item>
+        <item quantity="one">har hafta %2$s kuni</item>
+    </plurals>
+    <plurals name="weekly_frequency_text">
+        <item quantity="other">Har %1$d %2$s takrorlansin</item>
+        <item quantity="one">Har %1$d %2$s takrorlansin</item>
+    </plurals>
+    <plurals name="weeks">
+        <item quantity="other">hafta</item>
+        <item quantity="one">hafta</item>
+    </plurals>
+    <plurals name="weeks_before">
+        <item quantity="other">hafta oldin</item>
+        <item quantity="one">hafta oldin</item>
+    </plurals>
+</resources>

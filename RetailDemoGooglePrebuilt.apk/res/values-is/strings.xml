@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_retaildemoCommunication">Heimilar forriti að hafa samskipti við kynningarútgáfuþjónustu fyrir verslanir. Aðeins kynningarútgáfur fyrir verslanir ættu að hafa þennan aðgang. Forrit sem fá þessa heimild geta virkjað aðgerðir sem eru fráteknar fyrir kynningarútgáfur fyrir verslanir.</string>
+    <string name="permlab_retaildemoCommunication">Samskipti við kynningarútgáfur fyrir verslanir</string>
+    <string name="retaildemo_preload_app_name">Kynningarútgáfuþjónusta fyrir verslanir</string>
+</resources>

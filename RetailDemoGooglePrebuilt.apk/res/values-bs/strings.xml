@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_retaildemoCommunication">Omogućava aplikaciji interakciju s uslugama prodajne demonstracije Ovo odobrenje se treba dodijeliti samo za prodajnu demonstraciju. Aplikacije kojima je dodijeljeno ovo odobrenje mogu pokrenuti radnje rezervirane za način rada prodajne demonstracije.</string>
+    <string name="permlab_retaildemoCommunication">Komunikacija prodajne demonstracije</string>
+    <string name="retaildemo_preload_app_name">Usluge prod. demonstr.</string>
+</resources>

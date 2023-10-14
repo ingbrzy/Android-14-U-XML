@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_duration_description_hours">
+        <item quantity="other">%d valandų</item>
+        <item quantity="one">%d valanda</item>
+        <item quantity="few">%d valandos</item>
+        <item quantity="many">%d valandos</item>
+    </plurals>
+    <plurals name="accessibility_duration_description_minutes">
+        <item quantity="other">%d minučių</item>
+        <item quantity="one">%d minutė</item>
+        <item quantity="few">%d minutės</item>
+        <item quantity="many">%d minutės</item>
+    </plurals>
+    <plurals name="accessibility_duration_description_seconds">
+        <item quantity="other">%d sekundžių</item>
+        <item quantity="one">%d sekundė</item>
+        <item quantity="few">%d sekundės</item>
+        <item quantity="many">%d sekundės</item>
+    </plurals>
+    <plurals name="accessibility_skip_ad_in">
+        <item quantity="other">Praleisti skelbimą po %1$d sekundžių</item>
+        <item quantity="one">Praleisti skelbimą po %1$d sekundės</item>
+        <item quantity="few">Praleisti skelbimą po %1$d sekundžių</item>
+        <item quantity="many">Praleisti skelbimą po %1$d sekundės</item>
+    </plurals>
+    <plurals name="auto_playlist_with_episode_count_item_subtitle">
+        <item quantity="other">Automatinis grojaraštis • %1$d serijų</item>
+        <item quantity="one">Automatinis grojaraštis • %1$d serija</item>
+        <item quantity="few">Automatinis grojaraštis • %1$d serijos</item>
+        <item quantity="many">Automatinis grojaraštis • %1$d serijos</item>
+    </plurals>
+    <plurals name="auto_playlist_with_size_item_subtitle">
+        <item quantity="other">Automatinis grojaraštis • %1$d dainų</item>
+        <item quantity="one">Automatinis grojaraštis • %1$d daina</item>
+        <item quantity="few">Automatinis grojaraštis • %1$d dainos</item>
+        <item quantity="many">Automatinis grojaraštis • %1$d dainos</item>
+    </plurals>
+    <plurals name="duration_hours">
+        <item quantity="other">%1$d valandų</item>
+        <item quantity="one">%1$d valanda</item>
+        <item quantity="few">%1$d valandos</item>
+        <item quantity="many">%1$d valandos</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%1$d minučių</item>
+        <item quantity="one">%1$d minutė</item>
+        <item quantity="few">%1$d minutės</item>
+        <item quantity="many">%1$d minutės</item>
+    </plurals>
+    <plurals name="hours_abbreviated">
+        <item quantity="other">%s val.</item>
+        <item quantity="one">%s val.</item>
+        <item quantity="few">%s val.</item>
+        <item quantity="many">%s val.</item>
+    </plurals>
+    <plurals name="menu_option_hours">
+        <item quantity="other">%s valandų</item>
+        <item quantity="one">%s valanda</item>
+        <item quantity="few">%s valandos</item>
+        <item quantity="many">%s valandos</item>
+    </plurals>
+    <plurals name="menu_option_minutes">
+        <item quantity="other">%s minučių</item>
+        <item quantity="one">%s minutė</item>
+        <item quantity="few">%s minutės</item>
+        <item quantity="many">%s minutės</item>
+    </plurals>
+    <plurals name="minutes_abbreviated">
+        <item quantity="other">%s min.</item>
+        <item quantity="one">%s min.</item>
+        <item quantity="few">%s min.</item>
+        <item quantity="many">%s min.</item>
+    </plurals>
+    <plurals name="notification_offline_playlist_progress_size">
+        <item quantity="other">%1$d iš %2$d dainų</item>
+        <item quantity="one">%1$d iš %2$d dainos</item>
+        <item quantity="few">%1$d iš %2$d dainų</item>
+        <item quantity="many">%1$d iš %2$d dainos</item>
+    </plurals>
+    <plurals name="notification_offline_playlist_progress_track_count">
+        <item quantity="other">%1$d iš %2$d takelių</item>
+        <item quantity="one">%1$d iš %2$d takelio</item>
+        <item quantity="few">%1$d iš %2$d takelių</item>
+        <item quantity="many">%1$d iš %2$d takelio</item>
+    </plurals>
+    <plurals name="offline_playlist_detail_page_subtitle_with_size">
+        <item quantity="other">Grojaraštis • %1$d dainų</item>
+        <item quantity="one">Grojaraštis • %1$d daina</item>
+        <item quantity="few">Grojaraštis • %1$d dainos</item>
+        <item quantity="many">Grojaraštis • %1$d dainos</item>
+    </plurals>
+    <plurals name="offline_playlist_size">
+        <item quantity="other">%1$,d dainų</item>
+        <item quantity="one">%1$,d daina</item>
+        <item quantity="few">%1$,d dainos</item>
+        <item quantity="many">%1$,d dainos</item>
+    </plurals>
+    <plurals name="offline_podcast_playlist_size">
+        <item quantity="other">%1$,d serijų</item>
+        <item quantity="one">%1$,d serija</item>
+        <item quantity="few">%1$,d serijos</item>
+        <item quantity="many">%1$,d serijos</item>
+    </plurals>
+    <plurals name="playlist_subtitle_with_track_count">
+        <item quantity="other">Grojaraštis • %1$d įrašų</item>
+        <item quantity="one">Grojaraštis • %1$d įrašas</item>
+        <item quantity="few">Grojaraštis • %1$d įrašai</item>
+        <item quantity="many">Grojaraštis • %1$d įrašo</item>
+    </plurals>
+    <plurals name="playlist_with_creator_and_size_item_subtitle">
+        <item quantity="other">%1$s • %2$d dainų</item>
+        <item quantity="one">%1$s • %2$d daina</item>
+        <item quantity="few">%1$s • %2$d dainos</item>
+        <item quantity="many">%1$s • %2$d dainos</item>
+    </plurals>
+    <plurals name="playlist_with_creator_and_track_count_item_subtitle">
+        <item quantity="other">%1$s • %2$d įrašų</item>
+        <item quantity="one">%1$s • %2$d įrašas</item>
+        <item quantity="few">%1$s • %2$d įrašai</item>
+        <item quantity="many">%1$s • %2$d įrašo</item>
+    </plurals>
+    <plurals name="playlist_with_entity_type_and_creator_and_size_item_subtitle">
+        <item quantity="other">Grojaraštis • %1$s • %2$d dainų</item>
+        <item quantity="one">Grojaraštis • %1$s • %2$d daina</item>
+        <item quantity="few">Grojaraštis • %1$s • %2$d dainos</item>
+        <item quantity="many">Grojaraštis • %1$s • %2$d dainos</item>
+    </plurals>
+    <plurals name="playlist_with_entity_type_and_creator_and_track_count_item_subtitle">
+        <item quantity="other">Grojaraštis • %1$s • %2$d įrašų</item>
+        <item quantity="one">Grojaraštis • %1$s • %2$d įrašas</item>
+        <item quantity="few">Grojaraštis • %1$s • %2$d įrašai</item>
+        <item quantity="many">Grojaraštis • %1$s • %2$d įrašo</item>
+    </plurals>
+    <plurals name="pref_enable_smart_download_recent_music_summary">
+        <item quantity="other">Bus atsisiųsta ne daugiau nei %1$d neseniai klausytų dainų.</item>
+        <item quantity="one">Bus atsisiųsta ne daugiau nei %1$d neseniai klausyta daina.</item>
+        <item quantity="few">Bus atsisiųstos ne daugiau nei %1$d neseniai klausytos dainos.</item>
+        <item quantity="many">Bus atsisiųsta ne daugiau nei %1$d neseniai klausytos dainos.</item>
+    </plurals>
+    <plurals name="quick_seek_x_second">
+        <item quantity="other">%d sekundžių</item>
+        <item quantity="one">%d sekundė</item>
+        <item quantity="few">%d sekundės</item>
+        <item quantity="many">%d sekundės</item>
+    </plurals>
+    <plurals name="smart_downloads_details_header_byline_explanation">
+        <item quantity="other">Išmaniai atsisiųsta %1$d dainų</item>
+        <item quantity="one">Išmaniai atsisiųsta %1$d daina</item>
+        <item quantity="few">Išmaniai atsisiųstos %1$d dainos</item>
+        <item quantity="many">Išmaniai atsisiųsta %1$d dainos</item>
+    </plurals>
+    <plurals name="smart_downloads_num_songs_estimated_space">
+        <item quantity="other">%1$d dainų (~%2$s)</item>
+        <item quantity="one">%1$d daina (~%2$s)</item>
+        <item quantity="few">%1$d dainos (~%2$s)</item>
+        <item quantity="many">%1$d dainos (~%2$s)</item>
+    </plurals>
+    <plurals name="song_count">
+        <item quantity="other">%1$d dainų</item>
+        <item quantity="one">%1$d daina</item>
+        <item quantity="few">%1$d dainos</item>
+        <item quantity="many">%1$d dainos</item>
+    </plurals>
+    <plurals name="track_count">
+        <item quantity="other">%1$d grupių</item>
+        <item quantity="one">%1$d grupė</item>
+        <item quantity="few">%1$d grupės</item>
+        <item quantity="many">%1$d grupės</item>
+    </plurals>
+    <plurals name="user_education_quick_seek">
+        <item quantity="other">Dukart palieskite kairėje arba dešinėje ir praleisite %d sekundžių</item>
+        <item quantity="one">Dukart palieskite kairėje arba dešinėje ir praleisite %d sekundę</item>
+        <item quantity="few">Dukart palieskite kairėje arba dešinėje ir praleisite %d sekundes</item>
+        <item quantity="many">Dukart palieskite kairėje arba dešinėje ir praleisite %d sekundės</item>
+    </plurals>
+</resources>

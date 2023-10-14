@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Amasevisi amadivayisi amaningi</string>
+    <string name="app_name_generic">i-app</string>
+    <string name="app_stream_error_generic">Kwenzeke iphutha phakathi nokwaba i-app</string>
+    <string name="app_stream_init_error_generic">Ukwaba i-app yakho ne-Chromebook akuphumelelanga</string>
+    <string name="audio_permission_rationale">Imvume yemakrofoni yokwaba i-app ikhutshaziwe</string>
+    <string name="cancel_button_label">Khansela</string>
+    <string name="chromebook_keyboard">Ikhibhodi ye-Chromebook</string>
+    <string name="chromebook_mouse">I-mouse ye-Chromebook</string>
+    <string name="chromebook_touchscreen">Isikrini esithinywayo se-Chromebook</string>
+    <string name="connect_device">Ixhuma ifoni yakho kudivayisi ekude: %1$s</string>
+    <string name="decline_button_label">Yenqaba</string>
+    <string name="development_notification_channel_name">Ukuthuthukisa</string>
+    <string name="device_camera_cannot_access">Ayikwazi ukufinyelela ikhamera yedivayisi kusuka kule Chromebook</string>
+    <string name="done_button_label">Kwenziwe</string>
+    <string name="enable_button_label">Nika amandla</string>
+    <string name="foreground_service_notification_channel_name">Okuvamile</string>
+    <string name="foreground_service_notification_content">Thepha ukuze ulungise amasethingi</string>
+    <string name="foreground_service_notification_title">{0,plural, =1{Kuxhunywe kudivayisi engu-#}one{Kuxhunywe kumadivayisi angu-#}other{Kuxhunywe kumadivayisi angu-#}}</string>
+    <string name="interactive_streaming_generic_notification">Izaziso zokusakaza-bukhoma i-%1$s nokuvumelanisa ze-Chromebook yakho</string>
+    <string name="interactive_streaming_individual_notification">I-%1$s yokusakaza-bukhoma nezaziso zokuvumelanisa ze-%2$s</string>
+    <string name="interactive_streaming_notification">Ukusakaza ku-Chromebook yakho</string>
+    <string name="keyboard_name">Ikhibhodi yamadivayisi amaningi</string>
+    <string name="lock_screen_notif_warning_content">Nika amandla izaziso ekukhiyeni isikrini</string>
+    <string name="lock_screen_notif_warning_title">Izaziso ngeke zidluliselwe</string>
+    <string name="mouse_name">Imawusi yamadivayisi amaningi</string>
+    <string name="new_connection_confirm">Qinisekisa</string>
+    <string name="new_connection_deny">Yenqaba</string>
+    <string name="new_connection_title">Sicela uqinisekise ukufana kweyunithi yezinhlamvu</string>
+    <string name="notification_access_missing">Ukufinyelela izaziso kuyadingeka</string>
+    <string name="notification_access_missing_description">Ukuze uvule izaziso ku-Chromebook, vula ukufinyelela Kwezaziso</string>
+    <string name="notification_channel_name">Okuvamile</string>
+    <string name="notification_listener_label">Yabelana ama-app ne-Chromebook yakho</string>
+    <string name="open_source_licenses">Amalayisense omthombo ovulekile</string>
+    <string name="phone_permission_rationale">Imvume yekholi yokwaba i-app ikhutshaziwe</string>
+    <string name="prompt_switch_languages">Cindezela u-shift + space ukuze ushintshe ulimi lwe-Gboard yefoni yakho</string>
+    <string name="settings_button">Amasethingi</string>
+    <string name="stop_sharing_button">Qeda ukusakaza</string>
+    <string name="stream_termination_proximity_warning">Ifoni yakho ikude kakhulu. Yisondeze ukuze uqhubeke usakaza.</string>
+    <string name="substitute_app_name">Isistimu</string>
+    <string name="summary_disable_wirecutter">Valiwe</string>
+    <string name="summary_enable_wirecutter">Vuliwe</string>
+    <string name="touchscreen_name">Isikrini esithintwayo samadivayisi amaningi</string>
+</resources>

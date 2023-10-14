@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Serviços entre dispositivos</string>
+    <string name="app_name_generic">uma app</string>
+    <string name="app_stream_error_generic">Ocorreu um erro durante a partilha da app</string>
+    <string name="app_stream_init_error_generic">A partilha da app com o Chromebook falhou</string>
+    <string name="audio_permission_rationale">A autorização do microfone para a partilha da app está desativada</string>
+    <string name="cancel_button_label">Cancelar</string>
+    <string name="chromebook_keyboard">Teclado do Chromebook</string>
+    <string name="chromebook_mouse">Rato do Chromebook</string>
+    <string name="chromebook_touchscreen">Ecrã tátil do Chromebook</string>
+    <string name="connect_device">Ligar o telemóvel ao dispositivo remoto: %1$s</string>
+    <string name="decline_button_label">Recusar</string>
+    <string name="development_notification_channel_name">Desenvolvimento</string>
+    <string name="device_camera_cannot_access">Não é possível aceder à câmara do dispositivo a partir deste Chromebook</string>
+    <string name="done_button_label">Concluído</string>
+    <string name="enable_button_label">Ativar</string>
+    <string name="foreground_service_notification_channel_name">Geral</string>
+    <string name="foreground_service_notification_content">Toque para modificar as definições</string>
+    <string name="foreground_service_notification_title">{0,plural, =1{Ligado a # dispositivo}other{Ligado a # dispositivos}}</string>
+    <string name="interactive_streaming_generic_notification">A fazer stream da app %1$s e a sincronizar notificações para o seu Chromebook</string>
+    <string name="interactive_streaming_individual_notification">A fazer stream da app %1$s e a sincronizar as notificações de %2$s</string>
+    <string name="interactive_streaming_notification">A fazer stream para o seu Chromebook</string>
+    <string name="keyboard_name">Teclado entre dispositivos</string>
+    <string name="lock_screen_notif_warning_content">Ative as notificações no ecrã de bloqueio</string>
+    <string name="lock_screen_notif_warning_title">As notificações não serão encaminhadas</string>
+    <string name="mouse_name">Rato entre dispositivos</string>
+    <string name="new_connection_confirm">Confirmar</string>
+    <string name="new_connection_deny">Recusar</string>
+    <string name="new_connection_title">Conf. corre. strings</string>
+    <string name="notification_access_missing">Acesso a notificações necessário</string>
+    <string name="notification_access_missing_description">Para abrir notificações no Chromebook, ative o acesso às notificações</string>
+    <string name="notification_channel_name">Geral</string>
+    <string name="notification_listener_label">Partilhar apps com o Chromebook</string>
+    <string name="open_source_licenses">Licenças de código aberto</string>
+    <string name="phone_permission_rationale">A autorização das chamadas telefónicas para a partilha da app está desativada</string>
+    <string name="prompt_switch_languages">Prima shift + espaço para mudar o idioma do Gboard do telemóvel</string>
+    <string name="settings_button">Definições</string>
+    <string name="stop_sharing_button">Terminar stream</string>
+    <string name="stream_termination_proximity_warning">O seu telemóvel está demasiado longe. Aproxime-o para continuar o streaming.</string>
+    <string name="substitute_app_name">Sistema</string>
+    <string name="summary_disable_wirecutter">Desativado</string>
+    <string name="summary_enable_wirecutter">Ativado</string>
+    <string name="touchscreen_name">Ecrã tátil entre dispositivos</string>
+</resources>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Сервисы для взаимодействия устройств</string>
+    <string name="app_name_generic">Приложение</string>
+    <string name="app_stream_error_generic">Ошибка во время трансляции приложения.</string>
+    <string name="app_stream_init_error_generic">Не удалось транслировать приложение на ваше устройство Chromebook.</string>
+    <string name="audio_permission_rationale">Чтобы транслировать приложение, предоставьте доступ к микрофону.</string>
+    <string name="cancel_button_label">Отмена</string>
+    <string name="chromebook_keyboard">Клавиатура Chromebook</string>
+    <string name="chromebook_mouse">Мышь Chromebook</string>
+    <string name="chromebook_touchscreen">Сенсорный экран Chromebook</string>
+    <string name="connect_device">Подключение телефона к удаленному устройству (%1$s).</string>
+    <string name="decline_button_label">Отклонить</string>
+    <string name="development_notification_channel_name">Разработка</string>
+    <string name="device_camera_cannot_access">Не удается получить доступ к камере с этого устройства Chromebook.</string>
+    <string name="done_button_label">Готово</string>
+    <string name="enable_button_label">Разрешить</string>
+    <string name="foreground_service_notification_channel_name">Общие</string>
+    <string name="foreground_service_notification_content">Нажмите, чтобы изменить настройки.</string>
+    <string name="foreground_service_notification_title">{0,plural, =1{Подключено к # устройству}one{Подключено к # устройству}few{Подключено к # устройствам}many{Подключено к # устройствам}other{Подключено к # устройства}}</string>
+    <string name="interactive_streaming_generic_notification">Трансляция приложения \"%1$s\" на устройство Chromebook и синхронизация уведомлений…</string>
+    <string name="interactive_streaming_individual_notification">Трансляция приложения \"%1$s\" и синхронизация уведомлений для аккаунта %2$s.</string>
+    <string name="interactive_streaming_notification">Трансляция на устройство Chromebook…</string>
+    <string name="keyboard_name">Клавиатура для нескольких устройств</string>
+    <string name="lock_screen_notif_warning_content">Включите уведомления на заблокированном экране.</string>
+    <string name="lock_screen_notif_warning_title">Уведомления не будут переадресованы</string>
+    <string name="mouse_name">Мышь для нескольких устройств</string>
+    <string name="new_connection_confirm">Подтвердить</string>
+    <string name="new_connection_deny">Отклонить</string>
+    <string name="new_connection_title">Подключиться</string>
+    <string name="notification_access_missing">Нет доступа к уведомлениям</string>
+    <string name="notification_access_missing_description">Чтобы просматривать уведомления на вашем устройстве Chromebook, предоставьте к ним доступ.</string>
+    <string name="notification_channel_name">Общие</string>
+    <string name="notification_listener_label">Транслировать приложения на устройство Chromebook</string>
+    <string name="open_source_licenses">Лицензии открытого ПО</string>
+    <string name="phone_permission_rationale">Чтобы транслировать приложение, предоставьте доступ к звонкам на телефоне.</string>
+    <string name="prompt_switch_languages">Чтобы сменить язык Gboard на телефоне, нажмите Shift + Пробел</string>
+    <string name="settings_button">Настройки</string>
+    <string name="stop_sharing_button">Завершить трансляцию</string>
+    <string name="stream_termination_proximity_warning">Телефон слишком далеко. Поднесите его ближе, чтобы продолжить трансляцию.</string>
+    <string name="substitute_app_name">Система</string>
+    <string name="summary_disable_wirecutter">Выключено</string>
+    <string name="summary_enable_wirecutter">Включено</string>
+    <string name="touchscreen_name">Сенсорный экран для нескольких устройств</string>
+</resources>

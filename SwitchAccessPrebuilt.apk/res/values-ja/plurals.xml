@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dots">
+        <item quantity="other">ドット%s</item>
+        <item quantity="one">ドット%s</item>
+    </plurals>
+    <plurals name="gestures_recorded_message">
+        <item quantity="other">%d 件の動きを記録しました</item>
+        <item quantity="one">1 件の動きを記録しました</item>
+    </plurals>
+    <plurals name="label_num_keys_assigned_format">
+        <item quantity="other">割り当てられているスイッチ: %d 件</item>
+        <item quantity="one">割り当てられているスイッチ: %d 件</item>
+    </plurals>
+    <plurals name="label_num_scanning_loops_format">
+        <item quantity="other">ループ: %d 回</item>
+        <item quantity="one">ループ: %d 回</item>
+    </plurals>
+    <plurals name="line_speed_summary_format">
+        <item quantity="other">毎秒 %.2f cm</item>
+        <item quantity="one">毎秒 1 cm</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d 件の新しい通知</item>
+        <item quantity="one">%d 件の新しい通知</item>
+    </plurals>
+    <plurals name="time_delay_summary_format">
+        <item quantity="other">%.2f 秒</item>
+        <item quantity="one">1 秒</item>
+    </plurals>
+</resources>

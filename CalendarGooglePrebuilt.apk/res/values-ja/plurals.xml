@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ndays">
+        <item quantity="other">%d日</item>
+        <item quantity="one">1日</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%d時間</item>
+        <item quantity="one">1時間</item>
+    </plurals>
+    <plurals name="Nminutes">
+        <item quantity="other">%d分</item>
+        <item quantity="one">1分</item>
+    </plurals>
+    <plurals name="Nweeks">
+        <item quantity="other">%d週間</item>
+        <item quantity="one">1週間</item>
+    </plurals>
+    <plurals name="a11y_filter_capacity">
+        <item quantity="other">最低収容人数: %1$d 人</item>
+        <item quantity="one">最低収容人数: 1 人</item>
+    </plurals>
+    <plurals name="accessibility_find_time_custom_duration_hour_input">
+        <item quantity="other">%d 時間</item>
+        <item quantity="one">%d 時間</item>
+    </plurals>
+    <plurals name="accessibility_find_time_custom_duration_minute_input">
+        <item quantity="other">%d 分</item>
+        <item quantity="one">%d 分</item>
+    </plurals>
+    <plurals name="accessibility_has_time_proposals">
+        <item quantity="other">に対し、日時の提案があります</item>
+        <item quantity="one">に対し、日時の提案があります</item>
+    </plurals>
+    <plurals name="alternate_search_available_announce">
+        <item quantity="other">一致する結果が %d 件ありました。</item>
+        <item quantity="one">一致する結果が %d 件ありました。</item>
+    </plurals>
+    <plurals name="annually_frequency_text">
+        <item quantity="other">%1$d %2$sごとに繰り返す</item>
+        <item quantity="one">%1$d %2$sごとに繰り返す</item>
+    </plurals>
+    <plurals name="birthday_chip_title">
+        <item quantity="other">%d 人の誕生日</item>
+        <item quantity="one">誕生日</item>
+    </plurals>
+    <plurals name="calendar_daily_lower">
+        <item quantity="other">%d 日ごと</item>
+        <item quantity="one">毎日</item>
+    </plurals>
+    <plurals name="calendar_monthly_interval_lower">
+        <item quantity="other">%1$d か月ごと</item>
+        <item quantity="one">毎月</item>
+    </plurals>
+    <plurals name="calendar_weekly_lower">
+        <item quantity="other">%1$d 週間ごと</item>
+        <item quantity="one">毎週</item>
+    </plurals>
+    <plurals name="calendar_yearly_interval_lower">
+        <item quantity="other">%1$d 年ごと</item>
+        <item quantity="one">毎年</item>
+    </plurals>
+    <plurals name="capacity_description">
+        <item quantity="other">%d 人</item>
+        <item quantity="one">1 人</item>
+    </plurals>
+    <plurals name="count_duration_accessibility_description">
+        <item quantity="other">%d 回目の予定が完了した時点で終了</item>
+        <item quantity="one">1 回目の予定が完了した時点で終了</item>
+    </plurals>
+    <plurals name="count_duration_label">
+        <item quantity="other">%d 回目の予定が完了した時点</item>
+        <item quantity="one">%d 回目の予定が完了した時点</item>
+    </plurals>
+    <plurals name="daily_frequency_text">
+        <item quantity="other">%1$d %2$sごとに繰り返す</item>
+        <item quantity="one">%1$d %2$sごとに繰り返す</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">日</item>
+        <item quantity="one">日</item>
+    </plurals>
+    <plurals name="days_before">
+        <item quantity="other">日前</item>
+        <item quantity="one">日前</item>
+    </plurals>
+    <plurals name="describe_attachments">
+        <item quantity="other">添付ファイル: %1$d 個の添付ファイル</item>
+        <item quantity="one">添付ファイル: %1$d 個の添付ファイル</item>
+    </plurals>
+    <plurals name="done_reminders_title">
+        <item quantity="other">%d 件の完了済みのリマインダー</item>
+        <item quantity="one">%d 件の完了済みのリマインダー</item>
+    </plurals>
+    <plurals name="end_by_count">
+        <item quantity="other">、%d 回</item>
+        <item quantity="one">、1 回</item>
+    </plurals>
+    <plurals name="error_working_location_duration_too_long">
+        <item quantity="other">勤務場所の設定適用期間の上限は %1$d 日です。</item>
+        <item quantity="one">勤務場所の設定適用期間の上限は %1$d 日です。</item>
+    </plurals>
+    <plurals name="files_not_shared_dialog_body">
+        <item quantity="other">ゲストには、Googleドライブから挿入されたファイルへのアクセス権がない可能性があります。このファイルをGoogleドライブ内で共有してください。</item>
+        <item quantity="one">ゲストには、Googleドライブから挿入されたファイルへのアクセス権がない可能性があります。このファイルをGoogleドライブ内で共有してください。</item>
+    </plurals>
+    <plurals name="find_a_time_invisible_attendee">
+        <item quantity="other">他%d人</item>
+        <item quantity="one">他%d人</item>
+    </plurals>
+    <plurals name="find_time_duration_hour_label">
+        <item quantity="other">%d 時間</item>
+        <item quantity="one">%d 時間</item>
+    </plurals>
+    <plurals name="find_time_duration_minute_label">
+        <item quantity="other">%d 分</item>
+        <item quantity="one">%d 分</item>
+    </plurals>
+    <plurals name="fix_permissions_does_not_fix_everything_warning">
+        <item quantity="other">注: これらのファイルにまだアクセスできないゲストがいる可能性があります。このファイルをGoogleドライブ内で共有してください。</item>
+        <item quantity="one">注: このファイルにまだアクセスできないゲストがいる可能性があります。このファイルをGoogleドライブ内で共有してください。</item>
+    </plurals>
+    <plurals name="fix_permissions_outside_domain_warning_hedgehog">
+        <item quantity="other">"共有相手:&lt;br>&lt;b>%1$s
+&lt;/b>&lt;br>これらのゲストは、これらのファイルを所有している Google Workspace 組織に属していません"</item>
+        <item quantity="one">共有相手:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>これらのゲストは、このファイルを所有している Google Workspace 組織に属していません</item>
+    </plurals>
+    <plurals name="guest_count">
+        <item quantity="other">ゲスト %d 人</item>
+        <item quantity="one">ゲスト %d 人</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">時間</item>
+        <item quantity="one">時間</item>
+    </plurals>
+    <plurals name="hours_before">
+        <item quantity="other">時間前</item>
+        <item quantity="one">時間前</item>
+    </plurals>
+    <plurals name="ical_many_events_warning">
+        <item quantity="other">%d件の予定が追加されます。この操作は元に戻せません。追加してもよろしいですか？</item>
+        <item quantity="one">%d件の予定が追加されます。この操作は元に戻せません。追加してもよろしいですか？</item>
+    </plurals>
+    <plurals name="mark_reminders_done_title">
+        <item quantity="other">%d 件のリマインダーを完了としますか？</item>
+        <item quantity="one">%d 件のリマインダーを完了としますか？</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">分</item>
+        <item quantity="one">分</item>
+    </plurals>
+    <plurals name="minutes_before">
+        <item quantity="other">分前</item>
+        <item quantity="one">分前</item>
+    </plurals>
+    <plurals name="month_view_hidden_events">
+        <item quantity="other">他 %d 件</item>
+        <item quantity="one">他 %d 件</item>
+    </plurals>
+    <plurals name="monthly_frequency_text">
+        <item quantity="other">%1$d %2$sごとに繰り返す</item>
+        <item quantity="one">%1$d %2$sごとに繰り返す</item>
+    </plurals>
+    <plurals name="more_guests">
+        <item quantity="other">、他 %1$d 人</item>
+        <item quantity="one">、他 %1$d 人</item>
+    </plurals>
+    <plurals name="no_room_suggestions_title">
+        <item quantity="other">会議室の候補のないゲスト: %1$d 人</item>
+        <item quantity="one">会議室の候補のないゲスト: 1 人</item>
+    </plurals>
+    <plurals name="num_rooms">
+        <item quantity="other">%1$d 室</item>
+        <item quantity="one">%1$d 室</item>
+    </plurals>
+    <plurals name="public_notification_text">
+        <item quantity="other">%1$d 件の新しいお知らせがあります</item>
+        <item quantity="one">1 件のお知らせがあります</item>
+    </plurals>
+    <plurals name="recurrence_frequency_annually">
+        <item quantity="other">年</item>
+        <item quantity="one">年</item>
+    </plurals>
+    <plurals name="recurrence_frequency_daily">
+        <item quantity="other">日</item>
+        <item quantity="one">日</item>
+    </plurals>
+    <plurals name="recurrence_frequency_monthly">
+        <item quantity="other">か月</item>
+        <item quantity="one">か月</item>
+    </plurals>
+    <plurals name="recurrence_frequency_weekly">
+        <item quantity="other">週間</item>
+        <item quantity="one">週間</item>
+    </plurals>
+    <plurals name="reminder_bundle_description_prefix">
+        <item quantity="other">%d 件のリマインダー:</item>
+        <item quantity="one">%d 件のリマインダー:</item>
+    </plurals>
+    <plurals name="reminder_done_bundle_description_prefix">
+        <item quantity="other">%d 件の完了済みのリマインダー:</item>
+        <item quantity="one">%d 件の完了済みのリマインダー:</item>
+    </plurals>
+    <plurals name="reminders_marked_done">
+        <item quantity="other">%d 件のリマインダーを完了としました。</item>
+        <item quantity="one">%d 件のリマインダーを完了としました。</item>
+    </plurals>
+    <plurals name="reminders_migration_dialog_title">
+        <item quantity="other">%d 件のリマインダーをタスクに変換</item>
+        <item quantity="one">%d 件のリマインダーをタスクに変換</item>
+    </plurals>
+    <plurals name="reminders_migration_force_completed_toast">
+        <item quantity="other">リマインダーがタスクに置き換わりました。%1$d 件のリマインダーを %2$s のタスクに変換しました</item>
+        <item quantity="one">リマインダーがタスクに置き換わりました。%1$d 件のリマインダーを %2$s のタスクに変換しました。</item>
+    </plurals>
+    <plurals name="reminders_migration_keep_only_dialog_title">
+        <item quantity="other">%d 件のリマインダーは引き続き Google Keep で管理できます</item>
+        <item quantity="one">%d 件のリマインダーは引き続き Google Keep で管理できます</item>
+    </plurals>
+    <plurals name="reminders_migration_keep_only_reminders_dialog_description_with_account">
+        <item quantity="other">%s では、すべてのリマインダーは Google Keep で作成されたため、タスクに変換できません。これらはカレンダーから削除されますが、引き続き Keep で管理できます。</item>
+        <item quantity="one">%s では、リマインダーは Google Keep で作成されたため、タスクに変換できません。このリマインダーはカレンダーから削除されますが、Keep で引き続き管理できます。</item>
+    </plurals>
+    <plurals name="reminders_migration_partial_failure_some_remaining_toast">
+        <item quantity="other">%1$d 件のリマインダーのみを %2$s のタスクに変換しましたまだリマインダーが残っています。</item>
+        <item quantity="one">%1$d 件のリマインダーのみを %2$s のタスクに変換しました。まだリマインダーが残っています。</item>
+    </plurals>
+    <plurals name="reminders_migration_tooltip_remark">
+        <item quantity="other">%d 件のリマインダーをタスクに変換しました。</item>
+        <item quantity="one">%d 件のリマインダーをタスクに変換しました。</item>
+    </plurals>
+    <plurals name="reminders_migration_tooltip_with_keep_reminders_remark">
+        <item quantity="other">%d 件のリマインダーをタスクに変換しました。Google Keep で作成したリマインダーは変換されていません。これらはカレンダーから削除されますが、引き続き Keep で管理できます。</item>
+        <item quantity="one">%d 件のリマインダーをタスクに変換しました。Google Keep で作成したリマインダーは変換されていません。これらはカレンダーから削除されますが、引き続き Keep で管理できます。</item>
+    </plurals>
+    <plurals name="reminders_migration_voluntary_completed_keep_only_toast">
+        <item quantity="other">%1$d 件のリマインダーを %2$s のカレンダーから削除しましたが、Keep には残ります</item>
+        <item quantity="one">%1$d 件のリマインダーを %2$s のカレンダーから削除しましたが、Keep には残ります</item>
+    </plurals>
+    <plurals name="reminders_migration_voluntary_completed_toast">
+        <item quantity="other">%1$d 件のリマインダーを %2$s のタスクに変換しました</item>
+        <item quantity="one">%1$d 件のリマインダーを %2$s のタスクに変換しました。</item>
+    </plurals>
+    <plurals name="reminders_title">
+        <item quantity="other">%d 件のリマインダー</item>
+        <item quantity="one">%d 件のリマインダー</item>
+    </plurals>
+    <plurals name="response_count_accepted">
+        <item quantity="other">参加 %s 人</item>
+        <item quantity="one">参加 %s 人</item>
+    </plurals>
+    <plurals name="response_count_accepted_in_a_meeting_room">
+        <item quantity="other">%s 人が会議室で会議に参加</item>
+        <item quantity="one">%s 人が会議室で会議に参加</item>
+    </plurals>
+    <plurals name="response_count_accepted_virtually">
+        <item quantity="other">%s 人がオンラインで会議に参加</item>
+        <item quantity="one">%s 人がオンラインで会議に参加</item>
+    </plurals>
+    <plurals name="response_count_declined">
+        <item quantity="other">不参加 %s 人</item>
+        <item quantity="one">不参加 %s 人</item>
+    </plurals>
+    <plurals name="response_count_need_action">
+        <item quantity="other">返答待ち %s 人</item>
+        <item quantity="one">返答待ち %s 人</item>
+    </plurals>
+    <plurals name="response_count_tentative">
+        <item quantity="other">未定 %s 人</item>
+        <item quantity="one">未定 %s 人</item>
+    </plurals>
+    <plurals name="room_capacity_description">
+        <item quantity="other">定員 %1$d 人の会議室</item>
+        <item quantity="one">定員 1 人の会議室</item>
+    </plurals>
+    <plurals name="short_invisible_all_day_events">
+        <item quantity="other">他%d</item>
+        <item quantity="one">他%d</item>
+    </plurals>
+    <plurals name="smartmail_seats">
+        <item quantity="other">座席 %s</item>
+        <item quantity="one">座席 %s</item>
+    </plurals>
+    <plurals name="smartmail_time_day_offset">
+        <item quantity="other">%d 日目</item>
+        <item quantity="one">%d 日目</item>
+    </plurals>
+    <plurals name="survey_star_rating">
+        <item quantity="other">星 %2$d 個中 %1$d 個</item>
+        <item quantity="one">星 %2$d 個中 %1$d 個</item>
+    </plurals>
+    <plurals name="tasks_rollover_chip_title">
+        <item quantity="other">%d 件の保留中のタスク</item>
+        <item quantity="one">%d 件の保留中のタスク</item>
+    </plurals>
+    <plurals name="tasks_rollover_dialog_description">
+        <item quantity="other">過去 %d 日間</item>
+        <item quantity="one">過去 %d 日間</item>
+    </plurals>
+    <plurals name="weekly_by_day_lower">
+        <item quantity="other">%1$d 週ごとの%2$s</item>
+        <item quantity="one">毎週%2$s</item>
+    </plurals>
+    <plurals name="weekly_frequency_text">
+        <item quantity="other">%1$d %2$sごとに繰り返す</item>
+        <item quantity="one">%1$d %2$sごとに繰り返す</item>
+    </plurals>
+    <plurals name="weeks">
+        <item quantity="other">週間</item>
+        <item quantity="one">週間</item>
+    </plurals>
+    <plurals name="weeks_before">
+        <item quantity="other">週間前</item>
+        <item quantity="one">週間前</item>
+    </plurals>
+</resources>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="call_captions_typing_predictions_post_system_message">
+        <item>ሰላም፣ ማን ልበል?</item>
+        <item>ሰላም እንደምን ነዎት?</item>
+        <item>እባክዎ ጥቂት ይጠብቁ</item>
+        <item>ሰላም፣ በኋላ መልሰው መደወል ይችላሉ?</item>
+        <item>ሰላም! ስለ ደወሉ አመሰግናለሁ።</item>
+    </string-array>
+    <string-array name="captions_settings_enable_for_calls_choices_entries">
+        <item>ሁልጊዜ ጠይቅ</item>
+        <item>ሁልጊዜ</item>
+        <item>ጠፍቷል</item>
+    </string-array>
+    <string-array name="captions_settings_typing_voice_names">
+        <item>ድምፅ ሀ</item>
+        <item>ድምፅ ለ</item>
+        <item>ድምፅ ሐ</item>
+        <item>ድምፅ መ</item>
+        <item>ድምፅ ሠ</item>
+        <item>ድምፅ ረ</item>
+        <item>ድምፅ ሰ</item>
+        <item>ድምፅ ሸ</item>
+        <item>ድምፅ ቀ</item>
+        <item>ድምፅ በ</item>
+        <item>ድምፅ ተ</item>
+        <item>ድምፅ ቸ</item>
+        <item>ድምፅ ኀ</item>
+        <item>ድምፅ ነ</item>
+        <item>ድምፅ ኘ</item>
+        <item>ድምፅ አ</item>
+    </string-array>
+    <string-array name="pref_download_policy_entries">
+        <item>ተንቀሳቃሽ ስልክ + WiFi</item>
+        <item>WiFi ብቻ</item>
+        <item>አታዘምን</item>
+    </string-array>
+    <string-array name="pref_download_policy_entry_values_placeholder">
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+</resources>

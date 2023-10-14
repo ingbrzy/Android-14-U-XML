@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dlg_message_deletion_confirmation">
+        <item quantity="other">আপনার রেকর্ডিং স্থায়ীভাবে মুছে ফেলা হবে। একবার মুছে দিলে আপনি আর রেকর্ডিং শুনতে পাবেন না।</item>
+        <item quantity="one">আপনার রেকর্ডিং স্থায়ীভাবে মুছে ফেলা হবে। একবার মুছে দিলে আপনি আর রেকর্ডিং শুনতে পাবেন না।</item>
+    </plurals>
+    <plurals name="dlg_message_deletion_permanent_confirmation">
+        <item quantity="other">রেকর্ডিংয়ের ব্যাক-আপ নেওয়া হয়নি। এইসব রেকর্ডিং স্থায়ীভাবে মুছে ফেলা হবে। এটি আগের অবস্থায় আর ফিরিয়ে আনা যাবে না।</item>
+        <item quantity="one">রেকর্ডিংয়ের ব্যাক-আপ নেওয়া হয়নি। এইসব রেকর্ডিং স্থায়ীভাবে মুছে ফেলা হবে। এটি আগের অবস্থায় আর ফিরিয়ে আনা যাবে না।</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_confirmation">
+        <item quantity="other">রেকর্ডিং মুছে ফেলতে চান?</item>
+        <item quantity="one">রেকর্ডিং মুছে ফেলতে চান?</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_permanent_confirmation">
+        <item quantity="other">এইসব রেকর্ডিং স্থায়ীভাবে মুছে দিতে চান?</item>
+        <item quantity="one">এইসব রেকর্ডিং স্থায়ীভাবে মুছে দিতে চান?</item>
+    </plurals>
+    <plurals name="download_failure_description_storage_full">
+        <item quantity="other">ডিভাইসের স্টোরেজ ভর্তি হয়ে যাওয়ায় রেকর্ডিং ডাউনলোড করা যাচ্ছে না। পর্যালোচনা করতে ট্যাপ করুন।</item>
+        <item quantity="one">ডিভাইসের স্টোরেজ ভর্তি হয়ে যাওয়ায় রেকর্ডিং ডাউনলোড করা যাচ্ছে না। পর্যালোচনা করতে ট্যাপ করুন।</item>
+    </plurals>
+    <plurals name="downloading_description">
+        <item quantity="other">%1$dটি রেকর্ডিং ডাউনলোড হচ্ছে</item>
+        <item quantity="one">%1$dটি রেকর্ডিং ডাউনলোড হচ্ছে</item>
+    </plurals>
+    <plurals name="og_backup_failed_title">
+        <item quantity="other">%1$dটি আইটেমের ব্যাক-আপ নেওয়া যায়নি</item>
+        <item quantity="one">%1$dটি আইটেমের ব্যাক-আপ নেওয়া যায়নি</item>
+    </plurals>
+    <plurals name="og_backup_items_left">
+        <item quantity="other">%1$dটি আইটেম বাকি আছে</item>
+        <item quantity="one">%1$dটি আইটেম বাকি আছে</item>
+    </plurals>
+    <plurals name="og_backup_items_stopped_title">
+        <item quantity="other">%1$dটি আইটেমের ব্যাক-আপ নেওয়া যায়নি</item>
+        <item quantity="one">%1$dটি আইটেমের ব্যাক-আপ নেওয়া যায়নি</item>
+    </plurals>
+    <plurals name="peoplekit_chips_copied_recipients">
+        <item quantity="other">%d জন প্রাপকের নাম কপি করা হয়েছে</item>
+        <item quantity="one">%d জন প্রাপকের নাম কপি করা হয়েছে</item>
+    </plurals>
+    <plurals name="search_results_count">
+        <item quantity="other">%1$dটি ফলাফল</item>
+        <item quantity="one">%1$dটি ফলাফল</item>
+    </plurals>
+    <plurals name="search_results_position">
+        <item quantity="other">^1/^2 ফলাফল</item>
+        <item quantity="one">^1/^2 ফলাফল</item>
+    </plurals>
+    <plurals name="search_results_position_content_description">
+        <item quantity="other">%2$dটি ফলাফলের মধ্যে %1$d নম্বর</item>
+        <item quantity="one">%2$dটি ফলাফলের মধ্যে %1$d নম্বর</item>
+    </plurals>
+    <plurals name="selected_recording_quantity">
+        <item quantity="other">%1$dটি বেছে নেওয়া হয়েছে</item>
+        <item quantity="one">%1$dটি বেছে নেওয়া হয়েছে</item>
+    </plurals>
+    <plurals name="snackbar_message_download_failed_storage_full">
+        <item quantity="other">ডিভাইস স্টোরেজ ভর্তি হয়ে গেছে। রেকর্ডিং ডাউনলোড করা যাচ্ছে না।</item>
+        <item quantity="one">ডিভাইস স্টোরেজ ভর্তি হয়ে গেছে। রেকর্ডিং ডাউনলোড করা যাচ্ছে না।</item>
+    </plurals>
+    <plurals name="speaker_count">
+        <item quantity="other">%1$dটি স্পিকার</item>
+        <item quantity="one">%1$dটি স্পিকার</item>
+    </plurals>
+    <plurals name="uploading_description">
+        <item quantity="other">%1$dটি রেকর্ডিং আপলোড করা হচ্ছে</item>
+        <item quantity="one">%1$dটি রেকর্ডিং আপলোড করা হচ্ছে</item>
+    </plurals>
+</resources>

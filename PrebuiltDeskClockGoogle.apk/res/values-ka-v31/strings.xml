@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="analog_gadget">ანალოგური</string>
+    <string name="digital_gadget">ციფრული</string>
+    <string name="analog_widget_clover_clock_name">სამყურა</string>
+    <string name="analog_widget_clover_content_description">სამყურას ფორმის ციფერბლატი</string>
+    <string name="analog_widget_config_activity_title">აირჩიეთ ციფერბლატი</string>
+    <string name="analog_widget_day_clock_name">დღე</string>
+    <string name="analog_widget_day_content_description">ციფერბლატი დღის მითითებით</string>
+    <string name="analog_widget_numeral_clock_name">ციფრული</string>
+    <string name="analog_widget_numeral_content_description">დიდ რიცხვებიანი ციფერბლატი</string>
+    <string name="analog_widget_scallop_clock_name">ნიჟარა</string>
+    <string name="analog_widget_scallop_content_description">ციფერბლატი დღისა და თვის მითითებით</string>
+    <string name="cities_widget_config_activity_subtitle">ქალაქების დამატება შესაძლებელია ჩანართიდან „საათი“</string>
+    <string name="cities_widget_config_activity_subtitle_button">აირჩიეთ ქალაქები საათის აპში</string>
+    <string name="cities_widget_preview_city_london">ლონდონი</string>
+    <string name="cities_widget_preview_city_mountain_view">მაუნთინ-ვიუ</string>
+    <string name="clock_widget_opaque_label">სქელი</string>
+    <string name="clock_widget_transparent_label">გამჭვირვალე</string>
+    <string name="digital_appwidget_config_activity_title">აირჩიეთ საათის სტილი</string>
+    <string name="digital_cities_gadget">მსოფლიო</string>
+    <string name="digital_cities_gadget_description">აირჩიეთ ქალაქები საათის აპში</string>
+    <string name="digital_stacked_gadget">ერთმანეთზე დაწყობ.</string>
+    <string name="digital_widgets_preview_alarm">ორშ 09:30</string>
+    <string name="stopwatch_gadget_description">მართეთ წამზომი საათის აპიდან</string>
+</resources>

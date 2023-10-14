@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sound_amplifier_html_description">ຕົວຂະຫຍາຍສຽງຈະເຮັດໃຫ້ສຽງຄ່ອຍດັງຂຶ້ນໂດຍບໍ່ເຮັດໃຫ້ສຽງທີ່ດັງຢູ່ແລ້ວດັງເກີນໄປ&lt;br/>&lt;br/> &lt;b>ວິທີໃຊ້ຕົວຂະຫຍາຍສຽງ&lt;/b>&lt;br/> 1. ສຽບຫູຟັງແບບມີສາຍ ຫຼື ເຊື່ອມຕໍ່ຫູຟັງ Bluetooth&lt;br/> 2. ເລີ່ມຕົວຂະຫຍາຍສຽງ</string>
+    <string name="sound_amplifier_intro">ໃຊ້ຕົວຂະຫຍາຍສຽງກັບຫູຟັງເພື່ອເພີ່ມຄຸນນະພາບສຽງອ້ອມຕົວທ່ານ ແລະ ຢູ່ອຸປະກອນຂອງທ່ານ</string>
+</resources>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Keliais įrenginiais naudojamos paslaugos</string>
+    <string name="app_name_generic">programa</string>
+    <string name="app_stream_error_generic">Įvyko programų bendrinimo klaida</string>
+    <string name="app_stream_init_error_generic">Nepavyko bendrinti programų su „Chromebook“</string>
+    <string name="audio_permission_rationale">Programų bendrinimo mikrofono leidimas išjungtas</string>
+    <string name="cancel_button_label">Atšaukti</string>
+    <string name="chromebook_keyboard">„Chromebook“ klaviatūra</string>
+    <string name="chromebook_mouse">„Chromebook“ pelė</string>
+    <string name="chromebook_touchscreen">„Chromebook“ jutiklinis ekranas</string>
+    <string name="connect_device">Telefonas susiejamas su nuotoliniu įrenginiu: %1$s</string>
+    <string name="decline_button_label">Atmesti</string>
+    <string name="development_notification_channel_name">Kūrimas</string>
+    <string name="device_camera_cannot_access">Nepavyko pasiekti įrenginio fotoaparato iš šio „Chromebook“</string>
+    <string name="done_button_label">Atlikta</string>
+    <string name="enable_button_label">Įgalinti</string>
+    <string name="foreground_service_notification_channel_name">Bendrieji</string>
+    <string name="foreground_service_notification_content">Palieskite, kad galėtumėte keisti nustatymus</string>
+    <string name="foreground_service_notification_title">{0,plural, =1{Prisijungta prie # įrenginio}one{Prisijungta prie # įrenginio}few{Prisijungta prie # įrenginių}many{Prisijungta prie # įrenginio}other{Prisijungta prie # įrenginių}}</string>
+    <string name="interactive_streaming_generic_notification">„%1$s“ perduodama srautu ir sinchronizuojami pranešimai, skirti jūsų „Chromebook“</string>
+    <string name="interactive_streaming_individual_notification">Perduodama srautu „%1$s“ ir sinchronizuojami %2$s pranešimai</string>
+    <string name="interactive_streaming_notification">Perduodama srautu į „Chromebook“</string>
+    <string name="keyboard_name">Keliais įrenginiais naudojama klaviatūra</string>
+    <string name="lock_screen_notif_warning_content">Įgalinkite pranešimus užrakinimo ekrane</string>
+    <string name="lock_screen_notif_warning_title">Pranešimai nebus persiunčiami</string>
+    <string name="mouse_name">Keliais įrenginiais naudojama pelė</string>
+    <string name="new_connection_confirm">Patvirtinti</string>
+    <string name="new_connection_deny">Atmesti</string>
+    <string name="new_connection_title">Patvirtinti atitinkančias eilutes</string>
+    <string name="notification_access_missing">Reikalinga prieiga prie pranešimų</string>
+    <string name="notification_access_missing_description">Jei norite atidaryti pranešimus „Chromebook“ įrenginyje, įjunkite prieigą prie pranešimų</string>
+    <string name="notification_channel_name">Bendrieji</string>
+    <string name="notification_listener_label">Bendrinti programas su „Chromebook“</string>
+    <string name="open_source_licenses">Atvirojo šaltinio licencijos</string>
+    <string name="phone_permission_rationale">Programų bendrinimo telefono skambučio leidimas išjungtas</string>
+    <string name="prompt_switch_languages">Paspauskite „Shift“ + tarpo klavišą, kad perjungtumėte telefono „Gboard“ kalbą</string>
+    <string name="settings_button">Nustatymai</string>
+    <string name="stop_sharing_button">Baigti sraut. perd.</string>
+    <string name="stream_termination_proximity_warning">Jūsų telefonas yra per toli. Laikykite jį arčiau, kad galėtumėte toliau perduoti srautu.</string>
+    <string name="substitute_app_name">Sistema</string>
+    <string name="summary_disable_wirecutter">Išjungta</string>
+    <string name="summary_enable_wirecutter">Įjungta</string>
+    <string name="touchscreen_name">Keliais įrenginiais naudojamas jutiklinis ekranas</string>
+</resources>

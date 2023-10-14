@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="alarm_alert_snooze_duration">
+        <item quantity="other">%d నిమి</item>
+        <item quantity="one">1 నిమి</item>
+    </plurals>
+    <plurals name="alarm_alert_snooze_set">
+        <item quantity="other">%d నిమిషాల పాటు తాత్కాలికంగా ఆపివేయబడుతోంది.</item>
+        <item quantity="one">1 నిమిషం పాటు తాత్కాలికంగా ఆపివేయబడుతోంది.</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%s రోజులు</item>
+        <item quantity="one">1 రోజు</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">%s రోజుల క్రితం</item>
+        <item quantity="one">1 రోజు క్రితం</item>
+    </plurals>
+    <plurals name="days_extra_short">
+        <item quantity="other">%sరో</item>
+        <item quantity="one">1రో</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s గంటలు</item>
+        <item quantity="one">1 గంట</item>
+    </plurals>
+    <plurals name="hours_extra_short">
+        <item quantity="other">%sగం</item>
+        <item quantity="one">1గం</item>
+    </plurals>
+    <plurals name="hours_short">
+        <item quantity="other">%s గంటలు</item>
+        <item quantity="one">1 గంట</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s నిమిషాలు</item>
+        <item quantity="one">1 నిమిషం</item>
+    </plurals>
+    <plurals name="minutes_extra_short">
+        <item quantity="other">%sని</item>
+        <item quantity="one">1ని</item>
+    </plurals>
+    <plurals name="minutes_short">
+        <item quantity="other">%s నిమిషం</item>
+        <item quantity="one">1 నిమిషం</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d కొత్త నోటిఫికేషన్‌లు</item>
+        <item quantity="one">%d కొత్త నోటిఫికేషన్</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%s సెకన్లు</item>
+        <item quantity="one">1 సెకను</item>
+    </plurals>
+    <plurals name="seconds_extra_short">
+        <item quantity="other">%sసె</item>
+        <item quantity="one">1సె</item>
+    </plurals>
+</resources>

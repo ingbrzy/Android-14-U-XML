@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Serveis multidispositiu</string>
+    <string name="app_name_generic">una aplicació</string>
+    <string name="app_stream_error_generic">"S'ha produït un error durant la compartició de l'aplicació"</string>
+    <string name="app_stream_init_error_generic">"No s'ha pogut compartir l'aplicació amb el teu Chromebook"</string>
+    <string name="audio_permission_rationale">"El permís d'accés al micròfon està desactivat per a la compartició de l'aplicació"</string>
+    <string name="cancel_button_label">Cancel·la</string>
+    <string name="chromebook_keyboard">Teclat del Chromebook</string>
+    <string name="chromebook_mouse">Ratolí del Chromebook</string>
+    <string name="chromebook_touchscreen">Pantalla tàctil del Chromebook</string>
+    <string name="connect_device">"S'està connectant el telèfon al dispositiu remot %1$s"</string>
+    <string name="decline_button_label">Rebutja</string>
+    <string name="development_notification_channel_name">Desenvolupament</string>
+    <string name="device_camera_cannot_access">"No es pot accedir a la càmera del dispositiu des d'aquest Chromebook"</string>
+    <string name="done_button_label">Fet</string>
+    <string name="enable_button_label">Activa</string>
+    <string name="foreground_service_notification_channel_name">General</string>
+    <string name="foreground_service_notification_content">Toca per modificar la configuració</string>
+    <string name="foreground_service_notification_title">{0,plural, =1{Connectat a # dispositiu}other{Connectat a # dispositius}}</string>
+    <string name="interactive_streaming_generic_notification">Reproduint %1$s en continu i sincronitzant notificacions per al teu Chromebook</string>
+    <string name="interactive_streaming_individual_notification">"S'està reproduint %1$s en continu i s'estan sincronitzant les notificacions per a %2$s"</string>
+    <string name="interactive_streaming_notification">Reproduint en continu al teu Chromebook</string>
+    <string name="keyboard_name">Teclat multidispositiu</string>
+    <string name="lock_screen_notif_warning_content">Activa les notificacions a la pantalla de bloqueig</string>
+    <string name="lock_screen_notif_warning_title">Les notificacions no es desviaran</string>
+    <string name="mouse_name">Ratolí multidispositiu</string>
+    <string name="new_connection_confirm">Confirma</string>
+    <string name="new_connection_deny">Denega</string>
+    <string name="new_connection_title">Confirma que la cadena coincideix</string>
+    <string name="notification_access_missing">Cal accés a les notificacions</string>
+    <string name="notification_access_missing_description">"Per obrir notificacions al teu Chromebook, activa l'accés a les notificacions"</string>
+    <string name="notification_channel_name">General</string>
+    <string name="notification_listener_label">Comparteix aplicacions amb el teu Chromebook</string>
+    <string name="open_source_licenses">Llicències de programari lliure</string>
+    <string name="phone_permission_rationale">"El permís d'accés a les trucades està desactivat per a la compartició de l'aplicació"</string>
+    <string name="prompt_switch_languages">"Prem Maj+Espai per canviar l'idioma de Gboard del telèfon"</string>
+    <string name="settings_button">Configuració</string>
+    <string name="stop_sharing_button">Finalitza reproducció</string>
+    <string name="stream_termination_proximity_warning">"El telèfon és massa lluny. Apropa'l per seguir reproduint en continu."</string>
+    <string name="substitute_app_name">Sistema</string>
+    <string name="summary_disable_wirecutter">Desactivat</string>
+    <string name="summary_enable_wirecutter">Activat</string>
+    <string name="touchscreen_name">Pantalla tàctil multidispositiu</string>
+</resources>

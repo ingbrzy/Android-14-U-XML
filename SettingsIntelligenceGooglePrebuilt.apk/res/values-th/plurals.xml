@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="other">%d วันที่ผ่านมา</item>
+        <item quantity="one">%d วันที่ผ่านมา</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="other">%d นาทีที่ผ่านมา</item>
+        <item quantity="one">%d นาทีที่ผ่านมา</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="other">%d ปีที่ผ่านมา</item>
+        <item quantity="one">%d ปีที่ผ่านมา</item>
+    </plurals>
+    <plurals name="accessibility_other_devices">
+        <item quantity="other">%d อุปกรณ์อื่นๆ</item>
+        <item quantity="one">%d อุปกรณ์อื่น</item>
+    </plurals>
+    <plurals name="routines_settings_summary">
+        <item quantity="other">กฎ %d ข้อ</item>
+        <item quantity="one">กฎ 1 ข้อ</item>
+    </plurals>
+</resources>

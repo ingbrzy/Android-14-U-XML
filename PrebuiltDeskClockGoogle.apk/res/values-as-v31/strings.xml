@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="analog_gadget">এনালগ</string>
+    <string name="digital_gadget">ডিজিটেল</string>
+    <string name="analog_widget_clover_clock_name">ক্ল’ভাৰ</string>
+    <string name="analog_widget_clover_content_description">ক্ল’ভাৰৰ দৰে আকৃতিৰ ক্লক ফে’চ</string>
+    <string name="analog_widget_config_activity_title">এটা ক্লক ফে’চ বাছনি কৰক</string>
+    <string name="analog_widget_day_clock_name">দিন</string>
+    <string name="analog_widget_day_content_description">মাহটোৰ দিন দেখুওৱা ক্লক ফে’চ</string>
+    <string name="analog_widget_numeral_clock_name">সংখ্যা</string>
+    <string name="analog_widget_numeral_content_description">সংখ্যা ডাঙৰকৈ দেখুওৱা ক্লক ফে’চ</string>
+    <string name="analog_widget_scallop_clock_name">স্কেল’প</string>
+    <string name="analog_widget_scallop_content_description">মাহ আৰু সপ্তাহটোৰ দিন দেখুওৱা ক্লক ফে’চ</string>
+    <string name="cities_widget_config_activity_subtitle">ঘড়ীৰ টেবটোৰ পৰা চহৰসমূহ যোগ দিব পৰা যায়</string>
+    <string name="cities_widget_config_activity_subtitle_button">Clock এপ্‌টোত চহৰ বাছনি কৰক</string>
+    <string name="cities_widget_preview_city_london">লণ্ডন</string>
+    <string name="cities_widget_preview_city_mountain_view">মাউণ্টেইন ভিউ</string>
+    <string name="clock_widget_opaque_label">অস্বচ্ছ</string>
+    <string name="clock_widget_transparent_label">স্বচ্ছ</string>
+    <string name="digital_appwidget_config_activity_title">ঘড়ীৰ শৈলী বাছনি কৰক</string>
+    <string name="digital_cities_gadget">বিশ্ব</string>
+    <string name="digital_cities_gadget_description">ঘড়ীৰ এপ্‌টোত চহৰ বাছনি কৰক</string>
+    <string name="digital_stacked_gadget">খাপ খাই থকা</string>
+    <string name="digital_widgets_preview_alarm">সোম ০৯:৩০</string>
+    <string name="stopwatch_gadget_description">ঘড়ীৰ এপ্‌টোত ষ্টপৱাচ্চ নিয়ন্ত্ৰণ কৰক</string>
+</resources>

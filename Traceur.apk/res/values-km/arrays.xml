@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="select_logpersist_summaries">
+        <item>បិទ</item>
+        <item>ឡុកបាហ្វើទាំងអស់</item>
+        <item>ទាំងអស់ក្រៅពីអង្គចងចាំកំណត់ហេតុវិទ្យុបណ្តោះអាសន្ន</item>
+        <item>អង្គចងចាំបណ្ដោះអាសន្នកំណត់ហេតុ kernel តែប៉ុណ្ណោះ</item>
+    </string-array>
+</resources>

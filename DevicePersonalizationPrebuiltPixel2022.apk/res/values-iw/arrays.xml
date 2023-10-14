@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="call_captions_typing_predictions_post_system_message">
+        <item>שלום, מי זה?</item>
+        <item>היי, מה שלומך?</item>
+        <item>עליך להמתין רגע</item>
+        <item>היי, יש אפשרות להתקשר מאוחר יותר?</item>
+        <item>היי! תודה שהתקשרת.</item>
+    </string-array>
+    <string-array name="captions_settings_enable_for_calls_choices_entries">
+        <item>יש לשאול בכל פעם</item>
+        <item>תמיד</item>
+        <item>כבוי</item>
+    </string-array>
+    <string-array name="captions_settings_typing_voice_names">
+        <item>קול 1</item>
+        <item>קול 2</item>
+        <item>קול 3</item>
+        <item>קול 4</item>
+        <item>קול 5</item>
+        <item>קול 6</item>
+        <item>קול 7</item>
+        <item>קול 8</item>
+        <item>קול 9</item>
+        <item>קול 10</item>
+        <item>קול 11</item>
+        <item>קול 12</item>
+        <item>קול 13</item>
+        <item>קול 14</item>
+        <item>קול 15</item>
+        <item>קול 16</item>
+    </string-array>
+    <string-array name="pref_download_policy_entries">
+        <item>חבילת גלישה + Wi-Fi</item>
+        <item>Wi-Fi בלבד</item>
+        <item>אני לא רוצה לעדכן</item>
+    </string-array>
+    <string-array name="pref_download_policy_entry_values_placeholder">
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+</resources>

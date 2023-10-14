@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dlg_message_deletion_confirmation">
+        <item quantity="other">Kayıtlarınız kalıcı olarak silinecek. Bu işlem geri alınamaz.</item>
+        <item quantity="one">Kaydınız kalıcı olarak silinecek. Bu işlem geri alınamaz.</item>
+    </plurals>
+    <plurals name="dlg_message_deletion_permanent_confirmation">
+        <item quantity="other">Kayıtlar yedeklenmedi. Bunlar kalıcı olarak silinecek. Bu işlemi geri alamazsınız.</item>
+        <item quantity="one">Kayıt yedeklenmedi. Bu kalıcı olarak silinecek. Bu işlemi geri alamazsınız.</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_confirmation">
+        <item quantity="other">Kayıtlar silinsin mi?</item>
+        <item quantity="one">Kayıt silinsin mi?</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_permanent_confirmation">
+        <item quantity="other">Bu kayıtlar kalıcı olarak silinsin mi?</item>
+        <item quantity="one">Bu kayıt kalıcı olarak silinsin mi?</item>
+    </plurals>
+    <plurals name="download_failure_description_storage_full">
+        <item quantity="other">Cihazın depolama alanı dolu olduğundan kayıtlar indirilemiyor. İncelemek için dokunun.</item>
+        <item quantity="one">Cihazın depolama alanı dolu. İncelemek için dokunun.</item>
+    </plurals>
+    <plurals name="downloading_description">
+        <item quantity="other">%1$d kayıt indiriliyor</item>
+        <item quantity="one">%1$d kayıt indiriliyor</item>
+    </plurals>
+    <plurals name="og_backup_failed_title">
+        <item quantity="other">%1$d öğe yedeklenemedi</item>
+        <item quantity="one">%1$d öğe yedeklenemedi</item>
+    </plurals>
+    <plurals name="og_backup_items_left">
+        <item quantity="other">%1$d öğe kaldı</item>
+        <item quantity="one">%1$d öğe kaldı</item>
+    </plurals>
+    <plurals name="og_backup_items_stopped_title">
+        <item quantity="other">%1$d öğe yedeklenmedi</item>
+        <item quantity="one">%1$d öğe yedeklenmedi</item>
+    </plurals>
+    <plurals name="peoplekit_chips_copied_recipients">
+        <item quantity="other">%d alıcı kopyalandı</item>
+        <item quantity="one">%d alıcı kopyalandı</item>
+    </plurals>
+    <plurals name="search_results_count">
+        <item quantity="other">%1$d sonuç</item>
+        <item quantity="one">%1$d sonuç</item>
+    </plurals>
+    <plurals name="search_results_position">
+        <item quantity="other">^1/^2 sonuç</item>
+        <item quantity="one">^1/^2 sonuç</item>
+    </plurals>
+    <plurals name="search_results_position_content_description">
+        <item quantity="other">%1$d / %2$d sonuç</item>
+        <item quantity="one">%1$d / %2$d sonuç</item>
+    </plurals>
+    <plurals name="selected_recording_quantity">
+        <item quantity="other">%1$d öğe seçildi</item>
+        <item quantity="one">%1$d öğe seçildi</item>
+    </plurals>
+    <plurals name="snackbar_message_download_failed_storage_full">
+        <item quantity="other">Cihazın depolama alanı dolu. Kayıtlar indirilemiyor.</item>
+        <item quantity="one">Cihazın depolama alanı dolu. Kayıt indirilemiyor.</item>
+    </plurals>
+    <plurals name="speaker_count">
+        <item quantity="other">%1$d hoparlör</item>
+        <item quantity="one">%1$d hoparlör</item>
+    </plurals>
+    <plurals name="uploading_description">
+        <item quantity="other">%1$d kayıt yükleniyor</item>
+        <item quantity="one">%1$d kayıt yükleniyor</item>
+    </plurals>
+</resources>

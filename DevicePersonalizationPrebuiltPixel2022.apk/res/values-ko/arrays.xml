@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="call_captions_typing_predictions_post_system_message">
+        <item>안녕하세요, 누구세요?</item>
+        <item>안녕하세요?</item>
+        <item>잠시 기다려 주세요</item>
+        <item>안녕하세요, 나중에 다시 걸어주시겠어요?</item>
+        <item>안녕하세요. 전화해 주셔서 감사합니다.</item>
+    </string-array>
+    <string-array name="captions_settings_enable_for_calls_choices_entries">
+        <item>항상 확인</item>
+        <item>항상 사용</item>
+        <item>사용 안함</item>
+    </string-array>
+    <string-array name="captions_settings_typing_voice_names">
+        <item>음성 A</item>
+        <item>음성 B</item>
+        <item>음성 C</item>
+        <item>음성 D</item>
+        <item>음성 E</item>
+        <item>음성 F</item>
+        <item>음성 G</item>
+        <item>음성 H</item>
+        <item>음성 I</item>
+        <item>음성 J</item>
+        <item>음성 K</item>
+        <item>음성 L</item>
+        <item>음성 M</item>
+        <item>음성 N</item>
+        <item>음성 O</item>
+        <item>음성 P</item>
+    </string-array>
+    <string-array name="pref_download_policy_entries">
+        <item>모바일 데이터 및 Wi-Fi 사용</item>
+        <item>Wi-Fi만 사용</item>
+        <item>업데이트 안함</item>
+    </string-array>
+    <string-array name="pref_download_policy_entry_values_placeholder">
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+</resources>

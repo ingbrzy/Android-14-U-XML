@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="switch_access_htmlDescription">Anda dapat menggunakan tombol akses untuk memilih item, men-scroll, mengetik, dan lainnya.</string>
+    <string name="switch_access_intro">Tombol akses dapat membantu mengontrol perangkat Android jika Anda kesulitan berinteraksi langsung dengan layar sentuh. Tombol akses dapat dihubungkan secara eksternal ke perangkat dan berfungsi seperti keyboard atau tombol besar.</string>
+</resources>

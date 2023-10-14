@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Түзмөктөр аралык кызматтар</string>
+    <string name="app_name_generic">колдонмо</string>
+    <string name="app_stream_error_generic">Колдонмону бөлүшүү учурунда ката кетти</string>
+    <string name="app_stream_init_error_generic">Колдонмону Chromebook менен бөлүшүү ийгиликсиз болуп калды</string>
+    <string name="audio_permission_rationale">Колдонмону бөлүшүү үчүн микрофонду колдонуу уруксаты өчүрүлгөн</string>
+    <string name="cancel_button_label">Жокко чыгаруу</string>
+    <string name="chromebook_keyboard">Chromebook баскычтобу</string>
+    <string name="chromebook_mouse">Chromebook чычканы</string>
+    <string name="chromebook_touchscreen">Chromebook сенсордук экраны</string>
+    <string name="connect_device">Телефонуңузду алыскы түзмөккө туташтыруу: %1$s</string>
+    <string name="decline_button_label">Баш тартуу</string>
+    <string name="development_notification_channel_name">Иштеп чыгуу</string>
+    <string name="device_camera_cannot_access">"Бул Chromebook'та түзмөктүн камерасын колдонууга болбойт"</string>
+    <string name="done_button_label">Бүттү</string>
+    <string name="enable_button_label">Иштетүү</string>
+    <string name="foreground_service_notification_channel_name">Жалпы</string>
+    <string name="foreground_service_notification_content">Параметрлерди өзгөртүү үчүн таптаңыз</string>
+    <string name="foreground_service_notification_title">{0,plural, =1{# түзмөккө туташты}other{# түзмөккө туташты}}</string>
+    <string name="interactive_streaming_generic_notification">"%1$s колдонмосу Chromebook'ка берилип, билдирмелер шайкештирилүүдө"</string>
+    <string name="interactive_streaming_individual_notification">\"%1$s\" колдонмосу жана билдирмелер \"%2$s\" түзмөгүнө чыгарылып, шайкештирилүүдө</string>
+    <string name="interactive_streaming_notification">"Chromebook'ка берилүүдө"</string>
+    <string name="keyboard_name">Түзмөктөгү баскычтоп</string>
+    <string name="lock_screen_notif_warning_content">Билдирмелерди кулпуланган экранда иштетүү</string>
+    <string name="lock_screen_notif_warning_title">Билдирмелер башка дарекке багытталбайт</string>
+    <string name="mouse_name">Түзмөктөр аралык чычкан</string>
+    <string name="new_connection_confirm">Ырастоо</string>
+    <string name="new_connection_deny">Четке кагуу</string>
+    <string name="new_connection_title">Сап дал келерин ырастаңыз</string>
+    <string name="notification_access_missing">Билдирмелерге уруксат берилиши керек</string>
+    <string name="notification_access_missing_description">"Билдирмелерди Chromebook'та ачуу үчүн \"Билдирмелерди\" иштетиңиз"</string>
+    <string name="notification_channel_name">Жалпы</string>
+    <string name="notification_listener_label">Колдонмолорду Chromebook менен бөлүшүү</string>
+    <string name="open_source_licenses">Ачык программа уруксаттамалары</string>
+    <string name="phone_permission_rationale">Колдонмону бөлүшүү үчүн телефонго чалуу уруксаты өчүрүлгөн</string>
+    <string name="prompt_switch_languages">Телефонуңуздагы Gboard тилине которулуу үчүн shift + боштукту басыңыз</string>
+    <string name="settings_button">Параметрлер</string>
+    <string name="stop_sharing_button">Токтотуу</string>
+    <string name="stream_termination_proximity_warning">Телефонуңуз өтө алыс жерде. Алып ойното берүү үчүн аны жакын жерге коюңуз.</string>
+    <string name="substitute_app_name">Система</string>
+    <string name="summary_disable_wirecutter">Өчүк</string>
+    <string name="summary_enable_wirecutter">Күйүк</string>
+    <string name="touchscreen_name">Түзмөктөр аралык сенсордук экран</string>
+</resources>

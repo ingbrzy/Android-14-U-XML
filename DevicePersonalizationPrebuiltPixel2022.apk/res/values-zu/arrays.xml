@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="call_captions_typing_predictions_post_system_message">
+        <item>Sawubona, ubani lona?</item>
+        <item>Sawubona, kunjani?</item>
+        <item>Ngicela ulinde umzuzu</item>
+        <item>Sawubona, ngingakufonela kamuva?</item>
+        <item>Sawubona! Siyabonga ngokufona.</item>
+    </string-array>
+    <string-array name="captions_settings_enable_for_calls_choices_entries">
+        <item>Buza njalo</item>
+        <item>Njalo</item>
+        <item>Valiwe</item>
+    </string-array>
+    <string-array name="captions_settings_typing_voice_names">
+        <item>Izwi A</item>
+        <item>Izwi B</item>
+        <item>Izwi C</item>
+        <item>Izwi D</item>
+        <item>Izwi E</item>
+        <item>Izwi F</item>
+        <item>Izwi G</item>
+        <item>Izwi H</item>
+        <item>Izwi I</item>
+        <item>Izwi J</item>
+        <item>Izwi K</item>
+        <item>Izwi L</item>
+        <item>Izwi M</item>
+        <item>Izwi N</item>
+        <item>Izwi O</item>
+        <item>Izwi P</item>
+    </string-array>
+    <string-array name="pref_download_policy_entries">
+        <item>Iselula + i-WiFi</item>
+        <item>I-Wi-Fi kuphela</item>
+        <item>Ungabuyekezi</item>
+    </string-array>
+    <string-array name="pref_download_policy_entry_values_placeholder">
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+</resources>

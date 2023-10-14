@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="azure_title">Номын ятга шаазгай</string>
+    <string name="blackswan_title">Хар хун</string>
+    <string name="cockatoo_title">Какаду</string>
+    <string name="come_alive_title">Амилуулах</string>
+    <string name="feathers_attribution">Эндрю Зукерманы зураг</string>
+    <string name="feathers_description">Өнгө болон деталийн өдөн үзүүлэн</string>
+    <string name="feathers_title">Өд</string>
+    <string name="greenwinged_title">Ногоон далавчит урт сүүлт тоть</string>
+    <string name="king_title">Хаан тас шувуу</string>
+    <string name="living_universe_title">Амьд ертөнц</string>
+    <string name="photos_memory_gallery_title">Таны дурсамж</string>
+    <string name="pied_title">Цоохор хэрээ</string>
+    <string name="ringnecked_title">Улаан хүзүүт урт сүүлт тоть</string>
+    <string name="seagull_title">Цахлай</string>
+</resources>

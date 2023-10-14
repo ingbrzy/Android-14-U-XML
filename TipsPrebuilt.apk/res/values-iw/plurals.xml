@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="setup_info_module_tip_count_text">
+        <item quantity="other">%1$d טיפים</item>
+        <item quantity="one">%1$d טיפים</item>
+        <item quantity="two">%1$d טיפים</item>
+    </plurals>
+    <plurals name="tip_count_text">
+        <item quantity="other">צפית ב-%1$d/%2$d טיפים</item>
+        <item quantity="one">צפית ב-%1$d/%2$d טיפים</item>
+        <item quantity="two">צפית ב-%1$d/%2$d טיפים</item>
+    </plurals>
+</resources>

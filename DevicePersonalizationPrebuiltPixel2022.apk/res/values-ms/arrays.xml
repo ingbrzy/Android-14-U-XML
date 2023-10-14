@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="call_captions_typing_predictions_post_system_message">
+        <item>Helo, siapa di sana?</item>
+        <item>Hai, apa khabar?</item>
+        <item>Sila tunggu sebentar</item>
+        <item>Hai, bolehkah anda telefon semula?</item>
+        <item>Hai! Terima kasih kerana hubungi kami.</item>
+    </string-array>
+    <string-array name="captions_settings_enable_for_calls_choices_entries">
+        <item>Tanya setiap kali</item>
+        <item>Sentiasa</item>
+        <item>Mati</item>
+    </string-array>
+    <string-array name="captions_settings_typing_voice_names">
+        <item>Suara A</item>
+        <item>Suara B</item>
+        <item>Suara C</item>
+        <item>Suara D</item>
+        <item>Suara E</item>
+        <item>Suara F</item>
+        <item>Suara G</item>
+        <item>Suara H</item>
+        <item>Suara I</item>
+        <item>Suara J</item>
+        <item>Suara K</item>
+        <item>Suara L</item>
+        <item>Suara M</item>
+        <item>Suara N</item>
+        <item>Suara O</item>
+        <item>Suara P</item>
+    </string-array>
+    <string-array name="pref_download_policy_entries">
+        <item>Mudah alih + Wi-Fi</item>
+        <item>Wi-Fi sahaja</item>
+        <item>Jangan kemas kini</item>
+    </string-array>
+    <string-array name="pref_download_policy_entry_values_placeholder">
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+</resources>

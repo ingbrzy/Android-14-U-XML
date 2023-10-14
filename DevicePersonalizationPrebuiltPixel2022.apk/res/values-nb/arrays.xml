@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="call_captions_typing_predictions_post_system_message">
+        <item>Hei, hvem er det?</item>
+        <item>Hei, hvordan går det?</item>
+        <item>Vent litt</item>
+        <item>Hei, kan jeg ringe tilbake senere?</item>
+        <item>Hei sann! Takk for at du ringte.</item>
+    </string-array>
+    <string-array name="captions_settings_enable_for_calls_choices_entries">
+        <item>Spør hver gang</item>
+        <item>Alltid</item>
+        <item>Av</item>
+    </string-array>
+    <string-array name="captions_settings_typing_voice_names">
+        <item>Stemme A</item>
+        <item>Stemme B</item>
+        <item>Stemme C</item>
+        <item>Stemme D</item>
+        <item>Stemme E</item>
+        <item>Stemme F</item>
+        <item>Stemme G</item>
+        <item>Stemme H</item>
+        <item>Stemme I</item>
+        <item>Stemme J</item>
+        <item>Stemme K</item>
+        <item>Stemme L</item>
+        <item>Stemme M</item>
+        <item>Stemme N</item>
+        <item>Stemme O</item>
+        <item>Stemme P</item>
+    </string-array>
+    <string-array name="pref_download_policy_entries">
+        <item>Mobil + wifi</item>
+        <item>Bare wifi</item>
+        <item>Ikke oppdater</item>
+    </string-array>
+    <string-array name="pref_download_policy_entry_values_placeholder">
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+</resources>

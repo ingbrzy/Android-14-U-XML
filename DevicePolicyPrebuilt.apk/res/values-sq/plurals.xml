@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_install_failed_multi_app_desc">
+        <item quantity="other">Konfigurimi nuk mund të përfundohet sepse dështoi instalimi i %1$d aplikacioneve të kërkuara. Kontakto direkt me administratorin e sistemit tënd.</item>
+        <item quantity="one">Konfigurimi nuk mund të përfundohet sepse dështoi instalimi i %1$d aplikacioni të kërkuar. Kontakto direkt me administratorin e sistemit tënd.</item>
+    </plurals>
+    <plurals name="app_install_failure_title">
+        <item quantity="other">Aplikacionet nuk mund të çinstalohen</item>
+        <item quantity="one">Aplikacioni nuk mund të instalohet</item>
+    </plurals>
+    <plurals name="app_install_progress_desc">
+        <item quantity="other">%1$d nga %2$d aplikacione të instaluara</item>
+        <item quantity="one">%1$d nga %2$d aplikacion i instaluar</item>
+    </plurals>
+    <plurals name="app_uninstall_button">
+        <item quantity="other">Çinstalo aplikacionet</item>
+        <item quantity="one">Çinstalo aplikacionin</item>
+    </plurals>
+    <plurals name="days_left_message">
+        <item quantity="other">&lt;annotation id="numeric_time_left">^1&lt;/annotation> ditë të mbetura</item>
+        <item quantity="one">&lt;annotation id="numeric_time_left">^1&lt;/annotation> ditë e mbetur</item>
+    </plurals>
+    <plurals name="hours_left_message">
+        <item quantity="other">&lt;annotation id="numeric_time_left">^1&lt;/annotation> orë të mbetura</item>
+        <item quantity="one">&lt;annotation id="numeric_time_left">^1&lt;/annotation> orë e mbetur</item>
+    </plurals>
+    <plurals name="number_of_additional_apps">
+        <item quantity="other">%1$d aplikacione shtesë</item>
+        <item quantity="one">%1$d aplikacion shtesë</item>
+    </plurals>
+    <plurals name="number_of_required_apps">
+        <item quantity="other">%1$d aplikacione të kërkuara</item>
+        <item quantity="one">%1$d aplikacion i kërkuar</item>
+    </plurals>
+    <plurals name="policy_apps_list_summary">
+        <item quantity="other">%d aplikacione të punës nuk mund të çinstalohen</item>
+        <item quantity="one">%d aplikacion i punës nuk mund të çinstalohet</item>
+    </plurals>
+    <plurals name="preinstalled_apps">
+        <item quantity="other">%1$d nga %2$d aplikacione të instaluara</item>
+        <item quantity="one">%1$d nga %2$d aplikacion i instaluar</item>
+    </plurals>
+    <plurals name="readable_name_applications">
+        <item quantity="other">%1$d aplikacione ofrohen (%2$d të instaluara, %3$d të çaktivizuara)</item>
+        <item quantity="one">%1$d aplikacion ofrohet (%2$d të instaluara, %3$d të çaktivizuara)</item>
+    </plurals>
+</resources>

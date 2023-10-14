@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dots">
+        <item quantity="other">ਬਿੰਦੂ %s</item>
+        <item quantity="one">ਬਿੰਦੂ %s</item>
+    </plurals>
+    <plurals name="gestures_recorded_message">
+        <item quantity="other">%d ਇਸ਼ਾਰੇ ਰਿਕਾਰਡ ਕੀਤੇ ਗਏ</item>
+        <item quantity="one">%d ਇਸ਼ਾਰਾ ਰਿਕਾਰਡ ਕੀਤਾ ਗਿਆ</item>
+    </plurals>
+    <plurals name="label_num_keys_assigned_format">
+        <item quantity="other">%d ਸਵਿੱਚ ਜ਼ਿੰਮੇ ਲਗਾਏ ਗਏ</item>
+        <item quantity="one">%d ਸਵਿੱਚ ਜ਼ਿੰਮੇ ਲਗਾਇਆ ਗਿਆ</item>
+    </plurals>
+    <plurals name="label_num_scanning_loops_format">
+        <item quantity="other">%d ਲੂਪ</item>
+        <item quantity="one">%d ਲੂਪ</item>
+    </plurals>
+    <plurals name="line_speed_summary_format">
+        <item quantity="other">%.2f ਸੈ.ਮੀ. ਪ੍ਰਤੀ ਸਕਿੰਟ</item>
+        <item quantity="one">%.2f ਸੈ.ਮੀ. ਪ੍ਰਤੀ ਸਕਿੰਟ</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d ਨਵੀਆਂ ਸੂਚਨਾਵਾਂ</item>
+        <item quantity="one">%d ਨਵੀਂ ਸੂਚਨਾ</item>
+    </plurals>
+    <plurals name="time_delay_summary_format">
+        <item quantity="other">%.2f ਸਕਿੰਟ</item>
+        <item quantity="one">%.2f ਸਕਿੰਟ</item>
+    </plurals>
+</resources>

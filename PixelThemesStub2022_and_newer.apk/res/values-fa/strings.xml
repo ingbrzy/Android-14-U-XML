@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bundle1_color_name">کربنی</string>
+    <string name="bundle2_color_name">کاغذ</string>
+    <string name="bundle3_color_name">خورشید</string>
+    <string name="color_name_monochromatic">تک‌رنگ</string>
+    <string name="default_color_name">قدیمی</string>
+    <string name="fruit1_color_name">پالت دو رنگ زرد و قرمز</string>
+    <string name="fruit2_color_name">پالت دو رنگ سبز و نارنجی</string>
+    <string name="fruit3_color_name">پالت دو رنگ آبی و سبز</string>
+    <string name="fruit4_color_name">پالت دو رنگ بنفش روشن و آبی</string>
+    <string name="fruit5_color_name">پالت دو رنگ صورتی و نیلی</string>
+    <string name="rainbow1_color_name">قرمز</string>
+    <string name="rainbow2_color_name">نارنجی</string>
+    <string name="rainbow3_color_name">زرد</string>
+    <string name="rainbow4_color_name">سبز</string>
+    <string name="rainbow5_color_name">آبی</string>
+    <string name="rainbow6_color_name">نیلی</string>
+    <string name="rainbow7_color_name">یاسی</string>
+</resources>

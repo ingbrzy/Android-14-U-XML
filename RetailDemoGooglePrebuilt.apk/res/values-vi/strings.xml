@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_retaildemoCommunication">Cho phép ứng dụng tương tác với Dịch vụ demo bán lẻ. Chỉ Bản demo bán lẻ mới được cấp quyền này. Các ứng dụng được cấp quyền này có thể kích hoạt các hành động dành riêng cho Chế độ bản demo bán lẻ.</string>
+    <string name="permlab_retaildemoCommunication">Giao tiếp với Retail Demo</string>
+    <string name="retaildemo_preload_app_name">Retail Demo Services</string>
+</resources>

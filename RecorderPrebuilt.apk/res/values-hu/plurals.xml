@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dlg_message_deletion_confirmation">
+        <item quantity="other">Felvételeit a rendszer véglegesen törli. A művelet nem vonható vissza.</item>
+        <item quantity="one">Felvételét a rendszer véglegesen törli. A művelet nem vonható vissza.</item>
+    </plurals>
+    <plurals name="dlg_message_deletion_permanent_confirmation">
+        <item quantity="other">A felvételekről nem készült biztonsági másolat. A felvételek véglegesen törlődnek. Ez a művelet nem vonható vissza.</item>
+        <item quantity="one">A felvételről nem készült biztonsági másolat. A felvétel véglegesen törlődik. Ez a művelet nem vonható vissza.</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_confirmation">
+        <item quantity="other">Biztosan törli a felvételeket?</item>
+        <item quantity="one">Biztosan törli a felvételt?</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_permanent_confirmation">
+        <item quantity="other">Véglegesen törli ezeket a felvételeket?</item>
+        <item quantity="one">Véglegesen törli ezt a felvételt?</item>
+    </plurals>
+    <plurals name="download_failure_description_storage_full">
+        <item quantity="other">Nem lehet felvételeket letölteni, mert az eszköz tárhelye megtelt. Koppintson ide az áttekintéshez.</item>
+        <item quantity="one">Az eszköz tárhelye megtelt. Koppintson ide az áttekintéshez.</item>
+    </plurals>
+    <plurals name="downloading_description">
+        <item quantity="other">%1$d felvétel letöltése folyamatban</item>
+        <item quantity="one">%1$d felvétel letöltése folyamatban</item>
+    </plurals>
+    <plurals name="og_backup_failed_title">
+        <item quantity="other">%1$d elemről nem sikerült biztonsági másolatot készíteni</item>
+        <item quantity="one">%1$d elemről nem sikerült biztonsági másolatot készíteni</item>
+    </plurals>
+    <plurals name="og_backup_items_left">
+        <item quantity="other">%1$d elem maradt</item>
+        <item quantity="one">%1$d elem maradt</item>
+    </plurals>
+    <plurals name="og_backup_items_stopped_title">
+        <item quantity="other">%1$d elemről nem készült biztonsági másolat</item>
+        <item quantity="one">%1$d elemről nem készült biztonsági másolat</item>
+    </plurals>
+    <plurals name="peoplekit_chips_copied_recipients">
+        <item quantity="other">%d címzett másolva</item>
+        <item quantity="one">%d címzett másolva</item>
+    </plurals>
+    <plurals name="search_results_count">
+        <item quantity="other">%1$d találat</item>
+        <item quantity="one">%1$d találat</item>
+    </plurals>
+    <plurals name="search_results_position">
+        <item quantity="other">^2/^1 találat</item>
+        <item quantity="one">^2/^1 találat</item>
+    </plurals>
+    <plurals name="search_results_position_content_description">
+        <item quantity="other">%2$d/%1$d találat</item>
+        <item quantity="one">%2$d/%1$d találat</item>
+    </plurals>
+    <plurals name="selected_recording_quantity">
+        <item quantity="other">%1$d kiválasztva</item>
+        <item quantity="one">%1$d kiválasztva</item>
+    </plurals>
+    <plurals name="snackbar_message_download_failed_storage_full">
+        <item quantity="other">Az eszköz tárhelye megtelt. Nem lehet letölteni a felvételeket.</item>
+        <item quantity="one">Az eszköz tárhelye megtelt. Nem lehet letölteni a felvételt.</item>
+    </plurals>
+    <plurals name="speaker_count">
+        <item quantity="other">%1$d hangszóró</item>
+        <item quantity="one">%1$d hangszóró</item>
+    </plurals>
+    <plurals name="uploading_description">
+        <item quantity="other">%1$d felvétel feltöltése…</item>
+        <item quantity="one">%1$d felvétel feltöltése…</item>
+    </plurals>
+</resources>

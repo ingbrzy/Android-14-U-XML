@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dlg_message_deletion_confirmation">
+        <item quantity="other">ការថតរបស់អ្នក​នឹងត្រូវលុប​ជាអចិន្ត្រៃយ៍។ សកម្មភាពនេះ​មិនអាច​ត្រឡប់វិញបានទេ។</item>
+        <item quantity="one">ការថតរបស់អ្នក​នឹងត្រូវលុប​ជាអចិន្ត្រៃយ៍។ សកម្មភាពនេះ​មិនអាច​ត្រឡប់វិញបានទេ។</item>
+    </plurals>
+    <plurals name="dlg_message_deletion_permanent_confirmation">
+        <item quantity="other">សំឡេងថតទាំងនេះមិនត្រូវបានបម្រុងទុកទេ។ វានឹងត្រូវបានលុបជាអចិន្ត្រៃយ៍។ អ្នកមិន​អាចត្រឡប់​សកម្មភាពនេះ​វិញបានទេ។</item>
+        <item quantity="one">សំឡេងថតនេះមិនត្រូវបានបម្រុងទុកទេ។ វានឹងត្រូវបានលុបជាអចិន្ត្រៃយ៍។ អ្នកមិន​អាចត្រឡប់​សកម្មភាពនេះ​វិញបានទេ។</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_confirmation">
+        <item quantity="other">លុបការថតឬ?</item>
+        <item quantity="one">លុបការថតឬ?</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_permanent_confirmation">
+        <item quantity="other">លុបសំឡេងថតទាំងនេះជាអចិន្ត្រៃយ៍ឬ?</item>
+        <item quantity="one">លុបសំឡេងថតនេះជាអចិន្ត្រៃយ៍ឬ?</item>
+    </plurals>
+    <plurals name="download_failure_description_storage_full">
+        <item quantity="other">មិនអាច​ទាញយក​សំឡេងថតបានទេ ដោយសារទំហំផ្ទុករបស់ឧបករណ៍ពេញហើយ។ សូមចុច ដើម្បី​ពិនិត្យមើល។</item>
+        <item quantity="one">ទំហំផ្ទុករបស់ឧបករណ៍​ពេញហើយ។ សូមចុច ដើម្បី​ពិនិត្យមើល។</item>
+    </plurals>
+    <plurals name="downloading_description">
+        <item quantity="other">កំពុងទាញយក​សំឡេងថត %1$d</item>
+        <item quantity="one">កំពុងទាញយក​សំឡេងថត %1$d</item>
+    </plurals>
+    <plurals name="og_backup_failed_title">
+        <item quantity="other">មិនអាច​បម្រុងទុកធាតុ %1$d បានទេ</item>
+        <item quantity="one">មិនអាច​បម្រុងទុកធាតុ %1$d បានទេ</item>
+    </plurals>
+    <plurals name="og_backup_items_left">
+        <item quantity="other">នៅសល់ធាតុ %1$d ទៀត</item>
+        <item quantity="one">នៅសល់ធាតុ %1$d ទៀត</item>
+    </plurals>
+    <plurals name="og_backup_items_stopped_title">
+        <item quantity="other">ធាតុ %1$d មិនត្រូវបាន​បម្រុងទុកទេ</item>
+        <item quantity="one">ធាតុ %1$d មិន​ត្រូវបាន​បម្រុង​ទុកទេ</item>
+    </plurals>
+    <plurals name="peoplekit_chips_copied_recipients">
+        <item quantity="other">បានចម្លង​អ្នកទទួល %d នាក់</item>
+        <item quantity="one">បានចម្លង​អ្នកទទួល %d នាក់</item>
+    </plurals>
+    <plurals name="search_results_count">
+        <item quantity="other">លទ្ធផល %1$d</item>
+        <item quantity="one">លទ្ធផល %1$d</item>
+    </plurals>
+    <plurals name="search_results_position">
+        <item quantity="other">លទ្ធផល ^1/^2</item>
+        <item quantity="one">លទ្ធផល ^1/^2</item>
+    </plurals>
+    <plurals name="search_results_position_content_description">
+        <item quantity="other">លទ្ធផល %1$d នៃ %2$d</item>
+        <item quantity="one">លទ្ធផល %1$d នៃ %2$d</item>
+    </plurals>
+    <plurals name="selected_recording_quantity">
+        <item quantity="other">បានជ្រើសរើស %1$d</item>
+        <item quantity="one">បានជ្រើសរើស %1$d</item>
+    </plurals>
+    <plurals name="snackbar_message_download_failed_storage_full">
+        <item quantity="other">ទំហំផ្ទុករបស់ឧបករណ៍​ពេញហើយ។ មិនអាច​ទាញយក​សំឡេងថតបានទេ។</item>
+        <item quantity="one">ទំហំផ្ទុករបស់ឧបករណ៍​ពេញហើយ។ មិនអាច​ទាញយក​សំឡេងថតបានទេ។</item>
+    </plurals>
+    <plurals name="speaker_count">
+        <item quantity="other">ឧបករណ៍បំពងសំឡេង %1$d</item>
+        <item quantity="one">ឧបករណ៍បំពងសំឡេង %1$d</item>
+    </plurals>
+    <plurals name="uploading_description">
+        <item quantity="other">កំពុងបង្ហោះសំឡេងថត %1$d</item>
+        <item quantity="one">កំពុងបង្ហោះសំឡេងថត %1$d</item>
+    </plurals>
+</resources>

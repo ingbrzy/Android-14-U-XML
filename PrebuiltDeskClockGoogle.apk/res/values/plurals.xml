@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="alarm_alert_snooze_duration">
+        <item quantity="other">%d min</item>
+        <item quantity="one">1 min</item>
+    </plurals>
+    <plurals name="alarm_alert_snooze_set">
+        <item quantity="other">Snoozing for %d minutes.</item>
+        <item quantity="one">Snoozing for 1 minute.</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%s days</item>
+        <item quantity="one">1 day</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">%s days ago</item>
+        <item quantity="one">1 day ago</item>
+    </plurals>
+    <plurals name="days_extra_short">
+        <item quantity="other">%sd</item>
+        <item quantity="one">1d</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s hours</item>
+        <item quantity="one">1 hour</item>
+    </plurals>
+    <plurals name="hours_extra_short">
+        <item quantity="other">%sh</item>
+        <item quantity="one">1h</item>
+    </plurals>
+    <plurals name="hours_short">
+        <item quantity="other">%s hr</item>
+        <item quantity="one">1 hr</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s minutes</item>
+        <item quantity="one">1 minute</item>
+    </plurals>
+    <plurals name="minutes_extra_short">
+        <item quantity="other">%sm</item>
+        <item quantity="one">1m</item>
+    </plurals>
+    <plurals name="minutes_short">
+        <item quantity="other">%s min</item>
+        <item quantity="one">1 min</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d new notifications</item>
+        <item quantity="one">%d new notification</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%s seconds</item>
+        <item quantity="one">1 second</item>
+    </plurals>
+    <plurals name="seconds_extra_short">
+        <item quantity="other">%ss</item>
+        <item quantity="one">1s</item>
+    </plurals>
+</resources>

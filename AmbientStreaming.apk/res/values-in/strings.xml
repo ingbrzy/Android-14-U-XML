@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Layanan Lintas Perangkat</string>
+    <string name="app_name_generic">aplikasi</string>
+    <string name="app_stream_error_generic">Terjadi error saat berbagi aplikasi</string>
+    <string name="app_stream_init_error_generic">Berbagi aplikasi ke Chromebook Anda gagal</string>
+    <string name="audio_permission_rationale">Izin mikrofon untuk berbagi aplikasi dinonaktifkan</string>
+    <string name="cancel_button_label">Batal</string>
+    <string name="chromebook_keyboard">Keyboard Chromebook</string>
+    <string name="chromebook_mouse">Mouse Chromebook</string>
+    <string name="chromebook_touchscreen">Layar sentuh Chromebook</string>
+    <string name="connect_device">Menghubungkan ponsel ke perangkat jarak jauh: %1$s</string>
+    <string name="decline_button_label">Tolak</string>
+    <string name="development_notification_channel_name">Pengembangan</string>
+    <string name="device_camera_cannot_access">Tidak dapat mengakses kamera perangkat dari Chromebook ini</string>
+    <string name="done_button_label">Selesai</string>
+    <string name="enable_button_label">Aktifkan</string>
+    <string name="foreground_service_notification_channel_name">Umum</string>
+    <string name="foreground_service_notification_content">Ketuk untuk mengubah setelan</string>
+    <string name="foreground_service_notification_title">{0,plural, =1{Terhubung ke # perangkat}other{Terhubung ke # perangkat}}</string>
+    <string name="interactive_streaming_generic_notification">Melakukan streaming %1$s dan menyinkronkan notifikasi untuk Chromebook Anda</string>
+    <string name="interactive_streaming_individual_notification">Menstreaming %1$s dan menyinkronkan notifikasi untuk %2$s</string>
+    <string name="interactive_streaming_notification">Melakukan streaming ke Chromebook</string>
+    <string name="keyboard_name">Keyboard lintas perangkat</string>
+    <string name="lock_screen_notif_warning_content">Aktifkan notifikasi di layar kunci</string>
+    <string name="lock_screen_notif_warning_title">Notifikasi tidak akan diteruskan</string>
+    <string name="mouse_name">Mouse lintas perangkat</string>
+    <string name="new_connection_confirm">Konfirmasi</string>
+    <string name="new_connection_deny">Tolak</string>
+    <string name="new_connection_title">Konfirmasi Kecocokan String</string>
+    <string name="notification_access_missing">Perlu akses notifikasi</string>
+    <string name="notification_access_missing_description">Untuk membuka notifikasi di Chromebook, aktifkan Akses notifikasi</string>
+    <string name="notification_channel_name">Umum</string>
+    <string name="notification_listener_label">Bagikan aplikasi ke Chromebook Anda</string>
+    <string name="open_source_licenses">Lisensi open source</string>
+    <string name="phone_permission_rationale">Izin panggilan telepon untuk berbagi aplikasi dinonaktifkan</string>
+    <string name="prompt_switch_languages">Tekan shift + spasi untuk mengganti bahasa Gboard ponsel</string>
+    <string name="settings_button">Setelan</string>
+    <string name="stop_sharing_button">Akhiri streaming</string>
+    <string name="stream_termination_proximity_warning">Ponsel terlalu jauh. Dekatkan untuk terus melakukan streaming.</string>
+    <string name="substitute_app_name">Sistem</string>
+    <string name="summary_disable_wirecutter">Nonaktif</string>
+    <string name="summary_enable_wirecutter">Aktif</string>
+    <string name="touchscreen_name">Layar sentuh lintas perangkat</string>
+</resources>

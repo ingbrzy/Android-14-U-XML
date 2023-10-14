@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="calendar_default_name">Әдепкі</string>
+    <string name="calendar_info">Күнтізбедегі ақпарат</string>
+    <string name="calendar_info_error">Қате</string>
+    <string name="calendar_info_events">Іс-шаралар: %1$d</string>
+    <string name="calendar_info_events_dirty">Іс-шаралар: %1$d, сақталмағаны: %2$d</string>
+    <string name="calendar_info_no_calendars">Күнтізбе жоқ</string>
+    <string name="calendar_storage">Күнтізбе жады</string>
+    <string name="debug_tool_delete_button">Қазір жою</string>
+    <string name="debug_tool_email_body">Бұл хатта барлық кездесуім мен жеке ақпаратым бар күнтізбе дерекқорым тіркелген. Aбайлап қолданыңыз.</string>
+    <string name="debug_tool_email_sender_picker">Файлды жіберу үшін бағдарлама таңдаңыз</string>
+    <string name="debug_tool_email_subject">Күнтізбе дерекқоры тіркелген</string>
+    <string name="debug_tool_message">Сіз келесі әрекеттерді істемекшісіз: 1) күнтізбе дерекқорын SD картасына/USB жадына көшіру (оны кез келген қолданба оқи алады); 2) кейін оны электрондық поштамен жіберу. Құрылғыдан көшіріп болғаннан кейін немесе электрондық хат алған бойда көшірмені жоюды ұмытпаңыз.</string>
+    <string name="debug_tool_start_button">Бастау</string>
+    <string name="provider_label">Күнтізбе</string>
+</resources>

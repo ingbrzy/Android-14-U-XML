@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">Движи се нагоре</string>
+    <string name="abc_action_mode_done">Готово</string>
+    <string name="abc_capital_off">ИСКЛУЧЕНО</string>
+    <string name="abc_capital_on">ВКЛУЧЕНО</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">избриши</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">вселена</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Пребарување…</string>
+    <string name="abc_searchview_description_clear">Исчисти барање</string>
+    <string name="abc_searchview_description_search">Пребарај</string>
+    <string name="abc_searchview_description_submit">Испрати барање</string>
+    <string name="abc_searchview_description_voice">Гласовно пребарување</string>
+    <string name="abc_toolbar_collapse_description">Собери</string>
+    <string name="activation_code_scan_button">Скенирајте QR-код</string>
+    <string name="activation_code_text">Внесете го кодот што го добивте од операторот</string>
+    <string name="activation_code_title">Додајте оператор</string>
+    <string name="add_profile_title">Додај оператор</string>
+    <string name="asked_for_eid">Активирате во продавница? Ако претставникот ви го побара EID-бројот, може да го %1$s.</string>
+    <string name="back_button_error_msg">За да се избегнат грешки, не може да излезете од екранов додека поставувањето е во тек</string>
+    <string name="body_check_qr_code_or_go_back">Проверете дали го скенирате точниот QR-код.</string>
+    <string name="body_device_is_locked">Вашиот уред е заклучен од %1$s.</string>
+    <string name="body_device_is_locked_no_name">Вашиот уред е заклучен</string>
+    <string name="body_issue_with_sim_profile">Нешто се случи со вашата SIM-картичка. За да се коригира проблемот, контактирајте со %1$s на %2$s.</string>
+    <string name="body_issue_with_sim_profile_maximum_attempts">Го достигнавте максималниот број на обиди. За помош со поврзување, контактирајте со %1$s на %2$s.</string>
+    <string name="body_issue_with_sim_profile_maximum_attempts_no_name">Го достигнавте максималниот број на обиди. За помош со поврзување, контактирајте со операторот.</string>
+    <string name="body_issue_with_sim_profile_maximum_attempts_no_tel">Го достигнавте максималниот број на обиди. За помош со поврзување, контактирајте со %1$s.</string>
+    <string name="body_issue_with_sim_profile_no_name">Нешто не е во ред со вашата SIM-картичка. За да го решите проблемот, контактирајте со операторот.</string>
+    <string name="body_issue_with_sim_profile_no_tel">Нешто се случи со вашата SIM-картичка. За да се коригира проблемот, контактирајте со %1$s.</string>
+    <string name="body_issue_with_sim_profile_used_on_another_device">Оваа SIM-картичка се користи на друг уред. За да се коригира проблемот, контактирајте со %1$s на %2$s.</string>
+    <string name="body_issue_with_sim_profile_used_on_another_device_no_name">Оваа SIM-картичка се користи на друг уред. За да го решите проблемот, контактирајте со операторот.</string>
+    <string name="body_issue_with_sim_profile_used_on_another_device_no_tel">Оваа SIM-картичка се користи на друг уред. За да се коригира проблемот, контактирајте со %1$s.</string>
+    <string name="body_make_sure_not_already_downloaded">"Проверете дали одбраниот SIM-профил е веќе преземен на овој уред или друг уред.
+
+За дополнителна помош, контактирајте со %1$s на %2$s"</string>
+    <string name="body_make_sure_not_already_downloaded_no_name">"Проверете дали одбраниот SIM-профил е веќе преземен на овој уред или друг уред.
+
+За дополнителна помош, контактирајте со операторот."</string>
+    <string name="body_make_sure_not_already_downloaded_no_tel">"Проверете дали одбраниот SIM-профил е веќе преземен на овој уред или друг уред.
+
+За дополнителна помош, контактирајте со %1$s"</string>
+    <string name="body_need_wifi_connection">Потребна ви е Wi-Fi врска за да преземете eSIM-картичка.</string>
+    <string name="body_need_wifi_or_mobile_connection">Потребна ви е Wi-Fi или мобилна врска за да преземете eSIM-картичка.</string>
+    <string name="body_not_enough_space_to_download">Нема доволно простор за да се преземе овој SIM-профил.</string>
+    <string name="body_sim_has_expired">"Вашата eSIM-картичка е истечена.
+За да добиете нова SIM-картичка, контактирајте со %1$s на %2$s"</string>
+    <string name="body_sim_has_expired_no_name">"Вашата eSIM-картичка е истечена.
+За да добиете нова SIM-картичка, контактирајте со операторот."</string>
+    <string name="body_sim_has_expired_no_tel">"Вашата eSIM-картичка е истечена.
+За да добиете нова SIM-картичка, контактирајте со %1$s"</string>
+    <string name="body_something_went_wrong">Нешто не е во ред при обидот да се активира бројот.</string>
+    <string name="bottomsheet_action_expand_halfway">Прошири до половина</string>
+    <string name="button_text_close">Затвори</string>
+    <string name="button_text_settings">Поставки</string>
+    <string name="cancel_button">Откажи</string>
+    <string name="cant_get_eid_please_contact_carrier">Нешто тргна наопаку и EID-бројот на вашиот уред не може да се најде во моментов. Контактирајте со операторот за помош.</string>
+    <string name="carrier_confirm_subtitle">Би требало да сте веќе регистрирани на мрежата</string>
+    <string name="carrier_confirm_title">Потврдете ја мрежата</string>
+    <string name="carrier_selection_msg">Изберете го операторот кај кого веќе имате корисничка сметка и сакате да го користите на телефонов</string>
+    <string name="carrier_selection_psim">Наместо тоа, користете SIM-картичка</string>
+    <string name="carrier_selection_title">Потврдете го вашиот оператор</string>
+    <string name="choose_carrier_title">Изберете оператори за користење</string>
+    <string name="choose_number_activating">Се активира…</string>
+    <string name="choose_number_could_not_activate">Не може да се активира во моментов.</string>
+    <string name="choose_number_error_no_space">За да користите други броеви или мрежи, прво треба да ослободите простор со бришење на еден или повеќе постојни броеви во „Поставки“</string>
+    <string name="choose_number_error_perm">За да користите други броеви или мрежи, контактирајте со мрежните оператори за помош</string>
+    <string name="choose_number_error_temp">За да користите други броеви или мрежи, активирајте ги подоцна во „Поставки“</string>
+    <string name="choose_number_item_summary_unknown">Непознат број</string>
+    <string name="choose_number_subtitle">{count,plural, =1{1 број е додаден на уредов, но може да се користи само еден, а не сите одеднаш}one{# број се додадени на уредов, но може да се користи само еден, а не сите одеднаш}other{# броја се додадени на уредов, но може да се користи само еден, а не сите одеднаш}}</string>
+    <string name="choose_number_title">Изберете го бројот што ќе го користите</string>
+    <string name="choose_second_number_subtitle">Може да користите втор број на уредов заедно со вашиот тековен број</string>
+    <string name="choose_second_number_subtitle_with_psim_carrier_name">Може да користите втор број на уредов заедно со вашиот број од %1$s</string>
+    <string name="choose_second_number_subtitle_with_psim_phone_number">Може да користите втор број на уредов заедно со %1$s</string>
+    <string name="choose_second_number_title">Изберете втор број</string>
+    <string name="common_google_play_services_enable_button">Овозможи</string>
+    <string name="common_google_play_services_enable_text">%1$s нема да се извршува ако не овозможите услуги на Google Play.</string>
+    <string name="common_google_play_services_enable_title">Овозможи ги услугите на Google Play</string>
+    <string name="common_google_play_services_install_button">Инсталирај</string>
+    <string name="common_google_play_services_install_text">%1$s нема да се извршува без услугите на Google Play што ги нема на уредот.</string>
+    <string name="common_google_play_services_install_title">Преземи ги услугите на Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Достапност на услугите на Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Грешка на услугите на Google Play</string>
+    <string name="common_google_play_services_unknown_issue">%1$s има проблеми со услугите на Google Play. Обидете се повторно.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s нема да се извршува без услугите на Google Play, што не се подржани од уредов.</string>
+    <string name="common_google_play_services_update_button">Ажурирај</string>
+    <string name="common_google_play_services_update_text">%1$s нема да се извршува ако не ги ажурирате услугите на Google Play.</string>
+    <string name="common_google_play_services_update_title">Ажурирај ги услугите на Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s нема да се извршува без услугите на Google Play што се ажурираат во моментов.</string>
+    <string name="common_google_play_services_wear_update_text">Потребна е нова верзија на услугите на Google Play. Таа наскоро самата ќе се ажурира.</string>
+    <string name="common_open_on_phone">Отвори на телефонот</string>
+    <string name="complete_service_setup_text">Активиравте услуга на %1$s</string>
+    <string name="complete_service_setup_title">Поставувањето на %1$s заврши</string>
+    <string name="complete_update_esim_notification_body_text">Допрете за да го завршите ажурирањето на софтверот</string>
+    <string name="complete_update_esim_notification_title">Завршете го поврзувањето на вашата мобилна мрежа</string>
+    <string name="confirm_acti_no_space_sub1">За да користите други броеви, прво треба да ослободите простор со бришење постојни броеви од уредов. Ова може да го направите подоцна во „Поставки“.</string>
+    <string name="confirm_acti_no_space_sub1_multi">За да користите други броеви или мрежи, прво треба да ослободите простор со бришење постојни броеви од уредов. Ова може да го направите подоцна во „Поставки“.</string>
+    <string name="confirm_acti_perm_error_sub1">За да користите други броеви, контактирајте со %1$s за помош на %2$s. Можеби ќе ви треба EID-бројот за уредов:</string>
+    <string name="confirm_acti_perm_error_sub1_multi">За да користите други броеви или мрежи, контактирајте со %1$s за помош на %2$s. Можеби ќе ви треба EID-бројот за уредов:</string>
+    <string name="confirm_acti_perm_error_sub1_multi_no_carrier_name">За да користите други броеви или мрежи, контактирајте со мобилниот оператор за помош. Можеби ќе ви треба EID-бројот за уредов:</string>
+    <string name="confirm_acti_perm_error_sub1_multi_no_phone">За да користите други броеви или мрежи, контактирајте со %1$s за помош. Можеби ќе ви треба EID-бројот за уредов:</string>
+    <string name="confirm_acti_perm_error_sub1_no_carrier_name">За да користите други броеви, контактирајте со мобилниот оператор за помош. Можеби ќе ви треба EID-бројот за уредов:</string>
+    <string name="confirm_acti_perm_error_sub1_no_eid">За да користите други броеви, контактирајте со %1$s за помош на %2$s</string>
+    <string name="confirm_acti_perm_error_sub1_no_eid_multi">За да користите други броеви или мрежи, контактирајте со %1$s за помош на %2$s</string>
+    <string name="confirm_acti_perm_error_sub1_no_eid_multi_no_phone">За да користите други броеви или мрежи, контактирајте со %1$s за помош</string>
+    <string name="confirm_acti_perm_error_sub1_no_eid_no_carrier_name">За да користите други броеви, контактирајте со мобилниот оператор за помош</string>
+    <string name="confirm_acti_perm_error_sub1_no_eid_no_phone">За да користите други броеви, контактирајте со %1$s за помош</string>
+    <string name="confirm_acti_perm_error_sub1_no_phone">За да користите други броеви, контактирајте со %1$s за помош. Можеби ќе ви треба EID-бројот за уредов:</string>
+    <string name="confirm_acti_success_sub_title">%1$s треба да е подготвен за употреба</string>
+    <string name="confirm_acti_success_sub_title_no_phone">Вашиот број треба да е подготвен за користење</string>
+    <string name="confirm_acti_success_sub_title_w_app">За да го завршите активирањето на %1$s, ќе треба да ја преземете апликацијата на %2$s. Засега, да го завршиме поставувањето на телефонот.</string>
+    <string name="confirm_acti_success_sub_title_w_app_no_name">За да го завршите активирањето на %1$s, ќе треба да ја преземете апликацијата на мрежниот оператор. Засега, да го завршиме поставувањето на телефонот.</string>
+    <string name="confirm_acti_success_sub_title_w_app_no_name_setting">За да го завршите активирањето на %1$s, ќе треба да ја преземете апликацијата на мрежниот оператор</string>
+    <string name="confirm_acti_success_sub_title_w_app_no_phone">За да го завршите активирањето на бројот, ќе треба да ја преземете апликацијата на %1$s. Засега, да го завршиме поставувањето на телефонот.</string>
+    <string name="confirm_acti_success_sub_title_w_app_no_phone_no_name">За да го завршите активирањето на бројот, ќе треба да ја преземете апликацијата на мрежниот оператор. Засега, да го завршиме поставувањето на телефонот.</string>
+    <string name="confirm_acti_success_sub_title_w_app_no_phone_no_name_setting">За да го завршите активирањето на бројот, ќе треба да ја преземете апликацијата на мрежниот оператор</string>
+    <string name="confirm_acti_success_sub_title_w_app_no_phone_setting">За да го завршите активирањето на бројот, ќе треба да ја преземете апликацијата на %1$s</string>
+    <string name="confirm_acti_success_sub_title_w_app_setting">За да го завршите активирањето на %1$s, ќе треба да ја преземете апликацијата на %2$s</string>
+    <string name="confirm_acti_success_title">Успешно поврзување со %1$s</string>
+    <string name="confirm_acti_success_title_no_carrier_name">Вашата мрежа е активна</string>
+    <string name="confirm_acti_success_title_with_app">Поврзете се на %1$s подоцна</string>
+    <string name="confirm_acti_success_title_with_app_no_name">Поврзете се на мрежата подоцна</string>
+    <string name="confirm_acti_temp_error_sub1">За да користите други броеви, активирајте ги подоцна во „Поставки“</string>
+    <string name="confirm_acti_temp_error_sub1_multi">За да користите други броеви или мрежи, активирајте ги подоцна во „Поставки“</string>
+    <string name="confirm_code_try_again">Погрешен код. Обидете се повторно.</string>
+    <string name="confirm_transfer_single_carrier_dsds_msg">Откако ќе се префрли, %1$s веќе нема да функционира на стариот уред. Може да префрлите втор број по поставувањето со вметнување SIM-картичка.</string>
+    <string name="confirm_transfer_single_carrier_msg">Откако ќе се пренесе, %1$s веќе нема да функционира на стариот уред</string>
+    <string name="confirm_transfer_single_carrier_title">Да се пренесе број од %1$s?</string>
+    <string name="confirmation_code_body_text">Би требало да имате код за потврда од вашиот давател на услуга. Внесете го за да се поврзете на мрежата.</string>
+    <string name="confirmation_code_body_text_with_carrier">Би требало да имате код за потврда од %1$s. Внесете го за да се поврзете на мрежата.</string>
+    <string name="confirmation_code_title">Внесете го кодот за потврда</string>
+    <string name="confirmation_code_what">Што е ова?</string>
+    <string name="contact_carrier_description">За да ја поставите вашата SIM-картичка, ќе треба да контактирате со %1$s на %2$s</string>
+    <string name="contact_carrier_description_eid">EID-бројот.</string>
+    <string name="contact_carrier_description_eid_additional">"
+
+Од уредов можеби ќе ви треба"</string>
+    <string name="contact_carrier_title">Контактирајте со %1$s</string>
+    <string name="continue_button">Продолжи</string>
+    <string name="copy">Копирај</string>
+    <string name="customer_service_activate_service">Претставникот на службата за корисници може да го употреби овој EID-број за да ви помогне да ја активирате услугата:</string>
+    <string name="data_plan_select_subtitle">Откако ќе се пренесе бројот, тој веќе нема да функционира на стариот уред</string>
+    <string name="data_plan_select_title">Изберете број за пренос</string>
+    <string name="def_notif_activating_title">Вашиот број од %1$s се активира…</string>
+    <string name="def_notif_activation_fail_subtitle">Допрете за да видите детали</string>
+    <string name="def_notif_activation_fail_title">Вашиот број од %1$s не може да се активира</string>
+    <string name="def_notif_activation_success_dsds_subtitle">Изберете ги поставките за повици, SMS-пораки и мобилен интернет</string>
+    <string name="def_notif_activation_success_dsds_title">Вашите броеви треба да се подготвени за употреба</string>
+    <string name="def_notif_activation_success_title">Вашиот број од %1$s е активиран</string>
+    <string name="default_display_name">SIM</string>
+    <string name="default_profile_nickname_format">%1$s %2$d</string>
+    <string name="deferred_setup_notification_description">Ready to connect to mobile network</string>
+    <string name="deferred_setup_notification_title">Set you your %1$s SIM</string>
+    <string name="detail_contact_carrier_for_more_help">За дополнителна помош, контактирајте со операторот.</string>
+    <string name="detail_contact_carrier_to_unlock">Јавете се на %1$s на %2$s за да дознаете дали вашиот уред може да биде отклучен.</string>
+    <string name="detail_contact_carrier_to_unlock_no_name">Јавете се на вашиот оператор за да дознаете дали вашиот уред може да биде отклучен.</string>
+    <string name="detail_contact_carrier_to_unlock_no_tel">Јавете се на %1$s за да дознаете дали вашиот уред може да биде отклучен.</string>
+    <string name="detail_delete_a_profile_before_retrying">За да ослободите простор, одете до „Поставки“ и избришете ја SIM-картичката. Потоа обидете се повторно.</string>
+    <string name="detail_may_need_eid_number">EID: %1$s</string>
+    <string name="detail_provide_info_to_carrier">"Наведете му ги следниве податоци на операторот:
+%1$s
+%2$s"</string>
+    <string name="detail_try_adding_again">Откако ќе се конектирате, повторно пробајте да додадете мобилна мрежа.</string>
+    <string name="disable_carrier_dialog_text">"Отсега уредов нема да биде поврзан со мрежата.
+
+Ова нема да ги откаже пакетите за мобилни услуги."</string>
+    <string name="disable_carrier_dialog_text_with_carrier">"Отсега уредов нема да биде поврзан со %1$s.
+
+Ова нема да ги откаже пакетите за мобилни услуги."</string>
+    <string name="disable_carrier_dialog_title">Да се оневозможи операторот?</string>
+    <string name="disable_fail_text">Нешто тргна наопаку и не може да се оневозможи операторот.</string>
+    <string name="disable_fail_title">Не може да се оневозможи операторот</string>
+    <string name="disable_profile_title">Оневозможи</string>
+    <string name="disabled_profiles_title">Достапни оператори</string>
+    <string name="disabling_carrier">Се оневозможува операторот…</string>
+    <string name="done_button">Готово</string>
+    <string name="download_complete_text">Отворете „Поставки“ за да ја вклучите SIM-картичкава</string>
+    <string name="download_complete_text_with_carrier">Отворете „Поставки“ за да вклучите %1$s</string>
+    <string name="download_complete_title">eSIM-картичката е преземена</string>
+    <string name="download_esim_button">Download eSIM</string>
+    <string name="download_fail_dialog_text">Не може да се преземе eSIM-картичката поради грешка. Обидете се повторно и ако сѐ уште се соочувате со проблемот, контактирајте со %1$s.</string>
+    <string name="download_fail_dialog_text_no_carrier_name">Не може да се преземе eSIM-картичка поради грешка. Обидете се повторно и ако сѐ уште се соочувате со проблемот, контактирајте со операторот.</string>
+    <string name="download_fail_dialog_title">Не може да се преземе eSIM-картичка</string>
+    <string name="download_sub_multi_carriers_text">{count,plural, =1{Земаме &lt;b>%2$d броја&lt;/b> од %1$s и 1 друг оператор. Ова може да потрае.}one{Земаме &lt;b>%2$d број&lt;/b> од %1$s и %3$d друг оператор. Ова може да потрае.}other{Земаме &lt;b>%2$d броја&lt;/b> од %1$s и %3$d други оператори. Ова може да потрае.}}</string>
+    <string name="download_sub_text">{count,plural, =1{Го земаме вашиот број од %1$s. Ова може да потрае.}one{Земаме &lt;b>%2$d број&lt;/b> од %1$s. Ова може да потрае.}other{Земаме &lt;b>%2$d броја&lt;/b> од %1$s. Ова може да потрае.}}</string>
+    <string name="download_sub_title">{count,plural, =1{Го додаваме вашиот број…}one{Ги додаваме вашите броеви…}other{Ги додаваме вашите броеви…}}</string>
+    <string name="download_sub_transform_title">Се проверува услугата…</string>
+    <string name="download_switch_confirm_mep_dialog_message">Уредов може да има 2 активни SIM-картички истовремено. За да преземете и користите друга SIM-картичка, исклучете ја активната.</string>
+    <string name="download_switch_confirm_mep_dialog_title">Исклучете ја SIM-картичката за да продолжите</string>
+    <string name="download_web_sub_text">Ова трае минута или две, понекогаш и подолго</string>
+    <string name="download_web_sub_title">Се поставува услугата…</string>
+    <string name="downloading_no_carrier_name_title">Се презема eSIM-картичка…</string>
+    <string name="downloading_with_carrier_name_title">Се презема eSIM-картичка од %1$s…</string>
+    <string name="dsds_activation_failure_body_msg1">Извадете ја и повторно ставете ја SIM-картичката. Ако и понатаму постои проблем, рестартирајте го уредот.</string>
+    <string name="dsds_activation_failure_body_msg2">Обидете се повторно да ја вклучите SIM-картичката. Ако и понатаму постои проблем, рестартирајте го уредот.</string>
+    <string name="dsds_activation_failure_title">Не може да се активира SIM-картичката</string>
+    <string name="dsds_activation_text">Активирање на SIM-картичката…</string>
+    <string name="dsds_activation_text_in_esim_activation">Се ажурира…</string>
+    <string name="dsds_choose_number_text">На уредов се достапни %1$d броја, но во даден момент може да се користи само по еден од нив</string>
+    <string name="dsds_choose_number_title">Изберете го бројот што ќе го користите</string>
+    <string name="dsds_choose_second_number_text">На уредов може да користите два броја во исто време. %1$s е веќе активен.</string>
+    <string name="dsds_choose_second_number_title">Изберете втор број</string>
+    <string name="dsds_learn_more_button">Дознајте повеќе</string>
+    <string name="dsds_notification_after_reboot_text">Допрете за да ги ажурирате поставките на SIM</string>
+    <string name="dsds_notification_after_reboot_text_carrier">Допрете за да ги ажурирате поставките на %1$s</string>
+    <string name="dsds_notification_after_reboot_title_carrier">%1$s е активен</string>
+    <string name="dsds_notification_after_reboot_title_phone">%1$s е активен</string>
+    <string name="dsds_notification_after_suw_text">Изберете активна SIM-картичка или користете 2 SIM-картички во исто време</string>
+    <string name="dsds_notification_after_suw_title">Поставете ја другата SIM-картичка</string>
+    <string name="dsds_switch_dialog_no_switch_text">За да може подоцна да користите мобилен интернет и функции за повици и SMS, одете во мрежните поставки</string>
+    <string name="dsds_switch_dialog_no_switch_title">Нема активни SIM-картички на располагање</string>
+    <string name="dsds_switch_dialog_progress_text">Се префрла на %1$s…</string>
+    <string name="dsds_switch_dialog_text">%1$s ќе се користи за мобилен интернет, повици и SMS.</string>
+    <string name="dsds_switch_dialog_title">Да се користи %1$s?</string>
+    <string name="eid_not_found">EID-бројот на уредот не е најден</string>
+    <string name="eid_number">Прикажи детали</string>
+    <string name="eid_qr_code_dialog_error_msg">Не е достапен QR-код за EID.</string>
+    <string name="eid_qr_code_dialog_title">EID-број на вашиот уред</string>
+    <string name="enable_carrier_dialog_text">"Уредов ќе се поврзе со %1$s наместо со %2$s.
+
+Ова нема да ги откаже пакетите за мобилни услуги."</string>
+    <string name="enable_carrier_dialog_text_from_removable">"Уредов ќе се поврзе со %1$s наместо со тековната SIM-картичка.
+
+Ова нема да ги откаже пакетите за мобилни услуги."</string>
+    <string name="enable_carrier_dialog_text_to_removable">"Уредов ќе се поврзе со вметнатата SIM-картичка наместо со %1$s.
+
+Ова нема да ги откаже пакетите за мобилни услуги."</string>
+    <string name="enable_carrier_dialog_title">Да се префрли операторот?</string>
+    <string name="enable_fail_text">Операторот не може да се префрли поради грешка.</string>
+    <string name="enable_fail_title">Не може да се префрли операторот</string>
+    <string name="enable_profile_title">Овозможи</string>
+    <string name="enabling_carrier">Се поврзува на мрежата…</string>
+    <string name="enter_manually_button">Внесете го рачно</string>
+    <string name="enter_qr_code_button_title">Внесете го кодот рачно</string>
+    <string name="erase_sim_confirm_button">Избриши</string>
+    <string name="erase_sim_dialog_text">"Ако ја избришете SIM-картичкава, услугата на %1$s ќе се отстрани од уредов.
+
+Услугата на %1$s нема да се откаже."</string>
+    <string name="erase_sim_dialog_title">Да се избрише eSIM-картичкава?</string>
+    <string name="erase_sim_fail_text">"Оваа SIM-картичка не може да се избрише поради грешка.
+
+Рестартирајте го уредот и обидете се повторно."</string>
+    <string name="erase_sim_fail_title">Не може да се избрише SIM-картичката</string>
+    <string name="erasing_carriers">Се ресетираат операторите…</string>
+    <string name="erasing_sim">Се брише SIM-картичката…</string>
+    <string name="error_code_text">Код за грешка</string>
+    <string name="error_screen_title_multiple_carrier">Мрежите не се активирани</string>
+    <string name="error_screen_title_single_carrier">%1$s не е активирана</string>
+    <string name="error_screen_title_single_carrier_no_name">Мрежата не е активирана</string>
+    <string name="esim_setup_channel_id">Активирање на мрежата</string>
+    <string name="esim_warning_title">Преземете ја вашата eSIM-картичка</string>
+    <string name="esim_warning_txt_default">Ова ги заменува стандардните SIM-картички, а е подеднакво безбедно</string>
+    <string name="esim_warning_txt_default_tmo_esim_primary">Поврзете се на мобилната мрежа со преземање на податоците што обично се наоѓаат на SIM-картичката. Ова ги заменува стандардните SIM-картички, а е подеднакво безбедно.</string>
+    <string name="euicc_settings_title">Поставки за хардверот</string>
+    <string name="euicc_title">Управување со SIM</string>
+    <string name="expand_button_title">Напредни</string>
+    <string name="find_it_here">најдете тука</string>
+    <string name="get_default_sub_title">Се проверуваат податоците за мрежата…</string>
+    <string name="get_help_ask_for_eid_v2">Вашиот оператор може да го побара %1$s, којшто го идентификува телефонов.</string>
+    <string name="get_help_skip_mobile_setup">Прескокни го поставувањето на мобилниот телефон</string>
+    <string name="get_help_text">Не го гледате вашиот број? Контактирајте со %1$s за помош на %2$s</string>
+    <string name="get_help_text_multiple_carriers_no_phone">Ако еден од вашите оператори има повеќе броеви отколку што очекувавте, контактирајте со него за помош</string>
+    <string name="get_help_text_no_phone">Не го гледате вашиот број? Контактирајте со %1$s за помош.</string>
+    <string name="get_help_text_single_carrier">Ако не очекувавте %3$d броја, контактирајте со %1$s за помош на %2$s</string>
+    <string name="get_help_text_single_carrier_no_phone">Ако не очекувавте %2$d броја, контактирајте со %1$s за помош</string>
+    <string name="get_help_text_single_carrier_no_phone_with_eid">Ако не очекувавте %2$d броја, контактирајте со %1$s за помош. Можеби ќе ви треба EID-бројот за уредов:</string>
+    <string name="get_help_title">Добијте помош при поставувањето</string>
+    <string name="get_metadata_fail_title">Не може да се вчитаат информациите за мобилната мрежа</string>
+    <string name="help_add_network_info1_msg1_v2">Имате проблем со скенирањето на QR-кодот? %1$s</string>
+    <string name="help_add_network_info2_msg1">Може да се поврзете со мрежата и преку %1$s</string>
+    <string name="help_add_network_info3">Сѐ уште има проблем? Контактирајте со мобилниот оператор за помош на %1$s</string>
+    <string name="help_add_network_info3_no_phone">Сѐ уште има проблем? За помош, контактирајте со операторот</string>
+    <string name="help_add_network_subtitle">Побарајте го QR-кодот на ливче приложено со уредот или во е-порака од вашиот оператор.</string>
+    <string name="help_add_network_title">Помош при додавањето мрежа</string>
+    <string name="insert_psim_button">вметнување стандардна SIM-картичка</string>
+    <string name="insert_text">Ако имате SIM-картичка, вметнете ја сега</string>
+    <string name="insert_title">Поврзете се на мобилна мрежа</string>
+    <string name="install_system_update_dialog_body_text">За да преземете SIM-картичка, потребно ви е најновото ажурирање на системот за овој телефон. Ова ќе потрае само неколку минути.</string>
+    <string name="install_system_update_dialog_title">Дали да се инсталира ажурирањето на системот?</string>
+    <string name="install_update_button">Инсталирај го ажурирањето</string>
+    <string name="insufficient_space_description_q">{count,plural, =1{За да го користите вашиот број, прво треба да ослободите простор со бришење постојни броеви од уредов. Ова може да го направите подоцна во „Поставки“.}one{За да ги користите вашите броеви, прво треба да ослободите простор со бришење постојни броеви од уредов. Ова може да го направите подоцна во „Поставки“.}other{За да ги користите вашите броеви, прво треба да ослободите простор со бришење постојни броеви од уредов. Ова може да го направите подоцна во „Поставки“.}}</string>
+    <string name="legal_notices">%1$s, %2$s и %3$s</string>
+    <string name="low_battery_alert_body_text">За да избегнете прекинување на ажурирањето, поврзете го телефонот на струја.</string>
+    <string name="low_battery_alert_title">Батеријата на телефонот е слаба</string>
+    <string name="manually_add_msg1_v2">Ако имате QR-код, %1$s. Ако продавач го побара вашиот EID-број, може да го %2$s.</string>
+    <string name="mobile_network_connection_alert_description">Ако го прескокнете овој чекор, нема да бидете поврзани на мобилна мрежа. Може да се поврзете подоцна со додавање SIM-картичка во „Поставки“.</string>
+    <string name="mobile_network_connection_alert_title">Дали се прескокне поставувањето на мобилната мрежа?</string>
+    <string name="msg_choose_download_type">Изберете начин за безбедно активирање на вашиот број на уредов</string>
+    <string name="msg_install_app_notification">Допрете за да продолжите</string>
+    <string name="msg_portal_intro">Ќе треба да се најавите со корисничкото име и лозинката за %1$s</string>
+    <string name="msg_sign_in_button">Најавете се на %1$s</string>
+    <string name="msg_transfer_type_portal">Ќе треба да ги употребите корисничкото име и лозинката</string>
+    <string name="msg_transfer_type_qr">Операторот %1$s можеби веќе ви испратил код</string>
+    <string name="mtrl_checkbox_state_description_checked">Checked</string>
+    <string name="mtrl_checkbox_state_description_indeterminate">Partially checked</string>
+    <string name="mtrl_checkbox_state_description_unchecked">Not checked</string>
+    <string name="multiple_carrier_download_number_count">{count,plural, =1{1 број}one{# број}other{# броја}}</string>
+    <string name="next_button">Следно</string>
+    <string name="no_licenses_found_error">Не може да се најдат лиценци поради грешка.</string>
+    <string name="no_qr_code_info_insert_btn">Може да вметнете SIM-картичка</string>
+    <string name="no_qr_code_info_text">Побарајте го QR-кодот на ливче приложено со уредот или во е-порака од вашиот оператор. Додајте оператор подоцна ако немате QR-код.</string>
+    <string name="no_qr_code_scan_button">Скенирај QR-код</string>
+    <string name="no_qr_code_title">Опции за поставување</string>
+    <string name="no_thanks_button">Не, фала</string>
+    <string name="no_wifi_dialog_message">Ќе треба да ја преземете вашата SIM</string>
+    <string name="no_wifi_dialog_title">Поврзете се на Wi-Fi</string>
+    <string name="not_set">Не е поставено</string>
+    <string name="notification_carrier_unknown">{count,plural, =1{1 ваш дополнителен број е спремен за додавање}one{# ваш дополнителен број е спремен за додавање}other{# ваши дополнителни броја се спремни за додавање}}</string>
+    <string name="notification_channel_ota_update">Надградби од операторот</string>
+    <string name="notification_multiple_carrier_name_known">{count,plural, =1{Вашиот број од %1$s и уште %2$d друг се спремни за додавање}one{Вашите броеви од %1$s и уште %2$d друг се спремни за додавање}other{Вашите броеви од %1$s и уште %2$d други се спремни за додавање}}</string>
+    <string name="notification_single_carrier_name_known">{count,plural, =1{Вашиот број од %1$s е спремен за додавање}one{Вашите броеви од %1$s се спремни за додавање}other{Вашите броеви од %1$s се спремни за додавање}}</string>
+    <string name="notification_tap_setup">Допрете за поставување</string>
+    <string name="open_source_licenses">Лиценци за софтвер со отворен код</string>
+    <string name="operation_code_text">Оперативен код</string>
+    <string name="os_version">Верзија на OS</string>
+    <string name="ota_error_notification_msg">Мобилната услуга ќе продолжи по рестартирањето.</string>
+    <string name="ota_error_notification_title">Ажурирањето на операторот не успеа</string>
+    <string name="ota_notification_msg">Мобилната услуга ќе продолжи по ажурирањето</string>
+    <string name="ota_notification_title">Се завршува ажурирањето на операторот…</string>
+    <string name="perm_error_description_q">{count,plural, =1{Нешто тргна наопаку при обидот да се активира бројот. Контактирајте со %1$s за помош на %2$s.}one{Нешто тргна наопаку при обидот да се активираат броевите. Контактирајте со %1$s за помош на %2$s.}other{Нешто тргна наопаку при обидот да се активираат броевите. Контактирајте со %1$s за помош на %2$s.}}</string>
+    <string name="perm_error_description_q_multi_carrier">Нешто тргна наопаку при обидот да се активираат броевите. Контактирајте со мрежните оператори за помош.</string>
+    <string name="perm_error_description_q_no_phone">{count,plural, =1{Нешто тргна наопаку при обидот да се активира бројот. Контактирајте со %1$s за помош.}one{Нешто тргна наопаку при обидот да се активираат броевите. Контактирајте со %1$s за помош.}other{Нешто тргна наопаку при обидот да се активираат броевите. Контактирајте со %1$s за помош.}}</string>
+    <string name="perm_error_description_q_no_phone_no_carrier_name">{count,plural, =1{Нешто тргна наопаку при обидот да се активира бројот. Контактирајте со мобилниот оператор за помош.}one{Нешто тргна наопаку при обидот да се активираат броевите. Контактирајте со мобилните оператори за помош.}other{Нешто тргна наопаку при обидот да се активираат броевите. Контактирајте со мобилните оператори за помош.}}</string>
+    <string name="perm_error_q_sub2_eid">Можеби ќе ви треба %1$s за уредов</string>
+    <string name="pixel_support_page_button">Страница за поддршка на Pixel</string>
+    <string name="pre_activation_ota_update_complete_subtitle">Софтверот е успешно ажуриран. Сега може да продолжите со преземањето на вашата SIM-картичка.</string>
+    <string name="pre_activation_ota_update_complete_title">Ажурирањето заврши</string>
+    <string name="pre_activation_ota_update_error_msg1">Телефонов не може да преземе SIM-картичка.</string>
+    <string name="pre_activation_ota_update_error_msg2_v2">"Наместо тоа, може да користите SIM-картичка или да добиете помош на
+%1$s."</string>
+    <string name="pre_activation_ota_update_error_title">Ажурирањето не е завршено</string>
+    <string name="pre_activation_ota_update_subtitle">%1$d %% завршено. Останете на екранов додека ажурирањето е во тек.</string>
+    <string name="pre_activation_ota_update_title">Се ажурира…</string>
+    <string name="pre_activation_ota_user_consent_msg1">За да преземете SIM-картичка, потребна ви е најновата верзија на „Управување со SIM“. Ова ќе потрае 4 - 5 минути.</string>
+    <string name="pre_activation_ota_user_consent_msg2">За да избегнете прекинување на ажурирањето, не напуштајте го екранов. Додека ажурирањето е во тек, може да се упатуваат само итни повици.</string>
+    <string name="pre_activation_ota_user_consent_title">Дали да се ажурира софтверот на SIM-картичката?</string>
+    <string name="preference_copied">„%1$s“ копирано во привремена меморија.</string>
+    <string name="privacy_policy">Политика за приватност</string>
+    <string name="privacy_warning_message">Ако продолжите, дозволувате %1$s да ги провери податоците што го идентификуваат уредов на мрежата.</string>
+    <string name="privileged_action_disable_sub_dialog_progress">Се исклучува SIM-картичката…</string>
+    <string name="privileged_action_disable_sub_dialog_text">Ако го исклучите %1$s, тогаш %2$s ќе стане ваш активен оператор.</string>
+    <string name="privileged_action_disable_sub_dialog_title">Да се исклучи %1$s?</string>
+    <string name="privileged_action_enable_sub_dialog_title">Да се вклучи %1$s?</string>
+    <string name="privileged_action_switch_psim_dialog_title">Дали да се префрли на користење SIM-картичка?</string>
+    <string name="privileged_action_switch_sub_dialog_confirm">Префрли на %1$s</string>
+    <string name="privileged_action_switch_sub_dialog_progress">Се префрла на %1$s</string>
+    <string name="privileged_action_switch_sub_dialog_text">"Само една SIM-картичка може да биде активна во дадено време.
+
+Ако се префрлите на %1$s, тоа нема да ја откаже вашата услуга на %2$s."</string>
+    <string name="privileged_action_switch_sub_dialog_text_downloaded">"Само една eSIM-картичка може да биде активна во дадено време.
+
+Ако се префрлите на %1$s, тоа нема да ја откаже вашата услуга на %2$s."</string>
+    <string name="privileged_action_switch_sub_dialog_text_no_to">"Само една SIM-картичка може да биде активна во дадено време.
+
+Ако се префрлите, тоа нема да ја откаже вашата услуга на %1$s."</string>
+    <string name="privileged_action_switch_sub_dialog_title">Да се префрли на %1$s?</string>
+    <string name="privileged_action_turn_on_sub_dialog_progress">Се вклучува %1$s</string>
+    <string name="profile_disabled">Оневозможено</string>
+    <string name="profile_disabled_confirmation_body_text">За да се активира eSIM-картичката, внесете PIN</string>
+    <string name="profile_disabled_confirmation_title">eSIM-картичката е оневозможена</string>
+    <string name="profile_enabled">Овозможен</string>
+    <string name="profile_enabled_with_phone_number">Овозможено, %1$s</string>
+    <string name="profile_list_action_bar_title">Оператор</string>
+    <string name="profile_transfer_activation_fail_available_phone_number_description">"Нешто не е во ред. Вашиот профил %1$s за SIM-картичка е префрлен на уредов, но не е подготвен за користење. 
+
+ Контактирајте со %2$s на %3$s. за помош
+
+Можеби ќе ви биде потребен EID-број за уредов:
+
+%4$s"</string>
+    <string name="profile_transfer_activation_fail_available_phone_number_title">Не може да се активира бројот</string>
+    <string name="profile_transfer_activation_fail_unavailable_phone_number_description">"Нешто не е во ред. Вашиот број %2$s на %1$s е префрлен на уредов, но не е поврзан на мрежата. 
+
+ Контактирајте со %3$s на %4$s. за помош
+
+Можеби ќе ви биде потребен EID-број за уредов:
+
+%5$s"</string>
+    <string name="profile_transfer_activation_fail_unavailable_phone_number_title">Не може да се активира мобилната мрежа</string>
+    <string name="profile_transfer_connecting_description">Се поврзува…</string>
+    <string name="profile_transfer_downloading_deferred_notification_content">Се поврзува со серверот на %1$s…</string>
+    <string name="profile_transfer_downloading_deferred_notification_title">Се презема %1$s</string>
+    <string name="profile_transfer_error_deferred_notification_title">Не може да се префрли %1$s</string>
+    <string name="profile_transfer_error_title">Не може да се префрли SIM-картичката од %1$s</string>
+    <string name="profile_transfer_non_recoverable_error_deferred_notification_action">Дознајте повеќе</string>
+    <string name="profile_transfer_non_recoverable_error_deferred_notification_content">Нешто тргна наопаку при префрлањето на вашата SIM-картичка Контактирајте со %1$s за помош на %2$s</string>
+    <string name="profile_transfer_non_recoverable_error_description">"Нешто тргна наопаку при префрлањето на вашата SIM-картичка Контактирајте со %1$s за помош на %2$s
+
+Можеби ќе ви биде потребен EID-бројот за уредов:
+
+%3$s"</string>
+    <string name="profile_transfer_recoverable_error_deferred_notification_content">Нешто тргна наопаку при префрлањето на вашата SIM-картичка Можете да пробате пак за да го решите проблемот</string>
+    <string name="profile_transfer_recoverable_error_description">Нешто тргна наопаку при префрлањето на вашата SIM-картичка</string>
+    <string name="profile_transfer_retry_button">Обиди се пак</string>
+    <string name="profile_transfer_success_deferred_notification_content">%1$s е подготвен за употреба</string>
+    <string name="profile_transfer_success_deferred_notification_title">Префрлањето SIM-картичка е успешно</string>
+    <string name="profile_transfer_suw_recoverable_error_description">Нешто тргна наопаку при префрлањето на вашата SIM-картичка Можeте да пробате пак за да го решите проблемот.</string>
+    <string name="psim_guide_dialog_message">Најдете ја фиоката за SIM-картичка на работ од телефонот. Користете алатка за исфрлање SIM или спојувалка за да ја отворите фиоката и вметнете ја SIM-картичката.</string>
+    <string name="psim_guide_dialog_title">Вметнете SIM-картичка</string>
+    <string name="q_download_sub_text">Ова може да потрае неколку минути</string>
+    <string name="q_download_sub_title">Се поврзува со %1$s…</string>
+    <string name="q_multiple_carrier_confirm_title">Изберете мрежи за активирање</string>
+    <string name="q_multiple_carrier_metadata_confirm_subtitle">{count,plural, =1{1 број е достапен за уредов. Вашиот оператор може да започне да ви наплаќа за услугата после активирањето.}one{# број се достапни за уредов. Вашиот оператор може да започне да ви наплаќа за услугата после активирањето.}other{# броја се достапни за уредов. Вашиот оператор може да започне да ви наплаќа за услугата после активирањето.}}</string>
+    <string name="q_result_download_metadata_text">{count,plural, =1{1 број од %1$s е достапен за уредов. %1$s може да започне да ви наплаќа за услугата кога ќе се поврзете.}one{# број од %1$s се достапни за уредов. %1$s може да започне да ви наплаќа за услугата кога ќе се поврзете.}other{# броја од %1$s се достапни за уредов. %1$s може да започне да ви наплаќа за услугата кога ќе се поврзете.}}</string>
+    <string name="qr_scanner_end_button">Не може да го најдете?</string>
+    <string name="qr_scanner_failed_msg">Нешто тргна наопаку со камерата. Обидете се подоцна.</string>
+    <string name="qr_scanner_failed_title">Камерата е недостапна</string>
+    <string name="qr_scanner_msg">Ако добивте QR-код од операторот, скенирајте го сега, така што ќе го поставите во центарот на полето</string>
+    <string name="qr_scanner_msg_q">Ако добивте QR-код од %1$s, скенирајте го сега, така што ќе го поставите во центарот на полето</string>
+    <string name="qr_scanner_msg_q_no_carrier_name">Ако добивте QR-код од операторот, скенирајте го сега, така што ќе го поставите во центарот на полето</string>
+    <string name="qr_scanner_title">Додај оператор со QR-код</string>
+    <string name="qr_scanner_title_q">Скенирајте го QR-кодот од %1$s</string>
+    <string name="qr_scanner_title_q_no_carrier_name">Скенирајте го QR-кодот на мрежата</string>
+    <string name="reactivate_error_dialog_body">Нешто тргна наопаку при обидот да се активира бројот. Обидете се повторно подоцна или вметнете ја SIM-картичката повторно.</string>
+    <string name="reactivate_error_dialog_title_with_carrier_name">%1$s не е активирана</string>
+    <string name="reactivate_error_dialog_title_without_carrier_name">SIM-картичката не е активирана</string>
+    <string name="reason_code_text">Код на причина</string>
+    <string name="reboot_button_title">Рестартирајте го телефонот</string>
+    <string name="remove_carrier_dialog_text_disabled">"Уредов веќе нема да може да се поврзе со %1$s.
+
+Ова нема да ги откаже пакетите за мобилни услуги."</string>
+    <string name="remove_carrier_dialog_text_enabled">"Отсега уредов нема да биде поврзан со %1$s.
+
+Ова нема да ги откаже пакетите за мобилни услуги."</string>
+    <string name="remove_carrier_dialog_title">Да се избрише операторот?</string>
+    <string name="remove_fail_text">Нешто тргна наопаку и не може да се избрише операторот.</string>
+    <string name="remove_fail_title">Не може да се избрише операторот</string>
+    <string name="remove_profile_title">Избриши</string>
+    <string name="removing_carrier">Бришење на операторот…</string>
+    <string name="res_activate_profile_later_button">Активирај подоцна</string>
+    <string name="res_activation_button">Поврзи</string>
+    <string name="res_continue_info1_general_multi_carriers">{count,plural, =1{За жал, не можевме да ги додадеме вашите броеви од %1$s и %2$d друг оператор.}one{За жал, не можевме да ги додадеме вашите броеви од %1$s и %2$d друг оператор.}other{За жал, не можевме да ги додадеме вашите броеви од %1$s и %2$d други оператори.}}</string>
+    <string name="res_continue_info1_general_no_carrier">{count,plural, =1{За жал, не можевме да додадеме &lt;b>1 број&lt;/b> од вашиот оператор.}one{За жал, не можевме да ги додадеме вашите броеви од ниту еден од вашите оператори.}other{За жал, не можевме да ги додадеме вашите броеви од ниту еден од вашите оператори.}}</string>
+    <string name="res_continue_info1_general_single_carrier">{count,plural, =1{За жал, не можевме да додадеме &lt;b>%2$d број&lt;/b> од %1$s.}one{За жал, не можевме да додадеме &lt;b>%2$d број&lt;/b> од %1$s.}other{За жал, не можевме да додадеме &lt;b>%2$d броја&lt;/b> од %1$s.}}</string>
+    <string name="res_continue_info1_no_mem_multi_carriers">{count,plural, =1{Немаше доволно простор за да ги додадеме вашите броеви од %1$s и %2$d друг оператор.}one{Немаше доволно простор за да ги додадеме вашите броеви од %1$s и %2$d друг оператор.}other{Немаше доволно простор за да ги додадеме вашите броеви од %1$s и %2$d други оператори.}}</string>
+    <string name="res_continue_info1_no_mem_no_carrier">{count,plural, =1{Немаше доволно простор за да додадеме &lt;b>1 број&lt;/b>.}one{Немаше доволно простор за да ги додадеме вашите броеви од ниту еден од вашите оператори.}other{Немаше доволно простор за да ги додадеме вашите броеви од ниту еден од вашите оператори.}}</string>
+    <string name="res_continue_info1_no_mem_single_carrier">{count,plural, =1{Немаше доволно простор за да додадеме &lt;b>%2$d број&lt;/b> од %1$s.}one{Немаше доволно простор за да додадеме &lt;b>%2$d број&lt;/b> од %1$s.}other{Немаше доволно простор за да додадеме &lt;b>%2$d броја&lt;/b> од %1$s.}}</string>
+    <string name="res_continue_info_item_2">Ако немате мобилна услуга, побарајте помош од %1$s</string>
+    <string name="res_continue_info_item_2_no_carrier_name">Ако немате мобилна мрежа, контактирајте со операторот за помош</string>
+    <string name="res_continue_text_partial_complete_multiple_carriers">{count,plural, =1{Додадовте &lt;b>%1$d броја&lt;/b> од %2$s и %3$s}=2{Додадовте &lt;b>%1$d броја&lt;/b> од %2$s, %3$s и %4$d друг оператор}one{Додадовте &lt;b>%1$d број&lt;/b> од %2$s, %3$s и %4$d друг оператор}other{Додадовте &lt;b>%1$d броја&lt;/b> од %2$s, %3$s и %4$d други оператори}}</string>
+    <string name="res_continue_text_partial_complete_single_carrier">{count,plural, =1{Додадовте &lt;b>%1$d број&lt;/b> од %2$s}one{Додадовте &lt;b>%1$d број&lt;/b> од %2$s}other{Додадовте &lt;b>%1$d броја&lt;/b> од %2$s}}</string>
+    <string name="res_continue_title_all_success">{count,plural, =1{Телефонскиот број е додаден}one{# број е додаден}other{# броја се додадени}}</string>
+    <string name="res_continue_title_partial_success">Додадовте %1$d од %2$d броја</string>
+    <string name="res_download_button">Преземи</string>
+    <string name="res_enter_pin_button">Внесете PIN</string>
+    <string name="res_need_help_button">Ви треба помош?</string>
+    <string name="res_start_button">Започни</string>
+    <string name="reset_button">Ресетирај</string>
+    <string name="reset_dialog_carriers_body">Да се избришат сите оператори од вашиот уред? Дејството не може да се врати.</string>
+    <string name="reset_dialog_carriers_title">Да се ресетираат операторите?</string>
+    <string name="reset_fail_text">Нешто тргна наопаку и не може да се ресетираат операторите.</string>
+    <string name="reset_fail_title">Не може да се ресетираат операторите</string>
+    <string name="reset_screen_text_bottom">Ова нема да ги откаже пакетите за мобилни услуги.</string>
+    <string name="reset_screen_text_top">Тоа ќе ги отстрани сите оператори од уредот:</string>
+    <string name="reset_screen_title">Ресетирајте ги сите оператори</string>
+    <string name="result_connect_title">Дали сакате да се поврзете со %1$s?</string>
+    <string name="result_download_metadata_text">{count,plural, =1{1 број од %1$s е достапен за уредов.}one{# број од %1$s е достапен за уредов.}other{# броја од %1$s се достапни за уредов.}}</string>
+    <string name="result_download_text">{count,plural, =1{Вашиот број на %1$s сега може да се додаде на телефонот}one{&lt;b>%2$d број&lt;/b> од %1$s сега може да се додадат на телефонов}other{&lt;b>%2$d броја&lt;/b> од %1$s сега може да се додадат на телефонов}}</string>
+    <string name="result_download_title">Да се преземе eSIM-картичка од %1$s?</string>
+    <string name="scan_it_now">скенирајте го сега</string>
+    <string name="send_feedback">Испратете повратни информации</string>
+    <string name="set_up_button">Set up</string>
+    <string name="settings_gear_label">Поставки</string>
+    <string name="sim_action_switch_sub_dialog_carrier_list_item_for_turning_off">Исклучи: %1$s</string>
+    <string name="sim_action_switch_sub_dialog_info_outline_for_turning_off">Нема да ја откажете услугата само со исклучување на SIM-картичката</string>
+    <string name="sim_card_label">SIM-картичка</string>
+    <string name="sim_illustration_bottom_alt_text">Пронајдете ја портата за полнење додека го држите екранот свртен кон вас. Држачот на SIM-картичка се наоѓа лево од портата за полнење најдолу на телефонот. Држачот е рамен со мали испакнатини на секоја од страните. Ќе забележите мал отвор на левата страна на држачот. За да го отворите држачот, вметнете еден крај од спојувалка за хартија или алатката за исфрлање SIM-картичка во отворот. За да ја вметнете SIM-картичката, порамнете го нејзиниот засечен дел со држачот. SIM-картичката има само една положба на поставување.</string>
+    <string name="sim_illustration_bottom_left_alt_text">Пронајдете ја портата за полнење додека го држите екранот свртен кон вас. Движете го прстот нагоре по левата страна на телефонот. Држачот на SIM-картичка е рамен со мали испакнатини на секоја од страните. Ќе забележите мал отвор близу горниот дел на држачот. За да го отворите држачот, вметнете еден крај од спојувалка за хартија или алатката за исфрлање SIM-картичка во отворот. За да ја вметнете SIM-картичката, порамнете го нејзиниот засечен дел со држачот. SIM-картичката има само една положба на поставување.</string>
+    <string name="sim_illustration_top_left_alt_text">Пронајдете ја портата за полнење додека го држите екранот свртен кон вас. Движете го прстот нагоре по левата страна на телефонот. Држачот на SIM-картичка е рамен со мали испакнатини на секоја од страните. Ќе забележите мал отвор близу горниот дел на држачот. За да го отворите држачот, вметнете еден крај од спојувалка за хартија или алатката за исфрлање SIM-картичка во отворот. За да ја вметнете SIM-картичката, порамнете го нејзиниот засечен дел со држачот. SIM-картичката има само една положба на поставување.</string>
+    <string name="sim_locked_text">"Овој телефон моментално е заклучен на друг оператор. Ќе треба да користите важечка SIM-картичка.
+
+Штом ја додадете SIM-картичката, може да бидат потребни неколку секунди додека се активира."</string>
+    <string name="sim_locked_title">SIM-картичката не е поддржана</string>
+    <string name="sim_missing_activity_esim_button_title">Преземете нова eSIM-картичка</string>
+    <string name="sim_missing_activity_esim_transfer_button_title">Префрлете SIM-картичка од стар телефон</string>
+    <string name="sim_missing_activity_psim_hint">Дознајте како се користи SIM-картичка</string>
+    <string name="sim_missing_activity_subtitle_no_psim">Преземете ја вашата eSIM-картичка или вметнете SIM-картичка сега.</string>
+    <string name="sim_missing_activity_subtitle_psim_exists">"За да додадете друга SIM-картичка, преземете нова eSIM-картичка.
+
+За да користите различна SIM-картичка, прво отстранете ја таа што моментално ја имате во вашиот телефон"</string>
+    <string name="sim_missing_activity_subtitle_tmo_esim_primary">Може да ја преземете вашата SIM-картичка или да вметнете SIM-картичка сега</string>
+    <string name="sim_missing_activity_subtitle_with_psim">За да користите нова SIM-картичка, извадете ја картичката што моментално се наоѓа во уредот</string>
+    <string name="sim_missing_activity_with_tmo_esim_primary_button_title">Преземете ја вашата SIM-картичка</string>
+    <string name="sim_ready_message">Бројот е претходно поставен на телефонов</string>
+    <string name="sim_ready_message_carrier_app">За да го завршите активирањето на %1$s, ќе треба да ја преземете апликацијата %2$s. Засега, да го завршиме поставувањето на телефонот.</string>
+    <string name="sim_ready_message_invalid_phone_number_carrier_app">За да го завршите активирањето на бројот, ќе треба да ја преземете апликацијата на %1$s. Засега, да го завршиме поставувањето на телефонот.</string>
+    <string name="sim_ready_title">eSIM-картичка е најдена</string>
+    <string name="sim_ready_title_carrier_app">Поврзете се на %1$s подоцна</string>
+    <string name="skip_button">Прескокни</string>
+    <string name="status_title">Статус</string>
+    <string name="subject_code_text">Код на предмет</string>
+    <string name="sud_back_button_label">Назад</string>
+    <string name="sud_more_button_label">Повеќе</string>
+    <string name="sud_next_button_label">Следно</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="suw_carrier_support_to_complete_activation_no_carrier_v2">За да ја активирате услугата, контактирајте со операторот за помош.</string>
+    <string name="suw_default_failed_msg_no_carrier">За жал, нешто тргна наопаку и не беше додаден ниту еден телефонски број</string>
+    <string name="suw_failed_title">Поставувањето не е завршено</string>
+    <string name="suw_pii_sent_msg">Некои податоци за уредот што се потребни за поставувањето ќе се испратат до Google, вашиот оператор и нивните партнери</string>
+    <string name="suw_setting_up_phone_info">Преостанува помалку од една минута</string>
+    <string name="suw_setting_up_phone_title">Се поставува телефонот…</string>
+    <string name="suw_sim_missing_activity_for_delayed_setup_decription">"When you're done setting up your phone, go to Settings to connect to your mobile network. Or, if you have a SIM card, insert it now."</string>
+    <string name="suw_sim_missing_activity_for_delayed_setup_title">Connect to mobile network after setup</string>
+    <string name="switch_button">Префрли</string>
+    <string name="switch_confirm_mep_dialog_message">Уредов може да има 2 активни SIM-картички истовремено.</string>
+    <string name="switch_confirm_mep_dialog_title">Исклучете ја SIM-картичката за да користите %1$s</string>
+    <string name="switch_confirm_message">Ќе се прекине врската со %1$s засега</string>
+    <string name="switch_confirm_message_no_carrier">Ќе се прекине врската со мобилната мрежа засега</string>
+    <string name="switch_confirm_new_title">Користете Wi‑Fi за преземање на SIM-картичката</string>
+    <string name="switch_confirm_no_active_profile_message">Дозволете операторот да ја преземе вашата SIM-картичка</string>
+    <string name="switch_confirm_no_active_profile_title">Вашата SIM-картичка ќе биде преземена наскоро</string>
+    <string name="switch_confirm_no_wifi_message">Ова ви овозможува да користите друга мрежа</string>
+    <string name="switch_confirm_no_wifi_title">Да се прекине врската со %1$s?</string>
+    <string name="switch_confirm_no_wifi_title_no_carrier">Да се прекине врската со мобилната мрежа?</string>
+    <string name="switch_restriction_message_to_connect_to">За да се поврзете на %2$s наместо на %1$s, прво отстранете ја SIM-картичката на %1$s, а потоа обидете се повторно.</string>
+    <string name="switch_restriction_message_to_switch_from">За да се префрлите од %1$s, прво отстранете ја SIM-картичката на %1$s, а потоа обидете се повторно.</string>
+    <string name="switch_restriction_title_remove_sim">Отстранете ја SIM-картичката</string>
+    <string name="sys_notification_5g_enable_dsds_text">"Уредов може да има две истовремено активни SIM-картички.
+
+Кога се користат две SIM-картички, телефонов ќе биде ограничен на 4G. %1$s"</string>
+    <string name="sys_notification_after_dsds_reboot_text">Допрете за да го завршите поставувањето на другата SIM-картичка</string>
+    <string name="sys_notification_after_dsds_reboot_title">Подготвено за користење 2 SIM-картички во исто време</string>
+    <string name="sys_notification_enable_dsds_text">Уредов може да има 2 активни SIM-картички во исто време. За да продолжите да користите само 1 SIM-картичка, допрете „Не, фала“.</string>
+    <string name="sys_notification_enable_dsds_title">Да се користат 2 SIM-картички?</string>
+    <string name="sys_notification_no_thanks">Не, фала</string>
+    <string name="sys_notification_reboot">Рестартирај</string>
+    <string name="sys_notification_restart_text">За да започнете, рестартирајте го уредот. Потоа може да додадете друга SIM-картичка.</string>
+    <string name="sys_notification_restart_title">Дали да се рестартира уредот?</string>
+    <string name="sys_notification_selected_text">Вашата мобилна мрежа се промени</string>
+    <string name="sys_notification_switched_title">Се префрливте на %1$s</string>
+    <string name="sys_notification_switched_title_no_carrier_name">Се префрливте на друг оператор</string>
+    <string name="sys_notification_title">Префрлање оператор</string>
+    <string name="temp_error_description_q">{count,plural, =1{Нешто тргна наопаку при обидот да се активира бројот. Може да се обидете повторно во „Поставки“ подоцна.}one{Нешто тргна наопаку при обидот да се активираат броевите. Може да се обидете повторно во „Поставки“ подоцна.}other{Нешто тргна наопаку при обидот да се активираат броевите. Може да се обидете повторно во „Поставки“ подоцна.}}</string>
+    <string name="terms_of_service">Услови за користење</string>
+    <string name="text_bottom_transfer_carrier_info">Не го гледате вашиот оператор? Контактирајте со вашиот оператор за да побарате помош.</string>
+    <string name="title_app_required">Поврзи се на %1$s подоцна</string>
+    <string name="title_cannot_connect_to_network_no_name">Не може да се поврзе на мрежа</string>
+    <string name="title_cannot_download">Не може да се преземе SIM-профилот</string>
+    <string name="title_choose_download_type">Активирајте го вашиот број од %1$s</string>
+    <string name="title_choose_transfer_type">Изберете начин за пренос на вашиот број од %1$s</string>
+    <string name="title_incorrect_qr_code">Погрешен QR-код</string>
+    <string name="title_install_app_notification">Преземете ја апликацијата %1$s за да го поставите бројот</string>
+    <string name="title_network_not_activated">Мрежата не е активирана</string>
+    <string name="title_no_connection">Нема пристап до интернет</string>
+    <string name="title_portal_intro">Пренесете го вашиот број од %1$s</string>
+    <string name="title_profile_already_downloaded">SIM-профилот веќе е преземен</string>
+    <string name="title_transfer_type_portal">Најавете се на вашата сметка на %1$s</string>
+    <string name="title_transfer_type_qr">Скенирајте QR-код</string>
+    <string name="transfer_button">Пренеси</string>
+    <string name="transfer_device_transfer_error">(не може да се префрли)</string>
+    <string name="transfer_in_device_name">Во %1$s%2$s</string>
+    <string name="transfer_profile_downloading_description">Може да продолжите со поставување на вашиот %1$s</string>
+    <string name="transfer_single_description_with_esim">"%1$s will be transferred to this phone.
+
+After you transfer your SIM to this phone, it will no longer work on your other device."</string>
+    <string name="transfer_single_description_with_psim">"You can convert your SIM card into an eSIM and
+transfer it to this phone. After it's been
+converted, your SIM card can't be used again."</string>
+    <string name="transfer_single_psim_hint">Learn how to use a SIM card</string>
+    <string name="transfer_single_psim_sub_info">Or, insert the SIM card now.</string>
+    <string name="transfer_single_subItem_title_with_number">Ова не е точниот број?</string>
+    <string name="transfer_single_subItem_title_without_number_esim">Ова не е точната eSIM-картичка?</string>
+    <string name="transfer_single_subItem_title_without_number_unknown">Ова не е точната SIM-картичка?</string>
+    <string name="transfer_single_title">Transfer %1$s SIM?</string>
+    <string name="transfer_subItem_desc">Наместо неа, преземете нова eSIM-картичка</string>
+    <string name="transfer_subItem_title_with_number">Ова не се точните броеви?</string>
+    <string name="transfer_subItem_title_without_number_esim">Ова не се точните eSIM-картички?</string>
+    <string name="transfer_subItem_title_without_number_unknown">Ова не се точните SIM-картички?</string>
+    <string name="transfer_title_unknown_sim">Изберете SIM-картичка за да ја префрлите</string>
+    <string name="transfer_title_with_number">Изберете број за да го префрлите</string>
+    <string name="transfer_title_without_number">Изберете eSIM-картичка за да ја префрлите</string>
+    <string name="update_button">Ажурирај</string>
+    <string name="use_different_network">Користете друга мрежа</string>
+    <string name="use_different_network_button">Користете друга мрежа</string>
+    <string name="user_consent_download_active_profile_body_text">%1$s ќе се исклучи за време на преземањето</string>
+    <string name="user_consent_download_mobile_data_body_text">Вашата SIM-картичка ќе биде преземена преку мобилната мрежа</string>
+    <string name="user_consent_download_no_name_body_text">Активната SIM-картичка ќе се исклучи за време на преземањето</string>
+    <string name="user_consent_download_over_wifi_title">Да се користи Wi‑Fi за преземање на SIM-картичката?</string>
+    <string name="user_consent_download_ss_no_profile_title">Да се доволи операторот да ја преземе SIM-картичката?</string>
+    <string name="user_consent_download_ss_no_profile_wifi_body_text">Вашата SIM-картичка ќе биде преземена преку Wi‑Fi</string>
+    <string name="user_consent_download_switch_body_text">"За да преземете и користите друга SIM-картичка, исклучете %1$s.
+
+Ако исклучите %1$s, нема да се откаже услугата."</string>
+    <string name="user_consent_download_switch_dsds_no_name_body_text">"За да преземете и користите друга SIM-картичка, исклучете ја активната.
+
+Ако ја исклучите SIM, нема да се откаже услугата."</string>
+    <string name="user_consent_download_switch_dsds_no_name_title">Да се исклучи SIM?</string>
+    <string name="user_consent_download_switch_no_profile_body_text">Вашата SIM-картичка ќе се користи веднаш по преземањето</string>
+    <string name="user_consent_download_switch_ss_no_name_body_text">"За да преземете и користите друга SIM-картичка, исклучете ја активната.
+
+Ако ја исклучите SIM, нема да се откаже услугата."</string>
+    <string name="user_consent_download_switch_ss_no_name_title">Да се исклучи SIM?</string>
+    <string name="user_consent_switch_dsds_body_text">"Уредов може да има само една активна eSIM-картичка.
+
+%1$s ќе се исклучи, но ова нема да ја откаже услугата."</string>
+    <string name="user_consent_switch_dsds_no_name_body_text">"Уредов може да има само една активна eSIM-картичка.
+
+Тековната SIM-картичка ќе се исклучи, но ова нема да ја откаже услугата."</string>
+    <string name="user_consent_switch_mep_dsds_body_text">%1$s ќе се исклучи, но ова нема да ја откаже услугата.</string>
+    <string name="user_consent_switch_mep_dsds_no_name_body_text">Тековната SIM-картичка ќе се исклучи, но ова нема да ја откаже услугата.</string>
+    <string name="user_consent_switch_no_name_title">Да се користи новата SIM?</string>
+    <string name="user_consent_switch_ss_body_text">"Уредов може да има само 1 активна SIM.
+
+%1$s ќе се исклучи, но ова нема да ја откаже услугата."</string>
+    <string name="user_consent_switch_ss_no_name_body_text">"Уредов може да има само 1 активна SIM.
+
+Тековната SIM-картичка ќе се исклучи, но ова нема да ја откаже услугата."</string>
+    <string name="user_consent_switch_title">Да се користи %1$s?</string>
+    <string name="v7_preference_off">ИСКЛУЧЕНО</string>
+    <string name="v7_preference_on">ВКЛУЧЕНО</string>
+    <string name="wait_msg">Само секунда…</string>
+    <string name="wrong_code_dialog_text">"Некои даватели на услуги бараат код за потврда за дополнителна безбедност. Вашиот код може да го најдете:
+
+• на парчето хартија што дојде со вашиот уред
+• во е-пораката од вашиот давател на услуга
+• во текстуалната порака испратена на вашиот стар уред"</string>
+    <string name="yes_button">Да</string>
+</resources>

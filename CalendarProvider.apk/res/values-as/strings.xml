@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="calendar_default_name">ডিফ’ল্ট</string>
+    <string name="calendar_info">কেলেণ্ডাৰৰ তথ্য</string>
+    <string name="calendar_info_error">আসোঁৱাহ</string>
+    <string name="calendar_info_events">অনুষ্ঠান: %1$d</string>
+    <string name="calendar_info_events_dirty">অনুষ্ঠান: %1$d, ছেভ কৰা হোৱা নাই: %2$d</string>
+    <string name="calendar_info_no_calendars">কোনো কেলেণ্ডাৰ নাই</string>
+    <string name="calendar_storage">কেলেণ্ডাৰৰ ষ্ট’ৰেজ</string>
+    <string name="debug_tool_delete_button">এতিয়াই মচক</string>
+    <string name="debug_tool_email_body">মোৰ আটাইবোৰ সাক্ষাৎকাৰ আৰু ব্যক্তিগত তথ্য সম্বলিত মোৰ কেলেণ্ডাৰৰ ডেটাবে’ছ সংলগ্ন কৰা হৈছে। সাৱধানে ব্যৱহাৰ কৰিব।</string>
+    <string name="debug_tool_email_sender_picker">আপোনাৰ ফাইলটো পঠাবলৈ কোনো প্ৰ’গ্ৰাম বাছনি কৰক</string>
+    <string name="debug_tool_email_subject">কেলেণ্ডাৰৰ ডেটাবে’ছ সংলগ্ন কৰা হৈছে</string>
+    <string name="debug_tool_message">আপুনি ১) SD কাৰ্ড/USB ষ্ট’ৰেজলৈ আপোনাৰ কেলেণ্ডাৰৰ ডেটাবে’ছৰ এটা প্ৰতিলিপি কৰিবলৈ লৈছে, যিটো যিকোনো এপে পঢ়িব পাৰে, আৰু ২) এইটো ইমেইল কৰিবলৈ লৈছে। আপুনি ডেটাবে’ছটো সফলতাৰে ডিভাইচটোৰ পৰা প্ৰতিলিপি কৰাৰ অথবা ইমেইলটো পোৱাৰ পাছত মচিবলৈ নাপাহৰিব।</string>
+    <string name="debug_tool_start_button">আৰম্ভ কৰক</string>
+    <string name="provider_label">কেলেণ্ডাৰ</string>
+</resources>

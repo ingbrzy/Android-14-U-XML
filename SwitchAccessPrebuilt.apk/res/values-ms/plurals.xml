@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dots">
+        <item quantity="other">titik %s</item>
+        <item quantity="one">titik %s</item>
+    </plurals>
+    <plurals name="gestures_recorded_message">
+        <item quantity="other">%d gerak isyarat dirakam</item>
+        <item quantity="one">1 gerak isyarat dirakam</item>
+    </plurals>
+    <plurals name="label_num_keys_assigned_format">
+        <item quantity="other">%d suis ditetapkan</item>
+        <item quantity="one">%d suis ditetapkan</item>
+    </plurals>
+    <plurals name="label_num_scanning_loops_format">
+        <item quantity="other">%d Gelung</item>
+        <item quantity="one">%d Gelung</item>
+    </plurals>
+    <plurals name="line_speed_summary_format">
+        <item quantity="other">%.2f cm per saat</item>
+        <item quantity="one">1 cm per saat</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d pemberitahuan baharu</item>
+        <item quantity="one">%d pemberitahuan baharu</item>
+    </plurals>
+    <plurals name="time_delay_summary_format">
+        <item quantity="other">%.2f Saat</item>
+        <item quantity="one">1 Saat</item>
+    </plurals>
+</resources>

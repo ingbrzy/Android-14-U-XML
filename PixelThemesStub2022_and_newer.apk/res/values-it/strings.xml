@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bundle1_color_name">Grigio carbonio</string>
+    <string name="bundle2_color_name">Carta</string>
+    <string name="bundle3_color_name">Sole</string>
+    <string name="color_name_monochromatic">Monocromatico</string>
+    <string name="default_color_name">Classico</string>
+    <string name="fruit1_color_name">Tavolozza a due colori: giallo e rosso</string>
+    <string name="fruit2_color_name">Tavolozza a due colori: verde e arancione</string>
+    <string name="fruit3_color_name">Tavolozza a due colori: blu e verde</string>
+    <string name="fruit4_color_name">Tavolozza a due colori: viola chiaro e blu</string>
+    <string name="fruit5_color_name">Tavolozza a due colori: rosa e indaco</string>
+    <string name="rainbow1_color_name">Rosso</string>
+    <string name="rainbow2_color_name">Arancione</string>
+    <string name="rainbow3_color_name">Giallo</string>
+    <string name="rainbow4_color_name">Verde</string>
+    <string name="rainbow5_color_name">Blu</string>
+    <string name="rainbow6_color_name">Indaco</string>
+    <string name="rainbow7_color_name">Viola</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="auto_playlist_with_episode_count_item_subtitle">
+        <item quantity="other">%1$d episodes • Auto playlist</item>
+        <item quantity="zero">0 episodes • Auto playlist</item>
+        <item quantity="one">1 episode • Auto playlist</item>
+    </plurals>
+    <plurals name="auto_playlist_with_size_item_subtitle">
+        <item quantity="other">%1$d songs • Auto playlist</item>
+        <item quantity="zero">0 songs • Auto playlist</item>
+        <item quantity="one">1 song • Auto playlist</item>
+    </plurals>
+    <plurals name="offline_playlist_detail_page_subtitle_with_size">
+        <item quantity="other">%1$d songs • Playlist</item>
+        <item quantity="zero">0 songs • Playlist</item>
+        <item quantity="one">1 song • Playlist</item>
+    </plurals>
+    <plurals name="playlist_subtitle_with_track_count">
+        <item quantity="other">%1$d tracks • Playlist</item>
+        <item quantity="zero">0 tracks • Playlist</item>
+        <item quantity="one">1 track • Playlist</item>
+    </plurals>
+</resources>

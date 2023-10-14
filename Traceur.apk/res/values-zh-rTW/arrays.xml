@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="select_logpersist_summaries">
+        <item>關閉</item>
+        <item>所有記錄緩衝區</item>
+        <item>無線電記錄緩衝區以外的所有記錄緩衝區</item>
+        <item>僅限核心記錄緩衝區</item>
+    </string-array>
+</resources>

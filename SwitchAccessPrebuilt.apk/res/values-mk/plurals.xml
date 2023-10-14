@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dots">
+        <item quantity="other">точки %s</item>
+        <item quantity="one">точки %s</item>
+    </plurals>
+    <plurals name="gestures_recorded_message">
+        <item quantity="other">Снимени се %d движења</item>
+        <item quantity="one">Снимени се %d движење</item>
+    </plurals>
+    <plurals name="label_num_keys_assigned_format">
+        <item quantity="other">Назначени се %d прекинувачи</item>
+        <item quantity="one">Назначени се %d прекинувач</item>
+    </plurals>
+    <plurals name="label_num_scanning_loops_format">
+        <item quantity="other">%d повторувања</item>
+        <item quantity="one">%d повторување</item>
+    </plurals>
+    <plurals name="line_speed_summary_format">
+        <item quantity="other">%.2f cm во секунда</item>
+        <item quantity="one">%.2f cm во секунда</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d нови известувања</item>
+        <item quantity="one">%d ново известување</item>
+    </plurals>
+    <plurals name="time_delay_summary_format">
+        <item quantity="other">%.2f секунди</item>
+        <item quantity="one">%.2f секунда</item>
+    </plurals>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_retaildemoCommunication">Permite aplicației să interacționeze cu serviciile Retail Demo. Doar Retail Demo trebuie să aibă această permisiune. Aplicațiile cu această permisiune pot declanșa acțiuni rezervate pentru modul Retail Demo.</string>
+    <string name="permlab_retaildemoCommunication">Comunicare Retail Demo</string>
+    <string name="retaildemo_preload_app_name">Servicii Retail Demo</string>
+</resources>

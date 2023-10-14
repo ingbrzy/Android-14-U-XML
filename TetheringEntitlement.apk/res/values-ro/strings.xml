@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Tethering Entitlement</string>
+    <string name="att_service_upgrade_msg">Pentru a folosi un hotspot mobil personal este necesar un plan de date eligibil. Accesează att.com/personalhotspot sau myAT&amp;T pentru a-ți schimba planul. Pentru asistență, poți apela AT&amp;T la 611</string>
+    <string name="att_service_upgrade_msg_for_usb_tethering">Pentru a activa funcția de tethering pe acest dispozitiv, accesează att.com/mywireless sau apelează 611</string>
+    <string name="cancel">Anulează</string>
+    <string name="continue_hotspot">Continuă</string>
+    <string name="generic_error">Autentificarea nu a reușit. Încearcă din nou mai târziu.</string>
+    <string name="generic_network_error">Rețea indisponibilă. Încearcă din nou mai târziu.</string>
+    <string name="softbank_service_upgrade_msg">Serviciul nu este acceptat. Contactează furnizorul de servicii.</string>
+    <string name="sprint_entitlement_error">Serviciul nu este acceptat. Contactează furnizorul de servicii.</string>
+    <string name="tracfone_service_upgrade_msg">Planul achiziționat de la operator nu acceptă hotspoturi</string>
+    <string name="tracfone_service_upgrade_msg_for_usb_tethering">Planul achiziționat de la operator nu acceptă tethering</string>
+    <string name="vzw_activate_roaming_message_text">Vei plăti per MB pentru toate datele trimise sau primite în roaming. Accesează My Verizon pentru a monitoriza utilizarea și a vedea tarifele internaționale actuale. Dispozitivele conectate la hotspot pot utiliza date.</string>
+    <string name="vzw_activate_roaming_title_text">Taxe suplimentare pentru roaming</string>
+    <string name="vzw_service_upgrade_msg">Pentru a folosi hotspotul mobil, apelează serviciul de asistență pentru clienți ca să te abonezi.</string>
+</resources>

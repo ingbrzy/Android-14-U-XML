@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">စက်များကြားသုံးနိုင်သော ဝန်ဆောင်မှုများ</string>
+    <string name="app_name_generic">အက်ပ်တစ်ခု</string>
+    <string name="app_stream_error_generic">အက်ပ်မျှဝေနေစဉ် အမှားဖြစ်သွားသည်</string>
+    <string name="app_stream_init_error_generic">သင့် Chromebook သို့ အက်ပ်မျှဝေ၍ မရပါ</string>
+    <string name="audio_permission_rationale">အက်ပ်မျှဝေခြင်းအတွက် မိုက်ခရိုဖုန်းခွင့်ပြုချက် ပိတ်ထားသည်</string>
+    <string name="cancel_button_label">မလုပ်တော့</string>
+    <string name="chromebook_keyboard">Chromebook ကီးဘုတ်</string>
+    <string name="chromebook_mouse">Chromebook မောက်စ်</string>
+    <string name="chromebook_touchscreen">Chromebook တို့ထိမျက်နှာပြင်</string>
+    <string name="connect_device">သင့်ဖုန်းကို အဝေးထိန်းကိရိယာနှင့် ချိတ်ဆက်နေသည်- %1$s</string>
+    <string name="decline_button_label">ငြင်းပယ်ရန်</string>
+    <string name="development_notification_channel_name">တိုးတက်မှု</string>
+    <string name="device_camera_cannot_access">ဤ Chromebook မှ စက်ကင်မရာကို သုံး၍မရပါ</string>
+    <string name="done_button_label">ပြီးပြီ</string>
+    <string name="enable_button_label">ဖွင့်ရန်</string>
+    <string name="foreground_service_notification_channel_name">အထွေထွေ</string>
+    <string name="foreground_service_notification_content">ဆက်တင်များကို ပြင်ဆင်ရန် တို့ပါ</string>
+    <string name="foreground_service_notification_title">{0,plural, =1{စက်ပစ္စည်း # ခုသို့ ချိတ်ဆက်ထားသည်}other{စက်ပစ္စည်း # ခုသို့ ချိတ်ဆက်ထားသည်}}</string>
+    <string name="interactive_streaming_generic_notification">%1$s တိုက်ရိုက်ဖွင့်ပြီး သင့် Chromebook အတွက် အကြောင်းကြားချက်များ စင့်ခ်လုပ်နေသည်</string>
+    <string name="interactive_streaming_individual_notification">%1$s တိုက်ရိုက်လွှင့်ပြီး %2$s အတွက် အကြောင်းကြားချက် စင့်ခ်လုပ်နေသည်</string>
+    <string name="interactive_streaming_notification">သင့် Chromebook တွင်တိုက်ရိုက်ဖွင့်နေသည်</string>
+    <string name="keyboard_name">စက်များကြားသုံးနိုင်သော ကီးဘုတ်</string>
+    <string name="lock_screen_notif_warning_content">လော့ခ်မျက်နှာပြင်ရှိ အကြောင်းကြားချက်များကို ဖွင့်သည်</string>
+    <string name="lock_screen_notif_warning_title">အကြောင်းကြားချက်များကို ထပ်ဆင့်ပို့မည် မဟုတ်ပါ</string>
+    <string name="mouse_name">စက်များကြားသုံးနိုင်သော မောက်စ်</string>
+    <string name="new_connection_confirm">အတည်ပြုရန်</string>
+    <string name="new_connection_deny">ငြင်းပယ်ရန်</string>
+    <string name="new_connection_title">‘လိုင်းတူညီမှုများ’ ကို အတည်ပြုပါ</string>
+    <string name="notification_access_missing">အကြောင်းကြားချက်သုံးခွင့် လိုအပ်သည်</string>
+    <string name="notification_access_missing_description">သင့် Chromebook တွင် အကြောင်းကြားချက်များဖွင့်ရန် ‘အကြောင်းကြားချက်သုံးခွင့်’ ဖွင့်ရမည်</string>
+    <string name="notification_channel_name">အထွေထွေ</string>
+    <string name="notification_listener_label">သင့် Chromebook ဖြင့် အက်ပ်များမျှဝေရန်</string>
+    <string name="open_source_licenses">အခမဲ့ရင်းမြစ် လိုင်စင်များ</string>
+    <string name="phone_permission_rationale">အက်ပ်မျှဝေခြင်းအတွက် ဖုန်းဆက်ရန်ခွင့်ပြုချက် ပိတ်ထားသည်</string>
+    <string name="prompt_switch_languages">သင့်ဖုန်း၏ Gboard ဘာသာစကားကို ပြောင်းရန် shift + space နှိပ်ပါ</string>
+    <string name="settings_button">ဆက်တင်များ</string>
+    <string name="stop_sharing_button">ထုတ်လွှင့်မှု ရပ်ရန်</string>
+    <string name="stream_termination_proximity_warning">သင့်ဖုန်းက ဝေးလွန်းနေသည်။ တိုက်ရိုက်ဆက်လွှင့်ရန် ၎င်းကို အနီးသို့ယူလာပါ။</string>
+    <string name="substitute_app_name">စနစ်</string>
+    <string name="summary_disable_wirecutter">ပိတ်</string>
+    <string name="summary_enable_wirecutter">ဖွင့်</string>
+    <string name="touchscreen_name">စက်များကြားသုံးနိုင်သော တို့ထိစခရင်</string>
+</resources>

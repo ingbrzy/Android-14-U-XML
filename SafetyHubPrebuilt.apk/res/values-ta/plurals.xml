@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d புதிய அறிவிப்புகள்</item>
+        <item quantity="one">%d புதிய அறிவிப்பு</item>
+    </plurals>
+    <plurals name="survey_star_rating">
+        <item quantity="other">%1$d/%2$d நட்சத்திரங்கள் வழங்கப்பட்டுள்ளன</item>
+        <item quantity="one">%1$d/%2$d நட்சத்திரம் வழங்கப்பட்டுள்ளது</item>
+    </plurals>
+</resources>

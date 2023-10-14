@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="azure_title">Γαλάζια κίσσα</string>
+    <string name="blackswan_title">Μαύρος κύκνος</string>
+    <string name="cockatoo_title">Κακατούα</string>
+    <string name="come_alive_title">Ταπετσαρίες που ζωντανεύουν</string>
+    <string name="feathers_attribution">Φωτογραφία από Andrew Zuckerman</string>
+    <string name="feathers_description">Φτερά γεμάτα χρώμα και λεπτομέρεια</string>
+    <string name="feathers_title">Φτερά</string>
+    <string name="greenwinged_title">Μακάο με πράσινα φτερά</string>
+    <string name="king_title">Βασιλικός γύπας</string>
+    <string name="living_universe_title">Ζωντανό σύμπαν</string>
+    <string name="photos_memory_gallery_title">Οι αναμνήσεις σας</string>
+    <string name="pied_title">Ραβδοκουρούνα</string>
+    <string name="ringnecked_title">Δακτυλιοειδής παπαγάλος</string>
+    <string name="seagull_title">Γλάρος</string>
+</resources>

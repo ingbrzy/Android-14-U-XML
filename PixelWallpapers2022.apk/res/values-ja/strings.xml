@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="azure_title">アオサンジャク</string>
+    <string name="blackswan_title">コクチョウ</string>
+    <string name="cockatoo_title">コカトゥー</string>
+    <string name="come_alive_title">カムアライブ</string>
+    <string name="feathers_attribution">写真: Andrew Zuckerman</string>
+    <string name="feathers_description">鳥類を色鮮やかに細部までとらえた写真です</string>
+    <string name="feathers_title">鳥類</string>
+    <string name="greenwinged_title">ベニコンゴウインコ</string>
+    <string name="king_title">トキイロコンドル</string>
+    <string name="living_universe_title">リビング ユニバース</string>
+    <string name="photos_memory_gallery_title">思い出の写真</string>
+    <string name="pied_title">ムナジロガラス</string>
+    <string name="ringnecked_title">ワカケホンセイインコ</string>
+    <string name="seagull_title">カモメ</string>
+</resources>

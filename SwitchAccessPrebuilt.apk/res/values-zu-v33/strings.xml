@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="switch_access_htmlDescription">Ungasebenzisa amaswishi ukuze ukhethe izinto, uskrole, uhlobo, nokunye.</string>
+    <string name="switch_access_intro">Amaswishi angakusiza ukuthi ulawule idivayisi yakho ye-Android uma kunzima ukusebenzisana ngokuqondile nesikrini esithintwayo. Iswishi ingaxhunywa ngaphandle kudivayisi yakho, njengekhibhodi noma inkinobho enkulu.</string>
+</resources>

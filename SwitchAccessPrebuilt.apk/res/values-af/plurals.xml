@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dots">
+        <item quantity="other">knoppies %s</item>
+        <item quantity="one">knoppie %s</item>
+    </plurals>
+    <plurals name="gestures_recorded_message">
+        <item quantity="other">%d gebare is opgeneem</item>
+        <item quantity="one">1 gebaar is opgeneem</item>
+    </plurals>
+    <plurals name="label_num_keys_assigned_format">
+        <item quantity="other">%d skakelaars is toegewys</item>
+        <item quantity="one">%d skakelaar is toegewys</item>
+    </plurals>
+    <plurals name="label_num_scanning_loops_format">
+        <item quantity="other">%d herhalings</item>
+        <item quantity="one">%d herhaling</item>
+    </plurals>
+    <plurals name="line_speed_summary_format">
+        <item quantity="other">%.2f cm per sekonde</item>
+        <item quantity="one">1 cm per sekonde</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nuwe kennisgewings</item>
+        <item quantity="one">%d nuwe kennisgewing</item>
+    </plurals>
+    <plurals name="time_delay_summary_format">
+        <item quantity="other">%.2f sekondes</item>
+        <item quantity="one">1 sekonde</item>
+    </plurals>
+</resources>

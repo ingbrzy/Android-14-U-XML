@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ndays">
+        <item quantity="other">%d күн</item>
+        <item quantity="one">1 күн</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%d саат</item>
+        <item quantity="one">1 саат</item>
+    </plurals>
+    <plurals name="Nminutes">
+        <item quantity="other">%d мүнөт</item>
+        <item quantity="one">1 мүнөт</item>
+    </plurals>
+    <plurals name="Nweeks">
+        <item quantity="other">%d апта</item>
+        <item quantity="one">1 апта</item>
+    </plurals>
+    <plurals name="a11y_filter_capacity">
+        <item quantity="other">Эң аз дегенде %1$d адамдык бөлмө</item>
+        <item quantity="one">Эң аз дегенде 1 адамдык бөлмө</item>
+    </plurals>
+    <plurals name="accessibility_find_time_custom_duration_hour_input">
+        <item quantity="other">%d саат</item>
+        <item quantity="one">%d саат</item>
+    </plurals>
+    <plurals name="accessibility_find_time_custom_duration_minute_input">
+        <item quantity="other">%d мүнөт</item>
+        <item quantity="one">%d мүнөт</item>
+    </plurals>
+    <plurals name="accessibility_has_time_proposals">
+        <item quantity="other">башка убакытты сунуштады</item>
+        <item quantity="one">башка убакытты сунуштады</item>
+    </plurals>
+    <plurals name="alternate_search_available_announce">
+        <item quantity="other">%d натыйжа табылды.</item>
+        <item quantity="one">%d натыйжа табылды.</item>
+    </plurals>
+    <plurals name="annually_frequency_text">
+        <item quantity="other">Ар %1$d %2$s сайын кайталансын</item>
+        <item quantity="one">Ар %1$d %2$s сайын кайталансын</item>
+    </plurals>
+    <plurals name="birthday_chip_title">
+        <item quantity="other">%d туулган күн</item>
+        <item quantity="one">Туулган күн</item>
+    </plurals>
+    <plurals name="calendar_daily_lower">
+        <item quantity="other">%d күн сайын</item>
+        <item quantity="one">күн сайын</item>
+    </plurals>
+    <plurals name="calendar_monthly_interval_lower">
+        <item quantity="other">%1$d ай сайын</item>
+        <item quantity="one">ай сайын</item>
+    </plurals>
+    <plurals name="calendar_weekly_lower">
+        <item quantity="other">%1$d апта сайын</item>
+        <item quantity="one">апта сайын</item>
+    </plurals>
+    <plurals name="calendar_yearly_interval_lower">
+        <item quantity="other">%1$d жыл сайын</item>
+        <item quantity="one">жыл сайын</item>
+    </plurals>
+    <plurals name="capacity_description">
+        <item quantity="other">%d киши</item>
+        <item quantity="one">бир киши</item>
+    </plurals>
+    <plurals name="count_duration_accessibility_description">
+        <item quantity="other">%d жолу кайталанып бүтөт</item>
+        <item quantity="one">Бир кайталанып бүтөт</item>
+    </plurals>
+    <plurals name="count_duration_label">
+        <item quantity="other">%d жолу кайталангандан кийин</item>
+        <item quantity="one">%d жолу кайталангандан кийин</item>
+    </plurals>
+    <plurals name="daily_frequency_text">
+        <item quantity="other">Ар %1$d %2$s сайын кайталансын</item>
+        <item quantity="one">Ар %1$d %2$s сайын кайталансын</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">Күн</item>
+        <item quantity="one">Күн</item>
+    </plurals>
+    <plurals name="days_before">
+        <item quantity="other">Күн калганда</item>
+        <item quantity="one">Күн калганда</item>
+    </plurals>
+    <plurals name="describe_attachments">
+        <item quantity="other">Тиркемелер: %1$d тиркеме</item>
+        <item quantity="one">Тиркемелер: %1$d тиркеме</item>
+    </plurals>
+    <plurals name="done_reminders_title">
+        <item quantity="other">%d эстеткич аткарылды</item>
+        <item quantity="one">%d эстеткич аткарылды</item>
+    </plurals>
+    <plurals name="end_by_count">
+        <item quantity="other">; %d жолу</item>
+        <item quantity="one">; бир жолкуга</item>
+    </plurals>
+    <plurals name="error_working_location_duration_too_long">
+        <item quantity="other">Иштеген жерлерин %1$d күндөн ашык коюуга болбойт.</item>
+        <item quantity="one">Иштеген жерлерин %1$d күндөн ашык коюуга болбойт.</item>
+    </plurals>
+    <plurals name="files_not_shared_dialog_body">
+        <item quantity="other">"Конокторуңуз Drive'дан кыстарылган файлдарды пайдалана алышпайт окшойт. Файлдарды Google Drive'дан ачып, башкалар менен бөлүшүңүз."</item>
+        <item quantity="one">"Конокторуңуз Drive'дан кыстарылган файлды пайдалана алышпайт окшойт. Файлды Google Drive'дан ачып, башкалар менен бөлүшүңүз."</item>
+    </plurals>
+    <plurals name="find_a_time_invisible_attendee">
+        <item quantity="other">дагы +%d</item>
+        <item quantity="one">дагы +%d</item>
+    </plurals>
+    <plurals name="find_time_duration_hour_label">
+        <item quantity="other">%d саат</item>
+        <item quantity="one">%d саат</item>
+    </plurals>
+    <plurals name="find_time_duration_minute_label">
+        <item quantity="other">%d мүнөт</item>
+        <item quantity="one">%d мүнөт</item>
+    </plurals>
+    <plurals name="fix_permissions_does_not_fix_everything_warning">
+        <item quantity="other">"Эскертүү: Айрым коноктор дагы эле бул файлдарды пайдалана алышпайт окшойт. Файлдарды Google Drive'да ачып, башкалар менен бөлүшүңүз."</item>
+        <item quantity="one">"Эскертүү: Айрым коноктор дагы эле бул файлды пайдалана алышпайт окшойт. Файлды Google Drive'да ачып, башкалар менен бөлүшүңүз."</item>
+    </plurals>
+    <plurals name="fix_permissions_outside_domain_warning_hedgehog">
+        <item quantity="other">"Төмөнкү коноктор менен бөлүшүп жатасыз:&lt;br>&lt;b>%1$s
+&lt;/b>&lt;br>Алар ушул файлдар таандык болгон Google Workspace уюмунун кызматкерлери эмес"</item>
+        <item quantity="one">Төмөнкү коноктор менен бөлүшүп жатасыз:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>Алар ушул файл таандык болгон Google Workspace уюмунун кызматкерлери эмес</item>
+    </plurals>
+    <plurals name="guest_count">
+        <item quantity="other">%d конок</item>
+        <item quantity="one">%d конок</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">Саат</item>
+        <item quantity="one">Саат</item>
+    </plurals>
+    <plurals name="hours_before">
+        <item quantity="other">Саат калганда</item>
+        <item quantity="one">Саат калганда</item>
+    </plurals>
+    <plurals name="ical_many_events_warning">
+        <item quantity="other">Ушуну менен %d иш-чара кошулуп, аны артка кайтарганга болбойт. Кошо бересизби?</item>
+        <item quantity="one">Ушуну менен %d иш-чара кошулуп, аны артка кайтарганга болбойт. Кошо бересизби?</item>
+    </plurals>
+    <plurals name="mark_reminders_done_title">
+        <item quantity="other">%d эстеткич аткарылды деп белгиленсинби?</item>
+        <item quantity="one">%d эстеткич аткарылды деп белгиленсинби?</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">Мүнөт</item>
+        <item quantity="one">Мүнөт</item>
+    </plurals>
+    <plurals name="minutes_before">
+        <item quantity="other">Мүнөт калганда</item>
+        <item quantity="one">Мүнөт калганда</item>
+    </plurals>
+    <plurals name="month_view_hidden_events">
+        <item quantity="other">дагы %d</item>
+        <item quantity="one">дагы %d</item>
+    </plurals>
+    <plurals name="monthly_frequency_text">
+        <item quantity="other">Ар %1$d %2$s сайын кайталансын</item>
+        <item quantity="one">Ар %1$d %2$s сайын кайталансын</item>
+    </plurals>
+    <plurals name="more_guests">
+        <item quantity="other">жана дагы %1$d</item>
+        <item quantity="one">жана дагы %1$d</item>
+    </plurals>
+    <plurals name="no_room_suggestions_title">
+        <item quantity="other">Бөлмө сунуштары жок %1$d конок</item>
+        <item quantity="one">Бөлмө сунуштары жок 1 конок</item>
+    </plurals>
+    <plurals name="num_rooms">
+        <item quantity="other">%1$d бөлмө</item>
+        <item quantity="one">%1$d бөлмө</item>
+    </plurals>
+    <plurals name="public_notification_text">
+        <item quantity="other">%1$d new notifications</item>
+        <item quantity="one">You have a notification</item>
+    </plurals>
+    <plurals name="recurrence_frequency_annually">
+        <item quantity="other">жыл</item>
+        <item quantity="one">жыл</item>
+    </plurals>
+    <plurals name="recurrence_frequency_daily">
+        <item quantity="other">күн</item>
+        <item quantity="one">күн</item>
+    </plurals>
+    <plurals name="recurrence_frequency_monthly">
+        <item quantity="other">ай</item>
+        <item quantity="one">ай</item>
+    </plurals>
+    <plurals name="recurrence_frequency_weekly">
+        <item quantity="other">апта</item>
+        <item quantity="one">апта</item>
+    </plurals>
+    <plurals name="reminder_bundle_description_prefix">
+        <item quantity="other">%d эстеткич</item>
+        <item quantity="one">%d эстеткич</item>
+    </plurals>
+    <plurals name="reminder_done_bundle_description_prefix">
+        <item quantity="other">%d эстеткич аткарылды:</item>
+        <item quantity="one">%d эстеткич аткарылды:</item>
+    </plurals>
+    <plurals name="reminders_marked_done">
+        <item quantity="other">%d эстеткич аткарылды деп белгиленди.</item>
+        <item quantity="one">%d эстеткич аткарылды деп белгиленди.</item>
+    </plurals>
+    <plurals name="reminders_migration_dialog_title">
+        <item quantity="other">%d эстеткичти жасалчу иштерге өзгөртүү</item>
+        <item quantity="one">%d эстеткичти жасалчу иш катары өзгөртүү</item>
+    </plurals>
+    <plurals name="reminders_migration_force_completed_toast">
+        <item quantity="other">Эстеткичтер жасалчу иш катары өзгөртүлдү. %2$s аккаунтундагы %1$d эстеткич жасалчу иш катары өзгөртүлдү.</item>
+        <item quantity="one">Эстеткичтер жасалчу иш катары өзгөртүлдү. %2$s аккаунтундагы %1$d эстеткич жасалчу иш катары өзгөртүлдү.</item>
+    </plurals>
+    <plurals name="reminders_migration_keep_only_dialog_title">
+        <item quantity="other">%d эстеткичиңиз Google Keep кызматында көрсөтүлөт</item>
+        <item quantity="one">%d эстеткичиңиз Google Keep кызматында көрсөтүлөт</item>
+    </plurals>
+    <plurals name="reminders_migration_keep_only_reminders_dialog_description_with_account">
+        <item quantity="other">%s катары бардык эстеткичтериңиз Google Keep кызматында түзүлгөн жана аларды жасалчу иштерге өзгөртүүгө болбойт. Алар Жылнаамадан өчүрүлөт, бирок аларды Keep кызматында башкара бересиз.</item>
+        <item quantity="one">%s катары эстеткичиңиз Google Keep кызматында түзүлгөн жана аны жасалчу ишке өзгөртүүгө болбойт. Ал Жылнаамадан өчүрүлөт, бирок аны Keep кызматында башкара бересиз.</item>
+    </plurals>
+    <plurals name="reminders_migration_partial_failure_some_remaining_toast">
+        <item quantity="other">%2$s аккаунтундагы %1$d эстеткич гана жасалчу иш катары өзгөртүлдү. Айрым эстеткичтер өзгөртүлгөн жок.</item>
+        <item quantity="one">%2$s аккаунтундагы %1$d эстеткич гана жасалчу иш катары өзгөртүлдү. Айрым эстеткичтер өзгөртүлгөн жок.</item>
+    </plurals>
+    <plurals name="reminders_migration_tooltip_remark">
+        <item quantity="other">%d эстеткичиңиз жасалчу иш катары өзгөртүлдү.</item>
+        <item quantity="one">%d эстеткичиңиз жасалчу иш катары өзгөртүлдү.</item>
+    </plurals>
+    <plurals name="reminders_migration_tooltip_with_keep_reminders_remark">
+        <item quantity="other">%d эстеткич жасалчу иш катары өзгөртүлдү. Google Keep кызматында түзүлгөн эстеткичтер өзгөргөн жок. Алар Жылнаамадан өчүрүлөт, бирок аларды Keep кызматында башкара бересиз.</item>
+        <item quantity="one">%d эстеткич жасалчу иш катары өзгөртүлдү. Google Keep кызматында түзүлгөн эстеткичтер өзгөргөн жок. Алар Жылнаамадан өчүрүлөт, бирок аларды Keep кызматында башкара бересиз.</item>
+    </plurals>
+    <plurals name="reminders_migration_voluntary_completed_keep_only_toast">
+        <item quantity="other">%2$s аккаунтундагы %1$d эстеткич Жылнаамадан өчүрүлдү, бирок Keep кызматында сактала берет</item>
+        <item quantity="one">%2$s аккаунтундагы %1$d эстеткич Жылнаамадан өчүрүлдү, бирок Keep кызматында сактала берет</item>
+    </plurals>
+    <plurals name="reminders_migration_voluntary_completed_toast">
+        <item quantity="other">%2$s аккаунтундагы %1$d эстеткич жасалчу иш катары өзгөртүлдү</item>
+        <item quantity="one">%2$s аккаунтундагы %1$d эстеткич жасалчу иш катары өзгөртүлдү</item>
+    </plurals>
+    <plurals name="reminders_title">
+        <item quantity="other">%d эстеткич</item>
+        <item quantity="one">%d эстеткич</item>
+    </plurals>
+    <plurals name="response_count_accepted">
+        <item quantity="other">%s \"ооба\"</item>
+        <item quantity="one">%s \"ооба\"</item>
+    </plurals>
+    <plurals name="response_count_accepted_in_a_meeting_room">
+        <item quantity="other">Жолугушуу бөлмөсүндө %s катышуучу</item>
+        <item quantity="one">Жолугушуу бөлмөсүндө %s катышуучу</item>
+    </plurals>
+    <plurals name="response_count_accepted_virtually">
+        <item quantity="other">Виртуалдык бөлмөдө %s катышуучу</item>
+        <item quantity="one">Виртуалдык бөлмөдө %s катышуучу</item>
+    </plurals>
+    <plurals name="response_count_declined">
+        <item quantity="other">%s \"жок\"</item>
+        <item quantity="one">%s \"жок\"</item>
+    </plurals>
+    <plurals name="response_count_need_action">
+        <item quantity="other">%s жооп күтүлүүдө</item>
+        <item quantity="one">%s жооп күтүлүүдө</item>
+    </plurals>
+    <plurals name="response_count_tentative">
+        <item quantity="other">%s \"мүмкүн\"</item>
+        <item quantity="one">%s \"мүмкүн\"</item>
+    </plurals>
+    <plurals name="room_capacity_description">
+        <item quantity="other">%1$d адам үчүн конференц бөлмөсү</item>
+        <item quantity="one">Бир адам үчүн конференц бөлмөсү</item>
+    </plurals>
+    <plurals name="short_invisible_all_day_events">
+        <item quantity="other">+%d</item>
+        <item quantity="one">+%d</item>
+    </plurals>
+    <plurals name="smartmail_seats">
+        <item quantity="other">%s-орун</item>
+        <item quantity="one">%s-орун</item>
+    </plurals>
+    <plurals name="smartmail_time_day_offset">
+        <item quantity="other">%d күн</item>
+        <item quantity="one">%d күн</item>
+    </plurals>
+    <plurals name="survey_star_rating">
+        <item quantity="other">%2$d ичинен %1$d жылдызча</item>
+        <item quantity="one">%2$d ичинен %1$d жылдызча</item>
+    </plurals>
+    <plurals name="tasks_rollover_chip_title">
+        <item quantity="other">%d аткарылбаган иш</item>
+        <item quantity="one">%d аткарылбаган иш</item>
+    </plurals>
+    <plurals name="tasks_rollover_dialog_description">
+        <item quantity="other">Акыркы %d күндүн ичинде</item>
+        <item quantity="one">Акыркы %d күндүн ичинде</item>
+    </plurals>
+    <plurals name="weekly_by_day_lower">
+        <item quantity="other">%1$d апта сайын %2$s күнү</item>
+        <item quantity="one">aпта сайын %2$s күнү</item>
+    </plurals>
+    <plurals name="weekly_frequency_text">
+        <item quantity="other">Ар %1$d %2$s сайын кайталансын</item>
+        <item quantity="one">Ар %1$d %2$s сайын кайталансын</item>
+    </plurals>
+    <plurals name="weeks">
+        <item quantity="other">Апта</item>
+        <item quantity="one">Апта</item>
+    </plurals>
+    <plurals name="weeks_before">
+        <item quantity="other">Апта калганда</item>
+        <item quantity="one">Апта калганда</item>
+    </plurals>
+</resources>

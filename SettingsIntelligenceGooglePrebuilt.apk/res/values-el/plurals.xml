@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="other">%d ημ. πριν</item>
+        <item quantity="one">%d ημ. πριν</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="other">%d λ. πριν</item>
+        <item quantity="one">%d λ. πριν</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="other">%d έτη πριν</item>
+        <item quantity="one">%d έτος πριν</item>
+    </plurals>
+    <plurals name="accessibility_other_devices">
+        <item quantity="other">%d άλλες συσκευές</item>
+        <item quantity="one">%d άλλη συσκευή</item>
+    </plurals>
+    <plurals name="routines_settings_summary">
+        <item quantity="other">%d κανόνες</item>
+        <item quantity="one">1 κανόνας</item>
+    </plurals>
+</resources>

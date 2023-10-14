@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="air_gestures_opt_in_animation_content_description">To perform a quick gesture, sweep your hand above the phone. Make sure that your hand passes the edges of the phone. To skip media, move your hand left or right. To silence interruptions, move your hand in any direction.</string>
+    <string name="air_gestures_opt_in_description">Skip songs and silence interruptions with a simple gesture above the phone</string>
+    <string name="air_gestures_opt_in_info_text">Pixel uses Motion Sense to detect nearby movement. It does not use your camera, mic or location.</string>
+    <string name="air_gestures_opt_in_skip_button">Skip</string>
+    <string name="air_gestures_opt_in_title">Quick Gestures</string>
+    <string name="air_gestures_opt_in_turn_on_button">Turn on</string>
+    <string name="air_gestures_opt_with_tap_in_description">Skip or pause songs and silence interruptions with simple gestures over the phone</string>
+    <string name="air_gestures_opt_with_tap_in_title">Try Quick Gestures</string>
+    <string name="always_on_display_opt_in_description">Time, notification icons and other info will appear on your lock screen</string>
+    <string name="always_on_display_opt_in_no_thanks_button">No, thanks</string>
+    <string name="always_on_display_opt_in_title">Always-on display</string>
+    <string name="always_on_display_opt_in_turn_on_button">Turn on</string>
+    <string name="always_on_display_suggestion_item_title">Set up always-on display</string>
+    <string name="bc_welcome_message">Welcome to your Pixel</string>
+    <string name="bc_welcome_start_button_label">Get started</string>
+    <string name="call_notification_answer_action">Answer</string>
+    <string name="call_notification_answer_video_action">Video</string>
+    <string name="call_notification_decline_action">Decline</string>
+    <string name="call_notification_hang_up_action">Hang up</string>
+    <string name="call_notification_incoming_text">Incoming call</string>
+    <string name="call_notification_ongoing_text">On-going call</string>
+    <string name="call_notification_screening_text">Screening an incoming call</string>
+    <string name="cancel_button_label">Cancel</string>
+    <string name="closing_message">For support, updates and more, go to <b>Settings</b> > <b>Support</b>.</string>
+    <string name="closing_offer_not_saved_dialog_message">Connect to the Internet and try again</string>
+    <string name="closing_offer_not_saved_dialog_title">Can’t save email preferences</string>
+    <string name="closing_offer_not_saved_dialog_wifi_settings_btn">Wi‑Fi settings</string>
+    <string name="continue_for_a11y">Continue touching the screen until you hear a beep to enable Accessibility mode.</string>
+    <string name="deferred_setup_wizard_title">Finish setting up Pixel</string>
+    <string name="email_opt_in_button_label">Yes, I’m in</string>
+    <string name="email_opt_in_cancel_button_label">No, thanks</string>
+    <string name="emergency_dial">Emergency call</string>
+    <string name="enabled_a11y">Accessibility mode enabled.</string>
+    <string name="next_button_label">Next</string>
+    <string name="pixel_email_closing_title">Stay up to date</string>
+    <string name="pixel_email_opt_in_summary">"Stay up to date on Google's devices and services, related features like Google Assistant and special offers. Plus, get invitations to help improve Google hardware products and services. "<a href="https://support.google.com/pixelphone?p=email_opt_in">Learn about email updates from Google hardware</a></string>
+    <string name="pixel_tos_details">All disputes regarding your Google device will be resolved through <b>binding arbitration</b> on an individual, non-class basis, as described in the <a href="http://g.co/pixelarbitration">Google Device Arbitration Agreement</a>, unless you opt out by following the instructions in that Agreement.</string>
+    <string name="pixel_tos_message">"By clicking 'I accept', you agree to the "<a href="https://policies.google.com/terms/embedded">Google Terms of Service</a> and the <a href="http://g.co/pixelarbitration">Google Device Arbitration Agreement</a>".
+Note: The "<a href="https://policies.google.com/privacy/embedded">Google Privacy Policy</a> describes how your data is handled.</string>
+    <string name="pixel_tos_next_button">I accept</string>
+    <string name="pixel_tos_title">Additional legal terms</string>
+    <string name="portal_setup_optional_actions_title">{DEVICE_TYPE,select, PHONE{Customise your Pixel}TABLET{Customise your tablet}other{Customise your device}}</string>
+    <string name="portal_setup_progress_start_description">{DEVICE_TYPE,select, PHONE{You can continue using your Pixel}TABLET{You can continue using your tablet}other{You can continue using your device}}</string>
+    <string name="portal_setup_title">{DEVICE_TYPE,select, PHONE{Make the most of your Pixel}TABLET{Make the most of your tablet}other{Make the most of your device}}</string>
+    <string name="portal_setup_title_with_username">{DEVICE_TYPE,select, PHONE{{0}, make the most of your Pixel}TABLET{{0}, make the most of your tablet}other{{0}, make the most of your device}}</string>
+    <string name="qr_provision_toast">{count,plural, =1{# more tap to start QR code setup}other{# more taps to start QR code setup}}</string>
+    <string name="qs_instruction_option_android">Pixel or Android device</string>
+    <string name="qs_qr_finder_style">circle</string>
+    <string name="qs_qr_module_style">dot</string>
+    <string name="search_menu_title">Search</string>
+    <string name="setup_wizard_title">Pixel Setup</string>
+    <string name="sim_missing_content_description">"The SIM card tray is located on the top-left edge of your phone.
+
+Use the SIM ejection tool that comes with your phone to eject the tray and insert a nano SIM card.
+
+Once you insert your SIM card, it may take a few seconds to activate."</string>
+    <string name="skip_button_label">Skip</string>
+    <string name="skip_toast">Setup Wizard skipped</string>
+    <string name="smart_always_on_display_opt_in_description">When you’re nearby, the display turns on. Face Unlock also recognises you faster as soon as you reach for your phone.</string>
+    <string name="smart_always_on_display_opt_in_info_text">Pixel uses Motion Sense to detect nearby movement. It does not use your camera, mic or location.</string>
+    <string name="smart_always_on_display_opt_in_skip_button">Skip</string>
+    <string name="smart_always_on_display_opt_in_title">Make your lock screen smarter</string>
+    <string name="smart_always_on_display_opt_in_turn_on_button">Turn on</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="terminate_toast">"Setup Wizard terminated
+Device not provisioned"</string>
+    <string name="wait_msg">Just a sec…</string>
+    <string name="welcome_accessibility_button">Vision settings</string>
+    <string name="welcome_assistive_button">Accessibility</string>
+    <string name="welcome_battery_warning_dialog_message">"You have 20% or less battery remaining.
+Charge your battery to complete setup."</string>
+    <string name="welcome_battery_warning_dialog_title">Low battery</string>
+    <string name="welcome_language_picker_content_description">Language: %s</string>
+    <string name="welcome_language_picker_dialog_title">Choose your language</string>
+    <string name="welcome_message">Welcome to your ^1</string>
+    <string name="welcome_voice_access_button">Set up with your voice</string>
+</resources>

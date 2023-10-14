@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dots">
+        <item quantity="other">punkterna %s</item>
+        <item quantity="one">punkt %s</item>
+    </plurals>
+    <plurals name="gestures_recorded_message">
+        <item quantity="other">%d rörelser har registrerats</item>
+        <item quantity="one">1 rörelse har registrerats</item>
+    </plurals>
+    <plurals name="label_num_keys_assigned_format">
+        <item quantity="other">%d brytare tilldelade</item>
+        <item quantity="one">%d brytare tilldelad</item>
+    </plurals>
+    <plurals name="label_num_scanning_loops_format">
+        <item quantity="other">%d upprepningar</item>
+        <item quantity="one">%d upprepning</item>
+    </plurals>
+    <plurals name="line_speed_summary_format">
+        <item quantity="other">%.2f cm i sekunden</item>
+        <item quantity="one">1 cm i sekunden</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nya aviseringar</item>
+        <item quantity="one">%d ny avisering</item>
+    </plurals>
+    <plurals name="time_delay_summary_format">
+        <item quantity="other">%.2f sekunder</item>
+        <item quantity="one">1 sekund</item>
+    </plurals>
+</resources>

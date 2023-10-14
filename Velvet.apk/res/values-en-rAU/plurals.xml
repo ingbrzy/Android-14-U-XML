@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="other">%d days ago</item>
+        <item quantity="one">%d day ago</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="other">%d min ago</item>
+        <item quantity="one">%d min ago</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="other">%d yr ago</item>
+        <item quantity="one">%d yr ago</item>
+    </plurals>
+    <plurals name="peoplekit_chips_copied_recipients">
+        <item quantity="other">Copied %d recipients</item>
+        <item quantity="one">Copied %d recipient</item>
+    </plurals>
+    <plurals name="public_notification_text">
+        <item quantity="other">%1$d new notifications</item>
+        <item quantity="one">You have a notification</item>
+    </plurals>
+    <plurals name="share_eta_button">
+        <item quantity="other">%d mins</item>
+        <item quantity="one">%d min</item>
+    </plurals>
+    <plurals name="share_eta_message">
+        <item quantity="other">Arriving in about %d minutes.</item>
+        <item quantity="one">Arriving in %d minute.</item>
+    </plurals>
+    <plurals name="share_imminent_eta_message">
+        <item quantity="other">Arriving in %d minutes.</item>
+        <item quantity="one">Arriving in %d minute.</item>
+    </plurals>
+</resources>

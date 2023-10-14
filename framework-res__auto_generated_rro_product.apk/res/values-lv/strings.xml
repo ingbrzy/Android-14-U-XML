@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_error_bad_calibration">Nevar izmantot pirksta nospieduma sensoru. Apmeklējiet remonta pakalpojumu sniedzēju vai vietni g.co/pixel/fingerprintunlock</string>
+    <string name="fingerprint_recalibrate_notification_content">Apmeklējiet remonta pakalpojumu sniedzēju vai vietni g.co/pixel/fingerprintunlock</string>
+    <string name="battery_saver_description_with_learn_more">"Lai paildzinātu akumulatora darbību, akumulatora enerģijas taupīšanas režīmā tiek veiktas tālāk norādītās darbības.
+
+• Tiek ieslēgts tumšais motīvs.
+• Tiek izslēgtas vai ierobežotas darbības fonā, noteikti vizuālie efekti un citas funkcijas, piemēram, “Ok Google”.
+• Tiek optimizēti jūsu tīkla savienojumi.
+
+"<annotation id="url">Uzzināt vairāk</annotation></string>
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_install_failed_multi_app_desc">
+        <item quantity="other">დაყენების დასრულება შეუძლებელია, ვინაიდან %1$d სავალდებულო აპის ინსტალაცია ვერ მოხერხდა. გთხოვთ, მიმართოთ უშუალოდ თქვენი სისტემის ადმინისტრატორს.</item>
+        <item quantity="one">დაყენების დასრულება შეუძლებელია, ვინაიდან %1$d სავალდებულო აპის ინსტალაცია ვერ მოხერხდა. გთხოვთ, მიმართოთ უშუალოდ თქვენი სისტემის ადმინისტრატორს.</item>
+    </plurals>
+    <plurals name="app_install_failure_title">
+        <item quantity="other">აპების ინსტალაცია ვერ ხერხდება</item>
+        <item quantity="one">აპის ინსტალაცია ვერ ხერხდება</item>
+    </plurals>
+    <plurals name="app_install_progress_desc">
+        <item quantity="other">ინსტალირებულია %1$d აპი %2$d-დან</item>
+        <item quantity="one">ინსტალირებულია %1$d აპი %2$d-დან</item>
+    </plurals>
+    <plurals name="app_uninstall_button">
+        <item quantity="other">აპების დეინსტალაცია</item>
+        <item quantity="one">აპის დეინსტალაცია</item>
+    </plurals>
+    <plurals name="days_left_message">
+        <item quantity="other">დარჩა &lt;annotation id="numeric_time_left">^1&lt;/annotation> დღე</item>
+        <item quantity="one">დარჩა &lt;annotation id="numeric_time_left">^1&lt;/annotation> დღე</item>
+    </plurals>
+    <plurals name="hours_left_message">
+        <item quantity="other">დარჩა &lt;annotation id="numeric_time_left">^1&lt;/annotation> საათი</item>
+        <item quantity="one">დარჩა &lt;annotation id="numeric_time_left">^1&lt;/annotation> საათი</item>
+    </plurals>
+    <plurals name="number_of_additional_apps">
+        <item quantity="other">დამატებითი აპები (%1$d)</item>
+        <item quantity="one">%1$d დამატებითი აპი</item>
+    </plurals>
+    <plurals name="number_of_required_apps">
+        <item quantity="other">სავალდებულო აპები (%1$d)</item>
+        <item quantity="one">%1$d საჭირო აპი</item>
+    </plurals>
+    <plurals name="policy_apps_list_summary">
+        <item quantity="other">სამსახურის %d აპის დეინსტალაცია ვერ მოხერხდა</item>
+        <item quantity="one">სამსახურის %d აპის დეინსტალაცია ვერ მოხერხდა</item>
+    </plurals>
+    <plurals name="preinstalled_apps">
+        <item quantity="other">ინსტალირებულია %1$d აპი %2$d-დან</item>
+        <item quantity="one">ინსტალირებულია %1$d აპი %2$d-დან</item>
+    </plurals>
+    <plurals name="readable_name_applications">
+        <item quantity="other">ხელმისაწვდომია %1$d აპი (%2$d ინსტალირებული, %3$d გათიშული)</item>
+        <item quantity="one">ხელმისაწვდომია %1$d აპი (%2$d ინსტალირებული, %3$d გათიშული)</item>
+    </plurals>
+</resources>

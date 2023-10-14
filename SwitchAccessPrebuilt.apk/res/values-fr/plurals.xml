@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dots">
+        <item quantity="other">les points %s</item>
+        <item quantity="one">le point %s</item>
+    </plurals>
+    <plurals name="gestures_recorded_message">
+        <item quantity="other">%d gestes enregistrés</item>
+        <item quantity="one">%d geste enregistré</item>
+    </plurals>
+    <plurals name="label_num_keys_assigned_format">
+        <item quantity="other">%d contacteurs attribués</item>
+        <item quantity="one">%d contacteur attribué</item>
+    </plurals>
+    <plurals name="label_num_scanning_loops_format">
+        <item quantity="other">%d boucles</item>
+        <item quantity="one">%d boucle</item>
+    </plurals>
+    <plurals name="line_speed_summary_format">
+        <item quantity="other">%.2f cm par seconde</item>
+        <item quantity="one">%.2f cm par seconde</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nouvelles notifications</item>
+        <item quantity="one">%d nouvelle notification</item>
+    </plurals>
+    <plurals name="time_delay_summary_format">
+        <item quantity="other">%.2f secondes</item>
+        <item quantity="one">%.2f seconde</item>
+    </plurals>
+</resources>

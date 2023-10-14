@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Servicios de conectividad de Google</string>
+    <string name="notification_channel_background_services">Servicios en segundo plano</string>
+    <string name="notification_channel_feedback">Solicitudes de comentarios</string>
+</resources>

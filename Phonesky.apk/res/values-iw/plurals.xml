@@ -1,0 +1,634 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120000">
+        <item quantity="other">בהמתנה לרשת Wi-Fi</item>
+        <item quantity="one">בהמתנה לרשת Wi-Fi</item>
+        <item quantity="two">בהמתנה לרשת Wi-Fi</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120002">
+        <item quantity="other">במכשיר הזה (%d אפליקציות)</item>
+        <item quantity="one">במכשיר הזה (%d אפליקציות)</item>
+        <item quantity="two">במכשיר הזה (%d אפליקציות)</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120003">
+        <item quantity="other">"פיצ'רים עבור %1$s"</item>
+        <item quantity="one">"פיצ'רים עבור %1$s"</item>
+        <item quantity="two">"פיצ'רים עבור %1$s"</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120004">
+        <item quantity="other">ההתקנה בוצעה לפני %d ימים</item>
+        <item quantity="one">ההתקנה בוצעה לפני %d ימים</item>
+        <item quantity="two">ההתקנה בוצעה לפני יומיים (%d)</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120005">
+        <item quantity="other">ההתקנה בוצעה לפני %d שעות</item>
+        <item quantity="one">ההתקנה בוצעה לפני %d שעות</item>
+        <item quantity="two">ההתקנה בוצעה לפני שעתיים (%d)</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120006">
+        <item quantity="other">ההתקנה בוצעה לפני %d דקות</item>
+        <item quantity="one">ההתקנה בוצעה לפני %d דקות</item>
+        <item quantity="two">ההתקנה בוצעה לפני %d דקות</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120007">
+        <item quantity="other">נבחרו %1$d פריטים</item>
+        <item quantity="one">נבחרו %1$d פריטים</item>
+        <item quantity="two">נבחרו %1$d פריטים</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120008">
+        <item quantity="other">עודכנו לפני %d ימים</item>
+        <item quantity="one">עודכנו לפני %d ימים</item>
+        <item quantity="two">עודכנו לפני יומיים (%d)</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120009">
+        <item quantity="other">עודכנו לפני %d שעות</item>
+        <item quantity="one">עודכנו לפני %d שעות</item>
+        <item quantity="two">עודכנו לפני שעתיים (%d)</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000a">
+        <item quantity="other">עודכנו לפני %d דקות</item>
+        <item quantity="one">עודכנו לפני %d דקות</item>
+        <item quantity="two">עודכנו לפני %d דקות</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000b">
+        <item quantity="other">שימוש אחרון לפני %d ימים</item>
+        <item quantity="one">שימוש אחרון לפני %d ימים</item>
+        <item quantity="two">שימוש אחרון לפני יומיים (%d)</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000c">
+        <item quantity="other">שימוש אחרון לפני %d שעות</item>
+        <item quantity="one">שימוש אחרון לפני %d שעות</item>
+        <item quantity="two">שימוש אחרון לפני שעתיים (%d)</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000d">
+        <item quantity="other">שימוש אחרון לפני %d דקות</item>
+        <item quantity="one">שימוש אחרון לפני %d דקות</item>
+        <item quantity="two">שימוש אחרון לפני %d דקות</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000f">
+        <item quantity="other">האפליקציות נסרקו לפני %d ימים</item>
+        <item quantity="one">האפליקציות נסרקו לפני %d ימים</item>
+        <item quantity="two">האפליקציות נסרקו לפני יומיים (%d)</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120010">
+        <item quantity="other">האפליקציות נסרקו לפני %d שעות</item>
+        <item quantity="one">האפליקציות נסרקו לפני %d שעות</item>
+        <item quantity="two">האפליקציות נסרקו לפני שעתיים (%d)</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120011">
+        <item quantity="other">האפליקציות נסרקו לפני %d דקות</item>
+        <item quantity="one">האפליקציות נסרקו לפני %d דקות</item>
+        <item quantity="two">האפליקציות נסרקו לפני %d דקות</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120014">
+        <item quantity="other">%1$d ביקורות</item>
+        <item quantity="one">%1$d ביקורות</item>
+        <item quantity="two">%1$d ביקורות</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120015">
+        <item quantity="other">%1$d ביקורות לדירוג כוכב %2$d</item>
+        <item quantity="one">%1$d ביקורות לדירוג כוכב %2$d</item>
+        <item quantity="two">%1$d ביקורות לדירוג כוכב %2$d</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120016">
+        <item quantity="other">התקנה ב-%1$d מכשירים.</item>
+        <item quantity="one">התקנה ב-%1$d מכשירים.</item>
+        <item quantity="two">התקנה ב-%1$d מכשירים.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120017">
+        <item quantity="other">התקנה ב-%1$d מכשירים. מכשירים נוספים זמינים.</item>
+        <item quantity="one">התקנה ב-%1$d מכשירים. מכשירים נוספים זמינים.</item>
+        <item quantity="two">התקנה ב-%1$d מכשירים. מכשירים נוספים זמינים.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120018">
+        <item quantity="other">האפליקציה תותקן בקרוב ב-%1$d המכשירים שלך.</item>
+        <item quantity="one">האפליקציה תותקן בקרוב ב-%1$d המכשירים שלך.</item>
+        <item quantity="two">האפליקציה תותקן בקרוב ב-%1$d המכשירים שלך.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120019">
+        <item quantity="other">עוד %1$d זמינים</item>
+        <item quantity="one">עוד %1$d זמינים</item>
+        <item quantity="two">עוד %1$d זמינים</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001a">
+        <item quantity="other">עוד %1$d פריטים זמינים לרכישה</item>
+        <item quantity="one">עוד %1$d פריטים זמינים לרכישה</item>
+        <item quantity="two">עוד %1$d פריטים זמינים לרכישה</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001b">
+        <item quantity="other">%1$d ימים</item>
+        <item quantity="one">%1$d ימים</item>
+        <item quantity="two">%1$d ימים</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001c">
+        <item quantity="other">דירוג ממוצע של %1$s כוכבים מ-%2$s ביקורות</item>
+        <item quantity="one">דירוג ממוצע של %1$s כוכבים מ-%2$s ביקורות</item>
+        <item quantity="two">דירוג ממוצע של %1$s כוכבים מ-%2$s ביקורות</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001d">
+        <item quantity="other">%s ביקורות</item>
+        <item quantity="one">%s ביקורות</item>
+        <item quantity="two">%s ביקורות</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001e">
+        <item quantity="other">בעוד %1$d צעדים התואר שלך יהיה מפתח/ת.</item>
+        <item quantity="one">בעוד %1$d צעדים התואר שלך יהיה מפתח/ת.</item>
+        <item quantity="two">בעוד %1$d צעדים התואר שלך יהיה מפתח/ת.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001f">
+        <item quantity="other">מכוניות</item>
+        <item quantity="one">מכוניות</item>
+        <item quantity="two">מכוניות</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120020">
+        <item quantity="other">מכשירי Chromebook</item>
+        <item quantity="one">מכשירי Chromebook</item>
+        <item quantity="two">מכשירי Chromebook</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120021">
+        <item quantity="other">מכשירים מתקפלים</item>
+        <item quantity="one">מכשירים מתקפלים</item>
+        <item quantity="two">מכשירים מתקפלים</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120022">
+        <item quantity="other">טלפונים</item>
+        <item quantity="one">טלפונים</item>
+        <item quantity="two">טלפונים</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120023">
+        <item quantity="other">טאבלטים</item>
+        <item quantity="one">טאבלטים</item>
+        <item quantity="two">טאבלטים</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120024">
+        <item quantity="other">טלוויזיות</item>
+        <item quantity="one">טלוויזיות</item>
+        <item quantity="two">טלוויזיות</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120025">
+        <item quantity="other">מכשירים</item>
+        <item quantity="one">מכשירים</item>
+        <item quantity="two">מכשירים</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120026">
+        <item quantity="other">שעונים</item>
+        <item quantity="one">שעונים</item>
+        <item quantity="two">שעונים</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120027">
+        <item quantity="other">%1$d נקודות Play זמינות.</item>
+        <item quantity="one">%1$d נקודות Play זמינות.</item>
+        <item quantity="two">%1$d נקודות Play זמינות.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120028">
+        <item quantity="other">%1$d שעות</item>
+        <item quantity="one">%1$d שעות</item>
+        <item quantity="two">%1$d שעות</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120029">
+        <item quantity="other">נותרו %1$d שעות</item>
+        <item quantity="one">נותרו %1$d שעות</item>
+        <item quantity="two">נותרו %1$d שעות</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002a">
+        <item quantity="other">מתבצעת התקנה של %1$d אפליקציות…</item>
+        <item quantity="one">מתבצעת התקנה של %1$d אפליקציות…</item>
+        <item quantity="two">מתבצעת התקנה של %1$d אפליקציות…</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002b">
+        <item quantity="other">התקנות מושהות</item>
+        <item quantity="one">התקנות מושהות</item>
+        <item quantity="two">התקנות מושהות</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002c">
+        <item quantity="other">יותקנו %1$d אפליקציות</item>
+        <item quantity="one">יותקנו %1$d אפליקציות</item>
+        <item quantity="two">יותקנו %1$d אפליקציות</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002d">
+        <item quantity="other">עודכנו לאחרונה לפני %d ימים</item>
+        <item quantity="one">עודכנו לאחרונה לפני %d ימים</item>
+        <item quantity="two">עודכנו לאחרונה לפני יומיים (%d)</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002e">
+        <item quantity="other">עודכנו לאחרונה לפני %d שעות</item>
+        <item quantity="one">עודכנו לאחרונה לפני %d שעות</item>
+        <item quantity="two">עודכנו לאחרונה לפני שעתיים (%d)</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002f">
+        <item quantity="other">עודכנו לאחרונה לפני %d דקות</item>
+        <item quantity="one">עודכנו לאחרונה לפני %d דקות</item>
+        <item quantity="two">עודכנו לאחרונה לפני %d דקות</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120033">
+        <item quantity="other">לפני %1$d שנים</item>
+        <item quantity="one">לפני %1$d שנים</item>
+        <item quantity="two">לפני שנתיים (%1$d)</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120034">
+        <item quantity="other">%1$d דקות</item>
+        <item quantity="one">%1$d דקות</item>
+        <item quantity="two">%1$d דקות</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120035">
+        <item quantity="other">נותרו %1$d דקות</item>
+        <item quantity="one">נותרו %1$d דקות</item>
+        <item quantity="two">נותרו %1$d דקות</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120037">
+        <item quantity="other">נבחרו %1$d אפליקציות</item>
+        <item quantity="one">%1$d selected</item>
+        <item quantity="two">נבחרו %1$d אפליקציות</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120038">
+        <item quantity="other">%1$d אפליקציות יועברו לארכיון</item>
+        <item quantity="one">%1$d אפליקציות יועברו לארכיון</item>
+        <item quantity="two">%1$d אפליקציות יועברו לארכיון</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120039">
+        <item quantity="other">להסיר את האפליקציות שבחרת?</item>
+        <item quantity="one">להסיר את האפליקציות שבחרת?</item>
+        <item quantity="two">להסיר את האפליקציות שבחרת?</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12003a">
+        <item quantity="other">%1$d אפליקציות הוסרו</item>
+        <item quantity="one">%1$d אפליקציות הוסרו</item>
+        <item quantity="two">%1$d אפליקציות הוסרו</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12003d">
+        <item quantity="other">%1$d installs pending</item>
+        <item quantity="one">%1$d install pending</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12003e">
+        <item quantity="other">%1$d installs in progress</item>
+        <item quantity="one">%1$d install in progress</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120040">
+        <item quantity="other">%1$d updates pending</item>
+        <item quantity="one">%1$d update pending</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120041">
+        <item quantity="other">%1$d updates in progress</item>
+        <item quantity="one">%1$d update in progress</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120042">
+        <item quantity="other">הותקנו %1$d אפליקציות</item>
+        <item quantity="one">הותקנו %1$d אפליקציות</item>
+        <item quantity="two">הותקנו %1$d אפליקציות</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120044">
+        <item quantity="other">פורסם לפני %1$d שעות</item>
+        <item quantity="one">פורסם לפני %1$d שעות</item>
+        <item quantity="two">פורסם לפני שעתיים (%1$d)</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120045">
+        <item quantity="other">פורסם לפני %1$d ימים</item>
+        <item quantity="one">פורסם לפני %1$d ימים</item>
+        <item quantity="two">פורסם לפני יומיים (%1$d)</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120046">
+        <item quantity="other">הוסרו אפליקציות</item>
+        <item quantity="one">הוסרו אפליקציות</item>
+        <item quantity="two">הוסרו אפליקציות</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120047">
+        <item quantity="other">%1$d עדכונים זקוקים לאישור</item>
+        <item quantity="one">%1$d עדכונים זקוקים לאישור</item>
+        <item quantity="two">%1$d עדכונים זקוקים לאישור</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120048">
+        <item quantity="other">%1$d עדכונים חדשים</item>
+        <item quantity="one">%1$d עדכונים חדשים</item>
+        <item quantity="two">%1$d עדכונים חדשים</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120049">
+        <item quantity="other">%1$d עדכונים זמינים</item>
+        <item quantity="one">%1$d עדכונים זמינים</item>
+        <item quantity="two">%1$d עדכונים זמינים</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004a">
+        <item quantity="other">עדכן הכל</item>
+        <item quantity="one">עדכן הכל</item>
+        <item quantity="two">עדכן הכל</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004b">
+        <item quantity="other">%1$d אפליקציות עודכנו</item>
+        <item quantity="one">%1$d אפליקציות עודכנו</item>
+        <item quantity="two">%1$d אפליקציות עודכנו</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004c">
+        <item quantity="other">יסתיים בעוד %1$d שעות</item>
+        <item quantity="one">יסתיים בעוד %1$d שעות</item>
+        <item quantity="two">יסתיים בעוד שעתיים (%1$d)</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004d">
+        <item quantity="other">יסתיים בעוד %1$d ימים</item>
+        <item quantity="one">יסתיים בעוד %1$d ימים</item>
+        <item quantity="two">יסתיים בעוד יומיים (%1$d)</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004e">
+        <item quantity="other">%1$d דקות</item>
+        <item quantity="one">%1$d דקות</item>
+        <item quantity="two">%1$d דקות</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004f">
+        <item quantity="other">%1$d שניות</item>
+        <item quantity="one">%1$d שניות</item>
+        <item quantity="two">%1$d שניות</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120050">
+        <item quantity="other">הוסרו אפליקציות לשימוש אישי</item>
+        <item quantity="one">הוסרו אפליקציות לשימוש אישי</item>
+        <item quantity="two">הוסרו אפליקציות לשימוש אישי</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120053">
+        <item quantity="other">בוצעה סריקה באמצעות Play Protect לפני %d ימים</item>
+        <item quantity="one">בוצעה סריקה באמצעות Play Protect לפני %d ימים</item>
+        <item quantity="two">בוצעה סריקה באמצעות Play Protect לפני יומיים (%d)</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120054">
+        <item quantity="other">בוצעה סריקה באמצעות Play Protect לפני %d שעות</item>
+        <item quantity="one">בוצעה סריקה באמצעות Play Protect לפני %d שעות</item>
+        <item quantity="two">בוצעה סריקה באמצעות Play Protect לפני שעתיים (%d)</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120055">
+        <item quantity="other">בוצעה סריקה באמצעות Play Protect לפני %d דקות</item>
+        <item quantity="one">בוצעה סריקה באמצעות Play Protect לפני %d דקות</item>
+        <item quantity="two">בוצעה סריקה באמצעות Play Protect לפני %d דקות</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120056">
+        <item quantity="other">עוד %1$s נקודות כדי להישאר ברמת %2$s בשנה הבאה</item>
+        <item quantity="one">עוד %1$s נקודות כדי להישאר ברמת %2$s בשנה הבאה</item>
+        <item quantity="two">עוד %1$s נקודות כדי להישאר ברמת %2$s בשנה הבאה</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120057">
+        <item quantity="other">עוד %1$s נקודות לרמת %2$s</item>
+        <item quantity="one">עוד %1$s נקודות לרמת %2$s</item>
+        <item quantity="two">עוד %1$s נקודות לרמת %2$s</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120058">
+        <item quantity="other">הענקת לאפליקציות האלו הרשאה להתקין או לעדכן אפליקציות לא מוכרות, שעלולות לסכן את המכשיר ואת המידע האישי שלך. יש לדחות את בקשת ההרשאה כדי למנוע את התקנתן.</item>
+        <item quantity="one">הענקת לאפליקציות האלו הרשאה להתקין או לעדכן אפליקציות לא מוכרות, שעלולות לסכן את המכשיר ואת המידע האישי שלך. יש לדחות את בקשת ההרשאה כדי למנוע את התקנתן.</item>
+        <item quantity="two">הענקת לאפליקציות האלו הרשאה להתקין או לעדכן אפליקציות לא מוכרות, שעלולות לסכן את המכשיר ואת המידע האישי שלך. יש לדחות את בקשת ההרשאה כדי למנוע את התקנתן.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120059">
+        <item quantity="other">הענקת ל-%1$d אפליקציות הרשאה להתקין או לעדכן אפליקציות לא מוכרות, שעלולות לסכן את המכשיר ואת המידע האישי שלך</item>
+        <item quantity="one">הענקת ל-%1$d אפליקציות הרשאה להתקין או לעדכן אפליקציות לא מוכרות, שעלולות לסכן את המכשיר ואת המידע האישי שלך</item>
+        <item quantity="two">הענקת ל-%1$d אפליקציות הרשאה להתקין או לעדכן אפליקציות לא מוכרות, שעלולות לסכן את המכשיר ואת המידע האישי שלך</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005a">
+        <item quantity="other">%1$d אזהרות לגבי פרטיות</item>
+        <item quantity="one">%1$d אזהרות לגבי פרטיות</item>
+        <item quantity="two">%1$d אזהרות לגבי פרטיות</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005b">
+        <item quantity="other">נמצאו %1$d אפליקציות מזיקות</item>
+        <item quantity="one">נמצאו %1$d אפליקציות מזיקות</item>
+        <item quantity="two">נמצאו %1$d אפליקציות מזיקות</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005c">
+        <item quantity="other">%1$d התראות אבטחה</item>
+        <item quantity="one">%1$d התראות אבטחה</item>
+        <item quantity="two">%1$d התראות אבטחה</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005d">
+        <item quantity="other">%1$d עדכוני אבטחה</item>
+        <item quantity="one">%1$d עדכוני אבטחה</item>
+        <item quantity="two">%1$d עדכוני אבטחה</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005e">
+        <item quantity="other">נמצאו %1$d אפליקציות לא בטוחות</item>
+        <item quantity="one">נמצאו %1$d אפליקציות לא בטוחות</item>
+        <item quantity="two">נמצאו %1$d אפליקציות לא בטוחות</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005f">
+        <item quantity="other">%1$d אזהרות</item>
+        <item quantity="one">%1$d אזהרות</item>
+        <item quantity="two">%1$d אזהרות</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120060">
+        <item quantity="other">נמצאו אפליקציות לא בטוחות</item>
+        <item quantity="one">נמצאו אפליקציות לא בטוחות</item>
+        <item quantity="two">נמצאו אפליקציות לא בטוחות</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120061">
+        <item quantity="other">יסתיים בעוד %1$d שעות</item>
+        <item quantity="one">יסתיים בעוד %1$d שעות</item>
+        <item quantity="two">יסתיים בעוד שעתיים (%1$d)</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120062">
+        <item quantity="other">יסתיים בעוד %1$d ימים</item>
+        <item quantity="one">יסתיים בעוד %1$d ימים</item>
+        <item quantity="two">יסתיים בעוד יומיים (%1$d)</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120063">
+        <item quantity="other">%1$d מתוך %2$d שלבים הושלמו</item>
+        <item quantity="one">%1$d מתוך %2$d שלבים הושלמו</item>
+        <item quantity="two">%1$d מתוך %2$d שלבים הושלמו</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120064">
+        <item quantity="other">%1$d אפליקציות מוכנות להתקנה</item>
+        <item quantity="one">%1$d אפליקציות מוכנות להתקנה</item>
+        <item quantity="two">%1$d אפליקציות מוכנות להתקנה</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120065">
+        <item quantity="other">המכשיר %1$s ישלח לך %2$d אפליקציות. יש לוודא שקוד ההתאמה תואם.</item>
+        <item quantity="one">המכשיר %1$s ישלח לך %2$d אפליקציות. יש לוודא שקוד ההתאמה תואם.</item>
+        <item quantity="two">המכשיר %1$s ישלח לך %2$d אפליקציות. יש לוודא שקוד ההתאמה תואם.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120066">
+        <item quantity="other">בתהליך קבלה של %1$d אפליקציות מהמכשיר \"%2$s\"…</item>
+        <item quantity="one">בתהליך קבלה של %1$d אפליקציות מהמכשיר \"%2$s\"…</item>
+        <item quantity="two">בתהליך קבלה של %1$d אפליקציות מהמכשיר \"%2$s\"…</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006a">
+        <item quantity="other">הביקורת הועילה ל-%1$d משתמשים. סמן את התגובה כמועילה</item>
+        <item quantity="one">הביקורת הועילה ל-%1$d משתמשים. סמן את התגובה כמועילה</item>
+        <item quantity="two">הביקורת הועילה ל-%1$d משתמשים. סמן את התגובה כמועילה</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006b">
+        <item quantity="other">הביקורת הועילה ל-%1$d משתמשים. הסר את סימון התגובה כמועילה</item>
+        <item quantity="one">הביקורת הועילה ל-%1$d משתמשים. הסר את סימון התגובה כמועילה</item>
+        <item quantity="two">הביקורת הועילה ל-%1$d משתמשים. הסר את סימון התגובה כמועילה</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006c">
+        <item quantity="other">זה היה מועיל בעיני %1$s אנשים</item>
+        <item quantity="one">זה היה מועיל בעיני %1$s אנשים</item>
+        <item quantity="two">זה היה מועיל בעיני %1$s אנשים</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006f">
+        <item quantity="other">%1$d שניות</item>
+        <item quantity="one">%1$d שניות</item>
+        <item quantity="two">%1$d שניות</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120070">
+        <item quantity="other">נותרו %1$d שניות</item>
+        <item quantity="one">נותרו %1$d שניות</item>
+        <item quantity="two">נותרו %1$d שניות</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120071">
+        <item quantity="other">נבחרו %1$d • %2$s</item>
+        <item quantity="one">נבחרו %1$d • %2$s</item>
+        <item quantity="two">נבחרו %1$d • %2$s</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120072">
+        <item quantity="other">מתבצעת שליחה של %1$d אפליקציות אל \"%2$s\"…</item>
+        <item quantity="one">מתבצעת שליחה של %1$d אפליקציות אל \"%2$s\"…</item>
+        <item quantity="two">מתבצעת שליחה של %1$d אפליקציות אל \"%2$s\"…</item>
+    </plurals>
+    <plurals name="setup_completed_installed">
+        <item quantity="other">הותקנו %1$d אפליקציות</item>
+        <item quantity="one">הותקנו %1$d אפליקציות</item>
+        <item quantity="two">הותקנו %1$d אפליקציות</item>
+    </plurals>
+    <plurals name="setup_completed_installed_with_failures">
+        <item quantity="other">לא ניתן להתקין %1$d מתוך %2$d אפליקציות</item>
+        <item quantity="one">לא ניתן להתקין %1$d מתוך %2$d אפליקציות</item>
+        <item quantity="two">לא ניתן להתקין %1$d מתוך %2$d אפליקציות</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120075">
+        <item quantity="other">השימוש האחרון היה לפני %1$d ימים</item>
+        <item quantity="one">השימוש האחרון היה לפני %1$d ימים</item>
+        <item quantity="two">השימוש האחרון היה לפני %1$d ימים</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120076">
+        <item quantity="other">שחזר את %1$d האפליקציות שנבחרו</item>
+        <item quantity="one">שחזר את %1$d האפליקציות שנבחרו</item>
+        <item quantity="two">שחזר את %1$d האפליקציות שנבחרו</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120078">
+        <item quantity="other">להוריד %1$d שפות חדשות?</item>
+        <item quantity="one">להוריד %1$d שפות חדשות?</item>
+        <item quantity="two">להוריד %1$d שפות חדשות?</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007b">
+        <item quantity="other">%1$d תגובות לסקר יוסרו לתמיד מהחשבון.</item>
+        <item quantity="one">%1$d תגובות לסקר יוסרו לתמיד מהחשבון.</item>
+        <item quantity="two">%1$d תגובות לסקר יוסרו לתמיד מהחשבון.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007c">
+        <item quantity="other">נבחרו %1$d סקרים</item>
+        <item quantity="one">נבחרו %1$d סקרים</item>
+        <item quantity="two">נבחרו %1$d סקרים</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007d">
+        <item quantity="other">הצגת נקודות Play. %1$d נקודות זמינות.</item>
+        <item quantity="one">הצגת נקודות Play. %1$d נקודות זמינות.</item>
+        <item quantity="two">הצגת נקודות Play. %1$d נקודות זמינות.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007e">
+        <item quantity="other">%1$d נקודות Play זמינות.</item>
+        <item quantity="one">%1$d נקודות Play זמינות.</item>
+        <item quantity="two">%1$d נקודות Play זמינות.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120080">
+        <item quantity="other">%1$s נקודות</item>
+        <item quantity="one">%1$s נקודות</item>
+        <item quantity="two">%1$s נקודות</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120081">
+        <item quantity="other">מתבצעת העברה של %1$d אפליקציות אל \"%2$s\"…</item>
+        <item quantity="one">מתבצעת העברה של %1$d אפליקציות אל \"%2$s\"…</item>
+        <item quantity="two">מתבצעת העברה של %1$d אפליקציות אל \"%2$s\"…</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120082">
+        <item quantity="other">%1$d אפליקציות יוסרו מהמכשיר שלך.</item>
+        <item quantity="one">%1$d אפליקציות יוסרו מהמכשיר שלך.</item>
+        <item quantity="two">%1$d אפליקציות יוסרו מהמכשיר שלך.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120083">
+        <item quantity="other">להסיר את האפליקציות שנבחרו?</item>
+        <item quantity="one">להסיר את האפליקציות שנבחרו?</item>
+        <item quantity="two">להסיר את האפליקציות שנבחרו?</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120084">
+        <item quantity="other">להסיר את העדכונים לאפליקציות שנבחרו?</item>
+        <item quantity="one">להסיר את העדכונים לאפליקציות שנבחרו?</item>
+        <item quantity="two">להסיר את העדכונים לאפליקציות שנבחרו?</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120085">
+        <item quantity="other">הוסרו %1$s אפליקציות, והתפנה מספיק נפח אחסון עבור %2$s.</item>
+        <item quantity="one">הוסרו %1$s אפליקציות, והתפנה מספיק נפח אחסון עבור %2$s.</item>
+        <item quantity="two">הוסרו %1$s אפליקציות, והתפנה מספיק נפח אחסון עבור %2$s.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120086">
+        <item quantity="other">האפליקציות יותקנו בקרוב.</item>
+        <item quantity="one">האפליקציות יותקנו בקרוב.</item>
+        <item quantity="two">האפליקציות יותקנו בקרוב.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120087">
+        <item quantity="other">עדכוני האפליקציות יותקנו בקרוב.</item>
+        <item quantity="one">עדכוני האפליקציות יותקנו בקרוב.</item>
+        <item quantity="two">עדכוני האפליקציות יותקנו בקרוב.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008a">
+        <item quantity="other">השימוש האחרון היה לפני %1$d ימים</item>
+        <item quantity="one">השימוש האחרון היה לפני %1$d ימים</item>
+        <item quantity="two">השימוש האחרון היה לפני %1$d ימים</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008b">
+        <item quantity="other">השימוש האחרון היה לפני %1$d חודשים</item>
+        <item quantity="one">השימוש האחרון היה לפני %1$d חודשים</item>
+        <item quantity="two">השימוש האחרון היה לפני %1$d חודשים</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008c">
+        <item quantity="other">כדי להתקין אפליקציות או עדכונים במכשיר זה, יש להסיר אפליקציות שכבר אין בהן צורך. ניתן גם לפנות מקום על ידי מחיקת קובצי מדיה בהגדרות האחסון.</item>
+        <item quantity="one">כדי להתקין אפליקציות או עדכונים במכשיר זה, יש להסיר אפליקציות שכבר אין בהן צורך. ניתן גם לפנות מקום על ידי מחיקת קובצי מדיה בהגדרות האחסון.</item>
+        <item quantity="two">כדי להתקין אפליקציות או עדכונים במכשיר זה, יש להסיר אפליקציות שכבר אין בהן צורך. ניתן גם לפנות מקום על ידי מחיקת קובצי מדיה בהגדרות האחסון.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008d">
+        <item quantity="other">כדי להתקין אפליקציות או עדכונים במכשיר זה, יש להסיר אפליקציות שכבר אין בהן צורך. ניתן גם לפנות מקום על ידי מחיקת קובצי מדיה ב&lt;a href=\"\">הגדרות > אחסון&lt;/a>.</item>
+        <item quantity="one">כדי להתקין אפליקציות או עדכונים במכשיר זה, יש להסיר אפליקציות שכבר אין בהן צורך. ניתן גם לפנות מקום על ידי מחיקת קובצי מדיה ב&lt;a href=\"\">הגדרות > אחסון&lt;/a>.</item>
+        <item quantity="two">כדי להתקין אפליקציות או עדכונים במכשיר זה, יש להסיר אפליקציות שכבר אין בהן צורך. ניתן גם לפנות מקום על ידי מחיקת קובצי מדיה ב&lt;a href=\"\">הגדרות > אחסון&lt;/a>.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008e">
+        <item quantity="other">כדי להתקין אפליקציות או עדכונים במכשיר זה, יש להסיר אפליקציות שכבר אין בהן צורך. ניתן גם לפנות מקום על ידי מחיקת קובצי מדיה בהגדרות > אחסון.</item>
+        <item quantity="one">כדי להתקין אפליקציות או עדכונים במכשיר זה, יש להסיר אפליקציות שכבר אין בהן צורך. ניתן גם לפנות מקום על ידי מחיקת קובצי מדיה בהגדרות > אחסון.</item>
+        <item quantity="two">כדי להתקין אפליקציות או עדכונים במכשיר זה, יש להסיר אפליקציות שכבר אין בהן צורך. ניתן גם לפנות מקום על ידי מחיקת קובצי מדיה בהגדרות > אחסון.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008f">
+        <item quantity="other">%1$d אפליקציות הוסרו</item>
+        <item quantity="one">%1$d אפליקציות הוסרו</item>
+        <item quantity="two">%1$d אפליקציות הוסרו</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120090">
+        <item quantity="other">מצאנו %1$d אפליקציות שלא השתמשת בהן כבר זמן רב. אם הן יוסרו, יתפנה שטח אחסון בגודל MB %2$d</item>
+        <item quantity="one">מצאנו %1$d אפליקציות שלא השתמשת בהן כבר זמן רב. אם הן יוסרו, יתפנה שטח אחסון בגודל MB %2$d</item>
+        <item quantity="two">מצאנו %1$d אפליקציות שלא השתמשת בהן כבר זמן רב. אם הן יוסרו, יתפנה שטח אחסון בגודל MB %2$d</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120091">
+        <item quantity="other">יתחיל בעוד %1$d שעות</item>
+        <item quantity="one">יתחיל בעוד %1$d שעות</item>
+        <item quantity="two">יתחיל בעוד שעתיים (%1$d)</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120092">
+        <item quantity="other">יתחיל בעוד %1$d ימים</item>
+        <item quantity="one">יתחיל בעוד %1$d ימים</item>
+        <item quantity="two">יתחיל בעוד יומיים (%1$d)</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120093">
+        <item quantity="other">יהיה זמין בעוד %1$d שעות</item>
+        <item quantity="one">יהיה זמין בעוד %1$d שעות</item>
+        <item quantity="two">יהיה זמין בעוד שעתיים (%1$d)</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120094">
+        <item quantity="other">יהיה זמין בעוד %1$d ימים</item>
+        <item quantity="one">יהיה זמין בעוד %1$d ימים</item>
+        <item quantity="two">יהיה זמין בעוד יומיים (%1$d)</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120095">
+        <item quantity="other">המכשיר הזה לא עבר עדכון מערכת כבר יותר מ-%1$d חודשים</item>
+        <item quantity="one">המכשיר הזה לא עבר עדכון מערכת כבר יותר מ-%1$d חודשים</item>
+        <item quantity="two">המכשיר הזה לא עבר עדכון מערכת כבר יותר מחודשיים (%1$d)</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120096">
+        <item quantity="other">הוסרו אפליקציות לעבודה</item>
+        <item quantity="one">הוסרו אפליקציות לעבודה</item>
+        <item quantity="two">הוסרו אפליקציות לעבודה</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120097">
+        <item quantity="other">לפני %1$d שנים</item>
+        <item quantity="one">לפני %1$d שנים</item>
+        <item quantity="two">לפני שנתיים (%1$d)</item>
+    </plurals>
+</resources>

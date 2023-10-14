@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dots">
+        <item quantity="other">body %s</item>
+        <item quantity="one">bod %s</item>
+        <item quantity="few">body %s</item>
+        <item quantity="many">body %s</item>
+    </plurals>
+    <plurals name="gestures_recorded_message">
+        <item quantity="other">Bylo nahráno %d gest</item>
+        <item quantity="one">Bylo nahráno 1 gesto</item>
+        <item quantity="few">Byla nahrána %d gesta</item>
+        <item quantity="many">Bylo nahráno %d gesta</item>
+    </plurals>
+    <plurals name="label_num_keys_assigned_format">
+        <item quantity="other">Přiřazeno %d přepínačů</item>
+        <item quantity="one">Přiřazen %d přepínač</item>
+        <item quantity="few">Přiřazeny %d přepínače</item>
+        <item quantity="many">Přiřazeno %d přepínače</item>
+    </plurals>
+    <plurals name="label_num_scanning_loops_format">
+        <item quantity="other">%d opakování</item>
+        <item quantity="one">%d opakování</item>
+        <item quantity="few">%d opakování</item>
+        <item quantity="many">%d opakování</item>
+    </plurals>
+    <plurals name="line_speed_summary_format">
+        <item quantity="other">%.2f cm za sekundu</item>
+        <item quantity="one">1 cm za sekundu</item>
+        <item quantity="few">%.2f cm za sekundu</item>
+        <item quantity="many">%.2f cm za sekundu</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nových oznámení</item>
+        <item quantity="one">%d nové oznámení</item>
+        <item quantity="few">%d nová oznámení</item>
+        <item quantity="many">%d nového oznámení</item>
+    </plurals>
+    <plurals name="time_delay_summary_format">
+        <item quantity="other">%.2f sekund</item>
+        <item quantity="one">1 sekunda</item>
+        <item quantity="few">%.2f sekundy</item>
+        <item quantity="many">%.2f sekundy</item>
+    </plurals>
+</resources>

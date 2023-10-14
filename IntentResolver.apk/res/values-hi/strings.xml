@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">होम पेज पर जाएं</string>
+    <string name="abc_action_bar_up_description">वापस जाएं</string>
+    <string name="abc_action_menu_overflow_description">ज़्यादा विकल्प</string>
+    <string name="abc_action_mode_done">हो गया</string>
+    <string name="abc_activity_chooser_view_see_all">सभी देखें</string>
+    <string name="abc_activitychooserview_choose_application">कोई ऐप्लिकेशन चुनें</string>
+    <string name="abc_capital_off">बंद</string>
+    <string name="abc_capital_on">चालू</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">खोजें…</string>
+    <string name="abc_searchview_description_clear">क्‍वेरी हटाएं</string>
+    <string name="abc_searchview_description_query">सर्च क्वेरी</string>
+    <string name="abc_searchview_description_search">खोजें</string>
+    <string name="abc_searchview_description_submit">क्वेरी सबमिट करें</string>
+    <string name="abc_searchview_description_voice">बोलकर खोजें</string>
+    <string name="abc_shareactionprovider_share_with">इससे शेयर करें:</string>
+    <string name="abc_shareactionprovider_share_with_application">%s से शेयर करें</string>
+    <string name="abc_toolbar_collapse_description">छोटा करें</string>
+    <string name="activity_resolver_use_always">हमेशा</string>
+    <string name="activity_resolver_use_once">सिर्फ़ एक बार</string>
+    <string name="activity_resolver_work_profiles_support">वर्क प्रोफ़ाइल से %1$s का इस्तेमाल नहीं किया जा सकता</string>
+    <string name="call_notification_answer_action">जवाब दें</string>
+    <string name="call_notification_answer_video_action">वीडियो</string>
+    <string name="call_notification_decline_action">अस्वीकार करें</string>
+    <string name="call_notification_hang_up_action">कॉल काटें</string>
+    <string name="call_notification_incoming_text">आने वाला (इनकमिंग) कॉल</string>
+    <string name="call_notification_ongoing_text">पहले से जारी कॉल</string>
+    <string name="call_notification_screening_text">इनकमिंग कॉल को स्क्रीन किया जा रहा है</string>
+    <string name="chooseActivity">कोई कार्रवाई चुनें</string>
+    <string name="chooser_no_direct_share_targets">शेयर करने के लिए, किसी व्यक्ति का सुझाव नहीं दिया गया है</string>
+    <string name="exclude_link">लिंक हटाएं</string>
+    <string name="exclude_text">टेक्स्ट हटाएं</string>
+    <string name="file_preview_a11y_description">फ़ाइल के थंबनेल की झलक</string>
+    <string name="forward_intent_to_owner">आप इस ऐप्स का उपयोग अपनी वर्क प्रोफ़ाइल से बाहर कर रहे हैं</string>
+    <string name="forward_intent_to_work">आप इस ऐप्स का उपयोग अपनी वर्क प्रोफ़ाइल में कर रहे हैं</string>
+    <string name="image_preview_a11y_description">इमेज के थंबनेल की झलक</string>
+    <string name="include_link">लिंक जोड़ें</string>
+    <string name="include_text">टेक्स्ट जोड़ें</string>
+    <string name="miniresolver_open_in_personal">क्या %s को निजी प्रोफ़ाइल में खोलना है?</string>
+    <string name="miniresolver_open_in_work">क्या %s को वर्क प्रोफ़ाइल में खोलना है?</string>
+    <string name="miniresolver_use_personal_browser">निजी ब्राउज़र का इस्तेमाल करें</string>
+    <string name="miniresolver_use_work_browser">ऑफ़िस के काम से जुड़े ब्राउज़र का इस्तेमाल करें</string>
+    <string name="more_files">{count,plural, =1{# और फ़ाइल}one{# और फ़ाइल}other{# और फ़ाइलें}}</string>
+    <string name="noApplications">कोई भी ऐप्लिकेशन यह कार्रवाई नहीं कर सकता.</string>
+    <string name="other_files">{count,plural, =1{+ # फ़ाइल}one{+ # फ़ाइल}other{+ # फ़ाइलें}}</string>
+    <string name="pin_specific_target">%1$s को पिन करें</string>
+    <string name="resolver_cant_access_personal_apps_explanation">इस कॉन्टेंट को निजी ऐप्लिकेशन पर खोला नहीं जा सकता</string>
+    <string name="resolver_cant_access_work_apps_explanation">इस कॉन्टेंट को ऑफ़िस के काम से जुड़े ऐप्लिकेशन पर खोला नहीं जा सकता</string>
+    <string name="resolver_cant_share_with_personal_apps_explanation">इस कॉन्टेंट को निजी ऐप्लिकेशन के ज़रिए शेयर नहीं किया जा सकता</string>
+    <string name="resolver_cant_share_with_work_apps_explanation">इस कॉन्टेंट को ऑफ़िस के काम से जुड़े ऐप्लिकेशन का इस्तेमाल करके, शेयर नहीं किया जा सकता</string>
+    <string name="resolver_cross_profile_blocked">आपके आईटी एडमिन ने इस कॉन्टेंट को शेयर करने की सुविधा ब्लॉक कर रखी है</string>
+    <string name="resolver_no_personal_apps_available">यह कॉन्टेंट आपके किसी भी निजी ऐप्लिकेशन पर खोला नहीं जा सकता</string>
+    <string name="resolver_no_work_apps_available">यह कॉन्टेंट, ऑफ़िस के काम से जुड़े आपके किसी भी ऐप्लिकेशन पर खोला नहीं जा सकता</string>
+    <string name="resolver_personal_tab">निजी प्रोफ़ाइल</string>
+    <string name="resolver_personal_tab_accessibility">निजी व्यू</string>
+    <string name="resolver_switch_on_work">चालू करें</string>
+    <string name="resolver_turn_on_work_apps">वर्क ऐप्लिकेशन बंद किए गए हैं</string>
+    <string name="resolver_work_tab">वर्क प्रोफ़ाइल</string>
+    <string name="resolver_work_tab_accessibility">वर्क व्यू</string>
+    <string name="screenshot_edit">बदलाव करें</string>
+    <string name="search_menu_title">खोजें</string>
+    <string name="sharing_files">{count,plural, =1{# फ़ाइल शेयर की जा रही है}one{# फ़ाइल शेयर की जा रही है}other{# फ़ाइलें शेयर की जा रही हैं}}</string>
+    <string name="sharing_files_only">{count,plural, =1{सिर्फ़ फ़ाइल}one{सिर्फ़ फ़ाइल}other{सिर्फ़ फ़ाइलें}}</string>
+    <string name="sharing_files_with_link">{count,plural, =1{लिंक के साथ फ़ाइल शेयर की जा रही है}one{लिंक के साथ # फ़ाइल शेयर की जा रही है}other{लिंक के साथ # फ़ाइलें शेयर की जा रही हैं}}</string>
+    <string name="sharing_files_with_text">{count,plural, =1{टेक्स्ट के साथ फ़ाइल शेयर की जा रही है}one{टेक्स्ट के साथ # फ़ाइल शेयर की जा रही है}other{टेक्स्ट के साथ # फ़ाइलें शेयर की जा रही हैं}}</string>
+    <string name="sharing_images">{count,plural, =1{इमेज शेयर की जा रही है}one{# इमेज शेयर की जा रही है}other{# इमेज शेयर की जा रही हैं}}</string>
+    <string name="sharing_images_only">{count,plural, =1{सिर्फ़ इमेज}one{सिर्फ़ इमेज}other{सिर्फ़ इमेज}}</string>
+    <string name="sharing_images_with_link">{count,plural, =1{लिंक के साथ इमेज शेयर की जा रही है}one{लिंक के साथ # इमेज शेयर की जा रही है}other{लिंक के साथ # इमेज शेयर की जा रही हैं}}</string>
+    <string name="sharing_images_with_text">{count,plural, =1{टेक्स्ट के साथ इमेज शेयर की जा रही है}one{टेक्स्ट के साथ # इमेज शेयर की जा रही है}other{टेक्स्ट के साथ # इमेज शेयर की जा रही हैं}}</string>
+    <string name="sharing_link">लिंक शेयर किया जा रहा है</string>
+    <string name="sharing_text">टेक्स्ट शेयर किया जा रहा है</string>
+    <string name="sharing_videos">{count,plural, =1{वीडियो शेयर किया जा रहा है}one{# वीडियो शेयर किया जा रहा है}other{# वीडियो शेयर किए जा रहे हैं}}</string>
+    <string name="sharing_videos_only">{count,plural, =1{सिर्फ़ वीडियो}one{सिर्फ़ वीडियो}other{सिर्फ़ वीडियो}}</string>
+    <string name="sharing_videos_with_link">{count,plural, =1{लिंक के साथ वीडियो शेयर किया जा रहा है}one{लिंक के साथ # वीडियो शेयर किया जा रहा है}other{लिंक के साथ # वीडियो शेयर किए जा रहे हैं}}</string>
+    <string name="sharing_videos_with_text">{count,plural, =1{टेक्स्ट के साथ वीडियो शेयर किया जा रहा है}one{टेक्स्ट के साथ # वीडियो शेयर किया जा रहा है}other{टेक्स्ट के साथ # वीडियो शेयर किए जा रहे हैं}}</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="unpin_specific_target">%1$s को अनपिन करें</string>
+    <string name="usb_device_resolve_prompt_warn">इस ऐप्लिकेशन को रिकॉर्ड करने की अनुमति नहीं दी गई है. हालांकि, ऐप्लिकेशन इस यूएसबी डिवाइस से ऐसा कर सकता है.</string>
+    <string name="use_a_different_app">किसी दूसरे ऐप्लिकेशन का इस्तेमाल करें</string>
+    <string name="video_preview_a11y_description">वीडियो के थंबनेल की झलक</string>
+    <string name="whichApplication">इसका इस्तेमाल करके कार्रवाई को पूरा करें</string>
+    <string name="whichApplicationLabel">कार्रवाई पूरी करें</string>
+    <string name="whichApplicationNamed">%1$s का इस्तेमाल करके कार्रवाई को पूरा करें</string>
+    <string name="whichEditApplication">इसके ज़रिये बदलाव करें</string>
+    <string name="whichEditApplicationLabel">बदलाव करें</string>
+    <string name="whichEditApplicationNamed">%1$s से बदलाव करें</string>
+    <string name="whichGiveAccessToApplicationLabel">ऐक्सेस दें</string>
+    <string name="whichHomeApplication">होम ऐप चुनें</string>
+    <string name="whichHomeApplicationLabel">चित्र कैप्चर करें</string>
+    <string name="whichHomeApplicationNamed">%1$s को होम ऐप्लिकेशन के तौर पर इस्तेमाल करें</string>
+    <string name="whichImageCaptureApplication">चित्र को इसके साथ कैप्चर करें</string>
+    <string name="whichImageCaptureApplicationLabel">चित्र कैप्चर करें</string>
+    <string name="whichImageCaptureApplicationNamed">%1$s से इमेज कैप्चर करें</string>
+    <string name="whichOpenHostLinksWith">इसे इस्तेमाल करके %1$s लिंक खोलें</string>
+    <string name="whichOpenHostLinksWithApp">%2$s इस्तेमाल करके %1$s लिंक खोलें</string>
+    <string name="whichOpenLinksWith">इसे इस्तेमाल करके लिंक खोलें</string>
+    <string name="whichOpenLinksWithApp">%1$s इस्तेमाल करके लिंक खोलें</string>
+    <string name="whichSendApplication">शेयर करें</string>
+    <string name="whichSendApplicationLabel">शेयर करें</string>
+    <string name="whichSendApplicationNamed">%1$s से शेयर करें</string>
+    <string name="whichSendToApplication">इसका उपयोग करके भेजें</string>
+    <string name="whichSendToApplicationLabel">भेजें</string>
+    <string name="whichSendToApplicationNamed">%1$s का इस्तेमाल करके भेजें</string>
+    <string name="whichViewApplication">इसमें खोलें</string>
+    <string name="whichViewApplicationLabel">खोलें</string>
+    <string name="whichViewApplicationNamed">%1$s से खोलें</string>
+</resources>

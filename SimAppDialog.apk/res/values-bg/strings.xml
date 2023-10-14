@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sim App Dialog</string>
+    <string name="call_notification_answer_action">Отговор</string>
+    <string name="call_notification_answer_video_action">Видеообаждане</string>
+    <string name="call_notification_decline_action">Отхвърляне</string>
+    <string name="call_notification_hang_up_action">Затваряне</string>
+    <string name="call_notification_incoming_text">Входящо обаждане</string>
+    <string name="call_notification_ongoing_text">Текущо обаждане</string>
+    <string name="call_notification_screening_text">Преглежда се входящо обаждане</string>
+    <string name="install_carrier_app_defer_action">Не сега</string>
+    <string name="install_carrier_app_description">За да работи правилно новата ви SIM карта, трябва да инсталирате приложението %1$s</string>
+    <string name="install_carrier_app_description_default">За да работи правилно новата ви SIM карта, трябва да инсталирате приложението на оператора</string>
+    <string name="install_carrier_app_download_action">Изтегляне на приложението</string>
+    <string name="install_carrier_app_title">Активиране на мобилната услуга</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="suw_back_button_label">Назад</string>
+    <string name="suw_more_button_label">Още</string>
+    <string name="suw_next_button_label">Напред</string>
+</resources>

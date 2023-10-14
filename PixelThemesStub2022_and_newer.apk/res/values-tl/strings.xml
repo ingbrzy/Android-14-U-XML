@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bundle1_color_name">Carbon</string>
+    <string name="bundle2_color_name">Papel</string>
+    <string name="bundle3_color_name">Araw</string>
+    <string name="color_name_monochromatic">Monochromatic</string>
+    <string name="default_color_name">Classic</string>
+    <string name="fruit1_color_name">Dilaw at pula na palette ng dalawang kulay</string>
+    <string name="fruit2_color_name">Berde at orange na palette ng dalawang kulay</string>
+    <string name="fruit3_color_name">Asul at berde na palette ng dalawang kulay</string>
+    <string name="fruit4_color_name">Light purple at asul na palette ng dalawang kulay</string>
+    <string name="fruit5_color_name">Pink at indigo na palette ng dalawang kulay</string>
+    <string name="rainbow1_color_name">Pula</string>
+    <string name="rainbow2_color_name">Orange</string>
+    <string name="rainbow3_color_name">Dilaw</string>
+    <string name="rainbow4_color_name">Berde</string>
+    <string name="rainbow5_color_name">Asul</string>
+    <string name="rainbow6_color_name">Indigo</string>
+    <string name="rainbow7_color_name">Violet</string>
+</resources>

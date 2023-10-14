@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="azure_title">Көгүлтүр сай сагызган</string>
+    <string name="blackswan_title">Кара куу</string>
+    <string name="cockatoo_title">Какаду</string>
+    <string name="come_alive_title">Кыймылдуу тушкагаздар</string>
+    <string name="feathers_attribution">Сүрөттүн автору: Andrew Zuckerman</string>
+    <string name="feathers_description">Түстөрдүн укмуштуудай даана көрүнүшү</string>
+    <string name="feathers_title">Куштун канаты</string>
+    <string name="greenwinged_title">Жашыл канаттуу макав</string>
+    <string name="king_title">Падыша жору</string>
+    <string name="living_universe_title">Жандуу аалам</string>
+    <string name="photos_memory_gallery_title">Көз ирмемдериңиз</string>
+    <string name="pied_title">Ала карга</string>
+    <string name="ringnecked_title">Шакек моюндуу тоту куш</string>
+    <string name="seagull_title">Ак чардак</string>
+</resources>

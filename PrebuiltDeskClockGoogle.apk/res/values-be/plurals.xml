@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="alarm_alert_snooze_duration">
+        <item quantity="other">%d хв</item>
+        <item quantity="one">%d хв</item>
+        <item quantity="few">%d хв</item>
+        <item quantity="many">%d хв</item>
+    </plurals>
+    <plurals name="alarm_alert_snooze_set">
+        <item quantity="other">Адкладваецца на %d хвіліны.</item>
+        <item quantity="one">Адкладваецца на %d хвіліну.</item>
+        <item quantity="few">Адкладваецца на %d хвіліны.</item>
+        <item quantity="many">Адкладваецца на %d хвілін.</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%s дня</item>
+        <item quantity="one">%s дзень</item>
+        <item quantity="few">%s дні</item>
+        <item quantity="many">%s дзён</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">%s дня таму</item>
+        <item quantity="one">%s дзень таму</item>
+        <item quantity="few">%s дні таму</item>
+        <item quantity="many">%s дзён таму</item>
+    </plurals>
+    <plurals name="days_extra_short">
+        <item quantity="other">%s сут</item>
+        <item quantity="one">%s сут</item>
+        <item quantity="few">%s сут</item>
+        <item quantity="many">%s сут</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s гадзіны</item>
+        <item quantity="one">%s гадзіна</item>
+        <item quantity="few">%s гадзіны</item>
+        <item quantity="many">%s гадзін</item>
+    </plurals>
+    <plurals name="hours_extra_short">
+        <item quantity="other">%s гадз</item>
+        <item quantity="one">%s гадз</item>
+        <item quantity="few">%s гадз</item>
+        <item quantity="many">%s гадз</item>
+    </plurals>
+    <plurals name="hours_short">
+        <item quantity="other">%s гадз</item>
+        <item quantity="one">%s гадз</item>
+        <item quantity="few">%s гадз</item>
+        <item quantity="many">%s гадз</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s хвіліны</item>
+        <item quantity="one">%s хвіліна</item>
+        <item quantity="few">%s хвіліны</item>
+        <item quantity="many">%s хвілін</item>
+    </plurals>
+    <plurals name="minutes_extra_short">
+        <item quantity="other">%s хв</item>
+        <item quantity="one">%s хв</item>
+        <item quantity="few">%s хв</item>
+        <item quantity="many">%s хв</item>
+    </plurals>
+    <plurals name="minutes_short">
+        <item quantity="other">%s хв</item>
+        <item quantity="one">%s хв</item>
+        <item quantity="few">%s хв</item>
+        <item quantity="many">%s хв</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d новага апавяшчэння</item>
+        <item quantity="one">%d новае апавяшчэнне</item>
+        <item quantity="few">%d новыя апавяшчэнні</item>
+        <item quantity="many">%d новых апавяшчэнняў</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%s секунды</item>
+        <item quantity="one">%s секунда</item>
+        <item quantity="few">%s секунды</item>
+        <item quantity="many">%s секунд</item>
+    </plurals>
+    <plurals name="seconds_extra_short">
+        <item quantity="other">%s с</item>
+        <item quantity="one">%s с</item>
+        <item quantity="few">%s с</item>
+        <item quantity="many">%s с</item>
+    </plurals>
+</resources>

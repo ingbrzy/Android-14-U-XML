@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_install_failed_multi_app_desc">
+        <item quantity="other">අවශ්‍ය යෙදුම් %1$d ස්ථාපන කිරීම අසාර්ථක වූ බැවින් සැකසුම සම්පූර්ණ කළ නොහැක. ඔබේ පද්ධති පරිපාලකයා ඍජුව සම්බන්ධ කර ගන්න.</item>
+        <item quantity="one">අවශ්‍ය යෙදුම් %1$d ස්ථාපන කිරීම අසාර්ථක වූ බැවින් සැකසුම සම්පූර්ණ කළ නොහැක. ඔබේ පද්ධති පරිපාලකයා ඍජුව සම්බන්ධ කර ගන්න.</item>
+    </plurals>
+    <plurals name="app_install_failure_title">
+        <item quantity="other">යෙදුම් ස්ථාපන කළ නොහැක</item>
+        <item quantity="one">යෙදුම් ස්ථාපන කළ නොහැක</item>
+    </plurals>
+    <plurals name="app_install_progress_desc">
+        <item quantity="other">යෙදුම් %1$d-කින් %2$d ක් ස්ථාපිතයි</item>
+        <item quantity="one">යෙදුම් %1$d-කින් %2$d ක් ස්ථාපිතයි</item>
+    </plurals>
+    <plurals name="app_uninstall_button">
+        <item quantity="other">යෙදුම් අස්ථාපන කරන්න</item>
+        <item quantity="one">යෙදුම් අස්ථාපන කරන්න</item>
+    </plurals>
+    <plurals name="days_left_message">
+        <item quantity="other">දින &lt;annotation id="numeric_time_left">^1&lt;/annotation> ක් ඉතුරුයි</item>
+        <item quantity="one">දින &lt;annotation id="numeric_time_left">^1&lt;/annotation> ක් ඉතුරුයි</item>
+    </plurals>
+    <plurals name="hours_left_message">
+        <item quantity="other">පැය &lt;annotation id="numeric_time_left">^1&lt;/annotation> ක් ඉතුරුයි</item>
+        <item quantity="one">පැය &lt;annotation id="numeric_time_left">^1&lt;/annotation> ක් ඉතුරුයි</item>
+    </plurals>
+    <plurals name="number_of_additional_apps">
+        <item quantity="other">අතිරේක යෙදුම් %1$dක්</item>
+        <item quantity="one">අතිරේක යෙදුම් %1$dක්</item>
+    </plurals>
+    <plurals name="number_of_required_apps">
+        <item quantity="other">අවශ්‍ය යෙදුම් %1$dක්</item>
+        <item quantity="one">අවශ්‍ය යෙදුම් %1$dක්</item>
+    </plurals>
+    <plurals name="policy_apps_list_summary">
+        <item quantity="other">කාර්යාල යෙදුම් %dක් ස්ථාපනය කළ නොහැකිය</item>
+        <item quantity="one">කාර්යාල යෙදුම් %dක් ස්ථාපනය කළ නොහැකිය</item>
+    </plurals>
+    <plurals name="preinstalled_apps">
+        <item quantity="other">යෙදුම් %1$d-කින් %2$d ක් ස්ථාපිතයි</item>
+        <item quantity="one">යෙදුම් %1$d-කින් %2$d ක් ස්ථාපිතයි</item>
+    </plurals>
+    <plurals name="readable_name_applications">
+        <item quantity="other">යෙදුම් %1$d ක් ඇත (%2$d ස්ථාපිතයි, %3$d අබලයි)</item>
+        <item quantity="one">යෙදුම් %1$d ක් ඇත (%2$d ස්ථාපිතයි, %3$d අබලයි)</item>
+    </plurals>
+</resources>

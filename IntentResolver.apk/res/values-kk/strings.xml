@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Негізгі бетке өту</string>
+    <string name="abc_action_bar_up_description">Жоғары қарай өту</string>
+    <string name="abc_action_menu_overflow_description">Басқа опциялар</string>
+    <string name="abc_action_mode_done">Дайын</string>
+    <string name="abc_activity_chooser_view_see_all">Барлығын көру</string>
+    <string name="abc_activitychooserview_choose_application">Қолданбаны таңдау</string>
+    <string name="abc_capital_off">ӨШІРУ</string>
+    <string name="abc_capital_on">ҚОСУ</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">бос орын</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Іздеу…</string>
+    <string name="abc_searchview_description_clear">Сұрауды өшіру</string>
+    <string name="abc_searchview_description_query">Іздеу сұрауы</string>
+    <string name="abc_searchview_description_search">Іздеу</string>
+    <string name="abc_searchview_description_submit">Сұрауды жіберу</string>
+    <string name="abc_searchview_description_voice">Дауыспен іздеу</string>
+    <string name="abc_shareactionprovider_share_with">Бөлісу</string>
+    <string name="abc_shareactionprovider_share_with_application">%s қолданбасымен бөлісу</string>
+    <string name="abc_toolbar_collapse_description">Жию</string>
+    <string name="activity_resolver_use_always">Әрқашан</string>
+    <string name="activity_resolver_use_once">Бір рет қана</string>
+    <string name="activity_resolver_work_profiles_support">%1$s жұмыс профиліне қолдау көрсетпейді.</string>
+    <string name="call_notification_answer_action">Жауап</string>
+    <string name="call_notification_answer_video_action">Бейне</string>
+    <string name="call_notification_decline_action">Қабылдамау</string>
+    <string name="call_notification_hang_up_action">Тұтқаны қою</string>
+    <string name="call_notification_incoming_text">Кіріс қоңырау</string>
+    <string name="call_notification_ongoing_text">Қоңырау</string>
+    <string name="call_notification_screening_text">Келген қоңырауды сүзу</string>
+    <string name="chooseActivity">Әрекет таңдау</string>
+    <string name="chooser_no_direct_share_targets">Бөлісу үшін ұсынылатын адамдар жоқ.</string>
+    <string name="exclude_link">Сілтемені шығару</string>
+    <string name="exclude_text">Мәтінді шығару</string>
+    <string name="file_preview_a11y_description">Алдын ала көрсетілген файлдың нобайы</string>
+    <string name="forward_intent_to_owner">Осы қолданбаны жұмыс профиліңізден тыс пайдаланып жатырсыз</string>
+    <string name="forward_intent_to_work">Осы қолданбаны жұмыс профиліңізде пайдаланып жатырсыз</string>
+    <string name="image_preview_a11y_description">Алдын ала көрсетілген суреттің нобайы</string>
+    <string name="include_link">Сілтеме қосу</string>
+    <string name="include_text">Мәтін қосу</string>
+    <string name="miniresolver_open_in_personal">%s қолданбасын жеке профиліңізде ашу керек пе?</string>
+    <string name="miniresolver_open_in_work">%s қолданбасын жұмыс профиліңізде ашу керек пе?</string>
+    <string name="miniresolver_use_personal_browser">Жеке браузерді пайдалану</string>
+    <string name="miniresolver_use_work_browser">Жұмыс браузерін пайдалану</string>
+    <string name="more_files">{count,plural, =1{Тағы # файл}other{Тағы # файл}}</string>
+    <string name="noApplications">Бұл әрекетті ешбір қолданба орындай алмайды.</string>
+    <string name="other_files">{count,plural, =1{+ # файл}other{+ # файл}}</string>
+    <string name="pin_specific_target">%1$s бекіту</string>
+    <string name="resolver_cant_access_personal_apps_explanation">Бұл контентті жеке қолданбалармен ашу мүмкін емес.</string>
+    <string name="resolver_cant_access_work_apps_explanation">Бұл контентті жұмыс қолданбаларымен ашу мүмкін емес.</string>
+    <string name="resolver_cant_share_with_personal_apps_explanation">Бұл контентті жеке қолданбалармен бөлісу мүмкін емес.</string>
+    <string name="resolver_cant_share_with_work_apps_explanation">Бұл контентті жұмыс қолданбаларымен бөлісу мүмкін емес.</string>
+    <string name="resolver_cross_profile_blocked">Әкімшіңіз бөгеген</string>
+    <string name="resolver_no_personal_apps_available">Жеке қолданбалар жоқ.</string>
+    <string name="resolver_no_work_apps_available">Жұмыс қолданбалары жоқ.</string>
+    <string name="resolver_personal_tab">Жеке</string>
+    <string name="resolver_personal_tab_accessibility">Жеке көру</string>
+    <string name="resolver_switch_on_work">Қайта қосу</string>
+    <string name="resolver_turn_on_work_apps">Жұмыс қолданбалары кідіртілген.</string>
+    <string name="resolver_work_tab">Жұмыс</string>
+    <string name="resolver_work_tab_accessibility">Жұмыс деректерін көру</string>
+    <string name="screenshot_edit">Өзгерту</string>
+    <string name="search_menu_title">Іздеу</string>
+    <string name="sharing_files">{count,plural, =1{# файлды бөлісіп жатыр}other{# файлды бөлісіп жатыр}}</string>
+    <string name="sharing_files_only">{count,plural, =1{Тек файл}other{Тек файлдар}}</string>
+    <string name="sharing_files_with_link">{count,plural, =1{Сілтемесі бар файл жіберу}other{Сілтемесі бар # файл жіберу}}</string>
+    <string name="sharing_files_with_text">{count,plural, =1{Мәтіні бар файл жіберу}other{Мәтіні бар # файл жіберу}}</string>
+    <string name="sharing_images">{count,plural, =1{Сурет бөлісіп жатырсыз}other{# сурет бөлісіп жатырсыз}}</string>
+    <string name="sharing_images_only">{count,plural, =1{Тек сурет}other{Тек суреттер}}</string>
+    <string name="sharing_images_with_link">{count,plural, =1{Сілтемесі бар сурет жіберу}other{Сілтемесі бар # сурет жіберу}}</string>
+    <string name="sharing_images_with_text">{count,plural, =1{Мәтіні бар сурет жіберу}other{Мәтіні бар # сурет жіберу}}</string>
+    <string name="sharing_link">Сілтемені бөлісіп жатыр</string>
+    <string name="sharing_text">Мәтінді бөлісіп жатыр</string>
+    <string name="sharing_videos">{count,plural, =1{Бейне бөлісіліп жатыр}other{# бейне бөлісіліп жатыр}}</string>
+    <string name="sharing_videos_only">{count,plural, =1{Тек бейне}other{Тек бейнелер}}</string>
+    <string name="sharing_videos_with_link">{count,plural, =1{Сілтемесі бар бейне жіберу}other{Сілтемесі бар # бейне жіберу}}</string>
+    <string name="sharing_videos_with_text">{count,plural, =1{Мәтіні бар бейне жіберу}other{Мәтіні бар # бейне жіберу}}</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="unpin_specific_target">%1$s босату</string>
+    <string name="usb_device_resolve_prompt_warn">Қолданбаға жазу рұқсаты берілмеді, бірақ ол осы USB құрылғысы арқылы дыбыс жаза алады.</string>
+    <string name="use_a_different_app">Басқа қолданбаны пайдалану</string>
+    <string name="video_preview_a11y_description">Алдын ала көрсетілген бейненің нобайы</string>
+    <string name="whichApplication">Әрекетті аяқтау</string>
+    <string name="whichApplicationLabel">Әрекетті аяқтау</string>
+    <string name="whichApplicationNamed">%1$s көмегімен әрекетті орындау</string>
+    <string name="whichEditApplication">Келесімен өңдеу</string>
+    <string name="whichEditApplicationLabel">Өңдеу</string>
+    <string name="whichEditApplicationNamed">%1$s арқылы өзгерту</string>
+    <string name="whichGiveAccessToApplicationLabel">Рұқсат беру</string>
+    <string name="whichHomeApplication">«Негізгі» қолданбасын таңдау</string>
+    <string name="whichHomeApplicationLabel">Кескін түсіру</string>
+    <string name="whichHomeApplicationNamed">%1$s қолданбасын Үй қолданбасы ретінде пайдалану</string>
+    <string name="whichImageCaptureApplication">Кескінді түсіру қолданбасы</string>
+    <string name="whichImageCaptureApplicationLabel">Кескін түсіру</string>
+    <string name="whichImageCaptureApplicationNamed">%1$s арқылы суретке түсіру</string>
+    <string name="whichOpenHostLinksWith">%1$s сілтемелерін келесімен ашу:</string>
+    <string name="whichOpenHostLinksWithApp">%1$s сілтемелерін %2$s браузерімен ашу</string>
+    <string name="whichOpenLinksWith">Сілтемелерді келесімен ашу:</string>
+    <string name="whichOpenLinksWithApp">Сілтемелерді %1$s браузерімен ашу</string>
+    <string name="whichSendApplication">Бөлісу</string>
+    <string name="whichSendApplicationLabel">Бөлісу</string>
+    <string name="whichSendApplicationNamed">%1$s арқылы бөлісу</string>
+    <string name="whichSendToApplication">Келесі арқылы жіберу</string>
+    <string name="whichSendToApplicationLabel">Жіберу</string>
+    <string name="whichSendToApplicationNamed">%1$s көмегімен жіберу</string>
+    <string name="whichViewApplication">Басқаша ашу</string>
+    <string name="whichViewApplicationLabel">Ашу</string>
+    <string name="whichViewApplicationNamed">%1$s арқылы ашу</string>
+</resources>

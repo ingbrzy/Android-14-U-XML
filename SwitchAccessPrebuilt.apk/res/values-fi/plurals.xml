@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dots">
+        <item quantity="other">pisteet %s</item>
+        <item quantity="one">piste %s</item>
+    </plurals>
+    <plurals name="gestures_recorded_message">
+        <item quantity="other">%d elettä tallennettu</item>
+        <item quantity="one">1 ele tallennettu</item>
+    </plurals>
+    <plurals name="label_num_keys_assigned_format">
+        <item quantity="other">%d kytkintä määritetty</item>
+        <item quantity="one">%d kytkin määritetty</item>
+    </plurals>
+    <plurals name="label_num_scanning_loops_format">
+        <item quantity="other">%d silmukkaa</item>
+        <item quantity="one">%d silmukka</item>
+    </plurals>
+    <plurals name="line_speed_summary_format">
+        <item quantity="other">%.2f cm sekunnissa</item>
+        <item quantity="one">1 cm sekunnissa</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d uutta ilmoitusta</item>
+        <item quantity="one">%d uusi ilmoitus</item>
+    </plurals>
+    <plurals name="time_delay_summary_format">
+        <item quantity="other">%.2f sekuntia</item>
+        <item quantity="one">1 sekunti</item>
+    </plurals>
+</resources>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="alarm_alert_snooze_duration">
+        <item quantity="other">‏%d دقیقه</item>
+        <item quantity="one">‏%d دقیقه</item>
+    </plurals>
+    <plurals name="alarm_alert_snooze_set">
+        <item quantity="other">تعویق به مدت %d دقیقه.</item>
+        <item quantity="one">تعویق به مدت %d دقیقه.</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%s روز</item>
+        <item quantity="one">%s روز</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">%s روز پیش</item>
+        <item quantity="one">%s روز پیش</item>
+    </plurals>
+    <plurals name="days_extra_short">
+        <item quantity="other">%s ر</item>
+        <item quantity="one">%s ر</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s ساعت</item>
+        <item quantity="one">%s ساعت</item>
+    </plurals>
+    <plurals name="hours_extra_short">
+        <item quantity="other">%s ساعت</item>
+        <item quantity="one">%s ساعت</item>
+    </plurals>
+    <plurals name="hours_short">
+        <item quantity="other">%s ساعت</item>
+        <item quantity="one">%s ساعت</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s دقیقه</item>
+        <item quantity="one">%s دقیقه</item>
+    </plurals>
+    <plurals name="minutes_extra_short">
+        <item quantity="other">%s دقیقه</item>
+        <item quantity="one">%s دقیقه</item>
+    </plurals>
+    <plurals name="minutes_short">
+        <item quantity="other">%s دقیقه</item>
+        <item quantity="one">%s دقیقه</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d اعلان جدید</item>
+        <item quantity="one">%d اعلان جدید</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">‏%s ثانیه</item>
+        <item quantity="one">‏%s ثانیه</item>
+    </plurals>
+    <plurals name="seconds_extra_short">
+        <item quantity="other">%sث</item>
+        <item quantity="one">%sث</item>
+    </plurals>
+</resources>

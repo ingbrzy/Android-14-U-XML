@@ -1,0 +1,1170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ampersand_phrases">
+        <item>Kaufmännisches Und-Zeichen</item>
+        <item>und</item>
+        <item>Und-Zeichen</item>
+        <item>Und-Zeichen</item>
+    </string-array>
+    <string-array name="answer_key_labels">
+        <item>annehmen</item>
+        <item>takecall</item>
+    </string-array>
+    <string-array name="apostrophe_phrases">
+        <item>Apostroph</item>
+        <item>Einfaches Anführungszeichen</item>
+    </string-array>
+    <string-array name="asterisk_symbol_phrases">
+        <item>Stern</item>
+        <item>Sternsymbol</item>
+        <item>Sternsymbol</item>
+        <item>Sternchen</item>
+    </string-array>
+    <string-array name="at_symbol_phrases">
+        <item>\@</item>
+        <item>ett-Zeichen</item>
+        <item>ett-Zeichen</item>
+    </string-array>
+    <string-array name="back_button_content_descriptions_preferred">
+        <item>antworten</item>
+        <item>antworte allen</item>
+    </string-array>
+    <string-array name="backslash_phrases">
+        <item>umgekehrter Schrägstrich</item>
+    </string-array>
+    <string-array name="beginning_quote_phrases">
+        <item>Öffnendes Anführungszeichen</item>
+        <item>Öffnendes Anführungszeichen</item>
+        <item>Doppeltes Anführungszeichen</item>
+    </string-array>
+    <string-array name="caret_symbol_phrases">
+        <item>Zirkumflex</item>
+        <item>Zirkumflexzeichen</item>
+        <item>Zirkumflexzeichen</item>
+    </string-array>
+    <string-array name="close_brace_phrases">
+        <item>Schließende geschweifte Klammer</item>
+        <item>Rechte geschweifte Klammer</item>
+    </string-array>
+    <string-array name="close_bracket_phrases">
+        <item>Schließende eckige Klammer</item>
+        <item>Rechte eckige Klammer</item>
+    </string-array>
+    <string-array name="close_parenthesis_phrases">
+        <item>Schließende Klammer</item>
+        <item>Klammer zu</item>
+    </string-array>
+    <string-array name="colon_phrases">
+        <item>Doppelpunkt</item>
+    </string-array>
+    <string-array name="comma_phrases">
+        <item>Komma</item>
+    </string-array>
+    <string-array name="dash_phrases">
+        <item>Gedankenstrich</item>
+        <item>Bindestrich</item>
+        <item>Minus</item>
+        <item>Minuszeichen</item>
+        <item>Minuszeichen</item>
+        <item>Subtraktionszeichen</item>
+        <item>Subtraktionszeichen</item>
+        <item>Subtraktionszeichen</item>
+        <item>Subtraktionszeichen</item>
+    </string-array>
+    <string-array name="dollar_symbol_phrases">
+        <item>Dollarzeichen</item>
+        <item>Dollarzeichen</item>
+    </string-array>
+    <string-array name="ellipses_phrases">
+        <item>Dreipunkt-Symbol</item>
+        <item>Dreipunkt-Symbol</item>
+        <item>Auslassungspunkte</item>
+        <item>Auslassungszeichen</item>
+    </string-array>
+    <string-array name="ending_quote_phrases">
+        <item>Schließendes Anführungszeichen</item>
+        <item>Schließendes Anführungszeichen</item>
+        <item>Doppeltes Anführungszeichen</item>
+    </string-array>
+    <string-array name="enter_key_labels">
+        <item>Suche</item>
+        <item>Los</item>
+        <item>Fertig</item>
+        <item>Weiter</item>
+    </string-array>
+    <string-array name="equals_phrases">
+        <item>ist gleich</item>
+        <item>Gleichheitszeichen</item>
+        <item>Gleichheitszeichen</item>
+        <item>sind gleich</item>
+        <item>Gleichheitszeichen</item>
+        <item>Gleichheitszeichen</item>
+    </string-array>
+    <string-array name="error_no_query_present_for_assistant">
+        <item>Sagen Sie „Hey Google, Timer auf 5 Minuten stellen“</item>
+        <item>Sagen Sie „Hey Google, Taschenlampe einschalten“</item>
+        <item>Sagen Sie „Hey Google, wann wurde das Empire State Building gebaut?“</item>
+        <item>Sagen Sie „Hey Google, wer hat Google gegründet?“</item>
+        <item>Sagen Sie „Ok Google, Timer auf 5 Minuten stellen“</item>
+        <item>Sagen Sie „Ok Google, Taschenlampe einschalten“</item>
+        <item>Sagen Sie „Ok Google, wann wurde das Empire State Building gebaut?“</item>
+        <item>Sagen Sie „Ok Google, wer hat Google gegründet?“</item>
+    </string-array>
+    <string-array name="exclamation_mark_phrases">
+        <item>Ausrufezeichen</item>
+    </string-array>
+    <string-array name="greater_than_symbol_phrases">
+        <item>größer als</item>
+        <item>Größer-als-Zeichen</item>
+        <item>Größer-als-Zeichen</item>
+    </string-array>
+    <string-array name="icon_add_alt_names">
+        <item>Plussymbol</item>
+        <item>Plussymbol</item>
+        <item>Hinzufügen</item>
+        <item>Symbol „Hinzufügen“</item>
+        <item>Symbol „Hinzufügen“</item>
+        <item>Neu</item>
+        <item>Symbol „Neu“</item>
+        <item>Symbol „Neu“</item>
+    </string-array>
+    <string-array name="icon_apps_alt_names">
+        <item>Symbol „Apps“</item>
+        <item>Symbol „Apps“</item>
+        <item>Alle Apps</item>
+        <item>Symbol „Alle Apps“</item>
+        <item>Symbol „Alle Apps“</item>
+    </string-array>
+    <string-array name="icon_assistant_alt_names">
+        <item>Assistant-Symbol</item>
+        <item>Assistant-Symbol</item>
+        <item>Google Assistant</item>
+        <item>Google Assistant-Symbol</item>
+        <item>Google Assistant-Symbol</item>
+    </string-array>
+    <string-array name="icon_back_arrow_alt_names">
+        <item>Symbol „Zurück“</item>
+        <item>Symbol „Zurück“</item>
+        <item>Pfeil „Zurück“</item>
+        <item>Pfeilsymbol „Zurück“</item>
+        <item>Pfeilsymbol „Zurück“</item>
+        <item>Pfeil „Zurück“</item>
+        <item>Pfeilsymbol „Zurück“</item>
+        <item>Symbol Pfeil „Zurück“</item>
+        <item>Pfeil „Zurück“</item>
+        <item>Pfeilsymbol „Zurück“</item>
+        <item>Pfeilsymbol „Zurück“</item>
+        <item>Linkspfeil</item>
+        <item>Symbol „Linkspfeil“</item>
+        <item>Symbol „Linkspfeil“</item>
+        <item>Zurück</item>
+        <item>Symbol „Zurück“</item>
+        <item>Symbol „Zurück“</item>
+    </string-array>
+    <string-array name="icon_calendar_alt_names">
+        <item>Google Kalender-Symbol</item>
+        <item>Google Kalender-Symbol</item>
+    </string-array>
+    <string-array name="icon_call_alt_names">
+        <item>Telefonsymbol</item>
+        <item>Telefonsymbol</item>
+        <item>Anruf</item>
+        <item>Anrufsymbol</item>
+        <item>Anrufsymbol</item>
+        <item>Telefon</item>
+        <item>Telefonsymbol</item>
+        <item>Telefonsymbol</item>
+    </string-array>
+    <string-array name="icon_capitalize_alt_names">
+        <item>Symbol für Großschreibung</item>
+        <item>Symbol für Großschreibung</item>
+        <item>Hoch</item>
+        <item>Aufwärtssymbol</item>
+        <item>Aufwärtssymbol</item>
+    </string-array>
+    <string-array name="icon_cast_alt_names">
+        <item>Cast-Symbol</item>
+        <item>Übertragungssymbol</item>
+    </string-array>
+    <string-array name="icon_chat_alt_names">
+        <item>Chat-Symbol</item>
+        <item>Chat-Symbol</item>
+        <item>Nachricht</item>
+        <item>Symbol „Nachricht“</item>
+        <item>Symbol „Nachricht“</item>
+        <item>Nachrichten</item>
+        <item>Symbol „Nachrichten“</item>
+        <item>Symbol „Nachrichten“</item>
+        <item>Unterhaltung</item>
+        <item>Symbol „Unterhaltung“</item>
+        <item>Symbol „Unterhaltung“</item>
+        <item>Sprechblase</item>
+        <item>Sprechblasensymbol</item>
+        <item>Sprechblasensymbol</item>
+        <item>Kommentar</item>
+        <item>Kommentarsymbol</item>
+        <item>Kommentarsymbol</item>
+    </string-array>
+    <string-array name="icon_chat_app_alt_names">
+        <item>Chat-App-Logo</item>
+        <item>Chat-App-Symbol</item>
+        <item>Chat</item>
+        <item>Chat-Symbol</item>
+        <item>Chat-Symbol</item>
+        <item>Nachricht</item>
+        <item>Symbol „Nachricht“</item>
+        <item>Symbol „Nachricht“</item>
+        <item>Nachrichten</item>
+        <item>Symbol „Nachrichten“</item>
+        <item>Symbol „Nachrichten“</item>
+    </string-array>
+    <string-array name="icon_check_alt_names">
+        <item>Häkchensymbol</item>
+        <item>Häkchensymbol</item>
+        <item>Markieren</item>
+        <item>Symbol „Markieren“</item>
+        <item>Symbol „Markieren“</item>
+        <item>Kästchen</item>
+        <item>Symbol „Kästchen“</item>
+        <item>Symbol „Kästchen“</item>
+        <item>Häkchen</item>
+        <item>Häkchensymbol</item>
+        <item>Häkchensymbol</item>
+        <item>Häkchen</item>
+        <item>Häkchensymbol</item>
+        <item>Häkchensymbol</item>
+    </string-array>
+    <string-array name="icon_close_alt_names">
+        <item>Symbol „Schließen“</item>
+        <item>Symbol „Schließen“</item>
+        <item>X</item>
+        <item>Symbol „X“</item>
+        <item>Symbol „X“</item>
+        <item>Beenden</item>
+        <item>Symbol „Beenden“</item>
+        <item>Symbol „Beenden“</item>
+        <item>Kreuz</item>
+        <item>Symbol „Kreuz“</item>
+        <item>Symbol „Kreuz“</item>
+        <item>Multiplizieren</item>
+        <item>Symbol „Multiplizieren“</item>
+        <item>Symbol „Multiplizieren“</item>
+        <item>Mal</item>
+        <item>Symbol „Mal“</item>
+        <item>Symbol „Mal“</item>
+    </string-array>
+    <string-array name="icon_compass_alt_names">
+        <item>Kompasssymbol</item>
+        <item>Kompasssymbol</item>
+        <item>Browser</item>
+        <item>Browsersymbol</item>
+        <item>Browsersymbol</item>
+        <item>Alethiometer</item>
+    </string-array>
+    <string-array name="icon_contract_alt_names">
+        <item>Symbol verkleinern</item>
+        <item>Symbol verkleinern</item>
+        <item>Vertrag</item>
+        <item>Vertragssymbol</item>
+        <item>Vertragssymbol</item>
+        <item>Kleiner</item>
+        <item>Kleineres Symbol</item>
+        <item>Kleineres Symbol</item>
+        <item>Heranzoomen</item>
+        <item>Symbol heranzoomen</item>
+        <item>Symbol heranzoomen</item>
+    </string-array>
+    <string-array name="icon_delete_alt_names">
+        <item>Papierkorbsymbol</item>
+        <item>Papierkorbsymbol</item>
+        <item>Löschen</item>
+        <item>Symbol „Löschen“</item>
+        <item>Symbol „Löschen“</item>
+        <item>Entfernen</item>
+        <item>Symbol „Entfernen“</item>
+        <item>Symbol „Entfernen“</item>
+        <item>Papierkorb</item>
+        <item>Papierkorbsymbol</item>
+        <item>Papierkorbsymbol</item>
+        <item>Papierkorb</item>
+        <item>Papierkorbsymbol</item>
+        <item>Papierkorbsymbol</item>
+        <item>Papierkorb</item>
+        <item>Papierkorbsymbol</item>
+        <item>Papierkorbsymbol</item>
+    </string-array>
+    <string-array name="icon_delete_text_alt_names">
+        <item>Symbol zum Text Löschen</item>
+        <item>Symbol zum Text Löschen</item>
+        <item>X</item>
+        <item>Symbol „X“</item>
+        <item>Symbol „X“</item>
+        <item>Beenden</item>
+        <item>Symbol „Beenden“</item>
+        <item>Symbol „Beenden“</item>
+        <item>Kreuz</item>
+        <item>Symbol „Kreuz“</item>
+        <item>Symbol „Kreuz“</item>
+        <item>Text entfernen</item>
+        <item>Symbol zum Text Entfernen</item>
+        <item>Symbol zum Text Entfernen</item>
+        <item>Rücktaste</item>
+        <item>Rücktastensymbol</item>
+        <item>Rücktastensymbol</item>
+        <item>Kreuz</item>
+        <item>Symbol „Kreuz“</item>
+        <item>Symbol „Kreuz“</item>
+    </string-array>
+    <string-array name="icon_down_arrow_alt_names">
+        <item>Symbol „Nach unten“</item>
+        <item>Symbol „Nach unten“</item>
+        <item>Abwärtspfeil</item>
+        <item>Symbol „Abwärtspfeil“</item>
+        <item>Symbol „Abwärtspfeil“</item>
+        <item>Abwärtspfeil</item>
+        <item>Abwärtspfeilsymbol</item>
+        <item>Abwärtssymbol</item>
+        <item>Abwärtspfeil</item>
+        <item>Abwärtspfeilsymbol</item>
+        <item>Abwärtssymbol</item>
+    </string-array>
+    <string-array name="icon_download_alt_names">
+        <item>Downloadsymbol</item>
+        <item>Downloadsymbol</item>
+        <item>Downloads</item>
+        <item>Downloadsymbol</item>
+        <item>Downloadsymbol</item>
+    </string-array>
+    <string-array name="icon_edit_alt_names">
+        <item>Symbol „Bearbeiten“</item>
+        <item>Symbol „Bearbeiten“</item>
+        <item>Bleistift</item>
+        <item>Bleistiftsymbol</item>
+        <item>Bleistiftsymbol</item>
+        <item>Stift</item>
+        <item>Stiftsymbol</item>
+        <item>Stiftsymbol</item>
+        <item>Markierung</item>
+        <item>Markierungssymbol</item>
+        <item>Markierungssymbol</item>
+        <item>Schreiben</item>
+        <item>Symbol „Schreiben“</item>
+        <item>Symbol „Schreiben“</item>
+    </string-array>
+    <string-array name="icon_emoji_alt_names">
+        <item>Emoji-Symbol</item>
+        <item>Emoji-Symbol</item>
+        <item>Gesicht</item>
+        <item>Gesichtssymbol</item>
+        <item>Gesichtssymbol</item>
+    </string-array>
+    <string-array name="icon_end_call_alt_names">
+        <item>Symbol „Anruf beenden“</item>
+        <item>Symbol „Anruf beenden“</item>
+        <item>Auflegen</item>
+        <item>Symbol „Auflegen“</item>
+        <item>Symbol „Auflegen“</item>
+        <item>Smartphone</item>
+        <item>Telefonsymbol</item>
+        <item>Telefonsymbol</item>
+        <item>Telefon</item>
+        <item>Telefonsymbol</item>
+        <item>Telefonsymbol</item>
+        <item>Anruf beenden</item>
+        <item>Symbol „Anruf beenden“</item>
+        <item>Symbol „Anruf beenden“</item>
+    </string-array>
+    <string-array name="icon_envelope_alt_names">
+        <item>E-Mail-Symbol</item>
+        <item>E-Mail-Symbol</item>
+        <item>Umschlag</item>
+        <item>Umschlagsymbol</item>
+        <item>Umschlagsymbol</item>
+        <item>Brief</item>
+        <item>Briefsymbol</item>
+        <item>Briefsymbol</item>
+        <item>Senden</item>
+        <item>Symbol „Senden“</item>
+        <item>Symbol „Senden“</item>
+        <item>E-Mail</item>
+        <item>E-Mail-Symbol</item>
+        <item>E-Mail-Symbol</item>
+    </string-array>
+    <string-array name="icon_expand_2_alt_names">
+        <item>Symbol „Maximieren“</item>
+        <item>Symbol „Maximieren“</item>
+        <item>Vergrößern</item>
+        <item>Symbol vergrößern</item>
+        <item>Symbol vergrößern</item>
+        <item>Größer</item>
+        <item>Größeres Symbol</item>
+        <item>Größeres Symbol</item>
+        <item>Vergrößern</item>
+        <item>Symbol vergrößern</item>
+        <item>Symbol vergrößern</item>
+        <item>Vollbild</item>
+        <item>Vollbildsymbol</item>
+        <item>Vollbildsymbol</item>
+        <item>Pfeile</item>
+        <item>Pfeilsymbol</item>
+        <item>Pfeilsymbol</item>
+        <item>Herauszoomen</item>
+        <item>Symbol herauszoomen</item>
+        <item>Symbol herauszoomen</item>
+    </string-array>
+    <string-array name="icon_expand_alt_names">
+        <item>Symbol „Nach unten“</item>
+        <item>Symbol „Nach unten“</item>
+        <item>V</item>
+        <item>Symbol „V“</item>
+        <item>Symbol „V“</item>
+        <item>Mehr</item>
+        <item>Symbol „Mehr“</item>
+        <item>Symbol „Mehr“</item>
+        <item>Maximieren</item>
+        <item>Symbol „Maximieren“</item>
+        <item>Symbol „Maximieren“</item>
+        <item>Abwärtspfeil</item>
+        <item>Symbol „Abwärtspfeil“</item>
+        <item>Symbol „Abwärtspfeil“</item>
+        <item>Zirkumflex</item>
+        <item>Symbol „Zirkumflex“</item>
+        <item>Symbol „Zirkumflex“</item>
+    </string-array>
+    <string-array name="icon_facebook_alt_names">
+        <item>Facebook-Symbol</item>
+        <item>Facebook-Symbol</item>
+        <item>Big F</item>
+        <item>Big F-Symbol</item>
+        <item>Big F-Symbol</item>
+    </string-array>
+    <string-array name="icon_forward_arrow_alt_names">
+        <item>Symbol „Vorwärts“</item>
+        <item>Symbol „Vorwärts“</item>
+        <item>Pfeil „Vorwärts“</item>
+        <item>Pfeilsymbol „Vorwärts“</item>
+        <item>Pfeilsymbol „Vorwärts“</item>
+        <item>Pfeil „Vorwärts“</item>
+        <item>Pfeilsymbol „Vorwärts“</item>
+        <item>Pfeilsymbol „Vorwärts“</item>
+        <item>Rechtspfeil</item>
+        <item>Symbol „Rechtspfeil“</item>
+        <item>Symbol „Rechtspfeil“</item>
+        <item>Weiter</item>
+        <item>Symbol „Weiter“</item>
+        <item>Symbol „Weiter“</item>
+    </string-array>
+    <string-array name="icon_gallery_alt_names">
+        <item>Galerie-Symbol</item>
+        <item>Galerie-Symbol</item>
+        <item>Fotos</item>
+        <item>Fotosymbol</item>
+        <item>Fotosymbol</item>
+        <item>Foto</item>
+        <item>Fotosymbol</item>
+        <item>Fotosymbol</item>
+        <item>Bilder</item>
+        <item>Bildersymbol</item>
+        <item>Bildersymbol</item>
+    </string-array>
+    <string-array name="icon_google_alt_names">
+        <item>Google-Symbol</item>
+        <item>Google-Symbol</item>
+        <item>Big G</item>
+        <item>Big G-Symbol</item>
+        <item>Big G-Symbol</item>
+    </string-array>
+    <string-array name="icon_google_play_alt_names">
+        <item>Google Play-Logo</item>
+        <item>Google Play-Symbol</item>
+        <item>Play</item>
+        <item>Wiedergabesymbol</item>
+        <item>Wiedergabesymbol</item>
+        <item>Play Store</item>
+        <item>Play Store-Logo</item>
+        <item>Play Store-Symbol</item>
+    </string-array>
+    <string-array name="icon_headset_alt_names">
+        <item>Kopfhörersymbol</item>
+        <item>Kopfhörersymbol</item>
+        <item>Headset</item>
+        <item>Headsetsymbol</item>
+        <item>Headsetsymbol</item>
+    </string-array>
+    <string-array name="icon_heart_alt_names">
+        <item>Herzsymbol</item>
+        <item>Herzsymbol</item>
+        <item>Gefällt mir</item>
+        <item>Symbol „Gefällt mir“</item>
+        <item>Symbol „Gefällt mir“</item>
+        <item>Favorit</item>
+        <item>Symbol „Favorit“</item>
+        <item>Symbol „Favorit“</item>
+    </string-array>
+    <string-array name="icon_history_alt_names">
+        <item>Verlaufssymbol</item>
+        <item>Verlaufssymbol</item>
+    </string-array>
+    <string-array name="icon_home_alt_names">
+        <item>Symbol „Startbildschirm“</item>
+        <item>Symbol „Startbildschirm“</item>
+        <item>Haus</item>
+        <item>Haussymbol</item>
+        <item>Haussymbol</item>
+    </string-array>
+    <string-array name="icon_info_alt_names">
+        <item>Infosymbol</item>
+        <item>Infosymbol</item>
+        <item>I</item>
+        <item>Symbol „I“</item>
+        <item>Symbol „I“</item>
+        <item>Information</item>
+        <item>Informationssymbol</item>
+        <item>Informationssymbol</item>
+    </string-array>
+    <string-array name="icon_instagram_alt_names">
+        <item>Instagram-Logo</item>
+        <item>Instagram-Symbol</item>
+        <item>Kamera</item>
+        <item>Kamerasymbol</item>
+        <item>Kamerasymbol</item>
+    </string-array>
+    <string-array name="icon_like_alt_names">
+        <item>Symbol „Gefällt mir“</item>
+        <item>Symbol „Gefällt mir“</item>
+        <item>Mag ich</item>
+        <item>Symbol „Mag ich“</item>
+        <item>Symbol „Mag ich“</item>
+        <item>Hochwählen</item>
+        <item>Symbol „Hochwählen“</item>
+        <item>Symbol „Hochwählen“</item>
+    </string-array>
+    <string-array name="icon_list_alt_names">
+        <item>Listensymbol</item>
+        <item>Listensymbol</item>
+        <item>Aufzählungspunkte</item>
+        <item>Aufzählungspunktesymbol</item>
+        <item>Aufzählungspunktesymbol</item>
+        <item>Aufzählungspunkte</item>
+        <item>Aufzählungspunktesymbol</item>
+        <item>Aufzählungspunktesymbol</item>
+    </string-array>
+    <string-array name="icon_location_alt_names">
+        <item>Standortsymbol</item>
+        <item>Standortsymbol</item>
+        <item>Karte</item>
+        <item>Kartensymbol</item>
+        <item>Kartensymbol</item>
+        <item>Maps</item>
+        <item>Google Maps-Symbol</item>
+        <item>Google Maps-Symbol</item>
+    </string-array>
+    <string-array name="icon_media_alt_names">
+        <item>Mediensymbol</item>
+        <item>Mediensymbol</item>
+        <item>Play</item>
+        <item>Wiedergabesymbol</item>
+        <item>Wiedergabesymbol</item>
+        <item>Video</item>
+        <item>Videosymbol</item>
+        <item>Videosymbol</item>
+        <item>Playlist</item>
+        <item>Playlistsymbol</item>
+        <item>Playlistsymbol</item>
+    </string-array>
+    <string-array name="icon_menu_alt_names">
+        <item>Menüsymbol</item>
+        <item>Menüsymbol</item>
+        <item>Menü „Hamburger“</item>
+        <item>Menüsymbol „Hamburger“</item>
+        <item>Menüsymbol „Hamburger“</item>
+        <item>Drei Balken</item>
+        <item>Symbol mit drei Balken</item>
+        <item>Symbol mit drei Balken</item>
+    </string-array>
+    <string-array name="icon_messenger_alt_names">
+        <item>Messenger-Logo</item>
+        <item>Messenger-Symbol</item>
+        <item>Facebook Messenger</item>
+        <item>Facebook Messenger-Logo</item>
+        <item>Facebook Messenger-Symbol</item>
+        <item>Chat</item>
+        <item>Chat-Symbol</item>
+        <item>Chat-Symbol</item>
+        <item>Nachricht</item>
+        <item>Symbol „Nachricht“</item>
+        <item>Symbol „Nachricht“</item>
+        <item>Nachrichten</item>
+        <item>Symbol „Nachrichten“</item>
+        <item>Symbol „Nachrichten“</item>
+    </string-array>
+    <string-array name="icon_mic_alt_names">
+        <item>Mikrofonsymbol</item>
+        <item>Mikrofonsymbol</item>
+        <item>Mikrofon</item>
+        <item>Mikrofonsymbol</item>
+        <item>Mikrofonsymbol</item>
+        <item>Mikrofon an</item>
+        <item>Mikrofon an-Symbol</item>
+        <item>Mikrofon an-Symbol</item>
+        <item>Stummschaltung aufheben</item>
+        <item>Stummschaltung aufheben-Symbol</item>
+        <item>Stummschaltung aufheben-Symbol</item>
+    </string-array>
+    <string-array name="icon_mic_mute_alt_names">
+        <item>Stummschalten-Symbol</item>
+        <item>Stummschalten-Symbol</item>
+        <item>Stummgeschaltet</item>
+        <item>Stummgeschaltet-Symbol</item>
+        <item>Stummgeschaltet-Symbol</item>
+        <item>Lautlos</item>
+        <item>Lautlossymbol</item>
+        <item>Lautlossymbol</item>
+        <item>Mikrofon aus</item>
+        <item>Mikrofon aus-Symbol</item>
+        <item>Mikrofon aus-Symbol</item>
+    </string-array>
+    <string-array name="icon_more_alt_names">
+        <item>Symbol „Mehr“</item>
+        <item>Symbol „Mehr“</item>
+        <item>Überlauf</item>
+        <item>Symbol „Überlauf“</item>
+        <item>Symbol „Überlauf“</item>
+        <item>Drei Punkte</item>
+        <item>Symbol „Drei Punkte“</item>
+        <item>Symbol „Drei Punkte“</item>
+        <item>Weitere Optionen</item>
+        <item>Symbol „Weitere Optionen“</item>
+        <item>Symbol „Weitere Optionen“</item>
+    </string-array>
+    <string-array name="icon_multiply_alt_names">
+        <item>Symbol „Multiplizieren“</item>
+        <item>Symbol „Multiplizieren“</item>
+        <item>Mal</item>
+        <item>Symbol „Mal“</item>
+        <item>Symbol „Mal“</item>
+        <item>X</item>
+        <item>Symbol „X“</item>
+        <item>Symbol „X“</item>
+        <item>Kreuz</item>
+        <item>Symbol „Kreuz“</item>
+        <item>Symbol „Kreuz“</item>
+    </string-array>
+    <string-array name="icon_nav_bar_circle_alt_names">
+        <item>Symbol „Startbildschirm“</item>
+        <item>Symbol „Startbildschirm“</item>
+        <item>Zur Startseite</item>
+        <item>Symbol „Zur Startseite“</item>
+        <item>Symbol „Zur Startseite“</item>
+    </string-array>
+    <string-array name="icon_nav_bar_rect_alt_names">
+        <item>Übersichtssymbol</item>
+        <item>Übersichtssymbol</item>
+        <item>Zuletzt verwendet</item>
+        <item>Symbol „Zuletzt verwendet“</item>
+        <item>Symbol „Zuletzt verwendet“</item>
+        <item>Zuletzt aktive Apps</item>
+        <item>Symbol „Zuletzt aktive Apps“</item>
+        <item>Symbol „Zuletzt aktive Apps“</item>
+    </string-array>
+    <string-array name="icon_notifications_alt_names">
+        <item>Benachrichtigungssymbol</item>
+        <item>Benachrichtigungssymbol</item>
+        <item>Alarmglocke</item>
+        <item>Symbol „Alarmglocke“</item>
+        <item>Symbol „Alarmglocke“</item>
+        <item>Benachrichtigung</item>
+        <item>Benachrichtigungssymbol</item>
+        <item>Benachrichtigungssymbol</item>
+    </string-array>
+    <string-array name="icon_paperclip_alt_names">
+        <item>Büroklammer</item>
+        <item>Büroklammersymbol</item>
+        <item>Büroklammersymbol</item>
+        <item>Anhang</item>
+        <item>Symbol „Anhang“</item>
+        <item>Symbol „Anhang“</item>
+        <item>Anhänge</item>
+        <item>Symbol „Anhänge“</item>
+        <item>Symbol „Anhänge“</item>
+    </string-array>
+    <string-array name="icon_pause_alt_names">
+        <item>Symbol „Pausieren“</item>
+        <item>Symbol „Pausieren“</item>
+    </string-array>
+    <string-array name="icon_people_alt_names">
+        <item>Personensymbol</item>
+        <item>Personensymbol</item>
+        <item>Freunde</item>
+        <item>Freundesymbol</item>
+        <item>Freundesymbol</item>
+    </string-array>
+    <string-array name="icon_person_alt_names">
+        <item>Personensymbol</item>
+        <item>Personensymbol</item>
+    </string-array>
+    <string-array name="icon_phone_app_alt_names">
+        <item>Logo für die Smartphone App</item>
+        <item>Symbol für die Smartphone App</item>
+        <item>Smartphone</item>
+        <item>Telefonsymbol</item>
+        <item>Telefonsymbol</item>
+        <item>Telefon</item>
+        <item>Telefonsymbol</item>
+        <item>Telefonsymbol</item>
+    </string-array>
+    <string-array name="icon_play_alt_names">
+        <item>Wiedergabesymbol</item>
+        <item>Wiedergabesymbol</item>
+        <item>Starten</item>
+        <item>Symbol „Starten“</item>
+        <item>Symbol „Starten“</item>
+        <item>Los</item>
+        <item>Symbol „Los“</item>
+        <item>Symbol „Los“</item>
+    </string-array>
+    <string-array name="icon_question_alt_names">
+        <item>Fragezeichensymbol</item>
+        <item>Fragezeichensymbol</item>
+    </string-array>
+    <string-array name="icon_redo_alt_names">
+        <item>Symbol „Wiederholen“</item>
+        <item>Symbol „Wiederholen“</item>
+        <item>Wiederholen</item>
+        <item>Symbol „Wiederholen“</item>
+        <item>Symbol „Wiederholen“</item>
+    </string-array>
+    <string-array name="icon_refresh_alt_names">
+        <item>Aktualisieren</item>
+        <item>Symbol „Aktualisieren“</item>
+        <item>Neu laden</item>
+        <item>Symbol „Neu laden“</item>
+        <item>Symbol „Neu laden“</item>
+    </string-array>
+    <string-array name="icon_reply_alt_names">
+        <item>Antwortsymbol</item>
+        <item>Antwortsymbol</item>
+        <item>Reagieren</item>
+        <item>Reaktionssymbol</item>
+        <item>Reaktionssymbol</item>
+    </string-array>
+    <string-array name="icon_search_alt_names">
+        <item>Symbol „Suchen“</item>
+        <item>Symbol „Suchen“</item>
+        <item>Lupe</item>
+        <item>Lupensymbol</item>
+        <item>Lupensymbol</item>
+        <item>Suchen</item>
+        <item>Symbol „Suchen“</item>
+        <item>Symbol „Suchen“</item>
+        <item>Vergrößern</item>
+        <item>Symbol „Vergrößern“</item>
+        <item>Symbol „Vergrößern“</item>
+    </string-array>
+    <string-array name="icon_semantics_call_alt_names">
+        <item>Anrufsymbol</item>
+        <item>Anrufsymbol</item>
+        <item>Anruf</item>
+        <item>Anrufsymbol</item>
+        <item>Anrufsymbol</item>
+        <item>Smartphone</item>
+        <item>Telefonsymbol</item>
+        <item>Telefonsymbol</item>
+    </string-array>
+    <string-array name="icon_semantics_close_alt_names">
+        <item>Symbol „Schließen“</item>
+        <item>Symbol „Schließen“</item>
+        <item>X</item>
+        <item>Symbol „X“</item>
+        <item>Symbol „X“</item>
+        <item>Beenden</item>
+        <item>Symbol „Beenden“</item>
+        <item>Symbol „Beenden“</item>
+        <item>Kreuz</item>
+        <item>Symbol „Kreuz“</item>
+        <item>Symbol „Kreuz“</item>
+    </string-array>
+    <string-array name="icon_send_alt_names">
+        <item>Symbol „Senden“</item>
+        <item>Symbol „Senden“</item>
+        <item>Papierflugzeug</item>
+        <item>Symbol „Papierflugzeug“</item>
+        <item>Symbol „Papierflugzeug“</item>
+    </string-array>
+    <string-array name="icon_settings_alt_names">
+        <item>Symbol „Einstellungen“</item>
+        <item>Symbol „Einstellungen“</item>
+        <item>Zahnrad</item>
+        <item>Zahnradsymbol</item>
+        <item>Zahnradsymbol</item>
+        <item>Zahnrad</item>
+        <item>Zahnradsymbol</item>
+        <item>Zahnradsymbol</item>
+    </string-array>
+    <string-array name="icon_share_alt_names">
+        <item>Symbol „Teilen“</item>
+        <item>Symbol „Teilen“</item>
+    </string-array>
+    <string-array name="icon_shopping_bag_alt_names">
+        <item>Einkaufstaschensymbol</item>
+        <item>Einkaufstaschensymbol</item>
+    </string-array>
+    <string-array name="icon_shopping_cart_alt_names">
+        <item>Einkaufswagensymbol</item>
+        <item>Einkaufswagensymbol</item>
+        <item>Warenkorb</item>
+        <item>Warenkorbsymbol</item>
+        <item>Warenkorbsymbol</item>
+        <item>Shopping</item>
+        <item>Shopping-Symbol</item>
+        <item>Shopping-Symbol</item>
+        <item>Einkaufswagen</item>
+        <item>Einkaufswagensymbol</item>
+        <item>Einkaufswagensymbol</item>
+        <item>Warenkorb</item>
+        <item>Warenkorbsymbol</item>
+        <item>Warenkorbsymbol</item>
+    </string-array>
+    <string-array name="icon_star_alt_names">
+        <item>Sternsymbol</item>
+        <item>Sternsymbol</item>
+        <item>Favorit</item>
+        <item>Symbol „Favorit“</item>
+        <item>Symbol „Favorit“</item>
+        <item>Gefällt mir</item>
+        <item>Symbol „Gefällt mir“</item>
+        <item>Symbol „Gefällt mir“</item>
+        <item>Speichern</item>
+        <item>Symbol „Speichern“</item>
+        <item>Symbol „Speichern“</item>
+    </string-array>
+    <string-array name="icon_stop_alt_names">
+        <item>Stoppsymbol</item>
+        <item>Stoppsymbol</item>
+    </string-array>
+    <string-array name="icon_take_photo_alt_names">
+        <item>Kamerasymbol</item>
+        <item>Kamerasymbol</item>
+        <item>Foto aufnehmen</item>
+        <item>Symbol „Foto aufnehmen“</item>
+        <item>Symbol „Foto aufnehmen“</item>
+    </string-array>
+    <string-array name="icon_thumbs_down_alt_names">
+        <item>„Gefällt mir nicht“-Symbol</item>
+        <item>„Gefällt mir nicht“-Symbol</item>
+        <item>Gefällt mir nicht</item>
+        <item>„Gefällt mir nicht“-Symbol</item>
+        <item>„Gefällt mir nicht“-Symbol</item>
+        <item>Runterwählen</item>
+        <item>Symbol „Runterwählen“</item>
+        <item>Symbol „Runterwählen“</item>
+    </string-array>
+    <string-array name="icon_time_alt_names">
+        <item>Uhrsymbol</item>
+        <item>Uhrsymbol</item>
+        <item>Zeit</item>
+        <item>Zeitsymbol</item>
+        <item>Zeitsymbol</item>
+        <item>Wecker</item>
+        <item>Weckersymbol</item>
+        <item>Weckersymbol</item>
+    </string-array>
+    <string-array name="icon_twitter_alt_names">
+        <item>Twitter-Symbol</item>
+        <item>Twitter-Symbol</item>
+        <item>Tweet</item>
+        <item>Tweet-Symbol</item>
+        <item>Tweet-Symbol</item>
+        <item>Blauer Vogel</item>
+        <item>Symbol mit blauem Vogel</item>
+        <item>Symbol mit blauem Vogel</item>
+    </string-array>
+    <string-array name="icon_undo_alt_names">
+        <item>Symbol „Rückgängig machen“</item>
+        <item>Symbol „Rückgängig machen“</item>
+    </string-array>
+    <string-array name="icon_up_arrow_alt_names">
+        <item>Aufwärtssymbol</item>
+        <item>Aufwärtssymbol</item>
+        <item>Aufwärtspfeil</item>
+        <item>Aufwärtspfeilsymbol</item>
+        <item>Aufwärtspfeilsymbol</item>
+        <item>Aufwärtspfeil</item>
+        <item>Aufwärtspfeilsymbol</item>
+        <item>Aufwärtssymbol</item>
+        <item>Aufwärtspfeil</item>
+        <item>Aufwärtspfeilsymbol</item>
+        <item>Aufwärtssymbol</item>
+    </string-array>
+    <string-array name="icon_upload_alt_names">
+        <item>Uploadsymbol</item>
+        <item>Uploadsymbol</item>
+        <item>Teilen</item>
+        <item>Symbol „Teilen“</item>
+        <item>Symbol „Teilen“</item>
+    </string-array>
+    <string-array name="icon_v_backward_alt_names">
+        <item>Linkes Symbol</item>
+        <item>Linkes Symbol</item>
+    </string-array>
+    <string-array name="icon_v_forward_alt_names">
+        <item>Rechtes Symbol</item>
+        <item>Rechtes Symbol</item>
+    </string-array>
+    <string-array name="icon_v_upward_alt_names">
+        <item>Aufwärtssymbol</item>
+        <item>Aufwärtssymbol</item>
+        <item>Zirkumflex</item>
+        <item>Symbol „Zirkumflex“</item>
+        <item>Symbol „Zirkumflex“</item>
+        <item>Vertrag</item>
+        <item>Vertragssymbol</item>
+        <item>Vertragssymbol</item>
+        <item>Weniger</item>
+        <item>Symbol „Weniger“</item>
+        <item>Symbol „Weniger“</item>
+    </string-array>
+    <string-array name="icon_video_alt_names">
+        <item>Videosymbol</item>
+        <item>Videosymbol</item>
+        <item>Video aufnehmen</item>
+        <item>Symbol „Video aufnehmen“</item>
+        <item>Symbol „Video aufnehmen“</item>
+        <item>Videokamera</item>
+        <item>Symbol „Videokamera“</item>
+        <item>Symbol „Videokamera“</item>
+        <item>Videokamera</item>
+        <item>Symbol „Videokamera“</item>
+        <item>Symbol „Videokamera“</item>
+    </string-array>
+    <string-array name="icon_volume_down_alt_names">
+        <item>Leiser-Symbol</item>
+        <item>Leiser-Symbol</item>
+        <item>Leiser</item>
+        <item>Leiser-Symbol</item>
+        <item>Leiser-Symbol</item>
+    </string-array>
+    <string-array name="icon_volume_mute_alt_names">
+        <item>Stummschalten-Symbol</item>
+        <item>Stummschalten-Symbol</item>
+        <item>Ton aus</item>
+        <item>Symbol „Ton aus“</item>
+        <item>Symbol „Ton aus“</item>
+        <item>Lautlos</item>
+        <item>Lautlossymbol</item>
+        <item>Lautlossymbol</item>
+    </string-array>
+    <string-array name="icon_volume_state_alt_names">
+        <item>Lautstärkesymbol</item>
+        <item>Lautstärkesymbol</item>
+    </string-array>
+    <string-array name="icon_volume_up_alt_names">
+        <item>Lauter-Symbol</item>
+        <item>Lauter-Symbol</item>
+        <item>Lauter</item>
+        <item>Lauter-Symbol</item>
+        <item>Lauter-Symbol</item>
+    </string-array>
+    <string-array name="icon_weather_alt_names">
+        <item>Wettersymbol</item>
+        <item>Wettersymbol</item>
+    </string-array>
+    <string-array name="icon_whatsapp_alt_names">
+        <item>WhatsApp-Logo</item>
+        <item>WhatsApp-Symbol</item>
+        <item>Chat</item>
+        <item>Chat-Symbol</item>
+        <item>Chat-Symbol</item>
+        <item>Nachricht</item>
+        <item>Symbol „Nachricht“</item>
+        <item>Symbol „Nachricht“</item>
+        <item>Nachrichten</item>
+        <item>Symbol „Nachrichten“</item>
+        <item>Symbol „Nachrichten“</item>
+    </string-array>
+    <string-array name="icon_youtube_alt_names">
+        <item>YouTube-Logo</item>
+        <item>YouTube-Symbol</item>
+        <item>Play</item>
+        <item>Wiedergabesymbol</item>
+        <item>Wiedergabesymbol</item>
+        <item>YouTube Music</item>
+        <item>YouTube Music-Logo</item>
+        <item>YouTube Music-Symbol</item>
+    </string-array>
+    <string-array name="icon_zoom_in_alt_names">
+        <item>Symbol heranzoomen</item>
+        <item>Symbol heranzoomen</item>
+        <item>Lupe</item>
+        <item>Lupensymbol</item>
+        <item>Lupensymbol</item>
+        <item>Vergrößern</item>
+        <item>Symbol „Vergrößern“</item>
+        <item>Symbol „Vergrößern“</item>
+    </string-array>
+    <string-array name="icon_zoom_out_alt_names">
+        <item>Symbol herauszoomen</item>
+        <item>Symbol herauszoomen</item>
+        <item>Lupe</item>
+        <item>Lupensymbol</item>
+        <item>Lupensymbol</item>
+    </string-array>
+    <string-array name="insert_triggers">
+        <item>Einfügen</item>
+        <item>Hinzufügen</item>
+        <item>Eingeben</item>
+    </string-array>
+    <string-array name="keyguard_replacement_labels">
+        <item>Anton</item>
+        <item>Berta</item>
+        <item>Dora</item>
+        <item>Emil</item>
+        <item>Friedrich</item>
+        <item>Gustav</item>
+        <item>Heinrich</item>
+        <item>Ida</item>
+        <item>Kaufmann</item>
+        <item>Ludwig</item>
+        <item>Samuel</item>
+        <item>Theodor</item>
+        <item>Ulrich</item>
+        <item>Zacharias</item>
+    </string-array>
+    <string-array name="less_than_symbol_phrases">
+        <item>kleiner als</item>
+        <item>Kleiner-als-Zeichen</item>
+        <item>Kleiner-als-Zeichen</item>
+    </string-array>
+    <string-array name="newline_phrases">
+        <item>Neue Zeilen</item>
+        <item>Neue Zeile</item>
+        <item>Neue Zeile</item>
+        <item>Neuer Absatz</item>
+        <item>Ende Absatz</item>
+        <item>Nächste Zeile</item>
+        <item>Ende Zeile</item>
+        <item>Zeilenende</item>
+        <item>Zeilenvorschub</item>
+        <item>Zeilenumbruch</item>
+        <item>Ende der Zeile</item>
+        <item>Ende der Zeile</item>
+        <item>Zeilenumbruch</item>
+    </string-array>
+    <string-array name="non_textual_search">
+        <item>Spracheingabe</item>
+        <item>Kamerasuche</item>
+        <item>Bildersuche</item>
+    </string-array>
+    <string-array name="number_symbol_phrases">
+        <item>Rautenzeichen</item>
+        <item>Rautenzeichen</item>
+        <item>Hashtag</item>
+        <item>Hash</item>
+    </string-array>
+    <string-array name="open_brace_phrases">
+        <item>Öffnende geschweifte Klammer</item>
+        <item>Linke geschweifte Klammer</item>
+    </string-array>
+    <string-array name="open_bracket_phrases">
+        <item>Öffnende eckige Klammer</item>
+        <item>Linke eckige Klammer</item>
+    </string-array>
+    <string-array name="open_parenthesis_phrases">
+        <item>Öffnende Klammer</item>
+        <item>Klammer auf</item>
+    </string-array>
+    <string-array name="percent_symbol_phrases">
+        <item>Prozent</item>
+        <item>Prozentzeichen</item>
+        <item>Prozentzeichen</item>
+    </string-array>
+    <string-array name="period_phrases">
+        <item>Punkt</item>
+        <item>Punkt</item>
+    </string-array>
+    <string-array name="pipe_phrases">
+        <item>Vertikaler Strich</item>
+    </string-array>
+    <string-array name="plus_phrases">
+        <item>plus</item>
+        <item>Pluszeichen</item>
+        <item>Pluszeichen</item>
+    </string-array>
+    <string-array name="pref_key_behavior">
+        <item>Zum Starten und Beenden drücken</item>
+        <item>Zum Starten drücken und halten, zum Beenden loslassen</item>
+    </string-array>
+    <string-array name="pref_overlay_opacity_entries">
+        <item>Am hellsten</item>
+        <item>Hell</item>
+        <item>Mittel</item>
+        <item>Dunkel</item>
+    </string-array>
+    <string-array name="pref_point_selection_target_entries">
+        <item>Extraklein</item>
+        <item>Klein</item>
+        <item>Mittel</item>
+        <item>Groß</item>
+        <item>Extragroß</item>
+    </string-array>
+    <string-array name="pref_screen_wake_up_behavior_entries">
+        <item>Immer mit Spracheingabe beginnen</item>
+        <item>Mit Spracheingabe beginnen, wenn nicht deaktiviert</item>
+        <item>Nicht mit Spracheingabe beginnen</item>
+    </string-array>
+    <string-array name="question_mark_phrases">
+        <item>Fragezeichen</item>
+    </string-array>
+    <string-array name="quote_phrases">
+        <item>Anführungszeichen</item>
+        <item>Doppeltes Anführungszeichen</item>
+    </string-array>
+    <string-array name="replacement_trigger_helpers">
+        <item>Mit</item>
+        <item>Bis</item>
+    </string-array>
+    <string-array name="search_keywords">
+        <item>Suchen</item>
+        <item>Finden</item>
+        <item>Suche läuft</item>
+        <item>Wohin?</item>
+    </string-array>
+    <string-array name="semicolon_phrases">
+        <item>Semikolon</item>
+    </string-array>
+    <string-array name="slash_phrases">
+        <item>Schrägstrich</item>
+        <item>Schrägstrich</item>
+    </string-array>
+    <string-array name="swipe_down_onscreen_text">
+        <item>Nach unten wischen</item>
+        <item>Nach unten ziehen</item>
+    </string-array>
+    <string-array name="swipe_left_onscreen_text">
+        <item>Nach links wischen</item>
+        <item>Nach links ziehen</item>
+    </string-array>
+    <string-array name="swipe_onscreen_text">
+        <item>Wischen, ziehen</item>
+        <item>Ziehen</item>
+    </string-array>
+    <string-array name="swipe_right_onscreen_text">
+        <item>Nach rechts wischen</item>
+        <item>Nach rechts ziehen</item>
+    </string-array>
+    <string-array name="swipe_up_onscreen_text">
+        <item>Nach oben wischen</item>
+        <item>Nach oben ziehen</item>
+    </string-array>
+    <string-array name="text_representation_qualifiers">
+        <item>Das Wort</item>
+        <item>Die Wörter</item>
+        <item>Die Wortgruppe</item>
+    </string-array>
+    <string-array name="tilde_phrases">
+        <item>Tilde</item>
+    </string-array>
+    <string-array name="underscore_phrases">
+        <item>Unterstrich</item>
+    </string-array>
+</resources>

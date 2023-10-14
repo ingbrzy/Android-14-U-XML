@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">Natrag</string>
+    <string name="abc_action_mode_done">Gotovo</string>
+    <string name="abc_capital_off">ISKLJUČENO</string>
+    <string name="abc_capital_on">UKLJUČENO</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">svemir</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Pretražite…</string>
+    <string name="abc_searchview_description_clear">Izbriši upit</string>
+    <string name="abc_searchview_description_search">Pretraži</string>
+    <string name="abc_searchview_description_submit">Pošalji upit</string>
+    <string name="abc_searchview_description_voice">Glasovno pretraživanje</string>
+    <string name="abc_toolbar_collapse_description">Sažmi</string>
+    <string name="bottom_sheet_button_contact_text">@string/common_view</string>
+    <string name="bottom_sheet_button_matter_text">Postavljanje</string>
+    <string name="bottom_sheet_button_no_apps_text">Pretraživanje</string>
+    <string name="bottom_sheet_button_wifi_text">@string/common_connect</string>
+    <string name="bottom_sheet_copy_error_toast">Kopiranje teksta u međuspremnik nije uspjelo</string>
+    <string name="bottom_sheet_copy_success_toast">Tekst kopiran u međuspremnik</string>
+    <string name="bottom_sheet_image_view_description">Ikona aplikacije koja se prikazuje</string>
+    <string name="bottom_sheet_sub_title_no_apps">Pretražujte na Google Playu</string>
+    <string name="bottom_sheet_title">Otvorite u aplikaciji</string>
+    <string name="bottom_sheet_title_app_found">Otvorite u aplikaciji %1$s</string>
+    <string name="bottom_sheet_title_contact">Pregledajte pojedinosti o kontaktu</string>
+    <string name="bottom_sheet_title_copy_text">Kopirajte tekst</string>
+    <string name="bottom_sheet_title_copy_text_button_text">@string/common_copy</string>
+    <string name="bottom_sheet_title_copy_text_button_text_copied">Kopirano</string>
+    <string name="bottom_sheet_title_matter">Postavljanje uređaja</string>
+    <string name="bottom_sheet_title_passkey">Upotrijebite pristupni ključ</string>
+    <string name="bottom_sheet_title_payment">Način plaćanja</string>
+    <string name="bottom_sheet_title_payment_setup">Postavite plaćanje uz</string>
+    <string name="bottom_sheet_title_payment_setup_single_app">Postavite plaćanje uz %1$s</string>
+    <string name="bottom_sheet_title_payment_single_app">Platite putem usluge %1$s</string>
+    <string name="bottom_sheet_title_single_app_button_text">Otvori</string>
+    <string name="bottom_sheet_title_wifi">Povezivanje s Wi-Fijem</string>
+    <string name="bottomsheet_action_expand_halfway">Proširi donju polovicu</string>
+    <string name="bottomsheet_drag_handle_content_description">Marker za povlačenje</string>
+    <string name="camera_permission_dialog_button">U redu</string>
+    <string name="camera_permission_dialog_message">"Usluge za Google Play trebaju pristupiti kameri uređaja radi skeniranja koda za uslugu %1$s.
+
+Da biste omogućili pristup, odobrite uslugama za Google Play dopuštenje za kameru u postavkama."</string>
+    <string name="camera_permission_dialog_message_platform">"Usluge za Google Play trebaju pristupiti kameri uređaja radi skeniranja QR koda.
+
+Da biste omogućili pristup, odobrite uslugama za Google Play dopuštenje za kameru u postavkama."</string>
+    <string name="camera_permission_dialog_title">Potrebno je dopuštenje za kameru</string>
+    <string name="cd_cancel_button">Zatvori čitač koda</string>
+    <string name="cd_info_button">Otvori dijaloški okvir s informacijama</string>
+    <string name="cd_selected_photo_view">Prikaži odabranu sliku</string>
+    <string name="cd_settings_button">Otvorite postavke skenera</string>
+    <string name="cd_torch_button">Uključi/isključi svjetiljku</string>
+    <string name="character_counter_content_description">Uneseno znakova: %1$d od %2$d</string>
+    <string name="character_counter_overflowed_content_description">Premašeno je ograničenje broja znakova: %1$d od %2$d</string>
+    <string name="clear_text_end_icon_content_description">Brisanje teksta</string>
+    <string name="common_connect">Poveži</string>
+    <string name="common_continue">Nastavi</string>
+    <string name="common_copy">Kopiraj</string>
+    <string name="common_google_play_services_enable_button">Omogući</string>
+    <string name="common_google_play_services_enable_text">%1$s neće funkcionirati ako ne omogućite usluge Google Playa.</string>
+    <string name="common_google_play_services_enable_title">Omogućivanje usluga Google Playa</string>
+    <string name="common_google_play_services_install_button">Instaliraj</string>
+    <string name="common_google_play_services_install_text">%1$s neće funkcionirati bez usluga Google Playa koje nisu instalirane na vašem uređaju.</string>
+    <string name="common_google_play_services_install_title">Preuzimanje usluga Google Playa</string>
+    <string name="common_google_play_services_notification_channel_name">Dostupnost usluga za Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Pogreška Usluga za Google Play</string>
+    <string name="common_google_play_services_unknown_issue">%1$s ima poteškoća s uslugama Google Playa. Pokušajte ponovo.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s neće funkcionirati bez usluga Google Playa koje vaš uređaj ne podržava.</string>
+    <string name="common_google_play_services_update_button">Ažuriraj</string>
+    <string name="common_google_play_services_update_text">%1$s neće funkcionirati ako ne ažurirate Google Play usluge.</string>
+    <string name="common_google_play_services_update_title">Ažuriranje usluga Google Playa</string>
+    <string name="common_google_play_services_updating_text">%1$s neće se pokrenuti bez usluga Google Playa koje se trenutačno ažuriraju.</string>
+    <string name="common_google_play_services_wear_update_text">Potrebna je nova verzija usluga Google Playa. Uskoro će se ažurirati.</string>
+    <string name="common_got_it">Shvaćam</string>
+    <string name="common_no_apps_found">Aplikacije nisu pronađene</string>
+    <string name="common_open_on_phone">Otvori na telefonu</string>
+    <string name="common_view">Prikaži</string>
+    <string name="error_a11y_label">Error: invalid</string>
+    <string name="error_icon_content_description">Pogreška</string>
+    <string name="exposed_dropdown_menu_content_description">Prikaži padajući izbornik</string>
+    <string name="info_dialog_button">@string/common_got_it</string>
+    <string name="info_dialog_message">"%1$s zahtijeva da usluge za Google Play skeniraju kôd u ime te usluge. Neće se dijeliti slikovni podaci, već samo rezultati skeniranja.
+
+Skeniranje se vrši na vašem uređaju i Google neće spremati slikovne podatke ni skenirane kodove."</string>
+    <string name="info_dialog_message_platform">Usluge za Google Play pristupaju fotoaparatu uređaja. Podaci o skeniranom kodu i njegove slike ne pohranjuju se i ne šalju s ovog uređaja.</string>
+    <string name="info_dialog_title">Googleova zaštita</string>
+    <string name="info_dialog_title_platform">Omogućuje Google</string>
+    <string name="manual_input_hint">Dodirnite ovdje da biste ručno unijeli kôd</string>
+    <string name="mtrl_checkbox_state_description_checked">Checked</string>
+    <string name="mtrl_checkbox_state_description_indeterminate">Partially checked</string>
+    <string name="mtrl_checkbox_state_description_unchecked">Not checked</string>
+    <string name="password_toggle_content_description">Prikaži zaporku</string>
+    <string name="qr_detection_failure_dialog_message">Pokušajte skenirati s druge fotografije</string>
+    <string name="qr_detection_failure_dialog_title">Nije pronađen QR kôd</string>
+    <string name="scan_from_photo_title">Skeniranje s fotografije</string>
+    <string name="scanner_brand">Skenira Google u ime: %1$s</string>
+    <string name="scanner_brand_platform">@string/info_dialog_title_platform</string>
+    <string name="scanner_title">Skeniraj kôd</string>
+    <string name="scanner_title_platform">Skeniranje QR koda</string>
+</resources>

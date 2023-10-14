@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">መነሻ ዳስስ</string>
+    <string name="abc_action_bar_up_description">ወደ ላይ ያስሱ</string>
+    <string name="abc_action_menu_overflow_description">ተጨማሪ አማራጮች</string>
+    <string name="abc_action_mode_done">ተከናውኗል</string>
+    <string name="abc_activity_chooser_view_see_all">ሁሉንም ይመልከቱ</string>
+    <string name="abc_activitychooserview_choose_application">አንድ መተግበሪያ ይምረጡ</string>
+    <string name="abc_capital_off">አጥፋ</string>
+    <string name="abc_capital_on">አብራ</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">ሰርዝ</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">ክፍተት</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">ይፈልጉ…</string>
+    <string name="abc_searchview_description_clear">መጠይቅ አጽዳ</string>
+    <string name="abc_searchview_description_query">የፍለጋ መጠይቅ</string>
+    <string name="abc_searchview_description_search">ፍለጋ</string>
+    <string name="abc_searchview_description_submit">መጠይቅ አስገባ</string>
+    <string name="abc_searchview_description_voice">የድምጽ ፍለጋ</string>
+    <string name="abc_shareactionprovider_share_with">አጋራ በ</string>
+    <string name="abc_shareactionprovider_share_with_application">ለ%s አጋራ</string>
+    <string name="abc_toolbar_collapse_description">ሰብስብ</string>
+    <string name="activity_resolver_use_always">ዘወትር</string>
+    <string name="activity_resolver_use_once">አንዴ ብቻ</string>
+    <string name="activity_resolver_work_profiles_support">%1$s የሥራ መገለጫን አይደግፍም</string>
+    <string name="call_notification_answer_action">መልስ</string>
+    <string name="call_notification_answer_video_action">ቪዲዮ</string>
+    <string name="call_notification_decline_action">አትቀበል</string>
+    <string name="call_notification_hang_up_action">ስልኩን ዝጋ</string>
+    <string name="call_notification_incoming_text">ገቢ ጥሪ</string>
+    <string name="call_notification_ongoing_text">እየተካሄደ ያለ ጥሪ</string>
+    <string name="call_notification_screening_text">ገቢ ጥሪ ማጣራት</string>
+    <string name="chooseActivity">እርምጃ ይምረጡ</string>
+    <string name="chooser_no_direct_share_targets">የሚያጋሯቸው ምንም የሚመከሩ ሰዎች የሉም</string>
+    <string name="exclude_link">አገናኝን አታካትት</string>
+    <string name="exclude_text">ጽሁፍን አታካትት</string>
+    <string name="file_preview_a11y_description">የፋይል ቅድመ ዕይታ ጥፍር አከል</string>
+    <string name="forward_intent_to_owner">ከስራ መገለጫዎ ውጭ ሆነው መተግበሪያ እየተጠቀሙ ነው</string>
+    <string name="forward_intent_to_work">ይህን መተግበሪያ በእርስዎ የስራ መገለጫ ላይ እየተጠቀሙበት ነው</string>
+    <string name="image_preview_a11y_description">የምስል ቅድመ ዕይታ ጥፍር አከል</string>
+    <string name="include_link">አገናኝ አካትት</string>
+    <string name="include_text">ፅሁፍ ጨምር</string>
+    <string name="miniresolver_open_in_personal">%s በግል መገለጫዎ ውስጥ ይከፈት?</string>
+    <string name="miniresolver_open_in_work">%s በስራ መገለጫዎ ውስጥ ይከፈት?</string>
+    <string name="miniresolver_use_personal_browser">የግል አሳሽ ተጠቀም</string>
+    <string name="miniresolver_use_work_browser">የስራ አሳሽ ተጠቀም</string>
+    <string name="more_files">{count,plural, =1{+ # ተጨማሪ ፋይል}one{+ # ተጨማሪ ፋይል}other{+ # ተጨማሪ ፋይሎች}}</string>
+    <string name="noApplications">ምንም መተግበሪያዎች ይህን ድርጊት ማከናወን አይችሉም።</string>
+    <string name="other_files">{count,plural, =1{+ # ፋይል}one{+ # ፋይል}other{+ # ፋይሎች}}</string>
+    <string name="pin_specific_target">%1$sን ፒን አድርግ</string>
+    <string name="resolver_cant_access_personal_apps_explanation">ይህ ይዘት በግል መተግበሪያዎች መከፈት አይችልም</string>
+    <string name="resolver_cant_access_work_apps_explanation">ይህ ይዘት በሥራ መተግበሪያዎች መከፈት አይችልም</string>
+    <string name="resolver_cant_share_with_personal_apps_explanation">ይህ ይዘት በግል መተግበሪያዎች መጋራት አይችልም</string>
+    <string name="resolver_cant_share_with_work_apps_explanation">ይህ ይዘት በሥራ መተግበሪያዎች መጋራት አይችልም</string>
+    <string name="resolver_cross_profile_blocked">በእርስዎ የአይቲ አስተዳዳሪ ታግዷል</string>
+    <string name="resolver_no_personal_apps_available">ምንም የግል መተግበሪያዎች የሉም</string>
+    <string name="resolver_no_work_apps_available">ምንም የሥራ መተግበሪያዎች የሉም</string>
+    <string name="resolver_personal_tab">የግል</string>
+    <string name="resolver_personal_tab_accessibility">የግል እይታ</string>
+    <string name="resolver_switch_on_work">ከቆመበት ቀጥል</string>
+    <string name="resolver_turn_on_work_apps">የሥራ መተግበሪያዎች ባሉበት ቆመዋል</string>
+    <string name="resolver_work_tab">ሥራ</string>
+    <string name="resolver_work_tab_accessibility">የስራ እይታ</string>
+    <string name="screenshot_edit">አርትዕ</string>
+    <string name="search_menu_title">ፍለጋ</string>
+    <string name="sharing_files">{count,plural, =1{# ፋይልን በማጋራት ላይ}one{# ፋይልን በማጋራት ላይ}other{# ፋይሎችን በማጋራት ላይ}}</string>
+    <string name="sharing_files_only">{count,plural, =1{ፋይል ብቻ}one{ፋይል ብቻ}other{ፋይሎች ብቻ}}</string>
+    <string name="sharing_files_with_link">{count,plural, =1{ፋይልን ከአገናኝ ጋር በማጋራት ላይ}one{# ፋይልን ከአገናኝ ጋር በማጋራት ላይ}other{# ፋይሎችን ከአገናኝ ጋር በማጋራት ላይ}}</string>
+    <string name="sharing_files_with_text">{count,plural, =1{ፋይልን ከጽሑፍ ጋር በማጋራት ላይ}one{# ፋይልን ከጽሑፍ ጋር በማጋራት ላይ}other{# ፋይሎችን ከጽሑፍ ጋር በማጋራት ላይ}}</string>
+    <string name="sharing_images">{count,plural, =1{ምስልን በማጋራት ላይ}one{# ምስልን በማጋራት ላይ}other{# ምስሎችን በማጋራት ላይ}}</string>
+    <string name="sharing_images_only">{count,plural, =1{ምስል ብቻ}one{ምስል ብቻ}other{ምስሎች ብቻ}}</string>
+    <string name="sharing_images_with_link">{count,plural, =1{ምስልን ከአገናኝ ጋር በማጋራት ላይ}one{# ምስልን ከአገናኝ ጋር በማጋራት ላይ}other{# ምስሎችን ከአገናኝ ጋር በማጋራት ላይ}}</string>
+    <string name="sharing_images_with_text">{count,plural, =1{ምስልን ከጽሑፍ ጋር በማጋራት ላይ}one{# ምስልን ከጽሑፍ ጋር በማጋራት ላይ}other{# ምስሎችን ከጽሑፍ ጋር በማጋራት ላይ}}</string>
+    <string name="sharing_link">አገናኝን በማጋራት ላይ</string>
+    <string name="sharing_text">ጽሑፍን በማጋራት ላይ</string>
+    <string name="sharing_videos">{count,plural, =1{ቪድዮ በማጋራት ላይ}one{# ቪድዮ በማጋራት ላይ}other{# ቪድዮዎችን በማጋራት ላይ}}</string>
+    <string name="sharing_videos_only">{count,plural, =1{ቪድዮ ብቻ}one{ቪድዮ ብቻ}other{ቪድዮዎች ብቻ}}</string>
+    <string name="sharing_videos_with_link">{count,plural, =1{ቪድዮ ከአገናኝ ጋር በማጋራት ላይ}one{# ቪድዮ ከአገናኝ ጋር በማጋራት ላይ}other{# ቪድዮዎችን ከአገናኝ ጋር በማጋራት ላይ}}</string>
+    <string name="sharing_videos_with_text">{count,plural, =1{ቪድዮ ከጽሑፍ ጋር በማጋራት ላይ}one{# ቪድዮ ከጽሑፍ ጋር በማጋራት ላይ}other{# ቪድዮዎችን ከጽሑፍ ጋር በማጋራት ላይ}}</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="unpin_specific_target">%1$s ንቀል</string>
+    <string name="usb_device_resolve_prompt_warn">ይህ መተግበሪያ የመቅረጽ ፈቃድ አልተሰጠውም፣ ነገር ግን በዚህ ዩኤስቢ መሣሪያ በኩል ኦዲዮን መቅረጽ ይችላል።</string>
+    <string name="use_a_different_app">የተለየ መተግበሪያ ይጠቀሙ</string>
+    <string name="video_preview_a11y_description">የቪድዮ ቅድመ ዕይታ ጥፍር አከል</string>
+    <string name="whichApplication">... በመጠቀም ድርጊቱን አጠናቅ</string>
+    <string name="whichApplicationLabel">እርምጃውን አጠናቅቅ</string>
+    <string name="whichApplicationNamed">%1$sን በመጠቀም እርምጃ ያጠናቅቁ</string>
+    <string name="whichEditApplication">ያርትዑ በ</string>
+    <string name="whichEditApplicationLabel">ያርትዑ</string>
+    <string name="whichEditApplicationNamed">በ%1$s ያርትዑ</string>
+    <string name="whichGiveAccessToApplicationLabel">መዳረሻ ስጥ</string>
+    <string name="whichHomeApplication">የመነሻ መተግበሪያ ይምረጡ</string>
+    <string name="whichHomeApplicationLabel">ምስል አንሳ</string>
+    <string name="whichHomeApplicationNamed">%1$sን እንደ መነሻ ይጠቀሙ</string>
+    <string name="whichImageCaptureApplication">ምስል ቅረፅ በ</string>
+    <string name="whichImageCaptureApplicationLabel">ምስል አንሳ</string>
+    <string name="whichImageCaptureApplicationNamed">ምስል በ%1$s ይቅረጹ</string>
+    <string name="whichOpenHostLinksWith">%1$s አገናኞችን ክፈት ከዚህ ጋር</string>
+    <string name="whichOpenHostLinksWithApp">%1$s አገናኞችን ከ %2$s ጋር ክፈት</string>
+    <string name="whichOpenLinksWith">አገናኞችን ክፈት ከዚህ ጋር</string>
+    <string name="whichOpenLinksWithApp">አገናኞችን ከ %1$s ጋር ክፈት</string>
+    <string name="whichSendApplication">አጋራ</string>
+    <string name="whichSendApplicationLabel">አጋራ</string>
+    <string name="whichSendApplicationNamed">ለ%1$s ያጋሩ</string>
+    <string name="whichSendToApplication">ይላኩ በ፦</string>
+    <string name="whichSendToApplicationLabel">ላክ</string>
+    <string name="whichSendToApplicationNamed">%1$sን በመጠቀም ይላኩ</string>
+    <string name="whichViewApplication">ክፈት በ</string>
+    <string name="whichViewApplicationLabel">ክፈት</string>
+    <string name="whichViewApplicationNamed">በ%1$s ይክፈቱ</string>
+</resources>

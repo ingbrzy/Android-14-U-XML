@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="azure_title">නීල කාක්කා</string>
+    <string name="blackswan_title">කළු හංසයා</string>
+    <string name="cockatoo_title">කොකටූ</string>
+    <string name="come_alive_title">ජීවමාන වීම</string>
+    <string name="feathers_attribution">ඡායාරූපය ඇණ්ඩෘෘ සකර්මන් විසිනි</string>
+    <string name="feathers_description">වර්ණය සහ විස්තර පිළිබඳ පි‍හාටු සංදර්ශනයක්</string>
+    <string name="feathers_title">පිහාටු</string>
+    <string name="greenwinged_title">කොළ පියාපත් මැකෝ</string>
+    <string name="king_title">රාජ ගිජුලිහිණියා</string>
+    <string name="living_universe_title">සජීවී විශ්වය</string>
+    <string name="photos_memory_gallery_title">ඔබේ මතක</string>
+    <string name="pied_title">පුල්ලි කාක්කා</string>
+    <string name="ringnecked_title">වළළු බෙලි බටු ගිරවා</string>
+    <string name="seagull_title">මුහුදු ලිහිණියා</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_error_bad_calibration">Não foi possível usar o sensor de impressão digital. Entre em contato com uma assistência técnica ou acesse g.co/pixel/fingerprintunlock</string>
+    <string name="fingerprint_recalibrate_notification_content">Entre em contato com uma assistência técnica ou acesse g.co/pixel/fingerprintunlock</string>
+    <string name="battery_saver_description_with_learn_more">"Para prolongar a duração da carga, a Economia de bateria:
+
+• ativa o tema escuro;
+• desativa ou restringe atividades em segundo plano, alguns efeitos visuais e outros recursos, como o \"Ok Google\";
+• otimiza suas conexões de rede.
+
+"<annotation id="url">Saiba mais</annotation></string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_error_bad_calibration">Snímač otisků prstů nelze použít. Navštivte servis nebo stránku g.co/pixel/fingerprintunlock</string>
+    <string name="fingerprint_recalibrate_notification_content">Navštivte servis nebo stránku g.co/pixel/fingerprintunlock</string>
+    <string name="battery_saver_description_with_learn_more">"Spořič baterie za účelem úspory energie:
+
+• zapne tmavý motiv,
+• vypne nebo omezí aktivitu na pozadí, některé vizuální efekty a další funkce jako „Ok Google“,
+• optimalizuje síťová připojení.
+
+"<annotation id="url">Další informace</annotation></string>
+</resources>

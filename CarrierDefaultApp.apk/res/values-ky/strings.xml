@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_bar_label">Мобилдик тармакка кирүү</string>
+    <string name="android_system_label">Мобилдик байланыш оператору</string>
+    <string name="app_name">Байланыш операторунун билдирмелери</string>
+    <string name="mobile_data_status_notification_channel_name">Мобилдик Интернеттин абалы</string>
+    <string name="no_data_notification_detail">%s Интернет провайдери менен байланышыңыз</string>
+    <string name="no_data_notification_id">Мобилдик Интернет өчүрүлгөн</string>
+    <string name="no_mobile_data_connection">%s аркылуу маалыматтарды же роуминг планын кошуу</string>
+    <string name="no_mobile_data_connection_title">Мобилдик Интернет жок</string>
+    <string name="performance_boost_notification_button_manage">Тескөө</string>
+    <string name="performance_boost_notification_button_not_now">Азыр эмес</string>
+    <string name="performance_boost_notification_channel">Иштин майнаптуулугун жогорулатуу</string>
+    <string name="performance_boost_notification_detail">Колдонмону иштетүү параметрлерин көрүү үчүн %s сайтына өтүңүз</string>
+    <string name="performance_boost_notification_title">Байланыш операторунун 5G варианттары</string>
+    <string name="portal_notification_detail">%s сайтына баш багуу үчүн басыңыз</string>
+    <string name="portal_notification_id">Мобилдик Интернетиңиздин трафиги түгөндү</string>
+    <string name="slice_purchase_app_label">Иштин майнаптуулугун жогорулатууну сатып алыңыз.</string>
+    <string name="ssl_error_continue">Баары бир серепчи аркылуу улантуу</string>
+    <string name="ssl_error_example">Мисалы, аккаунтка кирүү баракчасы көрсөтүлгөн уюмга таандык эмес болушу мүмкүн.</string>
+    <string name="ssl_error_warning">Кошулайын деген тармагыңызда коопсуздук көйгөйлөрү бар.</string>
+</resources>

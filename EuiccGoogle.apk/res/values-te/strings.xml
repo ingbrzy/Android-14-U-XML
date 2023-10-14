@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">పైకి నావిగేట్ చేస్తుంది</string>
+    <string name="abc_action_mode_done">పూర్తయింది</string>
+    <string name="abc_capital_off">ఆఫ్</string>
+    <string name="abc_capital_on">ఆన్</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">స్పేస్</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">సెర్చ్ చేయండి…</string>
+    <string name="abc_searchview_description_clear">ప్రశ్నను తీసివేస్తుంది</string>
+    <string name="abc_searchview_description_search">సెర్చ్</string>
+    <string name="abc_searchview_description_submit">ప్రశ్నని సమర్పిస్తుంది</string>
+    <string name="abc_searchview_description_voice">వాయిస్ సెర్చ్</string>
+    <string name="abc_toolbar_collapse_description">కుదిస్తుంది</string>
+    <string name="activation_code_scan_button">బదులుగా QR కోడ్‌ను స్కాన్ చేయండి</string>
+    <string name="activation_code_text">మీ ప్రొవైడర్ నుండి మీకు వచ్చిన కోడ్‌ను ఎంటర్‌ చేయండి</string>
+    <string name="activation_code_title">నెట్‌వర్క్ ప్రొవైడర్‌ను జోడించండి</string>
+    <string name="add_profile_title">క్యారియర్‌ని జోడించండి</string>
+    <string name="asked_for_eid">స్టోర్‌లో యాక్టివేట్ చేస్తున్నారా? ఒకవేళ ప్రతినిధి మీ EID నంబర్‌ను అడిగితే, దానిని %1$s పొందగలరు.</string>
+    <string name="back_button_error_msg">సెటప్ జరుగుతోంది కాబట్టి ప్రాసెస్ మధ్యలో ఎర్రర్‌లు ఏవీ ఏర్పడకుండా చూడడం కోసం మీకు స్క్రీన్‌ నుండి నిష్క్రమించే అనుమతి ఇవ్వడం వీలుపడదు</string>
+    <string name="body_check_qr_code_or_go_back">మీరు సరైన QR కోడ్‌ను స్కాన్ చేస్తున్నారో లేదో చెక్ చేయండి.</string>
+    <string name="body_device_is_locked">%1$s ద్వారా మీ పరికరం లాక్ చేయబడింది.</string>
+    <string name="body_device_is_locked_no_name">మీ పరికరం లాక్ చేయబడింది.</string>
+    <string name="body_issue_with_sim_profile">మీ SIMలో ఏదో తప్పు జరిగింది. సమస్య పరిష్కారానికి, %1$sను %2$s ద్వారా కాంటాక్ట్ చేయండి.</string>
+    <string name="body_issue_with_sim_profile_maximum_attempts">మీరు మీ ప్రయత్నాల గరిష్ఠ సంఖ్యను రీచ్ అయ్యారు. కనెక్ట్ చేయడంలో సహాయం కోసం, %1$sను %2$s ద్వారా కాంటాక్ట్ చేయండి.</string>
+    <string name="body_issue_with_sim_profile_maximum_attempts_no_name">మీరు మీ ప్రయత్నాల గరిష్ఠ సంఖ్యను రీచ్ అయ్యారు. కనెక్ట్ చేయడంలో సహాయం కోసం, మీ క్యారియర్‌ను కాంటాక్ట్ చేయండి.</string>
+    <string name="body_issue_with_sim_profile_maximum_attempts_no_tel">మీరు మీ ప్రయత్నాల గరిష్ఠ సంఖ్యను రీచ్ అయ్యారు. కనెక్ట్ చేయడంలో సహాయం కోసం, %1$sను కాంటాక్ట్ చేయండి.</string>
+    <string name="body_issue_with_sim_profile_no_name">మీ SIMలో ఏదో తప్పు జరిగింది. సమస్య పరిష్కారానికి, మీ క్యారియర్‌ను కాంటాక్ట్ చేయండి.</string>
+    <string name="body_issue_with_sim_profile_no_tel">మీ SIMలో ఏదో తప్పు జరిగింది. సమస్యను పరిష్కారానికి, %1$sను కాంటాక్ట్ చేయండి.</string>
+    <string name="body_issue_with_sim_profile_used_on_another_device">ఈ SIM మరొక పరికరంలో ఉపయోగించబడుతోంది. సమస్య పరిష్కారానికి, %1$sను %2$s ద్వారా కాంటాక్ట్ చేయండి.</string>
+    <string name="body_issue_with_sim_profile_used_on_another_device_no_name">ఈ SIM మరొక పరికరంలో ఉపయోగించబడుతోంది. సమస్య పరిష్కారానికి, మీ క్యారియర్‌ను సంప్రదించండి.</string>
+    <string name="body_issue_with_sim_profile_used_on_another_device_no_tel">ఈ SIM మరొక పరికరంలో ఉపయోగించబడుతోంది. సమస్యను పరిష్కారానికి, %1$sను కాంటాక్ట్ చేయండి.</string>
+    <string name="body_make_sure_not_already_downloaded">"ఎంచుకున్న SIM ఈ పరికరంలో లేదా మరొక పరికరంలో డౌన్‌లోడ్ చేయబడి లేదని నిర్ధారించుకోండి.
+
+మరింత సహాయం కోసం, %1$sను %2$s ద్వారా కాంటాక్ట్ చేయండి"</string>
+    <string name="body_make_sure_not_already_downloaded_no_name">"ఎంచుకున్న SIM ఈ పరికరంలో లేదా మరొక పరికరంలో డౌన్‌లోడ్ చేయబడి లేదని నిర్ధారించుకోండి.
+
+మరింత సహాయం కోసం మీ క్యారియర్‌ను కాంటాక్ట్ చేయండి."</string>
+    <string name="body_make_sure_not_already_downloaded_no_tel">"ఎంచుకున్న SIM ఈ పరికరంలో లేదా మరొక పరికరంలో డౌన్‌లోడ్ చేయబడి లేదని నిర్ధారించుకోండి.
+
+మరింత సహాయం కోసం %1$sను కాంటాక్ట్ చేయండి"</string>
+    <string name="body_need_wifi_connection">eSIMను డౌన్‌లోడ్ చేయడానికి మీకు Wi-Fi కనెక్షన్ అవసరం.</string>
+    <string name="body_need_wifi_or_mobile_connection">eSIMను డౌన్‌లోడ్ చేయడానికి మీకు Wi-Fi లేదా మొబైల్ కనెక్షన్ అవసరం.</string>
+    <string name="body_not_enough_space_to_download">ఈ SIMను డౌన్‌లోడ్ చేయడానికి తగినంత స్టోరేజ్ లేదు.</string>
+    <string name="body_sim_has_expired">"మీ eSIM గడువు ముగిసింది.
+కొత్త SIMను పొందడానికి, %1$sను %2$s ద్వారా కాంటాక్ట్ చేయండి"</string>
+    <string name="body_sim_has_expired_no_name">"మీ eSIM గడువు ముగిసింది.
+కొత్త SIMను పొందడానికి, క్యారియర్‌ను కాంటాక్ట్ చేయండి."</string>
+    <string name="body_sim_has_expired_no_tel">"మీ eSIM గడువు ముగిసింది.
+కొత్త SIMను పొందడానికి, %1$sను కాంటాక్ట్ చేయండి"</string>
+    <string name="body_something_went_wrong">మీ నంబర్‌ను యాక్టివేట్ చేసే క్రమంలో ఏదో తప్పు జరిగింది.</string>
+    <string name="bottomsheet_action_expand_halfway">సగాన్ని విస్తరింపజేయండి</string>
+    <string name="button_text_close">మూసివేయి</string>
+    <string name="button_text_settings">సెట్టింగ్‌లు</string>
+    <string name="cancel_button">రద్దు చేయండి</string>
+    <string name="cant_get_eid_please_contact_carrier">ఏదో తప్పు జరిగింది, కనుక ప్రస్తుతం మీ పరికర EID నంబర్‌ను కనుగొనడం సాధ్యపడలేదు. సహాయం కోసం దయచేసి మీ క్యారియర్‌ను సంప్రదించండి.</string>
+    <string name="carrier_confirm_subtitle">మీరు ఇప్పటికే నెట్‌వర్క్‌తో సైన్ అప్ చేసి ఉండాలి</string>
+    <string name="carrier_confirm_title">మీ నెట్‌వర్క్‌ను నిర్ధారించండి</string>
+    <string name="carrier_selection_msg">ఈ ఫోన్‌లో ఉపయోగించాలనుకుంటున్న వాటితో ఇప్పటికే ఉన్న ఖాతాను కలిగిన క్యారియర్‌ను ఎంచుకోండి</string>
+    <string name="carrier_selection_psim">బదులుగా SIMని ఉపయోగించండి</string>
+    <string name="carrier_selection_title">మీ క్యారియర్‌ని నిర్ధారించండి</string>
+    <string name="choose_carrier_title">ఉపయోగించడానికి క్యారియర్‌లను ఎంచుకోండి</string>
+    <string name="choose_number_activating">…ను యాక్టివేట్ చేస్తోంది</string>
+    <string name="choose_number_could_not_activate">ఇప్పటికిప్పుడు యాక్టివేట్ చేయడం సాధ్యం కాదు</string>
+    <string name="choose_number_error_no_space">ఇతర నంబర్‌లు లేదా నెట్‌వర్క్‌లను ఉపయోగించడానికి, మీరు ముందుగా ప్రస్తుత పరికర సెట్టింగ్‌లలో ఉన్న ఒకటి లేదా మరిన్ని నంబర్‌లను తొలగించి, స్థలాన్ని ఖాళీ చేయాల్సి ఉంటుంది</string>
+    <string name="choose_number_error_perm">ఇతర నంబర్‌లు లేదా నెట్‌వర్క్‌లు ఉపయోగించడానికి, సహాయం కోసం మీ నెట్‌వర్క్ ప్రదాతలను సంప్రదించండి</string>
+    <string name="choose_number_error_temp">ఇతర నంబర్‌లు లేదా నెట్‌వర్క్‌లను ఉపయోగించడానికి, వాటిని తర్వాత సెట్టింగ్‌లలో యాక్టివేట్ చేయండి</string>
+    <string name="choose_number_item_summary_unknown">తెలియని నంబర్</string>
+    <string name="choose_number_subtitle">{count,plural, =1{ఈ పరికరానికి 1 నంబర్ జోడించబడింది, అయితే ఒకే సమయంలో 1 నంబర్‌ను మాత్రమే ఉపయోగించడం వీలవుతుంది}other{ఈ పరికరానికి # నంబర్‌లు జోడించబడ్డాయి, అయితే ఒకే సమయంలో 1 నంబర్‌ను మాత్రమే ఉపయోగించడం వీలవుతుంది}}</string>
+    <string name="choose_number_title">ఉపయోగించడానికి ఒక నంబర్‌ను ఎంచుకోండి</string>
+    <string name="choose_second_number_subtitle">ఈ పరికరంలో మీరు ఉపయోగిస్తున్న ప్రస్తుత నంబర్‌తో పాటుగా రెండో నంబర్‌ను కూడా ఉపయోగించవచ్చు</string>
+    <string name="choose_second_number_subtitle_with_psim_carrier_name">మీ %1$s నంబర్‌‌తో పాటుగా, మీరు ఈ పరికరంలో రెండో నంబర్‌‌ను కూడా ఉపయోగించవచ్చు</string>
+    <string name="choose_second_number_subtitle_with_psim_phone_number">ఈ పరికరంలో %1$sతో పాటుగా మీరు రెండో నంబర్‌ను కూడా ఉపయోగించవచ్చు</string>
+    <string name="choose_second_number_title">రెండో నంబర్‌ను ఎంచుకోండి</string>
+    <string name="common_google_play_services_enable_button">ప్రారంభించండి</string>
+    <string name="common_google_play_services_enable_text">మీరు Google Play సేవలను ప్రారంభిస్తే మినహా %1$s పని చేయదు.</string>
+    <string name="common_google_play_services_enable_title">Google Play సేవలను ప్రారంభించండి</string>
+    <string name="common_google_play_services_install_button">ఇన్‌స్టాల్ చేయి</string>
+    <string name="common_google_play_services_install_text">%1$s Google Play సేవలు లేకుండా అమలు కాదు, ఆ సేవలు మీ పరికరంలో లేవు.</string>
+    <string name="common_google_play_services_install_title">Google Play సేవలను పొందండి</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play సేవల లభ్యత</string>
+    <string name="common_google_play_services_notification_ticker">Google Play సేవల ఎర్రర్</string>
+    <string name="common_google_play_services_unknown_issue">%1$s Google Play సేవలతో సమస్య కలిగి ఉంది. దయచేసి మళ్లీ ట్రై చేయండి.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s Google Play సేవలు లేకుండా అమలు కాదు, ఈ సేవలకు మీ పరికరంలో మద్దతు లేదు.</string>
+    <string name="common_google_play_services_update_button">అప్‌డేట్ చేయి</string>
+    <string name="common_google_play_services_update_text">మీరు Google Play సేవలను నవీకరిస్తే మినహా %1$s అమలు కాదు.</string>
+    <string name="common_google_play_services_update_title">Google Play సేవలను అప్‌డేట్ చేయండి</string>
+    <string name="common_google_play_services_updating_text">%1$s Google Play సేవలు లేకుండా అమలు కాదు, ఆ సేవలు ప్రస్తుతం నవీకరించబడుతున్నాయి.</string>
+    <string name="common_google_play_services_wear_update_text">కొత్త Google Play సేవల వెర్షన్ అవసరం. అది కొద్ది సేపట్లో దానంతట అదే అప్‌డేట్ చేయబడుతుంది.</string>
+    <string name="common_open_on_phone">ఫోన్‌లో తెరువు</string>
+    <string name="complete_service_setup_text">మీరు %1$sలో సేవను యాక్టివేట్ చేశారు</string>
+    <string name="complete_service_setup_title">%1$s సెటప్ పూర్తయింది</string>
+    <string name="complete_update_esim_notification_body_text">సాఫ్ట్‌వేర్ అప్‌డేట్‌ను పూర్తి చేయడానికి నొక్కండి</string>
+    <string name="complete_update_esim_notification_title">మీ మొబైల్ నెట్‌వర్క్‌కు కనెక్ట్ చేయడం పూర్తయింది</string>
+    <string name="confirm_acti_no_space_sub1">ఇతర నంబర్‌లు ఉపయోగించడానికి, మీరు మొదట ఈ పరికరంలో ప్రస్తుతం ఉన్న నంబర్‌లను తొలగించి ఖాళీ స్థలాన్ని ఏర్పరచవలసి ఉంటుంది. మీరు దీన్ని తర్వాత సెట్టింగ్‌లలో చేయవచ్చు.</string>
+    <string name="confirm_acti_no_space_sub1_multi">ఇతర నంబర్‌లు లేదా నెట్‌వర్క్‌లను ఉపయోగించడానికి, మీరు మొదట ఈ పరికరంలో ప్రస్తుతం ఉన్న నంబర్‌లను తొలగించి ఖాళీ స్థలాన్ని ఏర్పరచవలసి ఉంటుంది. మీరు దీన్ని తర్వాత సెట్టింగ్‌లలో చేయవచ్చు.</string>
+    <string name="confirm_acti_perm_error_sub1">ఇతర నంబర్‌లను ఉపయోగించడానికి, సహాయం కోసం %2$sలో %1$sను సంప్రదించండి. ఈ పరికరానికి మీకు EID నంబర్ అవసరం పడవచ్చు:</string>
+    <string name="confirm_acti_perm_error_sub1_multi">ఇతర నంబర్‌లు లేదా నెట్‌వర్క్‌లను ఉపయోగించడానికి, సహాయం కోసం %2$sలో %1$sను సంప్రదించండి. ఈ పరికరానికి మీకు EID నంబర్ అవసరం పడవచ్చు:</string>
+    <string name="confirm_acti_perm_error_sub1_multi_no_carrier_name">ఇతర నంబర్‌లు లేదా నెట్‌వర్క్‌లను ఉపయోగించడానికి, సహాయం కోసం మీ నెట్‌వర్క్ ప్రదాతను సంప్రదించండి. ఈ పరికరానికి మీకు EID నంబర్ అవసరం పడవచ్చు:</string>
+    <string name="confirm_acti_perm_error_sub1_multi_no_phone">ఇతర నంబర్‌లు లేదా నెట్‌వర్క్‌లను ఉపయోగించడానికి, సహాయం కోసం %1$sను సంప్రదించండి. ఈ పరికరానికి మీకు EID నంబర్ అవసరం పడవచ్చు:</string>
+    <string name="confirm_acti_perm_error_sub1_no_carrier_name">ఇతర నంబర్‌లను ఉపయోగించడానికి, సహాయం కోసం మీ నెట్‌వర్క్ ప్రదాతను సంప్రదించండి. ఈ పరికరానికి మీకు EID నంబర్ అవసరం పడవచ్చు:</string>
+    <string name="confirm_acti_perm_error_sub1_no_eid">ఇతర నంబర్‌లను ఉపయోగించడానికి, సహాయం కోసం %2$sలో %1$sను సంప్రదించండి</string>
+    <string name="confirm_acti_perm_error_sub1_no_eid_multi">ఇతర నంబర్‌లు లేదా నెట్‌వర్క్‌లను ఉపయోగించడానికి, సహాయం కోసం %2$sలో %1$sను సంప్రదించండి</string>
+    <string name="confirm_acti_perm_error_sub1_no_eid_multi_no_phone">ఇతర నంబర్‌లు లేదా నెట్‌వర్క్‌లను ఉపయోగించడానికి, సహాయం కోసం %1$sను సంప్రదించండి</string>
+    <string name="confirm_acti_perm_error_sub1_no_eid_no_carrier_name">ఇతర నంబర్‌లను ఉపయోగించడానికి, సహాయం కోసం మీ నెట్‌వర్క్ ప్రదాతను సంప్రదించండి</string>
+    <string name="confirm_acti_perm_error_sub1_no_eid_no_phone">ఇతర నంబర్‌లను ఉపయోగించడానికి, సహాయం కోసం %1$sను సంప్రదించండి</string>
+    <string name="confirm_acti_perm_error_sub1_no_phone">ఇతర నంబర్‌లను ఉపయోగించడానికి, సహాయం కోసం %1$sను సంప్రదించండి. ఈ పరికరానికి మీకు EID నంబర్ అవసరం పడవచ్చు:</string>
+    <string name="confirm_acti_success_sub_title">%1$s ఉపయోగించడానికి సిద్ధంగా ఉండాలి</string>
+    <string name="confirm_acti_success_sub_title_no_phone">ఉపయోగించడానికి మీ ఫోన్ నంబర్ సిద్ధంగా ఉండాలి</string>
+    <string name="confirm_acti_success_sub_title_w_app">%1$s నంబర్‌ను యాక్టివేట్ చేయడం పూర్తి చేయడానికి, మీరు %2$s యాప్‌ను డౌన్‌లోడ్ చేసుకోవాల్సి ఉంటుంది. ప్రస్తుతానికి, మీ ఫోన్‌ను సెటప్ చేయడం పూర్తి చేద్దాం.</string>
+    <string name="confirm_acti_success_sub_title_w_app_no_name">%1$s నంబర్‌ను యాక్టివేట్ చేయడం పూర్తి చేయడానికి, మీరు మీ నెట్‌వర్క్ ప్రదాత యాప్‌ను డౌన్‌లోడ్ చేసుకోవాల్సి ఉంటుంది. ప్రస్తుతానికి, మీ ఫోన్‌ను సెటప్ చేయడం పూర్తి చేద్దాం.</string>
+    <string name="confirm_acti_success_sub_title_w_app_no_name_setting">%1$s నంబర్‌ను యాక్టివేట్ చేయడం పూర్తి చేయడానికి, మీ నెట్‌వర్క్ ప్రదాత యాప్‌ను డౌన్‌లోడ్ చేసుకోవాల్సి ఉంటుంది</string>
+    <string name="confirm_acti_success_sub_title_w_app_no_phone">మీ నంబర్‌ను యాక్టివేట్ చేయడం పూర్తి చేయడానికి, మీరు %1$s యాప్‌ను డౌన్‌లోడ్ చేసుకోవాల్సి ఉంటుంది. ప్రస్తుతానికి, మీ ఫోన్‌ను సెటప్ చేయడం పూర్తి చేద్దాం.</string>
+    <string name="confirm_acti_success_sub_title_w_app_no_phone_no_name">మీ నంబర్‌ను యాక్టివేట్ చేయడం పూర్తి చేయడానికి, మీరు మీ నెట్‌వర్క్ ప్రదాత యాప్‌ను డౌన్‌లోడ్‌ చేసుకోవాల్సి ఉంటుంది. ప్రస్తుతానికి, మీ ఫోన్‌ను సెటప్ చేయడం పూర్తి చేద్దాం.</string>
+    <string name="confirm_acti_success_sub_title_w_app_no_phone_no_name_setting">మీ నంబర్‌ను యాక్టివేట్ చేయడం పూర్తి చేయడానికి, మీరు మీ నెట్‌వర్క్ ప్రదాత యాప్‌ను డౌన్‌లోడ్‌ చేసుకోవాల్సి ఉంటుంది</string>
+    <string name="confirm_acti_success_sub_title_w_app_no_phone_setting">మీ నంబర్‌ను యాక్టివేట్ చేయడం పూర్తి చేయడానికి, మీరు %1$s యాప్‌ను డౌన్‌లోడ్ చేసుకోవాల్సి ఉంటుంది</string>
+    <string name="confirm_acti_success_sub_title_w_app_setting">%1$s నంబర్‌ను యాక్టివేట్ చేయడం పూర్తి చేయడానికి, మీరు %2$s యాప్‌ను డౌన్‌లోడ్ చేసుకోవాల్సి ఉంటుంది</string>
+    <string name="confirm_acti_success_title">%1$s‌కు కనెక్ట్ చేయబడింది</string>
+    <string name="confirm_acti_success_title_no_carrier_name">మీ నెట్‌వర్క్ యాక్టివ్‌గానే ఉంది</string>
+    <string name="confirm_acti_success_title_with_app">తర్వాత %1$sకు కనెక్ట్ చేయండి</string>
+    <string name="confirm_acti_success_title_with_app_no_name">మీ నెట్‌వర్క్‌కు తర్వాత కనెక్ట్ చేయండి</string>
+    <string name="confirm_acti_temp_error_sub1">ఇతర నంబర్‌లను ఉపయోగించడానికి, వాటిని తర్వాత సెట్టింగ్‌లలో యాక్టివేట్ చేయండి</string>
+    <string name="confirm_acti_temp_error_sub1_multi">ఇతర నంబర్‌లు లేదా నెట్‌వర్క్‌లను ఉపయోగించడానికి, వాటిని తర్వాత సెట్టింగ్‌లలో యాక్టివేట్ చేయండి</string>
+    <string name="confirm_code_try_again">కోడ్ తప్పు. మళ్లీ ట్రై చేయండి.</string>
+    <string name="confirm_transfer_single_carrier_dsds_msg">ఒకసారి బదిలీ చేసిన తర్వాత, మీ పాత పరికరంలో %1$s ఇక పనిచేయదు. SIMను లోపల ఉంచి సెటప్ చేసిన తర్వాత, మీరు రెండో నంబర్‌ను బదిలీ చేసుకోవచ్చు.</string>
+    <string name="confirm_transfer_single_carrier_msg">ఒకసారి బదిలీ జరిగిన తర్వాత, మీ పాత పరికరంలో ఇకపై ఈ %1$s పనిచేయదు</string>
+    <string name="confirm_transfer_single_carrier_title">%1$s నంబర్‌ను బదిలీ చేయాలా?</string>
+    <string name="confirmation_code_body_text">మీరు మీ క్యారియర్ నుండి వెరిఫికేషన్ కోడ్‌ను కలిగి ఉండాలి. నెట్‌వర్క్‌కు కనెక్ట్ చేయడానికి దాన్ని ఎంటర్ చేయండి.</string>
+    <string name="confirmation_code_body_text_with_carrier">మీరు %1$s నుండి వెరిఫికేషన్ కోడ్‌ను కలిగి ఉండాలి. నెట్‌వర్క్‌కు కనెక్ట్ చేయడానికి దాన్ని ఎంటర్ చేయండి.</string>
+    <string name="confirmation_code_title">వెరిఫికేషన్ కోడ్‌ను ఎంటర్ చేయండి</string>
+    <string name="confirmation_code_what">ఇది ఏమిటి?</string>
+    <string name="contact_carrier_description">మీ SIM‌ను సెటప్ చేయడానికి, %2$sనంబర్ ద్వారా మీరు %1$s‌ను సంప్రదించాల్సి ఉంటుంది</string>
+    <string name="contact_carrier_description_eid">EID నంబర్.</string>
+    <string name="contact_carrier_description_eid_additional">"
+
+మీకు ఈ డివైజ్ నంబర్ అవసరం కావచ్చు"</string>
+    <string name="contact_carrier_title">%1$s‌ను సంప్రదించండి</string>
+    <string name="continue_button">కొనసాగించండి</string>
+    <string name="copy">కాపీ చేయండి</string>
+    <string name="customer_service_activate_service">మీకు సేవను యాక్టివేట్ చేయడంలో సహాయం అందించడానికి, కస్టమర్ సేవ ప్రతినిధి ఈ EID నంబర్‌ను ఉపయోగించవచ్చు</string>
+    <string name="data_plan_select_subtitle">నంబర్ బదిలీ అయిన తర్వాత, అది ఇకపై మీ పాత పరికరంలో పనిచేయదు</string>
+    <string name="data_plan_select_title">బదిలీ చేయడానికి ఒక నంబర్‌ను ఎంచుకోండి</string>
+    <string name="def_notif_activating_title">మీ %1$s నంబర్ యాక్టివేట్ చేయబడుతోంది…</string>
+    <string name="def_notif_activation_fail_subtitle">వివరాలను చూడటానికి నొక్కండి</string>
+    <string name="def_notif_activation_fail_title">మీ %1$s నంబర్‌ను యాక్టివేట్ చేయడం వీలుపడలేదు</string>
+    <string name="def_notif_activation_success_dsds_subtitle">మీ కాల్, వచనం &amp; డేటా ప్రాధాన్యతలను ఎంచుకోండి</string>
+    <string name="def_notif_activation_success_dsds_title">మీ నంబర్‌లు ఉపయోగించడానికి సిద్ధంగానే ఉన్నాయి</string>
+    <string name="def_notif_activation_success_title">మీ %1$s నంబర్ యాక్టివేట్ చేయబడింది</string>
+    <string name="default_display_name">SIM</string>
+    <string name="default_profile_nickname_format">%1$s %2$d</string>
+    <string name="deferred_setup_notification_description">Ready to connect to mobile network</string>
+    <string name="deferred_setup_notification_title">Set you your %1$s SIM</string>
+    <string name="detail_contact_carrier_for_more_help">మరింత సహాయం కోసం మీ క్యారియర్‌ను సంప్రదించండి.</string>
+    <string name="detail_contact_carrier_to_unlock">పరికరాన్ని అన్‌లాక్ చేయవచ్చో లేదో తెలుసుకోవడానికి %1$sను %2$s ద్వారా సంప్రదించండి.</string>
+    <string name="detail_contact_carrier_to_unlock_no_name">పరికరాన్ని అన్‌లాక్ చేయవచ్చో లేదో తెలుసుకోవడానికి మీ క్యారియర్‌ను సంప్రదించండి.</string>
+    <string name="detail_contact_carrier_to_unlock_no_tel">పరికరాన్ని అన్‌లాక్ చేయవచ్చో లేదో తెలుసుకోవడానికి %1$sను సంప్రదించండి.</string>
+    <string name="detail_delete_a_profile_before_retrying">స్పేస్‌ను ఖాళీ చేయడానికి, సెట్టింగ్‌లకు వెళ్లి, SIMను ఫ్యాక్టరీ రీసెట్ చేయండి. ఆపై మళ్లీ ట్రై చేయండి.</string>
+    <string name="detail_may_need_eid_number">EID: %1$s</string>
+    <string name="detail_provide_info_to_carrier">"మీరు మీ క్యారియర్‌కు ఈ కింది సమాచారాన్ని అందించవచ్చు:
+%1$s
+%2$s"</string>
+    <string name="detail_try_adding_again">ఒకసారి మీరు కనెక్ట్ చేసిన తర్వాత, మొబైల్ నెట్‌వర్క్‌ను మళ్లీ జోడించడానికి ట్రై చేయండి.</string>
+    <string name="disable_carrier_dialog_text">"వెంటనే ఈ పరికరం నెట్‌వర్క్ నుండి డిస్‌కనెక్ట్ అవుతుంది.
+
+దీని వలన మొబైల్ సేవా ప్లాన్‌లు ఏవీ రద్దు కావు."</string>
+    <string name="disable_carrier_dialog_text_with_carrier">"వెంటనే ఈ పరికరం %1$s నుండి డిస్‌కనెక్ట్ అవుతుంది.
+
+దీని వలన మొబైల్ సేవా ప్లాన్‌లు ఏవీ రద్దు కావు."</string>
+    <string name="disable_carrier_dialog_title">క్యారియర్‌ని నిలిపివేయాలా?</string>
+    <string name="disable_fail_text">ఏదో తప్పు జరిగింది, మీ క్యారియర్‌ని నిలిపివేయడం సాధ్యం కాలేదు.</string>
+    <string name="disable_fail_title">క్యారియర్‌ని నిలిపివేయడం సాధ్యం కాదు</string>
+    <string name="disable_profile_title">డిజేబుల్</string>
+    <string name="disabled_profiles_title">అందుబాటులో ఉన్న క్యారియర్‌లు</string>
+    <string name="disabling_carrier">క్యారియర్‌ని నిలిపివేస్తోంది…</string>
+    <string name="done_button">పూర్తయింది</string>
+    <string name="download_complete_text">ఈ SIMను ఆన్ చేయడానికి సెట్టింగ్‌లకు వెళ్లండి</string>
+    <string name="download_complete_text_with_carrier">%1$s‌ను ఆన్ చేయడానికి సెట్టింగ్‌లకు వెళ్లండి</string>
+    <string name="download_complete_title">eSIM డౌన్‌లోడ్ చేయబడింది</string>
+    <string name="download_esim_button">Download eSIM</string>
+    <string name="download_fail_dialog_text">ఎర్రర్ కారణంగా eSIMని డౌన్‌లోడ్ చేయడం సాధ్యపడదు. మళ్లీ ట్రై చేయండి మరియు సమస్య కొనసాగితే, %1$sని సంప్రదించండి.</string>
+    <string name="download_fail_dialog_text_no_carrier_name">ఎర్రర్ కారణంగా eSIMని డౌన్‌లోడ్ చేయడం సాధ్యం కాలేదు. మళ్లీ ట్రై చేయండి మరియు సమస్య కొనసాగితే మీ క్యారియర్‌ని సంప్రదించండి.</string>
+    <string name="download_fail_dialog_title">eSIMని డౌన్‌లోడ్ చేయడం సాధ్యం కాదు</string>
+    <string name="download_sub_multi_carriers_text">{count,plural, =1{మేము &lt;b>%2$d నంబర్‌ల&lt;/b>ను %1$s, మరో 1 క్యారియర్ నుండి పొందుతున్నాము. దీనికి కొంత సమయం పట్టవచ్చు.}other{మేము &lt;b>%2$d నంబర్‌ల&lt;/b>ను %1$s, %3$d ఇతర క్యారియర్‌ల నుండి పొందుతున్నాము. దీనికి కొంత సమయం పట్టవచ్చు.}}</string>
+    <string name="download_sub_text">{count,plural, =1{మేము మీ నంబర్‌ను %1$s నుండి పొందుతున్నాము. దీనికి కొంత సమయం పట్టవచ్చు.}other{మేము &lt;b>%2$d నంబర్‌ల&lt;/b>ను %1$s నుండి పొందుతున్నాము. దీనికి కొంత సమయం పట్టవచ్చు.}}</string>
+    <string name="download_sub_title">{count,plural, =1{మీ నంబర్ జోడించబడుతోంది…}other{మీ నంబర్‌లు జోడించబడుతున్నాయి…}}</string>
+    <string name="download_sub_transform_title">సేవను చెక్ చేస్తోంది…</string>
+    <string name="download_switch_confirm_mep_dialog_message">ఈ పరికరంలో ఒకేసారి 2 యాక్టివ్ SIMలు ఉండవచ్చు. మరొక SIMను డౌన్‌లోడ్ చేసి, ఉపయోగించడానికి, యాక్టివ్ SIMను ఆఫ్ చేయండి.</string>
+    <string name="download_switch_confirm_mep_dialog_title">కొనసాగించడానికి SIMను ఆఫ్ చేయండి</string>
+    <string name="download_web_sub_text">దీనికి ఒకటి, రెండు నిమిషాలు లేదా కొన్ని సార్లు ఎక్కువ సమయం పడుతుంది</string>
+    <string name="download_web_sub_title">సేవను సెటప్ చేస్తోంది…</string>
+    <string name="downloading_no_carrier_name_title">eSIM డౌన్‌లోడ్ అవుతోంది…</string>
+    <string name="downloading_with_carrier_name_title">%1$s eSIM డౌన్‌లోడ్ అవుతోంది…</string>
+    <string name="dsds_activation_failure_body_msg1">SIMను తీసివేసి, తిరిగి ఇన్‌సర్ట్ చేయండి. సమస్య ఇంకా కొనసాగితే, మీ పరికరాన్ని రీస్టార్ట్ చేయండి.</string>
+    <string name="dsds_activation_failure_body_msg2">SIMను తిరిగి ఆన్ చేయడానికి ట్రై చేయండి. సమస్య ఇంకా కొనసాగితే, మీ పరికరాన్ని రీస్టార్ట్ చేయండి.</string>
+    <string name="dsds_activation_failure_title">SIMను యాక్టివేట్ చేయడం సాధ్యం కాదు</string>
+    <string name="dsds_activation_text">SIM యాక్టివేట్ చేయబడుతోంది…</string>
+    <string name="dsds_activation_text_in_esim_activation">…నుఅప్‌డేట్ చేస్తున్నాము</string>
+    <string name="dsds_choose_number_text">ఈ పరికరంలో %1$d నంబర్‌లు అందుబాటులో ఉన్నాయి, కానీ మీరు ఒకే సమయంలో ఒక్క నంబర్‌ను మాత్రమే ఉపయోగించడం వీలవుతుంది</string>
+    <string name="dsds_choose_number_title">వినియోగించడానికి ఒక నంబర్‌ను ఎంచుకోండి</string>
+    <string name="dsds_choose_second_number_text">మీరు ఈ పరికరంలో ఒకే సమయంలో 2 నంబర్‌లను ఉపయోగించవచ్చు. %1$s ఇప్పటికే యాక్టివేట్ చేయబడి ఉంది.</string>
+    <string name="dsds_choose_second_number_title">రెండో నంబర్‌ను ఎంచుకోండి</string>
+    <string name="dsds_learn_more_button">మరింత తెలుసుకోండి</string>
+    <string name="dsds_notification_after_reboot_text">SIM సెట్టింగ్‌లను అప్‌డేట్ చేయడానికి నొక్కండి</string>
+    <string name="dsds_notification_after_reboot_text_carrier">%1$s సెట్టింగ్‌లను అప్‌డేట్ చేయడానికి నొక్కండి</string>
+    <string name="dsds_notification_after_reboot_title_carrier">%1$s యాక్టివ్‌గా ఉంది</string>
+    <string name="dsds_notification_after_reboot_title_phone">%1$s యాక్టివ్‌గా ఉంది</string>
+    <string name="dsds_notification_after_suw_text">మీరు యాక్టివ్‌గా ఉన్న SIMను ఎంచుకోండి లేదా ఒకేసారి 2 SIMలను ఉపయోగించండి</string>
+    <string name="dsds_notification_after_suw_title">మీ వేరే SIMని సెటప్ చేయండి</string>
+    <string name="dsds_switch_dialog_no_switch_text">తర్వాత ఎప్పుడైనా మీ మొబైల్ డేటా, కాల్ ఫీచర్‌లు, SMSలను ఉపయోగించడానికి, మీ నెట్‌వర్క్ సెట్టింగ్‌లకు వెళ్లండి</string>
+    <string name="dsds_switch_dialog_no_switch_title">యాక్టివ్‌గా ఉన్న SIMలు ఏవీ లేవు</string>
+    <string name="dsds_switch_dialog_progress_text">%1$sకి మారుస్తోంది…</string>
+    <string name="dsds_switch_dialog_text">మొబైల్ డేటా, కాల్స్, SMSల కోసం %1$s ఉపయోగించబడుతుంది.</string>
+    <string name="dsds_switch_dialog_title">%1$sను ఉపయోగించాలా?</string>
+    <string name="eid_not_found">పరికర EID కనుగొనబడలేదు</string>
+    <string name="eid_number">వివరాలను చూపించండి</string>
+    <string name="eid_qr_code_dialog_error_msg">EID కోసం QR కోడ్ అందుబాటులో లేదు.</string>
+    <string name="eid_qr_code_dialog_title">మీ పరికర EID</string>
+    <string name="enable_carrier_dialog_text">"ఈ పరికరం %2$sకు బదులుగా %1$sకు కనెక్ట్ అవుతుంది.
+
+దీని వలన మొబైల్ సేవా ప్లాన్‌లు ఏవీ రద్దు కావు."</string>
+    <string name="enable_carrier_dialog_text_from_removable">"ఈ పరికరం ప్రస్తుత SIM కార్డ్‌కు బదులుగా %1$sకి కనెక్ట్ చేయబడుతుంది.
+
+దీని వలన మొబైల్ సర్వీస్ ప్లాన్‌లు ఏవీ రద్దు కావు."</string>
+    <string name="enable_carrier_dialog_text_to_removable">"ఈ పరికరం %1$sకి బదులుగా ఇన్‌సర్ట్ చేసిన SIM కార్డ్‌కి కనెక్ట్ అవుతుంది.
+
+దీని వలన మొబైల్ సేవా ప్లాన్‌లు ఏవీ రద్దు కావు."</string>
+    <string name="enable_carrier_dialog_title">క్యారియర్‌ని మార్చాలా?</string>
+    <string name="enable_fail_text">ఎర్రర్ కారణంగా క్యారియర్‌ని మార్చడం సాధ్యం కాలేదు.</string>
+    <string name="enable_fail_title">క్యారియర్‌ని మార్చడం సాధ్యం కాదు</string>
+    <string name="enable_profile_title">ప్రారంభించండి</string>
+    <string name="enabling_carrier">నెట్‌వర్క్‌కు కనెక్ట్ చేస్తోంది…</string>
+    <string name="enter_manually_button">దానిని మాన్యువల్‌గా ఎంటర్ చేయండి</string>
+    <string name="enter_qr_code_button_title">కోడ్‌ను మాన్యువల్‌గా నమోదు చేయండి</string>
+    <string name="erase_sim_confirm_button">తొలగించండి</string>
+    <string name="erase_sim_dialog_text">"ఈ SIMను తొలగించడం వలన ఈ పరికరం నుండి %1$s సర్వీస్‌లు తీసివేయబడతాయి.
+
+%1$s సర్వీస్‌లు రద్దు కావు."</string>
+    <string name="erase_sim_dialog_title">ఈ eSIMను ఫ్యాక్టరీ రీసెట్ చేయాలా?</string>
+    <string name="erase_sim_fail_text">"ఒక ఎర్రర్ వలన ఈ SIMను తొలగించడం సాధ్యం కాదు.
+
+మీ పరికరాన్ని రీస్టార్ట్ చేసి, మళ్లీ ట్రై చేయండి."</string>
+    <string name="erase_sim_fail_title">SIM క్యారియర్ ప్రొఫైల్‌ని తొలగించలేకపోయింది</string>
+    <string name="erasing_carriers">క్యారియర్‌లను రీసెట్ చేస్తోంది…</string>
+    <string name="erasing_sim">SIM క్యారియర్ ప్రొఫైల్‌ని తొలగిస్తోంది…</string>
+    <string name="error_code_text">ఎర్రర్ కోడ్</string>
+    <string name="error_screen_title_multiple_carrier">నెట్‌వర్క్‌లు యాక్టివేట్ కాలేదు</string>
+    <string name="error_screen_title_single_carrier">%1$s యాక్టివేట్ కాలేదు</string>
+    <string name="error_screen_title_single_carrier_no_name">నెట్‌వర్క్‌ యాక్టివేట్ కాలేదు</string>
+    <string name="esim_setup_channel_id">నెట్‌వర్క్‌ యాక్టివేషన్</string>
+    <string name="esim_warning_title">మీ eSIMని డౌన్‌లోడ్ చేసుకోండి</string>
+    <string name="esim_warning_txt_default">స్టాండర్డ్ SIM కార్డ్‌లకు బదులు దీనిని ఉపయోగించవచ్చు, వాటి లాగా ఇది కూడా సురక్షితమైనది</string>
+    <string name="esim_warning_txt_default_tmo_esim_primary">సాధారణంగా SIM కార్డ్‌తో లభించే సమాచారాన్ని డౌన్‌లోడ్ చేసుకోవడం ద్వారా మీ మొబైల్ నెట్‌వర్క్‌కు కనెక్ట్ చేయండి. స్టాండర్డ్ SIM కార్డ్‌లకు బదులు దీనిని ఉపయోగించవచ్చు, వాటి లాగా ఇది కూడా సురక్షితమైనది.</string>
+    <string name="euicc_settings_title">హార్డ్‌వేర్ సెట్టింగ్‌లు</string>
+    <string name="euicc_title">సిమ్ మేనేజర్</string>
+    <string name="expand_button_title">అధునాతన సెట్టింగ్‌లు</string>
+    <string name="find_it_here">ఇక్కడ కనుగొనండి</string>
+    <string name="get_default_sub_title">నెట్‌వర్క్ సమాచారం చెక్ చేయబడుతోంది…</string>
+    <string name="get_help_ask_for_eid_v2">ఈ ఫోన్‌ను గుర్తించే %1$sను అందించాల్సిందిగా మీ క్యారియర్ అడగవచ్చు.</string>
+    <string name="get_help_skip_mobile_setup">మొబైల్ సెటప్‌ని దాటవేయి</string>
+    <string name="get_help_text">మీ ఫోన్ నంబర్ కనిపించడం లేదా? సహాయం కోసం %1$sను %2$s వద్ద సంప్రదించండి</string>
+    <string name="get_help_text_multiple_carriers_no_phone">మీ క్యారియర్‌లలో ఒక దానిలో మీరు ఊహించిన దాని కంటే ఎక్కువ నంబర్‌లు ఉంటే, సహాయం కోసం వారిని సంప్రదించండి</string>
+    <string name="get_help_text_no_phone">మీ ఫోన్ నంబర్ కనిపించడం లేదా? సహాయం కోసం %1$sను సంప్రదించండి.</string>
+    <string name="get_help_text_single_carrier">మీరు %3$d నంబర్‌లను ఆశించిఉండకపోతే, %2$s సంబంధించి సహాయం కోసం %1$sని సంప్రదించండి</string>
+    <string name="get_help_text_single_carrier_no_phone">మీరు %2$d నంబర్‌లను ఆశించిఉండకపోతే, సహాయం కోసం %1$sని సంప్రదించండి</string>
+    <string name="get_help_text_single_carrier_no_phone_with_eid">మీరు %2$d నంబర్‌లను ఆశించి ఉండకపోతే, సహాయం కోసం %1$sను సంప్రదించండి. ఈ పరికరానికి మీకు EID నంబర్ అవసరం పడవచ్చు:</string>
+    <string name="get_help_title">సెటప్‌కి సంబంధించి సహాయం పొందండి</string>
+    <string name="get_metadata_fail_title">మొబైల్ నెట్‌వర్క్ సమాచారాన్ని లోడ్ చేయడం సాధ్యం కాలేదు</string>
+    <string name="help_add_network_info1_msg1_v2">మీ QR కోడ్‌ను స్కాన్ చేయడంలో సమస్య ఉందా? %1$s</string>
+    <string name="help_add_network_info2_msg1">%1$s ద్వారా మీరు మీ నెట్‌వర్క్‌తో కనెక్ట్ కావచ్చు</string>
+    <string name="help_add_network_info3">ఇప్పటికీ అవ్వలేదా? సహాయం కోసం %1$s వద్ద మీ నెట్‌వర్క్ ప్రదాతలను సంప్రదించండి.</string>
+    <string name="help_add_network_info3_no_phone">ఇప్పటికీ అవ్వలేదా? సహాయం కోసం మీ నెట్‌వర్క్ ప్రొవైడర్‌ను కాంటాక్ట్ చేయండి</string>
+    <string name="help_add_network_subtitle">మీ పరికరంతో పాటు అందించబడిన కాగితంలో లేదా మీ నెట్‌వర్క్ ప్రొవైడర్ పంపిన ఈమెయిల్‌లో QR కోడ్ ఉందేమో చూడండి</string>
+    <string name="help_add_network_title">నెట్‌వర్క్‌ను జోడించడంలో సహాయపడండి</string>
+    <string name="insert_psim_button">స్టాండర్డ్ SIMను ఇన్‌సర్ట్ చేయడం</string>
+    <string name="insert_text">మీ వద్ద SIM కార్డ్ ఉంటే, దానిని ఇప్పుడే ఇన్‌సర్ట్ చేయండి</string>
+    <string name="insert_title">మొబైల్ నెట్‌వర్క్‌కు కనెక్ట్ చేయండి</string>
+    <string name="install_system_update_dialog_body_text">ఈ ఫోన్‌లో ఒక SIMను డౌన్‌లోడ్ చేయడానికి మీకు ఈ ఫోన్‌లో తాజా సిస్టమ్ అప్‌డేట్ అవసరమవుతుంది. ఇందుకు కేవలం కొన్ని నిమిషాలు పడుతుంది.</string>
+    <string name="install_system_update_dialog_title">సిస్టమ్ అప్‌డేట్‌ను ఇన్‌స్టాల్ చేయాలా?</string>
+    <string name="install_update_button">అప్‌డేట్‌ను ఇన్‌స్టాల్ చేయి</string>
+    <string name="insufficient_space_description_q">{count,plural, =1{మీ నంబర్‌ను ఉపయోగించడానికి, మీరు ముందుగా ఈ పరికరంలో ప్రస్తుతం ఉన్న నంబర్‌లను తొలగించి, స్థలాన్ని ఖాళీ చేయాల్సి ఉంటుంది. మీరు దీన్ని తర్వాత సెట్టింగ్‌లలో చేయవచ్చు.}other{మీ నంబర్‌లను ఉపయోగించడానికి, మీరు ముందుగా ఈ పరికరంలో ప్రస్తుతం ఉన్న నంబర్‌లను తొలగించి, స్థలాన్ని ఖాళీ చేయాల్సి ఉంటుంది. మీరు దీన్ని తర్వాత సెట్టింగ్‌లలో చేయవచ్చు.}}</string>
+    <string name="legal_notices">%1$s, %2$s మరియు %3$s</string>
+    <string name="low_battery_alert_body_text">అప్‌డేట్‌కు అంతరాయం కలుగకుండా నివారించేందుకు, మీ ఫోన్‌ని విద్యుత్ వనరుకు కనెక్ట్ చేయండి.</string>
+    <string name="low_battery_alert_title">ఫోన్‌లో బ్యాటరీ తక్కువగా ఉంది</string>
+    <string name="manually_add_msg1_v2">మీ వద్ద QR కోడ్ ఉంటే, %1$s. ఒకవేళ స్టోర్ ప్రతినిధి మీ EID నంబర్‌ను అడిగితే, మీరు %2$s.</string>
+    <string name="mobile_network_connection_alert_description">మీరు ఈ దశను స్కిప్ చేస్తే, మీరు మొబైల్ నెట్‌వర్క్‌కు కనెక్ట్ అవ్వలేరు. మీరు సెట్టింగ్‌లలో SIMను జోడించడం ద్వారా తర్వాత కనెక్ట్ చేయవచ్చు.</string>
+    <string name="mobile_network_connection_alert_title">మీ మొబైల్ నెట్‌వర్క్‌ను సెటప్ చేయడాన్ని స్కిప్ చేయాలా?</string>
+    <string name="msg_choose_download_type">ఈ పరికరంలో మీ నంబర్‌ను సురక్షితంగా యాక్టివేట్ చేయడానికి ఒక మార్గాన్ని ఎంచుకోండి</string>
+    <string name="msg_install_app_notification">కొనసాగడానికి నొక్కండి</string>
+    <string name="msg_portal_intro">మీ %1$s వినియోగదారు పేరు మరియు పాస్‌వర్డ్‌తో సైన్ ఇన్ చేయవలసి ఉంటుంది</string>
+    <string name="msg_sign_in_button">%1$sకు సైన్ ఇన్ చేయండి</string>
+    <string name="msg_transfer_type_portal">మీకు మీ వినియోగదారు పేరు మరియు పాస్‍‌వర్డ్ అవసరం</string>
+    <string name="msg_transfer_type_qr">%1$s మీకు ఒకటి పంపి ఉండవచ్చు</string>
+    <string name="mtrl_checkbox_state_description_checked">Checked</string>
+    <string name="mtrl_checkbox_state_description_indeterminate">Partially checked</string>
+    <string name="mtrl_checkbox_state_description_unchecked">Not checked</string>
+    <string name="multiple_carrier_download_number_count">{count,plural, =1{1 నంబర్}other{# నంబర్‌లు}}</string>
+    <string name="next_button">తర్వాత</string>
+    <string name="no_licenses_found_error">ఎర్రర్ కారణంగా లైసెన్స్‌లు కనుగొనబడలేదు.</string>
+    <string name="no_qr_code_info_insert_btn">బదులుగా SIM కార్డ్‌ని చొప్పించండి</string>
+    <string name="no_qr_code_info_text">మీ పరికరంతో పాటు అందించబడిన కాగితంలో లేదా మీ క్యారియర్ పంపిన ఈమెయిల్‌లో QR కోడ్ ఉందేమో చూడండి. మీ వద్ద QR కోడ్ లేకుంటే క్యారియర్‌ని తర్వాత జోడించండి.</string>
+    <string name="no_qr_code_scan_button">QR కోడ్‌ను స్కాన్ చేయి</string>
+    <string name="no_qr_code_title">సెటప్ ఎంపికలు</string>
+    <string name="no_thanks_button">వద్దు, ధన్యవాదాలు</string>
+    <string name="no_wifi_dialog_message">మీ SIMను డౌన్‌లోడ్ చేసుకోవడానికి మీకు ఇది అవసరం</string>
+    <string name="no_wifi_dialog_title">Wi-Fiకి కనెక్ట్ చేయండి</string>
+    <string name="not_set">సెట్ చేయలేదు</string>
+    <string name="notification_carrier_unknown">{count,plural, =1{మీ 1 అదనపు నంబర్ జోడించడానికి సిద్ధంగా ఉంది}other{మీ # అదనపు నంబర్‌లు జోడించడానికి సిద్ధంగా ఉన్నాయి}}</string>
+    <string name="notification_channel_ota_update">క్యారియర్ అప్‌డేట్‌లు</string>
+    <string name="notification_multiple_carrier_name_known">{count,plural, =1{మీ %1$s నంబర్, మరో %2$d జోడించడానికి సిద్ధంగా ఉన్నాయి}other{మీ %1$s నంబర్‌లు, మరో %2$d జోడించడానికి సిద్ధంగా ఉన్నాయి}}</string>
+    <string name="notification_single_carrier_name_known">{count,plural, =1{మీ %1$s నంబర్ జోడించడానికి సిద్ధంగా ఉంది}other{మీ %1$s నంబర్‌లు జోడించడానికి సిద్ధంగా ఉన్నాయి}}</string>
+    <string name="notification_tap_setup">సెటప్ చేయడానికి నొక్కండి</string>
+    <string name="open_source_licenses">ఓపెన్ సోర్స్ లైసెన్స్‌లు</string>
+    <string name="operation_code_text">ఆపరేషన్ కోడ్</string>
+    <string name="os_version">OS వెర్షన్</string>
+    <string name="ota_error_notification_msg">పునఃప్రారంభించిన తర్వాత మొబైల్ సేవ తిరిగి ప్రారంభించబడుతుంది.</string>
+    <string name="ota_error_notification_title">క్యారియర్‌ని అప్‌డేట్ చేయడం విఫలమైంది</string>
+    <string name="ota_notification_msg">అప్‌డేట్ పూర్తి అయిన తర్వాత మొబైల్ సేవ పునఃప్రారంభించబడుతుంది</string>
+    <string name="ota_notification_title">క్యారియర్ అప్‌డేట్‌ని పూర్తి చేస్తోంది…</string>
+    <string name="perm_error_description_q">{count,plural, =1{మీ నంబర్‌ను యాక్టివేట్ చేసే క్రమంలో ఏదో తప్పు జరిగింది. %1$s సహాయం కోసం దయచేసి %2$sను కాంటాక్ట్ చేయండి.}other{మీ నంబర్‌లను యాక్టివేట్ చేసే క్రమంలో ఏదో తప్పు జరిగింది. %1$s సహాయం కోసం దయచేసి %2$sను కాంటాక్ట్ చేయండి.}}</string>
+    <string name="perm_error_description_q_multi_carrier">మీ నంబర్‌లను యాక్టివేట్ చేసే క్రమంలో ఏదో తప్పు జరిగింది. దయచేసి సహాయం కోసం మీ నెట్‌వర్క్ ప్రదాతలను సంప్రదించండి.</string>
+    <string name="perm_error_description_q_no_phone">{count,plural, =1{మీ నంబర్‌ను యాక్టివేట్ చేసే క్రమంలో ఏదో తప్పు జరిగింది. దయచేసి సహాయం కోసం %1$sని కాంటాక్ట్ చేయండి.}other{మీ నంబర్‌లను యాక్టివేట్ చేసే క్రమంలో ఏదో తప్పు జరిగింది. దయచేసి సహాయం కోసం %1$sని కాంటాక్ట్ చేయండి.}}</string>
+    <string name="perm_error_description_q_no_phone_no_carrier_name">{count,plural, =1{మీ నంబర్‌ను యాక్టివేట్ చేసే క్రమంలో ఏదో తప్పు జరిగింది. దయచేసి సహాయం కోసం మీ నెట్‌వర్క్ ప్రొవైడర్‌లను కాంటాక్ట్ చేయండి.}other{మీ నంబర్‌లను యాక్టివేట్ చేసే క్రమంలో ఏదో తప్పు జరిగింది. దయచేసి సహాయం కోసం మీ నెట్‌వర్క్ ప్రొవైడర్‌లను కాంటాక్ట్ చేయండి.}}</string>
+    <string name="perm_error_q_sub2_eid">ఈ పరికరం కోసం మీకు %1$s అవసరం పడవచ్చు</string>
+    <string name="pixel_support_page_button">Pixel మద్దతు గల పేజీ</string>
+    <string name="pre_activation_ota_update_complete_subtitle">సాఫ్ట్‌వేర్ విజయవంతంగా అప్‌డేట్ చేయబడింది. ఇక మీరు SIMను డౌన్‌లోడ్ చేయడం కొనసాగించవచ్చు.</string>
+    <string name="pre_activation_ota_update_complete_title">అప్‌డేట్ పూర్తయింది</string>
+    <string name="pre_activation_ota_update_error_msg1">ఫోన్‌లో SIMను డౌన్‌లోడ్ చేయడం సాధ్యపడదు.</string>
+    <string name="pre_activation_ota_update_error_msg2_v2">"దీనికి బదులుగా మీరు SIM కార్డ్‌ను ఉపయోగించవచ్చు లేదా
+%1$sలో సహాయం పొందవచ్చు."</string>
+    <string name="pre_activation_ota_update_error_title">అప్‌డేట్ పూర్తి కాలేదు</string>
+    <string name="pre_activation_ota_update_subtitle">%1$d%% పూర్తయింది. అప్‌డేట్ ప్రోగ్రెస్‌లో ఉన్నంత వరకు దయచేసి ఈ స్క్రీన్‌లోనే ఉండండి.</string>
+    <string name="pre_activation_ota_update_title">అప్‌డేట్ చేస్తున్నాము…</string>
+    <string name="pre_activation_ota_user_consent_msg1">SIMను డౌన్‌లోడ్ చేయడానికి మీకు తాజా సిమ్ మేనేజర్ అవసరం. దీనికి 4–5 నిమిషాలు పడుతుంది.</string>
+    <string name="pre_activation_ota_user_consent_msg2">అప్‌డేట్‌కు అంతరాయం కలుగకుండా నివారించేందుకు, ఈ స్క్రీన్ నుంచి నావిగేట్ అవకండి. అప్‌డేట్ ప్రోగ్రెస్‌లో ఉన్నంతవరకు, కేవలం అత్యవసర కాల్స్‌ మాత్రమే చేయగలుగుతారు.</string>
+    <string name="pre_activation_ota_user_consent_title">SIM సాఫ్ట్‌వేర్‌ను అప్‌డేట్ చేయాలా?</string>
+    <string name="preference_copied">\"%1$s\" క్లిప్‌బోర్డ్‌కి కాపీ చేయబడింది.</string>
+    <string name="privacy_policy">గోప్యతా పాలసీ</string>
+    <string name="privacy_warning_message">కొనసాగించడం ద్వారా, నెట్‌వర్క్‌లో ఈ పరికరాన్ని గుర్తించే సమాచారాన్ని ధృవీకరించడానికి %1$sని మీరు అనుమతిస్తారు.</string>
+    <string name="privileged_action_disable_sub_dialog_progress">సిమ్‌ను ఆఫ్ చేస్తోంది…</string>
+    <string name="privileged_action_disable_sub_dialog_text">%1$s స్విచ్‌లను ఆఫ్ చేయడం వలన క్యారియర్ %2$sకు ఆక్టివేట్ అవుతుంది.</string>
+    <string name="privileged_action_disable_sub_dialog_title">%1$sను ఆఫ్ చేయాలా?</string>
+    <string name="privileged_action_enable_sub_dialog_title">%1$sను ఆన్ చేయాలా?</string>
+    <string name="privileged_action_switch_psim_dialog_title">సిమ్ కార్డ్‌ను ఉపయోగించాలని అనుకుంటున్నారా?</string>
+    <string name="privileged_action_switch_sub_dialog_confirm">%1$sకు మారండి</string>
+    <string name="privileged_action_switch_sub_dialog_progress">%1$sకు స్విచ్ అవుతోంది</string>
+    <string name="privileged_action_switch_sub_dialog_text">"ఒకే సమయంలో ఒక్క SIMను మాత్రమే యాక్టివ్‌గా ఉంచవచ్చు.
+
+%1$sకు మారడం వలన మీ %2$s సర్వీస్ రద్దు కాదు."</string>
+    <string name="privileged_action_switch_sub_dialog_text_downloaded">"ఒకే సమయంలో 1 eSIM మాత్రమే యాక్టివ్‌గా ఉంచవచ్చు.
+
+%1$sకు మారడం వలన మీ %2$s సర్వీస్ రద్దు కాదు."</string>
+    <string name="privileged_action_switch_sub_dialog_text_no_to">"ఒకే సమయంలో ఒక్క SIMను మాత్రమే యాక్టివ్‌గా ఉంచవచ్చు.
+
+మారడం వలన మీ %1$s సర్వీస్ రద్దు కాదు."</string>
+    <string name="privileged_action_switch_sub_dialog_title">%1$sకి మారాలా?</string>
+    <string name="privileged_action_turn_on_sub_dialog_progress">%1$sను ఆన్ చేస్తోంది</string>
+    <string name="profile_disabled">నిలిపివేయబడింది</string>
+    <string name="profile_disabled_confirmation_body_text">eSIMను యాక్టివేట్ చేయడానికి, PINను ఎంటర్ చేయండి</string>
+    <string name="profile_disabled_confirmation_title">eSIM డిజేబుల్ చేయబడింది</string>
+    <string name="profile_enabled">ప్రారంభించబడింది</string>
+    <string name="profile_enabled_with_phone_number">ప్రారంభించబడింది, %1$s</string>
+    <string name="profile_list_action_bar_title">క్యారియర్</string>
+    <string name="profile_transfer_activation_fail_available_phone_number_description">"ఏదో తప్పు జరిగింది. మీ %1$s SIM ఈ పరికరానికి బదిలీ చేయబడింది, కానీ ఇది ఉపయోగించడానికి సిద్ధంగా లేదు. 
+
+సహాయం కోసం %2$s‌ను %3$s. నంబర్‌లో కాంటాక్ట్ చేయండి
+
+ఈ పరికరానికి సంబంధించి మీకు EID నంబర్ అవసరం కావచ్చు:
+
+%4$s"</string>
+    <string name="profile_transfer_activation_fail_available_phone_number_title">నంబర్‌ను యాక్టివేట్ చేయడం సాధ్యపడదు</string>
+    <string name="profile_transfer_activation_fail_unavailable_phone_number_description">"ఏదో తప్పు జరిగింది. మీ %1$s నంబర్ %2$s ఈ పరికరానికి బదిలీ చేయబడింది, కానీ ఇది నెట్‌వర్క్‌కు కనెక్ట్ చేయబడలేదు. 
+
+సహాయం కోసం %3$s‌ను %4$s. నంబర్‌లో కాంటాక్ట్ చేయండి
+
+ఈ పరికరానికి సంబంధించి మీకు EID నంబర్ అవసరం కావచ్చు:
+
+%5$s"</string>
+    <string name="profile_transfer_activation_fail_unavailable_phone_number_title">మొబైల్ నెట్‌వర్క్‌ను యాక్టివేట్ చేయడం సాధ్యపడదు</string>
+    <string name="profile_transfer_connecting_description">…ని కనెక్ట్ చేస్తోంది</string>
+    <string name="profile_transfer_downloading_deferred_notification_content">%1$s సర్వర్‌కు కనెక్ట్ చేస్తోంది…</string>
+    <string name="profile_transfer_downloading_deferred_notification_title">%1$s‌ను డౌన్‌లోడ్ చేస్తోంది</string>
+    <string name="profile_transfer_error_deferred_notification_title">%1$s‌ను బదిలీ చేయడం సాధ్యపడలేదు</string>
+    <string name="profile_transfer_error_title">%1$s SIMను బదిలీ చేయలేకపోయింది</string>
+    <string name="profile_transfer_non_recoverable_error_deferred_notification_action">మరింత తెలుసుకోండి</string>
+    <string name="profile_transfer_non_recoverable_error_deferred_notification_content">మీ SIMను బదిలీ చేయడానికి ట్రై చేస్తున్నప్పుడు ఏదో తప్పు జరిగింది. %1$s సహాయం కోసం దయచేసి %2$s‌ను సంప్రదించండి.</string>
+    <string name="profile_transfer_non_recoverable_error_description">"మీ SIMను బదిలీ చేయడానికి ట్రై చేస్తున్నప్పుడు ఏదో తప్పు జరిగింది. సహాయం కోసం %1$s‌ను %2$s నంబర్‌లో సంప్రదించండి
+
+ఈ పరికరానికి సంబంధించి మీకు EID నంబర్ అవసరం కావచ్చు:
+
+%3$s"</string>
+    <string name="profile_transfer_recoverable_error_deferred_notification_content">మీ SIMను బదిలీ చేయడానికి ట్రై చేస్తున్నప్పుడు ఏదో తప్పు జరిగింది. ఈ సమస్యను పరిష్కరించడానికి మీరు మళ్లీ ట్రై చేయవచ్చు</string>
+    <string name="profile_transfer_recoverable_error_description">మీ SIMను బదిలీ చేయడానికి ట్రై చేస్తున్నప్పుడు ఏదో తప్పు జరిగింది.</string>
+    <string name="profile_transfer_retry_button">మళ్లీ ట్రై చేయండి</string>
+    <string name="profile_transfer_success_deferred_notification_content">ఉపయోగించడానికి %1$s సిద్ధంగా ఉండాలి</string>
+    <string name="profile_transfer_success_deferred_notification_title">SIM బదిలీ విజయవంతమైంది</string>
+    <string name="profile_transfer_suw_recoverable_error_description">మీ SIMను బదిలీ చేయడానికి ట్రై చేస్తున్నప్పుడు ఏదో తప్పు జరిగింది. ఈ సమస్యను పరిష్కరించడానికి మీరు మళ్లీ ట్రై చేయవచ్చు.</string>
+    <string name="psim_guide_dialog_message">మీ ఫోన్ అంచున ఉన్న SIM కార్డ్ ట్రేని కనుగొనండి. ట్రేని తెరిచి, SIM కార్డ్‌ని ఇన్‌సర్ట్ చేయడానికి SIM తొలగింపు టూల్‌ను లేదా పేపర్ క్లిప్‌ను ఉపయోగించండి.</string>
+    <string name="psim_guide_dialog_title">SIM కార్డ్‌ను ఇన్‌సర్ట్ చేయండి</string>
+    <string name="q_download_sub_text">దీనికి కొన్ని నిమిషాలు పట్టవచ్చు</string>
+    <string name="q_download_sub_title">%1$s‌కు కనెక్ట్ చేస్తోంది…</string>
+    <string name="q_multiple_carrier_confirm_title">యాక్టివేట్ చేయడానికి నెట్‌వర్క్‌లను ఎంచుకోండి</string>
+    <string name="q_multiple_carrier_metadata_confirm_subtitle">{count,plural, =1{ఈ పరికరం కోసం 1 నంబర్ అందుబాటులో ఉంది. మీరు యాక్టివేట్ చేసినప్పుడు, మీ నెట్‌వర్క్ ప్రొవైడర్ సర్వీస్‌ను అందించడం కోసం ఛార్జి విధించడం ప్రారంభించవచ్చు.}other{ఈ పరికరం కోసం # నంబర్‌లు అందుబాటులో ఉన్నాయి. మీరు యాక్టివేట్ చేసినప్పుడు, మీ నెట్‌వర్క్ ప్రొవైడర్ సర్వీస్‌ను అందించడం కోసం ఛార్జి విధించడం ప్రారంభించవచ్చు.}}</string>
+    <string name="q_result_download_metadata_text">{count,plural, =1{ఈ పరికరం కోసం 1 %1$s నంబర్ అందుబాటులో ఉంది. మీరు కనెక్ట్ చేసినప్పుడు, సర్వీస్‌ను అందించేందుకు %1$s ఛార్జీని విధించడం ప్రారంభించవచ్చు.}other{ఈ పరికరం కోసం # %1$s నంబర్‌లు అందుబాటులో ఉన్నాయి. మీరు కనెక్ట్ చేసినప్పుడు, సర్వీస్‌ను అందించేందుకు %1$s ఛార్జీని విధించడం ప్రారంభించవచ్చు.}}</string>
+    <string name="qr_scanner_end_button">దాన్ని కనుగొనలేకున్నారా?</string>
+    <string name="qr_scanner_failed_msg">మీ కెమెరాకు సంబంధించి ఏదో తప్పు జరిగింది. దయచేసి తర్వాత మళ్లీ ట్రై చేయండి.</string>
+    <string name="qr_scanner_failed_title">మీ కెమెరా అందుబాటులో లేదు</string>
+    <string name="qr_scanner_msg">మీ క్యారియర్ మీకు QR కోడ్ ఇచ్చినట్లయితే, పెట్టె మధ్యలో ఉంచి దీన్ని ఇప్పుడు స్కాన్ చేయండి</string>
+    <string name="qr_scanner_msg_q">%1$s మీకు QR కోడ్ ఇచ్చినట్లయితే, పెట్టె మధ్యలో ఉంచి దీన్ని ఇప్పుడు స్కాన్ చేయండి</string>
+    <string name="qr_scanner_msg_q_no_carrier_name">మీ నెట్‌వర్క్ ప్రొవైడర్ మీకు QR కోడ్ ఇచ్చినట్లయితే, కోడ్‌ను బాక్స్ మధ్యలో ఉంచి ఇప్పుడు స్కాన్ చేయండి</string>
+    <string name="qr_scanner_title">QR కోడ్‌తో క్యారియర్‌ను జోడించండి</string>
+    <string name="qr_scanner_title_q">%1$s నుండి QR కోడ్‌ను స్కాన్ చేయండి</string>
+    <string name="qr_scanner_title_q_no_carrier_name">నెట్‌వర్క్ నుండి QR కోడ్‌ను స్కాన్ చేయండి</string>
+    <string name="reactivate_error_dialog_body">మీ నంబర్‌ను యాక్టివేట్ చేసే క్రమంలో ఏదో తప్పు జరిగింది. దయచేసి తర్వాత మళ్లీ ట్రై చేయండి లేదా SIM కార్డ్‌ని మళ్లీ చొప్పించండి.</string>
+    <string name="reactivate_error_dialog_title_with_carrier_name">%1$s యాక్టివేట్ కాలేదు</string>
+    <string name="reactivate_error_dialog_title_without_carrier_name">SIM యాక్టివేట్ కాలేదు</string>
+    <string name="reason_code_text">రీజన్ కోడ్</string>
+    <string name="reboot_button_title">ఫోన్‌ని పునఃప్రారంభించు</string>
+    <string name="remove_carrier_dialog_text_disabled">"ఈ పరికరం ఇకపై %1$sకి కనెక్ట్ కాలేదు.
+
+దీని వలన మొబైల్ సేవా ప్లాన్‌లు ఏవీ రద్దు కావు."</string>
+    <string name="remove_carrier_dialog_text_enabled">"వెంటనే ఈ పరికరం %1$s నుండి డిస్‌కనెక్ట్ అవుతుంది.
+
+దీని వలన మొబైల్ సేవా ప్లాన్‌లు ఏవీ రద్దు కావు."</string>
+    <string name="remove_carrier_dialog_title">క్యారియర్‌ను తొలగించాలా?</string>
+    <string name="remove_fail_text">ఏదో తప్పు జరిగింది, మీ క్యారియర్‌ని తొలగించడం సాధ్యం కాలేదు.</string>
+    <string name="remove_fail_title">క్యారియర్‌ని తొలగించడం సాధ్యం కాలేదు</string>
+    <string name="remove_profile_title">తొలగించండి</string>
+    <string name="removing_carrier">క్యారియర్‌ని తొలగిస్తోంది…</string>
+    <string name="res_activate_profile_later_button">తర్వాత యాక్టివేట్ చేయండి</string>
+    <string name="res_activation_button">కనెక్ట్ చేేయండి</string>
+    <string name="res_continue_info1_general_multi_carriers">{count,plural, =1{దురదృష్టవశాత్తూ, మేము %1$s, మరో %2$d ఇతర క్యారియర్ నుండి మీ నంబర్‌లను జోడించలేకపోయాము.}other{దురదృష్టవశాత్తూ, మేము %1$s, మరో %2$d ఇతర క్యారియర్‌ల నుండి మీ నంబర్‌లను జోడించలేకపోయాము.}}</string>
+    <string name="res_continue_info1_general_no_carrier">{count,plural, =1{దురదృష్టవశాత్తు, మీ క్యారియర్ నుండి &lt;b>1 నంబర్&lt;/b>ను జోడించడం మాకు సాధ్యం కాలేదు.}other{దురదృష్టవశాత్తు, మీ ఏదైన క్యారియర్‌ల నుండి మేము మీ నంబర్‌లను జోడించలేము.}}</string>
+    <string name="res_continue_info1_general_single_carrier">{count,plural, =1{దురదృష్టవశాత్తు, మేము %1$s నుండి &lt;b>%2$d నంబర్&lt;/b>ను జోడించలేకపోయాము.}other{దురదృష్టవశాత్తు, మేము %1$s నుండి &lt;b>%2$d నంబర్‌ల&lt;/b>ను జోడించలేకపోయాము.}}</string>
+    <string name="res_continue_info1_no_mem_multi_carriers">{count,plural, =1{%1$s, మరో %2$d ఇతర క్యారియర్ నుండి మీ నంబర్‌లను జోడించడానికి సరిపడేంత స్పేస్ అక్కడ లేదు.}other{%1$s, మరో %2$d ఇతర క్యారియర్‌ల నుండి మీ నంబర్‌లను జోడించడానికి సరిపడేంత స్పేస్ అక్కడ లేదు.}}</string>
+    <string name="res_continue_info1_no_mem_no_carrier">{count,plural, =1{&lt;b>1 నంబర్&lt;/b>ను జోడించడానికి సరిపడేంత స్పేస్ లేదు.}other{ఏదైన మీ క్యారియర్‌ల నుండి మీ నంబర్‌లను జోడించడానికి సరిపడేంత స్పేస్ లేదు.}}</string>
+    <string name="res_continue_info1_no_mem_single_carrier">{count,plural, =1{%1$s నుండి &lt;b>%2$d నంబర్&lt;/b>ను జోడించడానికి సరిపడేంత స్పేస్ లేదు.}other{%1$s నుండి &lt;b>%2$d నంబర్‌ల&lt;/b>ను జోడించడానికి సరిపడేంత స్పేస్ లేదు.}}</string>
+    <string name="res_continue_info_item_2">మీకు సేవ లేకపోతే, సహాయం కోసం %1$s సంప్రదించండి</string>
+    <string name="res_continue_info_item_2_no_carrier_name">మీ వద్ద సేవ లేకుంటే, సహాయం కోసం మీ క్యారియర్‌ని సంప్రదించండి</string>
+    <string name="res_continue_text_partial_complete_multiple_carriers">{count,plural, =1{మీరు %2$s, %3$s నుండి &lt;b>%1$d నంబర్‌ల&lt;/b>ను జోడించారు}=2{మీరు %2$s, %3$sలతో పాటు, ఇతర %4$dక్యారియర్ నుండి&lt;b>%1$d నంబర్‌ల&lt;/b>ను జోడించారు}other{మీరు %2$s, %3$sలతో పాటు, ఇతర %4$dక్యారియర్‌ల నుండి&lt;b>%1$d నంబర్‌ల&lt;/b>ను జోడించారు}}</string>
+    <string name="res_continue_text_partial_complete_single_carrier">{count,plural, =1{మీరు %2$s నుండి &lt;b>%1$d నంబర్&lt;/b>ను జోడించారు}other{మీరు %2$s నుండి &lt;b> %1$d నంబర్‌ల&lt;/b>ను జోడించారు}}</string>
+    <string name="res_continue_title_all_success">{count,plural, =1{ఫోన్ నంబర్ జోడించబడింది}other{# నంబర్‌లు జోడించబడ్డాయి}}</string>
+    <string name="res_continue_title_partial_success">%2$d నంబర్‌లలో %1$d జోడించబడ్డాయి</string>
+    <string name="res_download_button">డౌన్‌లోడ్ చేయండి</string>
+    <string name="res_enter_pin_button">పిన్‌ని ఎంటర్ చేయి</string>
+    <string name="res_need_help_button">సహాయం కావాలా?</string>
+    <string name="res_start_button">ప్రారంభించండి</string>
+    <string name="reset_button">రీసెట్ చేయండి</string>
+    <string name="reset_dialog_carriers_body">మీ పరికరంలోని మీ అన్ని క్యారియర్‌లను తొలగించాలా? మీరు ఈ చర్యను తిరిగి రద్దు చేయలేరు.</string>
+    <string name="reset_dialog_carriers_title">క్యారియర్‌లను రీసెట్ చేయాలా?</string>
+    <string name="reset_fail_text">ఏదో తప్పు జరిగింది మరియు మీ క్యారియర్‌లను రీసెట్ చేయడం సాధ్యం కాలేదు.</string>
+    <string name="reset_fail_title">క్యారియర్‌లను రీసెట్ చేయడం సాధ్యం కాదు</string>
+    <string name="reset_screen_text_bottom">ఇది ఏ మొబైల్ సేవా ప్లాన్‌లనూ రద్దు చేయదు.</string>
+    <string name="reset_screen_text_top">ఇది మీ పరికరంలోని అన్ని క్యారియర్‌లను తీసివేస్తుంది:</string>
+    <string name="reset_screen_title">క్యారియర్‌లను రీసెట్ చేయండి</string>
+    <string name="result_connect_title">%1$s‌కు కనెక్ట్ చేయాలా?</string>
+    <string name="result_download_metadata_text">{count,plural, =1{ఈ పరికరం కోసం 1 %1$s నంబర్ అందుబాటులో ఉంది.}other{ఈ పరికరం కోసం # %1$s నంబర్‌లు అందుబాటులో ఉన్నాయి.}}</string>
+    <string name="result_download_text">{count,plural, =1{మీ ఫోన్‌కు జోడించడానికి మీ %1$s నంబర్ సిద్ధంగా ఉంది}other{ఈ ఫోన్‌కు జోడించడానికి %1$s నుండి &lt;b>%2$d నంబర్‌లు&lt;/b> సిద్ధంగా ఉన్నాయి}}</string>
+    <string name="result_download_title">%1$s eSIMను డౌన్‌లోడ్ చేయాలా?</string>
+    <string name="scan_it_now">ఇప్పుడే స్కాన్ చేయండి</string>
+    <string name="send_feedback">ఫీడ్‌బ్యాక్‌ను పంపు</string>
+    <string name="set_up_button">Set up</string>
+    <string name="settings_gear_label">సెట్టింగ్‌లు</string>
+    <string name="sim_action_switch_sub_dialog_carrier_list_item_for_turning_off">%1$sను ఆఫ్ చేయండి</string>
+    <string name="sim_action_switch_sub_dialog_info_outline_for_turning_off">SIMను ఆఫ్ చేయడం వలన మీ సర్వీస్ రద్దు చేయబడదు</string>
+    <string name="sim_card_label">SIM కార్డ్</string>
+    <string name="sim_illustration_bottom_alt_text">స్క్రీన్‌ను మీ వైపు పట్టుకున్నప్పుడు, ఛార్జింగ్ పోర్ట్‌ను కనుగొనండి. ఫోన్ దిగువ భాగంలో, ఛార్జింగ్ పోర్ట్‌కు ఎడమ వైపున SIM ట్రే ఉంటుంది. ట్రే రెండు వైపులా చిన్న చీలికల అంచులతో ఫ్లాట్‌గా ఉంటుంది. ట్రేకు ఎడమ వైపున ఒక చిన్న రంధ్రం ఉంది. ట్రే‌ను తెరవడానికి, కాగితపు క్లిప్ చివరను లేదా SIM ఎజెక్టర్ టూల్‌ను రంధ్రంలోకి ఇన్‌సర్ట్ చేయండి. SIM కార్డ్‌ను ఇన్‌సర్ట్ చేయడానికి, దాని నాచ్‌ను ట్రేతో అమర్చండి. SIM ఒక వైపునకు మాత్రమే సరిపోతుంది.</string>
+    <string name="sim_illustration_bottom_left_alt_text">స్క్రీన్‌ను మీ వైపు పట్టుకున్నప్పుడు, ఛార్జింగ్ పోర్ట్‌ను కనుగొనండి. మీ వేలిని పైకి ఎత్తి ఫోన్ ఎడమ వైపునకు కదల్చండి. SIM ట్రే రెండు వైపులా చిన్న చీలికల అంచులతో ఫ్లాట్‌గా ఉంటుంది. ట్రే పైభాగంలో ఒక చిన్న రంధ్రం ఉంది. ట్రే‌ను తెరవడానికి, కాగితపు క్లిప్ చివరను లేదా SIM ఎజెక్టర్ టూల్‌ను రంధ్రంలోకి ఇన్‌సర్ట్ చేయండి. SIM కార్డ్‌ను ఇన్‌సర్ట్ చేయడానికి, దాని నాచ్‌ను ట్రేతో అమర్చండి. SIM ఒక వైపునకు మాత్రమే సరిపోతుంది.</string>
+    <string name="sim_illustration_top_left_alt_text">స్క్రీన్‌ను మీ వైపు పట్టుకున్నప్పుడు, ఛార్జింగ్ పోర్ట్‌ను కనుగొనండి. మీ వేలిని పైకి ఎత్తి ఫోన్ ఎడమ వైపునకు కదల్చండి. SIM ట్రే రెండు వైపులా చిన్న చీలికల అంచులతో ఫ్లాట్‌గా ఉంటుంది. ట్రే పైభాగంలో ఒక చిన్న రంధ్రం ఉంది. ట్రే‌ను తెరవడానికి, కాగితపు క్లిప్ చివరను లేదా SIM ఎజెక్టర్ టూల్‌ను రంధ్రంలోకి ఇన్‌సర్ట్ చేయండి. SIM కార్డ్‌ను ఇన్‌సర్ట్ చేయడానికి, దాని నాచ్‌ను ట్రేతో అమర్చండి. SIM ఒక వైపునకు మాత్రమే సరిపోతుంది.</string>
+    <string name="sim_locked_text">"ఈ ఫోన్ ప్రస్తుతం మరొక క్యారియర్‌కు లాక్ చేయబడింది. మీరు చెల్లుబాటు అయ్యే SIMను ఉపయోగించాలి. 
+
+మీరు మీ SIMను జోడించిన తర్వాత, యాక్టివేట్ కావడానికి కొన్ని సెకన్లు పట్టవచ్చు."</string>
+    <string name="sim_locked_title">SIMకి సపోర్ట్ లేదు</string>
+    <string name="sim_missing_activity_esim_button_title">కొత్త eSIMను డౌన్‌లోడ్ చేయండి</string>
+    <string name="sim_missing_activity_esim_transfer_button_title">పాత ఫోన్ నుండి SIMను బదిలీ చేయండి</string>
+    <string name="sim_missing_activity_psim_hint">SIM కార్డ్‌ను ఎలా ఉపయోగించాలో తెలుసుకోండి</string>
+    <string name="sim_missing_activity_subtitle_no_psim">మీ eSIMని డౌన్‌లోడ్ చేయండి లేదా ఇప్పుడే SIM కార్డ్‌ను ఇన్‌సర్ట్ చేయండి.</string>
+    <string name="sim_missing_activity_subtitle_psim_exists">"మరొక SIMను జోడించడానికి, కొత్త eSIMను డౌన్‌లోడ్ చేయండి.
+
+వేరే SIM కార్డ్‌ను ఉపయోగించడానికి, ప్రస్తుతం మీ ఫోన్‌లో ఉన్న దానిని ముందు తీసివేయండి"</string>
+    <string name="sim_missing_activity_subtitle_tmo_esim_primary">మీరు ఇప్పుడు మీ SIMను డౌన్‌లోడ్ చేసుకోవచ్చు, లేదా SIM కార్డ్‌ను ఇన్‌సర్ట్ చేయవచ్చు</string>
+    <string name="sim_missing_activity_subtitle_with_psim">కొత్త SIM కార్డ్‌ను ఉపయోగించడానికి, ఇప్పటికే పరికరంలో వాడుతున్న దానిని మీరు తీసివేయాల్సి ఉంటుంది</string>
+    <string name="sim_missing_activity_with_tmo_esim_primary_button_title">మీ SIM కార్డ్‌ను డౌన్‌లోడ్ చేసుకోండి</string>
+    <string name="sim_ready_message">ఈ ఫోన్‌లో ఇదివరకే నంబర్ సెటప్ చేయబడింది</string>
+    <string name="sim_ready_message_carrier_app">%1$sని యాక్టివేట్ చేయడం పూర్తి చేయడానికి, మీరు %2$s యాప్‌ను డౌన్‌లోడ్ చేసుకోవాలి. ప్రస్తుతానికి, మీ ఫోన్‌ను సెటప్ చేయడం పూర్తి చేద్దాము.</string>
+    <string name="sim_ready_message_invalid_phone_number_carrier_app">మీ నంబర్‌ను యాక్టివేట్ చేయడం పూర్తి చేయడానికి, మీరు %1$s యాప్‌ను డౌన్‌లోడ్ చేసుకోవాలి. ప్రస్తుతానికి, మీ ఫోన్‌ను సెటప్ చేయడం పూర్తి చేద్దాము.</string>
+    <string name="sim_ready_title">eSIM కనుగొనబడింది</string>
+    <string name="sim_ready_title_carrier_app">తర్వాత %1$sకు కనెక్ట్ చేయండి</string>
+    <string name="skip_button">స్కిప్</string>
+    <string name="status_title">స్థితి</string>
+    <string name="subject_code_text">సబ్జెక్ట్ కోడ్</string>
+    <string name="sud_back_button_label">వెనుకకు తీసుకెళ్ళు</string>
+    <string name="sud_more_button_label">మరింత</string>
+    <string name="sud_next_button_label">తర్వాత</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="suw_carrier_support_to_complete_activation_no_carrier_v2">సేవను యాక్టివేట్ చేయడానికి, సహాయం కోసం మీ క్యారియర్‌ను సంప్రదించండి.</string>
+    <string name="suw_default_failed_msg_no_carrier">దురదృష్టవశాత్తూ, ఏదో తప్పు జరిగి, ఫోన్ నంబర్ ఏదీ జోడించబడలేదు</string>
+    <string name="suw_failed_title">సెటప్ పూర్తి కాలేదు</string>
+    <string name="suw_pii_sent_msg">సెటప్ చేయడానికి అవసరమైన కొంత పరికర సమాచారం Googleకు, మీ క్యారియర్‌కు, వారి పార్ట్‌నర్‌లకు పంపబడుతుంది</string>
+    <string name="suw_setting_up_phone_info">నిమిషం కంటే తక్కువ సమయం మిగిలి ఉంది</string>
+    <string name="suw_setting_up_phone_title">మీ ఫోన్‌ని సెటప్ చేస్తోంది…</string>
+    <string name="suw_sim_missing_activity_for_delayed_setup_decription">"When you're done setting up your phone, go to Settings to connect to your mobile network. Or, if you have a SIM card, insert it now."</string>
+    <string name="suw_sim_missing_activity_for_delayed_setup_title">Connect to mobile network after setup</string>
+    <string name="switch_button">మార్చు</string>
+    <string name="switch_confirm_mep_dialog_message">ఈ పరికరంలో ఒకేసారి 2 యాక్టివ్ SIMలు ఉండవచ్చు.</string>
+    <string name="switch_confirm_mep_dialog_title">%1$sను ఉపయోగించడానికి SIMను ఆఫ్ చేయండి</string>
+    <string name="switch_confirm_message">%1$s ప్రస్తుతానికి డిస్‌కనెక్ట్ చేయబడుతుంది</string>
+    <string name="switch_confirm_message_no_carrier">మీ మొబైల్ నెట్‌వర్క్ ప్రస్తుతానికి డిస్‌కనెక్ట్ చేయబడుతుంది</string>
+    <string name="switch_confirm_new_title">మీ SIMను డౌన్‌లోడ్ చేసుకోవడానికి Wi‑Fiని ఉపయోగించండి</string>
+    <string name="switch_confirm_no_active_profile_message">మీ SIM డౌన్‌లోడ్ చేయడానికి మీ నెట్‌వర్క్ ప్రొవైడర్‌కు అనుమతినివ్వండి</string>
+    <string name="switch_confirm_no_active_profile_title">మీ SIM త్వరలో డౌన్‌లోడ్ అవుతుంది</string>
+    <string name="switch_confirm_no_wifi_message">ఇది మరొక నెట్‌వర్క్‌ను ఉపయోగించడానికి మిమ్మల్ని అనుమతిస్తుంది</string>
+    <string name="switch_confirm_no_wifi_title">%1$s నుండి డిస్‌కనెక్ట్ చేయాలా?</string>
+    <string name="switch_confirm_no_wifi_title_no_carrier">మొబైల్ నెట్‌వర్క్ నుండి డిస్‌కనెక్ట్ చేయాలా?</string>
+    <string name="switch_restriction_message_to_connect_to">%1$sకి బదులుగా %2$sకి కనెక్ట్ చేయడానికి మొదట మీ %1$s SIMను తీసివేసి, ఆ తర్వాత మళ్లీ ట్రై చేయండి.</string>
+    <string name="switch_restriction_message_to_switch_from">%1$s నుండి మారడానికి, మొదట మీ %1$s SIMను తీసివేసి, ఆ తర్వాత మళ్లీ ట్రై చేయండి.</string>
+    <string name="switch_restriction_title_remove_sim">SIMను తీసివేయండి</string>
+    <string name="sys_notification_5g_enable_dsds_text">"ఈ పరికరంలో ఒకే సారి రెండు SIMలు యాక్టివ్‌గా ఉండగలవు.
+
+2 SIMలను ఉపయోగిస్తున్నప్పుడు, ఈ ఫోన్ 4Gకి మాత్రమే పరిమితం అవుతుంది. %1$s"</string>
+    <string name="sys_notification_after_dsds_reboot_text">మీ మరొక SIMను యాక్టివేట్ చేయడానికి నొక్కండి</string>
+    <string name="sys_notification_after_dsds_reboot_title">ఒకేసారి 2 SIMలను ఉపయోగించడానికి సిద్ధంగా ఉంది</string>
+    <string name="sys_notification_enable_dsds_text">ఈ పరికరంలో ఒకే సమయంలో 2 SIMలు యాక్టివ్‌గా ఉండే సౌకర్యం ఉంది. ఒకే సమయంలో ఒక్క SIMనే ఉపయోగించాలనుకుంటే, \"వద్దు ధన్యవాదాలు\"ను నొక్కండి.</string>
+    <string name="sys_notification_enable_dsds_title">2 SIMలు ఉపయోగిస్తారా?</string>
+    <string name="sys_notification_no_thanks">వద్దు, ధన్యవాదాలు</string>
+    <string name="sys_notification_reboot">రీస్టార్ట్ చేయి</string>
+    <string name="sys_notification_restart_text">ఈ మోడ్‌ను ప్రారంభించడానికి, మీ పరికరాన్ని పునఃప్రారంభించండి. ఆపై, మీరు మరొక SIMను జోడించవచ్చు.</string>
+    <string name="sys_notification_restart_title">పరికరాన్ని పునఃప్రారంభించాలా?</string>
+    <string name="sys_notification_selected_text">మీ మొబైల్ నెట్‌వర్క్ మార్చబడింది</string>
+    <string name="sys_notification_switched_title">%1$sకి మార్చబడింది</string>
+    <string name="sys_notification_switched_title_no_carrier_name">మరొక క్యారియర్‌కి మార్చబడింది</string>
+    <string name="sys_notification_title">క్యారియర్‌ మారుతోంది</string>
+    <string name="temp_error_description_q">{count,plural, =1{మీ నంబర్‌ను యాక్టివేట్ చేసే క్రమంలో ఏదో తప్పు జరిగింది. మీరు సెట్టింగ్‌లలో తర్వాత మళ్లీ ట్రై చేయవచ్చు.}other{మీ నంబర్‌లను యాక్టివేట్ చేసే క్రమంలో ఏదో తప్పు జరిగింది. మీరు సెట్టింగ్‌లలో తర్వాత మళ్లీ ట్రై చేయవచ్చు.}}</string>
+    <string name="terms_of_service">సర్వీస్ నియమాలు</string>
+    <string name="text_bottom_transfer_carrier_info">మీ క్యారియర్ కనిపించలేదా? సహాయం కోసం మీ క్యారియర్‌ను కాంటాక్ట్ చేయండి.</string>
+    <string name="title_app_required">తర్వాత %1$sకు కనెక్ట్ చేయండి</string>
+    <string name="title_cannot_connect_to_network_no_name">నెట్‌వర్క్‌కు కనెక్ట్ చేయడం సాధ్యపడదు</string>
+    <string name="title_cannot_download">SIMను డౌన్‌లోడ్ చేయడం సాధ్యపడదు</string>
+    <string name="title_choose_download_type">మీ %1$s నంబర్‌ను యాక్టివేట్ చేసుకోండి</string>
+    <string name="title_choose_transfer_type">మీ నంబర్‌ను %1$sకు బదిలీ చేసుకునే విధానాన్ని ఎంచుకోండి</string>
+    <string name="title_incorrect_qr_code">QR కోడ్ సరైనది కాదు</string>
+    <string name="title_install_app_notification">మీ నంబర్‌ను సెటప్ చేయడానికి %1$s యాప్ పొందండి</string>
+    <string name="title_network_not_activated">నెట్‌వర్క్ యాక్టివేట్ కాలేదు</string>
+    <string name="title_no_connection">ఇంటర్నెట్‌ను రీచ్ అవడం సాధ్యం కాదు</string>
+    <string name="title_portal_intro">మీ %1$s నంబర్‌ను బదిలీ చేయండి</string>
+    <string name="title_profile_already_downloaded">SIM ఇప్పటికే డౌన్‌లోడ్ చేయబడింది</string>
+    <string name="title_transfer_type_portal">మీ %1$s ఖాతాలోకి లాగ్ ఇన్ అవ్వండి</string>
+    <string name="title_transfer_type_qr">QR కోడ్‌ను స్కాన్ చేయండి</string>
+    <string name="transfer_button">బదిలీ చేయి</string>
+    <string name="transfer_device_transfer_error">(బదిలీ చేయడం సాధ్యపడదు)</string>
+    <string name="transfer_in_device_name">%1$sలో %2$s</string>
+    <string name="transfer_profile_downloading_description">మీరు మీ %1$s‌ను సెటప్ చేయడాన్నికొనసాగించవచ్చు</string>
+    <string name="transfer_single_description_with_esim">"%1$s ఈ ఫోన్‌కు బదిలీ అవుతుంది.
+
+మీరు ఈ ఫోన్‌కు మీ SIMను బదిలీ చేసిన తర్వాత, మీ ఇతర పరికరంలో అది ఇక పని చేయదు."</string>
+    <string name="transfer_single_description_with_psim">"మీరు మీ SIM కార్డ్‌ను eSIMగా మార్చవచ్చు,
+ఈ ఫోన్‌కు బదిలీ చేయవచ్చు. దాన్ని మార్చిన తర్వాత,
+మీ SIM కార్డ్‌ను మళ్లీ ఉపయోగించడం సాధ్యం కాదు."</string>
+    <string name="transfer_single_psim_hint">SIM కార్డ్‌ను ఎలా ఉపయోగించాలో తెలుసుకోండి</string>
+    <string name="transfer_single_psim_sub_info">లేదా, ఇప్పుడే SIM కార్డ్‌ను ఇన్‌సర్ట్ చేయండి.</string>
+    <string name="transfer_single_subItem_title_with_number">సరైన సంఖ్య కాదా?</string>
+    <string name="transfer_single_subItem_title_without_number_esim">సరైన eSIM కాదా?</string>
+    <string name="transfer_single_subItem_title_without_number_unknown">సరైన SIM కాదా?</string>
+    <string name="transfer_single_title">%1$s SIMను బదిలీ చేయాలా?</string>
+    <string name="transfer_subItem_desc">బదులుగా కొత్త eSIMని డౌన్‌లోడ్ చేయండి</string>
+    <string name="transfer_subItem_title_with_number">సరైన సంఖ్యలు కాదా?</string>
+    <string name="transfer_subItem_title_without_number_esim">సరైన eSIMలు కాదా?</string>
+    <string name="transfer_subItem_title_without_number_unknown">సరైన SIMలు కాదా?</string>
+    <string name="transfer_title_unknown_sim">బదిలీ చేయడానికి SIMను ఎంచుకోండి</string>
+    <string name="transfer_title_with_number">బదిలీ చేయడానికి నంబర్‌ను ఎంచుకోండి</string>
+    <string name="transfer_title_without_number">బదిలీ చేయడానికి eSIMని ఎంచుకోండి</string>
+    <string name="update_button">అప్‌డేట్ చేయి</string>
+    <string name="use_different_network">వేరే నెట్‌వర్క్‌ను ఉపయోగించండి</string>
+    <string name="use_different_network_button">వేరే నెట్‌వర్క్‌ను ఉపయోగించండి</string>
+    <string name="user_consent_download_active_profile_body_text">డౌన్‌లోడ్ సమయంలో %1$s ఆఫ్ చేయబడుతుంది</string>
+    <string name="user_consent_download_mobile_data_body_text">మీ మొబైల్ నెట్‌వర్క్ ద్వారా మీ SIM డౌన్‌లోడ్ చేయబడుతుంది</string>
+    <string name="user_consent_download_no_name_body_text">డౌన్‌లోడ్ సమయంలో మీ యాక్టివ్ SIM ఆఫ్ చేయబడుతుంది</string>
+    <string name="user_consent_download_over_wifi_title">మీ SIMను డౌన్‌లోడ్ చేసుకోవడానికి Wi‑Fiని ఉపయోగించాలా?</string>
+    <string name="user_consent_download_ss_no_profile_title">SIMను డౌన్‌లోడ్ చేయడానికి మీ క్యారియర్‌ను అనుమతించాలా?</string>
+    <string name="user_consent_download_ss_no_profile_wifi_body_text">Wi‑Fi ద్వారా మీ SIM డౌన్‌లోడ్ చేయబడుతుంది</string>
+    <string name="user_consent_download_switch_body_text">"డౌన్‌లోడ్ చేసి, మరొక SIM ఉపయోగించడానికి, %1$s‌ను ఆఫ్ చేయండి.
+
+%1$s‌ను ఆఫ్ చేయడం వలన మీ సర్వీస్ రద్దు చేయబడదు."</string>
+    <string name="user_consent_download_switch_dsds_no_name_body_text">"డౌన్‌లోడ్ చేసి, మరొక SIM ఉపయోగించడానికి, యాక్టివ్ SIMను ఆఫ్ చేయండి.
+
+SIMను ఆఫ్ చేయడం వలన మీ సర్వీస్ రద్దు చేయబడదు."</string>
+    <string name="user_consent_download_switch_dsds_no_name_title">SIMను ఆఫ్ చేయాలా?</string>
+    <string name="user_consent_download_switch_no_profile_body_text">డౌన్‌లోడ్ చేసిన వెంటనే మీ SIM ఉపయోగించబడుతుంది</string>
+    <string name="user_consent_download_switch_ss_no_name_body_text">"డౌన్‌లోడ్ చేసి, మరొక SIM ఉపయోగించడానికి, మీ యాక్టివ్ SIMను ఆఫ్ చేయండి.
+
+SIMను ఆఫ్ చేయడం వలన మీ సర్వీస్ రద్దు చేయబడదు."</string>
+    <string name="user_consent_download_switch_ss_no_name_title">సిమ్‌ను ఆఫ్ చేయాలా?</string>
+    <string name="user_consent_switch_dsds_body_text">"ఈ పరికరంలో 1 యాక్టివ్ eSIM మాత్రమే ఉపయోగించవచ్చు.
+
+%1$s ఆఫ్ చేయబడుతుంది, కానీ దీని వలన మీ సర్వీస్ రద్దు చేయబడదు."</string>
+    <string name="user_consent_switch_dsds_no_name_body_text">"ఈ పరికరంలో 1 యాక్టివ్ eSIM మాత్రమే ఉపయోగించవచ్చు.
+
+మీ ప్రస్తుత SIM ఆఫ్ చేయబడుతుంది, కానీ దీని వలన మీ సర్వీస్ రద్దు చేయబడదు."</string>
+    <string name="user_consent_switch_mep_dsds_body_text">%1$s ఆఫ్ చేయబడుతుంది, కానీ ఇది మీ సర్వీస్‌ను రద్దు చేయదు.</string>
+    <string name="user_consent_switch_mep_dsds_no_name_body_text">మీ ప్రస్తుత SIM ఆఫ్ చేయబడుతుంది, కానీ దీని వలన మీ సర్వీస్ రద్దు చేయబడదు.</string>
+    <string name="user_consent_switch_no_name_title">కొత్త SIMను ఉపయోగించాలా?</string>
+    <string name="user_consent_switch_ss_body_text">"ఈ పరికరంలో 1 యాక్టివ్ SIM మాత్రమే ఉపయోగించవచ్చు.
+
+%1$s ఆఫ్ చేయబడుతుంది, కానీ దీని వలన మీ సర్వీస్ రద్దు చేయబడదు."</string>
+    <string name="user_consent_switch_ss_no_name_body_text">"ఈ పరికరంలో 1 యాక్టివ్ SIM మాత్రమే ఉపయోగించవచ్చు.
+
+మీ ప్రస్తుత SIM ఆఫ్ చేయబడుతుంది, కానీ దీని వలన మీ సర్వీస్ రద్దు చేయబడదు."</string>
+    <string name="user_consent_switch_title">%1$s‌ను ఉపయోగించాలా?</string>
+    <string name="v7_preference_off">ఆఫ్ చేయండి</string>
+    <string name="v7_preference_on">ఆన్ చేయండి</string>
+    <string name="wait_msg">ఒక్క క్షణం వేచి ఉండండి…</string>
+    <string name="wrong_code_dialog_text">"కొన్ని క్యారియర్‌లకు అదనపు సెక్యూరిటీ కోసం వెరిఫికేషన్ కోడ్ అవసరం. మీరు మీ కోడ్‌ను కనుగొనవచ్చు:
+
+• మీ పరికరంతో పాటు వచ్చిన కాగితం మీద
+• మీ క్యారియర్ నుండి వచ్చిన ఈమెయిల్‌లో
+• మీ పాత పరికరానికి పంపిన టెక్స్ట్ మెసేజ్‌లో కోడ్‌ను కనుగొనవచ్చు"</string>
+    <string name="yes_button">అవును</string>
+</resources>

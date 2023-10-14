@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_error_bad_calibration">Sensori i gjurmës së gishtit nuk mund të përdoret. Vizito një ofrues të shërbimit të riparimit ose g.co/pixel/fingerprintunlock</string>
+    <string name="fingerprint_recalibrate_notification_content">Vizito një ofrues të shërbimit të riparimit ose g.co/pixel/fingerprintunlock</string>
+    <string name="battery_saver_description_with_learn_more">"Për të rritur kohëzgjatjen e baterisë, \"Kursyesi i baterisë\":
+
+• Aktivizon \"Temën e errët\"
+• Çaktivizon ose kufizon aktivitetin në sfond, disa efekte vizuale dhe veçori të tjera si “Ok Google”
+• Optimizon lidhjet e tua të rrjetit
+
+"<annotation id="url">Mëso më shumë</annotation></string>
+</resources>

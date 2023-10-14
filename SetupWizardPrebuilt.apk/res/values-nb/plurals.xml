@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="account_exists_text_multiple">
+        <item quantity="other">"Disse kontoene er klare:
+
+"&lt;annotation textAppearance="TextAppearance.SudDescription.Medium">^1&lt;/annotation></item>
+        <item quantity="one">"Denne kontoen er klar:
+
+"&lt;annotation textAppearance="TextAppearance.SudDescription.Medium">^1&lt;/annotation></item>
+    </plurals>
+    <plurals name="people_contacts_sync_failure_in_contacts_title_in_portal">
+        <item quantity="other">Kunne ikke synkronisere %1$,d av %2$,d kontakter</item>
+        <item quantity="one">Kunne ikke synkronisere %1$,d av %2$,d kontakt</item>
+    </plurals>
+    <plurals name="people_contacts_sync_failure_in_photos_title_in_portal">
+        <item quantity="other">Kunne ikke synkronisere %1$,d av %2$,d kontaktbilder</item>
+        <item quantity="one">Kunne ikke synkronisere %1$,d av %2$,d kontaktbilde</item>
+    </plurals>
+    <plurals name="people_contacts_sync_succeed_title_in_portal">
+        <item quantity="other">%,d kontakter er synkronisert med Google-kontakter</item>
+        <item quantity="one">%,d kontakt er synkronisert med Google-kontakter</item>
+    </plurals>
+    <plurals name="qr_provision_toast">
+        <item quantity="other">%d trykk til for å starte konfigurering av QR-kode</item>
+        <item quantity="one">%d trykk til for å starte konfigurering av QR-kode</item>
+    </plurals>
+    <plurals name="slots_selection_text">
+        <item quantity="other">%d numre er lagt til på denne enheten, men bare ett kan brukes om gangen.</item>
+        <item quantity="one">%d nummer er lagt til på denne enheten, men bare ett kan brukes om gangen.</item>
+    </plurals>
+    <plurals name="survey_star_rating">
+        <item quantity="other">%1$d av %2$d stjerner</item>
+        <item quantity="one">%1$d av %2$d stjerner</item>
+    </plurals>
+</resources>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="avatar_image_descriptions">
+        <item>@string/desc_ProfileIcons11</item>
+        <item>@string/desc_ProfileIcons15</item>
+        <item>@string/desc_ProfileIcons22</item>
+        <item>@string/desc_ProfileIcons7</item>
+        <item>@string/desc_ProfileIcons21</item>
+        <item>@string/desc_ProfileIcons10</item>
+        <item>@string/desc_ProfileIcons24</item>
+        <item>@string/desc_ProfileIcons5</item>
+        <item>@string/desc_ProfileIcons4</item>
+        <item>@string/desc_ProfileIcons6</item>
+        <item>@string/desc_ProfileIcons18</item>
+        <item>@string/desc_ProfileIcons9</item>
+        <item>@string/desc_ProfileIcons17</item>
+        <item>@string/desc_ProfileIcons8</item>
+        <item>@string/desc_ProfileIcons23</item>
+        <item>@string/desc_ProfileIcons19</item>
+        <item>@string/desc_ProfileIcons1</item>
+        <item>@string/desc_ProfileIcons14</item>
+        <item>@string/desc_ProfileIcons3</item>
+        <item>@string/desc_ProfileIcons16</item>
+        <item>@string/desc_ProfileIcons20</item>
+        <item>@string/desc_ProfileIcons12</item>
+        <item>@string/desc_ProfileIcons2</item>
+        <item>@string/desc_ProfileIcons13</item>
+    </string-array>
+    <array name="avatar_images">
+        <item>@drawable/ProfileIcons11</item>
+        <item>@drawable/ProfileIcons15</item>
+        <item>@drawable/ProfileIcons22</item>
+        <item>@drawable/ProfileIcons7</item>
+        <item>@drawable/ProfileIcons21</item>
+        <item>@drawable/ProfileIcons10</item>
+        <item>@drawable/ProfileIcons24</item>
+        <item>@drawable/ProfileIcons5</item>
+        <item>@drawable/ProfileIcons4</item>
+        <item>@drawable/ProfileIcons6</item>
+        <item>@drawable/ProfileIcons18</item>
+        <item>@drawable/ProfileIcons9</item>
+        <item>@drawable/ProfileIcons17</item>
+        <item>@drawable/ProfileIcons8</item>
+        <item>@drawable/ProfileIcons23</item>
+        <item>@drawable/ProfileIcons19</item>
+        <item>@drawable/ProfileIcons1</item>
+        <item>@drawable/ProfileIcons14</item>
+        <item>@drawable/ProfileIcons3</item>
+        <item>@drawable/ProfileIcons16</item>
+        <item>@drawable/ProfileIcons20</item>
+        <item>@drawable/ProfileIcons12</item>
+        <item>@drawable/ProfileIcons2</item>
+        <item>@drawable/ProfileIcons13</item>
+    </array>
+    <string-array name="config_settings_slices_accessibility_components">
+        <item>com.google.android.marvin.talkback/com.android.switchaccess.SwitchAccessService</item>
+        <item>com.google.android.marvin.talkback/com.google.android.marvin.talkback.TalkBackService</item>
+        <item>com.google.android.marvin.talkback/com.google.android.accessibility.selecttospeak.SelectToSpeakService</item>
+        <item>com.google.android.marvin.talkback/com.google.android.accessibility.accessibilitymenu.AccessibilityMenuService</item>
+    </string-array>
+    <integer-array name="datausage_hiding_carrier_service_carrier_id">
+        <item>1802</item>
+        <item>2032</item>
+        <item>2126</item>
+        <item>2146</item>
+        <item>10008</item>
+    </integer-array>
+    <string-array name="datausage_hiding_carrier_service_package_names">
+        <item>com.verizon.mips.services</item>
+        <item>com.verizon.llkagent</item>
+        <item>com.verizon.obdm</item>
+        <item>com.verizon.obdm_permissions</item>
+        <item>com.verizon.services</item>
+        <item>com.vzw.apnlib</item>
+    </string-array>
+    <string-array name="enabled_networks_except_gsm_values">
+        <item>10</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="enabled_networks_values">
+        <item>10</item>
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="slice_allowlist_package_names">
+        <item>com.google.android.gms</item>
+        <item>com.google.android.googlequicksearchbox</item>
+        <item>com.google.android.apps.search.assistant.surfaces.voice.devapp</item>
+    </string-array>
+</resources>

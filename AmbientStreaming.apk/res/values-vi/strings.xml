@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dịch vụ trên nhiều thiết bị</string>
+    <string name="app_name_generic">một ứng dụng</string>
+    <string name="app_stream_error_generic">Đã xảy ra lỗi khi chia sẻ ứng dụng</string>
+    <string name="app_stream_init_error_generic">Không chia sẻ được ứng dụng với Chromebook của bạn</string>
+    <string name="audio_permission_rationale">Quyền dùng micrô bị tắt khi chia sẻ ứng dụng</string>
+    <string name="cancel_button_label">Huỷ</string>
+    <string name="chromebook_keyboard">Bàn phím Chromebook</string>
+    <string name="chromebook_mouse">Chuột Chromebook</string>
+    <string name="chromebook_touchscreen">Màn hình cảm ứng Chromebook</string>
+    <string name="connect_device">Đang kết nối điện thoại của bạn với thiết bị từ xa: %1$s</string>
+    <string name="decline_button_label">Từ chối</string>
+    <string name="development_notification_channel_name">Phát triển</string>
+    <string name="device_camera_cannot_access">Không truy cập được vào máy ảnh của thiết bị qua Chromebook này</string>
+    <string name="done_button_label">Xong</string>
+    <string name="enable_button_label">Bật</string>
+    <string name="foreground_service_notification_channel_name">Chung</string>
+    <string name="foreground_service_notification_content">Nhấn để sửa đổi chế độ cài đặt</string>
+    <string name="foreground_service_notification_title">{0,plural, =1{Đã kết nối với # thiết bị}other{Đã kết nối với # thiết bị}}</string>
+    <string name="interactive_streaming_generic_notification">Đang truyền trực tuyến %1$s và đồng bộ hoá thông báo cho Chromebook của bạn</string>
+    <string name="interactive_streaming_individual_notification">Truyền trực tuyến %1$s và đồng bộ hoá các thông báo của %2$s</string>
+    <string name="interactive_streaming_notification">Đang truyền trực tuyến đến Chromebook của bạn</string>
+    <string name="keyboard_name">Bàn phím trên nhiều thiết bị</string>
+    <string name="lock_screen_notif_warning_content">Bật thông báo trên màn hình khóa</string>
+    <string name="lock_screen_notif_warning_title">Thông báo sẽ không được chuyển tiếp</string>
+    <string name="mouse_name">Chuột kết nối với nhiều thiết bị</string>
+    <string name="new_connection_confirm">Xác nhận</string>
+    <string name="new_connection_deny">Từ chối</string>
+    <string name="new_connection_title">Vui lòng xác nhận chuỗi trùng khớp</string>
+    <string name="notification_access_missing">Cần quyền truy cập thông báo</string>
+    <string name="notification_access_missing_description">Để mở thông báo trên Chromebook của bạn, hãy bật Quyền truy cập thông báo</string>
+    <string name="notification_channel_name">Chung</string>
+    <string name="notification_listener_label">Chia sẻ ứng dụng với Chromebook của bạn</string>
+    <string name="open_source_licenses">Giấy phép nguồn mở</string>
+    <string name="phone_permission_rationale">Quyền gọi điện thoại bị tắt khi chia sẻ ứng dụng</string>
+    <string name="prompt_switch_languages">Nhấn Shift + dấu cách để chuyển đổi ngôn ngữ của Gboard trên điện thoại</string>
+    <string name="settings_button">Cài đặt</string>
+    <string name="stop_sharing_button">Dừng phát trực tuyến</string>
+    <string name="stream_termination_proximity_warning">Điện thoại của bạn ở quá xa. Mang điện thoại lại gần hơn để tiếp tục phát trực tuyến.</string>
+    <string name="substitute_app_name">Hệ thống</string>
+    <string name="summary_disable_wirecutter">Đang tắt</string>
+    <string name="summary_enable_wirecutter">Đang bật</string>
+    <string name="touchscreen_name">Màn hình cảm ứng kết nối với nhiều thiết bị</string>
+</resources>

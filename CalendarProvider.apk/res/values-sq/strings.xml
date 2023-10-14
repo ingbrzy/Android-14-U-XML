@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="calendar_default_name">Parazgjedhja</string>
+    <string name="calendar_info">Informacioni i kalendarit</string>
+    <string name="calendar_info_error">Gabim</string>
+    <string name="calendar_info_events">Ngjarjet: %1$d</string>
+    <string name="calendar_info_events_dirty">Ngjarjet: %1$d. Të paruajtura: %2$d</string>
+    <string name="calendar_info_no_calendars">Nuk ka kalendarë</string>
+    <string name="calendar_storage">Hapësira ruajtëse e kalendarit</string>
+    <string name="debug_tool_delete_button">Fshi tani</string>
+    <string name="debug_tool_email_body">Bashkëngjitur është baza e të dhënave të \"Kalendarit\" tim me të gjitha takimet dhe informacionet e mia personale. Përdore me kujdes.</string>
+    <string name="debug_tool_email_sender_picker">Zgjidh një program për të dërguar skedarin</string>
+    <string name="debug_tool_email_subject">Baza e të dhënave e kalendarit është bashkëngjitur</string>
+    <string name="debug_tool_message">Je gati të 1) bësh një kopje të bazës së të dhënave të kalendarit tënd në kartën SD/hapësirën e jashtme (USB) për ruajtje, e cila mund të lexohet nga çdo aplikacion dhe 2) ta dërgosh me email. Mos harro ta fshish kopjen sapo ta kesh kopjuar me sukses nga pajisja ose pasi të kesh marrë email-in.</string>
+    <string name="debug_tool_start_button">Nis</string>
+    <string name="provider_label">Kalendari</string>
+</resources>

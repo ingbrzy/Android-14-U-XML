@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bundle1_color_name">Karbon</string>
+    <string name="bundle2_color_name">Kertas</string>
+    <string name="bundle3_color_name">Matahari</string>
+    <string name="color_name_monochromatic">Monokromatik</string>
+    <string name="default_color_name">Klasik</string>
+    <string name="fruit1_color_name">Palet dua warna kuning dan merah</string>
+    <string name="fruit2_color_name">Palet dua warna hijau dan oranye</string>
+    <string name="fruit3_color_name">Palet dua warna biru dan hijau</string>
+    <string name="fruit4_color_name">Palet dua warna ungu muda dan biru</string>
+    <string name="fruit5_color_name">Palet dua warna merah muda dan nila</string>
+    <string name="rainbow1_color_name">Merah</string>
+    <string name="rainbow2_color_name">Oranye</string>
+    <string name="rainbow3_color_name">Kuning</string>
+    <string name="rainbow4_color_name">Hijau</string>
+    <string name="rainbow5_color_name">Biru</string>
+    <string name="rainbow6_color_name">Nila</string>
+    <string name="rainbow7_color_name">Violet</string>
+</resources>

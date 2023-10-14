@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bundle1_color_name">Carbon</string>
+    <string name="bundle2_color_name">Hârtie</string>
+    <string name="bundle3_color_name">Soare</string>
+    <string name="color_name_monochromatic">Monocromatică</string>
+    <string name="default_color_name">Clasic</string>
+    <string name="fruit1_color_name">Paletă în două culori: galben și roșu</string>
+    <string name="fruit2_color_name">Paletă în două culori: verde și portocaliu</string>
+    <string name="fruit3_color_name">Paletă în două culori: albastru și verde</string>
+    <string name="fruit4_color_name">Paletă în două culori: violet deschis și albastru</string>
+    <string name="fruit5_color_name">Paletă în două culori: roz și indigo</string>
+    <string name="rainbow1_color_name">Roșu</string>
+    <string name="rainbow2_color_name">Portocaliu</string>
+    <string name="rainbow3_color_name">Galben</string>
+    <string name="rainbow4_color_name">Verde</string>
+    <string name="rainbow5_color_name">Albastru</string>
+    <string name="rainbow6_color_name">Indigo</string>
+    <string name="rainbow7_color_name">Violet</string>
+</resources>

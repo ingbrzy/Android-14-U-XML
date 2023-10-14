@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sim_locked_notification_custom_content_array">
+        <item>Para usar este chip, desbloqueie seu smartphone com o app Device Unlock.</item>
+        <item>Entre em contato com sua provedora de serviços móveis</item>
+    </string-array>
+</resources>

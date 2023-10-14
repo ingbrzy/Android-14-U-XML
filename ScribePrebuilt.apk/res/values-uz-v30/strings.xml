@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dolphin_html_description">Tovush bildirishnomalari uyingizda nimalar boʻlayotganini bilishga yordam beradi.&lt;br>&lt;br>Tovush bildirishnomalari yoniqligida qurilmangiz doim siz ogohlantirishingiz kerak boʻlgan tutun signali chalishi yoki chaqaloq yigʻisi kabi tovushlarni tekshirib turadi.&lt;br>&lt;br>Ovoz sifati haqida fikr-mulohaza yuborishni tanlamaguningizgacha audio va fondagi suhbatlar hech qachon Googlega yuborilmaydi.</string>
+    <string name="live_transcribe_html_description">Jonli transkripsiya ekranda nutqni matn shaklida chiqaradi va atrofdagi suhbatlarda qatnashishni osonlashtiradi.&lt;br>&lt;br>Ekrandagi suhbatlarda javoblar yozish, ismingiz aytilganda xabar olish va transkripsiyalar ichidan qidirish ham mumkin.&lt;br>&lt;br>Google suhbatlarni qayta ishlaydi, lekin saqlamaydi.</string>
+</resources>

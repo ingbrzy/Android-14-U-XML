@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_bar_label">Přihlásit se k mobilní síti</string>
+    <string name="android_system_label">Mobilní operátor</string>
+    <string name="app_name">Komunikace s operátorem</string>
+    <string name="mobile_data_status_notification_channel_name">Stav mobilních dat</string>
+    <string name="no_data_notification_detail">Kontaktujte poskytovatele služeb %s</string>
+    <string name="no_data_notification_id">Mobilní data byla deaktivována</string>
+    <string name="no_mobile_data_connection">Přidejte data nebo tarif roamingu prostřednictvím aplikace %s</string>
+    <string name="no_mobile_data_connection_title">Žádné připojení přes mobilní data</string>
+    <string name="performance_boost_notification_button_manage">Spravovat</string>
+    <string name="performance_boost_notification_button_not_now">Teď ne</string>
+    <string name="performance_boost_notification_channel">Zvýšení výkonu</string>
+    <string name="performance_boost_notification_detail">Navštivte web operátora %s a podívejte se na možnosti pro vaši aplikaci</string>
+    <string name="performance_boost_notification_title">Možnosti 5G od vašeho operátora</string>
+    <string name="portal_notification_detail">Klepnutím přejdete na web %s</string>
+    <string name="portal_notification_id">Mobilní data byla vyčerpána</string>
+    <string name="slice_purchase_app_label">Kupte si zvýšení výkonu.</string>
+    <string name="ssl_error_continue">Přesto pokračovat prostřednictvím prohlížeče</string>
+    <string name="ssl_error_example">Přihlašovací stránka například nemusí patřit zobrazované organizaci.</string>
+    <string name="ssl_error_warning">Síť, ke které se pokoušíte připojit, má bezpečnostní problémy.</string>
+</resources>

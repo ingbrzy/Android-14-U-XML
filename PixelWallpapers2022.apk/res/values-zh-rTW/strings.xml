@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="azure_title">青藍鴉</string>
+    <string name="blackswan_title">黑天鵝</string>
+    <string name="cockatoo_title">小鸚鵡</string>
+    <string name="come_alive_title">動態桌布</string>
+    <string name="feathers_attribution">Andrew Zuckerman 攝影作品</string>
+    <string name="feathers_description">展示羽毛的顏色與細節</string>
+    <string name="feathers_title">羽毛</string>
+    <string name="greenwinged_title">綠翅金剛鸚鵡</string>
+    <string name="king_title">王鷲</string>
+    <string name="living_universe_title">宇宙實景</string>
+    <string name="photos_memory_gallery_title">你的回憶集錦</string>
+    <string name="pied_title">非洲白頸鴉</string>
+    <string name="ringnecked_title">環頸鸚鵡</string>
+    <string name="seagull_title">海鷗</string>
+</resources>

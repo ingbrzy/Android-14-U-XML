@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="azure_title">Blou spotvoël</string>
+    <string name="blackswan_title">Swart swaan</string>
+    <string name="cockatoo_title">Kaketoe</string>
+    <string name="come_alive_title">Kry lewe</string>
+    <string name="feathers_attribution">Foto deur Andrew Zuckerman</string>
+    <string name="feathers_description">’n Veeragtige vertoning van kleur en detail</string>
+    <string name="feathers_title">Vere</string>
+    <string name="greenwinged_title">Groenvlerkarapapegaai</string>
+    <string name="king_title">Koningsaasvoël</string>
+    <string name="living_universe_title">Lewende heelal</string>
+    <string name="photos_memory_gallery_title">Jou herinneringe</string>
+    <string name="pied_title">Witborskraai</string>
+    <string name="ringnecked_title">Rinkhalsparkiet</string>
+    <string name="seagull_title">Seemeeu</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="select_logpersist_summaries">
+        <item>Valiwe</item>
+        <item>Onke amabhafa elogi</item>
+        <item>Konke ngaphandle kwamabhafa elogi yerediyo</item>
+        <item>ilogi ye-kernel kuphela</item>
+    </string-array>
+</resources>

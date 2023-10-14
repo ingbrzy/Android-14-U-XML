@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_error_bad_calibration">Манжа изинин сенсорун колдонууга болбойт. Тейлөө кызматына кайрылыңыз же g.co/pixel/fingerprintunlock бөлүмүнө өтүңүз</string>
+    <string name="fingerprint_recalibrate_notification_content">Тейлөө кызматына кайрылыңыз же g.co/pixel/fingerprintunlock бөлүмүнө өтүңүз</string>
+    <string name="battery_saver_description_with_learn_more">"Батареяны көбүрөөк убакытка жеткирүү үчүн Батареяны үнөмдөгүч режиминде:
+
+• Караңгы тема күйгүзүлөт
+• Фондогу аракеттер, айрым визуалдык эффекттер жана \"Окей, Google\" сыяктуу башка функциялар өчүрүлөт же чектелет
+• Тармакка туташууларыңыз оптималдаштырылат
+
+"<annotation id="url">Кеңири маалымат</annotation></string>
+</resources>

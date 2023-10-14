@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_retaildemoCommunication">සිල්ලර ආදර්ශන සේවා සමඟ අන්තර්ක්‍රියා කිරීමට යෙදුමට ඉඩ දෙයි. මෙම අවසරය සිල්ලර ආදර්ශන සඳහා පමණක් ලබා දිය යුතුය. මෙම අවසරය ලබා දී ඇති යෙදුම් සිල්ලර ආදර්ශන ප්‍රකාරය සඳහා වෙන් කර ඇති ක්‍රියා ප්‍රේරණය කළ හැකිය.</string>
+    <string name="permlab_retaildemoCommunication">Retail Demo සන්නිවේදනය</string>
+    <string name="retaildemo_preload_app_name">Retail Demo සේවා</string>
+</resources>

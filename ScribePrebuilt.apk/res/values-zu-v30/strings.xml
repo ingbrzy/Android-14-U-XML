@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dolphin_html_description">Izaziso Zomsindo zikusiza waze ukuthi kwenzakalani ekhaya lakho.&lt;br>&lt;br>Uma Izaziso Zomsindo zivuliwe, idivayisi yakho izohlala ihlola imisindo ofuna ukwaziswa ngayo, njengalapho kukhala i-alamu yentuthu noma ingane ikhala.&lt;br >&lt;br>Izingxoxo ezilalelwayo nezingemuva azithunyelwa ku-Google, ngaphandle uma ukhetha ukuthumela impendulo mayelana nekhwalithi yomsindo.</string>
+    <string name="live_transcribe_html_description">I-Live Transcribe ibonisa inkulumo njengombhalo kusikrini sakho ukuze ukwazi ukuhlanganyela ezingxoxweni ezikuzungezile kalula .&lt;br>&lt;br>Ungathayipha izimpendulo kusikrini ngenkathi ubuke okulotshiweyo, uthole izexwayiso lapho kukhulunywa igama lakho, futhi useshe phakathi nokulotshiweyo.&lt;br>&lt;br>I-Google icubungula izingxoxo zakho kodwa ayilokothi izigcine.</string>
+</resources>

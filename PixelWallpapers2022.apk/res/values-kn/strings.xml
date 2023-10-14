@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="azure_title">ಅಜೂರ್ ಜೇ</string>
+    <string name="blackswan_title">ಕಪ್ಪು ಹಂಸ</string>
+    <string name="cockatoo_title">ಕಾಕಟೂ</string>
+    <string name="come_alive_title">ಕಮ್ ಅಲೈವ್</string>
+    <string name="feathers_attribution">ಆಂಡ್ರ್ಯೂ ಝುಕರ್‌ಮ್ಯಾನ್ ಅವರು ಸೆರೆಹಿಡಿದ ಫೋಟೋ</string>
+    <string name="feathers_description">ಪಕ್ಷಿಯ ಗರಿಗಳು, ರೆಕ್ಕೆಗಳು, ಅದರ ದೇಹದ ಬಣ್ಣ ಹಾಗೂ ಅಂದವನ್ನು ಸವಿವರವಾಗಿ ಸೆರೆಹಿಡಿಯಲಾದ ಚಿತ್ರ</string>
+    <string name="feathers_title">ಗರಿಗಳು</string>
+    <string name="greenwinged_title">ಹಸಿರು ಬಣ್ಣದ ರೆಕ್ಕೆಯ ಮಕಾವು</string>
+    <string name="king_title">ಕಿಂಗ್ ವಲ್ಚರ್</string>
+    <string name="living_universe_title">ಜೀವಂತ ಬ್ರಹ್ಮಾಂಡ</string>
+    <string name="photos_memory_gallery_title">ನಿಮ್ಮ ಸವಿನೆನಪುಗಳು</string>
+    <string name="pied_title">ಪೈಡ್ ಕಾಗೆ</string>
+    <string name="ringnecked_title">ರಿಂಗ್-ನೆಕ್ಡ್ ಗಿಳಿ</string>
+    <string name="seagull_title">ಸೀಗಲ್</string>
+</resources>

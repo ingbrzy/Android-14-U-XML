@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">Vai cara arriba</string>
+    <string name="abc_action_mode_done">Feito</string>
+    <string name="abc_capital_off">DESACTIVADO</string>
+    <string name="abc_capital_on">ACTIVADO</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+    <string name="abc_menu_delete_shortcut_label">eliminar</string>
+    <string name="abc_menu_enter_shortcut_label">intro</string>
+    <string name="abc_menu_function_shortcut_label">Función +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Maiús +</string>
+    <string name="abc_menu_space_shortcut_label">espazo</string>
+    <string name="abc_menu_sym_shortcut_label">Sym +</string>
+    <string name="abc_prepend_shortcut_label">Menú +</string>
+    <string name="abc_search_hint">Busca…</string>
+    <string name="abc_searchview_description_clear">Borra a consulta</string>
+    <string name="abc_searchview_description_search">Realiza buscas</string>
+    <string name="abc_searchview_description_submit">Envía a consulta</string>
+    <string name="abc_searchview_description_voice">Busca por voz</string>
+    <string name="abc_toolbar_collapse_description">Contrae</string>
+    <string name="bottom_sheet_button_contact_text">@string/common_view</string>
+    <string name="bottom_sheet_button_matter_text">Configurar</string>
+    <string name="bottom_sheet_button_no_apps_text">Buscar</string>
+    <string name="bottom_sheet_button_wifi_text">@string/common_connect</string>
+    <string name="bottom_sheet_copy_error_toast">Non se puido copiar o texto no portapapeis</string>
+    <string name="bottom_sheet_copy_success_toast">Copiouse o texto no portapapeis</string>
+    <string name="bottom_sheet_image_view_description">Icona da aplicación que se mostra</string>
+    <string name="bottom_sheet_sub_title_no_apps">Facer buscas en Google Play</string>
+    <string name="bottom_sheet_title">Abrir con</string>
+    <string name="bottom_sheet_title_app_found">Abrir con %1$s</string>
+    <string name="bottom_sheet_title_contact">Ver detalles do contacto</string>
+    <string name="bottom_sheet_title_copy_text">Copiar texto</string>
+    <string name="bottom_sheet_title_copy_text_button_text">@string/common_copy</string>
+    <string name="bottom_sheet_title_copy_text_button_text_copied">Copiouse</string>
+    <string name="bottom_sheet_title_matter">Configura o teu dispositivo</string>
+    <string name="bottom_sheet_title_passkey">Usa a clave de acceso</string>
+    <string name="bottom_sheet_title_payment">Pagar con</string>
+    <string name="bottom_sheet_title_payment_setup">Configurar o pago con</string>
+    <string name="bottom_sheet_title_payment_setup_single_app">Configurar o pago con %1$s</string>
+    <string name="bottom_sheet_title_payment_single_app">Pagar con %1$s</string>
+    <string name="bottom_sheet_title_single_app_button_text">Abrir</string>
+    <string name="bottom_sheet_title_wifi">Conectar por wifi</string>
+    <string name="bottomsheet_action_expand_halfway">Despregar ata a metade</string>
+    <string name="bottomsheet_drag_handle_content_description">Controlador de arrastre</string>
+    <string name="camera_permission_dialog_button">Aceptar</string>
+    <string name="camera_permission_dialog_message">"Os servizos de Google Play deben acceder á cámara do dispositivo para escanear un código en nome de %1$s.
+
+A fin de que poidan levar a cabo esta acción, dálles permiso para acceder á cámara en Configuración."</string>
+    <string name="camera_permission_dialog_message_platform">"Os servizos de Google Play deben acceder á cámara do dispositivo para escanear un código QR.
+
+A fin de que poidan levar a cabo esta acción, dálles permiso para acceder á cámara en Configuración."</string>
+    <string name="camera_permission_dialog_title">Precísase o permiso da cámara</string>
+    <string name="cd_cancel_button">Pechar escáner de códigos</string>
+    <string name="cd_info_button">Abrir cadro de diálogo de información</string>
+    <string name="cd_selected_photo_view">Mostrar imaxe seleccionada</string>
+    <string name="cd_settings_button">Abre a configuración do escáner</string>
+    <string name="cd_torch_button">Acende/apaga a lanterna</string>
+    <string name="character_counter_content_description">Introducíronse %1$d caracteres de %2$d</string>
+    <string name="character_counter_overflowed_content_description">Introducíronse %1$d caracteres, pero o límite é de %2$d</string>
+    <string name="clear_text_end_icon_content_description">Borra texto</string>
+    <string name="common_connect">Conectarse</string>
+    <string name="common_continue">Continuar</string>
+    <string name="common_copy">Copiar</string>
+    <string name="common_google_play_services_enable_button">Activar</string>
+    <string name="common_google_play_services_enable_text">%1$s non funcionará a menos que actives os servizos de Google Play.</string>
+    <string name="common_google_play_services_enable_title">Activar servizos de Google Play</string>
+    <string name="common_google_play_services_install_button">Instalar</string>
+    <string name="common_google_play_services_install_text">%1$s non se executará se o teu dispositivo non ten instalados os servizos de Google Play.</string>
+    <string name="common_google_play_services_install_title">Descargar servizos de Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Dispoñibilidade dos servizos de Play</string>
+    <string name="common_google_play_services_notification_ticker">Erro nos servizos de Google Play</string>
+    <string name="common_google_play_services_unknown_issue">%1$s ten problemas cos servizos de Google Play. Téntao de novo.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s non se executará sen os servizos de Google Play, que non son compatibles co teu dispositivo.</string>
+    <string name="common_google_play_services_update_button">Actualizar</string>
+    <string name="common_google_play_services_update_text">%1$s non se executará a menos que actualices os servizos de Google Play.</string>
+    <string name="common_google_play_services_update_title">Actualizar os servizos de Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s non se executará sen os servizos de Google Play, que se están actualizando neste momento.</string>
+    <string name="common_google_play_services_wear_update_text">Necesítase a nova versión dos servizos de Google Play. Actualizarase en breve.</string>
+    <string name="common_got_it">Entendido</string>
+    <string name="common_no_apps_found">Non se atoparon aplicacións</string>
+    <string name="common_open_on_phone">Abrir no teléfono</string>
+    <string name="common_view">Ver</string>
+    <string name="error_a11y_label">Error: invalid</string>
+    <string name="error_icon_content_description">Produciuse un erro</string>
+    <string name="exposed_dropdown_menu_content_description">Mostra o menú despregable</string>
+    <string name="info_dialog_button">@string/common_got_it</string>
+    <string name="info_dialog_message">"%1$s solicita que os servizos de Google Play escaneen un código no seu nome. Non se compartirán os datos da imaxe, só os resultados do escaneamento.
+
+Esta operación realizarase no teu dispositivo, e Google non gardará ningún dato da imaxe nin o código escaneado."</string>
+    <string name="info_dialog_message_platform">Os servizos de Google Play están accedendo á cámara deste dispositivo. As imaxes e os datos dos códigos escaneados non se almacenarán nin sairán deste dispositivo.</string>
+    <string name="info_dialog_title">Coa protección de Google</string>
+    <string name="info_dialog_title_platform">Coa tecnoloxía de Google</string>
+    <string name="manual_input_hint">Toca aquí para poñer o código manualmente</string>
+    <string name="mtrl_checkbox_state_description_checked">Checked</string>
+    <string name="mtrl_checkbox_state_description_indeterminate">Partially checked</string>
+    <string name="mtrl_checkbox_state_description_unchecked">Not checked</string>
+    <string name="password_toggle_content_description">Mostra o contrasinal</string>
+    <string name="qr_detection_failure_dialog_message">Proba a escanealo a partir dunha foto diferente</string>
+    <string name="qr_detection_failure_dialog_title">Non se atopou ningún código QR</string>
+    <string name="scan_from_photo_title">Escanear a partir dunha foto</string>
+    <string name="scanner_brand">Escaneado por Google en nome de %1$s</string>
+    <string name="scanner_brand_platform">@string/info_dialog_title_platform</string>
+    <string name="scanner_title">Escanear o código</string>
+    <string name="scanner_title_platform">Escanear o código QR</string>
+</resources>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dlg_message_deletion_confirmation">
+        <item quantity="other">Regjistrimet e tua do të fshihen përgjithmonë. Ky veprim nuk mund të zhbëhet.</item>
+        <item quantity="one">Regjistrimi yt do të fshihet përgjithmonë. Ky veprim nuk mund të zhbëhet.</item>
+    </plurals>
+    <plurals name="dlg_message_deletion_permanent_confirmation">
+        <item quantity="other">Regjistrimet nuk janë rezervuar. Ato do të fshihen përgjithmonë. Nuk mund ta zhbësh këtë veprim.</item>
+        <item quantity="one">Regjistrimi nuk është rezervuar. Ai do të fshihet përgjithmonë. Nuk mund ta zhbësh këtë veprim.</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_confirmation">
+        <item quantity="other">Të fshihen regjistrimet?</item>
+        <item quantity="one">Të fshihet regjistrimi?</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_permanent_confirmation">
+        <item quantity="other">"Do t'i fshish përgjithmonë këto regjistrime?"</item>
+        <item quantity="one">Do ta fshish përgjithmonë këtë regjistrim?</item>
+    </plurals>
+    <plurals name="download_failure_description_storage_full">
+        <item quantity="other">Regjistrimet nuk mund të shkarkohen sepse hapësira ruajtëse e pajisjes është plot. Trokit për ta rishikuar.</item>
+        <item quantity="one">Hapësira ruajtëse e pajisjes është plot. Trokit për ta rishikuar.</item>
+    </plurals>
+    <plurals name="downloading_description">
+        <item quantity="other">Po shkarkohen %1$d regjistrime</item>
+        <item quantity="one">Po shkarkohet %1$d regjistrim</item>
+    </plurals>
+    <plurals name="og_backup_failed_title">
+        <item quantity="other">Rezervimi i %1$d artikujve dështoi</item>
+        <item quantity="one">Rezervimi i %1$d artikulli dështoi</item>
+    </plurals>
+    <plurals name="og_backup_items_left">
+        <item quantity="other">%1$d artikuj të mbetur</item>
+        <item quantity="one">%1$d artikull i mbetur</item>
+    </plurals>
+    <plurals name="og_backup_items_stopped_title">
+        <item quantity="other">%1$d artikuj nuk u rezervuan</item>
+        <item quantity="one">%1$d artikull nuk u rezervua</item>
+    </plurals>
+    <plurals name="peoplekit_chips_copied_recipients">
+        <item quantity="other">U kopjuan %d marrës</item>
+        <item quantity="one">U kopjua %d marrës</item>
+    </plurals>
+    <plurals name="search_results_count">
+        <item quantity="other">%1$d rezultate</item>
+        <item quantity="one">%1$d rezultat</item>
+    </plurals>
+    <plurals name="search_results_position">
+        <item quantity="other">^1/^2 rezultate</item>
+        <item quantity="one">^1/^2 rezultat</item>
+    </plurals>
+    <plurals name="search_results_position_content_description">
+        <item quantity="other">%1$d nga %2$d rezultate</item>
+        <item quantity="one">%1$d nga %2$d rezultat</item>
+    </plurals>
+    <plurals name="selected_recording_quantity">
+        <item quantity="other">%1$d të zgjedhura</item>
+        <item quantity="one">%1$d i zgjedhur</item>
+    </plurals>
+    <plurals name="snackbar_message_download_failed_storage_full">
+        <item quantity="other">Hapësira ruajtëse është plot. Regjistrimet nuk mund të shkarkohen.</item>
+        <item quantity="one">Hapësira ruajtëse është plot. Regjistrimi nuk mund të shkarkohet.</item>
+    </plurals>
+    <plurals name="speaker_count">
+        <item quantity="other">%1$d altoparlantë</item>
+        <item quantity="one">%1$d altoparlant</item>
+    </plurals>
+    <plurals name="uploading_description">
+        <item quantity="other">%1$d regjistrime po ngarkohen</item>
+        <item quantity="one">%1$d regjistrim po ngarkohet</item>
+    </plurals>
+</resources>

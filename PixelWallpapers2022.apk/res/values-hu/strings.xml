@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="azure_title">Borzas indigószajkó</string>
+    <string name="blackswan_title">Fekete hattyú</string>
+    <string name="cockatoo_title">Kakadu</string>
+    <string name="come_alive_title">Életre kelt</string>
+    <string name="feathers_attribution">Fényképezte: Andrew Zuckerman</string>
+    <string name="feathers_description">Színek és részletek tollas kavalkádja</string>
+    <string name="feathers_title">Tollak</string>
+    <string name="greenwinged_title">Zöldszárnyú ara</string>
+    <string name="king_title">Királykeselyű</string>
+    <string name="living_universe_title">Élő univerzum</string>
+    <string name="photos_memory_gallery_title">Emlékek</string>
+    <string name="pied_title">Pajzsos varjú</string>
+    <string name="ringnecked_title">Örvös sándorpapagáj</string>
+    <string name="seagull_title">Sirály</string>
+</resources>

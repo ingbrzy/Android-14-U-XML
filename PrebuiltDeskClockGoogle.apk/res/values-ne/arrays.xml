@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_set">
+        <item>अहिलेबाट एक मिनेटभन्दा कम समयका लागि अलार्म सेट गरिएको छ।</item>
+        <item>अहिलेबाट %1$sका लागि अलार्म सेट गरिएको छ।</item>
+        <item>अहिलेबाट %2$sका लागि अलार्म सेट गरिएको छ।</item>
+        <item>अहिलेबाट %1$s र %2$s का लागि अलार्म सेट गरिएको छ।</item>
+        <item>अहिलेबाट %3$sका लागि अलार्म सेट गरिएको छ।</item>
+        <item>अहिलेबाट %1$s र %3$s का लागि अलार्म सेट गरिएको छ।</item>
+        <item>अहिलेबाट %2$s र %3$s का लागि अलार्म सेट गरिएको छ।</item>
+        <item>अहिलेबाट %1$s, %2$s, र %3$s का लागि अलार्म सेट गरिएको छ।</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>१ मिनेट</item>
+        <item>५ मिनेट</item>
+        <item>१० मिनेट</item>
+        <item>१५ मिनेट</item>
+        <item>२० मिनेट</item>
+        <item>२५ मिनेट</item>
+        <item>@string/auto_silence_entry_never</item>
+    </string-array>
+    <string-array name="bedtime_reminder_entries">
+        <item>सुत्ने समयभन्दा १५ मिनेटअघि</item>
+        <item>सुत्ने समयभन्दा ३० मिनेटअघि</item>
+        <item>सुत्ने समयभन्दा ४५ मिनेटअघि</item>
+        <item>सुत्ने समयभन्दा १ घन्टाअघि</item>
+        <item>निष्क्रिय</item>
+    </string-array>
+    <string-array name="clock_style_entries">
+        <item>एनालग</item>
+        <item>डिजिटल</item>
+    </string-array>
+    <string-array name="crescendo_entries">
+        <item>@string/crescendo_entry_never</item>
+        <item>५ सेकेन्ड</item>
+        <item>१० सेकेन्ड</item>
+        <item>१५ सेकेन्ड</item>
+        <item>२० सेकेन्ड</item>
+        <item>२५ सेकेन्ड</item>
+        <item>३० सेकेन्ड</item>
+        <item>३५ सेकेन्ड</item>
+        <item>४० सेकेन्ड</item>
+        <item>४५ सेकेन्ड</item>
+        <item>५० सेकेन्ड</item>
+        <item>५५ सेकेन्ड</item>
+        <item>६० सेकेन्ड</item>
+    </string-array>
+    <string-array name="sleep_duration">
+        <item>%2$s</item>
+        <item>%1$s</item>
+        <item>%1$s %2$s</item>
+    </string-array>
+    <string-array name="sleep_sound_length_content_descriptions">
+        <item>१० मिनेटपछि बन्द गर्नुहोस्</item>
+        <item>२० मिनेटपछि बन्द गर्नुहोस्</item>
+        <item>३० मिनेटपछि बन्द गर्नुहोस्</item>
+        <item>४० मिनेटपछि बन्द गर्नुहोस्</item>
+        <item>५० मिनेटपछि बन्द गर्नुहोस्</item>
+        <item>१ घन्टापछि बन्द गर्नुहोस्</item>
+    </string-array>
+    <string-array name="sleep_sound_length_descriptions">
+        <item>१० मिनेटपछि बन्द गर्नुहोस्</item>
+        <item>२० मिनेटपछि बन्द गर्नुहोस्</item>
+        <item>३० मिनेटपछि बन्द गर्नुहोस्</item>
+        <item>४० मिनेटपछि बन्द गर्नुहोस्</item>
+        <item>५० मिनेटपछि बन्द गर्नुहोस्</item>
+        <item>१ घन्टापछि बन्द गर्नुहोस्</item>
+    </string-array>
+    <string-array name="sleep_sound_length_entries">
+        <item>१० मिनेट</item>
+        <item>२० मिनेट</item>
+        <item>३० मिनेट</item>
+        <item>४० मिनेट</item>
+        <item>५० मिनेट</item>
+        <item>१ घन्टा</item>
+    </string-array>
+    <string-array name="snooze_duration_entries">
+        <item>१ मिनेट</item>
+        <item>२ मिनेट</item>
+        <item>३ मिनेट</item>
+        <item>४ मिनेट</item>
+        <item>५ मिनेट</item>
+        <item>६ मिनेट</item>
+        <item>७ मिनेट</item>
+        <item>८ मिनेट</item>
+        <item>९ मिनेट</item>
+        <item>१० मिनेट</item>
+        <item>११ मिनेट</item>
+        <item>१२ मिनेट</item>
+        <item>१३ मिनेट</item>
+        <item>१४ मिनेट</item>
+        <item>१५ मिनेट</item>
+        <item>१६ मिनेट</item>
+        <item>१७ मिनेट</item>
+        <item>१८ मिनेट</item>
+        <item>१९ मिनेट</item>
+        <item>२० मिनेट</item>
+        <item>२१ मिनेट</item>
+        <item>२२ मिनेट</item>
+        <item>२३ मिनेट</item>
+        <item>२४ मिनेट</item>
+        <item>२५ मिनेट</item>
+        <item>२६ मिनेट</item>
+        <item>२७ मिनेट</item>
+        <item>२८ मिनेट</item>
+        <item>२९ मिनेट</item>
+        <item>३० मिनेट</item>
+    </string-array>
+    <string-array name="timer_duration">
+        <item>टाइमर</item>
+        <item>%3$s को टाइमर</item>
+        <item>%2$s को टाइमर</item>
+        <item>%2$s %3$s को टाइमर</item>
+        <item>%1$s को टाइमर</item>
+        <item>%1$s %3$s को टाइमर</item>
+        <item>%1$s %2$s को टाइमर</item>
+        <item>%1$s %2$s %3$s को टाइमर</item>
+    </string-array>
+    <string-array name="timer_duration_short">
+        <item>टाइमर</item>
+        <item>%3$s को टाइमर</item>
+        <item>%2$s को टाइमर</item>
+        <item>%2$s %3$s को टाइमर</item>
+        <item>%1$s को टाइमर</item>
+        <item>%1$s %3$s को टाइमर</item>
+        <item>%1$s %2$s को टाइमर</item>
+        <item>%1$s %2$s %3$s को टाइमर</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>मार्सल टापु</item>
+        <item>मिडवे टापु</item>
+        <item>हवाइ</item>
+        <item>अलास्का</item>
+        <item>प्रशान्त समय</item>
+        <item>तियुआना</item>
+        <item>एरिजोना</item>
+        <item>चिहुआहुआ</item>
+        <item>पर्वतीय समय</item>
+        <item>केन्द्रीय अमेरिका</item>
+        <item>केन्द्रीय समय</item>
+        <item>मेक्सिको सिटि</item>
+        <item>सास्काट्चेवान</item>
+        <item>बोगोटा</item>
+        <item>पूर्वी समय</item>
+        <item>भेनेजुएला</item>
+        <item>एट्लान्टिक समय (बार्बाडोस)</item>
+        <item>एट्लान्टिक समय (क्यानाडा)</item>
+        <item>मनौस</item>
+        <item>सान्टियागो</item>
+        <item>न्युफाउन्डल्यान्ड</item>
+        <item>ब्रासिलिया</item>
+        <item>ब्युनोस आयर्स</item>
+        <item>ग्रिनल्यान्ड</item>
+        <item>मोन्टेभिडियो</item>
+        <item>मध्य -एट्लान्टिक</item>
+        <item>एजोरेस</item>
+        <item>केप भर्डे टापु</item>
+        <item>कासाब्लाङ्का</item>
+        <item>लन्डन, डब्लिन</item>
+        <item>एम्स्टर्डम, बर्लिन</item>
+        <item>बेलग्रेड</item>
+        <item>ब्रसेल्स</item>
+        <item>सराजेभो</item>
+        <item>विन्डहोक</item>
+        <item>पश्चिम अफ्रिकी समय</item>
+        <item>अम्मान, जोर्डन</item>
+        <item>एथेन्स, इस्तान्बुल</item>
+        <item>बेरुत, लेबनन</item>
+        <item>कायरो</item>
+        <item>हेलसिन्की</item>
+        <item>जेरुसेलम</item>
+        <item>मिन्स्क</item>
+        <item>हरारे</item>
+        <item>बगदाद</item>
+        <item>मस्को</item>
+        <item>कुवेत</item>
+        <item>नैरोबी</item>
+        <item>तेहरान</item>
+        <item>बाकु</item>
+        <item>तिबिलिसी</item>
+        <item>येरेभान</item>
+        <item>दुबइ</item>
+        <item>काबुल</item>
+        <item>इस्लामाबाद, कराँची</item>
+        <item>उराल्स्क</item>
+        <item>येकेटेरिनबर्ग</item>
+        <item>कोलकाता</item>
+        <item>श्रीलङ्का</item>
+        <item>काठमाडौं</item>
+        <item>अस्टाना</item>
+        <item>याङ्गुन</item>
+        <item>क्रास्नोयार्स्क</item>
+        <item>बैङ्कक</item>
+        <item>बेइजिङ</item>
+        <item>हङकङ</item>
+        <item>इर्कुट्स्क</item>
+        <item>कोलालम्पुर</item>
+        <item>पर्थ</item>
+        <item>ताइपेइ</item>
+        <item>सियोल</item>
+        <item>टोकियो, ओसाका</item>
+        <item>याकुट्स्क</item>
+        <item>एडेलेड</item>
+        <item>डार्विन</item>
+        <item>ब्रिस्बेन</item>
+        <item>होबार्ट</item>
+        <item>सिड्नी, क्यान्बेरा</item>
+        <item>भ्लाडिभास्तोक</item>
+        <item>गुआम</item>
+        <item>मगादान</item>
+        <item>अकल्यान्ड</item>
+        <item>फिजी</item>
+        <item>टोन्गा</item>
+        <item>जाकार्ता</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>@string/alarm_alert_snooze_text</item>
+        <item>रोक्नुहोस्</item>
+        <item>भोल्युम नियन्त्रण गर्नुहोस्</item>
+        <item>केही पनि नगरियोस्</item>
+    </string-array>
+    <string-array name="wakeup_alarm_description">
+        <item>तपाईंलाई बिउँझाउने अलार्म अबको १ मिनेटमा बज्ने गरी सेट गरिएको छ</item>
+        <item>तपाईंलाई बिउँझाउने अलार्म अबको %1$s मा बज्ने गरी सेट गरिएको छ</item>
+        <item>तपाईंलाई बिउँझाउने अलार्म अबको %2$s मा बज्ने गरी सेट गरिएको छ</item>
+        <item>तपाईंलाई बिउँझाउने अलार्म अबको %1$s %2$s मा बज्ने गरी सेट गरिएको छ</item>
+        <item>तपाईंलाई बिउँझाउने अलार्म अबको %3$s मा बज्ने गरी सेट गरिएको छ</item>
+        <item>तपाईंलाई बिउँझाउने अलार्म अबको %1$s %3$s मा बज्ने गरी सेट गरिएको छ</item>
+        <item>तपाईंलाई बिउँझाउने अलार्म अबको %2$s %3$s मा बज्ने गरी सेट गरिएको छ</item>
+        <item>तपाईंलाई बिउँझाउने अलार्म अबको %1$s %2$s %3$s मा बज्ने गरी सेट गरिएको छ</item>
+    </string-array>
+    <string-array name="week_start_entries">
+        <item>शुक्रबार</item>
+        <item>शनिबार</item>
+        <item>आइतबार</item>
+        <item>सोमबार</item>
+    </string-array>
+</resources>

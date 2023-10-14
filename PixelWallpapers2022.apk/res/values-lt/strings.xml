@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="azure_title">Melsvasis margasis kėkštas</string>
+    <string name="blackswan_title">Juodoji gulbė</string>
+    <string name="cockatoo_title">Kakadu</string>
+    <string name="come_alive_title">Animuotas ekrano fonas</string>
+    <string name="feathers_attribution">Nuotraukos autorius: Andrew Zuckerman</string>
+    <string name="feathers_description">Plunksnuotoji spalvų ir detalių demonstracija</string>
+    <string name="feathers_title">Plunksnos</string>
+    <string name="greenwinged_title">Žaliasparnė ara</string>
+    <string name="king_title">Karališkasis grifas</string>
+    <string name="living_universe_title">Visata</string>
+    <string name="photos_memory_gallery_title">Prisiminimai</string>
+    <string name="pied_title">Baltapilvė varna</string>
+    <string name="ringnecked_title">Kramerio žieduotoji papūga</string>
+    <string name="seagull_title">Kiras</string>
+</resources>

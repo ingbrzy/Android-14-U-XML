@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_menu">Menu</string>
+    <string name="call_notification_answer_action">Sagutin</string>
+    <string name="call_notification_answer_video_action">Video</string>
+    <string name="call_notification_decline_action">Tanggihan</string>
+    <string name="call_notification_hang_up_action">Ibaba</string>
+    <string name="call_notification_incoming_text">Papasok na tawag</string>
+    <string name="call_notification_ongoing_text">Kasalukuyang tawag</string>
+    <string name="call_notification_screening_text">Nagsi-screen ng papasok na tawag</string>
+    <string name="error_generic">Nagkaproblema sa pagkuha ng iyong mga card, pakisubukan ulit sa ibang pagkakataon</string>
+    <string name="error_user_locked">I-unlock ang iyong telepono para ma-load ang impormasyon ng pagbabayad mo</string>
+    <string name="settings">Mga Setting</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

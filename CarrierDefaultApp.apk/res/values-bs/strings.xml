@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_bar_label">Prijava na mobilnu mrežu</string>
+    <string name="android_system_label">Mobilni operater</string>
+    <string name="app_name">Obavještenja operatera</string>
+    <string name="mobile_data_status_notification_channel_name">Status prijenosa podataka na mobilnoj mreži</string>
+    <string name="no_data_notification_detail">Obratite se pružaocu usluga %s</string>
+    <string name="no_data_notification_id">Prijenos podataka na mobilnoj mreži je deaktiviran</string>
+    <string name="no_mobile_data_connection">Dodajte plan prijenosa podataka ili rominga putem operatera %s</string>
+    <string name="no_mobile_data_connection_title">Nema veze za prijenos podataka na mobilnoj mreži</string>
+    <string name="performance_boost_notification_button_manage">Upravljajte</string>
+    <string name="performance_boost_notification_button_not_now">Ne sada</string>
+    <string name="performance_boost_notification_channel">Pojačavanje performansi</string>
+    <string name="performance_boost_notification_detail">Posjetite web lokaciju operatera %s da vidite opcije za iskustvo u aplikaciji</string>
+    <string name="performance_boost_notification_title">Opcije 5G mreže operatera</string>
+    <string name="portal_notification_detail">Dodirnite da posjetite %s web lokaciju</string>
+    <string name="portal_notification_id">Mobilni internet je potrošen</string>
+    <string name="slice_purchase_app_label">Kupite pojačavanje performansi.</string>
+    <string name="ssl_error_continue">Ipak nastavi preko preglednika</string>
+    <string name="ssl_error_example">Naprimjer, stranica za prijavljivanje možda ne pripada prikazanoj organizaciji.</string>
+    <string name="ssl_error_warning">Mreža kojoj pokušavate pristupiti ima sigurnosnih problema.</string>
+</resources>

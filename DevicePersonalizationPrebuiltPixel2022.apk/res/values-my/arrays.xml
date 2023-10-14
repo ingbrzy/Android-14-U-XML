@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="call_captions_typing_predictions_post_system_message">
+        <item>မင်္ဂလာပါ ဘယ်သူပါလဲ။</item>
+        <item>ဟိုင်း နေကောင်းလား။</item>
+        <item>ခေတ္တစောင့်ပါ</item>
+        <item>ဟိုင်း နောက်မှ ပြန်ခေါ်နိုင်မလား။</item>
+        <item>မင်္ဂလာပါ။ ခေါ်ဆိုသည့်အတွက် ကျေးဇူးပါ။</item>
+    </string-array>
+    <string-array name="captions_settings_enable_for_calls_choices_entries">
+        <item>အမြဲမေးပါ</item>
+        <item>အမြဲ</item>
+        <item>ပိတ်</item>
+    </string-array>
+    <string-array name="captions_settings_typing_voice_names">
+        <item>အသံ A</item>
+        <item>အသံ B</item>
+        <item>အသံ C</item>
+        <item>အသံ D</item>
+        <item>အသံ E</item>
+        <item>အသံ F</item>
+        <item>အသံ G</item>
+        <item>အသံ H</item>
+        <item>အသံ I</item>
+        <item>အသံ J</item>
+        <item>အသံ K</item>
+        <item>အသံ L</item>
+        <item>အသံ M</item>
+        <item>အသံ N</item>
+        <item>အသံ O</item>
+        <item>အသံ P</item>
+    </string-array>
+    <string-array name="pref_download_policy_entries">
+        <item>မိုဘိုင်း + WiFi</item>
+        <item>WiFi ဖြင့်သာ</item>
+        <item>အပ်ဒိတ်မလုပ်ပါနှင့်</item>
+    </string-array>
+    <string-array name="pref_download_policy_entry_values_placeholder">
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+</resources>

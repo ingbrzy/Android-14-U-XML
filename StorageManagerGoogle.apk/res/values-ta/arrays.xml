@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="select_logpersist_summaries">
+        <item>ஆஃப்</item>
+        <item>தற்காலிகமாகச் சேமித்த எல்லா பதிவுகளும்</item>
+        <item>எல்லாம் (தற்காலிகமாகச் சேமித்த ரேடியோ பதிவுகள் தவிர்த்து)</item>
+        <item>கெர்னல் லாக் பஃபர் மட்டும்</item>
+    </string-array>
+</resources>

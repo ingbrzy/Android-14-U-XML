@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_menu">Menüü</string>
+    <string name="call_notification_answer_action">Vasta</string>
+    <string name="call_notification_answer_video_action">Video</string>
+    <string name="call_notification_decline_action">Keeldu</string>
+    <string name="call_notification_hang_up_action">Lõpeta kõne</string>
+    <string name="call_notification_incoming_text">Sissetulev kõne</string>
+    <string name="call_notification_ongoing_text">Käimasolev kõne</string>
+    <string name="call_notification_screening_text">Sissetuleva kõne filtreerimine</string>
+    <string name="error_generic">Teie kaartide hankimisel ilmnes probleem, proovige hiljem uuesti</string>
+    <string name="error_user_locked">Makseteabe laadimiseks avage telefoni ekraanilukk</string>
+    <string name="settings">Seaded</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

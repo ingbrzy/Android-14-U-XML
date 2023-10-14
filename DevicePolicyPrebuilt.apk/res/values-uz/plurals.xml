@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_install_failed_multi_app_desc">
+        <item quantity="other">%1$d ta majburiy ilova oʻrnatilmagani sababli sozlash tamomlanmadi. Tizim administratoriga murojaat qiling.</item>
+        <item quantity="one">%1$d ta majburiy ilova oʻrnatilmagani sababli sozlash tamomlanmadi. Tizim administratoriga murojaat qiling.</item>
+    </plurals>
+    <plurals name="app_install_failure_title">
+        <item quantity="other">Ilovalar oʻrnatilmadi</item>
+        <item quantity="one">Ilova oʻrnatilmadi</item>
+    </plurals>
+    <plurals name="app_install_progress_desc">
+        <item quantity="other">%1$d/%2$d ta ilova oʻrnatildi</item>
+        <item quantity="one">%1$d/%2$d ta ilova oʻrnatildi</item>
+    </plurals>
+    <plurals name="app_uninstall_button">
+        <item quantity="other">Ilovalarni oʻchirib tashlash</item>
+        <item quantity="one">Ilovani oʻchirib tashlash</item>
+    </plurals>
+    <plurals name="days_left_message">
+        <item quantity="other">&lt;annotation id="numeric_time_left">^1&lt;/annotation> kun qoldi</item>
+        <item quantity="one">&lt;annotation id="numeric_time_left">^1&lt;/annotation> kun qoldi</item>
+    </plurals>
+    <plurals name="hours_left_message">
+        <item quantity="other">&lt;annotation id="numeric_time_left">^1&lt;/annotation> soat qoldi</item>
+        <item quantity="one">&lt;annotation id="numeric_time_left">^1&lt;/annotation> soat qoldi</item>
+    </plurals>
+    <plurals name="number_of_additional_apps">
+        <item quantity="other">%1$d ta qoʻshimcha ilova</item>
+        <item quantity="one">%1$d ta qoʻshimcha ilova</item>
+    </plurals>
+    <plurals name="number_of_required_apps">
+        <item quantity="other">%1$d ta majburiy ilova</item>
+        <item quantity="one">%1$d ta majburiy ilova</item>
+    </plurals>
+    <plurals name="policy_apps_list_summary">
+        <item quantity="other">%d ta ishga oid ilova oʻchirilmadi</item>
+        <item quantity="one">%d ta ishga oid ilova oʻchirilmadi</item>
+    </plurals>
+    <plurals name="preinstalled_apps">
+        <item quantity="other">%1$d/%2$d ta ilova oʻrnatildi</item>
+        <item quantity="one">%1$d/%2$d ta ilova oʻrnatildi</item>
+    </plurals>
+    <plurals name="readable_name_applications">
+        <item quantity="other">%1$d ta ilova mavjud (%2$d ta oʻrnatilgan, %3$d ta faolsizlantirilgan)</item>
+        <item quantity="one">%1$d ta ilova mavjud (%2$d ta oʻrnatilgan, %3$d ta faolsizlantirilgan)</item>
+    </plurals>
+</resources>

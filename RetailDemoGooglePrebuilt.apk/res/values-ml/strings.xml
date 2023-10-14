@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_retaildemoCommunication">റീട്ടെയിൽ ഡെമോ സേവനവുമായി ആശയവിനിമയം നടത്താൻ ആപ്പിനെ അനുവദിക്കുന്നു. റീട്ടെയിൽ ഡെമോയ്ക്ക് മാത്രമേ ഈ അനുമതി നൽകാവൂ. ഈ അനുമതി ലഭിച്ചിട്ടുള്ള ആപ്പുകൾക്ക് റീട്ടെയിൽ ഡെമോ മോഡിനായി റിസർവ് ചെയ്‌തിട്ടുള്ള പ്രവർത്തനങ്ങൾ ട്രിഗർ ചെയ്യാനാകും.</string>
+    <string name="permlab_retaildemoCommunication">റീട്ടെയിൽ ഡെമോ ആശയവിനിമയം</string>
+    <string name="retaildemo_preload_app_name">റീട്ടെയിൽ ഡെമോ സേവനം</string>
+</resources>

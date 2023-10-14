@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="service_description_supported_languages">Ses girişi Android enjamyňyzy eliňizi ulanman dolandyrmaga mümkinçilik berýär. Programmalary açmak, düwmeleri basmak, süýşürmek, ýazmak we beýlekiler üçin sesli buýruklary ulanyň. Häzirki wagtda diňe iňlis, fransuz, italýan, nemes we ispan dillerinde elýeterli.</string>
+    <string name="service_summary">Enjamy ses bilen dolandyr</string>
+    <string name="voice_access_htmlDescription">Ses girişine gürläň we enjamyňyzy ellemän ulanyň. Synap görüň:&lt;br> &lt;br> &lt;ul> &lt;li>öýe dolan &lt;li>yza dolan &lt;li>habarnamalary görkez &lt;li>OK-i bas &lt;li>fotosuratlary aç &lt;/ul> &lt;br> Başga-da köp buýruklar goldanylýar. Ses girişi diňläp durka, goşmaça maglumat üçin \"näme diýip bilerin?\" diýiň.</string>
+</resources>

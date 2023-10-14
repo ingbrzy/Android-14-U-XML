@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120000">
+        <item quantity="other">Väntar på wifi</item>
+        <item quantity="one">Väntar på wifi</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120002">
+        <item quantity="other">På den här enheten (%d appar)</item>
+        <item quantity="one">På den här enheten (%d app)</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120003">
+        <item quantity="other">Funktioner för %1$s</item>
+        <item quantity="one">Funktion för %1$s</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120004">
+        <item quantity="other">Installerades för %d dagar sedan</item>
+        <item quantity="one">Installerades för %d dag sedan</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120005">
+        <item quantity="other">Installerades för %d timmar sedan</item>
+        <item quantity="one">Installerades för %d timme sedan</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120006">
+        <item quantity="other">Installerades för %d minuter sedan</item>
+        <item quantity="one">Installerades för %d minut sedan</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120007">
+        <item quantity="other">%1$d har valts</item>
+        <item quantity="one">%1$d har valts</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120008">
+        <item quantity="other">Uppdaterades för %d dagar sedan</item>
+        <item quantity="one">Uppdaterades för %d dag sedan</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120009">
+        <item quantity="other">Uppdaterades för %d timmar sedan</item>
+        <item quantity="one">Uppdaterades för %d timme sedan</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000a">
+        <item quantity="other">Uppdaterades för %d minuter sedan</item>
+        <item quantity="one">Uppdaterades för %d minut sedan</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000b">
+        <item quantity="other">Användes senast för %d dagar sedan</item>
+        <item quantity="one">Användes senast för %d dag sedan</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000c">
+        <item quantity="other">Använde senast för %d timmar sedan</item>
+        <item quantity="one">Användes senast för %d timme sedan</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000d">
+        <item quantity="other">Användes senast för %d minuter sedan</item>
+        <item quantity="one">Användes senast för %d minut sedan</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000f">
+        <item quantity="other">Apparna genomsöktes för %d dagar sedan</item>
+        <item quantity="one">Apparna genomsöktes för %d dag sedan</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120010">
+        <item quantity="other">Apparna genomsöktes för %d timmar sedan</item>
+        <item quantity="one">Apparna genomsöktes för %d timme sedan</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120011">
+        <item quantity="other">Apparna genomsöktes för %d minuter sedan</item>
+        <item quantity="one">Apparna genomsöktes för %d minut sedan</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120014">
+        <item quantity="other">%1$d recensioner</item>
+        <item quantity="one">%1$d recension</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120015">
+        <item quantity="other">%1$d recensioner för betyget %2$d stjärnor</item>
+        <item quantity="one">%1$d recension för betyget %2$d stjärnor</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120016">
+        <item quantity="other">Installera på %1$d enheter.</item>
+        <item quantity="one">Installera på %1$d enhet.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120017">
+        <item quantity="other">Installera på %1$d enheter. Fler enheter tillgängliga.</item>
+        <item quantity="one">Installera på %1$d enhet. Fler enheter tillgängliga.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120018">
+        <item quantity="other">Appen installeras snart på %1$d enheter.</item>
+        <item quantity="one">Appen installeras snart på %1$d enhet.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120019">
+        <item quantity="other">%1$d extraobjekt tillgängliga</item>
+        <item quantity="one">%1$d extraobjekt tillgängligt</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001a">
+        <item quantity="other">%1$d extraobjekt tillgängliga vid köp</item>
+        <item quantity="one">%1$d extraobjekt tillgängligt vid köp</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001b">
+        <item quantity="other">%1$d dagar</item>
+        <item quantity="one">%1$d dag</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001c">
+        <item quantity="other">Genomsnittligt betyg: %1$s stjärnor i %2$s recensioner</item>
+        <item quantity="one">Genomsnittligt betyg: %1$s stjärnor i 1 recension</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001d">
+        <item quantity="other">%s recensioner</item>
+        <item quantity="one">1 recension</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001e">
+        <item quantity="other">Du är nu %1$d steg från att bli utvecklare.</item>
+        <item quantity="one">Du är nu %1$d steg från att bli utvecklare.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001f">
+        <item quantity="other">bilar</item>
+        <item quantity="one">bil</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120020">
+        <item quantity="other">Chromebook-enheter</item>
+        <item quantity="one">Chromebook</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120021">
+        <item quantity="other">vikbara enheter</item>
+        <item quantity="one">vikbar enhet</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120022">
+        <item quantity="other">telefoner</item>
+        <item quantity="one">telefon</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120023">
+        <item quantity="other">surfplattor</item>
+        <item quantity="one">surfplatta</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120024">
+        <item quantity="other">tv:ar</item>
+        <item quantity="one">tv</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120025">
+        <item quantity="other">enheter</item>
+        <item quantity="one">enhet</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120026">
+        <item quantity="other">klockor</item>
+        <item quantity="one">klocka</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120027">
+        <item quantity="other">Du har %1$d Play-poäng.</item>
+        <item quantity="one">Du har %1$d Play-poäng.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120028">
+        <item quantity="other">%1$d timmar</item>
+        <item quantity="one">%1$d timme</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120029">
+        <item quantity="other">%1$d timmar kvar</item>
+        <item quantity="one">1 timme kvar</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002a">
+        <item quantity="other">Installerar %1$d appar …</item>
+        <item quantity="one">Installerar %1$d app …</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002b">
+        <item quantity="other">Installationerna har pausats</item>
+        <item quantity="one">Installationen har pausats</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002c">
+        <item quantity="other">%1$d appar installeras</item>
+        <item quantity="one">%1$d app installeras</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002d">
+        <item quantity="other">Uppdaterades senast för %d dagar sedan</item>
+        <item quantity="one">Uppdaterades senast för %d dag sedan</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002e">
+        <item quantity="other">Uppdaterades senast för %d timmar sedan</item>
+        <item quantity="one">Uppdaterades senast för %d timme sedan</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002f">
+        <item quantity="other">Uppdaterades senast för %d minuter sedan</item>
+        <item quantity="one">Uppdaterades senast för %d minut sedan</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120033">
+        <item quantity="other">%1$d år sedan</item>
+        <item quantity="one">%1$d år sedan</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120034">
+        <item quantity="other">%1$d minuter</item>
+        <item quantity="one">%1$d minut</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120035">
+        <item quantity="other">%1$d minuter kvar</item>
+        <item quantity="one">1 minut kvar</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120037">
+        <item quantity="other">%1$d har valts</item>
+        <item quantity="one">%1$d har valts</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120038">
+        <item quantity="other">%1$d appar arkiveras</item>
+        <item quantity="one">%1$d app arkiveras</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120039">
+        <item quantity="other">Vill du ta bort de valda apparna?</item>
+        <item quantity="one">Vill du ta bort den valda appen?</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12003a">
+        <item quantity="other">%1$d appar har tagits bort</item>
+        <item quantity="one">%1$d app har tagits bort</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12003d">
+        <item quantity="other">%1$d installationer väntar</item>
+        <item quantity="one">%1$d installation väntar</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12003e">
+        <item quantity="other">%1$d installationer pågår</item>
+        <item quantity="one">%1$d installation pågår</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120040">
+        <item quantity="other">%1$d väntande uppdateringar</item>
+        <item quantity="one">%1$d väntande uppdatering</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120041">
+        <item quantity="other">%1$d uppdateringar pågår</item>
+        <item quantity="one">%1$d uppdatering pågår</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120042">
+        <item quantity="other">%1$d appar har installerats</item>
+        <item quantity="one">%1$d app har installerats</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120044">
+        <item quantity="other">Släpptes för %1$d timmar sedan</item>
+        <item quantity="one">Släpptes för %1$d timme sedan</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120045">
+        <item quantity="other">Släpptes för %1$d dagar sedan</item>
+        <item quantity="one">Släpptes för %1$d dag sedan</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120046">
+        <item quantity="other">Appar har tagits bort</item>
+        <item quantity="one">Appen har tagits bort</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120047">
+        <item quantity="other">%1$d uppdateringar måste godkännas</item>
+        <item quantity="one">%1$d uppdatering måste godkännas</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120048">
+        <item quantity="other">%1$d nya uppdateringar</item>
+        <item quantity="one">%1$d ny uppdatering</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120049">
+        <item quantity="other">Det finns %1$d uppdateringar</item>
+        <item quantity="one">Det finns %1$d uppdatering</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004a">
+        <item quantity="other">Uppdatera alla</item>
+        <item quantity="one">Uppdatera</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004b">
+        <item quantity="other">%1$d appar har uppdaterats</item>
+        <item quantity="one">%1$d app har uppdaterats</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004c">
+        <item quantity="other">Slutar om %1$d timmar</item>
+        <item quantity="one">Slutar om %1$d timme</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004d">
+        <item quantity="other">Slutar om %1$d dagar</item>
+        <item quantity="one">Slutar om %1$d dag</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004e">
+        <item quantity="other">%1$d minuter</item>
+        <item quantity="one">%1$d minut</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004f">
+        <item quantity="other">%1$d sekunder</item>
+        <item quantity="one">%1$d sekund</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120050">
+        <item quantity="other">Privata appar har tagits bort</item>
+        <item quantity="one">En privat app har tagits bort</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120053">
+        <item quantity="other">Genomsöktes av Play Protect för %d dagar sedan</item>
+        <item quantity="one">Genomsöktes av Play Protect för %d dag sedan</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120054">
+        <item quantity="other">Genomsöktes av Play Protect för %d timmar sedan</item>
+        <item quantity="one">Genomsöktes av Play Protect för %d timme sedan</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120055">
+        <item quantity="other">Genomsöktes av Play Protect för %d minuter sedan</item>
+        <item quantity="one">Genomsöktes av Play Protect för %d minut sedan</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120056">
+        <item quantity="other">%1$s poäng från att behålla %2$s nästa år</item>
+        <item quantity="one">1 poäng från att behålla %2$s nästa år</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120057">
+        <item quantity="other">%1$s poäng från %2$s</item>
+        <item quantity="one">1 poäng från %2$s</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120058">
+        <item quantity="other">Du har gett de här apparna behörighet att installera okända appar, vilket kan utgöra en risk för din enhetsinformation och dina personuppgifter. Förhindra installationer genom att neka behörighet.</item>
+        <item quantity="one">Du har gett den här appen behörighet att installera eller uppdatera okända appar, vilket kan utgöra en risk för din enhetsinformation och dina personuppgifter. Förhindra installationer genom att neka behörighet.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120059">
+        <item quantity="other">Du har gett %1$d appar behörighet att installera eller uppdatera okända appar, vilket kan utgöra en risk för din enhetsinformation och dina personuppgifter.</item>
+        <item quantity="one">Du har gett 1 app behörighet att installera eller uppdatera okända appar, vilket kan utgöra en risk för din enhetsinformation och dina personuppgifter.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005a">
+        <item quantity="other">%1$d integritetsvarningar</item>
+        <item quantity="one">1 integritetsvarning</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005b">
+        <item quantity="other">%1$d skadliga appar har hittats</item>
+        <item quantity="one">1 skadlig app har hittats</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005c">
+        <item quantity="other">%1$d säkerhetsaviseringar</item>
+        <item quantity="one">1 säkerhetsavisering</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005d">
+        <item quantity="other">%1$d säkerhetsuppdateringar</item>
+        <item quantity="one">1 säkerhetsuppdatering</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005e">
+        <item quantity="other">%1$d osäkra appar har hittats</item>
+        <item quantity="one">1 osäker app har hittats</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005f">
+        <item quantity="other">%1$d varningar</item>
+        <item quantity="one">1 varning</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120060">
+        <item quantity="other">Osäkra appar har hittats</item>
+        <item quantity="one">En osäker app har hittats</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120061">
+        <item quantity="other">Slutar om %1$d timmar</item>
+        <item quantity="one">Slutar om %1$d timme</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120062">
+        <item quantity="other">Slutar om %1$d dagar</item>
+        <item quantity="one">Slutar om %1$d dag</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120063">
+        <item quantity="other">%1$d av %2$d steg har slutförts</item>
+        <item quantity="one">%1$d av %2$d steg har slutförts</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120064">
+        <item quantity="other">%1$d appar kan nu installeras</item>
+        <item quantity="one">%1$d app kan nu installeras</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120065">
+        <item quantity="other">%1$s skickar %2$d appar till dig. Se till att kopplingskoden överensstämmer.</item>
+        <item quantity="one">%1$s skickar %2$d app till dig. Se till att kopplingskoden överensstämmer.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120066">
+        <item quantity="other">Tar emot %1$d appar från %2$s …</item>
+        <item quantity="one">Tar emot %1$d app från %2$s …</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006a">
+        <item quantity="other">%1$d användare tyckte att den här recensionen var till hjälp. Markera kommentaren som användbar</item>
+        <item quantity="one">%1$d användare tyckte att den här recensionen var till hjälp. Markera kommentaren som användbar</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006b">
+        <item quantity="other">%1$d användare tyckte att den här recensionen var till hjälp. Ta bort markeringen att kommentaren är användbar</item>
+        <item quantity="one">%1$d användare tyckte att den här recensionen var till hjälp. Ta bort markeringen att kommentaren är användbar</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006c">
+        <item quantity="other">%1$s personer tyckte att detta var användbart</item>
+        <item quantity="one">%1$s person tyckte att detta var användbart</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006f">
+        <item quantity="other">%1$d sekunder</item>
+        <item quantity="one">%1$d sekund</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120070">
+        <item quantity="other">%1$d sekunder kvar</item>
+        <item quantity="one">1 sekund kvar</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120071">
+        <item quantity="other">%1$d har valts • %2$s</item>
+        <item quantity="one">%1$d har valts • %2$s</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120072">
+        <item quantity="other">Skickar %1$d appar till %2$s …</item>
+        <item quantity="one">Skickar %1$d app till %2$s …</item>
+    </plurals>
+    <plurals name="setup_completed_installed">
+        <item quantity="other">%1$d appar har installerats</item>
+        <item quantity="one">%1$d app har installerats</item>
+    </plurals>
+    <plurals name="setup_completed_installed_with_failures">
+        <item quantity="other">%1$d av %2$d appar gick inte att installera</item>
+        <item quantity="one">%1$d av %2$d appar gick inte att installera</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120075">
+        <item quantity="other">Användes senast för %1$d dagar sedan</item>
+        <item quantity="one">Användes senast för %1$d dag sedan</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120076">
+        <item quantity="other">Återställ de %1$d markerade apparna</item>
+        <item quantity="one">Återställ den markerade appen</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120078">
+        <item quantity="other">Vill du ladda ned %1$d nya språk?</item>
+        <item quantity="one">Vill du ladda ned ett nytt språk?</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007b">
+        <item quantity="other">%1$d enkätsvar tas bort permanent från ditt konto.</item>
+        <item quantity="one">%1$d enkätsvar tas bort permanent från ditt konto.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007c">
+        <item quantity="other">%1$d har valts</item>
+        <item quantity="one">%1$d har valts</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007d">
+        <item quantity="other">Visa Play-poäng. Du har %1$d poäng.</item>
+        <item quantity="one">Visa Play-poäng. Du har %1$d poäng.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007e">
+        <item quantity="other">Du har %1$d Play-poäng.</item>
+        <item quantity="one">Du har %1$d Play-poäng.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120080">
+        <item quantity="other">%1$s poäng</item>
+        <item quantity="one">1 poäng</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120081">
+        <item quantity="other">Överför %1$d appar med %2$s …</item>
+        <item quantity="one">Överför %1$d app med %2$s …</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120082">
+        <item quantity="other">%1$d appar avinstalleras på enheten.</item>
+        <item quantity="one">%1$d app avinstalleras på enheten.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120083">
+        <item quantity="other">Vill du avinstallera de valda apparna?</item>
+        <item quantity="one">Vill du avinstallera den valda appen?</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120084">
+        <item quantity="other">Vill du avinstallera uppdateringar för de valda apparna?</item>
+        <item quantity="one">Vill du avinstallera uppdateringar för den valda appen?</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120085">
+        <item quantity="other">%1$s appar har tagits bort. Tillräckligt med lagringsutrymme har frigjorts för %2$s.</item>
+        <item quantity="one">%1$s app har tagits bort. Tillräckligt med lagringsutrymme har frigjorts för %2$s.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120086">
+        <item quantity="other">Apparna installeras inom kort.</item>
+        <item quantity="one">Appen installeras inom kort.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120087">
+        <item quantity="other">Appuppdateringarna installeras inom kort.</item>
+        <item quantity="one">Appuppdateringen installeras inom kort.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008a">
+        <item quantity="other">Användes senast för %1$d dagar sedan</item>
+        <item quantity="one">Användes senast för %1$d dag sedan</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008b">
+        <item quantity="other">Användes senast för %1$d månader sedan</item>
+        <item quantity="one">Användes senast för %1$d månad sedan</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008c">
+        <item quantity="other">Ta bort appar du inte längre behöver om du vill installera appar eller uppdateringar på enheten. Du kan också frigöra utrymme genom att radera mediefiler i lagringsinställningarna.</item>
+        <item quantity="one">Ta bort appar du inte längre behöver om du vill installera appar och uppdateringar på enheten. Du kan också frigöra utrymme genom att radera mediefiler i lagringsinställningarna.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008d">
+        <item quantity="other">Ta bort appar du inte längre behöver om du vill installera appar eller uppdateringar på enheten. Du kan också frigöra utrymme genom att radera mediefiler i &lt;a href=\"\">Inställningar > Lagringsutrymme&lt;/a>.</item>
+        <item quantity="one">Ta bort appar du inte längre behöver om du vill installera appar och uppdateringar på enheten. Du kan också frigöra utrymme genom att radera mediefiler i &lt;a href=\"\">Inställningar > Lagringsutrymme&lt;/a>.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008e">
+        <item quantity="other">Ta bort appar du inte längre behöver om du vill installera appar eller uppdateringar på enheten. Du kan också frigöra utrymme genom att radera mediefiler i Inställningar > Lagringsutrymme.</item>
+        <item quantity="one">Ta bort appar du inte längre behöver om du vill installera appar och uppdateringar på enheten. Du kan också frigöra utrymme genom att radera mediefiler i Inställningar > Lagringsutrymme.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008f">
+        <item quantity="other">%1$d appar har avinstallerats</item>
+        <item quantity="one">%1$d app har avinstallerats</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120090">
+        <item quantity="other">Vi hittade %1$d appar som du inte har använt på länge. Om du tar bort dem blir %2$d MB lagringsutrymme ledigt</item>
+        <item quantity="one">Vi hittade %1$d app som du inte har använt på länge. Om du tar bort den blir %2$d MB lagringsutrymme ledigt</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120091">
+        <item quantity="other">Börjar om %1$d timmar</item>
+        <item quantity="one">Börjar om %1$d timme</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120092">
+        <item quantity="other">Börjar om %1$d dagar</item>
+        <item quantity="one">Börjar om %1$d dag</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120093">
+        <item quantity="other">Tillgängligt om %1$d timmar</item>
+        <item quantity="one">Tillgängligt om %1$d timme</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120094">
+        <item quantity="other">Tillgänglig om %1$d dagar</item>
+        <item quantity="one">Tillgänglig om %1$d dag</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120095">
+        <item quantity="other">Den här enheten har inte fått någon systemuppdatering på över %1$d månader</item>
+        <item quantity="one">Den här enheten har inte fått någon systemuppdatering på över %1$d månad</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120096">
+        <item quantity="other">Jobbappar har tagits bort</item>
+        <item quantity="one">En jobbapp har tagits bort</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120097">
+        <item quantity="other">%1$d år sedan</item>
+        <item quantity="one">%1$d år sedan</item>
+    </plurals>
+</resources>

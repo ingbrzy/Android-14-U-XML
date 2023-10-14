@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="azure_title">Lojuvard soyka</string>
+    <string name="blackswan_title">Qora oqqush</string>
+    <string name="cockatoo_title">Kakadu</string>
+    <string name="come_alive_title">Jonli ekran</string>
+    <string name="feathers_attribution">Surat muallifi: Andrew Zuckerman</string>
+    <string name="feathers_description">Pat va ranglarning boy jilosi</string>
+    <string name="feathers_title">Patlar</string>
+    <string name="greenwinged_title">Yashil qanotli ara</string>
+    <string name="king_title">Qirol kalxat</string>
+    <string name="living_universe_title">Jonli koinot</string>
+    <string name="photos_memory_gallery_title">Xotiralaringiz</string>
+    <string name="pied_title">Oq-qora qargʻa</string>
+    <string name="ringnecked_title">Halqador hind toʻtisi</string>
+    <string name="seagull_title">Chagʻalay</string>
+</resources>

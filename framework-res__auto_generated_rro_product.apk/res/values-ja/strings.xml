@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_error_bad_calibration">指紋認証センサーを使用できません。修理業者に問い合わせるか、g.co/pixel/fingerprintunlock にアクセスしてください</string>
+    <string name="fingerprint_recalibrate_notification_content">修理業者に調整を依頼するか、g.co/pixel/fingerprintunlock にアクセスしてください</string>
+    <string name="battery_saver_description_with_learn_more">"電池を長持ちさせるためにバッテリー セーバーが行う操作:
+
+• ダークテーマを ON にする
+• バックグラウンド アクティビティ、一部の視覚効果や、「OK Google」などの機能を OFF にする、または制限する
+• ネットワーク接続を最適化する
+
+"<annotation id="url">詳細</annotation></string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sim App Dialog</string>
+    <string name="call_notification_answer_action">ਜਵਾਬ ਦਿਓ</string>
+    <string name="call_notification_answer_video_action">ਵੀਡੀਓ</string>
+    <string name="call_notification_decline_action">ਅਸਵੀਕਾਰ ਕਰੋ</string>
+    <string name="call_notification_hang_up_action">ਸਮਾਪਤ ਕਰੋ</string>
+    <string name="call_notification_incoming_text">ਇਨਕਮਿੰਗ ਕਾਲ</string>
+    <string name="call_notification_ongoing_text">ਜਾਰੀ ਕਾਲ</string>
+    <string name="call_notification_screening_text">ਇਨਕਮਿੰਗ ਕਾਲ ਦੀ ਸਕ੍ਰੀਨਿੰਗ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ</string>
+    <string name="install_carrier_app_defer_action">ਹਾਲੇ ਨਹੀਂ</string>
+    <string name="install_carrier_app_description">ਤੁਹਾਡੀ ਨਵੀਂ ਸਿਮ ਦੇ ਸਹੀ ਢੰਗ ਨਾਲ ਕੰਮ ਕਰਨ ਲਈ, ਤੁਹਾਨੂੰ %1$s ਐਪ ਸਥਾਪਤ ਕਰਨ ਦੀ ਲੋੜ ਪਵੇਗੀ</string>
+    <string name="install_carrier_app_description_default">ਤੁਹਾਡੀ ਨਵੀਂ ਸਿਮ ਦੇ ਸਹੀ ਢੰਗ ਨਾਲ ਕੰਮ ਕਰਨ ਲਈ, ਤੁਹਾਨੂੰ ਕੈਰੀਅਰ ਐਪ ਸਥਾਪਤ ਕਰਨ ਦੀ ਲੋੜ ਪਵੇਗੀ</string>
+    <string name="install_carrier_app_download_action">ਐਪ ਡਾਊਨਲੋਡ ਕਰੋ</string>
+    <string name="install_carrier_app_title">ਮੋਬਾਈਲ ਸੇਵਾ ਨੂੰ ਕਿਰਿਆਸ਼ੀਲ ਕਰੋ</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="suw_back_button_label">ਪਿੱਛੇ</string>
+    <string name="suw_more_button_label">ਹੋਰ</string>
+    <string name="suw_next_button_label">ਅੱਗੇ</string>
+</resources>

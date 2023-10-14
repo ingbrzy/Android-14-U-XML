@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dots">
+        <item quantity="other">%s puntu</item>
+        <item quantity="one">%s puntu</item>
+    </plurals>
+    <plurals name="gestures_recorded_message">
+        <item quantity="other">%d keinu grabatu dira</item>
+        <item quantity="one">1 keinu grabatu da</item>
+    </plurals>
+    <plurals name="label_num_keys_assigned_format">
+        <item quantity="other">%d erabilerraztasun-etengailu esleituta</item>
+        <item quantity="one">%d erabilerraztasun-etengailu esleituta</item>
+    </plurals>
+    <plurals name="label_num_scanning_loops_format">
+        <item quantity="other">%d errepikapen</item>
+        <item quantity="one">%d errepikapen</item>
+    </plurals>
+    <plurals name="line_speed_summary_format">
+        <item quantity="other">%.2f cm segundoko</item>
+        <item quantity="one">1 cm segundoko</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d jakinarazpen berri</item>
+        <item quantity="one">%d jakinarazpen berri</item>
+    </plurals>
+    <plurals name="time_delay_summary_format">
+        <item quantity="other">%.2f segundo</item>
+        <item quantity="one">1 segundo</item>
+    </plurals>
+</resources>

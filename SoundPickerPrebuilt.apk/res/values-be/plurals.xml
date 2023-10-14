@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="track_counts">
+        <item quantity="other">%1$d гуку</item>
+        <item quantity="one">%1$d гук</item>
+        <item quantity="few">%1$d гукі</item>
+        <item quantity="many">%1$d гукаў</item>
+    </plurals>
+</resources>

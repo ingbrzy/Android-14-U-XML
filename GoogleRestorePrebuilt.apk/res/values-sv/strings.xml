@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">Navigera uppåt</string>
+    <string name="abc_action_mode_done">Klar</string>
+    <string name="abc_capital_off">AV</string>
+    <string name="abc_capital_on">PÅ</string>
+    <string name="abc_menu_alt_shortcut_label">Alt + </string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl + </string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">retur</string>
+    <string name="abc_menu_function_shortcut_label">Funktion + </string>
+    <string name="abc_menu_meta_shortcut_label">Meta + </string>
+    <string name="abc_menu_shift_shortcut_label">Skift + </string>
+    <string name="abc_menu_space_shortcut_label">blanksteg</string>
+    <string name="abc_menu_sym_shortcut_label">Symbol + </string>
+    <string name="abc_prepend_shortcut_label">Meny + </string>
+    <string name="abc_search_hint">Sök …</string>
+    <string name="abc_searchview_description_clear">Ta bort frågan</string>
+    <string name="abc_searchview_description_search">Sök</string>
+    <string name="abc_searchview_description_submit">Skicka fråga</string>
+    <string name="abc_searchview_description_voice">Röstsökning</string>
+    <string name="abc_toolbar_collapse_description">Komprimera</string>
+    <string name="app_has_in_app_purchases">Köp i appar</string>
+    <string name="app_has_permissions">Behörigheter: %s</string>
+    <string name="app_has_runtime_permissions">Appen ber om behörigheter</string>
+    <string name="app_picker_group_default_title">Dina appar</string>
+    <string name="app_picker_group_title_format">%1$s (%2$d)</string>
+    <string name="app_picker_loading">Söker efter tillgängliga appar …</string>
+    <string name="app_picker_loading_toast">Tillgängliga appar läses snart in</string>
+    <string name="app_picker_no_apps">Inga appar har valts</string>
+    <string name="app_picker_no_apps_found">Inga appar hittades</string>
+    <string name="app_picker_whatsapp_description">Chatthistorik och media •</string>
+    <string name="apps_permissions_described_message">De flesta köp i appar överförs inte. Du hittar fler appar i Play Butik när konfigureringen är slutförd. Du kan behöva ge vissa appar behörighet att komma åt specifika funktioner eller viss information på enheten. Behörigheter är ordnade i behörighetsgrupper. Genom att installera dessa appar godkänner du de behörigheter som hör till varje grupp. En beskrivning av de olika behörighetsgrupperna finns nedan. Du kanske inte behöver godkänna behörigheter för alla appar. När du använder en sådan app kan du tillåta eller neka enskilda behörigheter innan appen får åtkomst till den typen av data. ^1</string>
+    <string name="apps_permissions_described_title">Bara populära, kostnadsfria iOS®-appar kan matchas med Android-appar</string>
+    <string name="auto_synced_item_gmail">Gmail</string>
+    <string name="auto_synced_item_gmail_calendar_drive">Gmail, Kalender och Drive</string>
+    <string name="auto_synced_item_google_calendar">Google Kalender</string>
+    <string name="auto_synced_item_google_contacts">Google Kontakter</string>
+    <string name="auto_synced_item_google_photos">Google Foto</string>
+    <string name="auto_synced_title">Synkroniseras automatiskt</string>
+    <string name="automatically_synced_section_header">Synkroniseras automatiskt</string>
+    <string name="backup_d2d_migration_tool_activity_name">Verktyg för dataöverföring</string>
+    <string name="bottomsheet_action_expand_halfway">Utöka till hälften</string>
+    <string name="button_dont_copy">Kopiera inte</string>
+    <string name="button_dont_restore">Återställ inte</string>
+    <string name="button_dont_restore_apps">Återställ inte appar</string>
+    <string name="cancel_copy_button">Avbryt kopieringen</string>
+    <string name="character_counter_content_description">%1$d av %2$d tecken har angetts</string>
+    <string name="character_counter_overflowed_content_description">Teckengränsen har överskridits: %1$d av %2$d</string>
+    <string name="clear_text_end_icon_content_description">Rensa text</string>
+    <string name="close_button_label">Stäng</string>
+    <string name="cloud_restore_app_picker_description_no_apps">Det finns inga appar i säkerhetskopian</string>
+    <string name="cloud_restore_app_picker_title">Välj de appar som ska återställas</string>
+    <string name="common_allow">Tillåt</string>
+    <string name="common_cancel">Avbryt</string>
+    <string name="common_dont_allow">Tillåt inte</string>
+    <string name="common_go_back">Tillbaka</string>
+    <string name="common_google_play_services_enable_button">Aktivera</string>
+    <string name="common_google_play_services_enable_text">%1$s fungerar inte om du inte aktiverar Google Play-tjänster.</string>
+    <string name="common_google_play_services_enable_title">Aktivera Google Play-tjänster</string>
+    <string name="common_google_play_services_install_button">Installera</string>
+    <string name="common_google_play_services_install_text">%1$s kan inte köras utan Google Play-tjänsterna, som saknas på enheten.</string>
+    <string name="common_google_play_services_install_title">Hämta Google Play-tjänster</string>
+    <string name="common_google_play_services_notification_channel_name">Tillgänglighet för Google Plays tjänster</string>
+    <string name="common_google_play_services_notification_ticker">Fel på Google Play-tjänster</string>
+    <string name="common_google_play_services_unknown_issue">Det har uppstått ett fel mellan %1$s och Google Play-tjänsterna. Försök igen.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s fungerar inte utan Google Play-tjänsterna, som inte stöds på enheten.</string>
+    <string name="common_google_play_services_update_button">Uppdatera</string>
+    <string name="common_google_play_services_update_text">%1$s kan inte köras om du inte uppdaterar Google Play-tjänsterna.</string>
+    <string name="common_google_play_services_update_title">Uppdatera Google Play-tjänster</string>
+    <string name="common_google_play_services_updating_text">%1$s kan inte köras utan Google Play-tjänster, och dessa uppdateras för närvarande.</string>
+    <string name="common_google_play_services_wear_update_text">En ny version av Google Play-tjänster krävs. Den uppdateras automatiskt inom kort.</string>
+    <string name="common_ok">OK</string>
+    <string name="common_open_on_phone">Öppna på mobilen</string>
+    <string name="common_restore">Återställ</string>
+    <string name="common_skip">Hoppa över</string>
+    <string name="common_try_again">Försök igen</string>
+    <string name="contacts_no_number_device_and_sim">Kontakter på enheten och SIM-kortet</string>
+    <string name="contacts_number_device_and_icloud">%1$d på iCloud®, %2$d på enheten</string>
+    <string name="content_selector_ui_title">Välj vad du vill återställa</string>
+    <string name="continue_button">Fortsätt</string>
+    <string name="continue_setup_description">Du kan fortsätta konfigurera ^1</string>
+    <string name="copied_contacts_group_label">Kopierat från %1$s</string>
+    <string name="copied_contacts_group_label_default">Kopierat via överföring med sladd</string>
+    <string name="copied_contacts_group_label_ios">Kopierat från iOS</string>
+    <string name="copy_button">Kopiera</string>
+    <string name="copy_without_cable_button">Kopiera utan kabel</string>
+    <string name="d2d_app_picker_description_no_apps">Det gick inte att hitta några appar</string>
+    <string name="d2d_app_picker_title">Appar</string>
+    <string name="data_copied_fragment_description">Du kan koppla från kabeln</string>
+    <string name="data_copied_fragment_description_cancel">Eftersom du avbröt åtgärden har bara en del data kopierats till den nya enheten.</string>
+    <string name="data_copied_fragment_description_cancel_no_data">Eftersom du avbröt åtgärden har inget kopierats till den nya enheten.</string>
+    <string name="data_copied_fragment_description_error">Ett fel uppstod, så det gick inte att kopiera allting.</string>
+    <string name="data_copied_fragment_description_error_no_data">Ett fel uppstod, så det gick inte att kopiera data.</string>
+    <string name="data_copied_fragment_no_data_title">Kopieringen misslyckades</string>
+    <string name="data_copied_fragment_some_data_title">En del data har kopierats</string>
+    <string name="data_copied_fragment_title">Kopieringen är klar</string>
+    <string name="device_not_supported_fragment_new_device">En ny enhet är ansluten. Återanslut till din förra enhet igen om du vill fortsätta.</string>
+    <string name="device_not_supported_fragment_new_device_title">Återanslut till din förra enhet</string>
+    <string name="device_not_supported_fragment_no_data_cable">Testa med en annan kabel. Om den gamla enheten är en iPhone ska du se till att den hålls olåst.</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">Det går inte att ansluta till den gamla enheten</string>
+    <string name="device_not_supported_fragment_other_ways_btn">Kopiera på ett annat sätt</string>
+    <string name="device_not_supported_fragment_retry_description">Kontrollera att den gamla enheten är upplåst och dra sedan ur och sätt i kabeln igen</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">Något gick fel</string>
+    <string name="device_not_supported_ios_supervised_description">Eftersom du har en iPhone® som hanteras av någon annan måste du välja ett annat sätt att kopiera data på</string>
+    <string name="device_picker_empty">Inga säkerhetskopior har länkats till %1$s.</string>
+    <string name="device_picker_empty_title">Inga säkerhetskopior hittades</string>
+    <string name="device_picker_item">%1$s-säkerhetskopia</string>
+    <string name="device_picker_summary">Välj en säkerhetskopia nedan</string>
+    <string name="device_picker_summary_work_profile">Återställ jobbapparna från en gammal enhet</string>
+    <string name="device_picker_title">Återställ data från en gammal enhet</string>
+    <string name="device_picker_title_work_profile">Välj en enhet</string>
+    <string name="dialog_continue_button_label">Fortsätt</string>
+    <string name="dont_transfer">Överför inte</string>
+    <string name="download_file_description">Kopierade från en annan enhet</string>
+    <string name="drive_backup_content_callhistory_title">Samtalshistorik</string>
+    <string name="drive_backup_content_contacts_title">Kontakter</string>
+    <string name="drive_backup_content_devicesettings_title">Enhetsinställningar</string>
+    <string name="durationDays">%1$s</string>
+    <string name="durationDaysHours">%1$s %2$s</string>
+    <string name="durationHoursMinutes">%1$s %2$s</string>
+    <string name="durationMinutes">%1$s</string>
+    <string name="encryption_warning_fragment_description">"Kryptering av säkerhetskopior har aktiverats för din iPhone®. Om du inte har aktiverat detta kan det ha gjorts av IT-administratören.
+
+Bara foton, musik och videor kan kopieras. Mer information finns på "<b>g.co/datatransferhelp</b>.</string>
+    <string name="encryption_warning_fragment_title">Säkerhetskopian är krypterad</string>
+    <string name="error_icon_content_description">Fel</string>
+    <string name="exposed_dropdown_menu_content_description">Visa rullgardinsmenyn</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="flow_choice_description_text_new">Du kan bland annat föra över appar, foton, kontakter och ditt Google-konto.</string>
+    <string name="flow_choice_title">Kopiera appar och data</string>
+    <string name="fragment_app_picker_d2d_title">Välj appar</string>
+    <string name="fragment_app_picker_description_d2d_ios_v2">"Vi hittade en matchning till ^1 av dina ^2 iOS®-appar. Vissa köp i appar kanske inte överförs.
+
+Genom att installera en app godkänner du dess behörigheter. "<annotation id="apps_permissions_learn_more">Läs mer</annotation></string>
+    <string name="fragment_connecting_title">Ansluter till den gamla enheten …</string>
+    <string name="fragment_indexing_description">På nästa skärm väljer du vad du vill kopiera</string>
+    <string name="fragment_indexing_title">Kopieringen förbereds …</string>
+    <string name="fragment_indexing_verify_password_title">Lösenordet verifieras …</string>
+    <string name="fragment_ios_copy_calendar_events_description">Om du vill kopiera kalenderhändelser ansluter du till ett wifi- eller mobilnätverk och försöker igen</string>
+    <string name="fragment_ios_copy_calendar_events_title">Vill du kopiera kalenderhändelser?</string>
+    <string name="fragment_ios_couldnt_sign_in_description">Anslut till internet och försök igen</string>
+    <string name="fragment_ios_couldnt_sign_in_title">Det gick inte att logga in</string>
+    <string name="fragment_ios_decryption_description">Överför appar, sms och kontakter genom att ange lösenordet för iTunes®-säkerhetskopian</string>
+    <string name="fragment_ios_decryption_forgot_password_button">Har du glömt lösenordet?</string>
+    <string name="fragment_ios_decryption_forgot_password_description">Överför krypterat innehåll genom att ange lösenordet för iTunes-säkerhetskopian. Okrypterat innehåll överförs till ^1 ändå.</string>
+    <string name="fragment_ios_decryption_forgot_password_title">Kan inte överföra krypterat innehåll</string>
+    <string name="fragment_ios_decryption_password_hint">Ange lösenordet till iTunes®-säkerhetskopian</string>
+    <string name="fragment_ios_decryption_skip_button">Hoppa över krypterat innehåll</string>
+    <string name="fragment_ios_decryption_title">Din iPhone® är krypterad</string>
+    <string name="fragment_ios_decryption_wrong_password_error">Fel lösenord. Försök igen.</string>
+    <string name="fragment_ios_device_management_confirm_title">Bekräfta borttagning av enhetshantering</string>
+    <string name="fragment_ios_device_management_detected_description">"Din iPhone® hanteras av organisationen och innehåller krypterat innehåll.
+
+Du måste ta bort enhetshantering på din iPhone® om du vill överföra appar, kontakter från iCloud®, kontakter från enheten och meddelanden från iMessage®."</string>
+    <string name="fragment_ios_device_management_detected_title">En del innehåll är krypterat</string>
+    <string name="fragment_ios_device_management_next_button_first_screen">Visa steg</string>
+    <string name="fragment_ios_device_management_not_removed_description">"Enhetshantering är fortfarande aktiverat på din iPhone®. Ta bort enhetshantering genom att följa föregående steg.
+
+Om du vill föra över krypterat innehåll till din nya ^1 måste du ta bort enhetshantering."</string>
+    <string name="fragment_ios_device_management_not_removed_title">Det går inte att överföra krypterat innehåll</string>
+    <string name="fragment_ios_device_management_open_settings_description">Öppna <b>Inställningar> Allmänt</b> på din iPhone®. Tryck sedan på <b>Enhetshantering</b>. Om en profil har installerats trycker du på <b>Hantering av profiler och enheter</b>.</string>
+    <string name="fragment_ios_device_management_open_settings_title">Öppna inställningarna för hantering</string>
+    <string name="fragment_ios_device_management_passcode_title">Ange lösenord</string>
+    <string name="fragment_ios_device_management_remove_title">Ta bort hantering</string>
+    <string name="fragment_ios_device_management_risk_description">"Du kan förlora åtkomst till resurser från arbetet om du tar bort enhetshanteringen.
+
+Om du får problem med att installera enhetshantering efter konfigureringen kontaktar du IT-administratören."</string>
+    <string name="fragment_ios_device_management_risk_title">Borttagning av enhetshantering</string>
+    <string name="fragment_ios_device_management_select_management_title">Tryck på alternativet under Hantering av mobila enheter</string>
+    <string name="fragment_ios_device_management_skip_button">Hoppa över krypterat innehåll</string>
+    <string name="fragment_ios_indexing_description">Det här kan ta en stund om du har mycket data på din iPhone®</string>
+    <string name="fragment_ios_instructions_description">Fortsätt genom att godkänna anslutningen på din iPhone®</string>
+    <string name="fragment_ios_instructions_reconnect_cable">Fungerar det inte? Testa att koppla ur och återansluta enheterna.</string>
+    <string name="fragment_ios_recoverable_error_description">Koppla från och anslut enheterna på nytt om du vill testa igen</string>
+    <string name="fragment_ios_recoverable_error_title">Det går inte att dekryptera iPhone®</string>
+    <string name="fragment_ios_skip_encrypted_data_dialog_description">Dina appar, kontakter på iCloud® och enheten och iMessage®-meddelanden överförs inte</string>
+    <string name="fragment_ios_skip_encrypted_data_dialog_title">Vill du hoppa över krypterat innehåll?</string>
+    <string name="fragment_ios_wifi_reconnecting_description">Ha båda enheterna nära varandra</string>
+    <string name="fragment_ios_wifi_reconnecting_title">Återansluter till din iPhone eller iPad …</string>
+    <string name="fragment_keep_devices_close_description">Se till att båda enheterna är påslagna och nära varandra</string>
+    <string name="fragment_long_waiting_title">Ett ögonblick bara …</string>
+    <string name="fragment_restore_choice_title">Välj vad du vill kopiera</string>
+    <string name="fragment_short_waiting_title">Ett ögonblick …</string>
+    <string name="fragment_smart_device_ui_finished_title">Kontoinformation hämtas …</string>
+    <string name="fragment_target_connected_description_with_permissions">Du kanske måste ge behörigheter på din gamla enhet</string>
+    <string name="fragment_target_connected_title">Enheterna är anslutna</string>
+    <string name="fragment_target_photos_and_videos_option_description">%1$s %2$s från den %3$s</string>
+    <string name="fragment_target_photos_and_videos_option_title_all">Alla</string>
+    <string name="fragment_target_photos_and_videos_option_title_all_photos">Alla foton</string>
+    <string name="fragment_target_photos_and_videos_option_title_none">Inga</string>
+    <string name="fragment_target_photos_and_videos_picker_description">%d %% av utrymmet på enheten tas upp av foton och videor</string>
+    <string name="fragment_target_photos_and_videos_picker_include_videos_title">Inkludera videor</string>
+    <string name="fragment_target_photos_and_videos_picker_title">Välj foton och videor</string>
+    <string name="fragment_usb_cable_doesnt_fit">Passar inte kabeln?</string>
+    <string name="fragment_usb_cant_find_adapter">Har du ingen adapter?</string>
+    <string name="fragment_usb_connect_both_phones_title">Anslut kabeln till båda enheterna</string>
+    <string name="fragment_usb_connect_cable_into_adapter_description">Överföringsadaptern följde med i samma förpackning som din ^1</string>
+    <string name="fragment_usb_connect_cable_into_adapter_title">Anslut kabeln till båda enheterna med hjälp av adaptern</string>
+    <string name="fragment_usb_dialog_cancel_description">Om du använder en kabel får du mest innehåll snabbast, bland annat foton, videor och mms.</string>
+    <string name="fragment_usb_dialog_cancel_description_v2">Du kan överföra innehåll snabbare om du använder en kabel, till exempel laddningskabeln för den gamla enheten.</string>
+    <string name="fragment_usb_dialog_cancel_description_v3">Att kopiera data utan kabel kan ta längre tid, och enhetens wifi-anslutning kan kopplas från tillfälligt</string>
+    <string name="fragment_usb_dialog_cancel_title">Vill du kopiera utan kabel?</string>
+    <string name="fragment_usb_dialog_without_old_phone_description">"Du kan återställa mer data, inklusive foton och videor, om du använder din gamla enhet.
+
+Om du vill återställa data utan att använda din gamla enhet loggar du in med användarnamn och lösenord på nästa skärm."</string>
+    <string name="fragment_usb_dialog_without_old_phone_title">Vill du återställa data utan den gamla enheten?</string>
+    <string name="fragment_usb_dont_have_cable">Har du ingen kabel?</string>
+    <string name="fragment_usb_find_cable_animation_description">USB-C-kabel, lightning-kabel, micro USB-kabel</string>
+    <string name="fragment_usb_find_cable_description">Använd en kabel som passar den gamla enheten, till exempel laddningskabeln.</string>
+    <string name="fragment_usb_find_cable_title">Ta fram kabeln till den gamla enheten</string>
+    <string name="fragment_usb_initial_description">Du behöver din gamla Android-telefon eller iPhone®. Sätt på den och se till att den hålls olåst.</string>
+    <string name="fragment_usb_initial_title">Använd den gamla enheten</string>
+    <string name="fragment_usb_missing_data_description">Du kan fortsätta konfigurationen av ^1 medan överföringen pågår.</string>
+    <string name="fragment_usb_missing_data_title">Börja kopiera din data</string>
+    <string name="fragment_usb_plug_cable">Anslut kabeln till den gamla enheten</string>
+    <string name="fragment_wifi_d2d_unsupported_description">Ett fel inträffade när den gamla enheten skulle anslutas</string>
+    <string name="fragment_wifi_d2d_unsupported_title">Det går inte att kopiera trådlöst</string>
+    <string name="fragment_wifi_reconnecting_title">Försöker återansluta …</string>
+    <string name="fragment_wifi_restore_choice_title">Använd din gamla enhet och överför data trådlöst</string>
+    <string name="fragment_wifi_restore_choice_use_ios_button">Byter du från en iPhone® eller iPad®?</string>
+    <string name="gigabyteShort">GB</string>
+    <string name="google_contacts_will_sync">Google Kontakter synkroniseras</string>
+    <string name="google_photos_available_in_photos_app">Visa i Google Foto</string>
+    <string name="icloud_data_not_included">• Data från iCloud® tas inte med</string>
+    <string name="imessage_deregistration_description">Om du vill kunna ta emot sms från iPhone®-användare även i fortsättningen måste du inaktivera iMessage på den gamla telefonen.</string>
+    <string name="imessage_deregistration_done_button">Klar</string>
+    <string name="imessage_deregistration_extra_description">Du kan fortfarande använda iMessage på andra Apple®-enheter.</string>
+    <string name="imessage_deregistration_procedure_first_step">1. Skanna den är QR-koden med iPhone-kameran eller öppna <b>Inställningar > Meddelanden</b></string>
+    <string name="imessage_deregistration_procedure_second_step">2. Inaktivera iMessage</string>
+    <string name="imessage_deregistration_procedure_steps_without_qr_code">Öppna <b>Inställningar > Meddelanden</b> och <b>inaktivera iMessage</b>.</string>
+    <string name="imessage_deregistration_title">Inaktivera iMessage®</string>
+    <string name="instructions_fragment_title">Kontrollera den andra enheten</string>
+    <string name="ios_connected_fragment_add_account_description">"På nästa skärm kan du logga in på ditt Google-konto eller skapa ett nytt.
+
+Om du inte lägger till Google-kontot kopieras inga händelser från kalendern i iOS®."</string>
+    <string name="ios_connected_fragment_add_account_title">Lägg till ditt Google-konto</string>
+    <string name="ios_connected_fragment_description_has_account">Vi använder ditt Google-konto för att överföra appar och händelser i iOS-kalendern</string>
+    <string name="ios_connected_fragment_description_has_account_with_notes">Vi använder ditt Google-konto för att överföra appar och händelser i iOS® Kalender och iOS® Anteckningar</string>
+    <string name="ios_connected_fragment_description_no_account">"På nästa skärm kan du logga in på ditt Google-konto eller skapa ett nytt.
+
+Om du inte lägger till Google-kontot överförs inte appar och händelser från kalendern i iOS."</string>
+    <string name="ios_connected_fragment_description_no_account_with_notes">"På nästa skärm kan du logga in på ditt Google-konto eller skapa ett nytt.
+
+Om du inte lägger till Google-kontot överförs inte appar och händelser från iOS® Kalender och iOS® Anteckningar."</string>
+    <string name="ios_migration_default_calendar_title">Kalender</string>
+    <string name="ios_migration_other_contact_relation">Annat</string>
+    <string name="ios_photos_and_videos_dialog_icloud_got_it_button">OK</string>
+    <string name="ios_photos_and_videos_dialog_icloud_message">"Du kan begära att kopior av dina foton och videor i iCloud överförs till Google Foto.
+
+Läs mer om hur du gör genom att besöka "<b>g.co/datatransferhelp</b>.</string>
+    <string name="ios_photos_and_videos_dialog_icloud_title">Kopiera foton och videor i iCloud® till Google Foto</string>
+    <string name="ios_settings_dialog_bullet_points">"
+● ^1"</string>
+    <string name="ios_settings_dialog_message">"Ändra följande i inställningarna på den nya enheten:
+^1"</string>
+    <string name="ios_settings_dialog_title">Det går inte att överföra vissa inställningar</string>
+    <string name="ios_trademarks_disclaimer">iPhone, iPad, iOS, iTunes, iMessage, Safari och iCloud är varumärken som tillhör Apple Inc. och är registrerade i USA och andra länder</string>
+    <string name="ios_whatsapp_description">Skanna QR-koden med din iPhone för att öppna WhatsApp och tryck sedan på <b>Start</b></string>
+    <string name="ios_whatsapp_export_description">Håll din iPhone upplåst och WhatsApp öppen</string>
+    <string name="ios_whatsapp_export_title">Förbereder chattar …</string>
+    <string name="ios_whatsapp_message">Har du problem med skanningen? Öppna WhatsApp på din iPhone och välj sedan <b>Settings > Chats > Move Chats to Android</b></string>
+    <string name="ios_whatsapp_title">Överför WhatsApp-chattar</string>
+    <string name="ios_wifi_hotspot_description">Med åtgärden installeras appen Byt till Android och enheterna ansluts via wifi-nätverket %1$s</string>
+    <string name="ios_wifi_hotspot_description_legacy">När du har öppnat appen Byt till Android på din iPhone eller iPad följer du anvisningarna</string>
+    <string name="ios_wifi_hotspot_instructions_first_step">Steg 1:</string>
+    <string name="ios_wifi_hotspot_instructions_first_step_message">Öppna Safari och besök <b>^1</b> för att ladda ned appen Byt till Android</string>
+    <string name="ios_wifi_hotspot_instructions_fourth_step">Kan du inte ladda ned appen?</string>
+    <string name="ios_wifi_hotspot_instructions_fourth_step_message">Öppna <b>Inställningar</b> och tryck på <b>Allmänt > Programuppdatering</b>" och försök igen.
+
+Du kan även gå tillbaka och kopiera datan via kabel."</string>
+    <string name="ios_wifi_hotspot_instructions_second_step">Steg 2:</string>
+    <string name="ios_wifi_hotspot_instructions_second_step_message">Öppna appen och tryck på <b>Starta > Kan du inte skanna QR-koden?</b></string>
+    <string name="ios_wifi_hotspot_instructions_second_step_message_content_description">Öppna appen och tryck på Starta och sedan på Kan du inte skanna QR-koden?</string>
+    <string name="ios_wifi_hotspot_instructions_third_step">Steg 3:</string>
+    <string name="ios_wifi_hotspot_instructions_third_step_message">"Ange följande uppgifter:
+Nätverksnamn: "<b>^1</b>"
+Lösenord: "<b>^2</b>"
+IP-adress: "<b>^3</b></string>
+    <string name="ios_wifi_hotspot_instructions_title">Följ de här stegen på din iPhone eller iPad</string>
+    <string name="ios_wifi_hotspot_qr_code_alternative">Kan du inte skanna QR-koden?</string>
+    <string name="ios_wifi_hotspot_reconnecting_description">Kopieringen återupptas när enheterna är anslutna</string>
+    <string name="ios_wifi_hotspot_reconnecting_title">Skanna QR-koden igen för att återansluta</string>
+    <string name="ios_wifi_hotspot_title">Läs in QR-koden med iPhone- eller iPad-kameran</string>
+    <string name="ios_wifi_indexing_description">Du blir ombedd att välja vilken data som ska överföras och att ge Byt till Android behörigheter</string>
+    <string name="ios_wifi_indexing_title">Fortsätt på iPhone®</string>
+    <string name="ios_wifi_location_permission_description">"%s från Google behöver åtkomst till din plats för att kopiera din data trådlöst.
+
+Om du inte tillåter åtkomst kopieras ingen data till den nya enheten.
+
+Platsinformationen används endast för att skapa en trådlös anslutning till din iPhone och finns kvar på enheten."</string>
+    <string name="ios_wifi_location_permission_title">Plats krävs för att kopiera trådlöst</string>
+    <string name="ios_wifi_nearby_devices_permission_description">"Du behöver ge %s från Google behörighet att söka efter och ansluta till enheter i närheten via ditt wifi-nätverk.
+
+Om du inte beviljar denna behörighet kopieras ingen av din data till den nya enheten."</string>
+    <string name="ios_wifi_nearby_devices_permission_title">Ge åtkomst till enheter i närheten</string>
+    <string name="key_recovery_instruction_description">Dekryptera säkerhetskopian genom att ange skärmlåset för din gamla enhet på nästa skärm</string>
+    <string name="key_recovery_instruction_title">Bekräfta skärmlåset för din gamla %s</string>
+    <string name="kilobyteShort">kB</string>
+    <string name="lock_screen_entry_title">Bekräfta skärmlåset för din gamla %s</string>
+    <string name="lskfui_confirm">Bekräfta</string>
+    <string name="lskfui_lock_screen_error_other">Något gick fel. Försök igen senare.</string>
+    <string name="lskfui_lock_screen_error_wrong_password">Fel lösenord</string>
+    <string name="lskfui_lock_screen_error_wrong_pattern">Fel mönster</string>
+    <string name="lskfui_lock_screen_error_wrong_pin">Fel pinkod</string>
+    <string name="lskfui_lockscreen_access_pattern_area">Fält för mönster</string>
+    <string name="lskfui_lockscreen_access_pattern_cell_added_verbose">Cell %d har lagts till</string>
+    <string name="lskfui_lockscreen_access_pattern_cleared">Mönstret har rensats</string>
+    <string name="lskfui_lockscreen_access_pattern_detected">Mönstret har angetts</string>
+    <string name="lskfui_lockscreen_access_pattern_start">Mönstret har påbörjats</string>
+    <string name="lskfui_save_lskf_password_desc">Använd lösenord på den här enheten</string>
+    <string name="lskfui_save_lskf_pattern_desc">Använd mönster på den här enheten</string>
+    <string name="lskfui_save_lskf_pin_desc">Använd pinkod på den här enheten</string>
+    <string name="lskfui_vault_almost_locked_dialog_title">%d försök kvar</string>
+    <string name="lskfui_vault_almost_locked_password_dialog_text">Fel lösenord har angetts %1$d gånger. Efter ytterligare %2$d felaktiga försök raderas säkerhetskopian av %3$s.</string>
+    <string name="lskfui_vault_almost_locked_pattern_dialog_text">Fel mönster har angetts %1$d gånger. Efter ytterligare %2$d felaktiga försök raderas säkerhetskopian av %3$s.</string>
+    <string name="lskfui_vault_almost_locked_pin_dialog_text">Fel pinkod har angetts %1$d gånger. Efter ytterligare %2$d felaktiga försök raderas säkerhetskopian av %3$s.</string>
+    <string name="manage_storage_button">Hantera lagringsutrymme</string>
+    <string name="megabyteShort">MB</string>
+    <string name="migrate_from_ios_description">Följ de här anvisningarna för att hämta dina kontakter, kalenderhändelser, foton och videor</string>
+    <string name="migrate_from_ios_header">Överför data från en iPhone</string>
+    <string name="migrate_from_ios_instructions_1">1. Öppna webbläsaren</string>
+    <string name="migrate_from_ios_instructions_2">2. Öppna <b>android.com/switch</b></string>
+    <string name="migrate_from_ios_instructions_3">3. Följ anvisningarna</string>
+    <string name="oem_use_old_device_description">Du behöver din gamla Android-enhet, iPhone® eller iPad®</string>
+    <string name="oem_use_old_device_title">Använd den gamla enheten</string>
+    <string name="password_toggle_content_description">Visa lösenord</string>
+    <string name="petabyteShort">PB</string>
+    <string name="photos_and_videos_picker_no_items">Inte vald</string>
+    <string name="progressing_description">Det kan ta några minuter</string>
+    <string name="qrcode_description">QR-kod</string>
+    <string name="restore_apk_title">Verktyg för dataåterställning</string>
+    <string name="restore_choice_android_device_label">Android</string>
+    <string name="restore_choice_data_disclaimer">All data kanske inte överförs till ^1. <annotation id="restore_choice_data_disclaimer_learn_more">Läs mer</annotation></string>
+    <string name="restore_choice_data_disclaimer_from_newer_version">Säkerhetskopian är från en enhet med en nyare version av Android. All data kanske inte återställs på den nya enheten.</string>
+    <string name="restore_choice_data_disclaimer_v2_cloud">All data kanske inte överförs till ^1.</string>
+    <string name="restore_choice_deselect_some_content">Avmarkera innehåll för att fortsätta</string>
+    <string name="restore_choice_dont_have_old_phone">Kan du inte använda den gamla enheten?</string>
+    <string name="restore_choice_ios_device_label">iPhone</string>
+    <string name="restore_choice_learn_more_android_message">"En del data från den gamla enheten kan inte kopieras automatiskt:
+
+ ● nedladdningar (t.ex. PDF-filer)
+
+ ● foton, videor och musik som lagras i dolda mappar
+
+ ● foton, videor och musik som du har fått via sms
+
+ ● appar som inte kommer från Google Play Butik
+
+ ● appdata (om inte Android-säkerhetskopiering används för appen)
+
+ ● vissa enhetsinställningar
+
+ ● andra konton än Google-konton (och tillhörande data)
+
+ ● kontakter och kalendrar som synkroniseras med andra tjänster än Google
+
+ ● ringsignaler.
+
+ Du kan läsa mer och få hjälp med att kopiera en del av denna data på g.co/datatransferhelp."</string>
+    <string name="restore_choice_learn_more_android_title">Det går inte att kopiera all data</string>
+    <string name="restore_choice_learn_more_ios_message">"En del data från den gamla enheten kan inte kopieras automatiskt:
+
+ ● appar som inte har installerats från App Store
+
+ ● appar som inte är tillgängliga på Play Butik
+
+ ● appdata
+
+ ● foton vars original inte har sparats på enheten (med inställningen Optimera lagring sparas originalbilderna till exempel i iCloud®)
+
+ ● filer och dokument som sparats i iCloud®
+
+ ● enhetsinställningar (till exempel wifi-lösenord)
+
+ ● musik som skyddas av DRM (Digital Rights Management) (till exempel musik på iTunes® som köptes före april 2009 eller musik som har laddats ned för att lyssnas på offline i en app för musikstreaming)
+
+ ● konton som inte är Google-konton (och tillhörande data)
+
+ ● kontakter och kalendrar som synkroniseras med andra tjänster än Google eller iCloud®
+
+ ● bokmärken i Safari®.
+
+ Du kan läsa mer och få hjälp med att kopiera en del av denna data på g.co/datatransferhelp."</string>
+    <string name="restore_choice_learn_more_ios_title">Det går inte att kopiera all data</string>
+    <string name="restore_choice_not_enough_space">Utrymmet räcker inte</string>
+    <string name="restore_choice_select_some_content_cloud">Välj vilket innehåll du vill återställa</string>
+    <string name="restore_choice_select_some_content_d2d">Välj vilket innehåll du vill kopiera</string>
+    <string name="restore_choice_sync_disclaimer_android">Kontakter på enheten och SIM-kortet sparas som Google-kontakter i %1$s</string>
+    <string name="restore_choice_sync_disclaimer_cloud">Kontakter på enheten och SIM-kortet sparas som Google-kontakter i %1$s</string>
+    <string name="restore_choice_sync_disclaimer_ios">Kontakter och iOS-kalendern sparas i %1$s.</string>
+    <string name="restore_choice_sync_disclaimer_ios_no_contacts">iOS-kalendern sparas i %1$s.</string>
+    <string name="restore_choice_sync_disclaimer_ios_no_contacts_with_notes">iOS® Kalender och iOS® Anteckningar sparas i %1$s.</string>
+    <string name="restore_choice_sync_disclaimer_ios_with_notes">Kontakter, iOS® Kalender och iOS® Anteckningar sparas i %1$s.</string>
+    <string name="restore_choice_title">Välj den gamla enheten</string>
+    <string name="restore_continue_suw_title">Återställer …</string>
+    <string name="restore_estimated_time_v2">Överföringen tar cirka ^1</string>
+    <string name="restore_from_an_android_dialog_message">"Du kan få tillgång till dina foton och videor genom att säkerhetskopiera dem med Google Foto-appen på din gamla enhet. Då synkroniseras de till den här telefonen automatiskt.
+
+Appar, kontakter, samtalshistorik, meddelanden och enhetsinställningar ingår i Android-säkerhetskopian."</string>
+    <string name="restore_from_an_android_dialog_title">För över foton och videor</string>
+    <string name="restore_item_alarms">Alarm</string>
+    <string name="restore_item_apps">Appar</string>
+    <string name="restore_item_brightness">Ljusstyrka</string>
+    <string name="restore_item_calendar">Kalender</string>
+    <string name="restore_item_calendar_ical_description">iOS-kalendern</string>
+    <string name="restore_item_call_logs">Samtalshistorik</string>
+    <string name="restore_item_contacts">Kontakter</string>
+    <string name="restore_item_device_settings_description">Wifi-lösenord med mera</string>
+    <string name="restore_item_downloads">Nedladdningar</string>
+    <string name="restore_item_email">E-post</string>
+    <string name="restore_item_email_description">Gmail synkroniseras</string>
+    <string name="restore_item_font_size">Teckenstorlek</string>
+    <string name="restore_item_home_screen_layout">Startskärmslayout</string>
+    <string name="restore_item_ios_device_settings_description">Wifi-nätverk, bakgrunder och annat</string>
+    <string name="restore_item_message_attachments">Meddelandebilagor</string>
+    <string name="restore_item_messages">Meddelanden</string>
+    <string name="restore_item_mms">Mms</string>
+    <string name="restore_item_mms_attachments">Bilagor i mms</string>
+    <string name="restore_item_music">Musik och annat ljud</string>
+    <string name="restore_item_note_description">iOS® Anteckningar</string>
+    <string name="restore_item_notes">Anteckningar</string>
+    <string name="restore_item_photos">Foton</string>
+    <string name="restore_item_photos_and_videos">Foton och videor</string>
+    <string name="restore_item_screen_timeout">Skärmens tidsgräns</string>
+    <string name="restore_item_settings">Enhetsinställningar</string>
+    <string name="restore_item_sms">Sms</string>
+    <string name="restore_item_video">Videor</string>
+    <string name="restore_item_wallpaper">Bakgrund</string>
+    <string name="restore_item_wifi_networks">Wifi-nätverk</string>
+    <string name="restore_qs_finishsetup_fragment_description_may_take_a_few_min">Det kan ta några minuter</string>
+    <string name="restore_qs_finishsetup_fragment_title_getting_yourdevice_ready">{DEVICE_TYPE,select, PHONE{Telefonen förbereds …}TABLET{Surfplattan förbereds …}other{Enheten förbereds …}}</string>
+    <string name="restore_qs_init_fragment_title_just_a_few_moments">Ett ögonblick bara …</string>
+    <string name="restore_qs_startrestore_cant_use_old_device_q">Kan du inte använda den gamla enheten?</string>
+    <string name="restore_qs_startrestore_dont_copy">Kopiera inte</string>
+    <string name="restore_qs_startrestore_fragment_start_restore_description_you_can_choose_to_transfer">Du kan välja att överföra dina appar, foton, kontakter med mera.</string>
+    <string name="restore_qs_startrestore_fragment_start_restore_title_copy_apps_and_data">Kopiera appar och data</string>
+    <string name="restore_qs_startrestore_fragment_use_old_device_description">Du behöver din gamla Android-enhet, iPhone® eller iPad®</string>
+    <string name="restore_qs_startrestore_fragment_use_old_device_title">Använd den gamla enheten</string>
+    <string name="restore_qs_workprofilesetup_fragment_work_profile_setup_description">Konfigurera jobbprofilen genom att lägga till ditt jobbkonto på nästa skärm</string>
+    <string name="restore_qs_workprofilesetup_fragment_work_profile_setup_title">Förbered enheten för jobbet</string>
+    <string name="restore_selected_size_and_device_space_text"><annotation id="selected_size">^1</annotation> ^2 av ^3</string>
+    <string name="retail_mode_warning_dialog_message">En demovideo spelas upp tills enheten har återställts till standardinställningarna. Det här läget ska användas av återförsäljare och är inte ämnat för privat bruk.</string>
+    <string name="retail_mode_warning_dialog_title">Spela upp demovideo</string>
+    <string name="skip_transfer">Hoppa över överföring</string>
+    <string name="small_time_duration">Mindre än 1 minut</string>
+    <string name="some_whatsapp_chats_not_exported">• En del WhatsApp-chattar överfördes inte</string>
+    <string name="stop_copying_dialog_continue_button">Avvisa</string>
+    <string name="stop_copying_dialog_message_before_transfer">Ingen data kopieras till den nya enheten</string>
+    <string name="stop_copying_dialog_message_before_transfer_initial_setup">Det går fortfarande att överföra innehåll från din gamla enhet efter konfigureringen</string>
+    <string name="stop_copying_dialog_message_during_transfer">En del data kopieras inte till den nya enheten</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">Stopp</string>
+    <string name="stop_copying_dialog_title_before_transfer">Vill du avbryta kopieringen?</string>
+    <string name="stop_copying_dialog_title_during_transfer">Vill du avbryta kopieringen?</string>
+    <string name="stop_restoring_dialog_message_before_transfer">Din data återställs inte på den nya enheten</string>
+    <string name="stop_restoring_dialog_message_before_transfer_initial_setup">Det går fortfarande att återställa innehåll från din gamla enhet efter konfigurationen</string>
+    <string name="stop_restoring_dialog_title_before_transfer">Vill du inte återställa?</string>
+    <string name="sud_back_button_label">Tillbaka</string>
+    <string name="sud_more_button_label">Mer</string>
+    <string name="sud_next_button_label">Nästa</string>
+    <string name="sud_skip_button_label">Hoppa över</string>
+    <string name="target_default_source_device_model">gammal enhet</string>
+    <string name="target_device_not_supported_cant_continue_description">Du måste välja ett annat sätt att kopiera data på</string>
+    <string name="target_device_not_supported_cant_continue_title">Andra enheter stöds inte</string>
+    <string name="target_device_not_supported_try_restarting_description">"Koppla från kabeln och starta om den gamla enheten. Anslut sedan kabeln igen och följ anvisningarna på ^1.
+
+Om detta felmeddelande fortsätter att visas kan du behöva kopiera innehållet på något annat sätt."</string>
+    <string name="target_device_not_supported_try_restarting_title">Enheten kanske inte stöds</string>
+    <string name="target_fragment_msg_reconnect_cable">Koppla in kabeln igen</string>
+    <string name="target_fragment_msg_wifi_disconnected">Testa att ha enheterna närmare varandra</string>
+    <string name="target_pixelmigrate_notification_description">Tillgänglig eller pågår</string>
+    <string name="target_pixelmigrate_notification_title">Dataöverföring</string>
+    <string name="target_smart_device_timeout_add_account">LÄGG TILL KONTO</string>
+    <string name="target_smart_device_timeout_description">Om du vill kan du testa att lägga till kontot manuellt</string>
+    <string name="target_smart_device_timeout_dismiss">STÄNG</string>
+    <string name="target_smart_device_timeout_title">Fungerar det inte?</string>
+    <string name="terabyteShort">TB</string>
+    <string name="toast_phones_connected">Enheterna är anslutna</string>
+    <string name="toast_reconnect_cable">Koppla in sladden igen</string>
+    <string name="toast_wifi_disconnected">Det går inte att ansluta till enheterna. Dataöverföringen har pausats.</string>
+    <string name="transfer_finished_fragment_description">Det kan ta några minuter</string>
+    <string name="transfer_finished_fragment_readying_device_title">{DEVICE_TYPE,select, PHONE{Telefonen förbereds …}TABLET{Surfplattan förbereds …}other{Enheten förbereds …}}</string>
+    <string name="transfer_finished_fragment_title">Gör klart det sista …</string>
+    <string name="transfer_finished_fragment_work_setup_tile">Enheten förbereds för jobbkonfigurationen …</string>
+    <string name="transfer_summary_fragment_description_for_cable_d2d">Du kan koppla från kabeln</string>
+    <string name="transfer_summary_fragment_description_for_ios_wifi_d2d">Fortsätt med konfigureringen eller följ stegen på din iPhone</string>
+    <string name="transfer_summary_fragment_done_button">Klar</string>
+    <string name="transfer_summary_fragment_dtp_description_for_ios_wifi_d2d">Om du vill kopiera foton och videor från iCloud till Google Foto följer du anvisningarna i appen Byt till Android eller läser mer på <b>g.co/transferfromicloud</b></string>
+    <string name="transfer_summary_fragment_title">Kopieringen är klar</string>
+    <string name="transfer_summary_icloud_data_not_copied">Data från iCloud® kopierades inte</string>
+    <string name="transfer_summary_not_copied">Data har inte kopierats</string>
+    <string name="transfer_summary_nothing_to_copy">Det finns inga objekt på enheten att kopiera</string>
+    <string name="transfer_summary_partial">%1$s/%2$s har kopierats</string>
+    <string name="transferring_fragment_calculating_remaining_time">Återstående tid beräknas …</string>
+    <string name="transferring_fragment_description_final_hold">Se till att enheterna fortsätter att vara anslutna och påslagna</string>
+    <string name="transferring_fragment_disabling_back_key">Det går inte att återgå förrän kopieringen är klar</string>
+    <string name="transferring_fragment_header">Din data kopieras …</string>
+    <string name="transferring_fragment_remaining_time_v2">Cirka %1$s kvar</string>
+    <string name="transferring_fragment_restoring_content">Innehållet återställs …</string>
+    <string name="trust_instructions_trademark_disclaimer">iPhone, iPad, iMessage, iCloud, Safari och iTunes är varumärken som tillhör Apple Inc. och är registrerade i USA och andra länder.</string>
+    <string name="unlock_ios_fragment_description">Lås upp din iPhone® om du vill fortsätta. Se till att den är upplåst under överföringen.</string>
+    <string name="unlock_ios_fragment_title">Lås upp iPhone®</string>
+    <string name="vault_confirm_cancel_message">Din data återställs inte på den nya enheten</string>
+    <string name="vault_confirm_cancel_title">Vill du fortsätta utan att återställa data?</string>
+    <string name="vault_locked_dialog_text">Du har angett fel skärmlås för %s för många gånger. Säkerhetskopian har raderats.</string>
+    <string name="vault_locked_dialog_title">Säkerhetskopiering har tagits bort</string>
+    <string name="whatsapp_chats_not_exported">• WhatsApp-chattar överfördes inte</string>
+    <string name="wifi_settings_button">Wifi-inställningar</string>
+    <string name="work_profile_setup_description">Konfigurera jobbprofilen genom att lägga till ditt jobbkonto på nästa skärm</string>
+    <string name="work_profile_setup_skip">Hoppa över</string>
+    <string name="work_profile_setup_title">Förbered enheten för jobbet</string>
+</resources>

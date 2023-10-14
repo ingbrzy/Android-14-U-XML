@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="androidx_startup">androidx.startup</string>
+    <string name="app_name">ConnMO</string>
+    <string name="call_notification_answer_action">Answer</string>
+    <string name="call_notification_answer_video_action">Video</string>
+    <string name="call_notification_decline_action">Decline</string>
+    <string name="call_notification_hang_up_action">Hang Up</string>
+    <string name="call_notification_incoming_text">Incoming call</string>
+    <string name="call_notification_ongoing_text">Ongoing call</string>
+    <string name="call_notification_screening_text">Screening an incoming call</string>
+    <string name="hello">You are running ConnMO Service!</string>
+    <string name="select_oma_server">Please select the OMA environment the device will be configured for:</string>
+    <string name="select_oma_server_title">Select OMA Server Environment</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

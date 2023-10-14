@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bundle1_color_name">கார்பன்</string>
+    <string name="bundle2_color_name">பேப்பர்</string>
+    <string name="bundle3_color_name">சூரியன்</string>
+    <string name="color_name_monochromatic">ஒற்றை வண்ணம்</string>
+    <string name="default_color_name">கிளாசிக்</string>
+    <string name="fruit1_color_name">மஞ்சள் மற்றும் இரு வண்ணச் சிவப்புத் தட்டு</string>
+    <string name="fruit2_color_name">இரு வண்ணத் தட்டு (பச்சை மற்றும் ஆரஞ்சு)</string>
+    <string name="fruit3_color_name">இரு வண்ணத் தட்டு (நீலம் மற்றும் பச்சை)</string>
+    <string name="fruit4_color_name">இரு வண்ணத் தட்டு (லைட் பர்ப்பிள் மற்றும் நீலம்)</string>
+    <string name="fruit5_color_name">இரு வண்ணத் தட்டு (பிங்க் மற்றும் இண்டிகோ)</string>
+    <string name="rainbow1_color_name">சிவப்பு</string>
+    <string name="rainbow2_color_name">ஆரஞ்சு</string>
+    <string name="rainbow3_color_name">மஞ்சள்</string>
+    <string name="rainbow4_color_name">பச்சை</string>
+    <string name="rainbow5_color_name">நீலம்</string>
+    <string name="rainbow6_color_name">இண்டிகோ</string>
+    <string name="rainbow7_color_name">ஊதா</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="select_logpersist_summaries">
+        <item>Nonaktif</item>
+        <item>Semua buffer log</item>
+        <item>Semua kecuali penyangga log radio</item>
+        <item>khusus buffer log kernel</item>
+    </string-array>
+</resources>

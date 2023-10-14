@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_bar_label">मोबाइल नेटवर्कमा साइन इन गर्नुहोस्</string>
+    <string name="android_system_label">मोबाइलको सेवा प्रदायक छनौट गर्नुहोस्</string>
+    <string name="app_name">सेवा प्रदायकसँग गरिएका कुराकानीहरू</string>
+    <string name="mobile_data_status_notification_channel_name">मोबाइल डेटाको स्थिति</string>
+    <string name="no_data_notification_detail">कृपया आफ्नो सेवा प्रदायक %s लाई सम्पर्क गर्नुहोस्</string>
+    <string name="no_data_notification_id">तपाईंको मोबाइल डेटा निष्क्रिय पारिएको छ</string>
+    <string name="no_mobile_data_connection">%s मार्फत डेटा वा रोमिङ योजना थप्नुहोस्</string>
+    <string name="no_mobile_data_connection_title">कुनै पनि मोबाइल डेटाको जडान उपलब्ध छैन</string>
+    <string name="performance_boost_notification_button_manage">व्यवस्थापन गर्नुहोस्</string>
+    <string name="performance_boost_notification_button_not_now">अहिले होइन</string>
+    <string name="performance_boost_notification_channel">पर्फर्मेन्स बुस्ट</string>
+    <string name="performance_boost_notification_detail">एप प्रयोग गर्दा अझ राम्रो सुविधा पाउन %s को वेबसाइटमा गई विकल्पहरू हेर्नुहोस्</string>
+    <string name="performance_boost_notification_title">तपाईंको सेवा प्रदायकले उपलब्ध गराएका 5G सम्बन्धी विकल्पहरू</string>
+    <string name="portal_notification_detail">%s वेबसाइटमा जानका लागि ट्याप गर्नुहोस्</string>
+    <string name="portal_notification_id">मोबाइल डेटा सकियो</string>
+    <string name="slice_purchase_app_label">पर्फर्मेन्स बुस्ट किन्नुहोस्।</string>
+    <string name="ssl_error_continue">जे भए पनि ब्राउजर मार्फत जारी राख्नुहोस्</string>
+    <string name="ssl_error_example">उदाहरणका लागि, लग इन पृष्ठ देखाइएको संस्थाको नहुन सक्छ।</string>
+    <string name="ssl_error_warning">तपाईंले सामेल हुने प्रयास गरिरहनु भएको नेटवर्कमा सुरक्षा सम्बन्धी समस्याहरू छन्।</string>
+</resources>

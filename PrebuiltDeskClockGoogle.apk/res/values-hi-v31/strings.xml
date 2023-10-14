@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="analog_gadget">ऐनालॉग</string>
+    <string name="digital_gadget">डिजिटल</string>
+    <string name="analog_widget_clover_clock_name">क्लोवर</string>
+    <string name="analog_widget_clover_content_description">स्मार्ट वॉच की ऐसी होम स्क्रीन जो क्लोवर जैसी दिखती है</string>
+    <string name="analog_widget_config_activity_title">घड़ी की होम स्क्रीन चुनें</string>
+    <string name="analog_widget_day_clock_name">दिन</string>
+    <string name="analog_widget_day_content_description">स्मार्ट वॉच की ऐसी होम स्क्रीन जिस पर तारीख की जानकारी मिलती है</string>
+    <string name="analog_widget_numeral_clock_name">संख्या</string>
+    <string name="analog_widget_numeral_content_description">स्मार्ट वॉच की ऐसी होम स्क्रीन जिस पर संख्याएं बड़े साइज़ में दिखती हैं</string>
+    <string name="analog_widget_scallop_clock_name">स्कॉलप</string>
+    <string name="analog_widget_scallop_content_description">स्मार्ट वॉच की ऐसी होम स्क्रीन जिस पर महीने और हफ़्ते के दिन की जानकारी मिलती है</string>
+    <string name="cities_widget_config_activity_subtitle">घड़ी टैब से, शहरों के नाम जोड़े जा सकते हैं</string>
+    <string name="cities_widget_config_activity_subtitle_button">घड़ी ऐप्लिकेशन में शहरों के नाम चुनें</string>
+    <string name="cities_widget_preview_city_london">लंदन</string>
+    <string name="cities_widget_preview_city_mountain_view">माउंटेन व्यू</string>
+    <string name="clock_widget_opaque_label">सॉलिड</string>
+    <string name="clock_widget_transparent_label">ट्रांसपैरंट</string>
+    <string name="digital_appwidget_config_activity_title">चुनें की घड़ी कैसी दिखनी चाहिए</string>
+    <string name="digital_cities_gadget">वर्ल्ड क्लॉक</string>
+    <string name="digital_cities_gadget_description">घड़ी ऐप्लिकेशन में शहर चुनें</string>
+    <string name="digital_stacked_gadget">स्टैक्ड</string>
+    <string name="digital_widgets_preview_alarm">सोम 09:30</string>
+    <string name="stopwatch_gadget_description">घड़ी ऐप्लिकेशन में स्टॉपवॉच को कंट्रोल करें</string>
+</resources>

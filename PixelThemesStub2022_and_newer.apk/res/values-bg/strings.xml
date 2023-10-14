@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bundle1_color_name">Графит</string>
+    <string name="bundle2_color_name">Хартия</string>
+    <string name="bundle3_color_name">Слънце</string>
+    <string name="color_name_monochromatic">Монохроматично</string>
+    <string name="default_color_name">Класически</string>
+    <string name="fruit1_color_name">Двуцветна палитра от жълто и червено</string>
+    <string name="fruit2_color_name">Двуцветна палитра от зелено и оранжево</string>
+    <string name="fruit3_color_name">Двуцветна палитра от синьо и зелено</string>
+    <string name="fruit4_color_name">Двуцветна палитра от светлолилаво и синьо</string>
+    <string name="fruit5_color_name">Двуцветна палитра от розово и индиго</string>
+    <string name="rainbow1_color_name">Червено</string>
+    <string name="rainbow2_color_name">Оранжево</string>
+    <string name="rainbow3_color_name">Жълто</string>
+    <string name="rainbow4_color_name">Зелено</string>
+    <string name="rainbow5_color_name">Синьо</string>
+    <string name="rainbow6_color_name">Индиго</string>
+    <string name="rainbow7_color_name">Виолетово</string>
+</resources>

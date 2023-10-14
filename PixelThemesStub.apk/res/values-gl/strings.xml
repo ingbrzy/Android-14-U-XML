@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bundle1_color_name">Antracita</string>
+    <string name="bundle2_color_name">Papel</string>
+    <string name="bundle3_color_name">Sol</string>
+    <string name="color_name_monochromatic">Monocromático</string>
+    <string name="default_color_name">Clásico</string>
+    <string name="fruit1_color_name">Paleta de dúas cores (amarelo e vermello)</string>
+    <string name="fruit2_color_name">Paleta de dúas cores (verde e laranxa)</string>
+    <string name="fruit3_color_name">Paleta de dúas cores (azul e verde)</string>
+    <string name="fruit4_color_name">Paleta de dúas cores (púrpura claro e azul)</string>
+    <string name="fruit5_color_name">Paleta de dúas cores (rosa e índigo)</string>
+    <string name="rainbow1_color_name">Vermello</string>
+    <string name="rainbow2_color_name">Laranxa</string>
+    <string name="rainbow3_color_name">Amarelo</string>
+    <string name="rainbow4_color_name">Verde</string>
+    <string name="rainbow5_color_name">Azul</string>
+    <string name="rainbow6_color_name">Índigo</string>
+    <string name="rainbow7_color_name">Violeta</string>
+</resources>

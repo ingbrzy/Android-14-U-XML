@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="analog_gadget">Аналоговый</string>
+    <string name="digital_gadget">Цифровой</string>
+    <string name="analog_widget_clover_clock_name">Клевер</string>
+    <string name="analog_widget_clover_content_description">Циферблат в форме клевера</string>
+    <string name="analog_widget_config_activity_title">Выберите циферблат</string>
+    <string name="analog_widget_day_clock_name">Дата</string>
+    <string name="analog_widget_day_content_description">Циферблат с указанием даты</string>
+    <string name="analog_widget_numeral_clock_name">Большие цифры</string>
+    <string name="analog_widget_numeral_content_description">Циферблат с большими цифрами</string>
+    <string name="analog_widget_scallop_clock_name">Узорный</string>
+    <string name="analog_widget_scallop_content_description">Циферблат с указанием дня недели и месяца</string>
+    <string name="cities_widget_config_activity_subtitle">Города можно добавить на вкладке \"Часы\".</string>
+    <string name="cities_widget_config_activity_subtitle_button">Выбрать города в приложении \"Часы\"</string>
+    <string name="cities_widget_preview_city_london">Лондон</string>
+    <string name="cities_widget_preview_city_mountain_view">Маунтин-Вью</string>
+    <string name="clock_widget_opaque_label">Непрозрачный</string>
+    <string name="clock_widget_transparent_label">Прозрачный</string>
+    <string name="digital_appwidget_config_activity_title">Выберите стиль часов</string>
+    <string name="digital_cities_gadget">Мировые часы</string>
+    <string name="digital_cities_gadget_description">Выберите города в приложении \"Часы\".</string>
+    <string name="digital_stacked_gadget">Вертикальный</string>
+    <string name="digital_widgets_preview_alarm">Пн 09:30</string>
+    <string name="stopwatch_gadget_description">Настройте секундомер в приложении \"Часы\".</string>
+</resources>

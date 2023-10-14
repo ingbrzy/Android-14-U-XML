@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="live_transcribe_description">"Okamžitý prepis zaznamenáva reč mikrofónom zariadenia a zobrazuje ju ako text.
+
+Google vaše konverzácie spracúva, ale nikdy neukladá."</string>
+</resources>

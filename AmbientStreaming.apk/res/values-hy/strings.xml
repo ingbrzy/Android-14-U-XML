@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Միջսարքային ծառայություններ</string>
+    <string name="app_name_generic">հավելված</string>
+    <string name="app_stream_error_generic">Սխալի պատճառով չհաջողվեց հեռարձակել հավելվածը</string>
+    <string name="app_stream_init_error_generic">Չհաջողվեց հեռարձակել հավելվածը ձեր Chromebook սարքում</string>
+    <string name="audio_permission_rationale">Հավելվածը հեռարձակելու համար հասանելի դարձրեք խոսափողը</string>
+    <string name="cancel_button_label">Չեղարկել</string>
+    <string name="chromebook_keyboard">Chromebook-ի ստեղնաշար</string>
+    <string name="chromebook_mouse">Chromebook-ի մկնիկ</string>
+    <string name="chromebook_touchscreen">Chromebook-ի հպէկրան</string>
+    <string name="connect_device">Հեռախոսի միացում հեռակա սարքին (%1$s)</string>
+    <string name="decline_button_label">Մերժել</string>
+    <string name="development_notification_channel_name">Ծրագրավորում</string>
+    <string name="device_camera_cannot_access">Հնարավոր չէ բացել սարքի տեսախցիկն այս Chromebook-ից</string>
+    <string name="done_button_label">Պատրաստ է</string>
+    <string name="enable_button_label">Միացնել</string>
+    <string name="foreground_service_notification_channel_name">Ընդհանուր</string>
+    <string name="foreground_service_notification_content">Հպեք՝ կարգավորումները փոխելու համար</string>
+    <string name="foreground_service_notification_title">{0,plural, =1{Միացված է # սարքի}one{Միացված է # սարքի}other{Միացված է # սարքի}}</string>
+    <string name="interactive_streaming_generic_notification">%1$s հավելվածը հեռարձակվում է, և ձեր Chromebook-ի ծանուցումները համաժամացվում են</string>
+    <string name="interactive_streaming_individual_notification">%1$s հավելվածի հեռարձակում և ծանուցումների համաժամացում %2$s հաշվի համար</string>
+    <string name="interactive_streaming_notification">Հեռարձակում ձեր Chromebook-ին</string>
+    <string name="keyboard_name">Մի քանի սարքի միացող ստեղնաշար</string>
+    <string name="lock_screen_notif_warning_content">Միացրեք ծանուցումները կողպէկրանին</string>
+    <string name="lock_screen_notif_warning_title">Ծանուցումները չեն վերահասցեավորվի</string>
+    <string name="mouse_name">Միաժամանակ մի քանի սարքի միացող մկնիկ</string>
+    <string name="new_connection_confirm">Հաստատել</string>
+    <string name="new_connection_deny">Մերժել</string>
+    <string name="new_connection_title">Հաստատել միացումը</string>
+    <string name="notification_access_missing">Հասանելի դարձրեք ծանուցումները</string>
+    <string name="notification_access_missing_description">Ծանուցումները Chromebook-ում բացելու համար հասանելի դարձրեք դրանք</string>
+    <string name="notification_channel_name">Ընդհանուր</string>
+    <string name="notification_listener_label">Հեռարձակել հավելվածները Chromebook-ում</string>
+    <string name="open_source_licenses">Բաց կոդով ծրագրակազմի լիցենզիաներ</string>
+    <string name="phone_permission_rationale">Հավելվածը հեռարձակելու համար հասանելի դարձրեք հեռախոսի գործառույթը</string>
+    <string name="prompt_switch_languages">Հեռախոսի Gboard-ի լեզուն փոխելու համար սեղմեք Shift + բացատ</string>
+    <string name="settings_button">Կարգավորումներ</string>
+    <string name="stop_sharing_button">Ավարտել հեռարձակումը</string>
+    <string name="stream_termination_proximity_warning">Հեռախոսը շատ հեռու է։ Մոտեցրեք այն՝ հեռարձակումը շարունակելու համար։</string>
+    <string name="substitute_app_name">Համակարգ</string>
+    <string name="summary_disable_wirecutter">Անջատել</string>
+    <string name="summary_enable_wirecutter">Միացնել</string>
+    <string name="touchscreen_name">Միաժամանակ մի քանի սարքի միացող հպէկրան</string>
+</resources>

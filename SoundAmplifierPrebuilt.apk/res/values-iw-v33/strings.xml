@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sound_amplifier_html_description">מגבר הקול מגביר צלילים חלשים בלי לגרום לצלילים חזקים להישמע רועשים מדי.&lt;br/>&lt;br/> &lt;b>איך להשתמש במגבר הקול&lt;/b>&lt;br/> 1. מחברים אוזניות חוטיות או אוזניות Bluetooth‏.&lt;br/> 2. מפעילים את מגבר הקול.</string>
+    <string name="sound_amplifier_intro">כדי לשפר את איכות האודיו בסביבה ובמכשיר שלך, מומלץ להשתמש במגבר הקול עם אוזניות</string>
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_install_failed_multi_app_desc">
+        <item quantity="other">Ukusetha akukwazi ukuqedelelwa njengoba izinhlelo zokusebenza ezingu-%1$d ezidingekayo zihlulekile ukufakwa. Sicela uxhumane nomlawuli wesistimu yakho ngokuqondile.</item>
+        <item quantity="one">Ukusetha akukwazi ukuqedelelwa njengoba izinhlelo zokusebenza ezingu-%1$d ezidingekayo zihlulekile ukufakwa. Sicela uxhumane nomlawuli wesistimu yakho ngokuqondile.</item>
+    </plurals>
+    <plurals name="app_install_failure_title">
+        <item quantity="other">Ayikwazi ukufaka izinhlelo zokusebenza</item>
+        <item quantity="one">Ayikwazi ukufaka izinhlelo zokusebenza</item>
+    </plurals>
+    <plurals name="app_install_progress_desc">
+        <item quantity="other">%1$d yezinhlelo zokusebenza ezingu-%2$d ezifakiwe</item>
+        <item quantity="one">%1$d yezinhlelo zokusebenza ezingu-%2$d ezifakiwe</item>
+    </plurals>
+    <plurals name="app_uninstall_button">
+        <item quantity="other">Khipha izinhlelo zokusebenza</item>
+        <item quantity="one">Khipha izinhlelo zokusebenza</item>
+    </plurals>
+    <plurals name="days_left_message">
+        <item quantity="other">&lt;annotation id="numeric_time_left">^1&lt;/annotation> izinsuku ezisele</item>
+        <item quantity="one">&lt;annotation id="numeric_time_left">^1&lt;/annotation> izinsuku ezisele</item>
+    </plurals>
+    <plurals name="hours_left_message">
+        <item quantity="other">&lt;annotation id="numeric_time_left">^1&lt;/annotation> amahora asele</item>
+        <item quantity="one">&lt;annotation id="numeric_time_left">^1&lt;/annotation> amahora asele</item>
+    </plurals>
+    <plurals name="number_of_additional_apps">
+        <item quantity="other">Ama-app engeziwe (%1$d)</item>
+        <item quantity="one">Ama-app engeziwe (%1$d)</item>
+    </plurals>
+    <plurals name="number_of_required_apps">
+        <item quantity="other">Ama-app adingekayo (%1$d)</item>
+        <item quantity="one">Ama-app adingekayo (%1$d)</item>
+    </plurals>
+    <plurals name="policy_apps_list_summary">
+        <item quantity="other">ama-app okusebenza angu-%d awakwazi ukukhishwa</item>
+        <item quantity="one">ama-app okusebenza angu-%d awakwazi ukukhishwa</item>
+    </plurals>
+    <plurals name="preinstalled_apps">
+        <item quantity="other">%1$d yezinhlelo zokusebenza ezingu-%2$d ezifakiwe</item>
+        <item quantity="one">%1$d yezinhlelo zokusebenza ezingu-%2$d ezifakiwe</item>
+    </plurals>
+    <plurals name="readable_name_applications">
+        <item quantity="other">%1$d izinhlelo zokusebenza ezitholakalayo (%2$d okufakiwe, %3$d okukhutshaziwe)</item>
+        <item quantity="one">%1$d izinhlelo zokusebenza ezitholakalayo (%2$d okufakiwe, %3$d okukhutshaziwe)</item>
+    </plurals>
+</resources>

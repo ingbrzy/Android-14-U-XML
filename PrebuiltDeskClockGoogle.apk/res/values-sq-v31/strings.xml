@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="analog_gadget">Analoge</string>
+    <string name="digital_gadget">Dixhitale</string>
+    <string name="analog_widget_clover_clock_name">Tërfil</string>
+    <string name="analog_widget_clover_content_description">Fushë ore në formë tërfili</string>
+    <string name="analog_widget_config_activity_title">Zgjidh një fushë ore</string>
+    <string name="analog_widget_day_clock_name">Dita</string>
+    <string name="analog_widget_day_content_description">Fushë ore me ditën e muajit</string>
+    <string name="analog_widget_numeral_clock_name">Numra</string>
+    <string name="analog_widget_numeral_content_description">Fushë ore me numra të mëdhenj</string>
+    <string name="analog_widget_scallop_clock_name">Guaskë</string>
+    <string name="analog_widget_scallop_content_description">Fushë ore me ditën e javës dhe muajin</string>
+    <string name="cities_widget_config_activity_subtitle">Qytetet mund të shtohen nga skeda \"Ora\"</string>
+    <string name="cities_widget_config_activity_subtitle_button">Zgjidh qytetet në aplikacionin \"Ora\"</string>
+    <string name="cities_widget_preview_city_london">Londër</string>
+    <string name="cities_widget_preview_city_mountain_view">Mountain View</string>
+    <string name="clock_widget_opaque_label">Njëngjyrëshe</string>
+    <string name="clock_widget_transparent_label">Transparente</string>
+    <string name="digital_appwidget_config_activity_title">Zgjidh stilin e orës</string>
+    <string name="digital_cities_gadget">Bota</string>
+    <string name="digital_cities_gadget_description">Zgjidh qytetet në aplikacionin \"Ora\"</string>
+    <string name="digital_stacked_gadget">E shtresuar</string>
+    <string name="digital_widgets_preview_alarm">E hënë, 09:30</string>
+    <string name="stopwatch_gadget_description">Kontrollo kronometrin në aplikacionin \"Ora\"</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_retaildemoCommunication">Аппад Жижиглэнгийн жишээ үйлчилгээтэй харилцан үйлдэл хийхийг зөвшөөрнө. Энэ зөвшөөрлийг зөвхөн Жижиглэнгийн жишээнд олгох ёстой. Энэ зөвшөөрлийг олгосон аппууд Жижиглэнгийн жишээ горимд зориулсан үйлдлийг идэвхжүүлэх боломжтой.</string>
+    <string name="permlab_retaildemoCommunication">Жижиглэнгийн жишээ харилцаа холбоо</string>
+    <string name="retaildemo_preload_app_name">Жижиглэнгийн жишээ үйлчилгээ</string>
+</resources>

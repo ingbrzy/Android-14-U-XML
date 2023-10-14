@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">Yukarı git</string>
+    <string name="abc_action_mode_done">Bitti</string>
+    <string name="abc_capital_off">KAPAT</string>
+    <string name="abc_capital_on">AÇ</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">sil</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Üst Karakter+</string>
+    <string name="abc_menu_space_shortcut_label">boşluk</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menü+</string>
+    <string name="abc_search_hint">Ara…</string>
+    <string name="abc_searchview_description_clear">Sorguyu temizle</string>
+    <string name="abc_searchview_description_search">Ara</string>
+    <string name="abc_searchview_description_submit">Sorguyu gönder</string>
+    <string name="abc_searchview_description_voice">Sesli arama</string>
+    <string name="abc_toolbar_collapse_description">Daralt</string>
+    <string name="activation_code_scan_button">Bunun yerine QR kodu tarayın</string>
+    <string name="activation_code_text">Sağlayıcınızdan aldığınız kodu girin</string>
+    <string name="activation_code_title">Ağ hizmeti sağlayıcısı ekle</string>
+    <string name="add_profile_title">Operatör ekle</string>
+    <string name="asked_for_eid">Mağazada mı etkinleştiriliyor? Bir temsilci sizden SIM kimliğinizi isterse %1$s.</string>
+    <string name="back_button_error_msg">Hatayla karşılaşmamak için, kurulum devam ederken bu ekrandan çıkılamaz</string>
+    <string name="body_check_qr_code_or_go_back">Doğru QR kodunu taradığınızdan emin olun.</string>
+    <string name="body_device_is_locked">Cihazınız %1$s tarafından kilitlendi.</string>
+    <string name="body_device_is_locked_no_name">Cihazınız kilitlendi.</string>
+    <string name="body_issue_with_sim_profile">"SIM'inizle ilgili bir sorun oluştu. Sorunu düzeltmek için %2$s numaralı telefondan %1$s ile iletişime geçin."</string>
+    <string name="body_issue_with_sim_profile_maximum_attempts">Maksimum deneme sayısına ulaştınız. Bağlanmayla ilgili yardım almak için %2$s numaralı telefondan %1$s ile iletişime geçin.</string>
+    <string name="body_issue_with_sim_profile_maximum_attempts_no_name">Maksimum deneme sayısına ulaştınız. Bağlanmayla ilgili yardım almak için operatörünüzle iletişime geçin.</string>
+    <string name="body_issue_with_sim_profile_maximum_attempts_no_tel">Maksimum deneme sayısına ulaştınız. Bağlanmayla ilgili yardım almak için %1$s ile iletişime geçin.</string>
+    <string name="body_issue_with_sim_profile_no_name">"SIM'inizle ilgili bir sorun oluştu. Sorunu düzeltmek için operatörünüzle iletişime geçin."</string>
+    <string name="body_issue_with_sim_profile_no_tel">"SIM'inizle ilgili bir sorun oluştu. Sorunu düzeltmek için %1$s ile iletişime geçin."</string>
+    <string name="body_issue_with_sim_profile_used_on_another_device">Bu SIM başka bir cihazda kullanılıyor. Sorunu düzeltmek için %2$s numaralı telefondan %1$s ile iletişime geçin.</string>
+    <string name="body_issue_with_sim_profile_used_on_another_device_no_name">Bu SIM başka bir cihazda kullanılıyor. Sorunu düzeltmek için operatörünüzle iletişime geçin.</string>
+    <string name="body_issue_with_sim_profile_used_on_another_device_no_tel">Bu SIM başka bir cihazda kullanılıyor. Sorunu düzeltmek için %1$s ile iletişime geçin.</string>
+    <string name="body_make_sure_not_already_downloaded">"Seçilen SIM'in bu veya başka bir cihaza indirilmediğinden emin olun.
+
+Daha fazla yardım için %2$s numaralı telefondan %1$s ile iletişime geçin."</string>
+    <string name="body_make_sure_not_already_downloaded_no_name">"Seçilen SIM'in bu veya başka bir cihaza indirilmediğinden emin olun.
+
+Daha fazla yardım için operatörünüzle iletişime geçin."</string>
+    <string name="body_make_sure_not_already_downloaded_no_tel">"Seçilen SIM'in bu veya başka bir cihaza indirilmediğinden emin olun.
+
+Daha fazla yardım için %1$s ile iletişime geçin."</string>
+    <string name="body_need_wifi_connection">"eSIM'i indirmek için kablosuz bağlantıya ihtiyacınız var."</string>
+    <string name="body_need_wifi_or_mobile_connection">"eSIM'i indirmek için kablosuz veya mobil bağlantıya ihtiyacınız var."</string>
+    <string name="body_not_enough_space_to_download">"Bu SIM'i indirmek için yeterli alan yok."</string>
+    <string name="body_sim_has_expired">"eSIM'inizin süresi doldu.
+Yeni bir SIM edinmek için %2$s numaralı telefondan %1$s ile iletişime geçin."</string>
+    <string name="body_sim_has_expired_no_name">"eSIM'inizin süresi doldu.
+Yeni bir SIM edinmek için operatörünüzle iletişime geçin."</string>
+    <string name="body_sim_has_expired_no_tel">"eSIM'inizin süresi doldu.
+Yeni bir SIM edinmek için %1$s ile iletişime geçin."</string>
+    <string name="body_something_went_wrong">Telefon numaranız etkinleştirilmeye çalışılırken sorun oldu.</string>
+    <string name="bottomsheet_action_expand_halfway">Yarım genişlet</string>
+    <string name="button_text_close">Kapat</string>
+    <string name="button_text_settings">Ayarlar</string>
+    <string name="cancel_button">İptal</string>
+    <string name="cant_get_eid_please_contact_carrier">Bir hata oluştuğundan cihazınızın SIM kimliği numarası şu anda bulunamadı. Yardım için lütfen operatörünüzle iletişim kurun.</string>
+    <string name="carrier_confirm_subtitle">Ağa zaten kaydolmuş olmanız gerekir</string>
+    <string name="carrier_confirm_title">Ağınızı onaylayın</string>
+    <string name="carrier_selection_msg">Hesabınızın olduğu ve bu telefonda kullanmak istediğiniz operatörü seçin</string>
+    <string name="carrier_selection_psim">Yerine bir SIM kullanın</string>
+    <string name="carrier_selection_title">Operatörünü onaylayın</string>
+    <string name="choose_carrier_title">Kullanılacak operatörleri seçin</string>
+    <string name="choose_number_activating">Etkinleştiriliyor…</string>
+    <string name="choose_number_could_not_activate">Şu anda etkinleştirilemedi</string>
+    <string name="choose_number_error_no_space">"Diğer numaraları veya ağları kullanmak için öncelikle Ayarlar'dan en az 1 mevcut numarayı silerek yer boşaltmanız gerekecektir"</string>
+    <string name="choose_number_error_perm">Diğer numaraları veya ağları kullanmak isterseniz yardım için ağ hizmeti sağlayıcılarınızla iletişime geçin</string>
+    <string name="choose_number_error_temp">"Diğer numaraları veya ağları kullanmak için bunları daha sonra Ayarlar'da etkinleştirin"</string>
+    <string name="choose_number_item_summary_unknown">Bilinmeyen numara</string>
+    <string name="choose_number_subtitle">{count,plural, =1{Bu cihaza 1 telefon numarası eklenmiş, ancak tek seferde yalnızca 1 numara kullanılabilir}other{Bu cihaza # telefon numarası eklenmiş, ancak tek seferde yalnızca 1 numara kullanılabilir}}</string>
+    <string name="choose_number_title">Kullanılacak bir numara seçin</string>
+    <string name="choose_second_number_subtitle">Bu cihazda mevcut numaranızla birlikte ikinci bir telefon numarası kullanabilirsiniz</string>
+    <string name="choose_second_number_subtitle_with_psim_carrier_name">Bu cihazda %1$s numaranızla birlikte ikinci bir telefon numarası kullanabilirsiniz</string>
+    <string name="choose_second_number_subtitle_with_psim_phone_number">Bu cihazda %1$s ile birlikte ikinci bir telefon numarası kullanabilirsiniz</string>
+    <string name="choose_second_number_title">İkinci bir numara seçin</string>
+    <string name="common_google_play_services_enable_button">Etkinleştir</string>
+    <string name="common_google_play_services_enable_text">Google Play hizmetlerini etkinleştirmezseniz %1$s çalışmaz.</string>
+    <string name="common_google_play_services_enable_title">Google Play hizmetlerini etkinleştirin</string>
+    <string name="common_google_play_services_install_button">Yükle</string>
+    <string name="common_google_play_services_install_text">%1$s, şu anda cihazınızda bulunmayan Google Play hizmetleri olmadan çalışmaz.</string>
+    <string name="common_google_play_services_install_title">Google Play hizmetlerini edinin</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play hizmetlerinin kullanılabilirliği</string>
+    <string name="common_google_play_services_notification_ticker">Google Play Hizmetleri hatası</string>
+    <string name="common_google_play_services_unknown_issue">%1$s, Google Play hizmetleriyle ilgili sorun yaşıyor. Lütfen tekrar deneyin.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s, Google Play hizmetleri olmadan çalışmaz ve bu hizmetler cihazınız tarafından desteklenmiyor.</string>
+    <string name="common_google_play_services_update_button">Güncelle</string>
+    <string name="common_google_play_services_update_text">Google Play hizmetlerini güncellemezseniz %1$s çalışmayacak.</string>
+    <string name="common_google_play_services_update_title">Google Play hizmetlerini güncelleyin</string>
+    <string name="common_google_play_services_updating_text">%1$s, şu anda güncellenmekte olan Google Play hizmetleri olmadan çalışmaz.</string>
+    <string name="common_google_play_services_wear_update_text">Google Play hizmetlerinin yeni sürümü gerekiyor. Kendisini kısa süre içinde güncelleyecektir.</string>
+    <string name="common_open_on_phone">Telefonda aç</string>
+    <string name="complete_service_setup_text">%1$s operatörünün hizmetini etkinleştirdiniz</string>
+    <string name="complete_service_setup_title">%1$s kurulumu tamamlandı</string>
+    <string name="complete_update_esim_notification_body_text">Yazılım güncellemesini tamamlamak için dokunun</string>
+    <string name="complete_update_esim_notification_title">Mobil ağınıza bağlanmayı tamamlayın</string>
+    <string name="confirm_acti_no_space_sub1">"Diğer telefon numaralarını kullanmak için öncelikle bu cihazdaki mevcut numaraları silerek yer boşaltmanız gerekecektir. Bunu daha sonra Ayarlar'da yapabilirsiniz."</string>
+    <string name="confirm_acti_no_space_sub1_multi">"Diğer telefon numaralarını veya ağlarını kullanmak için öncelikle bu cihazdaki mevcut numaraları silerek yer boşaltmanız gerekecektir. Bunu daha sonra Ayarlar'da yapabilirsiniz."</string>
+    <string name="confirm_acti_perm_error_sub1">Diğer telefon numaralarını kullanmayla ilgili yardım almak için %2$s numaralı telefon üzerinden %1$s ile iletişim kurun. Bu cihazın SIM kimliği numarasına ihtiyacınız olacak:</string>
+    <string name="confirm_acti_perm_error_sub1_multi">Diğer numaraları veya ağları kullanmayla ilgili yardım almak için %2$s üzerinden %1$s ile iletişim kurun. Bu cihazın SIM kimliği numarasına ihtiyacınız olacak:</string>
+    <string name="confirm_acti_perm_error_sub1_multi_no_carrier_name">Diğer numaraları veya ağları kullanmak isterseniz yardım için ağ hizmeti sağlayıcınızla iletişime geçin. Bu cihazın SIM kimliği numarasına ihtiyacınız olacak.</string>
+    <string name="confirm_acti_perm_error_sub1_multi_no_phone">Diğer numaraları veya ağları kullanmayla ilgili yardım almak için %1$s ile iletişim kurun. Bu cihazın SIM kimliği numarasına ihtiyacınız olacak:</string>
+    <string name="confirm_acti_perm_error_sub1_no_carrier_name">Diğer numaraları kullanmak isterseniz yardım için ağ hizmeti sağlayıcınızla iletişime geçin. Bu cihazın SIM kimliği numarasına ihtiyacınız olacak.</string>
+    <string name="confirm_acti_perm_error_sub1_no_eid">Diğer telefon numaralarını kullanmayla ilgili yardım almak için lütfen %2$s numaralı telefon üzerinden %1$s ile iletişim kurun.</string>
+    <string name="confirm_acti_perm_error_sub1_no_eid_multi">Diğer numaraları veya ağları kullanmayla ilgili yardım almak için %2$s üzerinden %1$s ile iletişim kurun</string>
+    <string name="confirm_acti_perm_error_sub1_no_eid_multi_no_phone">Diğer numaraları veya ağları kullanmayla ilgili yardım almak için %1$s ile iletişim kurun</string>
+    <string name="confirm_acti_perm_error_sub1_no_eid_no_carrier_name">Diğer numaraları kullanmayla ilgili yardım almak için ağ hizmeti sağlayıcınızla iletişim kurun</string>
+    <string name="confirm_acti_perm_error_sub1_no_eid_no_phone">Diğer numaraları kullanmayla ilgili yardım almak için %1$s ile iletişim kurun</string>
+    <string name="confirm_acti_perm_error_sub1_no_phone">Diğer numaraları kullanmak için %1$s ile iletişim kurarak yardım alın. Bu cihazın SIM kimliği numarasına ihtiyacınız olacak:</string>
+    <string name="confirm_acti_success_sub_title">%1$s kullanıma hazır olmalıdır</string>
+    <string name="confirm_acti_success_sub_title_no_phone">Telefon numaranız kullanıma hazır olmalıdır</string>
+    <string name="confirm_acti_success_sub_title_w_app">%1$s telefon numarasını etkinleştirmeyi tamamlamak için %2$s uygulamasını indirmeniz gerekir. Şimdilik telefonunuzun kurulumunu tamamlayalım.</string>
+    <string name="confirm_acti_success_sub_title_w_app_no_name">%1$s telefon numarasını etkinleştirmeyi tamamlamak için ağ hizmeti sağlayıcınızın uygulamasını indirmeniz gerekir. Şimdilik telefonunuzun kurulumunu tamamlayalım.</string>
+    <string name="confirm_acti_success_sub_title_w_app_no_name_setting">%1$s telefon numarasını etkinleştirmeyi tamamlamak için ağ hizmeti sağlayıcınızın uygulamasını indirmeniz gerekir</string>
+    <string name="confirm_acti_success_sub_title_w_app_no_phone">Telefon numaranızı etkinleştirmeyi tamamlamak için %1$s uygulamasını indirmeniz gerekir. Şimdilik telefonunuzun kurulumunu tamamlayalım.</string>
+    <string name="confirm_acti_success_sub_title_w_app_no_phone_no_name">Telefon numaranızı etkinleştirmeyi tamamlamak için ağ hizmeti sağlayıcınızın uygulamasını indirmeniz gerekir. Şimdilik telefonunuzun kurulumunu tamamlayalım.</string>
+    <string name="confirm_acti_success_sub_title_w_app_no_phone_no_name_setting">Telefon numaranızı etkinleştirmeyi tamamlamak için ağ hizmeti sağlayıcınızın uygulamasını indirmeniz gerekir</string>
+    <string name="confirm_acti_success_sub_title_w_app_no_phone_setting">Telefon numaranızı etkinleştirmeyi tamamlamak için %1$s uygulamasını indirmeniz gerekir</string>
+    <string name="confirm_acti_success_sub_title_w_app_setting">%1$s telefon numarasını etkinleştirmeyi tamamlamak için %2$s uygulamasını indirmeniz gerekir</string>
+    <string name="confirm_acti_success_title">%1$s ağına bağlandı</string>
+    <string name="confirm_acti_success_title_no_carrier_name">Ağınız etkin durumda</string>
+    <string name="confirm_acti_success_title_with_app">%1$s adlı operatöre daha sonra bağlanın</string>
+    <string name="confirm_acti_success_title_with_app_no_name">Ağınıza daha sonra bağlanın</string>
+    <string name="confirm_acti_temp_error_sub1">"Diğer numaraları kullanmak için bunları daha sonra Ayarlar'da etkinleştirin"</string>
+    <string name="confirm_acti_temp_error_sub1_multi">"Diğer numaraları veya ağları kullanmak için bunları daha sonra Ayarlar'da etkinleştirin"</string>
+    <string name="confirm_code_try_again">Yanlış kod. Tekrar deneyin.</string>
+    <string name="confirm_transfer_single_carrier_dsds_msg">%1$s telefon numarası aktarıldıktan sonra artık eski cihazınızda çalışmaz. Kurulumu tamamladıktan sonra SIM kart takarak ikinci bir numara aktarabilirsiniz.</string>
+    <string name="confirm_transfer_single_carrier_msg">%1$s telefon numarası aktarıldıktan sonra artık eski cihazınızda çalışmaz</string>
+    <string name="confirm_transfer_single_carrier_title">%1$s telefon numarası aktarılsın mı?</string>
+    <string name="confirmation_code_body_text">Operatörünüzün gönderdiği bir doğrulama kodunuz olmalı. Ağa bağlanmak için bu kodu girin.</string>
+    <string name="confirmation_code_body_text_with_carrier">%1$s tarafından gönderilmiş bir doğrulama kodunuz olmalı. Ağa bağlanmak için bu kodu girin.</string>
+    <string name="confirmation_code_title">Doğrulama kodunu girin</string>
+    <string name="confirmation_code_what">Bu nedir?</string>
+    <string name="contact_carrier_description">"SIM'inizi kurmak için %2$s numaralı telefondan %1$s ile iletişime geçmeniz gerekir."</string>
+    <string name="contact_carrier_description_eid">SIM kimliği numarası.</string>
+    <string name="contact_carrier_description_eid_additional">"
+
+Bu cihazla ilgili olarak aşağıdaki bilgilere ihtiyacınız olabilir:"</string>
+    <string name="contact_carrier_title">%1$s ile iletişime geçin</string>
+    <string name="continue_button">Devam</string>
+    <string name="copy">Kopyala</string>
+    <string name="customer_service_activate_service">Müşteri hizmetleri temsilcisi, hizmeti etkinleştirmeye yardımcı olmak için bu SIM kimliği numarasını kullanabilir:</string>
+    <string name="data_plan_select_subtitle">Telefon numarası aktarıldıktan sonra artık eski cihazınızda çalışmayacaktır</string>
+    <string name="data_plan_select_title">Aktarılacak bir numara seçin</string>
+    <string name="def_notif_activating_title">%1$s telefon numaranız etkinleştiriliyor…</string>
+    <string name="def_notif_activation_fail_subtitle">Ayrıntıları görmek için dokunun</string>
+    <string name="def_notif_activation_fail_title">%1$s telefon numaranız etkinleştirilemedi</string>
+    <string name="def_notif_activation_success_dsds_subtitle">Arama, kısa mesaj gönderme ve veri tercihlerinizi belirleyin</string>
+    <string name="def_notif_activation_success_dsds_title">Telefon numaralarınız kullanıma hazır olmalıdır</string>
+    <string name="def_notif_activation_success_title">%1$s telefon numaranız etkinleştirildi</string>
+    <string name="default_display_name">SIM</string>
+    <string name="default_profile_nickname_format">%1$s %2$d</string>
+    <string name="deferred_setup_notification_description">Ready to connect to mobile network</string>
+    <string name="deferred_setup_notification_title">Set you your %1$s SIM</string>
+    <string name="detail_contact_carrier_for_more_help">Daha fazla yardım için operatörünüzle iletişime geçin.</string>
+    <string name="detail_contact_carrier_to_unlock">Cihazın kilidinin açılıp açılamayacağını öğrenmek için %2$s numaralı telefondan %1$s ile iletişime geçin.</string>
+    <string name="detail_contact_carrier_to_unlock_no_name">Cihazın kilidinin açılıp açılamayacağını öğrenmek için operatörünüzle iletişime geçin.</string>
+    <string name="detail_contact_carrier_to_unlock_no_tel">Cihazın kilidinin açılıp açılamayacağını öğrenmek için %1$s ile iletişime geçin.</string>
+    <string name="detail_delete_a_profile_before_retrying">"Yer açmak için Ayarlar'a gidip bir SIM'i silin. Daha sonra tekrar deneyin."</string>
+    <string name="detail_may_need_eid_number">SIM kimliği: %1$s</string>
+    <string name="detail_provide_info_to_carrier">"Operatörünüze şu bilgileri sağlayabilirsiniz:
+%1$s
+%2$s"</string>
+    <string name="detail_try_adding_again">Bağlandıktan sonra tekrar bir mobil ağ eklemeyi deneyin.</string>
+    <string name="disable_carrier_dialog_text">"Bu cihazın ağ bağlantısı hemen kesilecek.
+
+Bu işlem mobil hizmet planlarını iptal etmeyecektir."</string>
+    <string name="disable_carrier_dialog_text_with_carrier">"Bu cihazın %1$s bağlantısı hemen kesilecek.
+
+Bu işlem mobil hizmet planlarını iptal etmeyecektir."</string>
+    <string name="disable_carrier_dialog_title">Operatör devre dışı bırakılsın mı?</string>
+    <string name="disable_fail_text">Bir hata oluştu ve operatörünüz devre dışı bırakılamadı.</string>
+    <string name="disable_fail_title">Operatör devre dışı bırakılamıyor</string>
+    <string name="disable_profile_title">Devre dışı bırak</string>
+    <string name="disabled_profiles_title">Kullanılabilir operatörler</string>
+    <string name="disabling_carrier">Operatör devre dışı bırakılıyor...</string>
+    <string name="done_button">Bitti</string>
+    <string name="download_complete_text">"Bu SIM'i etkinleştirmek için Ayarlar'a gidin"</string>
+    <string name="download_complete_text_with_carrier">"%1$s hizmetini etkinleştirmek için Ayarlar'a gidin"</string>
+    <string name="download_complete_title">eSIM indirildi</string>
+    <string name="download_esim_button">Download eSIM</string>
+    <string name="download_fail_dialog_text">Bir hata nedeniyle eSIM indirilemiyor. Tekrar deneyin ve sorun devam ederse %1$s ile iletişime geçin.</string>
+    <string name="download_fail_dialog_text_no_carrier_name">Bir hata nedeniyle eSIM indirilemiyor. Tekrar deneyin ve sorun devam ederse operatörünüzle iletişime geçin.</string>
+    <string name="download_fail_dialog_title">eSIM indirilemiyor</string>
+    <string name="download_sub_multi_carriers_text">{count,plural, =1{%1$s ve diğer 1 operatörden &lt;b>%2$d numarayı &lt;/b> alıyoruz. Bu işlem biraz zaman alabilir.}other{%1$s adlı operatörden &lt;b>%2$d numarayı &lt;/b> ve diğer operatörlerden %3$d numarayı alıyoruz. Bu işlem biraz zaman alabilir.}}</string>
+    <string name="download_sub_text">{count,plural, =1{%1$s adlı operatörden numaranızı alıyoruz. Bu işlem biraz zaman alabilir.}other{%1$s adlı operatörden &lt;b>%2$d numarayı&lt;/b> alıyoruz. Bu işlem biraz zaman alabilir.}}</string>
+    <string name="download_sub_title">{count,plural, =1{Numaranız ekleniyor…}other{Numaralarınız ekleniyor…}}</string>
+    <string name="download_sub_transform_title">Hizmet kontrol ediliyor…</string>
+    <string name="download_switch_confirm_mep_dialog_message">"Bu cihazda aynı anda 2 SIM etkin durumda olabilir. Farklı SIM indirip kullanmak için etkin bir SIM'i devre dışı bırakın."</string>
+    <string name="download_switch_confirm_mep_dialog_title">"Devam etmek için SIM'i devre dışı bırakma"</string>
+    <string name="download_web_sub_text">Bu işlem bir veya iki dakika, bazen daha uzun sürer</string>
+    <string name="download_web_sub_title">Hizmet kuruluyor…</string>
+    <string name="downloading_no_carrier_name_title">eSIM indiriliyor…</string>
+    <string name="downloading_with_carrier_name_title">%1$s operatörüne ait eSIM indiriliyor…</string>
+    <string name="dsds_activation_failure_body_msg1">"SIM'i çıkarıp tekrar yerleştirmeyi deneyin. Sorun devam ederse cihazınızı yeniden başlatın."</string>
+    <string name="dsds_activation_failure_body_msg2">"SIM'i tekrar açmayı deneyin. Sorun devam ederse cihazınızı yeniden başlatın."</string>
+    <string name="dsds_activation_failure_title">SIM etkinleştirilemiyor</string>
+    <string name="dsds_activation_text">SIM etkinleştiriliyor…</string>
+    <string name="dsds_activation_text_in_esim_activation">Güncelleniyor…</string>
+    <string name="dsds_choose_number_text">Bu cihazda %1$d telefon numarası var, ancak tek seferde yalnızca bir numara kullanılabilir</string>
+    <string name="dsds_choose_number_title">Kullanılacak bir numara seçin</string>
+    <string name="dsds_choose_second_number_text">Bu cihazda aynı anda 2 telefon numarası kullanabilirsiniz. %1$s zaten etkin durumda.</string>
+    <string name="dsds_choose_second_number_title">İkinci bir numara seçme</string>
+    <string name="dsds_learn_more_button">Daha fazla bilgi</string>
+    <string name="dsds_notification_after_reboot_text">SIM ayarlarını güncellemek için dokunun</string>
+    <string name="dsds_notification_after_reboot_text_carrier">%1$s ayarlarını güncellemek için dokunun</string>
+    <string name="dsds_notification_after_reboot_title_carrier">%1$s etkin durumda</string>
+    <string name="dsds_notification_after_reboot_title_phone">%1$s etkin durumda</string>
+    <string name="dsds_notification_after_suw_text">"Etkin SIM'inizi seçin veya tek seferde 2 SIM kullanın"</string>
+    <string name="dsds_notification_after_suw_title">Diğer SIM kartınızın kurulumunu yapın</string>
+    <string name="dsds_switch_dialog_no_switch_text">"Mobil veri, arama özellikleri ve SMS'i daha sonra kullanmak için ağ ayarlarınıza gidin"</string>
+    <string name="dsds_switch_dialog_no_switch_title">Şu anda etkin SIM yok</string>
+    <string name="dsds_switch_dialog_progress_text">%1$s operatörüne geçiliyor…</string>
+    <string name="dsds_switch_dialog_text">Mobil veri, aramalar ve SMS için %1$s kullanılacak.</string>
+    <string name="dsds_switch_dialog_title">%1$s kullanılsın mı?</string>
+    <string name="eid_not_found">Cihaz SIM kimliği bulunamadı</string>
+    <string name="eid_number">Ayrıntıları göster</string>
+    <string name="eid_qr_code_dialog_error_msg">SIM kimliği için QR kodu kullanılamıyor.</string>
+    <string name="eid_qr_code_dialog_title">Cihazınızın SIM kimliği</string>
+    <string name="enable_carrier_dialog_text">"Bu cihaz, %2$s yerine %1$s operatörüne bağlanacak.
+
+Bu işlem, mobil hizmet planlarını iptal etmeyecektir."</string>
+    <string name="enable_carrier_dialog_text_from_removable">"Bu cihaz takılı SIM kart yerine %1$s operatörüne bağlanacak.
+
+Bu işlem, mobil hizmet planlarını iptal etmeyecektir."</string>
+    <string name="enable_carrier_dialog_text_to_removable">"Bu cihaz %1$s yerine, takılı SIM karta bağlanacak.
+
+Bu işlem, mobil hizmet planlarını iptal etmeyecektir."</string>
+    <string name="enable_carrier_dialog_title">Operatör değiştirilsin mi?</string>
+    <string name="enable_fail_text">Bir hata nedeniyle operatöre geçiş yapılamıyor.</string>
+    <string name="enable_fail_title">Operatöre geçiş yapılamıyor</string>
+    <string name="enable_profile_title">Etkinleştir</string>
+    <string name="enabling_carrier">Ağa bağlanıyor…</string>
+    <string name="enter_manually_button">Manuel olarak girin.</string>
+    <string name="enter_qr_code_button_title">Kodu manuel olarak girin</string>
+    <string name="erase_sim_confirm_button">Sil</string>
+    <string name="erase_sim_dialog_text">"Bu SIM silindiğinde, %1$s hizmeti bu cihazdan kaldırılır.
+
+%1$s hizmeti iptal edilmez."</string>
+    <string name="erase_sim_dialog_title">Bu eSIM silinsin mi?</string>
+    <string name="erase_sim_fail_text">"Bu SIM bir hata nedeniyle silinemiyor.
+
+Cihazınızı yeniden başlatıp tekrar deneyin."</string>
+    <string name="erase_sim_fail_title">SIM silinemiyor</string>
+    <string name="erasing_carriers">Operatörler sıfırlanıyor…</string>
+    <string name="erasing_sim">SIM siliniyor…</string>
+    <string name="error_code_text">Hata kodu</string>
+    <string name="error_screen_title_multiple_carrier">Ağlar etkinleştirilmedi</string>
+    <string name="error_screen_title_single_carrier">%1$s etkinleştirilmedi</string>
+    <string name="error_screen_title_single_carrier_no_name">Ağ etkinleştirilmedi</string>
+    <string name="esim_setup_channel_id">Ağ etkinleştirme</string>
+    <string name="esim_warning_title">"eSIM'inizi indirin"</string>
+    <string name="esim_warning_txt_default">Bu özellik, standart SIM kartların yerini alır ve en az SIM kartlar kadar güvenlidir</string>
+    <string name="esim_warning_txt_default_tmo_esim_primary">Genellikle SIM kartta bulunan bilgileri indirerek mobil ağınıza bağlanın. Bu özellik, standart SIM kartların yerini alır ve en az SIM kartlar kadar güvenlidir.</string>
+    <string name="euicc_settings_title">Donanım ayarları</string>
+    <string name="euicc_title">SIM Yöneticisi</string>
+    <string name="expand_button_title">Gelişmiş</string>
+    <string name="find_it_here">burada bulabilirsiniz</string>
+    <string name="get_default_sub_title">Ağ bilgisi kontrol ediliyor…</string>
+    <string name="get_help_ask_for_eid_v2">Operatörünüz bu telefonu tanımlayan %1$s isteyebilir.</string>
+    <string name="get_help_skip_mobile_setup">Mobil kurulumu atla</string>
+    <string name="get_help_text">Numaranızı görmüyor musunuz? Yardım için %2$s numaralı telefondan %1$s ile iletişime geçin</string>
+    <string name="get_help_text_multiple_carriers_no_phone">Operatörlerinizden birinin numara sayısı beklediğinizden fazla olursa yardım için ilgili operatörle iletişime geçin</string>
+    <string name="get_help_text_no_phone">Numaranızı görmüyor musunuz? Yardım için %1$s ile iletişime geçin.</string>
+    <string name="get_help_text_single_carrier">%3$d numara beklemiyorduysanız yardım almak için %2$s numaralı telefondan %1$s ile iletişime geçin</string>
+    <string name="get_help_text_single_carrier_no_phone">%2$d numara beklemiyorduysanız yardım almak için %1$s ile iletişime geçin</string>
+    <string name="get_help_text_single_carrier_no_phone_with_eid">%2$d numara beklemiyorduysanız yardım almak için %1$s ile iletişime geçin Bu cihazın SIM kimliği numarasına ihtiyacınız olacak.</string>
+    <string name="get_help_title">Kurulumla ilgili yardım alın</string>
+    <string name="get_metadata_fail_title">Mobil ağ bilgisi yüklenemedi</string>
+    <string name="help_add_network_info1_msg1_v2">QR kodunuzu tarama konusunda sorun mu yaşıyorsunuz? %1$s</string>
+    <string name="help_add_network_info2_msg1">İsterseniz ağınıza %1$s da bağlanabilirsiniz.</string>
+    <string name="help_add_network_info3">Olmadı mı? Yardım almak için ağ sağlayıcınızla iletişim kurun: %1$s</string>
+    <string name="help_add_network_info3_no_phone">Olmadı mı? Yardım almak için ağ hizmeti sağlayıcınızla iletişime geçin.</string>
+    <string name="help_add_network_subtitle">Cihazınızla birlikte verilen bir kağıtta veya ağ sağlayıcınızın gönderdiği e-postada yazan QR kodunu bulun.</string>
+    <string name="help_add_network_title">Ağ ekleme konusunda yardım</string>
+    <string name="insert_psim_button">standart SIM kart takarak</string>
+    <string name="insert_text">SIM kartınız varsa şimdi takın</string>
+    <string name="insert_title">Mobil ağa bağlanın</string>
+    <string name="install_system_update_dialog_body_text">Bir SIM indirmek için bu telefonda en son sistem güncellemesine ihtiyacınız var. Bu işlem birkaç dakika sürecek.</string>
+    <string name="install_system_update_dialog_title">Sistem güncellemesi yüklensin mi?</string>
+    <string name="install_update_button">Güncellemeyi yükle</string>
+    <string name="insufficient_space_description_q">"{count,plural, =1{Kendi telefon numaranızı kullanmak için öncelikle bu cihazdaki mevcut numaraları silerek yer boşaltmanız gerekecektir. Bunu daha sonra Ayarlar'da yapabilirsiniz.}other{Kendi telefon numaralarınızı kullanmak için öncelikle bu cihazdaki mevcut numaraları silerek yer boşaltmanız gerekecektir. Bunu daha sonra Ayarlar'da yapabilirsiniz.}}"</string>
+    <string name="legal_notices">%1$s, %2$s ve %3$s</string>
+    <string name="low_battery_alert_body_text">Güncellemenin kesintiye uğramaması için telefonunuzu bir güç kaynağına bağlayın.</string>
+    <string name="low_battery_alert_title">Telefon pili azalıyor</string>
+    <string name="manually_add_msg1_v2">QR kodunuz varsa %1$s. Mağaza temsilcisi sizden SIM kimliği numaranızı isterse %2$s.</string>
+    <string name="mobile_network_connection_alert_description">"Bu adımı atlarsanız bir mobil ağa bağlanmayacaksınız. Dilerseniz Ayarlar'da SIM ekleyerek daha sonra bağlanabilirsiniz."</string>
+    <string name="mobile_network_connection_alert_title">Mobil ağınızın kurulumu atlansın mı?</string>
+    <string name="msg_choose_download_type">Telefon numaranızı bu cihazda güvenli bir şekilde etkinleştirmek için bir yöntem seçin</string>
+    <string name="msg_install_app_notification">Devam etmek için dokunun</string>
+    <string name="msg_portal_intro">%1$s kullanıcı adınızla ve şifrenizle oturum açmanız gerekecek</string>
+    <string name="msg_sign_in_button">%1$s operatöründe oturum aç</string>
+    <string name="msg_transfer_type_portal">Kullanıcı adınız ve şifreniz gerekecek</string>
+    <string name="msg_transfer_type_qr">%1$s size bir QR kodu göndermiş olabilir</string>
+    <string name="mtrl_checkbox_state_description_checked">Checked</string>
+    <string name="mtrl_checkbox_state_description_indeterminate">Partially checked</string>
+    <string name="mtrl_checkbox_state_description_unchecked">Not checked</string>
+    <string name="multiple_carrier_download_number_count">{count,plural, =1{1 numara}other{# numara}}</string>
+    <string name="next_button">Sonraki</string>
+    <string name="no_licenses_found_error">Bir hata nedeniyle lisanslar bulunamıyor.</string>
+    <string name="no_qr_code_info_insert_btn">Onun yerine SIM kartı takın</string>
+    <string name="no_qr_code_info_text">Cihazınızla birlikte gelen bir belgede veya operatörünüzün gönderdiği bir e-postada QR kodunuzu bulun. QR kodunuz yoksa operatör ekleme işlemini daha sonra yapın.</string>
+    <string name="no_qr_code_scan_button">QR kodunu tara</string>
+    <string name="no_qr_code_title">Kurulum seçenekleri</string>
+    <string name="no_thanks_button">Hayır</string>
+    <string name="no_wifi_dialog_message">"SIM'inizi indirmeniz için gereklidir"</string>
+    <string name="no_wifi_dialog_title">Kablosuz ağa bağlanın</string>
+    <string name="not_set">Ayarlanmadı</string>
+    <string name="notification_carrier_unknown">{count,plural, =1{Diğer 1 numaranız eklenmeye hazır}other{Diğer # numaranız eklenmeye hazır}}</string>
+    <string name="notification_channel_ota_update">Operatör güncellemeleri</string>
+    <string name="notification_multiple_carrier_name_known">{count,plural, =1{%1$s numaranız ve diğer %2$d numara eklenmeye hazır}other{%1$snumaralarınız ve diğer%2$d numaranız eklenmeye hazır}}</string>
+    <string name="notification_single_carrier_name_known">{count,plural, =1{%1$s numaranız eklenmeye hazır}other{%1$s numaralarınız eklenmeye hazır}}</string>
+    <string name="notification_tap_setup">Ayarlamak için dokunun</string>
+    <string name="open_source_licenses">Açık kaynak lisanslar</string>
+    <string name="operation_code_text">İşlem kodu</string>
+    <string name="os_version">OS sürümü</string>
+    <string name="ota_error_notification_msg">Yeniden başlatıldıktan sonra mobil hizmet devam edecek.</string>
+    <string name="ota_error_notification_title">Operatör güncellemesi başarısız</string>
+    <string name="ota_notification_msg">Güncellemeden sonra mobil hizmet devam edecek</string>
+    <string name="ota_notification_title">Operatör güncellemesi tamamlanıyor...</string>
+    <string name="perm_error_description_q">{count,plural, =1{Telefon numaranız etkinleştirilmeye çalışılırken sorun oldu. Lütfen yardım için %2$s numaralı telefondan %1$s ile iletişime geçin.}other{Telefon numaralarınız etkinleştirilmeye çalışılırken sorun oldu. Lütfen yardım için %2$s numaralı telefondan %1$s ile iletişime geçin.}}</string>
+    <string name="perm_error_description_q_multi_carrier">Telefon numaralarınız etkinleştirilmeye çalışılırken sorun oldu. Yardım için lütfen ağ sağlayıcılarınızla iletişime geçin.</string>
+    <string name="perm_error_description_q_no_phone">{count,plural, =1{Telefon numaranız etkinleştirilmeye çalışılırken sorun oldu. Lütfen yardım için %1$s ile iletişime geçin.}other{Telefon numaralarınız etkinleştirilmeye çalışılırken sorun oldu. Lütfen yardım için %1$s ile iletişime geçin.}}</string>
+    <string name="perm_error_description_q_no_phone_no_carrier_name">{count,plural, =1{Telefon numaranız etkinleştirilmeye çalışılırken sorun oldu. Yardım almak için ağ hizmeti sağlayıcınızla iletişime geçin}other{Telefon numaralarınız etkinleştirilmeye çalışılırken sorun oldu. Yardım için lütfen ağ sağlayıcılarınızla iletişime geçin.}}</string>
+    <string name="perm_error_q_sub2_eid">Bu cihaz için %1$s gerekebilir</string>
+    <string name="pixel_support_page_button">Pixel destek sayfası</string>
+    <string name="pre_activation_ota_update_complete_subtitle">"Yazılım başarıyla güncellendi. Artık SIM'inizi indirmeye devam edebilirsiniz."</string>
+    <string name="pre_activation_ota_update_complete_title">Güncelleme tamam</string>
+    <string name="pre_activation_ota_update_error_msg1">Telefon, SIM indiremiyor.</string>
+    <string name="pre_activation_ota_update_error_msg2_v2">"Bunun yerine bir SIM kart kullanabilir veya şu sayfadan yardım alabilirsiniz:
+%1$s."</string>
+    <string name="pre_activation_ota_update_error_title">Güncelleme tamamlanmadı</string>
+    <string name="pre_activation_ota_update_subtitle">%%%1$dtamamlandı. Güncelleme devam ederken lütfen bu ekranda kalın.</string>
+    <string name="pre_activation_ota_update_title">Güncelleniyor…</string>
+    <string name="pre_activation_ota_user_consent_msg1">"Bir SIM indirmek için en son SIM Yöneticisi'ne ihtiyacınız var. Bu işlem 4–5 dakika sürer."</string>
+    <string name="pre_activation_ota_user_consent_msg2">Güncellemeyi kesintiye uğratmaktan kaçınmak için bu ekrandan ayrılmayın. Güncelleme devam ederken yalnızca acil durum araması yapılabilir.</string>
+    <string name="pre_activation_ota_user_consent_title">SIM yazılımı güncellensin mi?</string>
+    <string name="preference_copied">\"%1$s\" panoya kopyalandı.</string>
+    <string name="privacy_policy">Gizlilik politikası</string>
+    <string name="privacy_warning_message">Devam ederek %1$s operatörünün ağda bu cihazı tanımlayan bilgileri doğrulamasına izin verirsiniz.</string>
+    <string name="privileged_action_disable_sub_dialog_progress">SIM kapatılıyor…</string>
+    <string name="privileged_action_disable_sub_dialog_text">%1$s operatörünü kapattığınızda etkin operatörünüz %2$s olur.</string>
+    <string name="privileged_action_disable_sub_dialog_title">%1$s devre dışı bırakılsın mı?</string>
+    <string name="privileged_action_enable_sub_dialog_title">%1$s etkinleştirilsin mi?</string>
+    <string name="privileged_action_switch_psim_dialog_title">SIM kart kullanmaya geçilsin mi?</string>
+    <string name="privileged_action_switch_sub_dialog_confirm">%1$s operatörüne geç</string>
+    <string name="privileged_action_switch_sub_dialog_progress">%1$s operatörüne geçiliyor</string>
+    <string name="privileged_action_switch_sub_dialog_text">"Aynı anda yalnızca bir SIM etkin olabilir.
+
+%1$s operatörüne geçtiğinizde %2$s hizmetiniz iptal edilmez."</string>
+    <string name="privileged_action_switch_sub_dialog_text_downloaded">"Aynı anda yalnızca 1 eSIM etkin olabilir.
+
+%1$s operatörüne geçtiğinizde %2$s hizmetiniz iptal edilmez."</string>
+    <string name="privileged_action_switch_sub_dialog_text_no_to">"Aynı anda yalnızca bir SIM etkin olabilir.
+
+Geçiş yaptığınızda %1$s hizmetiniz iptal edilmez."</string>
+    <string name="privileged_action_switch_sub_dialog_title">%1$s operatörüne geçilsin mi?</string>
+    <string name="privileged_action_turn_on_sub_dialog_progress">%1$s etkinleştiriliyor</string>
+    <string name="profile_disabled">Devre dışı</string>
+    <string name="profile_disabled_confirmation_body_text">"eSIM'i etkinleştirmek için PIN'i girin"</string>
+    <string name="profile_disabled_confirmation_title">eSIM devre dışı</string>
+    <string name="profile_enabled">Etkin</string>
+    <string name="profile_enabled_with_phone_number">Etkin, %1$s</string>
+    <string name="profile_list_action_bar_title">Operatör</string>
+    <string name="profile_transfer_activation_fail_available_phone_number_description">"Bir hata oluştu. %1$s SIM'iniz bu cihaza aktarıldı ancak kullanıma hazır değil. 
+
+ Yardım almak için %3$s. numaralı telefon üzerinden %2$s ile iletişime geçin
+
+Bu cihazın SIM kimliği numarasına ihtiyacınız olabilir:
+
+%4$s"</string>
+    <string name="profile_transfer_activation_fail_available_phone_number_title">Numara etkinleştirilemiyor</string>
+    <string name="profile_transfer_activation_fail_unavailable_phone_number_description">"Bir hata oluştu. %1$s numaranız %2$s, bu cihaza aktarıldı ancak ağa bağlı değil. 
+
+ Yardım almak için %4$s. numaralı telefon üzerinden %3$s ile iletişime geçin
+
+Bu cihazın SIM kimliği numarasına ihtiyacınız olabilir:
+
+%5$s"</string>
+    <string name="profile_transfer_activation_fail_unavailable_phone_number_title">Mobil ağ etkinleştirilemiyor</string>
+    <string name="profile_transfer_connecting_description">Bağlanıyor…</string>
+    <string name="profile_transfer_downloading_deferred_notification_content">%1$s sunucusuna bağlanılıyor…</string>
+    <string name="profile_transfer_downloading_deferred_notification_title">%1$s indiriliyor</string>
+    <string name="profile_transfer_error_deferred_notification_title">%1$s aktarılamadı</string>
+    <string name="profile_transfer_error_title">"%1$s SIM'i aktarılamadı"</string>
+    <string name="profile_transfer_non_recoverable_error_deferred_notification_action">Daha fazla bilgi</string>
+    <string name="profile_transfer_non_recoverable_error_deferred_notification_content">"SIM'inizi aktarmaya çalışırken bir sorun oldu. Lütfen yardım için %2$s numaralı telefondan %1$s ile iletişime geçin."</string>
+    <string name="profile_transfer_non_recoverable_error_description">"SIM'inizi aktarmaya çalışırken bir sorun oldu. Yardım almak için lütfen %2$s numaralı telefon üzerinden %1$s ile iletişime geçin
+
+Bu cihazın SIM kimliği numarasına ihtiyacınız olabilir:
+
+%3$s"</string>
+    <string name="profile_transfer_recoverable_error_deferred_notification_content">"SIM'inizi aktarmaya çalışırken bir sorun oldu. Bu sorunu çözmek için tekrar deneyebilirsiniz"</string>
+    <string name="profile_transfer_recoverable_error_description">"SIM'inizi aktarmaya çalışırken bir sorun oldu."</string>
+    <string name="profile_transfer_retry_button">Tekrar dene</string>
+    <string name="profile_transfer_success_deferred_notification_content">%1$s kullanıma hazır olmalıdır</string>
+    <string name="profile_transfer_success_deferred_notification_title">SIM başarıyla aktarıldı</string>
+    <string name="profile_transfer_suw_recoverable_error_description">"SIM'inizi aktarmaya çalışırken bir sorun oldu. Bu sorunu çözmek için tekrar deneyebilirsiniz."</string>
+    <string name="psim_guide_dialog_message">Telefonunuzun kenarındaki SIM kart tepsisini bulun. SIM çıkarma aracı ya da ataş kullanarak tepsiyi açın ve SIM kartı takın.</string>
+    <string name="psim_guide_dialog_title">SIM kart takma</string>
+    <string name="q_download_sub_text">Bu işlem birkaç dakika sürebilir</string>
+    <string name="q_download_sub_title">%1$s ağına bağlanılıyor…</string>
+    <string name="q_multiple_carrier_confirm_title">Etkinleştirilecek ağları seçin</string>
+    <string name="q_multiple_carrier_metadata_confirm_subtitle">{count,plural, =1{Bu cihaz için 1 numara kullanılabilir. Etkinleştirdiğinizde ağ sağlayıcınız bu hizmet için ödeme almaya başlayabilir.}other{Bu cihaz için # numara kullanılabilir. Etkinleştirdiğinizde ağ sağlayıcınız bu hizmet için ödeme almaya başlayabilir.}}</string>
+    <string name="q_result_download_metadata_text">{count,plural, =1{Bu cihaz için 1 %1$s numarası mevcut. Bağlandığınızda %1$s bu hizmet için ödeme almaya başlayabilir.}other{Bu cihaz için # %1$s numarası mevcut. Bağlandığınızda %1$s bu hizmet için ödeme almaya başlayabilir.}}</string>
+    <string name="qr_scanner_end_button">Kodu bulamıyor musunuz?</string>
+    <string name="qr_scanner_failed_msg">Kameranızla ilgili bir sorun oluştu. Lütfen daha sonra tekrar deneyin.</string>
+    <string name="qr_scanner_failed_title">Kameranız kullanılamıyor</string>
+    <string name="qr_scanner_msg">Operatörünüz size bir QR kodu verdiyse, kodu kutunun ortasında tutarak şimdi tarayın</string>
+    <string name="qr_scanner_msg_q">%1$s size bir QR kodu verdiyse, kodu kutunun ortasında tutarak şimdi tarayın</string>
+    <string name="qr_scanner_msg_q_no_carrier_name">Ağ hizmeti sağlayıcınız size bir QR kodu verdiyse kodu çerçevenin ortasında tutarak şimdi tarayın</string>
+    <string name="qr_scanner_title">QR koduyla operatör ekleyin</string>
+    <string name="qr_scanner_title_q">%1$s QR kodunu tarayın</string>
+    <string name="qr_scanner_title_q_no_carrier_name">Ağdan QR kodunu tarayın</string>
+    <string name="reactivate_error_dialog_body">Telefon numaranız etkinleştirilmeye çalışılırken sorun oldu. Lütfen daha sonra tekrar deneyin veya SIM kartınızı yeniden takın.</string>
+    <string name="reactivate_error_dialog_title_with_carrier_name">%1$s etkinleştirilmedi</string>
+    <string name="reactivate_error_dialog_title_without_carrier_name">SIM etkinleştirilmedi</string>
+    <string name="reason_code_text">Neden kodu</string>
+    <string name="reboot_button_title">Telefonu yeniden başlat</string>
+    <string name="remove_carrier_dialog_text_disabled">"Bu cihaz artık %1$s operatörüne bağlanamayacak.
+
+Bu işlem mobil hizmet planlarını iptal etmeyecektir."</string>
+    <string name="remove_carrier_dialog_text_enabled">"Bu cihazın %1$s bağlantısı hemen kesilecek.
+
+Bu işlem mobil hizmet planlarını iptal etmeyecektir."</string>
+    <string name="remove_carrier_dialog_title">Operatör silinsin mi?</string>
+    <string name="remove_fail_text">Bir hata oluştu ve operatörünüz silinemedi.</string>
+    <string name="remove_fail_title">Operatör silinemiyor</string>
+    <string name="remove_profile_title">Sil</string>
+    <string name="removing_carrier">Operatör siliniyor…</string>
+    <string name="res_activate_profile_later_button">Daha sonra etkinleştir</string>
+    <string name="res_activation_button">Bağlan</string>
+    <string name="res_continue_info1_general_multi_carriers">{count,plural, =1{Maalesef %1$s ve diğer %2$d operatöre ait numaralarınızı ekleyemedik.}other{Maalesef %1$s ve diğer %2$d operatöre ait numaralarınızı ekleyemedik.}}</string>
+    <string name="res_continue_info1_general_no_carrier">{count,plural, =1{Maalesef operatörünüzden &lt;b>1 numarayı&lt;/b> ekleyemedik.}other{Maalesef, hiçbir operatörünüzden numaralarınızı ekleyemedik.}}</string>
+    <string name="res_continue_info1_general_single_carrier">{count,plural, =1{Maalesef %1$s adlı operatörden &lt;b>%2$d numarayı &lt;/b> ekleyemedik.}other{Maalesef %1$s adlı operatörden &lt;b>%2$d numarayı &lt;/b> ekleyemedik.}}</string>
+    <string name="res_continue_info1_no_mem_multi_carriers">{count,plural, =1{%1$s ve diğer %2$d operatöre ait numaralarınızı eklemek için yeterli alan yoktu.}other{%1$s ve diğer %2$d operatöre ait numaralarınızı eklemek için yeterli alan yoktu.}}</string>
+    <string name="res_continue_info1_no_mem_no_carrier">{count,plural, =1{&lt;b>1 numarayı&lt;/b> eklemek için yeterli alan yoktu.}other{Hiçbir operatörünüzden numaralarınızı eklemek için yeterli alan yoktu.}}</string>
+    <string name="res_continue_info1_no_mem_single_carrier">{count,plural, =1{%1$s adlı operatörden &lt;b>%2$d numarayı &lt;/b> eklemek için yeterli alan yoktu.}other{%1$s adlı operatörden &lt;b>%2$d numarayı &lt;/b> eklemek için yeterli alan yoktu.}}</string>
+    <string name="res_continue_info_item_2">Hizmet alamıyorsanız yardım için %1$s ile iletişime geçin</string>
+    <string name="res_continue_info_item_2_no_carrier_name">Mobil hizmet yoksa yardım için operatörünüze başvurun</string>
+    <string name="res_continue_text_partial_complete_multiple_carriers">{count,plural, =1{%2$s ve %3$s adlı operatörlerden &lt;b>%1$d numarayı&lt;/b> eklediniz}=2{%2$s, %3$s ve %4$d diğer operatörden&lt;b>%1$d numarayı&lt;/b> eklediniz}other{%2$s, %3$s ve diğer %4$d operatörden &lt;b>%1$d numarayı&lt;/b> eklediniz}}</string>
+    <string name="res_continue_text_partial_complete_single_carrier">{count,plural, =1{%2$s adlı operatörlerden &lt;b>%1$d numarayı &lt;/b> eklediniz}other{%2$s adlı operatörlerden &lt;b>%1$d numarayı &lt;/b> eklediniz}}</string>
+    <string name="res_continue_title_all_success">{count,plural, =1{Telefon numarası eklendi}other{# numara eklendi}}</string>
+    <string name="res_continue_title_partial_success">%2$d numaradan %1$d tanesi eklendi</string>
+    <string name="res_download_button">İndir</string>
+    <string name="res_enter_pin_button">PIN girin</string>
+    <string name="res_need_help_button">Yardım ister misiniz?</string>
+    <string name="res_start_button">Başlat</string>
+    <string name="reset_button">Sıfırla</string>
+    <string name="reset_dialog_carriers_body">Cihazınızdaki tüm operatörler silinsin mi? Bu işlemi geri alamazsınız.</string>
+    <string name="reset_dialog_carriers_title">Operatörler sıfırlansın mı?</string>
+    <string name="reset_fail_text">Bir hata oluştu ve operatörleriniz sıfırlanamadı.</string>
+    <string name="reset_fail_title">Operatörler sıfırlanamıyor</string>
+    <string name="reset_screen_text_bottom">Bu işlem mobil hizmet planlarını iptal etmeyecektir.</string>
+    <string name="reset_screen_text_top">Bu işlem, cihazınızdaki tüm operatörleri kaldırır:</string>
+    <string name="reset_screen_title">Operatörleri sıfırlayın</string>
+    <string name="result_connect_title">%1$s operatörüne bağlanılsın mı?</string>
+    <string name="result_download_metadata_text">{count,plural, =1{Bu cihaz için 1 %1$s numarası mevcut.}other{Bu cihaz için # %1$s numarası mevcut.}}</string>
+    <string name="result_download_text">{count,plural, =1{%1$s numaranız telefonunuza eklenmeye hazır}other{%1$s adlı operatörden &lt;b>%2$d numaranız&lt;/b> telefonunuza eklenmeye hazır}}</string>
+    <string name="result_download_title">%1$s operatörüne ait eSIM indirilsin mi?</string>
+    <string name="scan_it_now">şimdi tarayın</string>
+    <string name="send_feedback">Geri bildirim gönder</string>
+    <string name="set_up_button">Set up</string>
+    <string name="settings_gear_label">Ayarlar</string>
+    <string name="sim_action_switch_sub_dialog_carrier_list_item_for_turning_off">%1$s operatörünü kapat</string>
+    <string name="sim_action_switch_sub_dialog_info_outline_for_turning_off">SIM’i devre dışı bıraktığınızda hizmetiniz iptal edilmez</string>
+    <string name="sim_card_label">SIM kart</string>
+    <string name="sim_illustration_bottom_alt_text">Ekranı kendinize doğru tutarak şarj yuvasını bulun. SIM tepsisi, telefonun alt kısmında, şarj yuvasının sol tarafındadır. Tepsi düz olup iki tarafında küçük çıkıntılar bulunur. Tepsinin sol tarafında küçük bir delik vardır. Tepsiyi açmak için bir ataçın ucunu veya SIM çıkartma aracını deliğe sokun. SIM kartı takmak için çentiğini tepsiyle hizalayın. SIM yalnızca tek bir şekilde takılabilir.</string>
+    <string name="sim_illustration_bottom_left_alt_text">Ekranı kendinize doğru tutarak şarj yuvasını bulun. Parmağınızı telefonun sol tarafında yukarı doğru hareket ettirin. SIM tepsisi düz olup iki tarafında küçük çıkıntılar bulunur. Tepsinin üst tarafına yakın bir yerde küçük bir delik vardır. Tepsiyi açmak için bir ataçın ucunu veya SIM çıkartma aracını deliğe sokun. SIM kartı takmak için çentiğini tepsiyle hizalayın. SIM yalnızca tek bir şekilde takılabilir.</string>
+    <string name="sim_illustration_top_left_alt_text">Ekranı kendinize doğru tutarak şarj yuvasını bulun. Parmağınızı telefonun sol tarafında yukarı doğru hareket ettirin. SIM tepsisi düz olup iki tarafında küçük çıkıntılar bulunur. Tepsinin üst tarafına yakın bir yerde küçük bir delik vardır. Tepsiyi açmak için bir ataçın ucunu veya SIM çıkartma aracını deliğe sokun. SIM kartı takmak için çentiğini tepsiyle hizalayın. SIM yalnızca tek bir şekilde takılabilir.</string>
+    <string name="sim_locked_text">"Bu telefon geçerli olarak başka bir operatörün kullanımı için kilitli durumda. Geçerli bir SIM kart kullanmanız gerekir.
+
+SIM kartınızı taktığınızda etkinleşmesi birkaç saniye sürebilir."</string>
+    <string name="sim_locked_title">SIM desteklenmiyor</string>
+    <string name="sim_missing_activity_esim_button_title">Yeni bir eSIM indir</string>
+    <string name="sim_missing_activity_esim_transfer_button_title">"Eski telefondaki bir SIM'i aktarın"</string>
+    <string name="sim_missing_activity_psim_hint">SIM kartı nasıl kullanacağınızı öğrenin</string>
+    <string name="sim_missing_activity_subtitle_no_psim">"Şimdi eSIM'inizi indirin veya SIM kart takın"</string>
+    <string name="sim_missing_activity_subtitle_psim_exists">"Başka bir SIM eklemek için yeni bir eSIM indirin.
+
+Farklı bir SIM kart kullanmak için önce telefonunuzdaki SIM kartı çıkarın"</string>
+    <string name="sim_missing_activity_subtitle_tmo_esim_primary">"Şimdi eSIM'inizi indirebilir veya SIM kart takabilirsiniz"</string>
+    <string name="sim_missing_activity_subtitle_with_psim">Yeni bir SIM kartı kullanmak için şu anda cihazınızda takılı olanı çıkarmalısınız</string>
+    <string name="sim_missing_activity_with_tmo_esim_primary_button_title">"SIM'i indir"</string>
+    <string name="sim_ready_message">Bu telefonda daha önce ayarlanmış bir numara mevcut</string>
+    <string name="sim_ready_message_carrier_app">%1$s telefon numarasını etkinleştirmeyi tamamlamak için %2$s uygulamasını indirmeniz gerekir. Şimdilik telefonunuzun kurulumunu tamamlayalım.</string>
+    <string name="sim_ready_message_invalid_phone_number_carrier_app">Telefon numaranızı etkinleştirmeyi tamamlamak için %1$s uygulamasını indirmeniz gerekir. Şimdilik telefonunuzun kurulumunu tamamlayalım.</string>
+    <string name="sim_ready_title">eSIM bulundu</string>
+    <string name="sim_ready_title_carrier_app">%1$s adlı operatöre daha sonra bağlanın</string>
+    <string name="skip_button">Atla</string>
+    <string name="status_title">Durum</string>
+    <string name="subject_code_text">Konu kodu</string>
+    <string name="sud_back_button_label">Geri</string>
+    <string name="sud_more_button_label">Daha fazla</string>
+    <string name="sud_next_button_label">İleri</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="suw_carrier_support_to_complete_activation_no_carrier_v2">Hizmeti etkinleştirmek için operatörünüzle iletişim kurarak yardım alın.</string>
+    <string name="suw_default_failed_msg_no_carrier">Maalesef bir sorun oldu ve hiçbir telefon numarası eklenemedi</string>
+    <string name="suw_failed_title">Kurulum tamamlanmadı</string>
+    <string name="suw_pii_sent_msg">"Kurulum için gereken bazı cihaz bilgileri Google'a, operatörünüze ve onların ortaklarına gönderilecektir"</string>
+    <string name="suw_setting_up_phone_info">Bir dakikadan az kaldı</string>
+    <string name="suw_setting_up_phone_title">Telefonunuz ayarlanıyor…</string>
+    <string name="suw_sim_missing_activity_for_delayed_setup_decription">"When you're done setting up your phone, go to Settings to connect to your mobile network. Or, if you have a SIM card, insert it now."</string>
+    <string name="suw_sim_missing_activity_for_delayed_setup_title">Connect to mobile network after setup</string>
+    <string name="switch_button">Değiştir</string>
+    <string name="switch_confirm_mep_dialog_message">Bu cihazda aynı anda 2 SIM etkin durumda olabilir.</string>
+    <string name="switch_confirm_mep_dialog_title">"%1$s kullanmak için bir SIM'i devre dışı bırakın"</string>
+    <string name="switch_confirm_message">%1$s bağlantısı şimdilik kesilecek</string>
+    <string name="switch_confirm_message_no_carrier">Cep telefonu şebekenizin bağlantısı şimdilik kesilecek.</string>
+    <string name="switch_confirm_new_title">"SIM'inizi indirmek için kablosuz bağlantı kullanın"</string>
+    <string name="switch_confirm_no_active_profile_message">"Ağ sağlayıcınızın SIM'inizi indirmesine izin verin"</string>
+    <string name="switch_confirm_no_active_profile_title">"SIM'iniz yakında indirilecek"</string>
+    <string name="switch_confirm_no_wifi_message">Bu başka bir ağ kullanmanıza olanak sağlar</string>
+    <string name="switch_confirm_no_wifi_title">%1$s bağlantısı kesilsin mi?</string>
+    <string name="switch_confirm_no_wifi_title_no_carrier">Mobil ağınızla bağlantı kesilsin mi?</string>
+    <string name="switch_restriction_message_to_connect_to">%1$s yerine %2$s adlı operatöre bağlanmak için ilk olarak %1$s SIM kartınızı çıkarıp tekrar deneyin.</string>
+    <string name="switch_restriction_message_to_switch_from">%1$s adlı operatörden geçiş yapmak için ilk olarak %1$s SIM kartınızı çıkarıp tekrar deneyin.</string>
+    <string name="switch_restriction_title_remove_sim">"SIM'i kaldır"</string>
+    <string name="sys_notification_5g_enable_dsds_text">"Bu cihazda aynı anda 2 SIM etkin durumda olabilir.
+
+2 SIM kullanırken bu telefon 4G ile sınırlı olur. %1$s"</string>
+    <string name="sys_notification_after_dsds_reboot_text">"Diğer SIM'inizi etkinleştirme işlemini bitirmek için dokunun"</string>
+    <string name="sys_notification_after_dsds_reboot_title">Tek seferde 2 SIM kullanmak için hazır</string>
+    <string name="sys_notification_enable_dsds_text">Bu cihazda aynı anda 2 SIM etkin durumda olabilir. Tek seferde 1 SIM kullanmaya devam etmek için \"Hayır, teşekkürler\" seçeneğine dokunun.</string>
+    <string name="sys_notification_enable_dsds_title">2 SIM kullanılsın mı?</string>
+    <string name="sys_notification_no_thanks">Hayır, teşekkürler</string>
+    <string name="sys_notification_reboot">Yeniden başlat</string>
+    <string name="sys_notification_restart_text">Öncelikle cihazınızı yeniden başlatın. Daha sonra başka bir SIM ekleyebilirsiniz.</string>
+    <string name="sys_notification_restart_title">Cihaz yeniden başlatılsın mı?</string>
+    <string name="sys_notification_selected_text">Mobil ağınız değişti</string>
+    <string name="sys_notification_switched_title">%1$s operatörüne geçiş yapıldı</string>
+    <string name="sys_notification_switched_title_no_carrier_name">Başka bir operatöre geçiş yapıldı</string>
+    <string name="sys_notification_title">Operatör değiştirme</string>
+    <string name="temp_error_description_q">"{count,plural, =1{Telefon numaranız etkinleştirilmeye çalışılırken sorun oldu. Daha sonra Ayarlar'da tekrar deneyebilirsiniz.}other{Telefon numaralarınız etkinleştirilmeye çalışılırken sorun oldu. Daha sonra Ayarlar'da tekrar deneyebilirsiniz.}}"</string>
+    <string name="terms_of_service">Hizmet şartları</string>
+    <string name="text_bottom_transfer_carrier_info">Operatörünüzü görmüyor musunuz? Yardım almak için operatörünüzle iletişime geçin.</string>
+    <string name="title_app_required">%1$s adlı operatöre daha sonra bağlanın</string>
+    <string name="title_cannot_connect_to_network_no_name">Ağa bağlanılamıyor</string>
+    <string name="title_cannot_download">SIM indirilemiyor</string>
+    <string name="title_choose_download_type">%1$s telefon numaranızı etkinleştirin</string>
+    <string name="title_choose_transfer_type">%1$s numaranızı aktarmak için bir yöntem seçin</string>
+    <string name="title_incorrect_qr_code">Yanlış QR Kodu</string>
+    <string name="title_install_app_notification">Numaranızı ayarlamak için %1$s uygulamasını edinin</string>
+    <string name="title_network_not_activated">Ağ etkinleştirilmedi</string>
+    <string name="title_no_connection">İnternete bağlanılamıyor</string>
+    <string name="title_portal_intro">%1$s numaranızı aktarın</string>
+    <string name="title_profile_already_downloaded">SIM zaten indirilmiş</string>
+    <string name="title_transfer_type_portal">%1$s hesabınızda oturum açın</string>
+    <string name="title_transfer_type_qr">QR kodunu tarayın</string>
+    <string name="transfer_button">Aktar</string>
+    <string name="transfer_device_transfer_error">(aktarılamıyor)</string>
+    <string name="transfer_in_device_name">%1$s içine %2$s</string>
+    <string name="transfer_profile_downloading_description">%1$s cihazınızın kurulumuna devam edebilirsiniz.</string>
+    <string name="transfer_single_description_with_esim">"%1$s will be transferred to this phone.
+
+After you transfer your SIM to this phone, it will no longer work on your other device."</string>
+    <string name="transfer_single_description_with_psim">"You can convert your SIM card into an eSIM and
+transfer it to this phone. After it's been
+converted, your SIM card can't be used again."</string>
+    <string name="transfer_single_psim_hint">Learn how to use a SIM card</string>
+    <string name="transfer_single_psim_sub_info">Or, insert the SIM card now.</string>
+    <string name="transfer_single_subItem_title_with_number">Numara doğru değil mi?</string>
+    <string name="transfer_single_subItem_title_without_number_esim">eSIM doğru değil mi?</string>
+    <string name="transfer_single_subItem_title_without_number_unknown">SIM doğru değil mi?</string>
+    <string name="transfer_single_title">Transfer %1$s SIM?</string>
+    <string name="transfer_subItem_desc">Onun yerine yeni bir eSIM indirin</string>
+    <string name="transfer_subItem_title_with_number">Numaralar doğru değil mi?</string>
+    <string name="transfer_subItem_title_without_number_esim">"eSIM'ler doğru değil mi?"</string>
+    <string name="transfer_subItem_title_without_number_unknown">"SIM'ler doğru değil mi?"</string>
+    <string name="transfer_title_unknown_sim">"Aktarılacak SIM'i seçin"</string>
+    <string name="transfer_title_with_number">Aktarılacak numarayı seçin</string>
+    <string name="transfer_title_without_number">"Aktarılacak eSIM'i seçin"</string>
+    <string name="update_button">Güncelle</string>
+    <string name="use_different_network">Farklı bir ağ kullan</string>
+    <string name="use_different_network_button">Farklı bir ağ kullan</string>
+    <string name="user_consent_download_active_profile_body_text">İndirme işlemi sırasında %1$s devre dışı bırakılır</string>
+    <string name="user_consent_download_mobile_data_body_text">"SIM'iniz mobil ağ üzerinden indirilecek"</string>
+    <string name="user_consent_download_no_name_body_text">"İndirme işlemi sırasında, etkin SIM'iniz devre dışı bırakılacak"</string>
+    <string name="user_consent_download_over_wifi_title">"SIM'inizi indirmek için kablosuz bağlantı kullanılsın mı?"</string>
+    <string name="user_consent_download_ss_no_profile_title">"Operatörünüzün, SIM'i indirmesine izin verilsin mi?"</string>
+    <string name="user_consent_download_ss_no_profile_wifi_body_text">"SIM'iniz kablosuz ağ üzerinden indirilir"</string>
+    <string name="user_consent_download_switch_body_text">"Farklı SIM indirip kullanmak için %1$s operatörünü devre dışı bırakın.
+
+%1$s devre dışı bırakıldığında hizmetiniz iptal edilmez."</string>
+    <string name="user_consent_download_switch_dsds_no_name_body_text">"Farklı SIM indirip kullanmak için etkin bir SIM'i devre dışı bırakın.
+
+SIM devre dışı bırakıldığında hizmetiniz iptal edilmez."</string>
+    <string name="user_consent_download_switch_dsds_no_name_title">Bir SIM devre dışı bırakılsın mı?</string>
+    <string name="user_consent_download_switch_no_profile_body_text">"SIM'iniz indirme işleminden hemen sonra kullanılır"</string>
+    <string name="user_consent_download_switch_ss_no_name_body_text">"Farklı SIM indirip kullanmak için etkin SIM'inizi devre dışı bırakın.
+
+SIM devre dışı bırakıldığında hizmetiniz iptal edilmez."</string>
+    <string name="user_consent_download_switch_ss_no_name_title">SIM devre dışı bırakılsın mı?</string>
+    <string name="user_consent_switch_dsds_body_text">"Bu cihazda yalnızca 1 tane etkin eSIM olabilir.
+
+%1$s devre dışı bırakılacak ancak hizmetiniz iptal edilmeyecek."</string>
+    <string name="user_consent_switch_dsds_no_name_body_text">"Bu cihazda yalnızca 1 tane etkin eSIM olabilir.
+
+Mevcut SIM'iniz devre dışı bırakılacak ancak hizmetiniz iptal edilmeyecek."</string>
+    <string name="user_consent_switch_mep_dsds_body_text">%1$s devre dışı bırakılacak ancak hizmetiniz iptal edilmeyecek.</string>
+    <string name="user_consent_switch_mep_dsds_no_name_body_text">"Mevcut SIM'iniz devre dışı bırakılacak ancak hizmetiniz iptal edilmeyecek."</string>
+    <string name="user_consent_switch_no_name_title">Yeni SIM kullanılsın mı?</string>
+    <string name="user_consent_switch_ss_body_text">"Bu cihazda yalnızca 1 tane etkin SIM olabilir.
+
+%1$s devre dışı bırakılacak ancak hizmetiniz iptal edilmeyecek."</string>
+    <string name="user_consent_switch_ss_no_name_body_text">"Bu cihazda yalnızca 1 tane etkin SIM olabilir.
+
+Mevcut SIM'iniz devre dışı bırakılacak ancak hizmetiniz iptal edilmeyecek."</string>
+    <string name="user_consent_switch_title">%1$s kullanılsın mı?</string>
+    <string name="v7_preference_off">KAPALI</string>
+    <string name="v7_preference_on">AÇIK</string>
+    <string name="wait_msg">Bir saniye…</string>
+    <string name="wrong_code_dialog_text">"Bazı operatörler, güvenliği artırmak için doğrulama kodunu zorunlu kılar. Kodu bulabileceğiniz yerler:
+
+• Cihazınızla birlikte gönderilen bir kağıtta
+• Operatörünüzden gelen bir e-postada
+• Eski cihazınıza gönderilen bir kısa mesajda"</string>
+    <string name="yes_button">Evet</string>
+</resources>

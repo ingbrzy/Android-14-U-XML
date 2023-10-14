@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="analog_gadget">Механикалык</string>
+    <string name="digital_gadget">Санарип</string>
+    <string name="analog_widget_clover_clock_name">Беде</string>
+    <string name="analog_widget_clover_content_description">Беде формасындагы циферблат</string>
+    <string name="analog_widget_config_activity_title">Циферблат тандаңыз</string>
+    <string name="analog_widget_day_clock_name">Күн</string>
+    <string name="analog_widget_day_content_description">Ай күнүн көрсөткөн циферблат</string>
+    <string name="analog_widget_numeral_clock_name">Цифра</string>
+    <string name="analog_widget_numeral_content_description">Чоң сандуу циферблат</string>
+    <string name="analog_widget_scallop_clock_name">Деңиз таракчасы</string>
+    <string name="analog_widget_scallop_content_description">Ай жана апта күнүн көрсөткөн циферблат</string>
+    <string name="cities_widget_config_activity_subtitle">Шаарларды Саат өтмөгүнөн кошууга болот</string>
+    <string name="cities_widget_config_activity_subtitle_button">Саат колдонмосунда шаарларды тандаңыз</string>
+    <string name="cities_widget_preview_city_london">Лондон</string>
+    <string name="cities_widget_preview_city_mountain_view">Mountain View</string>
+    <string name="clock_widget_opaque_label">Катуу</string>
+    <string name="clock_widget_transparent_label">Тунук</string>
+    <string name="digital_appwidget_config_activity_title">Сааттын стилин тандоо</string>
+    <string name="digital_cities_gadget">Дүйнө</string>
+    <string name="digital_cities_gadget_description">Саат колдонмосунда шаарларды тандаңыз</string>
+    <string name="digital_stacked_gadget">Үйүлгөн</string>
+    <string name="digital_widgets_preview_alarm">Дш 09:30</string>
+    <string name="stopwatch_gadget_description">Cаат колдонмосунда секундомерди башкарыңыз</string>
+</resources>

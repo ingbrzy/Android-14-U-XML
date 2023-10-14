@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="CALLOUT_ALPHABETIC_LABELS">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+    </string-array>
+    <string-array name="RESTRICTION_ALLOWED_PRICE_LEVEL">
+        <item>不限</item>
+        <item>NT$</item>
+        <item>NT$$</item>
+        <item>NT$$$</item>
+        <item>NT$$$$</item>
+    </string-array>
+    <string-array name="RESTRICTION_ALLOWED_PRICE_LEVEL_DESCRIPTIONS">
+        <item>不限價格等級</item>
+        <item>低價位</item>
+        <item>中價位</item>
+        <item>高價位</item>
+        <item>非常貴</item>
+    </string-array>
+    <string-array name="RESTRICTION_HOTEL_CLASSES">
+        <item>不限</item>
+        <item>3 星級</item>
+        <item>4 星級</item>
+        <item>5 星級</item>
+    </string-array>
+    <string-array name="RESTRICTION_OPENING_HOURS_OPTIONS">
+        <item>不限</item>
+        <item>營業中</item>
+        <item>自訂</item>
+    </string-array>
+    <string-array name="SHOW_SCALEBAR_ENTRIES">
+        <item>縮放地圖時</item>
+        <item>永遠</item>
+    </string-array>
+    <string-array name="interactive_rating_state_commentary">
+        <item>很不喜歡</item>
+        <item>不喜歡</item>
+        <item>還可以</item>
+        <item>喜歡</item>
+        <item>超讚</item>
+    </string-array>
+</resources>

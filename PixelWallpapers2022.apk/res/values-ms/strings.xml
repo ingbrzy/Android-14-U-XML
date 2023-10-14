@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="azure_title">Gagak biru</string>
+    <string name="blackswan_title">Angsa Hitam</string>
+    <string name="cockatoo_title">Burung kakak tua</string>
+    <string name="come_alive_title">Hidup</string>
+    <string name="feathers_attribution">Foto oleh Andrew Zuckerman</string>
+    <string name="feathers_description">Paparan warna dan perincian burung</string>
+    <string name="feathers_title">Bulu pelepah</string>
+    <string name="greenwinged_title">Burung kakak tua bersayap hijau</string>
+    <string name="king_title">Burung hering raja</string>
+    <string name="living_universe_title">Kehidupan Alam Semesta</string>
+    <string name="photos_memory_gallery_title">Kenangan anda</string>
+    <string name="pied_title">Burung gagak pemburu tikus</string>
+    <string name="ringnecked_title">Burung bayan berleher cincin</string>
+    <string name="seagull_title">Burung camar</string>
+</resources>

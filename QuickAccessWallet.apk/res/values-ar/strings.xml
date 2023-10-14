@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_menu">قائمة</string>
+    <string name="call_notification_answer_action">ردّ</string>
+    <string name="call_notification_answer_video_action">فيديو</string>
+    <string name="call_notification_decline_action">رفض</string>
+    <string name="call_notification_hang_up_action">قطع الاتصال</string>
+    <string name="call_notification_incoming_text">مكالمة واردة</string>
+    <string name="call_notification_ongoing_text">مكالمة جارية</string>
+    <string name="call_notification_screening_text">يتم فحص المكالمة الواردة</string>
+    <string name="error_generic">حدثت مشكلة أثناء الحصول على البطاقات، يُرجى إعادة المحاولة لاحقًا.</string>
+    <string name="error_user_locked">يجب فتح قفل هاتفك لتحميل معلومات الدفع.</string>
+    <string name="settings">الإعدادات</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

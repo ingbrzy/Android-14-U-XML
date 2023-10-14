@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sound_amplifier_html_description">Mit „Audioverstärker“ hörst du leise Töne deutlicher, ohne dass es zu laut wird&lt;br/>&lt;br/> &lt;b>„Audioverstärker“ verwenden&lt;/b>&lt;br/> 1. Schließ kabelgebundene oder Bluetooth-Kopfhörer an&lt;br/> 2. Starte „Audioverstärker“</string>
+    <string name="sound_amplifier_intro">Nutze die Bedienungshilfe „Audioverstärker“ mit Kopfhörern, um die Audioqualität in deiner Umgebung und auf dem Gerät zu verbessern</string>
+</resources>

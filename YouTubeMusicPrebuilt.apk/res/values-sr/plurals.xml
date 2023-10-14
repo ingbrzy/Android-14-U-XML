@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_duration_description_hours">
+        <item quantity="other">%d сати</item>
+        <item quantity="one">%d сат</item>
+        <item quantity="few">%d сата</item>
+    </plurals>
+    <plurals name="accessibility_duration_description_minutes">
+        <item quantity="other">%d минута</item>
+        <item quantity="one">%d минут</item>
+        <item quantity="few">%d минута</item>
+    </plurals>
+    <plurals name="accessibility_duration_description_seconds">
+        <item quantity="other">%d секунди</item>
+        <item quantity="one">%d секунда</item>
+        <item quantity="few">%d секунде</item>
+    </plurals>
+    <plurals name="accessibility_skip_ad_in">
+        <item quantity="other">Прескочите оглас за %1$d сек.</item>
+        <item quantity="one">Прескочите оглас за %1$d сек.</item>
+        <item quantity="few">Прескочите оглас за %1$d сек.</item>
+    </plurals>
+    <plurals name="auto_playlist_with_episode_count_item_subtitle">
+        <item quantity="other">Аутоматска плејлиста • %1$d епизода</item>
+        <item quantity="one">Аутоматска плејлиста • %1$d епизода</item>
+        <item quantity="few">Аутоматска плејлиста • %1$d епизоде</item>
+    </plurals>
+    <plurals name="auto_playlist_with_size_item_subtitle">
+        <item quantity="other">Аутоматска плејлиста • %1$d песама</item>
+        <item quantity="one">Аутоматска плејлиста • %1$d песма</item>
+        <item quantity="few">Аутоматска плејлиста • %1$d песме</item>
+    </plurals>
+    <plurals name="duration_hours">
+        <item quantity="other">%1$d сати</item>
+        <item quantity="one">%1$d сат</item>
+        <item quantity="few">%1$d сата</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%1$d минута</item>
+        <item quantity="one">%1$d минут</item>
+        <item quantity="few">%1$d минута</item>
+    </plurals>
+    <plurals name="hours_abbreviated">
+        <item quantity="other">%s с</item>
+        <item quantity="one">%s с</item>
+        <item quantity="few">%s с</item>
+    </plurals>
+    <plurals name="menu_option_hours">
+        <item quantity="other">%s сати</item>
+        <item quantity="one">%s сат</item>
+        <item quantity="few">%s сата</item>
+    </plurals>
+    <plurals name="menu_option_minutes">
+        <item quantity="other">%s минута</item>
+        <item quantity="one">%s минут</item>
+        <item quantity="few">%s минута</item>
+    </plurals>
+    <plurals name="minutes_abbreviated">
+        <item quantity="other">%s мин</item>
+        <item quantity="one">%s мин</item>
+        <item quantity="few">%s мин</item>
+    </plurals>
+    <plurals name="notification_offline_playlist_progress_size">
+        <item quantity="other">%1$d од %2$d песама</item>
+        <item quantity="one">%1$d од %2$d песме</item>
+        <item quantity="few">%1$d од %2$d песме</item>
+    </plurals>
+    <plurals name="notification_offline_playlist_progress_track_count">
+        <item quantity="other">%1$d од %2$d песама/епизода</item>
+        <item quantity="one">%1$d од %2$d песме/епизоде</item>
+        <item quantity="few">%1$d од %2$d песме/епизоде</item>
+    </plurals>
+    <plurals name="offline_playlist_detail_page_subtitle_with_size">
+        <item quantity="other">Плејлиста • %1$d песама</item>
+        <item quantity="one">Плејлиста • %1$d песма</item>
+        <item quantity="few">Плејлиста • %1$d песме</item>
+    </plurals>
+    <plurals name="offline_playlist_size">
+        <item quantity="other">%1$,d песама</item>
+        <item quantity="one">%1$,d песма</item>
+        <item quantity="few">%1$,d песме</item>
+    </plurals>
+    <plurals name="offline_podcast_playlist_size">
+        <item quantity="other">%1$,d епизода</item>
+        <item quantity="one">%1$,d епизода</item>
+        <item quantity="few">%1$,d епизоде</item>
+    </plurals>
+    <plurals name="playlist_subtitle_with_track_count">
+        <item quantity="other">Плејлиста • %1$d аудио снимака</item>
+        <item quantity="one">Плејлиста • %1$d аудио снимак</item>
+        <item quantity="few">Плејлиста • %1$d аудио снимка</item>
+    </plurals>
+    <plurals name="playlist_with_creator_and_size_item_subtitle">
+        <item quantity="other">%1$s • %2$d песама</item>
+        <item quantity="one">%1$s • %2$d песма</item>
+        <item quantity="few">%1$s • %2$d песме</item>
+    </plurals>
+    <plurals name="playlist_with_creator_and_track_count_item_subtitle">
+        <item quantity="other">%1$s • %2$d аудио снимака</item>
+        <item quantity="one">%1$s • %2$d аудио снимак</item>
+        <item quantity="few">%1$s • %2$d аудио снимка</item>
+    </plurals>
+    <plurals name="playlist_with_entity_type_and_creator_and_size_item_subtitle">
+        <item quantity="other">Плејлиста • %1$s • %2$d песама</item>
+        <item quantity="one">Плејлиста • %1$s • %2$d песма</item>
+        <item quantity="few">Плејлиста • %1$s • %2$d песме</item>
+    </plurals>
+    <plurals name="playlist_with_entity_type_and_creator_and_track_count_item_subtitle">
+        <item quantity="other">Плејлиста • %1$s • %2$d аудио снимака</item>
+        <item quantity="one">Плејлиста • %1$s • %2$d аудио снимак</item>
+        <item quantity="few">Плејлиста • %1$s • %2$d аудио снимка</item>
+    </plurals>
+    <plurals name="pref_enable_smart_download_recent_music_summary">
+        <item quantity="other">Преузећемо до %1$d песама које сте недавно пуштали.</item>
+        <item quantity="one">Преузећемо до %1$d песму коју сте недавно пуштали.</item>
+        <item quantity="few">Преузећемо до %1$d песме које сте недавно пуштали.</item>
+    </plurals>
+    <plurals name="quick_seek_x_second">
+        <item quantity="other">%d секунди</item>
+        <item quantity="one">%d секунда</item>
+        <item quantity="few">%d секунде</item>
+    </plurals>
+    <plurals name="smart_downloads_details_header_byline_explanation">
+        <item quantity="other">Паметно је преузето %1$d песама</item>
+        <item quantity="one">Паметно је преузета %1$d песма</item>
+        <item quantity="few">Паметно су преузете %1$d песме</item>
+    </plurals>
+    <plurals name="smart_downloads_num_songs_estimated_space">
+        <item quantity="other">%1$d песама (око %2$s)</item>
+        <item quantity="one">%1$d песма (око %2$s)</item>
+        <item quantity="few">%1$d песме (око %2$s)</item>
+    </plurals>
+    <plurals name="song_count">
+        <item quantity="other">%1$d песама</item>
+        <item quantity="one">%1$d песма</item>
+        <item quantity="few">%1$d песме</item>
+    </plurals>
+    <plurals name="track_count">
+        <item quantity="other">%1$d снимака</item>
+        <item quantity="one">%1$d снимак</item>
+        <item quantity="few">%1$d снимка</item>
+    </plurals>
+    <plurals name="user_education_quick_seek">
+        <item quantity="other">Двапут додирните лево или десно да бисте прескочили %d секунди</item>
+        <item quantity="one">Двапут додирните лево или десно да бисте прескочили %d секунду</item>
+        <item quantity="few">Двапут додирните лево или десно да бисте прескочили %d секунде</item>
+    </plurals>
+</resources>

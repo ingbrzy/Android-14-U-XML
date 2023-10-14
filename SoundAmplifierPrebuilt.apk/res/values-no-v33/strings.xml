@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sound_amplifier_html_description">Lydforsterker gjør svake lyder høyere uten å gjøre kraftige lyder for høye&lt;br/>&lt;br/> &lt;b>Slik bruker du Lydforsterker&lt;/b>&lt;br/> 1. Koble til hodetelefoner med kabel eller Bluetooth-hodetelefoner&lt;br/> 2. Start Lydforsterker</string>
+    <string name="sound_amplifier_intro">Bruk Lydforsterker med hodetelefoner for å få bedre lydkvalitet i omgivelsene og på enheten</string>
+</resources>

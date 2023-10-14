@@ -1,0 +1,638 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120000">
+        <item quantity="other">Se așteaptă conexiunea Wi-Fi</item>
+        <item quantity="one">Se așteaptă conexiunea Wi-Fi</item>
+        <item quantity="few">Se așteaptă conexiunea Wi-Fi</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120002">
+        <item quantity="other">Pe acest dispozitiv (%d de aplicații)</item>
+        <item quantity="one">Pe acest dispozitiv (%d aplicație)</item>
+        <item quantity="few">Pe acest dispozitiv (%d aplicații)</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120003">
+        <item quantity="other">Funcții pentru %1$s</item>
+        <item quantity="one">Funcție pentru %1$s</item>
+        <item quantity="few">Funcții pentru %1$s</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120004">
+        <item quantity="other">S-a instalat acum %d de zile</item>
+        <item quantity="one">S-a instalat acum %d zi</item>
+        <item quantity="few">S-a instalat acum %d zile</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120005">
+        <item quantity="other">S-a instalat acum %d de ore</item>
+        <item quantity="one">S-a instalat acum %d oră</item>
+        <item quantity="few">S-a instalat acum %d ore</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120006">
+        <item quantity="other">S-a instalat acum %d de minute</item>
+        <item quantity="one">S-a instalat acum %d minut</item>
+        <item quantity="few">S-a instalat acum %d minute</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120007">
+        <item quantity="other">%1$d selectate</item>
+        <item quantity="one">%1$d selectată</item>
+        <item quantity="few">%1$d selectate</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120008">
+        <item quantity="other">S-a actualizat acum %d de zile</item>
+        <item quantity="one">S-a actualizat acum %d zi</item>
+        <item quantity="few">S-a actualizat acum %d zile</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120009">
+        <item quantity="other">S-a actualizat acum %d de ore</item>
+        <item quantity="one">S-a actualizat acum %d oră</item>
+        <item quantity="few">S-a actualizat acum %d ore</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000a">
+        <item quantity="other">S-a actualizat acum %d de minute</item>
+        <item quantity="one">S-a actualizat acum %d minut</item>
+        <item quantity="few">S-a actualizat acum %d minute</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000b">
+        <item quantity="other">Folosită cel mai recent acum %d de zile</item>
+        <item quantity="one">Folosită cel mai recent acum %d zi</item>
+        <item quantity="few">Folosită cel mai recent acum %d zile</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000c">
+        <item quantity="other">Folosită acum %d de ore</item>
+        <item quantity="one">Folosită acum %d oră</item>
+        <item quantity="few">Folosită acum %d ore</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000d">
+        <item quantity="other">Folosită acum %d de minute</item>
+        <item quantity="one">Folosită acum %d minut</item>
+        <item quantity="few">Folosită acum %d minute</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000f">
+        <item quantity="other">Aplicațiile au fost scanate acum %d de zile</item>
+        <item quantity="one">Aplicațiile au fost scanate acum %d zi</item>
+        <item quantity="few">Aplicațiile au fost scanate acum %d zile</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120010">
+        <item quantity="other">Aplicațiile au fost scanate acum %d de ore</item>
+        <item quantity="one">Aplicațiile au fost scanate acum %d oră</item>
+        <item quantity="few">Aplicațiile au fost scanate acum %d ore</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120011">
+        <item quantity="other">Aplicațiile au fost scanate acum %d de minute</item>
+        <item quantity="one">Aplicațiile au fost scanate acum %d minut</item>
+        <item quantity="few">Aplicațiile au fost scanate acum %d minute</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120014">
+        <item quantity="other">%1$d de recenzii</item>
+        <item quantity="one">%1$d recenzie</item>
+        <item quantity="few">%1$d recenzii</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120015">
+        <item quantity="other">%1$d de recenzii pentru evaluare cu %2$d stele</item>
+        <item quantity="one">%1$d recenzie pentru evaluare cu %2$d stele</item>
+        <item quantity="few">%1$d recenzii pentru evaluare cu %2$d stele</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120016">
+        <item quantity="other">Instalează pe %1$d de dispozitive.</item>
+        <item quantity="one">Instalează pe %1$d dispozitiv.</item>
+        <item quantity="few">Instalează pe %1$d dispozitive.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120017">
+        <item quantity="other">Instalează pe %1$d de dispozitive. Sunt disponibile mai multe dispozitive.</item>
+        <item quantity="one">Instalează pe %1$d dispozitiv. Sunt disponibile mai multe dispozitive.</item>
+        <item quantity="few">Instalează pe %1$d dispozitive. Sunt disponibile mai multe dispozitive.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120018">
+        <item quantity="other">Aplicația va fi instalată în curând pe %1$d de dispozitive.</item>
+        <item quantity="one">Aplicația va fi instalată în curând pe %1$d dispozitiv.</item>
+        <item quantity="few">Aplicația va fi instalată în curând pe %1$d dispozitive.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120019">
+        <item quantity="other">%1$d disponibile în plus</item>
+        <item quantity="one">%1$d disponibil în plus</item>
+        <item quantity="few">%1$d disponibile în plus</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001a">
+        <item quantity="other">%1$d disponibile în plus cu achiziția</item>
+        <item quantity="one">%1$d disponibil în plus cu achiziția</item>
+        <item quantity="few">%1$d disponibile în plus cu achiziția</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001b">
+        <item quantity="other">%1$d de zile</item>
+        <item quantity="one">%1$d zi</item>
+        <item quantity="few">%1$d zile</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001c">
+        <item quantity="other">Evaluare medie de %1$s stele în %2$s de recenzii</item>
+        <item quantity="one">Evaluare medie de %1$s stele într-o recenzie</item>
+        <item quantity="few">Evaluare medie de %1$s stele în %2$s recenzii</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001d">
+        <item quantity="other">%s de recenzii</item>
+        <item quantity="one">O recenzie</item>
+        <item quantity="few">%s recenzii</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001e">
+        <item quantity="other">Mai ai de parcurs %1$d de pași pentru a deveni dezvoltator.</item>
+        <item quantity="one">Mai ai de parcurs %1$d pas pentru a deveni dezvoltator.</item>
+        <item quantity="few">Mai ai de parcurs %1$d pași pentru a deveni dezvoltator.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001f">
+        <item quantity="other">mașini</item>
+        <item quantity="one">mașină</item>
+        <item quantity="few">mașini</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120020">
+        <item quantity="other">Chromebookuri</item>
+        <item quantity="one">Chromebook</item>
+        <item quantity="few">Chromebookuri</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120021">
+        <item quantity="other">pliabile</item>
+        <item quantity="one">pliabil</item>
+        <item quantity="few">pliabile</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120022">
+        <item quantity="other">telefoane</item>
+        <item quantity="one">telefon</item>
+        <item quantity="few">telefoane</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120023">
+        <item quantity="other">tablete</item>
+        <item quantity="one">tabletă</item>
+        <item quantity="few">tablete</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120024">
+        <item quantity="other">televizoare</item>
+        <item quantity="one">televizor</item>
+        <item quantity="few">televizoare</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120025">
+        <item quantity="other">dispozitive</item>
+        <item quantity="one">dispozitiv</item>
+        <item quantity="few">dispozitive</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120026">
+        <item quantity="other">ceasuri</item>
+        <item quantity="one">ceas</item>
+        <item quantity="few">ceasuri</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120027">
+        <item quantity="other">%1$d de Puncte Play disponibile.</item>
+        <item quantity="one">%1$d Punct Play disponibil.</item>
+        <item quantity="few">%1$d Puncte Play disponibile.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120028">
+        <item quantity="other">%1$d de ore</item>
+        <item quantity="one">%1$d oră</item>
+        <item quantity="few">%1$d ore</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120029">
+        <item quantity="other">Au mai rămas %1$d de ore</item>
+        <item quantity="one">A mai rămas o oră</item>
+        <item quantity="few">Au mai rămas %1$d ore</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002a">
+        <item quantity="other">Se instalează %1$d de aplicații…</item>
+        <item quantity="one">Se instalează %1$d aplicație…</item>
+        <item quantity="few">Se instalează %1$d aplicații…</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002b">
+        <item quantity="other">Instalările au fost întrerupte</item>
+        <item quantity="one">Instalarea a fost întreruptă</item>
+        <item quantity="few">Instalările au fost întrerupte</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002c">
+        <item quantity="other">Se vor instala %1$d de aplicații</item>
+        <item quantity="one">Se va instala %1$d aplicație</item>
+        <item quantity="few">Se vor instala %1$d aplicații</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002d">
+        <item quantity="other">S-a actualizat acum %d de zile</item>
+        <item quantity="one">S-a actualizat acum %d zi</item>
+        <item quantity="few">S-a actualizat acum %d zile</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002e">
+        <item quantity="other">S-a actualizat acum %d de ore</item>
+        <item quantity="one">S-a actualizat acum %d oră</item>
+        <item quantity="few">S-a actualizat acum %d ore</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002f">
+        <item quantity="other">S-a actualizat acum %d de minute</item>
+        <item quantity="one">S-a actualizat acum %d minut</item>
+        <item quantity="few">S-a actualizat acum %d minute</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120033">
+        <item quantity="other">Acum %1$d de ani</item>
+        <item quantity="one">Acum %1$d an</item>
+        <item quantity="few">Acum %1$d ani</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120034">
+        <item quantity="other">%1$d de minute</item>
+        <item quantity="one">%1$d minut</item>
+        <item quantity="few">%1$d minute</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120035">
+        <item quantity="other">Au mai rămas %1$d de minute</item>
+        <item quantity="one">A mai rămas un minut</item>
+        <item quantity="few">Au mai rămas %1$d minute</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120037">
+        <item quantity="other">%1$d selectate</item>
+        <item quantity="one">%1$d selectat</item>
+        <item quantity="few">%1$d selectate</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120038">
+        <item quantity="other">Se arhivează %1$d de aplicații</item>
+        <item quantity="one">Se arhivează %1$d aplicație</item>
+        <item quantity="few">Se arhivează %1$d aplicații</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120039">
+        <item quantity="other">Elimini aplicațiile selectate?</item>
+        <item quantity="one">Elimini aplicația selectată?</item>
+        <item quantity="few">Elimini aplicațiile selectate?</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12003a">
+        <item quantity="other">%1$d de aplicații au fost eliminate</item>
+        <item quantity="one">%1$d aplicație a fost eliminată</item>
+        <item quantity="few">%1$d aplicații au fost eliminate</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12003d">
+        <item quantity="other">%1$d de instalări în așteptare</item>
+        <item quantity="one">%1$d instalare în așteptare</item>
+        <item quantity="few">%1$d instalări în așteptare</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12003e">
+        <item quantity="other">%1$d de instalări în curs</item>
+        <item quantity="one">%1$d instalare în curs</item>
+        <item quantity="few">%1$d instalări în curs</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120040">
+        <item quantity="other">%1$d de actualizări în așteptare</item>
+        <item quantity="one">%1$d actualizare în așteptare</item>
+        <item quantity="few">%1$d actualizări în așteptare</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120041">
+        <item quantity="other">%1$d de actualizări în curs</item>
+        <item quantity="one">%1$d actualizare în curs</item>
+        <item quantity="few">%1$d actualizări în curs</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120042">
+        <item quantity="other">%1$d de aplicații instalate</item>
+        <item quantity="one">%1$d aplicație instalată</item>
+        <item quantity="few">%1$d aplicații instalate</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120044">
+        <item quantity="other">S-a lansat acum %1$d de ore</item>
+        <item quantity="one">S-a lansat acum %1$d oră</item>
+        <item quantity="few">S-a lansat acum %1$d ore</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120045">
+        <item quantity="other">S-a lansat acum %1$d de zile</item>
+        <item quantity="one">S-a lansat acum %1$d zi</item>
+        <item quantity="few">S-a lansat acum %1$d zile</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120046">
+        <item quantity="other">Aplicațiile au fost eliminate</item>
+        <item quantity="one">Aplicația a fost eliminată</item>
+        <item quantity="few">Aplicațiile au fost eliminate</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120047">
+        <item quantity="other">%1$d de actualizări necesită aprobare</item>
+        <item quantity="one">%1$d actualizare necesită aprobare</item>
+        <item quantity="few">%1$d actualizări necesită aprobare</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120048">
+        <item quantity="other">%1$d de actualizări noi</item>
+        <item quantity="one">%1$d actualizare nouă</item>
+        <item quantity="few">%1$d actualizări noi</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120049">
+        <item quantity="other">%1$d de actualizări disponibile</item>
+        <item quantity="one">%1$d actualizare disponibilă</item>
+        <item quantity="few">%1$d actualizări disponibile</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004a">
+        <item quantity="other">Actualizează tot</item>
+        <item quantity="one">Actualizează</item>
+        <item quantity="few">Actualizează tot</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004b">
+        <item quantity="other">%1$d de aplicații actualizate</item>
+        <item quantity="one">%1$d aplicație actualizată</item>
+        <item quantity="few">%1$d aplicații actualizate</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004c">
+        <item quantity="other">Se încheie peste %1$d de ore</item>
+        <item quantity="one">Se încheie peste %1$d oră</item>
+        <item quantity="few">Se încheie peste %1$d ore</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004d">
+        <item quantity="other">Se încheie peste %1$d de zile</item>
+        <item quantity="one">Se încheie peste %1$d zi</item>
+        <item quantity="few">Se încheie peste %1$d zile</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004e">
+        <item quantity="other">%1$d de minute</item>
+        <item quantity="one">%1$d minut</item>
+        <item quantity="few">%1$d minute</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004f">
+        <item quantity="other">%1$d de secunde</item>
+        <item quantity="one">%1$d secundă</item>
+        <item quantity="few">%1$d secunde</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120050">
+        <item quantity="other">Aplicațiile personale au fost eliminate</item>
+        <item quantity="one">Aplicația personală a fost eliminată</item>
+        <item quantity="few">Aplicațiile personale au fost eliminate</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120053">
+        <item quantity="other">Play Protect a scanat acum %d de zile</item>
+        <item quantity="one">Play Protect a scanat acum %d zi</item>
+        <item quantity="few">Play Protect a scanat acum %d zile</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120054">
+        <item quantity="other">Play Protect a scanat acum %d de ore</item>
+        <item quantity="one">Play Protect a scanat acum %d oră</item>
+        <item quantity="few">Play Protect a scanat acum %d ore</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120055">
+        <item quantity="other">Play Protect a scanat acum %d de minute</item>
+        <item quantity="one">Play Protect a scanat acum %d minut</item>
+        <item quantity="few">Play Protect a scanat acum %d minute</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120056">
+        <item quantity="other">%1$s de puncte pentru a menține %2$s anul viitor</item>
+        <item quantity="one">Un punct pentru a menține %2$s anul viitor</item>
+        <item quantity="few">%1$s puncte pentru a menține %2$s anul viitor</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120057">
+        <item quantity="other">%1$s de puncte până la %2$s</item>
+        <item quantity="one">Un punct până la %2$s</item>
+        <item quantity="few">%1$s puncte până la %2$s</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120058">
+        <item quantity="other">Ai acordat aceste permisiuni pentru aplicații pentru a instala sau a actualiza aplicații necunoscute, care ar putea pune în pericol dispozitivul și informațiile tale cu caracter personal. Refuză permisiunea pentru a împiedica instalarea.</item>
+        <item quantity="one">Ai acordat această permisiune pentru aplicații pentru a instala sau a actualiza aplicații necunoscute, care ar putea pune în pericol dispozitivul și informațiile tale cu caracter personal. Refuză permisiunea pentru a împiedica instalarea.</item>
+        <item quantity="few">Ai acordat aceste permisiuni pentru aplicații pentru a instala sau a actualiza aplicații necunoscute, care ar putea pune în pericol dispozitivul și informațiile tale cu caracter personal. Refuză permisiunea pentru a împiedica instalarea.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120059">
+        <item quantity="other">Ai acordat %1$d de permisiuni pentru aplicații pentru a instala sau a actualiza aplicații necunoscute, care ar putea pune în pericol dispozitivul și informațiile tale cu caracter personal</item>
+        <item quantity="one">Ai acordat o permisiune pentru aplicații pentru a instala sau a actualiza aplicații necunoscute, care ar putea pune în pericol dispozitivul și informațiile tale cu caracter personal</item>
+        <item quantity="few">Ai acordat %1$d permisiuni pentru aplicații pentru a instala sau a actualiza aplicații necunoscute, care ar putea pune în pericol dispozitivul și informațiile tale cu caracter personal</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005a">
+        <item quantity="other">%1$d de avertismente de confidențialitate</item>
+        <item quantity="one">Un avertisment de confidențialitate</item>
+        <item quantity="few">%1$d avertismente de confidențialitate</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005b">
+        <item quantity="other">S-au găsit %1$d de aplicații dăunătoare</item>
+        <item quantity="one">S-a găsit o aplicație dăunătoare</item>
+        <item quantity="few">S-au găsit %1$d aplicații dăunătoare</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005c">
+        <item quantity="other">%1$d de notificări de securitate</item>
+        <item quantity="one">O notificare de securitate</item>
+        <item quantity="few">%1$d notificări de securitate</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005d">
+        <item quantity="other">%1$d de actualizări de securitate</item>
+        <item quantity="one">O actualizare de securitate</item>
+        <item quantity="few">%1$d actualizări de securitate</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005e">
+        <item quantity="other">S-au găsit %1$d de aplicații nesigure</item>
+        <item quantity="one">S-a găsit o aplicație nesigură</item>
+        <item quantity="few">S-au găsit %1$d aplicații nesigure</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005f">
+        <item quantity="other">%1$d de avertismente</item>
+        <item quantity="one">Un avertisment</item>
+        <item quantity="few">%1$d avertismente</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120060">
+        <item quantity="other">S-au găsit aplicații nesigure</item>
+        <item quantity="one">S-a găsit o aplicație nesigură</item>
+        <item quantity="few">S-au găsit aplicații nesigure</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120061">
+        <item quantity="other">Se încheie peste %1$d de ore</item>
+        <item quantity="one">Se încheie peste %1$d oră</item>
+        <item quantity="few">Se încheie peste %1$d ore</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120062">
+        <item quantity="other">Se încheie peste %1$d de zile</item>
+        <item quantity="one">Se încheie peste %1$d zi</item>
+        <item quantity="few">Se încheie peste %1$d zile</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120063">
+        <item quantity="other">%1$d din %2$d de pași finalizați</item>
+        <item quantity="one">%1$d din %2$d pas finalizat</item>
+        <item quantity="few">%1$d din %2$d pași finalizați</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120064">
+        <item quantity="other">Gata de instalat %1$d de aplicații</item>
+        <item quantity="one">Gata de instalat %1$d aplicație</item>
+        <item quantity="few">Gata de instalat %1$d aplicații</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120065">
+        <item quantity="other">%1$s îți va trimite %2$d de aplicații. Codul de conectare trebuie să corespundă.</item>
+        <item quantity="one">%1$s îți va trimite %2$d aplicație. Codul de conectare trebuie să corespundă.</item>
+        <item quantity="few">%1$s îți va trimite %2$d aplicații. Codul de conectare trebuie să corespundă.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120066">
+        <item quantity="other">Se primesc %1$d de aplicații de pe „%2$s”…</item>
+        <item quantity="one">Se primește %1$d aplicație de pe „%2$s”…</item>
+        <item quantity="few">Se primesc %1$d aplicații de pe „%2$s”…</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006a">
+        <item quantity="other">%1$d de utilizatori au considerat această recenzie utilă. Marchează comentariul ca util</item>
+        <item quantity="one">%1$d utilizator a considerat această recenzie utilă. Marchează comentariul ca util</item>
+        <item quantity="few">%1$d utilizatori au considerat această recenzie utilă. Marchează comentariul ca util</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006b">
+        <item quantity="other">%1$d de utilizatori au considerat această recenzie utilă. Anulează marcarea comentariului ca util</item>
+        <item quantity="one">%1$d utilizator a considerat această recenzie utilă. Anulează marcarea comentariului ca util</item>
+        <item quantity="few">%1$d utilizatori au considerat această recenzie utilă. Anulează marcarea comentariului ca util</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006c">
+        <item quantity="other">%1$s de persoane au considerat această recenzie utilă</item>
+        <item quantity="one">%1$s persoană a considerat această recenzie utilă</item>
+        <item quantity="few">%1$s persoane au considerat această recenzie utilă</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006f">
+        <item quantity="other">%1$d de secunde</item>
+        <item quantity="one">%1$d secundă</item>
+        <item quantity="few">%1$d secunde</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120070">
+        <item quantity="other">Au mai rămas %1$d de secunde</item>
+        <item quantity="one">A mai rămas o secundă</item>
+        <item quantity="few">Au mai rămas %1$d secunde</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120071">
+        <item quantity="other">Ai selectat %1$d • %2$s</item>
+        <item quantity="one">Ai selectat %1$d • %2$s</item>
+        <item quantity="few">Ai selectat %1$d • %2$s</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120072">
+        <item quantity="other">Se trimit %1$d de aplicații pe „%2$s”…\"…</item>
+        <item quantity="one">Se trimite %1$d aplicație pe „%2$s”…</item>
+        <item quantity="few">Se trimit %1$d aplicații pe „%2$s”…\"…</item>
+    </plurals>
+    <plurals name="setup_completed_installed">
+        <item quantity="other">%1$d de aplicații instalate</item>
+        <item quantity="one">%1$d aplicație instalată</item>
+        <item quantity="few">%1$d aplicații instalate</item>
+    </plurals>
+    <plurals name="setup_completed_installed_with_failures">
+        <item quantity="other">Nu s-au putut instala %1$d din %2$d de aplicații</item>
+        <item quantity="one">Nu s-a putut instala %1$d din %2$d aplicație</item>
+        <item quantity="few">Nu s-au putut instala %1$d din %2$d aplicații</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120075">
+        <item quantity="other">Folosit cel mai recent cu %1$d de zile în urmă</item>
+        <item quantity="one">Folosit cel mai recent cu %1$d zi în urmă</item>
+        <item quantity="few">Folosit cel mai recent cu %1$d zile în urmă</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120076">
+        <item quantity="other">Restabilește cele %1$d de aplicații selectate</item>
+        <item quantity="one">Restabilește aplicația selectată</item>
+        <item quantity="few">Restabilește cele %1$d aplicații selectate</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120078">
+        <item quantity="other">Descarci %1$d de limbi noi?</item>
+        <item quantity="one">Descarci o limbă nouă?</item>
+        <item quantity="few">Descarci %1$d limbi noi?</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007b">
+        <item quantity="other">%1$d de răspunsuri la sondaj vor fi eliminate definitiv din contul tău.</item>
+        <item quantity="one">%1$d răspuns la sondaj va fi eliminat definitiv din contul tău.</item>
+        <item quantity="few">%1$d răspunsuri la sondaj vor fi eliminate definitiv din contul tău.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007c">
+        <item quantity="other">%1$d selectate</item>
+        <item quantity="one">%1$d selectat</item>
+        <item quantity="few">%1$d selectate</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007d">
+        <item quantity="other">Afișează Punctele Play. %1$d de puncte disponibile.</item>
+        <item quantity="one">Afișează Punctele Play. %1$d punct disponibil.</item>
+        <item quantity="few">Afișează Punctele Play. %1$d puncte disponibile.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007e">
+        <item quantity="other">%1$d de Puncte Play disponibile.</item>
+        <item quantity="one">%1$d Punct Play disponibil.</item>
+        <item quantity="few">%1$d Puncte Play disponibile.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120080">
+        <item quantity="other">%1$s de puncte</item>
+        <item quantity="one">Un punct</item>
+        <item quantity="few">%1$s puncte</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120081">
+        <item quantity="other">Se transferă %1$d de aplicații pe „%2$s”…</item>
+        <item quantity="one">Se transferă %1$d aplicație pe „%2$s”…</item>
+        <item quantity="few">Se transferă %1$d aplicații pe „%2$s”…</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120082">
+        <item quantity="other">%1$d de aplicații vor fi dezinstalate de pe dispozitiv.</item>
+        <item quantity="one">%1$d aplicație va fi dezinstalată de pe dispozitiv.</item>
+        <item quantity="few">%1$d aplicații vor fi dezinstalate de pe dispozitiv.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120083">
+        <item quantity="other">Dezinstalezi aplicațiile selectate?</item>
+        <item quantity="one">Dezinstalezi aplicația selectată?</item>
+        <item quantity="few">Dezinstalezi aplicațiile selectate?</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120084">
+        <item quantity="other">Dezinstalezi actualizările aplicațiilor selectate?</item>
+        <item quantity="one">Dezinstalezi actualizările aplicației selectate?</item>
+        <item quantity="few">Dezinstalezi actualizările aplicațiilor selectate?</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120085">
+        <item quantity="other">%1$s de aplicații au fost eliminate și există suficient spațiu pentru %2$s.</item>
+        <item quantity="one">%1$s aplicație a fost eliminată și există suficient spațiu pentru %2$s.</item>
+        <item quantity="few">%1$s aplicații au fost eliminate și există suficient spațiu pentru %2$s.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120086">
+        <item quantity="other">Aplicațiile vor fi instalate în curând.</item>
+        <item quantity="one">Aplicația va fi instalată în curând.</item>
+        <item quantity="few">Aplicațiile vor fi instalate în curând.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120087">
+        <item quantity="other">Actualizările aplicațiilor vor fi instalate în curând.</item>
+        <item quantity="one">Actualizarea aplicației va fi instalată în curând.</item>
+        <item quantity="few">Actualizările aplicațiilor vor fi instalate în curând.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008a">
+        <item quantity="other">Folosită cel mai recent acum %1$d de zile</item>
+        <item quantity="one">Folosită cel mai recent acum %1$d zi</item>
+        <item quantity="few">Folosită cel mai recent acum %1$d zile</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008b">
+        <item quantity="other">Folosită cel mai recent acum %1$d de luni</item>
+        <item quantity="one">Folosită cel mai recent acum %1$d lună</item>
+        <item quantity="few">Folosită cel mai recent acum %1$d luni</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008c">
+        <item quantity="other">Pentru a instala aplicații sau actualizări pe acest dispozitiv, elimină aplicațiile de care nu mai ai nevoie. Poți elibera spațiu dacă ștergi fișiere media în Setări de stocare.</item>
+        <item quantity="one">Pentru a instala aplicația sau actualizarea pe acest dispozitiv, elimină aplicațiile de care nu mai ai nevoie. Poți elibera spațiu dacă ștergi fișiere media în Setări de stocare.</item>
+        <item quantity="few">Pentru a instala aplicații sau actualizări pe acest dispozitiv, elimină aplicațiile de care nu mai ai nevoie. Poți elibera spațiu dacă ștergi fișiere media în Setări de stocare.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008d">
+        <item quantity="other">Pentru a instala aplicații sau actualizări pe acest dispozitiv, elimină aplicațiile de care nu mai ai nevoie. Poți elibera spațiu ștergând fișiere media din &lt;a href=\"\">Setări > Stocare&lt;/a>.</item>
+        <item quantity="one">Pentru a instala aplicația sau actualizarea pe acest dispozitiv, elimină aplicațiile de care nu mai ai nevoie. Poți elibera spațiu ștergând fișiere media din &lt;a href=\"\">Setări > Stocare&lt;/a>.</item>
+        <item quantity="few">Pentru a instala aplicații sau actualizări pe acest dispozitiv, elimină aplicațiile de care nu mai ai nevoie. Poți elibera spațiu ștergând fișiere media din &lt;a href=\"\">Setări > Stocare&lt;/a>.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008e">
+        <item quantity="other">Pentru a instala aplicații sau actualizări pe acest dispozitiv, elimină aplicațiile de care nu mai ai nevoie. Poți elibera spațiu ștergând fișiere media din Setări > Stocare.</item>
+        <item quantity="one">Pentru a instala aplicația sau actualizarea pe acest dispozitiv, elimină aplicațiile de care nu mai ai nevoie. Poți elibera spațiu ștergând fișiere media din Setări > Stocare.</item>
+        <item quantity="few">Pentru a instala aplicații sau actualizări pe acest dispozitiv, elimină aplicațiile de care nu mai ai nevoie. Poți elibera spațiu ștergând fișiere media din Setări > Stocare.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008f">
+        <item quantity="other">%1$d de aplicații au fost dezinstalate</item>
+        <item quantity="one">%1$d aplicație a fost dezinstalată</item>
+        <item quantity="few">%1$d aplicații au fost dezinstalate</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120090">
+        <item quantity="other">Am găsit %1$d de aplicații pe care nu le-ai folosit de ceva vreme. Dacă le elimini, vei câștiga %2$d MB de spațiu de stocare</item>
+        <item quantity="one">Am găsit %1$d aplicație pe care nu ai folosit-o de ceva vreme. Dacă o elimini, vei câștiga %2$d MB de spațiu de stocare</item>
+        <item quantity="few">Am găsit %1$d aplicații pe care nu le-ai folosit de ceva vreme. Dacă le elimini, vei câștiga %2$d MB de spațiu de stocare</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120091">
+        <item quantity="other">Începe peste %1$d de ore</item>
+        <item quantity="one">Începe peste %1$d oră</item>
+        <item quantity="few">Începe peste %1$d ore</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120092">
+        <item quantity="other">Începe peste %1$d de zile</item>
+        <item quantity="one">Începe peste %1$d zi</item>
+        <item quantity="few">Începe peste %1$d zile</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120093">
+        <item quantity="other">Disponibilă peste %1$d de ore</item>
+        <item quantity="one">Disponibilă peste %1$d oră</item>
+        <item quantity="few">Disponibilă peste %1$d ore</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120094">
+        <item quantity="other">Disponibilă peste %1$d de zile</item>
+        <item quantity="one">Disponibilă peste %1$d zi</item>
+        <item quantity="few">Disponibilă peste %1$d zile</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120095">
+        <item quantity="other">Acest dispozitiv nu a avut o actualizare de sistem în ultimele %1$d de luni</item>
+        <item quantity="one">Acest dispozitiv nu a avut o actualizare de sistem de %1$d lună</item>
+        <item quantity="few">Acest dispozitiv nu a avut o actualizare de sistem în ultimele %1$d luni</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120096">
+        <item quantity="other">Aplicațiile pentru lucru au fost eliminate</item>
+        <item quantity="one">Aplicația pentru lucru a fost eliminată</item>
+        <item quantity="few">Aplicațiile pentru lucru au fost eliminate</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120097">
+        <item quantity="other">Acum %1$d ani</item>
+        <item quantity="one">Acum %1$d an</item>
+        <item quantity="few">Acum %1$d ani</item>
+    </plurals>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_retaildemoCommunication">Saltzaileentzako demo moduaren zerbitzuak aplikazioarekin interakzioan aritzeko baimena ematen dio aplikazioari. Saltzaileentzako demo moduaren zerbitzuak aplikazioari soilik eman beharko litzaioke baimen hori. Baimen hori duten aplikazioek saltzaileentzako demo modurako erreserbatuta dauden ekintzak abiaraz ditzakete.</string>
+    <string name="permlab_retaildemoCommunication">Saltzaileentzako demo moduaren komunikazioa</string>
+    <string name="retaildemo_preload_app_name">Saltzaileentzako demo moduaren zerbitzuak</string>
+</resources>

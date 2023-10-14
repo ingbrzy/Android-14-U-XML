@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="call_captions_typing_predictions_post_system_message">
+        <item>آداب، یہ کون ہے/؟</item>
+        <item>آداب، آپ کیسے ہیں/؟</item>
+        <item>براہ کرم ایک منٹ انتظار کریں</item>
+        <item>آداب، کیا آپ بعد میں کال کر سکتے ہیں/؟</item>
+        <item>آداب/! کال کرنے کے لیے شکریہ۔</item>
+    </string-array>
+    <string-array name="captions_settings_enable_for_calls_choices_entries">
+        <item>ہر بار پوچھیں</item>
+        <item>ہمیشہ</item>
+        <item>آف</item>
+    </string-array>
+    <string-array name="captions_settings_typing_voice_names">
+        <item>آواز A</item>
+        <item>آواز B</item>
+        <item>آواز C</item>
+        <item>آواز D</item>
+        <item>آواز E</item>
+        <item>آواز F</item>
+        <item>آواز G</item>
+        <item>آواز H</item>
+        <item>آواز I</item>
+        <item>آواز J</item>
+        <item>آواز K</item>
+        <item>آواز L</item>
+        <item>آواز M</item>
+        <item>آواز N</item>
+        <item>آواز O</item>
+        <item>آواز P</item>
+    </string-array>
+    <string-array name="pref_download_policy_entries">
+        <item>موبائل + WiFi</item>
+        <item>صرف Wi-Fi</item>
+        <item>اپ ڈیٹ نہ کریں</item>
+    </string-array>
+    <string-array name="pref_download_policy_entry_values_placeholder">
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+</resources>

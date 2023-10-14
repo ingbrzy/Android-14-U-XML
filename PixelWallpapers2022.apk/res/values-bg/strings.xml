@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="azure_title">Ултрамаринова сойка</string>
+    <string name="blackswan_title">Черен лебед</string>
+    <string name="cockatoo_title">Какаду</string>
+    <string name="come_alive_title">Вълнуващ екран</string>
+    <string name="feathers_attribution">Снимка от Андрю Цукерман</string>
+    <string name="feathers_description">Перната демонстрация на цветове и детайли</string>
+    <string name="feathers_title">Пера</string>
+    <string name="greenwinged_title">Зелен ара</string>
+    <string name="king_title">Кралски гриф</string>
+    <string name="living_universe_title">Динамична вселена</string>
+    <string name="photos_memory_gallery_title">Вашите спомени</string>
+    <string name="pied_title">Бяла врана</string>
+    <string name="ringnecked_title">Крамеров папагал</string>
+    <string name="seagull_title">Чайка</string>
+</resources>

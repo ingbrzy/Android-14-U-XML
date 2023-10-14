@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="chips">
+        <item>ST54</item>
+        <item>ST33</item>
+    </string-array>
+    <array name="config_state_busy_intent_list" />
+    <array name="config_state_ready_intent_list" />
+    <array name="config_state_request_intent_list" />
+    <array name="config_state_request_permission_list" />
+    <string-array name="st_33_image">
+        <item>GGLP22_ST33J_GSMALIVE_DVT1.0</item>
+        <item>GGLP22_ST33J_GSMATEST_DVT1.0</item>
+        <item>GGL_ST33J_GSMALIVE_EVT_1.0</item>
+        <item>GGL_ST33J_GSMATEST_EVT_1.0</item>
+    </string-array>
+    <string-array name="st_54_image">
+        <item>GGL_P23_ST54L_GSMALIVE_M5.0_PVT1.0_QorvoTEST</item>
+        <item>GGL_P23_ST54L_GSMALIVE_M5.0_PVT1.0_ppVersion_Fixed</item>
+        <item>GGL_P23_ST54L_GSMATEST_M5.0_PVT1.0_QorvoTEST</item>
+        <item>GGL_P23_ST54L_GSMALIVE_M4.1_DVT1.0</item>
+        <item>GGL_GGL_P23_ST54L_GSMATEST_M4.1_DVT1.0_QorvoTEST</item>
+        <item>GGL_P23_ST54L_GSMALIVE_M3.1_EVT1.0</item>
+        <item>GGL_P23_ST54L_GSMATEST_M3.1_EVT1.0</item>
+        <item>GGL_P22_ST54K_GSMALIVE_DVT</item>
+        <item>GGL_P22_ST54K_GSMALIVE_EVT1.1</item>
+        <item>GGL_B3_ST54K_EVT1.1_V2</item>
+        <item>GGL_B3_ST54K_EVT1.1_TEST</item>
+        <item>GGL_ST54K_DVT_2.0_EVT_Certs</item>
+        <item>GGL_ST54K_DVT_2.0_Patch_CCC_USRA2.2</item>
+        <item>GGL_ST54K_DVT_2.0</item>
+    </string-array>
+</resources>

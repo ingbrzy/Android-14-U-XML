@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="azure_title">Azurblåskade</string>
+    <string name="blackswan_title">Sort svane</string>
+    <string name="cockatoo_title">Kakadue</string>
+    <string name="come_alive_title">Dynamiske baggrunde</string>
+    <string name="feathers_attribution">Foto: Andrew Zuckerman</string>
+    <string name="feathers_description">Fine fjer i flotte farver</string>
+    <string name="feathers_title">Fjer</string>
+    <string name="greenwinged_title">Mørkerød ara</string>
+    <string name="king_title">Kongegrib</string>
+    <string name="living_universe_title">Levende univers</string>
+    <string name="photos_memory_gallery_title">Dine minder</string>
+    <string name="pied_title">Broget krage</string>
+    <string name="ringnecked_title">Alexanderparakit</string>
+    <string name="seagull_title">Måge</string>
+</resources>

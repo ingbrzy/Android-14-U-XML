@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_error_bad_calibration">Fingerabdrucksensor kann nicht verwendet werden – kontaktiere einen Reparaturdienstleister oder gehe zu g.co/pixel/fingerprintunlock</string>
+    <string name="fingerprint_recalibrate_notification_content">Kontaktiere einen Reparaturdienstleister oder gehe zu g.co/pixel/fingerprintunlock</string>
+    <string name="battery_saver_description_with_learn_more">"Der Stromsparmodus sorgt für eine längere Akkulaufzeit:
+
+• Das dunkle Design wird aktiviert
+• Hintergrundaktivitäten, einige optische Effekte und weitere Funktionen wie „Hey Google“ werden abgeschaltet oder eingeschränkt
+• Deine Netzwerkverbindungen werden optimiert
+
+"<annotation id="url">Weitere Informationen</annotation></string>
+</resources>

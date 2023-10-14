@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="azure_title">এজুৰ জে’</string>
+    <string name="blackswan_title">ক’লা ৰাজহাঁহ</string>
+    <string name="cockatoo_title">ক’কাটু</string>
+    <string name="come_alive_title">জীৱন্ত</string>
+    <string name="feathers_attribution">এণ্ড্ৰীউ জুকাৰমেনে তোলা ফট’</string>
+    <string name="feathers_description">পাখিৰ ৰং আৰু সবিশেষ প্ৰদৰ্শন</string>
+    <string name="feathers_title">পাখি</string>
+    <string name="greenwinged_title">সেউজীয়া পাখি থকা মাকাউ</string>
+    <string name="king_title">ৰজা শগুন</string>
+    <string name="living_universe_title">চলমান সৌৰজগত</string>
+    <string name="photos_memory_gallery_title">আপোনাৰ স্মৃতি</string>
+    <string name="pied_title">পখৰা কাউৰী</string>
+    <string name="ringnecked_title">ডিঙিত আঙঠিৰ দৰে সাঁজ থকা ভাটৌ</string>
+    <string name="seagull_title">ছীগাল</string>
+</resources>

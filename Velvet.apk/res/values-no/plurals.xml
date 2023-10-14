@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="assistantactions_n_phone_numbers">
+        <item quantity="other">%1$d numre</item>
+        <item quantity="one">%1$d nummer</item>
+    </plurals>
+    <plurals name="public_notification_text">
+        <item quantity="other">%1$d nye varsler</item>
+        <item quantity="one">Du har et varsel</item>
+    </plurals>
+    <plurals name="share_eta_button">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+    </plurals>
+    <plurals name="share_eta_message">
+        <item quantity="other">Kommer frem om cirka %d minutter.</item>
+        <item quantity="one">Kommer frem om %d minutt.</item>
+    </plurals>
+    <plurals name="share_imminent_eta_message">
+        <item quantity="other">Kommer frem om %d minutter.</item>
+        <item quantity="one">Kommer frem om %d minutt.</item>
+    </plurals>
+</resources>

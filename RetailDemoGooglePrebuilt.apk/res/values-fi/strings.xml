@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_retaildemoCommunication">Myöntää sovellukselle luvan käyttää esittelytilapalveluita. Tämä lupa pitäisi myöntää vain esittelytilalle. Sovellukset, joilla on tämä lupa, voivat aloittaa toimia, jotka on varattu esittelytilalle.</string>
+    <string name="permlab_retaildemoCommunication">Viestintä esittelytilan kanssa</string>
+    <string name="retaildemo_preload_app_name">Esittelytilapalvelut</string>
+</resources>

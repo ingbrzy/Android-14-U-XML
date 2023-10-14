@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="call_captions_typing_predictions_post_system_message">
+        <item>Zdravím, kdo je to?</item>
+        <item>Zdravím</item>
+        <item>Chviličku, prosím</item>
+        <item>Zdravím, můžete zavolat později?</item>
+        <item>Zdravím! Díky za zavolání.</item>
+    </string-array>
+    <string-array name="captions_settings_enable_for_calls_choices_entries">
+        <item>Pokaždé se zeptat</item>
+        <item>Vždy</item>
+        <item>Nikdy</item>
+    </string-array>
+    <string-array name="captions_settings_typing_voice_names">
+        <item>Hlas A</item>
+        <item>Hlas B</item>
+        <item>Hlas C</item>
+        <item>Hlas D</item>
+        <item>Hlas E</item>
+        <item>Hlas F</item>
+        <item>Hlas G</item>
+        <item>Hlas H</item>
+        <item>Hlas I</item>
+        <item>Hlas J</item>
+        <item>Hlas K</item>
+        <item>Hlas L</item>
+        <item>Hlas M</item>
+        <item>Hlas N</item>
+        <item>Hlas O</item>
+        <item>Hlas P</item>
+    </string-array>
+    <string-array name="pref_download_policy_entries">
+        <item>Mobilní data + Wi-Fi</item>
+        <item>Pouze Wi-Fi</item>
+        <item>Neaktualizovat</item>
+    </string-array>
+    <string-array name="pref_download_policy_entry_values_placeholder">
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+</resources>

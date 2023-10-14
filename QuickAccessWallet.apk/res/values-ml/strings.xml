@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_menu">മെനു</string>
+    <string name="call_notification_answer_action">മറുപടി നൽകുക</string>
+    <string name="call_notification_answer_video_action">വീഡിയോ</string>
+    <string name="call_notification_decline_action">നിരസിക്കുക</string>
+    <string name="call_notification_hang_up_action">കോൾ നിർത്തുക</string>
+    <string name="call_notification_incoming_text">ഇൻകമിംഗ് കോൾ</string>
+    <string name="call_notification_ongoing_text">സജീവമായ കോൾ</string>
+    <string name="call_notification_screening_text">ഇൻകമിംഗ് കോൾ സ്‌ക്രീൻ ചെയ്യുന്നു</string>
+    <string name="error_generic">നിങ്ങളുടെ കാർഡുകൾ ലഭിക്കുന്നതിൽ ഒരു പ്രശ്‌നമുണ്ടായി. പിന്നീട് വീണ്ടും ശ്രമിക്കുക</string>
+    <string name="error_user_locked">നിങ്ങളുടെ പേയ്‌മെൻ്റ് വിവരങ്ങൾ ലോഡ് ചെയ്യാൻ ഫോൺ അൺലോക്ക് ചെയ്യുക</string>
+    <string name="settings">ക്രമീകരണം</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

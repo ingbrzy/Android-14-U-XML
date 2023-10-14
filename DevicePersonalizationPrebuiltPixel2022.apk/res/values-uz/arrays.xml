@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="call_captions_typing_predictions_post_system_message">
+        <item>Salom, bu nima?</item>
+        <item>Salom, qandaysiz?</item>
+        <item>Iltimos, bir daqiqa kutib turing</item>
+        <item>Salom, keyinroq qayta telefon qilasizmi?</item>
+        <item>Assalomu alaykum! Chaqiruv uchun rahmat.</item>
+    </string-array>
+    <string-array name="captions_settings_enable_for_calls_choices_entries">
+        <item>Har safar soʻralsin</item>
+        <item>Doim</item>
+        <item>Yoqilmagan</item>
+    </string-array>
+    <string-array name="captions_settings_typing_voice_names">
+        <item>Ovoz A</item>
+        <item>Ovoz B</item>
+        <item>Ovoz C</item>
+        <item>Ovoz D</item>
+        <item>Ovoz E</item>
+        <item>Ovoz F</item>
+        <item>Ovoz G</item>
+        <item>Ovoz H</item>
+        <item>Ovoz I</item>
+        <item>Ovoz J</item>
+        <item>Ovoz K</item>
+        <item>Ovoz L</item>
+        <item>Ovoz M</item>
+        <item>Ovoz N</item>
+        <item>Ovoz O</item>
+        <item>Ovoz P</item>
+    </string-array>
+    <string-array name="pref_download_policy_entries">
+        <item>Mobil + Wi-Fi</item>
+        <item>Faqat Wi-Fi</item>
+        <item>Yangilanmasin</item>
+    </string-array>
+    <string-array name="pref_download_policy_entry_values_placeholder">
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+</resources>

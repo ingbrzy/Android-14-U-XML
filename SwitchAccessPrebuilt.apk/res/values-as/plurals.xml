@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dots">
+        <item quantity="other">বিন্দু %s</item>
+        <item quantity="one">বিন্দু %s</item>
+    </plurals>
+    <plurals name="gestures_recorded_message">
+        <item quantity="other">%d টা আঙুলিৰ স্পৰ্শৰে দিয়া নিৰ্দেশ ৰেকৰ্ড কৰা হ’ল</item>
+        <item quantity="one">%d টা আঙুলিৰ স্পৰ্শৰে দিয়া নিৰ্দেশ ৰেকৰ্ড কৰা হ’ল</item>
+    </plurals>
+    <plurals name="label_num_keys_assigned_format">
+        <item quantity="other">%d টা ছুইচ আবণ্টন কৰা হৈছে</item>
+        <item quantity="one">%d টা ছুইচ আবণ্টন কৰা হৈছে</item>
+    </plurals>
+    <plurals name="label_num_scanning_loops_format">
+        <item quantity="other">%d টা লুপ</item>
+        <item quantity="one">%d টা লুপ</item>
+    </plurals>
+    <plurals name="line_speed_summary_format">
+        <item quantity="other">প্ৰতি ছেকেণ্ডত %.2f চেণ্টিমিটাৰ</item>
+        <item quantity="one">প্ৰতি ছেকেণ্ডত %.2f চেণ্টিমিটাৰ</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d new notifications</item>
+        <item quantity="one">%d new notification</item>
+    </plurals>
+    <plurals name="time_delay_summary_format">
+        <item quantity="other">%.2f ছেকেণ্ড</item>
+        <item quantity="one">%.2f ছেকেণ্ড</item>
+    </plurals>
+</resources>

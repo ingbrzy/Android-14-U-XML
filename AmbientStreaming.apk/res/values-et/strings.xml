@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Seadmeülesed teenused</string>
+    <string name="app_name_generic">rakendus</string>
+    <string name="app_stream_error_generic">Rakenduse jagamisel ilmnes viga</string>
+    <string name="app_stream_init_error_generic">Rakenduse jagamine teie Chromebookiga ebaõnnestus</string>
+    <string name="audio_permission_rationale">Mikrofonile juurdepääsu luba rakenduse jagamiseks on keelatud</string>
+    <string name="cancel_button_label">Tühista</string>
+    <string name="chromebook_keyboard">Chromebooki klaviatuur</string>
+    <string name="chromebook_mouse">Chromebooki hiir</string>
+    <string name="chromebook_touchscreen">Chromebooki puuteekraan</string>
+    <string name="connect_device">Telefoni ühendatakse kaugseadmega: %1$s</string>
+    <string name="decline_button_label">Keeldu</string>
+    <string name="development_notification_channel_name">Arendamine</string>
+    <string name="device_camera_cannot_access">Seadme kaamerale ei pääse sellest Chromebookist juurde</string>
+    <string name="done_button_label">Valmis</string>
+    <string name="enable_button_label">Luba</string>
+    <string name="foreground_service_notification_channel_name">Üldine</string>
+    <string name="foreground_service_notification_content">Puudutage seadete muutmiseks</string>
+    <string name="foreground_service_notification_title">{0,plural, =1{Ühendatud # seadmega}other{Ühendatud # seadmega}}</string>
+    <string name="interactive_streaming_generic_notification">Rakenduse %1$s voogesitamine ja märguannete sünkroonimine teie Chromebookis</string>
+    <string name="interactive_streaming_individual_notification">Rakendust %1$s voogesitatakse ja märguandeid sünkroonitakse: %2$s</string>
+    <string name="interactive_streaming_notification">Voogesitamine teie Chromebookis</string>
+    <string name="keyboard_name">Seadmeülene klaviatuur</string>
+    <string name="lock_screen_notif_warning_content">Lubage lukustuskuval märguanded</string>
+    <string name="lock_screen_notif_warning_title">Märguandeid ei edastata</string>
+    <string name="mouse_name">Seadmeülene hiir</string>
+    <string name="new_connection_confirm">Kinnita</string>
+    <string name="new_connection_deny">Keela</string>
+    <string name="new_connection_title">Kinnitage ühtivus</string>
+    <string name="notification_access_missing">Vaja on juurdepääsu märguannetele</string>
+    <string name="notification_access_missing_description">Märguannete avamiseks oma Chromebookis lülitage sisse juurdepääs märguannetele</string>
+    <string name="notification_channel_name">Üldine</string>
+    <string name="notification_listener_label">Rakenduste jagamine teie Chromebookiga</string>
+    <string name="open_source_licenses">Avatud lähtekoodi litsentsid</string>
+    <string name="phone_permission_rationale">Telefonikõnedele juurdepääsu luba rakenduse jagamiseks on keelatud</string>
+    <string name="prompt_switch_languages">Oma telefoni Gboardi keele vahetamiseks vajutage korraga tõstuklahvi ja tühikut</string>
+    <string name="settings_button">Seaded</string>
+    <string name="stop_sharing_button">Lõpeta voogesitus</string>
+    <string name="stream_termination_proximity_warning">Teie telefon on liiga kaugel. Voogesituse jätkamiseks tooge see lähemale.</string>
+    <string name="substitute_app_name">Süsteem</string>
+    <string name="summary_disable_wirecutter">Väljas</string>
+    <string name="summary_enable_wirecutter">Sees</string>
+    <string name="touchscreen_name">Seadmeülene puuteekraan</string>
+</resources>

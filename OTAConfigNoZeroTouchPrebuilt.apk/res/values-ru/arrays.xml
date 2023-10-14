@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sim_locked_notification_custom_content_array">
+        <item>Чтобы использовать эту SIM-карту, разблокируйте телефон с помощью приложения Device Unlock.</item>
+        <item>Обратитесь к оператору мобильной связи.</item>
+    </string-array>
+</resources>

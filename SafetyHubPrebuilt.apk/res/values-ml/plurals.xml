@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d പുതിയ അറിയിപ്പുകൾ</item>
+        <item quantity="one">%d പുതിയ അറിയിപ്പ്</item>
+    </plurals>
+    <plurals name="survey_star_rating">
+        <item quantity="other">%2$d നക്ഷത്ര ചിഹ്നങ്ങളിൽ %1$d എണ്ണം</item>
+        <item quantity="one">%2$d നക്ഷത്ര ചിഹ്നങ്ങളിൽ %1$d എണ്ണം</item>
+    </plurals>
+</resources>

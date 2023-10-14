@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_licenses">רישיונות לקוד פתוח</string>
+    <string name="action_voice_pack_uninstall">להסרת התקנה</string>
+    <string name="action_voice_pack_update">עדכון</string>
+    <string name="add_language_details">ניהול שפות אופליין</string>
+    <string name="add_language_title">הוספת שפה</string>
+    <string name="analytics_info_icon_description">סמל מידע</string>
+    <string name="analytics_screen_explanation">"‏כשהתכונה הזו פועלת, אנו אוספים דוחות שימוש אנונימיים. הנתונים האלה עוזרים לנו להבין בצורה טובה יותר את הביצועים של המרת טקסט לדיבור של Google במכשיר שלך.
+
+דוגמה לערכים מצטברים שאנחנו אוספים:
+"<ul><li>תדירות השימוש בהמרת טקסט לדיבור.</li>"
+"<li>הביצועים של בקשות ההמרה של טקסט לדיבור.</li>"
+"<li>השפות שבהן נעשה שימוש.</li>"
+"<li>התדירות שבה המרת הטקסט לדיבור לא מצליחה לספק פלט בדיבור.</li>"
+"</ul></string>
+    <string name="analytics_summary_off">כבוי</string>
+    <string name="analytics_summary_on">פועל</string>
+    <string name="analytics_title">דוחות שימוש אנונימיים</string>
+    <string name="app_name">‏שירותי הדיבור של Google</string>
+    <string name="auto_update_title">עדכון אוטומטי של שפות</string>
+    <string name="auto_update_wifi_summary">‏הורדת נתוני קול רק באמצעות Wi-Fi. הפעולה הזו תחסוך שימוש בנתונים.</string>
+    <string name="auto_update_wifi_title">‏שימוש ב-Wi-Fi בלבד</string>
+    <string name="available_languages_title">השפות הזמינות</string>
+    <string name="cancel_prompt">ביטול</string>
+    <string name="download_cancel">ביטול</string>
+    <string name="download_language_pack_details">צריך להוריד את העדכון הזה (%1$s) כדי להשתמש בזיהוי הדיבור ללא חיבור לאינטרנט</string>
+    <string name="download_prompt">הורדה</string>
+    <string name="download_title">הורדת העדכון ב%1$s</string>
+    <string name="downloaded_languages_category_title">השפות שהורדו</string>
+    <string name="feedback_title">משוב</string>
+    <string name="install_voices_title">התקנה של נתוני קול</string>
+    <string name="language_detection_title">זיהוי שפה</string>
+    <string name="language_pack_download_notification_title">הורדת עדכון של %1$s</string>
+    <string name="loudness_summary">הגברת עוצמת הדיבור כך שיהיה קל יותר לשמוע גם אם יפעל אודיו נוסף.</string>
+    <string name="loudness_title">הגברת עוצמת הדיבור</string>
+    <string name="multi_voice_pack_title">%1$s חבילות קול</string>
+    <string name="offline_speech_category_title">דיבור אופליין</string>
+    <string name="open_source_licenses">רישיונות קוד פתוח</string>
+    <string name="pending_language_pack_details">מתבצעת הורדת עדכון של %1$s (%2$s)</string>
+    <string name="pending_title">הורדת עדכון של %1$s</string>
+    <string name="play_sample">הפעלת הטקסט לדוגמה</string>
+    <string name="play_sample_text_button_description">הפעל טקסט לדוגמה עבור %1$s</string>
+    <string name="recognizer_service_label">‏שירותי הדיבור של Google</string>
+    <string name="sample_text_synthesis_failure">נכשל הניסיון לסנתז דוגמה לקול הזה.</string>
+    <string name="stop_pending_download_prompt">עצירת ההורדה</string>
+    <string name="transcription_app_voice_ime_language_label">אוטומטי</string>
+    <string name="transcription_app_voice_ime_service_label">‏הכתבה בקול של Google</string>
+    <string name="transcription_categoryTitle_voice_languages">השפה של ההקלדה הקולית</string>
+    <string name="transcription_multiSelectDialogButton_negative">ביטול</string>
+    <string name="transcription_multiSelectDialogButton_positive">שמירה</string>
+    <string name="transcription_prefSummary_default">שפת ברירת המחדל</string>
+    <string name="transcription_prefSummary_language">השפה הראשית: %1$s</string>
+    <string name="transcription_prefSummary_languages_multiple">שפות: %1$s</string>
+    <string name="transcription_prefSummary_languages_single">שפה: %1$s</string>
+    <string name="transcription_prefSummary_profanityFilter">הסתרת תוצאות קוליות פוגעניות שזוהו</string>
+    <string name="transcription_prefTitle_language">השפה הראשית</string>
+    <string name="transcription_prefTitle_profanityFilter">חסימת מילים פוגעניות</string>
+    <string name="transcription_prefTitle_voice_languages">שפות</string>
+    <string name="tts_default_example">זו דוגמה לסינתזת דיבור.</string>
+    <string name="tts_settings_label">‏אפשרויות של המרת טקסט לדיבור (Google)</string>
+    <string name="uninstall_language_pack_details">צריך להוריד את העדכון, אחרת לא ניתן להשתמש בזיהוי הדיבור ללא חיבור לאינטרנט באפליקציה הזו ובאפליקציות אחרות.</string>
+    <string name="uninstall_prompt">הסרה</string>
+    <string name="uninstall_title">הסרת העדכון ב%1$s</string>
+    <string name="voice_data_install_title">‏נתוני קול של Google TTS</string>
+    <string name="voice_entity_status_voice">קול %1$s</string>
+    <string name="voice_entry_cancel_download_desc">ביטול ההורדה של חבילת הקול</string>
+    <string name="voice_entry_delete_desc">מחק את חבילת הקול</string>
+    <string name="voice_entry_download_desc">הורד חבילת קול</string>
+    <string name="voice_entry_overflow_desc">פעולות נוספות עבור חבילת קול</string>
+    <string name="voice_pack_status_canceling">מתבצע ביטול…</string>
+    <string name="voice_pack_status_downloadable">‏הורדה (‎~%1$s)</string>
+    <string name="voice_pack_status_downloading">מוריד…</string>
+    <string name="voice_pack_status_size">גודל: %1$s</string>
+    <string name="voice_pack_status_updatable">יש עדכון זמין</string>
+    <string name="voice_pack_uninstall_dialog">האם להסיר את התקנת הקול?</string>
+    <string name="voice_pack_uninstall_keep">שמירה</string>
+    <string name="voice_pack_uninstall_uninstall">להסרת התקנה</string>
+    <string name="your_languages_title">השפות שלך</string>
+</resources>

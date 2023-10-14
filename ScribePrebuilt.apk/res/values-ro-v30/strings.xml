@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dolphin_html_description">Cu ajutorul Notificărilor privind sunetele, știi ce se întâmplă acasă.&lt;br>&lt;br>Când Notificările privind sunetele sunt activate, telefonul va verifica în permanență sunetele pentru care dorești să primești notificări, de exemplu, când se declanșează o alarmă de fum sau plânge un bebeluș.&lt;br>&lt;br>Fișierele audio și conversațiile de fundal nu se trimit la Google decât dacă alegi să trimiți feedback despre calitatea sunetului.</string>
+    <string name="live_transcribe_html_description">Transcriere live afișează vorbirea ca text pe ecran, astfel încât să participi mai ușor la conversațiile din jur.&lt;br>&lt;br>Tastează răspunsuri pe ecran în timp ce citești transcrierea, primești o alertă când este rostit numele tău și cauți în transcrieri.&lt;br>&lt;br>Google procesează conversațiile, dar nu le stochează niciodată.</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="calendar_default_name">Standart</string>
+    <string name="calendar_info">Taqvim maʼlumoti</string>
+    <string name="calendar_info_error">Xato</string>
+    <string name="calendar_info_events">Tadbirlar: %1$d</string>
+    <string name="calendar_info_events_dirty">Tadbirlar: %1$d, Saqlanmagan: %2$d</string>
+    <string name="calendar_info_no_calendars">Hech qanday taqvim topilmadi</string>
+    <string name="calendar_storage">Taqvim xotirasi</string>
+    <string name="debug_tool_delete_button">Hozir oʻchirish</string>
+    <string name="debug_tool_email_body">Xabarga barcha uchrashuvlar va shaxsiy axborotlar bilan birga taqvim maʼlumotlari bazasi biriktirilgan. Ehtiyotkorlik bilan ish tuting.</string>
+    <string name="debug_tool_email_sender_picker">Faylingizni joʻnatish uchun dastur tanlang</string>
+    <string name="debug_tool_email_subject">Db taqvimi biriktirildi</string>
+    <string name="debug_tool_message">Siz 1) taqvim maʼlumotlar bazasi nusxasini har qanday ilova oʻqiy olishi uchun SD/USB xotiraga koʻchirmoqchisiz va 2) uni email orqali yubormoqchisiz. Ularni muvaffaqiyatli nusxa koʻchirib yoki elektron xat qabul qilingandan soʻng nusxasini oʻchirishni unutmang.</string>
+    <string name="debug_tool_start_button">Boshlash</string>
+    <string name="provider_label">Taqvim</string>
+</resources>

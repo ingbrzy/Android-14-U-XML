@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="digital_gadget">Kỹ thuật số</string>
+    <string name="analog_widget_clover_clock_name">Cỏ ba lá</string>
+    <string name="analog_widget_clover_content_description">Mặt đồng hồ hình cỏ ba lá</string>
+    <string name="analog_widget_config_activity_title">Chọn mặt đồng hồ</string>
+    <string name="analog_widget_day_clock_name">Ngày</string>
+    <string name="analog_widget_day_content_description">Mặt đồng hồ có ngày trong tháng</string>
+    <string name="analog_widget_numeral_clock_name">Con số</string>
+    <string name="analog_widget_numeral_content_description">Mặt đồng hồ có các con số lớn</string>
+    <string name="analog_widget_scallop_clock_name">Vỏ sò</string>
+    <string name="analog_widget_scallop_content_description">Mặt đồng hồ có ngày trong tuần và tháng</string>
+    <string name="cities_widget_config_activity_subtitle">Bạn có thể thêm các thành phố từ thẻ Đồng hồ</string>
+    <string name="cities_widget_config_activity_subtitle_button">Chọn các thành phố trong ứng dụng Đồng hồ</string>
+    <string name="cities_widget_preview_city_london">London</string>
+    <string name="cities_widget_preview_city_mountain_view">Cảnh núi</string>
+    <string name="clock_widget_opaque_label">Nét liền</string>
+    <string name="clock_widget_transparent_label">Trong suốt</string>
+    <string name="digital_appwidget_config_activity_title">Chọn kiểu đồng hồ</string>
+    <string name="digital_cities_gadget">Thế giới</string>
+    <string name="digital_cities_gadget_description">Chọn thành phố trong ứng dụng Đồng hồ</string>
+    <string name="digital_stacked_gadget">Xếp chồng</string>
+    <string name="digital_widgets_preview_alarm">T2 09:30</string>
+    <string name="stopwatch_gadget_description">Điều khiển đồng hồ bấm giờ trong ứng dụng Đồng hồ</string>
+</resources>

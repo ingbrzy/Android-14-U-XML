@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dots">
+        <item quantity="other">nukta %s</item>
+        <item quantity="one">nukta %s</item>
+    </plurals>
+    <plurals name="gestures_recorded_message">
+        <item quantity="other">Ishara %d zimerekodiwa</item>
+        <item quantity="one">Ishara 1 imerekodiwa</item>
+    </plurals>
+    <plurals name="label_num_keys_assigned_format">
+        <item quantity="other">Swichi %d zimekabidhiwa</item>
+        <item quantity="one">Swichi %d imekabidhiwa</item>
+    </plurals>
+    <plurals name="label_num_scanning_loops_format">
+        <item quantity="other">Rudia mara %d</item>
+        <item quantity="one">Rudia mara %d</item>
+    </plurals>
+    <plurals name="line_speed_summary_format">
+        <item quantity="other">Sentimita %.2f kwa sekunde</item>
+        <item quantity="one">Sentimita 1 kwa sekunde</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">Arifa %d mpya</item>
+        <item quantity="one">Arifa %d mpya</item>
+    </plurals>
+    <plurals name="time_delay_summary_format">
+        <item quantity="other">Sekunde %.2f</item>
+        <item quantity="one">Sekunde 1</item>
+    </plurals>
+</resources>

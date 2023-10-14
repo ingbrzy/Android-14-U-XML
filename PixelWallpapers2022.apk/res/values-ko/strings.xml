@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="azure_title">파랑어치</string>
+    <string name="blackswan_title">흑고니</string>
+    <string name="cockatoo_title">왕관 앵무</string>
+    <string name="come_alive_title">생동감</string>
+    <string name="feathers_attribution">사진작가: 앤드류 주커만</string>
+    <string name="feathers_description">깃털의 색상과 디테일이 강조된 사진</string>
+    <string name="feathers_title">깃털</string>
+    <string name="greenwinged_title">홍금강 앵무</string>
+    <string name="king_title">왕대머리 수리</string>
+    <string name="living_universe_title">실시간 우주</string>
+    <string name="photos_memory_gallery_title">추억</string>
+    <string name="pied_title">흰가슴 까마귀</string>
+    <string name="ringnecked_title">목도리 앵무</string>
+    <string name="seagull_title">갈매기</string>
+</resources>

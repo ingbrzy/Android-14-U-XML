@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ಕ್ರಾಸ್-ಡಿವೈಸ್ ಸೇವೆಗಳು</string>
+    <string name="app_name_generic">ಒಂದು ಆ್ಯಪ್</string>
+    <string name="app_stream_error_generic">ಆ್ಯಪ್ ಅನ್ನು ಹಂಚಿಕೊಳ್ಳುವಾಗ ದೋಷ ಸಂಭವಿಸಿದೆ</string>
+    <string name="app_stream_init_error_generic">ನಿಮ್ಮ Chromebook ಗೆ ಆ್ಯಪ್ ಹಂಚಿಕೊಳ್ಳುವಿಕೆಯು ವಿಫಲವಾಗಿದೆ</string>
+    <string name="audio_permission_rationale">ಆ್ಯಪ್ ಹಂಚಿಕೊಳ್ಳುವಿಕೆಗಾಗಿ ಮೈಕ್ರೋಫೋನ್ ಅನುಮತಿಯನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ</string>
+    <string name="cancel_button_label">ರದ್ದುಮಾಡಿ</string>
+    <string name="chromebook_keyboard">Chromebook ಕೀಬೋರ್ಡ್</string>
+    <string name="chromebook_mouse">Chromebook ಮೌಸ್</string>
+    <string name="chromebook_touchscreen">Chromebook ಟಚ್‌ಸ್ಕ್ರೀನ್</string>
+    <string name="connect_device">ನಿಮ್ಮ ಫೋನ್ ಅನ್ನು ರಿಮೋಟ್ ಸಾಧನಕ್ಕೆ ಕನೆಕ್ಟ್ ಮಾಡಲಾಗುತ್ತಿದೆ: %1$s</string>
+    <string name="decline_button_label">ನಿರಾಕರಿಸಿ</string>
+    <string name="development_notification_channel_name">ಅಭಿವೃದ್ಧಿ</string>
+    <string name="device_camera_cannot_access">ಈ Chromebook ನಿಂದ ಸಾಧನದ ಕ್ಯಾಮರಾವನ್ನು ಪ್ರವೇಶಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ</string>
+    <string name="done_button_label">ಮುಗಿದಿದೆ</string>
+    <string name="enable_button_label">ಸಕ್ರಿಯಗೊಳಿಸಿ</string>
+    <string name="foreground_service_notification_channel_name">ಸಾಮಾನ್ಯ</string>
+    <string name="foreground_service_notification_content">ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ಮಾರ್ಪಡಿಸಲು ಟ್ಯಾಪ್ ಮಾಡಿ</string>
+    <string name="foreground_service_notification_title">{0,plural, =1{# ಸಾಧನಕ್ಕೆ ಕನೆಕ್ಟ್ ಮಾಡಲಾಗಿದೆ}one{# ಸಾಧನಗಳಿಗೆ ಕನೆಕ್ಟ್ ಮಾಡಲಾಗಿದೆ}other{# ಸಾಧನಗಳಿಗೆ ಕನೆಕ್ಟ್ ಮಾಡಲಾಗಿದೆ}}</string>
+    <string name="interactive_streaming_generic_notification">ನಿಮ್ಮ Chromebook ಗಾಗಿ %1$s ಅನ್ನು ಸ್ಟ್ರೀಮ್ ಮಾಡಲಾಗುತ್ತಿದೆ ಮತ್ತು ಅಧಿಸೂಚನೆಗಳನ್ನು ಸಿಂಕ್ ಮಾಡಲಾಗುತ್ತಿದೆ</string>
+    <string name="interactive_streaming_individual_notification">%1$s ಅನ್ನು ಸ್ಟ್ರೀಮ್ ಮಾಡಲಾಗುತ್ತಿದೆ ಮತ್ತು %2$s ಗಾಗಿ ಅಧಿಸೂಚನೆಗಳನ್ನು ಸಿಂಕ್ ಮಾಡಲಾಗುತ್ತಿದೆ</string>
+    <string name="interactive_streaming_notification">ನಿಮ್ಮ Chromebook ಗೆ ಸ್ಟ್ರೀಮ್ ಮಾಡಲಾಗುತ್ತಿದೆ</string>
+    <string name="keyboard_name">ಕ್ರಾಸ್-ಸಾಧನ ಕೀಬೋರ್ಡ್</string>
+    <string name="lock_screen_notif_warning_content">ಲಾಕ್ ಸ್ಕ್ರೀನ್‌ನಲ್ಲಿ ಅಧಿಸೂಚನೆಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ</string>
+    <string name="lock_screen_notif_warning_title">ಅಧಿಸೂಚನೆಗಳನ್ನು ಫಾರ್ವರ್ಡ್ ಮಾಡಲಾಗುವುದಿಲ್ಲ</string>
+    <string name="mouse_name">ಕ್ರಾಸ್-ಸಾಧನ ಮೌಸ್</string>
+    <string name="new_connection_confirm">ದೃಢೀಕರಿಸಿ</string>
+    <string name="new_connection_deny">ನಿರಾಕರಿಸಿ</string>
+    <string name="new_connection_title">ಸ್ಟ್ರಿಂಗ್ ಹೊಂದಾಣಿಕೆಗಳನ್ನು ಖಚಿತಪಡಿಸಿ</string>
+    <string name="notification_access_missing">ಅಧಿಸೂಚನೆಗೆ ಪ್ರವೇಶದ ಅಗತ್ಯವಿದೆ</string>
+    <string name="notification_access_missing_description">ನಿಮ್ಮ Chromebook ನಲ್ಲಿ ಅಧಿಸೂಚನೆಗಳನ್ನು ತೆರೆಯಲು ಅಧಿಸೂಚನೆ ಪ್ರವೇಶವನ್ನು ಆನ್ ಮಾಡಿ</string>
+    <string name="notification_channel_name">ಸಾಮಾನ್ಯ</string>
+    <string name="notification_listener_label">ನಿಮ್ಮ Chromebook ಮೂಲಕ ಆ್ಯಪ್‌ಗಳನ್ನು ಹಂಚಿಕೊಳ್ಳಿ</string>
+    <string name="open_source_licenses">ಓಪನ್ ಸೋರ್ಸ್ ಲೈಸೆನ್ಸ್</string>
+    <string name="phone_permission_rationale">ಆ್ಯಪ್ ಹಂಚಿಕೊಳ್ಳುವಿಕೆಗಾಗಿ ಫೋನ್ ಕರೆ ಅನುಮತಿಯನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ</string>
+    <string name="prompt_switch_languages">ನಿಮ್ಮ ಫೋನ್‌ನ Gboard ಭಾಷೆಯನ್ನು ಬದಲಿಸಲು, Shift + Space ಕೀ ಅನ್ನು ಒತ್ತಿರಿ</string>
+    <string name="settings_button">ಸೆಟ್ಟಿಂಗ್‌ಗಳು</string>
+    <string name="stop_sharing_button">ಸ್ಟ್ರೀಮ್ ಕೊನೆಗೊಳಿಸಿ</string>
+    <string name="stream_termination_proximity_warning">ನಿಮ್ಮ ಫೋನ್ ತುಂಬಾ ದೂರದಲ್ಲಿದೆ. ಸ್ಟ್ರೀಮಿಂಗ್ ಅನ್ನು ಮುಂದುವರಿಸಲು ಅದನ್ನು ಹತ್ತಿರಕ್ಕೆ ತನ್ನಿ.</string>
+    <string name="substitute_app_name">ಸಿಸ್ಟಂ</string>
+    <string name="summary_disable_wirecutter">ಆಫ್ ಮಾಡಿ</string>
+    <string name="summary_enable_wirecutter">ಆನ್ ಮಾಡಿ</string>
+    <string name="touchscreen_name">ಕ್ರಾಸ್-ಸಾಧನ ಟಚ್‌ಸ್ಕ್ರೀನ್</string>
+</resources>

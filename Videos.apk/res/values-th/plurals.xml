@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">การแจ้งเตือนใหม่ %d รายการ</item>
+        <item quantity="one">การแจ้งเตือนใหม่ %d รายการ</item>
+    </plurals>
+    <plurals name="public_notification_text">
+        <item quantity="other">การแจ้งเตือนใหม่ %1$d รายการ</item>
+        <item quantity="one">คุณมีการแจ้งเตือน</item>
+    </plurals>
+</resources>

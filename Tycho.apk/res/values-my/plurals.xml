@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">အကြောင်းကြားချက်အသစ် %d ခု</item>
+        <item quantity="one">အကြောင်းကြားချက်အသစ် %d ခု</item>
+    </plurals>
+    <plurals name="survey_star_rating">
+        <item quantity="other">ကြယ် %2$d ပွင့်အနက် %1$d ပွင့်</item>
+        <item quantity="one">ကြယ် %2$d ပွင့်အနက် %1$d ပွင့်</item>
+    </plurals>
+</resources>

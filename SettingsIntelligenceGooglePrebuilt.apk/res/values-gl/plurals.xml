@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="other">Hai %d días</item>
+        <item quantity="one">Hai %d día</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="other">Hai %d min</item>
+        <item quantity="one">Hai %d min</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="other">Hai %d anos</item>
+        <item quantity="one">Hai %d ano</item>
+    </plurals>
+    <plurals name="accessibility_other_devices">
+        <item quantity="other">%d dispositivos máis</item>
+        <item quantity="one">%d dispositivo máis</item>
+    </plurals>
+    <plurals name="routines_settings_summary">
+        <item quantity="other">%d normas</item>
+        <item quantity="one">1 norma</item>
+    </plurals>
+</resources>

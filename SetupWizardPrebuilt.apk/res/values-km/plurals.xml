@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="account_exists_text_multiple">
+        <item quantity="other">"គណនីខាងក្រោមទាំងនេះត្រៀមរួចរាល់ហើយ៖
+
+"&lt;annotation textAppearance="TextAppearance.SudDescription.Medium">^1&lt;/annotation></item>
+        <item quantity="one">"គណនីខាងក្រោមនេះត្រៀមរួចរាល់ហើយ៖
+
+"&lt;annotation textAppearance="TextAppearance.SudDescription.Medium">^1&lt;/annotation></item>
+    </plurals>
+    <plurals name="people_contacts_sync_failure_in_contacts_title_in_portal">
+        <item quantity="other">មិនអាច​ធ្វើសមកាលកម្ម​ទំនាក់ទំនង %1$,d នៃ %2$,d បានទេ</item>
+        <item quantity="one">មិនអាច​ធ្វើសមកាលកម្ម​ទំនាក់ទំនង %1$,d នៃ %2$,d បានទេ</item>
+    </plurals>
+    <plurals name="people_contacts_sync_failure_in_photos_title_in_portal">
+        <item quantity="other">មិនអាច​ធ្វើសមកាលកម្ម​រូបថត​ទំនាក់ទំនង %1$,d នៃ %2$,d បានទេ</item>
+        <item quantity="one">មិនអាច​ធ្វើសមកាលកម្ម​រូបថត​ទំនាក់ទំនង %1$,d នៃ %2$,d បានទេ</item>
+    </plurals>
+    <plurals name="people_contacts_sync_succeed_title_in_portal">
+        <item quantity="other">បានធ្វើសមកាលកម្ម​ទំនាក់ទំនង %,d ជាមួយ Google Contacts</item>
+        <item quantity="one">បានធ្វើសមកាលកម្ម​ទំនាក់ទំនង %,d ជាមួយ Google Contacts</item>
+    </plurals>
+    <plurals name="qr_provision_toast">
+        <item quantity="other">ចុច %d ដងទៀត ដើម្បីចាប់ផ្តើមរៀបចំកូដ QR</item>
+        <item quantity="one">ចុច %d ដងទៀត ដើម្បីចាប់ផ្តើមរៀបចំកូដ QR</item>
+    </plurals>
+    <plurals name="slots_selection_text">
+        <item quantity="other">លេខចំនួន %d ត្រូវបានបញ្ចូល​ទៅក្នុង​ឧបករណ៍នេះ​ហើយ ប៉ុន្តែ​អាចប្រើ​បានតែ​មួយលេខ​ប៉ុណ្ណោះ​ក្នុងមួយ​លើក។</item>
+        <item quantity="one">លេខចំនួន %d ត្រូវបានបញ្ចូល​ទៅក្នុង​ឧបករណ៍នេះ​ហើយ ប៉ុន្តែ​អាចប្រើ​បានតែ​មួយលេខ​ប៉ុណ្ណោះ​ក្នុងមួយ​លើក។</item>
+    </plurals>
+    <plurals name="survey_star_rating">
+        <item quantity="other">ផ្កាយ %1$d ក្នុងចំណោមផ្កាយ %2$d</item>
+        <item quantity="one">ផ្កាយ %1$d ក្នុងចំណោមផ្កាយ %2$d</item>
+    </plurals>
+</resources>

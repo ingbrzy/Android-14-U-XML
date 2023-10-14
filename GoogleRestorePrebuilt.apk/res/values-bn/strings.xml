@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">উপরে নেভিগেট করুন</string>
+    <string name="abc_action_mode_done">হয়ে গেছে</string>
+    <string name="abc_capital_off">বন্ধ আছে</string>
+    <string name="abc_capital_on">চালু করুন</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">মুছুন</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">সার্চ করুন…</string>
+    <string name="abc_searchview_description_clear">কোয়েরি মুছে ফেলুন</string>
+    <string name="abc_searchview_description_search">সার্চ করুন</string>
+    <string name="abc_searchview_description_submit">কোয়েরি জমা দিন</string>
+    <string name="abc_searchview_description_voice">ভয়েস সার্চ করুন</string>
+    <string name="abc_toolbar_collapse_description">সঙ্কুচিত করুন</string>
+    <string name="app_has_in_app_purchases">অ্যাপ মধ্যস্থ কেনাকাটা</string>
+    <string name="app_has_permissions">অনুমতি: %s</string>
+    <string name="app_has_runtime_permissions">অ্যাপটি অনুমতিগুলির জন্য জিজ্ঞাসা করবে</string>
+    <string name="app_picker_group_default_title">আপনার অ্যাপ</string>
+    <string name="app_picker_group_title_format">%1$s (%2$d)</string>
+    <string name="app_picker_loading">উপলভ্য অ্যাপ খোঁজা হচ্ছে…</string>
+    <string name="app_picker_loading_toast">উপলব্ধ অ্যাপ্লিকেশানগুলি শীঘ্রই লোড হবে</string>
+    <string name="app_picker_no_apps">কোনো অ্যাপ্লিকেশান নির্বাচন করা হয়নি</string>
+    <string name="app_picker_no_apps_found">কোনো অ্যাপ্স পাওয়া যায়নি</string>
+    <string name="app_picker_whatsapp_description">চ্যাট ইতিহাস ও মিডিয়া •</string>
+    <string name="apps_permissions_described_message">"অধিকাংশ অ্যাপ-মধ্যস্থ কেনাকাটা ট্রান্সফার করা যায় না। সেট আপ করা একবার সম্পূর্ণ হলে আপনি Play Store থেকে আরও অ্যাপ খুঁজে নিতে পারবেন৷
+
+কিছু অ্যাপকে আপনার ডিভাইসে সুনির্দিষ্ট ক্ষমতা সাপেক্ষে কিছু অংশে বা তথ্য অ্যাক্সেস করার অনুমতি দিতে হতে পারে। অনুমতির গ্রুপে অনুমতিগুলি সাজিয়ে রাখা হয়। ইনস্টল করার জন্য অ্যাপ বেছে নেওয়ার মাধ্যমে আপনি প্রতিটি গ্রুপের অংশ বিশেষ এই অনুমতিতে সম্মতি প্রদান করেন। প্রতিটি অনুমতি গ্রুপের একটি বিবরণ নিচে দেওয়া হয়েছে৷
+
+কিছু অ্যাপের ক্ষেত্রে অনুমতি গ্রহণের প্রয়োজন হয় না। যখন আপনি এই অ্যাপগুলির কোনও একটি ব্যবহার করবেন, তখন অ্যাপটি এই ধরনের ডেটা ব্যবহার করার আগেই আপনি স্বতন্ত্রভাবে সেটিকে অনুমতি দিতে বা অস্বীকার করতে পারবেন।
+
+^1"</string>
+    <string name="apps_permissions_described_title">শুধুমাত্র বিনামূল্যে প্রাপ্ত, জনপ্রিয় iOS® অ্যাপই Android অ্যাপের সমরূপ হতে পারে</string>
+    <string name="auto_synced_item_gmail">Gmail</string>
+    <string name="auto_synced_item_gmail_calendar_drive">Gmail, Calendar এবং Drive</string>
+    <string name="auto_synced_item_google_calendar">Google Calendar</string>
+    <string name="auto_synced_item_google_contacts">Google Contacts</string>
+    <string name="auto_synced_item_google_photos">Google Photos</string>
+    <string name="auto_synced_title">নিজে থেকে সিঙ্ক হয়েছে</string>
+    <string name="automatically_synced_section_header">অটোমেটিক সিঙ্ক করা হয়</string>
+    <string name="backup_d2d_migration_tool_activity_name">ডেটা ট্রান্সফার টুল</string>
+    <string name="bottomsheet_action_expand_halfway">অর্ধেক প্রসারিত করুন</string>
+    <string name="button_dont_copy">কপি করবেন না</string>
+    <string name="button_dont_restore">ফিরিয়ে আনব না</string>
+    <string name="button_dont_restore_apps">অ্যাপ পুনরুদ্ধার করবেন না</string>
+    <string name="cancel_copy_button">কপি করা থামান</string>
+    <string name="character_counter_content_description">%2$dটির মধ্যে %1$dটি অক্ষর লেখা হয়েছে</string>
+    <string name="character_counter_overflowed_content_description">অক্ষরের সীমা %1$d এর %2$d অতিক্রম করেছে</string>
+    <string name="clear_text_end_icon_content_description">টেক্সট মুছুন</string>
+    <string name="close_button_label">বন্ধ</string>
+    <string name="cloud_restore_app_picker_description_no_apps">আপনার ব্যাক আপে কোনো অ্যাপ নেই</string>
+    <string name="cloud_restore_app_picker_title">পুনরুদ্ধার করতে অ্যাপ্স বেছে নিন</string>
+    <string name="common_allow">অনুমতি দিন</string>
+    <string name="common_cancel">বাতিল করুন</string>
+    <string name="common_dont_allow">অনুমতি দেবেন না</string>
+    <string name="common_go_back">ফিরে যান</string>
+    <string name="common_google_play_services_enable_button">সক্ষম করুন</string>
+    <string name="common_google_play_services_enable_text">আপনি Google Play পরিষেবা সক্ষম না করা পর্যন্ত %1$s কাজ করবে না।</string>
+    <string name="common_google_play_services_enable_title">Google Play পরিষেবা সক্ষম করুন</string>
+    <string name="common_google_play_services_install_button">ইনস্টল করুন</string>
+    <string name="common_google_play_services_install_text">Google Play পরিষেবা ছাড়া %1$s চলবে না, যা আপনার ডিভাইসে অনুপস্থিত।</string>
+    <string name="common_google_play_services_install_title">Google Play পরিষেবা পান</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play পরিষেবার উপলভ্যতা</string>
+    <string name="common_google_play_services_notification_ticker">Google Play পরিষেবার ত্রুটি</string>
+    <string name="common_google_play_services_unknown_issue">Google Play পরিষেবাগুলির সাথে %1$s এর সমস্যা হচ্ছে৷ অনুগ্রহ করে আবার চেষ্টা করুন৷</string>
+    <string name="common_google_play_services_unsupported_text">Google Play পরিষেবা ছাড়া %1$s চলবে না, যেটি আপনার ডিভাইসে সমর্থিত নয়৷</string>
+    <string name="common_google_play_services_update_button">আপডেট করুন</string>
+    <string name="common_google_play_services_update_text">আপনি Google Play পরিষেবা আপডেট না করা পর্যন্ত %1$s চলবে না।</string>
+    <string name="common_google_play_services_update_title">Google Play পরিষেবা আপডেট করুন</string>
+    <string name="common_google_play_services_updating_text">Google Play পরিষেবা ছাড়া %1$s চলবে না যা বর্তমানে আপডেট হচ্ছে।</string>
+    <string name="common_google_play_services_wear_update_text">Google Play পরিষেবার নতুন ভার্সন প্রয়োজন৷ খুব শীঘ্রই এটা নিজেই আপডেট হবে৷</string>
+    <string name="common_ok">ঠিক আছে</string>
+    <string name="common_open_on_phone">ফোনে খুলুন</string>
+    <string name="common_restore">রিস্টোর করুন</string>
+    <string name="common_skip">এড়িয়ে যান</string>
+    <string name="common_try_again">আবার করুন</string>
+    <string name="contacts_no_number_device_and_sim">ডিভাইস ও সিমের পরিচিতি</string>
+    <string name="contacts_number_device_and_icloud">%1$dটি iCloud®, %2$dটি ডিভাইস</string>
+    <string name="content_selector_ui_title">কি কি পুনরুদ্ধার করবেন তা বেছে নিন</string>
+    <string name="continue_button">চালিয়ে যান</string>
+    <string name="continue_setup_description">আপনার ^1 সেটআপ করা চালিয়ে যাতে পারেন</string>
+    <string name="copied_contacts_group_label">%1$s থেকে কপি করা হয়েছে</string>
+    <string name="copied_contacts_group_label_default">কেবল ট্রান্সফারের মাধ্যমে কপি করা হয়েছে</string>
+    <string name="copied_contacts_group_label_ios">iOS থেকে কপি করা হয়েছে</string>
+    <string name="copy_button">কপি করুন</string>
+    <string name="copy_without_cable_button">কেবেল ছাড়াই কপি করুন</string>
+    <string name="d2d_app_picker_description_no_apps">আমরা কোনও অ্যাপ খুঁজে পাইনি</string>
+    <string name="d2d_app_picker_title">অ্যাপ্স</string>
+    <string name="data_copied_fragment_description">আপনি কেবলটি খুলে নিতে পারেন</string>
+    <string name="data_copied_fragment_description_cancel">আপনি কপি করা থামিয়ে দিয়েছেন, তাই শুধু কিছু ডেটা আপনার নতুন ডিভাইসে কপি হয়েছে।</string>
+    <string name="data_copied_fragment_description_cancel_no_data">আপনি কপি করা থামিয়ে দিয়েছেন, তাই আপনার নতুন ডিভাইসে কিছুই কপি হয়নি।</string>
+    <string name="data_copied_fragment_description_error">কোনও সমস্যা হয়েছে, তাই আমরা সবকিছু কপি করতে পারিনি।</string>
+    <string name="data_copied_fragment_description_error_no_data">কোনও সমস্যা হয়েছে, তাই আমরা আপনার ডেটা কপি করতে পারিনি।</string>
+    <string name="data_copied_fragment_no_data_title">কপি করা যায়নি</string>
+    <string name="data_copied_fragment_some_data_title">কিছু ডেটা কপি করা হয়েছে</string>
+    <string name="data_copied_fragment_title">কপি করা হয়েছে</string>
+    <string name="device_not_supported_fragment_new_device">আপনি নতুন ডিভাইসের সাথে কানেক্ট করেছেন। চালিয়ে যেতে পুরনো ডিভাইসের সাথে আবার কানেক্ট করুন।</string>
+    <string name="device_not_supported_fragment_new_device_title">আগের ডিভাইসের সাথে আবার কানেক্ট করুন</string>
+    <string name="device_not_supported_fragment_no_data_cable">অন্য তার ব্যবহার করে আবার চেষ্টা করুন। আপনার পুরনো ডিভাইসটি যদি iPhone® হয়ে থাকে, তাহলে সেটি আনলক করে রাখুন।</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">পুরনো ডিভাইসে কানেক্ট করা যাচ্ছে না</string>
+    <string name="device_not_supported_fragment_other_ways_btn">অন্যভাবে কপি করুন</string>
+    <string name="device_not_supported_fragment_retry_description">পুরনো ডিভাইস আনলক করা আছে কিনা দেখে নিয়ে, তার খুলে আবার যোগ করুন</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">কিছু ভুল হয়েছে</string>
+    <string name="device_not_supported_ios_supervised_description">আপনার iPhone® তত্বাবধানে রয়েছে বলে, ডেটা কপি করার জন্য আপনাকে অন্য কোনও উপায় বেছে নিতে হবে</string>
+    <string name="device_picker_empty">%1$s এ কোনও ব্যাক-আপ লিঙ্ক করা নেই।</string>
+    <string name="device_picker_empty_title">কোনও ব্যাক-আপ পাওয়া যায়নি</string>
+    <string name="device_picker_item">%1$s এর ব্যাক-আপ</string>
+    <string name="device_picker_summary">নিচের তালিকা থেকে একটি ব্যাক-আপ বেছে নিন</string>
+    <string name="device_picker_summary_work_profile">আপনার পুরনো ডিভাইস থেকে অফিসের অ্যাপ ফিরিয়ে আনুন</string>
+    <string name="device_picker_title">পুরনো ফোন থেকে ডেটা ফিরিয়ে আনুন</string>
+    <string name="device_picker_title_work_profile">একটি ডিভাইস বেছে নিন</string>
+    <string name="dialog_continue_button_label">এগিয়ে যান</string>
+    <string name="dont_transfer">ট্রান্সফার করবেন না</string>
+    <string name="download_file_description">অন্য ডিভাইস থেকে কপি করা হয়েছে</string>
+    <string name="drive_backup_content_callhistory_title">কলের ইতিহাস</string>
+    <string name="drive_backup_content_contacts_title">পরিচিতি</string>
+    <string name="drive_backup_content_devicesettings_title">ডিভাইস সেটিংস</string>
+    <string name="durationDays">%1$s</string>
+    <string name="durationDaysHours">%1$s %2$s</string>
+    <string name="durationHoursMinutes">%1$s %2$s</string>
+    <string name="durationMinutes">%1$s</string>
+    <string name="encryption_warning_fragment_description">"আপনার iPhone®-এর জন্য ব্যাক-আপ এনক্রিপশন চালু করা হয়েছে। নিজে এটি না করে থাকলে, আপনার আইটি অ্যাডমিন হয়ত এটি চালু করেছেন।
+
+শুধু ফটো, মিউজিক ও ভিডিও কপি করা যাবে। আরও তথ্যের জন্য, "<b>g.co/datatransferhelp</b> লিঙ্কে যান।</string>
+    <string name="encryption_warning_fragment_title">ব্যাক-আপ এনক্রিপশন</string>
+    <string name="error_icon_content_description">সমস্যা</string>
+    <string name="exposed_dropdown_menu_content_description">ড্রপ-ডাউন মেনু দেখুন</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="flow_choice_description_text_new">আপনার অ্যাপ, ফটো, পরিচিতি, Google অ্যাকাউন্ট এবং আরও অনেক কিছু ট্রান্সফার করার জন্য বেছে নিতে পারেন।</string>
+    <string name="flow_choice_title">অ্যাপ এবং ডেটা কপি করুন</string>
+    <string name="fragment_app_picker_d2d_title">অ্যাপগুলি বেছে নিন</string>
+    <string name="fragment_app_picker_description_d2d_ios_v2">"আমরা আপনার ^2টি iOS® অ্যাপের মধ্যে ^1টির জন্য মিল খুঁজে পেয়েছি। কিছু অ্যাপ-মধ্যস্থ কেনাকাটা ট্রান্সফার নাও হতে পারে।
+
+প্রতিটি অ্যাপ ইনস্টল করার মাধ্যমে আপনি সেটির জন্য প্রয়োজনীয় অনুমতিগুলিতে সম্মতি জানাচ্ছেন। "<annotation id="apps_permissions_learn_more">আরও জানুন</annotation></string>
+    <string name="fragment_connecting_title">পুরনো ডিভাইসেরর সাথে কানেক্ট করা হচ্ছে…</string>
+    <string name="fragment_indexing_description">কী কপি করতে চান তা পরবর্তী স্ক্রিনে বেছে নিন</string>
+    <string name="fragment_indexing_title">কপি করার প্রস্তুতি চলছে…</string>
+    <string name="fragment_indexing_verify_password_title">পাসওয়ার্ড যাচাই করা হচ্ছে…</string>
+    <string name="fragment_ios_copy_calendar_events_description">আপনি ক্যালেন্ডার ইভেন্ট কপি করতে চাইলে, ওয়াই-ফাই বা মোবাইল নেটওয়ার্কের সাথে কানেক্ট করে আবার চেষ্টা করুন</string>
+    <string name="fragment_ios_copy_calendar_events_title">ক্যালেন্ডার ইভেন্ট কপি করবেন?</string>
+    <string name="fragment_ios_couldnt_sign_in_description">ইন্টারনেটে কানেক্ট করে আবার চেষ্টা করুন</string>
+    <string name="fragment_ios_couldnt_sign_in_title">সাইন-ইন করা যায়নি</string>
+    <string name="fragment_ios_decryption_description">অ্যাপ, এসএমএস মেসেজ এবং পরিচিতি ট্রান্সফার করতে আপনার iiTunes®-এর ব্যাক-আপ পাসওয়ার্ড লিখুন</string>
+    <string name="fragment_ios_decryption_forgot_password_button">পাসওয়ার্ড ভুলে গেছেন?</string>
+    <string name="fragment_ios_decryption_forgot_password_description">আপনার iTunes®-এর ব্যাক-আপ পাসওয়ার্ড ছাড়া এনক্রিপ্ট করা কন্টেন্ট ট্রান্সফার করা যাবে না। তবে এনক্রিপ্ট না করা কন্টেন্ট আপনার নতুন ^1ডিভাইসে ট্রান্সফার করা হবে।</string>
+    <string name="fragment_ios_decryption_forgot_password_title">এনক্রিপটেড কন্টেন্ট ট্রান্সফার হবে না</string>
+    <string name="fragment_ios_decryption_password_hint">iTunes® এর ব্যাক-আপ পাসওয়ার্ড লিখুন</string>
+    <string name="fragment_ios_decryption_skip_button">এনক্রিপ্ট করা কন্টেন্ট এড়িয়ে যান</string>
+    <string name="fragment_ios_decryption_title">আপনার iPhone® এনক্রিপ্ট করা আছে</string>
+    <string name="fragment_ios_decryption_wrong_password_error">ভুল পাসওয়ার্ড। আবার চেষ্টা করুন।</string>
+    <string name="fragment_ios_device_management_confirm_title">পরিচালনা সত্যিই বন্ধ করতে চান তা নিশ্চিত করুন</string>
+    <string name="fragment_ios_device_management_detected_description">"আপনার প্রতিষ্ঠান আপনার iPhone® ডিভাইসটি ম্যানেজ করে এবং এতে এনক্রিপ্ট করা কন্টেন্ট আছে।
+
+অ্যাপ, iCloud® পরিচিতি, ডিভাইসে থাকা পরিচিতি এবং iMessage® মেসেজ ট্রান্সফার করতে, iPhone® থেকে ডিভাইস ম্যানেজমেন্ট সরাতে হবে।"</string>
+    <string name="fragment_ios_device_management_detected_title">কিছু কন্টেন্ট এনক্রিপ্ট করা আছে</string>
+    <string name="fragment_ios_device_management_next_button_first_screen">ধাপগুলি দেখুন</string>
+    <string name="fragment_ios_device_management_not_removed_description">"আপনার iPhone®-এ এখনও ডিভাইস ম্যানেজমেন্ট সিস্টেম চালু রয়েছে। এটি সরাতে, পূর্ববর্তী ধাপগুলি অনুসরণ করুন।
+
+ডিভাইস ম্যানেজমেন্ট না সরানো পর্যন্ত আপনার নতুন ^1-এ আমরা এনক্রিপ্ট করা কন্টেন্ট ট্রান্সফার করতে পারব না।"</string>
+    <string name="fragment_ios_device_management_not_removed_title">এনক্রিপ্ট করা কন্টেন্ট ট্রান্সফার হবে না</string>
+    <string name="fragment_ios_device_management_open_settings_description">আপনার iPhone®-এ, go to <b>সেটিংস > সাধারণ</b> বিকল্পে যান। তারপর <b>ডিভাইস ম্যানেজমেন্ট</b> বিকল্পে ট্যাপ করুন। আপনার ইনস্টল করা প্রোপাইল থাকলে, <b>প্রোফাইল ও ডিভাইস ম্যানেজমেন্ট</b> বিকল্পে ট্যাপ করুন।</string>
+    <string name="fragment_ios_device_management_open_settings_title">পরিচালনা সেটিংসে যান</string>
+    <string name="fragment_ios_device_management_passcode_title">আপনার পাসকোড লিখুন</string>
+    <string name="fragment_ios_device_management_remove_title">পরিচালনা বিকল্পটি বন্ধ করে দিন</string>
+    <string name="fragment_ios_device_management_risk_description">"ডিভাইসের পরিচালনা বন্ধ করে দিলে আপনি অফিসের সম্পদে অ্যাক্সেস হারাতে পারেন।
+
+সেট-আপের পরে ডিভাইসের পরিচালনা আবার ইনস্টল করতে সমস্যা হলে IT প্রশাসকের সাথে যোগাযোগ করুন।"</string>
+    <string name="fragment_ios_device_management_risk_title">ডিভাইস পরিচালনা বন্ধ করা</string>
+    <string name="fragment_ios_device_management_select_management_title">"'মোবাইল ডিভাইস পরিচালনা'র নিচের বিকল্পটিতে ট্যাপ করুন"</string>
+    <string name="fragment_ios_device_management_skip_button">এনক্রিপ্ট করা কন্টেন্ট এড়িয়ে যান</string>
+    <string name="fragment_ios_indexing_description">আপনার iPhone®-এ অনেক ডেটা থাকলে, এই ধাপ সম্পূর্ণ হতে কিছুক্ষণ সময় লাগতে পারে</string>
+    <string name="fragment_ios_instructions_description">চালিয়ে যেতে, আপনার iPhone® চেক করে কানেকশন অনুমোদন করুন</string>
+    <string name="fragment_ios_instructions_reconnect_cable">সমস্যা হচ্ছে? ডিভাইসটি প্লাগ থেকে খুলে আবার লাগিয়ে কানেক্ট করার চেষ্টা করুন।</string>
+    <string name="fragment_ios_recoverable_error_description">আবার চেষ্টা করতে, ডিভাইসটি প্লাগ থেকে খুলে আবার কানেক্ট করুন</string>
+    <string name="fragment_ios_recoverable_error_title">iPhone®-এর কিছু কন্টেন্ট ডিক্রিপ্ট করা যাচ্ছে না</string>
+    <string name="fragment_ios_skip_encrypted_data_dialog_description">আপনার অ্যাপ, iCloud® পরিচিতি, ডিভাইসে থাকা পরিচিতি এবং iMessage® মেসেজ ট্রান্সফার করা হবে না</string>
+    <string name="fragment_ios_skip_encrypted_data_dialog_title">এনক্রিপ্ট করা কন্টেন্ট এড়িয়ে যাবেন?</string>
+    <string name="fragment_ios_wifi_reconnecting_description">দুটি ডিভাইস পরস্পরের কাছাকাছি রাখুন</string>
+    <string name="fragment_ios_wifi_reconnecting_title">আপনার iPhone বা iPad-এ আবার কানেক্ট করা হচ্ছে…</string>
+    <string name="fragment_keep_devices_close_description">দুটি ফোন চালু করে একে অপরের কাছাকাছি রাখুন</string>
+    <string name="fragment_long_waiting_title">কয়েক মুহূর্ত…</string>
+    <string name="fragment_restore_choice_title">কি কপি করবেন তা বেছে নিন</string>
+    <string name="fragment_short_waiting_title">এক সেকেন্ড…</string>
+    <string name="fragment_smart_device_ui_finished_title">অ্যাকাউন্টের তথ্য আনা হচ্ছে…</string>
+    <string name="fragment_target_connected_description_with_permissions">আপনার পুরনো ডিভাইসে অনুমতি দিতে হতে পারে</string>
+    <string name="fragment_target_connected_title">ডিভাইস কানেক্ট করা আছে</string>
+    <string name="fragment_target_photos_and_videos_option_description">%1$s %2$s, %3$s থেকে আজ পর্যন্ত</string>
+    <string name="fragment_target_photos_and_videos_option_title_all">সব</string>
+    <string name="fragment_target_photos_and_videos_option_title_all_photos">সব ফটো</string>
+    <string name="fragment_target_photos_and_videos_option_title_none">কোনওটিই নয়</string>
+    <string name="fragment_target_photos_and_videos_picker_description">ফটো এবং ভিডিও আপনার ডিভাইসে %d%% স্টোরেজ ব্যবহার করবে</string>
+    <string name="fragment_target_photos_and_videos_picker_include_videos_title">ভিডিওগুলি অন্তর্ভুক্ত করুন</string>
+    <string name="fragment_target_photos_and_videos_picker_title">ফটো ও ভিডিও বেছে নিন</string>
+    <string name="fragment_usb_cable_doesnt_fit">কেবলটি উপযুক্ত নয়?</string>
+    <string name="fragment_usb_cant_find_adapter">কোনও অ্যাডাপ্টার নেই?</string>
+    <string name="fragment_usb_connect_both_phones_title">কেবল ব্যবহার করে দুটি ডিভাইস কানেক্ট করুন</string>
+    <string name="fragment_usb_connect_cable_into_adapter_description">"'দ্রুত ডাটা ট্রান্সফার অ্যাডপ্টার' আপনার ^1-এর বাক্সেই রয়েছে"</string>
+    <string name="fragment_usb_connect_cable_into_adapter_title">দুটি ডিভাইস কানেক্ট করতে কেবল অ্যাডাপ্টারে যোগ করুন</string>
+    <string name="fragment_usb_dialog_cancel_description">কেবল ব্যবহার করলে আপনি ফটো, ভিডিও এবং এমএমএস মেসেজ ছাড়াও বেশিরভাগ কন্টেন্ট পাবেন।</string>
+    <string name="fragment_usb_dialog_cancel_description_v2">আপনার পুরনো ডিভাইস চার্জ দেওয়ার জন্য যে কেবেল ব্যবহার করেন ঠিক তেমন একটি কেবেল ব্যবহার করলে আপনি দ্রুত কন্টেন্ট পাবেন।</string>
+    <string name="fragment_usb_dialog_cancel_description_v3">কেবল ছাড়া আপনার ডেটা কপি করতে বেশি সময় লাগতে পারে এবং এই ডিভাইসটির ওয়াই-ফাই কানেকশন সাময়িকভাবে বন্ধ হতে পারে</string>
+    <string name="fragment_usb_dialog_cancel_title">কেবেল ছাড়াই কপি করবেন?</string>
+    <string name="fragment_usb_dialog_without_old_phone_description">"পুরনো ডিভাইস ব্যবহার করলে ফটো ও ভিডিও ছাড়াও আরও বেশি ডেটা ফিরিয়ে আনতে পারবেন।
+
+আপনার পুরনো ডিভাইস ছাড়াই ডেটা ফিরিয়ে আনতে পরের স্ক্রিনে ব্যবহারকারীর নাম ও পাসওয়ার্ড দিয়ে সাইন-ইন করুন।"</string>
+    <string name="fragment_usb_dialog_without_old_phone_title">পুরনো ডিভাইস ব্যবহার না করেই ডেটা ফিরিয়ে আনতে চান?</string>
+    <string name="fragment_usb_dont_have_cable">কোনও কেবল নেই?</string>
+    <string name="fragment_usb_find_cable_animation_description">USB-C কেবেল, লাইটনিং কেবেল, মাইক্রো USB কেবেল</string>
+    <string name="fragment_usb_find_cable_description">এমন কেবল ব্যবহার করুন যেটি আপনার পুরনো ডিভাইসে কাজ করত। এটি সাধারণত ফোন চার্জ করার কেবল হয়।</string>
+    <string name="fragment_usb_find_cable_title">আপনার পুরনো ডিভাইসের কেবল খুঁজুন</string>
+    <string name="fragment_usb_initial_description">আপনার পুরনো Android অথবা iPhone® নিন। সেটি চালু ও আনলক করে কাছে রাখুন।</string>
+    <string name="fragment_usb_initial_title">আপনার পুরনো ডিভাইস ব্যবহার করুন</string>
+    <string name="fragment_usb_missing_data_description">ট্রান্সফারের সময়েও আপনি ^1 এর সেট-আপ চালিয়ে যেতে পারবেন।</string>
+    <string name="fragment_usb_missing_data_title">আপনার ডেটা কপি করা যাক</string>
+    <string name="fragment_usb_plug_cable">আপনার পুরনো ডিভাইসে কেবল যোগ করুন</string>
+    <string name="fragment_wifi_d2d_unsupported_description">পুরনো ডিভাইসেরর সাথে কানেক্ট করার সময় সমস্যা হয়েছে</string>
+    <string name="fragment_wifi_d2d_unsupported_title">ওয়্যারলেস পদ্ধতিতে কপি করা যাবে না</string>
+    <string name="fragment_wifi_reconnecting_title">আবার কানেক্ট করার চেষ্টা করা হচ্ছে…</string>
+    <string name="fragment_wifi_restore_choice_title">আপনার পুরনো ডিভাইস ব্যবহার করে কেবল ছাড়াই ডেটা ট্রান্সফার করুন</string>
+    <string name="fragment_wifi_restore_choice_use_ios_button">iPhone® বা iPad® পাল্টাবেন?</string>
+    <string name="gigabyteShort">GB</string>
+    <string name="google_contacts_will_sync">Google পরিচিতি সিঙ্ক করা হবে</string>
+    <string name="google_photos_available_in_photos_app">Google Photos-এ দেখুন</string>
+    <string name="icloud_data_not_included">• iCloud® ডেটা অন্তর্ভুক্ত নেই</string>
+    <string name="imessage_deregistration_description">iPhone® ব্যবহারকারীর থেকে টেক্সট মেসেজ পেতে, আপনার পুরনো ফোনে iMessage বন্ধ করতে হবে।</string>
+    <string name="imessage_deregistration_done_button">হয়ে গেছে</string>
+    <string name="imessage_deregistration_extra_description">অন্য Apple® ডিভাইসে আপনার iMessage এখনও ব্যবহার করতে পারবেন।</string>
+    <string name="imessage_deregistration_procedure_first_step">১. আপনার iPhone ক্যামেরা ব্যবহার করে এই QR কোড স্ক্যান করুন অথবা <b>সেটিংস > মেসেজ</b> বিকল্পে যান</string>
+    <string name="imessage_deregistration_procedure_second_step">২. iMessage বন্ধ করুন</string>
+    <string name="imessage_deregistration_procedure_steps_without_qr_code"><b>সেটিংস > মেসেজ</b> বিকল্পে যান তারপরে <b>iMessage বিকল্প বন্ধ করুন</b>।</string>
+    <string name="imessage_deregistration_title">iMessage® মেসেজ বন্ধ করা</string>
+    <string name="instructions_fragment_title">আপনার অন্য ডিভাইস চেক করুন</string>
+    <string name="ios_connected_fragment_add_account_description">"পরবর্তী স্ক্রিনে আপনার Google অ্যাকাউন্টে সাইন-ইন করতে পারেন অথবা নতুন একটি অ্যাকাউন্ট তৈরি করতে পারেন।
+
+Google অ্যাকাউন্ট যোগ না করলে আপনার iOS® ক্যালেন্ডার ইভেন্ট কপি করা যাবে না।"</string>
+    <string name="ios_connected_fragment_add_account_title">আপনার Google অ্যাকাউন্ট যোগ করুন</string>
+    <string name="ios_connected_fragment_description_has_account">অ্যাপ এবং iOS® ক্যালেন্ডার ইভেন্টগুলি ট্রান্সফার করতে আমরা আপনার Google অ্যাকাউন্ট ব্যবহার করব</string>
+    <string name="ios_connected_fragment_description_has_account_with_notes">অ্যাপ, iOS® ক্যালেন্ডার ইভেন্ট এবং iOS® নোট ট্রান্সফার করতে আমরা আপনার Google অ্যাকাউন্ট ব্যবহার করব</string>
+    <string name="ios_connected_fragment_description_no_account">"পরবর্তী স্ক্রিনে আপনার Google অ্যাকাউন্টে সাইন-ইন করতে পারেন অথবা নতুন একটি অ্যাকাউন্ট খুলতে পারেন।
+
+আপনি আপনার Google অ্যাকাউন্ট যোগ না করলে আপনার অ্যাপ অথবা iOS® ক্যালেন্ডার ইভেন্টেগুলিকে ট্রান্সফার করা যাবে না।"</string>
+    <string name="ios_connected_fragment_description_no_account_with_notes">"পরবর্তী স্ক্রিনে আপনার Google অ্যাকাউন্টে সাইন-ইন করতে পারেন অথবা নতুন একটি অ্যাকাউন্ট খুলতে পারেন।
+
+আপনি Google অ্যাকাউন্ট যোগ না করলে আপনার অ্যাপ, iOS® ক্যালেন্ডার ইভেন্ট এবং iOS® নোট ট্রান্সফার করা যাবে না।"</string>
+    <string name="ios_migration_default_calendar_title">ক্যালেন্ডার</string>
+    <string name="ios_migration_other_contact_relation">অন্যান্য</string>
+    <string name="ios_photos_and_videos_dialog_icloud_got_it_button">বুঝেছি</string>
+    <string name="ios_photos_and_videos_dialog_icloud_message">"আপনার iCloud ফটো এবং ভিডিওর কপি Google Photos-এ ট্রান্সফার করার অনুরোধ করতে পারেন।
+
+কীভাবে তা করা যাবে, সে ব্যাপারে জানতে, "<b>g.co/datatransferhelp</b> লিঙ্কে যান।</string>
+    <string name="ios_photos_and_videos_dialog_icloud_title">iCloud®-এ সেভ করা ফটো এবং ভিডিও Google Photos-এ কপি করুন</string>
+    <string name="ios_settings_dialog_bullet_points">"
+● ^1"</string>
+    <string name="ios_settings_dialog_message">"নিম্নলিখিত পরিবর্তন করতে আপনার নতুন ডিভাইসের সেটিংসে যান:
+^1"</string>
+    <string name="ios_settings_dialog_title">কিছু সেটিংস ট্রান্সফার করা যাবে না</string>
+    <string name="ios_trademarks_disclaimer">iPhone, iPad, iOS, iTunes, iMessage, Safari, এবং iCloud হল Apple Inc-এর ট্রেডমার্ক, যা মার্কিন যুক্তরাষ্ট্র এবং অন্যান্য দেশের জন্য রেজিস্টার করা আছে</string>
+    <string name="ios_whatsapp_description">WhatsApp খোলার জন্য আপনার iPhone ব্যবহার করে QR কোড স্ক্যান করুন, তারপরে <b>শুরু করুন</b> বিকল্পে ট্যাপ করুন</string>
+    <string name="ios_whatsapp_export_description">আপনার iPhone আনলক করে এবং WhatsApp খুলে রাখুন</string>
+    <string name="ios_whatsapp_export_title">চ্যাট রেডি কর হচ্ছে…</string>
+    <string name="ios_whatsapp_message">স্ক্যান করতে সমস্যা? আপনার iPhone-এ, WhatsApp খুলুন, তারপরে <b>সেটিংস > চ্যাট > Android-এ চ্যাট সরান</b> বিকল্পে যান</string>
+    <string name="ios_whatsapp_title">WhatsApp চ্যাট ট্রান্সফার করুন</string>
+    <string name="ios_wifi_hotspot_description">এটি Switch to Android অ্যাপ ইনস্টল করবে এবং ওয়াই-ফাই নেটওয়ার্ক %1$s ব্যবহার করে আপনার ডিভাইস কানেক্ট করবে</string>
+    <string name="ios_wifi_hotspot_description_legacy">আপনার iPhone বা iPad-এ Switch to Android অ্যাপ খোলার পরে, নির্দেশাবলী অনুসরণ করুন</string>
+    <string name="ios_wifi_hotspot_instructions_first_step">ধাপ ১:</string>
+    <string name="ios_wifi_hotspot_instructions_first_step_message">Switch to Android অ্যাপ ডাউনলোড করতে, Safari খুলে <b>^1</b> লিঙ্কে যান</string>
+    <string name="ios_wifi_hotspot_instructions_fourth_step">অ্যাপ ইনস্টল করতে পারছেন না?</string>
+    <string name="ios_wifi_hotspot_instructions_fourth_step_message"><b>সেটিংস</b> খুলুন, তারপরে <b>সাধারণ > সফ্টওয়্যার আপডেট</b>"বিকল্পে ট্যাপ করে আবার চেষ্টা করুন।
+
+বা হোম স্ক্রিনে ফিরে গিয়ে কেবেলের মাধ্যমে ডেটা কপি করতে পারবেন।"</string>
+    <string name="ios_wifi_hotspot_instructions_second_step">ধাপ ২:</string>
+    <string name="ios_wifi_hotspot_instructions_second_step_message">অ্যাপ খুলুন, তারপর <b>চালু করুন > QR কোড স্ক্যান করা যাচ্ছে না?</b> বিকল্পে ট্যাপ করুন</string>
+    <string name="ios_wifi_hotspot_instructions_second_step_message_content_description">"অ্যাপ খোলার পরে 'চালু করুন' ও তারপরে 'QR কোড স্ক্যান করা যাচ্ছে না?' বিকল্পে ট্যাপ করুন"</string>
+    <string name="ios_wifi_hotspot_instructions_third_step">ধাপ ৩:</string>
+    <string name="ios_wifi_hotspot_instructions_third_step_message">"এই তথ্যগুলি লিখুন:
+নেটওয়ার্কের নাম: "<b>^1</b>"
+পাসওয়ার্ড: "<b>^2</b>"
+IP অ্যাড্রেস: "<b>^3</b></string>
+    <string name="ios_wifi_hotspot_instructions_title">আপনার iPhone বা iPad-এ এই ধাপগুলি অনুসরণ করুন</string>
+    <string name="ios_wifi_hotspot_qr_code_alternative">QR কোড স্ক্যান করা যাচ্ছে না?</string>
+    <string name="ios_wifi_hotspot_reconnecting_description">আপনার ডিভাইস একবার কানেক্ট হয়ে গেলেই কপি করার পদ্ধতি আবার শুরু হয়ে যাবে</string>
+    <string name="ios_wifi_hotspot_reconnecting_title">আবার কানেক্ট করতে QR কোড স্ক্যান করুন</string>
+    <string name="ios_wifi_hotspot_title">আপনার iPhone বা iPad ক্যামেরার সাহায্যে QR কোড স্ক্যান করুন</string>
+    <string name="ios_wifi_indexing_description">ডেটা ট্রান্সফার করার জন্য বেছে নিতে এবং ‘Switch to Android’ অনুমতি দেওয়ার জন্য আপনাকে জিজ্ঞাসা করা হবে</string>
+    <string name="ios_wifi_indexing_title">আপনার iPhone® এ চালিয়ে যান</string>
+    <string name="ios_wifi_location_permission_description">"আপনার ডেটা কপি করতে Google-এর %s-কে ডিভাইসের লোকেশন অ্যাক্সেস করার অনুমতি দিতে হবে।
+
+অ্যাক্সেস করার অনুমতি না দিলে, কোনও ডেটা আপনার নতুন ডিভাইসে কপি করা যাবে না।
+
+আপনার iPhone-এর সাথে ওয়্যারলেস কানেকশন তৈরি করতে কেবলমাত্র লোকেশন সংক্রান্ত তথ্য ব্যবহার করা হয় এবং এই তথ্য ডিভাইসেই থাকে।"</string>
+    <string name="ios_wifi_location_permission_title">ওয়্যারলেস পদ্ধতিতে কপি করতে ডিভাইসের লোকেশন সংক্রান্ত তথ্য প্রয়োজন</string>
+    <string name="ios_wifi_nearby_devices_permission_description">"আপনার ওয়াই-ফাই নেটওয়ার্ক ব্যবহার করে কাছাকাছি ডিভাইসগুলি খুঁজে পেতে এবং কানেক্ট করতে Google-এর %s-এর আপনার অনুমতির প্রয়োজন।
+
+ আপনি এই অনুমতি না দিলে আপনার কোনও ডেটা নতুন ডিভাইসে কপি করা হবে না।"</string>
+    <string name="ios_wifi_nearby_devices_permission_title">কাছাকাছি ডিভাইসগুলি অ্যাক্সেস করার অনুমতি দিন</string>
+    <string name="key_recovery_instruction_description">ব্যাক-আপ ডিক্রিপ্ট করতে পরবর্তী স্ক্রিনে আপনার পুরনো ডিভাইসের স্ক্রিন লক দিন</string>
+    <string name="key_recovery_instruction_title">পুরনো %s-এর স্ক্রিন লকটি নিশ্চিত করুন</string>
+    <string name="kilobyteShort">KB</string>
+    <string name="lock_screen_entry_title">পুরনো %s-এর স্ক্রিন লকটি নিশ্চিত করুন</string>
+    <string name="lskfui_confirm">কনফার্ম করুন</string>
+    <string name="lskfui_lock_screen_error_other">কোনও সমস্যা হয়েছে। পরে আবার চেষ্টা করুন।</string>
+    <string name="lskfui_lock_screen_error_wrong_password">ভুল পাসওয়ার্ড</string>
+    <string name="lskfui_lock_screen_error_wrong_pattern">ভুল প্যাটার্ন</string>
+    <string name="lskfui_lock_screen_error_wrong_pin">ভুল পিন</string>
+    <string name="lskfui_lockscreen_access_pattern_area">প্যাটার্ন আঁকার জায়গা</string>
+    <string name="lskfui_lockscreen_access_pattern_cell_added_verbose">%d নম্বর সেল যোগ করা হয়েছে</string>
+    <string name="lskfui_lockscreen_access_pattern_cleared">প্যাটার্ন মুছে ফেলা হয়েছে</string>
+    <string name="lskfui_lockscreen_access_pattern_detected">প্যাটার্ন আঁকা হয়ে গেছে</string>
+    <string name="lskfui_lockscreen_access_pattern_start">প্যাটার্ন আঁকা শুরু হয়েছে</string>
+    <string name="lskfui_save_lskf_password_desc">এই ডিভাইসেও পাসওয়ার্ড ব্যবহার করা চালিয়ে যান</string>
+    <string name="lskfui_save_lskf_pattern_desc">এই ডিভাইসেও প্যাটার্ন ব্যবহার করা চালিয়ে যান</string>
+    <string name="lskfui_save_lskf_pin_desc">এই ডিভাইসেও পিন ব্যবহার করা চালিয়ে যান</string>
+    <string name="lskfui_vault_almost_locked_dialog_title">আর %d বার চেষ্টা করতে পারবেন</string>
+    <string name="lskfui_vault_almost_locked_password_dialog_text">আপনি %1$d বার ভুল পাসওয়ার্ড দিয়েছেন। আরও %2$d বার ভুল করলে আপনার %3$s-এর ব্যাক-আপ মুছে ফেলা হবে।</string>
+    <string name="lskfui_vault_almost_locked_pattern_dialog_text">আপনি %1$d বার ভুল প্যাটার্ন এঁকেছেন। আরও %2$d বার ভুল করলে আপনার %3$s-এর ব্যাক-আপ মুছে ফেলা হবে।</string>
+    <string name="lskfui_vault_almost_locked_pin_dialog_text">আপনি %1$d বার ভুল পিন দিয়েছেন। আরও %2$d বার ভুল করলে আপনার %3$s-এর ব্যাক-আপ মুছে ফেলা হবে।</string>
+    <string name="manage_storage_button">স্টোরেজ ম্যানেজ করুন</string>
+    <string name="megabyteShort">MB</string>
+    <string name="migrate_from_ios_description">পরিচিতি, ক্যালেন্ডার ইভেন্ট এবং ফটো ও ভিডিও পেতে এই ধাপগুলি অনুসরণ করুন</string>
+    <string name="migrate_from_ios_header">কোনও iPhone থেকে আপনার ডেটা নিয়ে আসুন</string>
+    <string name="migrate_from_ios_instructions_1">১. আপনার ওয়েব ব্রাউজার খুলুন</string>
+    <string name="migrate_from_ios_instructions_2">২. <b>android.com/switch</b> লিঙ্কে যান</string>
+    <string name="migrate_from_ios_instructions_3">৩) নির্দেশাবলী অনুসরণ করুন</string>
+    <string name="oem_use_old_device_description">আপনার পুরনো Android, iPhone®, বা iPad® ডিভাইস প্রয়োজন</string>
+    <string name="oem_use_old_device_title">আপনার পুরনো ডিভাইস ব্যবহার করুন</string>
+    <string name="password_toggle_content_description">পাসওয়ার্ড দেখান</string>
+    <string name="petabyteShort">PB</string>
+    <string name="photos_and_videos_picker_no_items">বেছে নেওয়া হয়নি</string>
+    <string name="progressing_description">এতে কয়েক মিনিট সময় লাগতে পারে</string>
+    <string name="qrcode_description">QR কোড</string>
+    <string name="restore_apk_title">ডেটা ফিরিয়ে আনার টুল</string>
+    <string name="restore_choice_android_device_label">Android</string>
+    <string name="restore_choice_data_disclaimer">আপনার ^1-এ কিছু ডেটা ট্রান্সফার নাও হতে পারে। <annotation id="restore_choice_data_disclaimer_learn_more">আরও জানুন</annotation></string>
+    <string name="restore_choice_data_disclaimer_from_newer_version">Android-এর নতুন ভার্সনে চলে এমন ডিভাইস থেকে এই ব্যাক-আপ নেওয়া হয়েছে। আপনার নতুন ফোনে কিছু ডেটা ট্রান্সফার করা নাও যেতে পারে।</string>
+    <string name="restore_choice_data_disclaimer_v2_cloud">কিছু ডেটা আপনার ^1-এ কপি নাও হতে পারে।</string>
+    <string name="restore_choice_deselect_some_content">অব্যাহত রাখার জন্য কিছু সামগ্রীকে নির্বাচনমুক্ত করুন</string>
+    <string name="restore_choice_dont_have_old_phone">পুরনো ডিভাইস ব্যবহার করতে পারছেন না?</string>
+    <string name="restore_choice_ios_device_label">iPhone</string>
+    <string name="restore_choice_learn_more_android_message">"আপনার পুরনো ফোন থেকে কিছু ডেটা অটোমেটিক কপি করা যাবে না:
+
+ ● ডাউনলোড (যেমন পিডিএফ ফাইল)
+
+ ● লুকানো ফোল্ডারে সেভ করা ফটো, ভিডিও ও মিউজিক
+
+ ● টেক্সট মেসেজের মাধ্যমে পাওয়া ফটো, ভিডিও ও মিউজিক
+
+ ● Google Play Store থেকে নয়, এমন অ্যাপ
+
+ ● অ্যাপ ডেটা (যদি অ্যাপ Android ব্যাক-আপ ব্যবহার না করে)
+
+ ● নির্দিষ্ট ডিভাইস সেটিংস
+
+ ● Google অ্যাকাউন্ট ছাড়া অন্য অ্যাকাউন্ট (এবং যেকোনও সংশ্লিষ্ট ডেটা)
+
+ ● Google ছাড়া অন্যান্য পরিষেবাতে সিঙ্ক করা পরিচিতি ও ক্যালেন্ডার
+
+ ● রিংটোন
+
+ আরও বিবরণ এবং এর মধ্যে থেকে কিছু ডেটা কপি করার জন্য সাহায্য পেতে, g.co/datatransferhelp লিঙ্কে যান।"</string>
+    <string name="restore_choice_learn_more_android_title">কিছু ডেটা কপি করা যাবে না</string>
+    <string name="restore_choice_learn_more_ios_message">"পুরনো ডিভাইস থেকে কিছু ডেটা অটোমেটিক কপি করা যায় না:
+
+ ● App Store থেকে ইনস্টল করা হয়নি এমন অ্যাপ
+
+ ● Play Store-এ উপলভ্য নেই এমন অ্যাপ
+
+ ● অ্যাপ ডেটা
+
+ ● যেসব ফটোর আসল কপি আপনার ডিভাইসে সেভ করা নেই (যেমন 'অপ্টিমাইজ স্টোরেজ সেটিং' চালু থাকলে আসল ফটো iCloud®-এ সেভ হয়)
+
+ ● iCloud®-এ সেভ করা ফাইল ও ডকুমেন্ট
+
+ ● ডিভাইস সেটিংস (যেমন ওয়াই-ফাই পাসওয়ার্ড)
+
+ ● ডিজিটাল রাইটস ম্যানেজমেন্ট (DRM) দিয়ে সুরক্ষিত মিউজিক (এপ্রিল, ২০০৯-এর আগে কেনা iTunes® মিউজিক অথবা কোনও মিউজিক স্ট্রিমিং অ্যাপ থেকে অফলাইনে শোনার জন্য ডাউনলোড করা মিউজিক)
+
+ ● Google ছাড়া অন্য অ্যাকাউন্ট (ও সংশ্লিষ্ট ডেটা)
+
+ ● Google বা iCloud® ছাড়া অন্য পরিষেবার সাথে সিঙ্ক করা পরিচিতি ও ক্যালেন্ডারের তথ্য
+
+ ● Safari®-র বুকমার্কে সেভ করা লিঙ্ক
+
+ আরও জানতে ও এই ধরনের কিছু ডেটা কপি করার ব্যাপারে সাহায্য পেতে g.co/datatransferhelp লিঙ্কে যান।"</string>
+    <string name="restore_choice_learn_more_ios_title">কিছু ডেটা কপি করা যাবে না</string>
+    <string name="restore_choice_not_enough_space">পর্যাপ্ত জায়গা নেই</string>
+    <string name="restore_choice_select_some_content_cloud">ফিরিয়ে আনার জন্য কন্টেন্ট বেছে নিন</string>
+    <string name="restore_choice_select_some_content_d2d">কপি করার জন্য কন্টেন্ট বেছে নিন</string>
+    <string name="restore_choice_sync_disclaimer_android">ডিভাইস এবং সিমে থাকা পরিচিতিগুলি Google Contacts হিসেবে %1$s-এ সেভ করা হবে</string>
+    <string name="restore_choice_sync_disclaimer_cloud">ডিভাইস এবং সিমের পরিচিতিগুলি আপনার Google অ্যাকাউন্টের পরিচিতি হিসেবে %1$s এ সেভ হবে।</string>
+    <string name="restore_choice_sync_disclaimer_ios">পরিচিতি এবং iOS® ক্যালেন্ডার %1$s এ সেভ করা হবে।</string>
+    <string name="restore_choice_sync_disclaimer_ios_no_contacts">iOS® ক্যালেন্ডার %1$s এ সেভ করা হবে।</string>
+    <string name="restore_choice_sync_disclaimer_ios_no_contacts_with_notes">%1$s-এ iOS® ক্যালেন্ডার এবং iOS® নোট সেভ করা হবে।</string>
+    <string name="restore_choice_sync_disclaimer_ios_with_notes">%1$s-এ পরিচিতি, iOS® ক্যালেন্ডার এবং iOS® নোট সেভ করা হবে।</string>
+    <string name="restore_choice_title">আপনার পুরনো ডিভাইস বেছে নিন</string>
+    <string name="restore_continue_suw_title">রিস্টোর করা হচ্ছে…</string>
+    <string name="restore_estimated_time_v2">ট্রান্সফার করতে ^1 সময় লাগবে</string>
+    <string name="restore_from_an_android_dialog_message">"ফটো ও ভিডিও ফেরত পেতে আপনার পুরনো ডিভাইসে Google Photos অ্যাপ ব্যবহার করে সেটির ব্যাক-আপ নিন। এর ফলে ফটো ও ভিডিও অটোমেটিক ফোনে সিঙ্ক হয়ে যাবে।
+
+Android ব্যাক-আপের মধ্যে অ্যাপ, পরিচিতি, কল ইতিহাস, মেসেজ ও ডিভাইস সেটিংস অন্তর্ভুক্ত রয়েছে।"</string>
+    <string name="restore_from_an_android_dialog_title">ফটো ও ভিডিও ফিরিয়ে আনুন</string>
+    <string name="restore_item_alarms">অ্যালার্মগুলি</string>
+    <string name="restore_item_apps">অ্যাপ</string>
+    <string name="restore_item_brightness">উজ্জ্বলতা</string>
+    <string name="restore_item_calendar">ক্যালেন্ডার</string>
+    <string name="restore_item_calendar_ical_description">iOS® ক্যালেন্ডার</string>
+    <string name="restore_item_call_logs">কলের ইতিহাস</string>
+    <string name="restore_item_contacts">পরিচিতি</string>
+    <string name="restore_item_device_settings_description">ওয়াই-ফাই পাসওয়ার্ড এবং আরও অনেক কিছু</string>
+    <string name="restore_item_downloads">ডাউনলোডগুলি</string>
+    <string name="restore_item_email">ইমেল</string>
+    <string name="restore_item_email_description">Gmail সিঙ্ক করা হবে</string>
+    <string name="restore_item_font_size">ফন্ট সাইজ</string>
+    <string name="restore_item_home_screen_layout">হোম স্ক্রিন লেআউট</string>
+    <string name="restore_item_ios_device_settings_description">ওয়াই-ফাই নেটওয়ার্ক, ওয়ালপেপার এবং আরও অনেক কিছু</string>
+    <string name="restore_item_message_attachments">বার্তার সংযুক্তি</string>
+    <string name="restore_item_messages">মেসেজ</string>
+    <string name="restore_item_mms">এমএমএস মেসেজ</string>
+    <string name="restore_item_mms_attachments">এমএমএস অ্যাটাচমেন্ট</string>
+    <string name="restore_item_music">মিউজিক এবং অন্য অডিও</string>
+    <string name="restore_item_note_description">iOS® নোট</string>
+    <string name="restore_item_notes">নোট</string>
+    <string name="restore_item_photos">ফটো</string>
+    <string name="restore_item_photos_and_videos">ফটো এবং ভিডিও</string>
+    <string name="restore_item_screen_timeout">স্ক্রিন টাইম-আউট</string>
+    <string name="restore_item_settings">ডিভাইস সেটিংস</string>
+    <string name="restore_item_sms">এসএমএস</string>
+    <string name="restore_item_video">ভিডিও</string>
+    <string name="restore_item_wallpaper">ওয়ালপেপার</string>
+    <string name="restore_item_wifi_networks">ওয়াই-ফাই নেটওয়ার্ক</string>
+    <string name="restore_qs_finishsetup_fragment_description_may_take_a_few_min">এতে কয়েক মিনিট সময় লাগতে পারে</string>
+    <string name="restore_qs_finishsetup_fragment_title_getting_yourdevice_ready">{DEVICE_TYPE,select, PHONE{আপনার ফোন রেডি করা হচ্ছে…}TABLET{আপনার ট্যাবলেট রেডি করা হচ্ছে…}other{আপনার ডিভাইস রেডি করা হচ্ছে…}}</string>
+    <string name="restore_qs_init_fragment_title_just_a_few_moments">কয়েক মুহূর্ত…</string>
+    <string name="restore_qs_startrestore_cant_use_old_device_q">পুরনো ডিভাইস ব্যবহার করতে পারছেন না?</string>
+    <string name="restore_qs_startrestore_dont_copy">কপি করবেন না</string>
+    <string name="restore_qs_startrestore_fragment_start_restore_description_you_can_choose_to_transfer">আপনার অ্যাপ, ফটো, পরিচিতি এবং আরও অনেক কিছু ট্রান্সফার করার জন্য বেছে নিতে পারেন।</string>
+    <string name="restore_qs_startrestore_fragment_start_restore_title_copy_apps_and_data">অ্যাপ এবং ডেটা কপি করুন</string>
+    <string name="restore_qs_startrestore_fragment_use_old_device_description">আপনার পুরনো Android, iPhone®, বা iPad® ডিভাইস প্রয়োজন</string>
+    <string name="restore_qs_startrestore_fragment_use_old_device_title">আপনার পুরনো ডিভাইস ব্যবহার করুন</string>
+    <string name="restore_qs_workprofilesetup_fragment_work_profile_setup_description">আপনার অফিস প্রোফাইল সেট-আপ করার জন্য পরবর্তী স্ক্রিনে আপনার কাজের অ্যাকাউন্ট যোগ করুন</string>
+    <string name="restore_qs_workprofilesetup_fragment_work_profile_setup_title">ব্যবহার করার জন্য আপনার ডিভাইস তৈরি করুন</string>
+    <string name="restore_selected_size_and_device_space_text">^2 এর মধ্যে <annotation id="selected_size">^1</annotation> ^3</string>
+    <string name="retail_mode_warning_dialog_message">ডিভাইসকে ফ্যাক্টরি রিসেট না করা পর্যন্ত এটি একটি খুচরা বিক্রয়ের নমুনা ভিডিও চালাবে। এই মোডটি খুচরো বিক্রেতাদের জন্য, ব্যক্তিগত ব্যবহারের উদ্দেশ্যে নয়।</string>
+    <string name="retail_mode_warning_dialog_title">নমুনা ভিডিওটি চালান</string>
+    <string name="skip_transfer">ট্রান্সফার এড়িয়ে যান</string>
+    <string name="small_time_duration">১ মিনিটেরও কম</string>
+    <string name="some_whatsapp_chats_not_exported">• WhatsApp-এর কিছু চ্যাট ট্রান্সফার করা হয়নি</string>
+    <string name="stop_copying_dialog_continue_button">খারিজ করুন</string>
+    <string name="stop_copying_dialog_message_before_transfer">পুরনো ডিভাইস থেকে ডেটা আপনার নতুন ডিভাইসে কপি যাবে না</string>
+    <string name="stop_copying_dialog_message_before_transfer_initial_setup">সেট-আপ করার পরেও আপনি পুরনো ডিভাইস থেকে এখনও কন্টেন্ট ট্রান্সফার করতে পারবেন</string>
+    <string name="stop_copying_dialog_message_during_transfer">পুরনো ডিভাইস থেকে কিছু ডেটা আপনার নতুন ডিভাইসে কপি যাবে না</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">থামান</string>
+    <string name="stop_copying_dialog_title_before_transfer">কপি করবেন না?</string>
+    <string name="stop_copying_dialog_title_during_transfer">কপি করা থামাতে চান?</string>
+    <string name="stop_restoring_dialog_message_before_transfer">নতুন ডিভাইসে আপনার ডেটা ফিরিয়ে আনা যাবে না</string>
+    <string name="stop_restoring_dialog_message_before_transfer_initial_setup">সেট-আপ করার পরেও আপনি পুরনো ডিভাইস থেকে এখনও কন্টেন্ট ফিরিয়ে আনতে পারবেন</string>
+    <string name="stop_restoring_dialog_title_before_transfer">পুনরুদ্ধার করবেন না?</string>
+    <string name="sud_back_button_label">ফিরে যান</string>
+    <string name="sud_more_button_label">আরও</string>
+    <string name="sud_next_button_label">পরবর্তী</string>
+    <string name="sud_skip_button_label">এড়িয়ে যান</string>
+    <string name="target_default_source_device_model">পুরানো ডিভাইস</string>
+    <string name="target_device_not_supported_cant_continue_description">ডেটা কপি করতে আপনাকে অন্য কোনও উপায় বেছে নিতে হবে</string>
+    <string name="target_device_not_supported_cant_continue_title">অন্য ডিভাইসে কাজ করে না</string>
+    <string name="target_device_not_supported_try_restarting_description">"তার খুলে আপনার পুরনো ডিভাইস রিস্টার্ট করুন, তারপরে আবার তার যোগ করে ^1-এ দেখানো নির্দেশাবলী অনুসরণ করুন।
+
+তা সত্ত্বেও আপনাকে সমস্যার মেসেজ দেখানো হলে আপনাকে অন্যভাবে কপি করতে হবে।"</string>
+    <string name="target_device_not_supported_try_restarting_title">অন্য ডিভাইসে হয়ত কাজ করে না</string>
+    <string name="target_fragment_msg_reconnect_cable">কেবলটি আবার কানেক্ট করুন</string>
+    <string name="target_fragment_msg_wifi_disconnected">দুটি ডিভাইস কাছাকাছি নিয়ে আসুন</string>
+    <string name="target_pixelmigrate_notification_description">উপলব্ধ আছে, অথবা কাজ চলছে</string>
+    <string name="target_pixelmigrate_notification_title">ডেটা ট্রান্সফার</string>
+    <string name="target_smart_device_timeout_add_account">অ্যাকাউন্ট যোগ করুন</string>
+    <string name="target_smart_device_timeout_description">আপনি চাইলে নিজেই আপনার অ্যাকাউন্ট যোগ করার চেষ্টা করতে পারেন</string>
+    <string name="target_smart_device_timeout_dismiss">খারিজ করুন</string>
+    <string name="target_smart_device_timeout_title">সমস্যা হচ্ছে?</string>
+    <string name="terabyteShort">TB</string>
+    <string name="toast_phones_connected">ডিভাইস কানেক্ট করা আছে</string>
+    <string name="toast_reconnect_cable">আপনার কেবল আবার সংযোগ করুন</string>
+    <string name="toast_wifi_disconnected">ডিভাইসের সাথে কানেক্ট করা যাচ্ছে না। ডেটা ট্রান্সফার পজ করা হয়েছে।</string>
+    <string name="transfer_finished_fragment_description">এতে কয়েক মিনিট সময় লাগতে পারে</string>
+    <string name="transfer_finished_fragment_readying_device_title">{DEVICE_TYPE,select, PHONE{আপনার ফোন রেডি করা হচ্ছে…}TABLET{আপনার ফোন রেডি করা হচ্ছে…}other{আপনার ফোন রেডি করা হচ্ছে…}}</string>
+    <string name="transfer_finished_fragment_title">শেষের কয়েকটি জিনিস যোগ করা হচ্ছে…</string>
+    <string name="transfer_finished_fragment_work_setup_tile">ডিভাইস অফিস প্রোফাইলের জন্য তৈরি করা হচ্ছে…</string>
+    <string name="transfer_summary_fragment_description_for_cable_d2d">আপনি কেবলটি খুলে নিতে পারেন</string>
+    <string name="transfer_summary_fragment_description_for_ios_wifi_d2d">সেটআপ করা চালিয়ে যান অথবা আপনার iPhone-এ দেওয়া পদ্ধতি অনুসরণ করুন</string>
+    <string name="transfer_summary_fragment_done_button">হয়ে গেছে</string>
+    <string name="transfer_summary_fragment_dtp_description_for_ios_wifi_d2d">iCloud থেকে Google Photos-এ ফটো এবং ভিডিও কপি করার জন্য, Switch to Android অ্যাপে দেওয়া নির্দেশাবলী অনুসরণ করুন বা <b>g.co/transferfromicloud</b> লিঙ্ক থেকে আরও জানুন</string>
+    <string name="transfer_summary_fragment_title">কপি করা সম্পূর্ণ হয়েছে</string>
+    <string name="transfer_summary_icloud_data_not_copied">iCloud® ডেটা কপি করা নেই</string>
+    <string name="transfer_summary_not_copied">ডেটা কপি করা হয়নি</string>
+    <string name="transfer_summary_nothing_to_copy">কপি করার জন্য ডিভাইসে কোনও আইটেম নেই</string>
+    <string name="transfer_summary_partial">%1$s / %2$s কপি করা হয়েছে</string>
+    <string name="transferring_fragment_calculating_remaining_time">আর কতটা সময় লাগবে তা হিসেব করা হচ্ছে...</string>
+    <string name="transferring_fragment_description_final_hold">ডিভাইস কানেক্ট করে চালু রাখুন</string>
+    <string name="transferring_fragment_disabling_back_key">কপি করা সম্পূর্ণ না হওয়া পর্যন্ত আপনি আগের ধাপে ফিরে যেতে পারবেন না</string>
+    <string name="transferring_fragment_header">আপনার ডেটা কপি করা হচ্ছে…</string>
+    <string name="transferring_fragment_remaining_time_v2">আর প্রায় %1$s বাকি আছে</string>
+    <string name="transferring_fragment_restoring_content">কন্টেন্ট পুনরুদ্ধার করা হচ্ছে…</string>
+    <string name="trust_instructions_trademark_disclaimer">iPhone, iPad, iMessage, iCloud, Safari এবং iTunes হল Apple Inc.-এর ট্রেডমার্ক, যা মার্কিন যুক্তরাষ্ট্র এবং অন্যান্য দেশে রেজিস্টার করা আছে।</string>
+    <string name="unlock_ios_fragment_description">চালিয়ে যেতে আপনার iPhone® আনলক করুন। ট্রান্সফার চলাকালীন এটি আনলক অবস্থায় রাখুন।</string>
+    <string name="unlock_ios_fragment_title">আপনার iPhone® আনলক করা</string>
+    <string name="vault_confirm_cancel_message">আপনার নতুন ডিভাইসে কোনও ডেটা ফিরিয়ে আনা যাবে না</string>
+    <string name="vault_confirm_cancel_title">ডেটা ফিরিয়ে না এনেই চালিয়ে যাবেন?</string>
+    <string name="vault_locked_dialog_text">আপনার %s এর লক স্ক্রিনটি আপনি অনেকবার ভুলভাবে লিখেছেন। আপনার ব্যাক-আপ মুছে ফেলা হয়েছে।</string>
+    <string name="vault_locked_dialog_title">ব্যাক-আপ মোছা হয়েছে</string>
+    <string name="whatsapp_chats_not_exported">• WhatsApp-এ করা চ্যাট ট্রান্সফার করা হয় না</string>
+    <string name="wifi_settings_button">ওয়াই-ফাই সেটিংস</string>
+    <string name="work_profile_setup_description">আপনার অফিস প্রোফাইল সেট-আপ করার জন্য পরের স্ক্রিনে আপনার কাজের অ্যাকাউন্ট যোগ করুন</string>
+    <string name="work_profile_setup_skip">এড়িয়ে যান</string>
+    <string name="work_profile_setup_title">ব্যবহার করার জন্য আপনার ডিভাইস তৈরি করুন</string>
+</resources>

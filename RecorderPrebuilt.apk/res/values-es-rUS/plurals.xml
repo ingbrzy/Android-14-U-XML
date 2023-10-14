@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="og_backup_failed_title">
+        <item quantity="other">No se creó la copia de seguridad de %1$d elementos</item>
+        <item quantity="one">No se creó la copia de seguridad de %1$d elemento</item>
+    </plurals>
+    <plurals name="og_backup_items_left">
+        <item quantity="other">Quedan %1$d elementos.</item>
+        <item quantity="one">Queda %1$d elemento.</item>
+    </plurals>
+    <plurals name="og_backup_items_stopped_title">
+        <item quantity="other">Hay %1$d elementos sin copia de seguridad</item>
+        <item quantity="one">Hay %1$d elemento sin copia de seguridad</item>
+    </plurals>
+    <plurals name="peoplekit_chips_copied_recipients">
+        <item quantity="other">Se copiaron %d destinatarios</item>
+        <item quantity="one">Se copió %d destinatario</item>
+    </plurals>
+</resources>

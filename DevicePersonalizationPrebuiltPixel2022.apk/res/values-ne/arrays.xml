@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="call_captions_typing_predictions_post_system_message">
+        <item>नमस्ते, तपाईंको नाम के होला?</item>
+        <item>नमस्ते, तपाईंलाई कस्तो छ?</item>
+        <item>कृपया एक मिनेट पर्खनुहोस्</item>
+        <item>नमस्ते, तपाईं पछि कल गर्न सक्नुहुन्छ?</item>
+        <item>नमस्ते! कल गर्नुभएकोमा धन्यवाद।</item>
+    </string-array>
+    <string-array name="captions_settings_enable_for_calls_choices_entries">
+        <item>प्रत्येक पटक सोधियोस्</item>
+        <item>सधैँ</item>
+        <item>अफ</item>
+    </string-array>
+    <string-array name="captions_settings_typing_voice_names">
+        <item>आवाज A</item>
+        <item>आवाज B</item>
+        <item>आवाज C</item>
+        <item>आवाज D</item>
+        <item>आवाज E</item>
+        <item>आवाज F</item>
+        <item>आवाज G</item>
+        <item>आवाज H</item>
+        <item>आवाज I</item>
+        <item>आवाज J</item>
+        <item>आवाज K</item>
+        <item>आवाज L</item>
+        <item>आवाज M</item>
+        <item>आवाज N</item>
+        <item>आवाज O</item>
+        <item>आवाज P</item>
+    </string-array>
+    <string-array name="pref_download_policy_entries">
+        <item>मोबाइल + Wi-Fi</item>
+        <item>Wi-Fi मात्र</item>
+        <item>अपडेट नगरियोस्</item>
+    </string-array>
+    <string-array name="pref_download_policy_entry_values_placeholder">
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+</resources>

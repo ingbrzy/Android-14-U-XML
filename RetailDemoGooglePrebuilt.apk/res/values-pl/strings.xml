@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_retaildemoCommunication">Zezwala na interakcję aplikacji z usługami trybu demo dla sklepów. Te uprawnienia powinny być przyznawane wyłącznie w trybie demo dla sklepów. Aplikacje z tymi uprawnieniami mogą uruchamiać działania zarezerwowane dla trybu demo dla sklepów.</string>
+    <string name="permlab_retaildemoCommunication">Komunikacja dotycząca tryb demo dla sklepów</string>
+    <string name="retaildemo_preload_app_name">Usługi trybu demo dla sklepów</string>
+</resources>

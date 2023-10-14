@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dlg_message_deletion_confirmation">
+        <item quantity="other">Yozuvlar butunlay oʻchirib tashlanadi. Bu amal bekor qilinmaydi.</item>
+        <item quantity="one">Yozuv butunlay oʻchirib tashlanadi. Bu amal bekor qilinmaydi.</item>
+    </plurals>
+    <plurals name="dlg_message_deletion_permanent_confirmation">
+        <item quantity="other">Yozuvlar zaxiralanmadi. Ular butunlay oʻchirib tashlanadi. Bu amalni ortga qaytara olmaysiz.</item>
+        <item quantity="one">Yozuv zaxiralanmadi. U butunlay oʻchirib tashlanadi. Bu amalni ortga qaytara olmaysiz.</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_confirmation">
+        <item quantity="other">Yozuvlar oʻchirilsinmi?</item>
+        <item quantity="one">Yozuv oʻchirilsinmi?</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_permanent_confirmation">
+        <item quantity="other">Bu yozuvlar butunlay oʻchirilsinmi?</item>
+        <item quantity="one">Bu yozuv butunlay oʻchirilsinmi?</item>
+    </plurals>
+    <plurals name="download_failure_description_storage_full">
+        <item quantity="other">Yozuvlar yuklab olinmadi, qurilma xotirasida joy qolmagan. Tekshirish uchun bosing.</item>
+        <item quantity="one">Qurilma xotirasida joy qolmagan. Tekshirish uchun bosing.</item>
+    </plurals>
+    <plurals name="downloading_description">
+        <item quantity="other">%1$d ta yozuv yuklab olinmoqda</item>
+        <item quantity="one">%1$d ta yozuv yuklab olinmoqda</item>
+    </plurals>
+    <plurals name="og_backup_failed_title">
+        <item quantity="other">%1$d ta element zaxiralanmadi</item>
+        <item quantity="one">%1$d ta element zaxiralanmadi</item>
+    </plurals>
+    <plurals name="og_backup_items_left">
+        <item quantity="other">%1$d ta element qoldi</item>
+        <item quantity="one">%1$d ta element qoldi</item>
+    </plurals>
+    <plurals name="og_backup_items_stopped_title">
+        <item quantity="other">%1$d ta fayl avtomatik yuklanmadi</item>
+        <item quantity="one">%1$d ta fayl avtomatik yuklanmadi</item>
+    </plurals>
+    <plurals name="peoplekit_chips_copied_recipients">
+        <item quantity="other">%d ta qabul qiluvchidan nusxa olindi</item>
+        <item quantity="one">%d ta qabul qiluvchidan nusxa olindi</item>
+    </plurals>
+    <plurals name="search_results_count">
+        <item quantity="other">%1$d ta natija</item>
+        <item quantity="one">%1$d ta natija</item>
+    </plurals>
+    <plurals name="search_results_position">
+        <item quantity="other">Natija ^1/^2</item>
+        <item quantity="one">Natija ^1/^2</item>
+    </plurals>
+    <plurals name="search_results_position_content_description">
+        <item quantity="other">Natija %1$d/%2$d</item>
+        <item quantity="one">Natija %1$d/%2$d</item>
+    </plurals>
+    <plurals name="selected_recording_quantity">
+        <item quantity="other">%1$d ta belgilandi</item>
+        <item quantity="one">%1$d ta belgilandi</item>
+    </plurals>
+    <plurals name="snackbar_message_download_failed_storage_full">
+        <item quantity="other">Qurilma xotirasi toʻlgan. Yozuvlar yuklab olinmadi.</item>
+        <item quantity="one">Qurilma xotirasi toʻlgan. Yozuv yuklab olinmadi.</item>
+    </plurals>
+    <plurals name="speaker_count">
+        <item quantity="other">%1$d ta karnay</item>
+        <item quantity="one">%1$d ta karnay</item>
+    </plurals>
+    <plurals name="uploading_description">
+        <item quantity="other">%1$d ta audioyozuv yuklanmoqda</item>
+        <item quantity="one">%1$d ta audioyozuv yuklanmoqda</item>
+    </plurals>
+</resources>

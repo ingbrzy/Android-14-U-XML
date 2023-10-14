@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="call_captions_typing_predictions_post_system_message">
+        <item>გამარჯობა, ვინ არის?</item>
+        <item>გამარჯობა, როგორ ხარ?</item>
+        <item>გთხოვთ, ერთი წუთი დაიცადოთ</item>
+        <item>გამარჯობა, შეგიძლია მოგვიანებით დარეკო?</item>
+        <item>გამარჯობა! გმადლობთ, რომ დარეკეთ.</item>
+    </string-array>
+    <string-array name="captions_settings_enable_for_calls_choices_entries">
+        <item>შეკითხვა ყოველ ჯერზე</item>
+        <item>ყოველთვის</item>
+        <item>გამორთვა</item>
+    </string-array>
+    <string-array name="captions_settings_typing_voice_names">
+        <item>ხმა A</item>
+        <item>ხმა B</item>
+        <item>ხმა C</item>
+        <item>ხმა D</item>
+        <item>ხმა E</item>
+        <item>ხმა F</item>
+        <item>ხმა G</item>
+        <item>ხმა H</item>
+        <item>ხმა I</item>
+        <item>ხმა J</item>
+        <item>ხმა K</item>
+        <item>ხმა L</item>
+        <item>ხმა M</item>
+        <item>ხმა N</item>
+        <item>ხმა O</item>
+        <item>ხმა P</item>
+    </string-array>
+    <string-array name="pref_download_policy_entries">
+        <item>მობილური + WiFi</item>
+        <item>მხოლოდ WiFi</item>
+        <item>არ განახლდეს</item>
+    </string-array>
+    <string-array name="pref_download_policy_entry_values_placeholder">
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+</resources>

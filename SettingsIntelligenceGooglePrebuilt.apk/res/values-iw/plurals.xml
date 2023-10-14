@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="other">לפני %d ימים</item>
+        <item quantity="one">לפני %d ימים</item>
+        <item quantity="two">לפני יומיים (%d)</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="other">לפני %d דקות</item>
+        <item quantity="one">לפני %d דקות</item>
+        <item quantity="two">לפני %d דקות</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="other">לפני %d שנים</item>
+        <item quantity="one">לפני %d שנים</item>
+        <item quantity="two">לפני %d שנים</item>
+    </plurals>
+    <plurals name="accessibility_other_devices">
+        <item quantity="other">%d מכשירים אחרים</item>
+        <item quantity="one">%d מכשירים אחרים</item>
+        <item quantity="two">%d מכשירים אחרים</item>
+    </plurals>
+    <plurals name="routines_settings_summary">
+        <item quantity="other">%d כללים</item>
+        <item quantity="one">%d כללים</item>
+        <item quantity="two">%d כללים</item>
+    </plurals>
+</resources>

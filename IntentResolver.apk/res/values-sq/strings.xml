@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Orientohu për në shtëpi</string>
+    <string name="abc_action_bar_up_description">Ngjitu lart</string>
+    <string name="abc_action_menu_overflow_description">Opsione të tjera</string>
+    <string name="abc_action_mode_done">U krye</string>
+    <string name="abc_activity_chooser_view_see_all">Shfaq çdo gjë</string>
+    <string name="abc_activitychooserview_choose_application">Zgjidh një aplikacion</string>
+    <string name="abc_capital_off">JOAKTIV</string>
+    <string name="abc_capital_on">AKTIV</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Funksioni+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">hapësirë</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menyja+</string>
+    <string name="abc_search_hint">Kërko…</string>
+    <string name="abc_searchview_description_clear">Pastro pyetjen</string>
+    <string name="abc_searchview_description_query">Kërko pyetjen</string>
+    <string name="abc_searchview_description_search">Kërko</string>
+    <string name="abc_searchview_description_submit">Dërgo pyetjen</string>
+    <string name="abc_searchview_description_voice">Kërkim me zë</string>
+    <string name="abc_shareactionprovider_share_with">Ndaje me</string>
+    <string name="abc_shareactionprovider_share_with_application">Ndaje me %s</string>
+    <string name="abc_toolbar_collapse_description">Palos</string>
+    <string name="activity_resolver_use_always">Gjithmonë</string>
+    <string name="activity_resolver_use_once">Vetëm një herë</string>
+    <string name="activity_resolver_work_profiles_support">%1$s nuk mbështet profilin e punës</string>
+    <string name="call_notification_answer_action">Përgjigju</string>
+    <string name="call_notification_answer_video_action">Video</string>
+    <string name="call_notification_decline_action">Refuzo</string>
+    <string name="call_notification_hang_up_action">Mbyll</string>
+    <string name="call_notification_incoming_text">Telefonatë hyrëse</string>
+    <string name="call_notification_ongoing_text">Telefonatë në vazhdim</string>
+    <string name="call_notification_screening_text">Po filtron një telefonatë hyrëse</string>
+    <string name="chooseActivity">Zgjidh një veprim</string>
+    <string name="chooser_no_direct_share_targets">Nuk ka persona të rekomanduar për ta ndarë</string>
+    <string name="exclude_link">Përjashto lidhjen</string>
+    <string name="exclude_text">Përjashto tekstin</string>
+    <string name="file_preview_a11y_description">Miniatura e pamjes paraprake të skedarit</string>
+    <string name="forward_intent_to_owner">Po e përdor këtë aplikacion jashtë profilit tënd të punës</string>
+    <string name="forward_intent_to_work">Këtë aplikacion po e përdor në profilin tënd të punës</string>
+    <string name="image_preview_a11y_description">Miniatura e pamjes paraprake të imazhit</string>
+    <string name="include_link">Përfshi lidhjen</string>
+    <string name="include_text">Përfshi tekstin</string>
+    <string name="miniresolver_open_in_personal">Të hapet %s në profilin tënd personal?</string>
+    <string name="miniresolver_open_in_work">Të hapet %s në profilin tënd të punës?</string>
+    <string name="miniresolver_use_personal_browser">Përdor shfletuesin personal</string>
+    <string name="miniresolver_use_work_browser">Përdor shfletuesin e punës</string>
+    <string name="more_files">{count,plural, =1{+ # skedar tjetër}other{+ # skedarë të tjerë}}</string>
+    <string name="noApplications">Asnjë aplikacion nuk mund ta kryejë këtë veprim.</string>
+    <string name="other_files">{count,plural, =1{+ # skedar}other{+ # skedarë}}</string>
+    <string name="pin_specific_target">Gozhdo \"%1$s\"</string>
+    <string name="resolver_cant_access_personal_apps_explanation">Kjo përmbajtje nuk mund të hapet me aplikacione personale</string>
+    <string name="resolver_cant_access_work_apps_explanation">Kjo përmbajtje nuk mund të hapet me aplikacione pune</string>
+    <string name="resolver_cant_share_with_personal_apps_explanation">Kjo përmbajtje nuk mund të shpërndahet me aplikacione personale</string>
+    <string name="resolver_cant_share_with_work_apps_explanation">Kjo përmbajtje nuk mund të shpërndahet me aplikacione pune</string>
+    <string name="resolver_cross_profile_blocked">Bllokuar nga administratori yt i teknologjisë së informacionit</string>
+    <string name="resolver_no_personal_apps_available">Nuk ka aplikacione personale</string>
+    <string name="resolver_no_work_apps_available">Nuk ka aplikacione pune</string>
+    <string name="resolver_personal_tab">Personal</string>
+    <string name="resolver_personal_tab_accessibility">Pamja personale</string>
+    <string name="resolver_switch_on_work">Hiq nga pauza</string>
+    <string name="resolver_turn_on_work_apps">Aplikacionet e punës janë vendosur në pauzë</string>
+    <string name="resolver_work_tab">Puna</string>
+    <string name="resolver_work_tab_accessibility">Pamja e punës</string>
+    <string name="screenshot_edit">Modifiko</string>
+    <string name="search_menu_title">Kërko</string>
+    <string name="sharing_files">{count,plural, =1{Po ndahet # skedar}other{Po ndahen # skedarë}}</string>
+    <string name="sharing_files_only">{count,plural, =1{Vetëm skedari}other{Vetëm skedarët}}</string>
+    <string name="sharing_files_with_link">{count,plural, =1{Po ndahet një skedar me lidhje}other{Po ndahen # skedarë me lidhje}}</string>
+    <string name="sharing_files_with_text">{count,plural, =1{Po ndahet një skedar me tekst}other{Po ndahen # skedarë me tekst}}</string>
+    <string name="sharing_images">{count,plural, =1{Po ndahet imazh}other{Po ndahen # imazhe}}</string>
+    <string name="sharing_images_only">{count,plural, =1{Vetëm imazhi}other{Vetëm imazhet}}</string>
+    <string name="sharing_images_with_link">{count,plural, =1{Po ndahet një imazh me lidhje}other{Po ndahen # imazhe me lidhje}}</string>
+    <string name="sharing_images_with_text">{count,plural, =1{Po ndahet një imazh me tekst}other{Po ndahen # imazhe me tekst}}</string>
+    <string name="sharing_link">Po ndahet lidhja</string>
+    <string name="sharing_text">Po ndahet teksti</string>
+    <string name="sharing_videos">{count,plural, =1{Po ndahet videoja}other{Po ndahen # video}}</string>
+    <string name="sharing_videos_only">{count,plural, =1{Vetëm videoja}other{Vetëm videot}}</string>
+    <string name="sharing_videos_with_link">{count,plural, =1{Po ndahet një video me lidhje}other{Po ndahen # video me lidhje}}</string>
+    <string name="sharing_videos_with_text">{count,plural, =1{Po ndahet një video me tekst}other{Po ndahen # video me tekst}}</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="unpin_specific_target">Zhgozhdoje %1$s</string>
+    <string name="usb_device_resolve_prompt_warn">Këtij aplikacioni nuk i është dhënë leje për regjistrim, por mund të regjistrojë audio përmes kësaj pajisjeje USB.</string>
+    <string name="use_a_different_app">Përdor një aplikacion tjetër</string>
+    <string name="video_preview_a11y_description">Miniatura e pamjes paraprake të videos</string>
+    <string name="whichApplication">Përfundo veprimin duke përdorur</string>
+    <string name="whichApplicationLabel">Përfundo veprimin</string>
+    <string name="whichApplicationNamed">Përfundo veprimin duke përdorur %1$s</string>
+    <string name="whichEditApplication">Redakto me</string>
+    <string name="whichEditApplicationLabel">Redakto</string>
+    <string name="whichEditApplicationNamed">Modifiko me %1$s</string>
+    <string name="whichGiveAccessToApplicationLabel">Jep qasje</string>
+    <string name="whichHomeApplication">Përzgjidh një aplikacion nga ekrani bazë</string>
+    <string name="whichHomeApplicationLabel">Regjistro imazhin</string>
+    <string name="whichHomeApplicationNamed">Përdor %1$s si ekran bazë</string>
+    <string name="whichImageCaptureApplication">Regjistro imazhin me</string>
+    <string name="whichImageCaptureApplicationLabel">Regjistro imazhin</string>
+    <string name="whichImageCaptureApplicationNamed">Regjistro imazhin me %1$s</string>
+    <string name="whichOpenHostLinksWith">Hapi lidhjet e %1$s me</string>
+    <string name="whichOpenHostLinksWithApp">Hapi lidhjet e %1$s me %2$s</string>
+    <string name="whichOpenLinksWith">Hapi lidhjet me</string>
+    <string name="whichOpenLinksWithApp">Hapi lidhjet me %1$s</string>
+    <string name="whichSendApplication">Ndaj</string>
+    <string name="whichSendApplicationLabel">Ndaj</string>
+    <string name="whichSendApplicationNamed">Shpërndaj me %1$s</string>
+    <string name="whichSendToApplication">Dërgo me</string>
+    <string name="whichSendToApplicationLabel">Dërgo</string>
+    <string name="whichSendToApplicationNamed">Dërgo duke përdorur %1$s</string>
+    <string name="whichViewApplication">Hap me</string>
+    <string name="whichViewApplicationLabel">Hap</string>
+    <string name="whichViewApplicationNamed">Hap me %1$s</string>
+</resources>

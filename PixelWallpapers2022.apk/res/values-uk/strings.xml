@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="azure_title">Блакитна сизойка</string>
+    <string name="blackswan_title">Чорний лебідь</string>
+    <string name="cockatoo_title">Какаду</string>
+    <string name="come_alive_title">Живі фонові малюнки</string>
+    <string name="feathers_attribution">Фотограф: Ендрю Цукерман</string>
+    <string name="feathers_description">Деталізовані зображення пернатих у насичених кольорах</string>
+    <string name="feathers_title">Пір’я</string>
+    <string name="greenwinged_title">Зеленокрилий ара</string>
+    <string name="king_title">Королівський кондор</string>
+    <string name="living_universe_title">Живий усесвіт</string>
+    <string name="photos_memory_gallery_title">Ваші спогади</string>
+    <string name="pied_title">Строкатий крук</string>
+    <string name="ringnecked_title">Папуга Крамера</string>
+    <string name="seagull_title">Чайка</string>
+</resources>

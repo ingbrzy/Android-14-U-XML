@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">ກັບໄປໜ້າຫຼັກ</string>
+    <string name="abc_action_bar_up_description">ເລື່ອນຂຶ້ນເທິງ</string>
+    <string name="abc_action_menu_overflow_description">ຕົວເລືອກເພີ່ມເຕີມ</string>
+    <string name="abc_action_mode_done">ແລ້ວໆ</string>
+    <string name="abc_activity_chooser_view_see_all">ເບິ່ງທັງໝົດ</string>
+    <string name="abc_activitychooserview_choose_application">ເລືອກແອັບ</string>
+    <string name="abc_capital_off">ປິດ</string>
+    <string name="abc_capital_on">ເປີດ</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">ລຶບ</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">ຍະຫວ່າງ</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">ຊອກຫາ…</string>
+    <string name="abc_searchview_description_clear">ລຶບຂໍ້ຄວາມຊອກຫາ</string>
+    <string name="abc_searchview_description_query">ຄຳສຳລັບຄົ້ນຫາ</string>
+    <string name="abc_searchview_description_search">ຊອກຫາ</string>
+    <string name="abc_searchview_description_submit">ສົ່ງຂໍ້ມູນ</string>
+    <string name="abc_searchview_description_voice">ຊອກຫາດ້ວຍສຽງ</string>
+    <string name="abc_shareactionprovider_share_with">ແບ່ງປັນກັບ</string>
+    <string name="abc_shareactionprovider_share_with_application">ແບ່ງປັນດ້ວຍ %s</string>
+    <string name="abc_toolbar_collapse_description">ຫຍໍ້ລົງ</string>
+    <string name="activity_resolver_use_always">ທຸກຄັ້ງ</string>
+    <string name="activity_resolver_use_once">ຄັ້ງດຽວ</string>
+    <string name="activity_resolver_work_profiles_support">%1$s ບໍ່ຮອງຮັບໂປຣໄຟລ໌ບ່ອນເຮັດວຽກ</string>
+    <string name="call_notification_answer_action">ຮັບສາຍ</string>
+    <string name="call_notification_answer_video_action">ວິດີໂອ</string>
+    <string name="call_notification_decline_action">ປະຕິເສດ</string>
+    <string name="call_notification_hang_up_action">ວາງສາຍ</string>
+    <string name="call_notification_incoming_text">ສາຍໂທເຂົ້າ</string>
+    <string name="call_notification_ongoing_text">ສາຍໂທອອກ</string>
+    <string name="call_notification_screening_text">ກຳລັງກວດສອບສາຍໂທເຂົ້າ</string>
+    <string name="chooseActivity">ເລືອກຄຳສັ່ງ</string>
+    <string name="chooser_no_direct_share_targets">ບໍ່ມີຄົນທີ່ແນະນຳໃຫ້ແບ່ງປັນນຳ</string>
+    <string name="exclude_link">ບໍ່ຮວມລິ້ງ</string>
+    <string name="exclude_text">ບໍ່ຮວມຂໍ້ຄວາມ</string>
+    <string name="file_preview_a11y_description">ຮູບຕົວຢ່າງຂອງໄຟລ໌</string>
+    <string name="forward_intent_to_owner">​ທ່ານ​ກຳ​ລັງ​ໃຊ້​ແອັບຯ​ນີ້ນອກ​ໂປຣ​ໄຟລ໌​ບ່ອນ​ເຮັດ​ວຽກ​ຂອງ​ທ່ານ</string>
+    <string name="forward_intent_to_work">​ທ່ານ​ກຳ​ລັງ​ໃຊ້​ແອັບຯ​ນີ້​ໃນ​ໂປຣ​ໄຟລ໌​​ບ່ອນ​ເຮັດ​ວຽກ​ຂອງ​ທ່ານ</string>
+    <string name="image_preview_a11y_description">ຮູບຕົວຢ່າງຂອງຮູບພາບ</string>
+    <string name="include_link">ຮວມລິ້ງ</string>
+    <string name="include_text">ຮວມຂໍ້ຄວາມ</string>
+    <string name="miniresolver_open_in_personal">ເປີດ %s ໃນໂປຣໄຟລ໌ສ່ວນຕົວຂອງທ່ານບໍ?</string>
+    <string name="miniresolver_open_in_work">ເປີດ %s ໃນ​ໂປຣ​ໄຟລ໌​ບ່ອນ​ເຮັດ​ວຽກຂອງທ່ານບໍ?</string>
+    <string name="miniresolver_use_personal_browser">ໃຊ້ໂປຣແກຣມທ່ອງເວັບສ່ວນຕົວ</string>
+    <string name="miniresolver_use_work_browser">ໃຊ້ໂປຣແກຣມທ່ອງເວັບບ່ອນເຮັດວຽກ</string>
+    <string name="more_files">{count,plural, =1{ອີກ # ໄຟລ໌}other{ອີກ # ໄຟລ໌}}</string>
+    <string name="noApplications">ບໍ່ມີແອັບຯໃດສາມາດເຮັດວຽກນີ້ໄດ້.</string>
+    <string name="other_files">{count,plural, =1{ອີກ # ໄຟລ໌}other{ອີກ # ໄຟລ໌}}</string>
+    <string name="pin_specific_target">ປັກໝຸດ %1$s</string>
+    <string name="resolver_cant_access_personal_apps_explanation">ເນື້ອຫານີ້ບໍ່ສາມາດຖືກເປີດໄດ້ດ້ວຍແອັບສ່ວນຕົວ</string>
+    <string name="resolver_cant_access_work_apps_explanation">ເນື້ອຫານີ້ບໍ່ສາມາດຖືກເປີດໄດ້ດ້ວຍແອັບບ່ອນເຮັດວຽກ</string>
+    <string name="resolver_cant_share_with_personal_apps_explanation">ເນື້ອຫານີ້ບໍ່ສາມາດຖືກແບ່ງປັນກັບແອັບສ່ວນຕົວໄດ້</string>
+    <string name="resolver_cant_share_with_work_apps_explanation">ເນື້ອຫານີ້ບໍ່ສາມາດຖືກແບ່ງປັນກັບແອັບບ່ອນເຮັດວຽກໄດ້</string>
+    <string name="resolver_cross_profile_blocked">ຖືກບລັອກໄວ້ໂດຍຜູ້ເບິ່ງແຍງໄອທີຂອງທ່ານ</string>
+    <string name="resolver_no_personal_apps_available">ບໍ່ມີແອັບສ່ວນຕົວ</string>
+    <string name="resolver_no_work_apps_available">ບໍ່ມີແອັບບ່ອນເຮັດວຽກ</string>
+    <string name="resolver_personal_tab">ສ່ວນຕົວ</string>
+    <string name="resolver_personal_tab_accessibility">ມຸມມອງສ່ວນຕົວ</string>
+    <string name="resolver_switch_on_work">ຍົກເລີກການຢຸດຊົ່ວຄາວ</string>
+    <string name="resolver_turn_on_work_apps">ຢຸດແອັບບ່ອນເຮັດວຽກໄວ້ຊົ່ວຄາວແລ້ວ</string>
+    <string name="resolver_work_tab">ວຽກ</string>
+    <string name="resolver_work_tab_accessibility">ມຸມມອງວຽກ</string>
+    <string name="screenshot_edit">ແກ້ໄຂ</string>
+    <string name="search_menu_title">ຊອກຫາ</string>
+    <string name="sharing_files">{count,plural, =1{ກຳລັງຈະແບ່ງປັນ # ໄຟລ໌}other{ກຳລັງຈະແບ່ງປັນ # ໄຟລ໌}}</string>
+    <string name="sharing_files_only">{count,plural, =1{ໄຟລ໌ເທົ່ານັ້ນ}other{ໄຟລ໌ເທົ່ານັ້ນ}}</string>
+    <string name="sharing_files_with_link">{count,plural, =1{ກຳລັງແບ່ງປັນໄຟລ໌ພ້ອມລິ້ງ}other{ກຳລັງແບ່ງປັນ # ໄຟລ໌ພ້ອມລິ້ງ}}</string>
+    <string name="sharing_files_with_text">{count,plural, =1{ກຳລັງແບ່ງປັນໄຟລ໌ພ້ອມຂໍ້ຄວາມ}other{ກຳລັງແບ່ງປັນ # ໄຟລ໌ພ້ອມຂໍ້ຄວາມ}}</string>
+    <string name="sharing_images">{count,plural, =1{ກຳລັງແບ່ງປັນຮູບ}other{ກຳລັງແບ່ງປັນ # ຮູບ}}</string>
+    <string name="sharing_images_only">{count,plural, =1{ຮູບເທົ່ານັ້ນ}other{ຮູບເທົ່ານັ້ນ}}</string>
+    <string name="sharing_images_with_link">{count,plural, =1{ກຳລັງແບ່ງປັນຮູບພ້ອມລິ້ງ}other{ກຳລັງແບ່ງປັນ # ຮູບພ້ອມລິ້ງ}}</string>
+    <string name="sharing_images_with_text">{count,plural, =1{ກຳລັງແບ່ງປັນຮູບພ້ອມຂໍ້ຄວາມ}other{ກຳລັງແບ່ງປັນ # ຮູບພ້ອມຂໍ້ຄວາມ}}</string>
+    <string name="sharing_link">ກຳລັງແບ່ງປັນລິ້ງ</string>
+    <string name="sharing_text">ກຳລັງແບ່ງປັນຂໍ້ຄວາມ</string>
+    <string name="sharing_videos">{count,plural, =1{ກຳລັງແບ່ງປັນວິດີໂອ}other{ກຳລັງແບ່ງປັນ # ວິດີໂອ}}</string>
+    <string name="sharing_videos_only">{count,plural, =1{ວິດີໂອເທົ່ານັ້ນ}other{ວິດີໂອເທົ່ານັ້ນ}}</string>
+    <string name="sharing_videos_with_link">{count,plural, =1{ກຳລັງແບ່ງປັນວິດີໂອພ້ອມລິ້ງ}other{ກຳລັງແບ່ງປັນ # ວິດີໂອພ້ອມລິ້ງ}}</string>
+    <string name="sharing_videos_with_text">{count,plural, =1{ກຳລັງແບ່ງປັນວິດີໂອພ້ອມຂໍ້ຄວາມ}other{ກຳລັງແບ່ງປັນ # ວິດີໂອພ້ອມຂໍ້ຄວາມ}}</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="unpin_specific_target">ຖອດປັກມຸດ %1$s</string>
+    <string name="usb_device_resolve_prompt_warn">ແອັບນີ້ບໍ່ໄດ້ຮັບສິດອະນຸຍາດໃນການບັນທຶກ ແຕ່ສາມາດບັນທຶກສຽງໄດ້ຜ່ານອຸປະກອນ USB ນີ້.</string>
+    <string name="use_a_different_app">ນຳໃຊ້ແອັບຯອື່ນ</string>
+    <string name="video_preview_a11y_description">ຮູບຕົວຢ່າງຂອງວິດີໂອ</string>
+    <string name="whichApplication">ດຳເນີນການໂດຍໃຊ້</string>
+    <string name="whichApplicationLabel">ສຳເລັດຄຳສັ່ງ</string>
+    <string name="whichApplicationNamed">ສຳເລັດຄຳສັ່ງໂດຍໃຊ້ %1$s</string>
+    <string name="whichEditApplication">​ແກ້​ໄຂ​ໃນ</string>
+    <string name="whichEditApplicationLabel">ແກ້ໄຂ</string>
+    <string name="whichEditApplicationNamed">ແກ້ໄຂດ້ວຍ %1$s</string>
+    <string name="whichGiveAccessToApplicationLabel">ໃຫ້ສິດເຂົ້າເຖິງ</string>
+    <string name="whichHomeApplication">​ເລືອກ​ແອັບຯ​ໂຮມ</string>
+    <string name="whichHomeApplicationLabel">ບັນທຶກຮູບພາບ</string>
+    <string name="whichHomeApplicationNamed">ໃຊ້ %1$s ເປັນ Home</string>
+    <string name="whichImageCaptureApplication">ບັນທຶກຮູບພາບດ້ວຍ</string>
+    <string name="whichImageCaptureApplicationLabel">ບັນທຶກຮູບພາບ</string>
+    <string name="whichImageCaptureApplicationNamed">ບັນທຶກຮູບພາບດ້ວຍ %1$s</string>
+    <string name="whichOpenHostLinksWith">ເປີດລິ້ງ %1$s ໂດຍໃຊ້</string>
+    <string name="whichOpenHostLinksWithApp">ເປີດລິ້ງ %1$s ໂດຍໃຊ້ %2$s</string>
+    <string name="whichOpenLinksWith">ເປີດລິ້ງໂດຍໃຊ້</string>
+    <string name="whichOpenLinksWithApp">ເປີດລິ້ງໂດຍໃຊ້ %1$s</string>
+    <string name="whichSendApplication">ແບ່ງປັນ</string>
+    <string name="whichSendApplicationLabel">ແບ່ງປັນ</string>
+    <string name="whichSendApplicationNamed">ແບ່ງປັນດ້ວຍ %1$s</string>
+    <string name="whichSendToApplication">ສົ່ງໂດຍໃຊ້</string>
+    <string name="whichSendToApplicationLabel">ສົ່ງ</string>
+    <string name="whichSendToApplicationNamed">ສົ່ງໂດຍໃຊ້ %1$s</string>
+    <string name="whichViewApplication">ເປີດໂດຍໃຊ້</string>
+    <string name="whichViewApplicationLabel">ເປີດ</string>
+    <string name="whichViewApplicationNamed">ເປີດດ້ວຍ %1$s</string>
+</resources>

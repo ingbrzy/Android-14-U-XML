@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_error_bad_calibration">Sormenjälkitunnistinta ei voi käyttää. Ota yhteys korjauspalveluun tai käy osoitteessa g.co/pixel/fingerprintunlock</string>
+    <string name="fingerprint_recalibrate_notification_content">Ota yhteys korjauspalveluun tai käy osoitteessa g.co/pixel/fingerprintunlock</string>
+    <string name="battery_saver_description_with_learn_more">"Parantaakseen akunkestoa Virransäästö
+
+•·laittaa tumman teeman päälle
+•·laittaa pois päältä tai rajoittaa taustatoimintoja, joitakin visuaalisia tehosteita ja muita ominaisuuksia (esim. Ok Google)
+• optimoi verkkoyhteyksiä.
+
+"<annotation id="url">Lue lisää</annotation></string>
+</resources>

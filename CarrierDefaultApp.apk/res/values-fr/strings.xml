@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_bar_label">Se connecter au réseau mobile</string>
+    <string name="android_system_label">Opérateur mobile</string>
+    <string name="app_name">Opérateur des communications</string>
+    <string name="mobile_data_status_notification_channel_name">État des données mobiles</string>
+    <string name="no_data_notification_detail">Veuillez contacter votre fournisseur de services, %s</string>
+    <string name="no_data_notification_id">Les données mobiles ont été désactivées pour votre compte</string>
+    <string name="no_mobile_data_connection">Ajouter un forfait Internet national ou international via %s</string>
+    <string name="no_mobile_data_connection_title">Aucune connexion de données mobiles</string>
+    <string name="performance_boost_notification_button_manage">Gérer</string>
+    <string name="performance_boost_notification_button_not_now">Pas maintenant</string>
+    <string name="performance_boost_notification_channel">Boost de performances</string>
+    <string name="performance_boost_notification_detail">"Accédez au site Web de %s pour consulter les options pour l'expérience de votre appli"</string>
+    <string name="performance_boost_notification_title">Options 5G de votre opérateur</string>
+    <string name="portal_notification_detail">Appuyez ici pour consulter le site Web suivant : %s</string>
+    <string name="portal_notification_id">Les données mobiles sont épuisées</string>
+    <string name="slice_purchase_app_label">Achetez un boost de performances.</string>
+    <string name="ssl_error_continue">Continuer quand même dans le navigateur</string>
+    <string name="ssl_error_example">"Par exemple, la page de connexion peut ne pas appartenir à l'organisation représentée."</string>
+    <string name="ssl_error_warning">Le réseau auquel vous essayez de vous connecter présente des problèmes de sécurité.</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="audio_language_selector_titles">
+        <item>Տեսանյութի բնօրինակ լեզուն</item>
+        <item>%1$s (եթե հասանելի է)</item>
+    </string-array>
+</resources>

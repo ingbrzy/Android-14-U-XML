@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dlg_message_deletion_confirmation">
+        <item quantity="other">Dine optagelser slettes permanent. Denne handling kan ikke fortrydes.</item>
+        <item quantity="one">Din optagelse slettes permanent. Denne handling kan ikke fortrydes.</item>
+    </plurals>
+    <plurals name="dlg_message_deletion_permanent_confirmation">
+        <item quantity="other">Optagelserne sikkerhedskopieres ikke. De slettes permanent. Denne handling kan ikke fortrydes.</item>
+        <item quantity="one">Optagelsen sikkerhedskopieres ikke. Den slettes permanent. Denne handling kan ikke fortrydes.</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_confirmation">
+        <item quantity="other">Vil du slette optagelserne?</item>
+        <item quantity="one">Vil du slette optagelsen?</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_permanent_confirmation">
+        <item quantity="other">Vil du slette disse optagelser permanent?</item>
+        <item quantity="one">Vil du slette denne optagelse permanent?</item>
+    </plurals>
+    <plurals name="download_failure_description_storage_full">
+        <item quantity="other">Optagelserne kan ikke downloades, fordi der ikke er mere ledig lagerplads på enheden. Tryk for at gennemgå lagerpladsens indhold.</item>
+        <item quantity="one">Optagelserne kan ikke downloades, fordi der ikke er mere ledig lagerplads på enheden. Tryk for at gennemgå lagerpladsens indhold.</item>
+    </plurals>
+    <plurals name="downloading_description">
+        <item quantity="other">Downloader %1$d optagelser</item>
+        <item quantity="one">Downloader %1$d optagelse</item>
+    </plurals>
+    <plurals name="og_backup_failed_title">
+        <item quantity="other">%1$d elementer blev ikke sikkerhedskopieret</item>
+        <item quantity="one">%1$d element blev ikke sikkerhedskopieret</item>
+    </plurals>
+    <plurals name="og_backup_items_left">
+        <item quantity="other">Der er %1$d elementer tilbage</item>
+        <item quantity="one">Der er %1$d element tilbage</item>
+    </plurals>
+    <plurals name="og_backup_items_stopped_title">
+        <item quantity="other">%1$d elementer blev ikke sikkerhedskopieret</item>
+        <item quantity="one">%1$d element blev ikke sikkerhedskopieret</item>
+    </plurals>
+    <plurals name="peoplekit_chips_copied_recipients">
+        <item quantity="other">%d modtagere er kopieret</item>
+        <item quantity="one">%d modtager er kopieret</item>
+    </plurals>
+    <plurals name="search_results_count">
+        <item quantity="other">%1$d resultater</item>
+        <item quantity="one">%1$d resultat</item>
+    </plurals>
+    <plurals name="search_results_position">
+        <item quantity="other">^1/^2 resultater</item>
+        <item quantity="one">^1/^2 resultat</item>
+    </plurals>
+    <plurals name="search_results_position_content_description">
+        <item quantity="other">%1$d af %2$d resultater</item>
+        <item quantity="one">%1$d af %2$d resultat</item>
+    </plurals>
+    <plurals name="selected_recording_quantity">
+        <item quantity="other">%1$d er valgt</item>
+        <item quantity="one">%1$d er valgt</item>
+    </plurals>
+    <plurals name="snackbar_message_download_failed_storage_full">
+        <item quantity="other">Der er ikke mere ledig lagerplads på enheden. Optagelserne kan ikke downloades.</item>
+        <item quantity="one">Der er ikke mere ledig lagerplads på enheden. Optagelsen kan ikke downloades.</item>
+    </plurals>
+    <plurals name="speaker_count">
+        <item quantity="other">%1$d højttalere</item>
+        <item quantity="one">%1$d højttaler</item>
+    </plurals>
+    <plurals name="uploading_description">
+        <item quantity="other">%1$d optagelser uploades</item>
+        <item quantity="one">%1$d optagelse uploades</item>
+    </plurals>
+</resources>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="call_captions_typing_predictions_post_system_message">
+        <item>Hej! Vem är det?</item>
+        <item>Hej! Hur är det?</item>
+        <item>Vänta lite</item>
+        <item>Hej! Kan du ringa upp senare?</item>
+        <item>Hej! Tack för att du ringde.</item>
+    </string-array>
+    <string-array name="captions_settings_enable_for_calls_choices_entries">
+        <item>Fråga varje gång</item>
+        <item>Alltid</item>
+        <item>Av</item>
+    </string-array>
+    <string-array name="captions_settings_typing_voice_names">
+        <item>Röst A</item>
+        <item>Röst B</item>
+        <item>Röst C</item>
+        <item>Röst D</item>
+        <item>Röst E</item>
+        <item>Röst F</item>
+        <item>Röst G</item>
+        <item>Röst H</item>
+        <item>Röst I</item>
+        <item>Röst J</item>
+        <item>Röst K</item>
+        <item>Röst L</item>
+        <item>Röst M</item>
+        <item>Röst N</item>
+        <item>Röst O</item>
+        <item>Röst P</item>
+    </string-array>
+    <string-array name="pref_download_policy_entries">
+        <item>Mobildata och wifi</item>
+        <item>Endast wifi</item>
+        <item>Uppdatera inte</item>
+    </string-array>
+    <string-array name="pref_download_policy_entry_values_placeholder">
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+</resources>

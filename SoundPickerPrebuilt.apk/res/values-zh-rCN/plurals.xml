@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="track_counts">
+        <item quantity="other">%1$d 种音效</item>
+        <item quantity="one">%1$d 种音效</item>
+    </plurals>
+</resources>

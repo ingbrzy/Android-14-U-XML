@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ndays">
+        <item quantity="other">%d ថ្ងៃ</item>
+        <item quantity="one">1 ថ្ងៃ</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%d ម៉ោង</item>
+        <item quantity="one">1 ម៉ោង</item>
+    </plurals>
+    <plurals name="Nminutes">
+        <item quantity="other">%d នាទី</item>
+        <item quantity="one">1 នាទី</item>
+    </plurals>
+    <plurals name="Nweeks">
+        <item quantity="other">%d សប្ដាហ៍</item>
+        <item quantity="one">1 សប្ដាហ៍</item>
+    </plurals>
+    <plurals name="a11y_filter_capacity">
+        <item quantity="other">ចំណុះ​បន្ទប់​ដែល​ត្រូវការ៖ %1$d កៅអី</item>
+        <item quantity="one">ចំណុះ​បន្ទប់​ដែល​ត្រូវការ៖ 1 កៅអី</item>
+    </plurals>
+    <plurals name="accessibility_find_time_custom_duration_hour_input">
+        <item quantity="other">%d ម៉ោង</item>
+        <item quantity="one">%d ម៉ោង</item>
+    </plurals>
+    <plurals name="accessibility_find_time_custom_duration_minute_input">
+        <item quantity="other">%d នាទី</item>
+        <item quantity="one">%d នាទី</item>
+    </plurals>
+    <plurals name="accessibility_has_time_proposals">
+        <item quantity="other">មាន​សំណើ​ពេល​វេលា</item>
+        <item quantity="one">មាន​សំណើ​ពេល​វេលា</item>
+    </plurals>
+    <plurals name="alternate_search_available_announce">
+        <item quantity="other">ការស្វែងរក​បាន​បញ្ចប់​ដោយ​ផ្ដល់​ជា​លទ្ធផល %d។</item>
+        <item quantity="one">ការស្វែងរក​បាន​បញ្ចប់​ដោយ​ផ្ដល់​ជា​លទ្ធផល %d។</item>
+    </plurals>
+    <plurals name="annually_frequency_text">
+        <item quantity="other">សា​ឡើង​វិញរាល់ %1$d %2$s ម្ដង</item>
+        <item quantity="one">សា​ឡើង​វិញរាល់ %1$d %2$s ម្ដង</item>
+    </plurals>
+    <plurals name="birthday_chip_title">
+        <item quantity="other">ថ្ងៃ​កំណើត %d</item>
+        <item quantity="one">ថ្ងៃ​កំណើត</item>
+    </plurals>
+    <plurals name="calendar_daily_lower">
+        <item quantity="other">រៀង​រាល់ %d ថ្ងៃ</item>
+        <item quantity="one">រាល់ថ្ងៃ</item>
+    </plurals>
+    <plurals name="calendar_monthly_interval_lower">
+        <item quantity="other">រៀង​រាល់ %1$d ខែ</item>
+        <item quantity="one">រាល់​ខែ</item>
+    </plurals>
+    <plurals name="calendar_weekly_lower">
+        <item quantity="other">រៀងរាល់ %1$d សប្ដាហ៍</item>
+        <item quantity="one">រាល់​សប្តាហ៍</item>
+    </plurals>
+    <plurals name="calendar_yearly_interval_lower">
+        <item quantity="other">រៀងរាល់ %1$d ឆ្នាំ</item>
+        <item quantity="one">រាល់​ឆ្នាំ</item>
+    </plurals>
+    <plurals name="capacity_description">
+        <item quantity="other">មនុស្ស %d នាក់</item>
+        <item quantity="one">មនុស្ស​ម្នាក់</item>
+    </plurals>
+    <plurals name="count_duration_accessibility_description">
+        <item quantity="other">បញ្ចប់​បន្ទាប់​ពី​ការកើតឡើង %d ដង</item>
+        <item quantity="one">បញ្ចប់​បន្ទាប់​ពី​ការកើតឡើង​ម្ដង</item>
+    </plurals>
+    <plurals name="count_duration_label">
+        <item quantity="other">បន្ទាប់​ពី​ការកើតឡើង %d ដង</item>
+        <item quantity="one">បន្ទាប់​ពី​ការកើតឡើង %d ដង</item>
+    </plurals>
+    <plurals name="daily_frequency_text">
+        <item quantity="other">សា​ឡើង​វិញ​រាល់ %1$d %2$s ម្ដង</item>
+        <item quantity="one">សា​ឡើង​វិញរាល់ %1$d %2$s ម្ដង</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">ថ្ងៃ</item>
+        <item quantity="one">ថ្ងៃ</item>
+    </plurals>
+    <plurals name="days_before">
+        <item quantity="other">ថ្ងៃ​មុន</item>
+        <item quantity="one">ថ្ងៃ​មុន</item>
+    </plurals>
+    <plurals name="describe_attachments">
+        <item quantity="other">ឯកសារ​ភ្ជាប់៖ ឯកសារ​ភ្ជាប់ %1$d</item>
+        <item quantity="one">ឯកសារ​ភ្ជាប់៖ ឯកសារ​ភ្ជាប់ %1$d</item>
+    </plurals>
+    <plurals name="done_reminders_title">
+        <item quantity="other">ការ​រំលឹក %d បាន​ធ្វើ​រួច</item>
+        <item quantity="one">ការ​រំលឹក %d បាន​ធ្វើ​រួច</item>
+    </plurals>
+    <plurals name="end_by_count">
+        <item quantity="other">សម្រាប់​ %d ដង</item>
+        <item quantity="one">សម្រាប់​ម្ដង</item>
+    </plurals>
+    <plurals name="error_working_location_duration_too_long">
+        <item quantity="other">មិន​អាច​កំណត់​ទីតាំង​ធ្វើការ​ដោយ​មាន​រយៈ​ពេល​លើស %1$d ថ្ងៃ​បាន​ទេ។</item>
+        <item quantity="one">មិន​អាច​កំណត់​ទីតាំង​ធ្វើការ​ដោយ​មាន​រយៈ​ពេល​លើស %1$d ថ្ងៃ​បាន​ទេ។</item>
+    </plurals>
+    <plurals name="files_not_shared_dialog_body">
+        <item quantity="other">ភ្ញៀវ​របស់​អ្នក​ប្រហែល​មិន​អាច​ចូល​ទៅ​កាន់​ឯកសារ​ដែល​អ្នក​បាន​បញ្ចូល​ពី​ថាស​បាន​ទេ។ អ្នក​ប្រហែល​ត្រូវ​ចែក​រំលែក​ឯកសារ​​ពី​ក្នុង Google ថាស។</item>
+        <item quantity="one">ភ្ញៀវ​របស់​អ្នក​ប្រហែល​មិន​អាច​ចូល​ទៅ​កាន់​ឯកសារ​ដែល​អ្នក​បាន​បញ្ចូល​ពី​ថាស​បាន​ទេ។ អ្នក​​ប្រហែល​​ត្រូវ​​​ចែក​រំលែក​ឯកសារ​​​ពី​ក្នុង Google ថាស។</item>
+    </plurals>
+    <plurals name="find_a_time_invisible_attendee">
+        <item quantity="other">+%d ទៀត</item>
+        <item quantity="one">+%d ទៀត</item>
+    </plurals>
+    <plurals name="find_time_duration_hour_label">
+        <item quantity="other">%d ម៉ោង</item>
+        <item quantity="one">%d ម៉ោង</item>
+    </plurals>
+    <plurals name="find_time_duration_minute_label">
+        <item quantity="other">%d នាទី</item>
+        <item quantity="one">%d នាទី</item>
+    </plurals>
+    <plurals name="fix_permissions_does_not_fix_everything_warning">
+        <item quantity="other">ចំណាំ៖ ភ្ញៀវ​​ខ្លះ​នៅ​តែ​មិន​អាច​ចូល​ទៅ​កាន់​ឯកសារ​ទាំង​នេះ​បាន។ អ្នក​​ប្រហែល​​​ត្រូវ​​​ចែក​រំលែក​ឯកសារ​ទាំង​នេះ​ពី​ក្នុង Google ថាស។</item>
+        <item quantity="one">ចំណាំ៖ ភ្ញៀវ​​ខ្លះ​នៅ​តែ​មិន​អាច​ចូល​ទៅ​កាន់​ឯកសារ​នេះ​បាន។ អ្នក​​ប្រហែល​​​ត្រូវ​​ចែក​រំលែក​ឯកសារ​នេះ​ពី​ក្នុង Google ថាស។</item>
+    </plurals>
+    <plurals name="fix_permissions_outside_domain_warning_hedgehog">
+        <item quantity="other">"អ្នក​កំពុង​ចែក​រំលែក​ជាមួយ​ភ្ញៀវ៖&lt;br>&lt;b>%1$s
+&lt;/b>&lt;br>ដែល​មិន​នៅ​ក្នុង​ស្ថាប័ន Google Workspace ដែល​មាន​ឯកសារ​ទាំង​នេះ​ជា​សកម្មសិទ្ធិ"</item>
+        <item quantity="one">អ្នក​កំពុង​ចែក​រំលែក​ជាមួយ​ភ្ញៀវ៖&lt;br>&lt;b>%1$s&lt;/b>&lt;br>ដែល​មិន​នៅ​ក្នុង​ស្ថាប័ន Google Workspace ដែល​មាន​ឯកសារ​នេះ​ជា​កម្មសិទ្ធិ</item>
+    </plurals>
+    <plurals name="guest_count">
+        <item quantity="other">ភ្ញៀវ %d នាក់</item>
+        <item quantity="one">ភ្ញៀវ %d នាក់</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">ម៉ោង</item>
+        <item quantity="one">ម៉ោង</item>
+    </plurals>
+    <plurals name="hours_before">
+        <item quantity="other">ម៉ោង​មុន</item>
+        <item quantity="one">ម៉ោង​មុន</item>
+    </plurals>
+    <plurals name="ical_many_events_warning">
+        <item quantity="other">វា​នឹង​បន្ថែម​ព្រឹត្តិការណ៍ %d និង​មិន​អាច​មិន​ធ្វើ​វិញ​បាន​ទេ។ តើ​អ្នក​ប្រាកដ​ទេ​?</item>
+        <item quantity="one">វា​នឹង​បន្ថែម​ព្រឹត្តិការណ៍ %d និង​មិន​អាច​មិន​ធ្វើ​វិញ​បាន​ទេ។ តើ​អ្នក​ប្រាកដ​ទេ​?</item>
+    </plurals>
+    <plurals name="mark_reminders_done_title">
+        <item quantity="other">សម្គាល់​ការ​រំលឹក %d ថា​បាន​ធ្វើ​រួច​ដែរ​ឬ​ទេ?</item>
+        <item quantity="one">សម្គាល់​ការ​រំលឹក %d ថា​បាន​ធ្វើ​រួច​ដែរ​ឬ​ទេ?</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">នាទី</item>
+        <item quantity="one">នាទី</item>
+    </plurals>
+    <plurals name="minutes_before">
+        <item quantity="other">នាទី​មុន</item>
+        <item quantity="one">នាទី​មុន</item>
+    </plurals>
+    <plurals name="month_view_hidden_events">
+        <item quantity="other">%d ទៀត</item>
+        <item quantity="one">%d ទៀត</item>
+    </plurals>
+    <plurals name="monthly_frequency_text">
+        <item quantity="other">សា​ឡើង​វិញរាល់ %1$d %2$s ម្ដង</item>
+        <item quantity="one">សា​ឡើង​វិញរាល់ %1$d %2$s ម្ដង</item>
+    </plurals>
+    <plurals name="more_guests">
+        <item quantity="other">និង %1$d នាក់ទៀត</item>
+        <item quantity="one">និង %1$d នាក់ទៀត</item>
+    </plurals>
+    <plurals name="no_room_suggestions_title">
+        <item quantity="other">ភ្ញៀវ %1$d នាក់​​ដែល​គ្មាន​ការណែនាំ​បន្ទប់</item>
+        <item quantity="one">ភ្ញៀវ 1 នាក់​ដែល​គ្មាន​ការណែនាំ​បន្ទប់</item>
+    </plurals>
+    <plurals name="num_rooms">
+        <item quantity="other">បន្ទប់ %1$d</item>
+        <item quantity="one">បន្ទប់ %1$d</item>
+    </plurals>
+    <plurals name="public_notification_text">
+        <item quantity="other">%1$d new notifications</item>
+        <item quantity="one">You have a notification</item>
+    </plurals>
+    <plurals name="recurrence_frequency_annually">
+        <item quantity="other">ឆ្នាំ</item>
+        <item quantity="one">ឆ្នាំ</item>
+    </plurals>
+    <plurals name="recurrence_frequency_daily">
+        <item quantity="other">ថ្ងៃ</item>
+        <item quantity="one">ថ្ងៃ</item>
+    </plurals>
+    <plurals name="recurrence_frequency_monthly">
+        <item quantity="other">ខែ</item>
+        <item quantity="one">ខែ</item>
+    </plurals>
+    <plurals name="recurrence_frequency_weekly">
+        <item quantity="other">សប្ដាហ៍</item>
+        <item quantity="one">សប្ដាហ៍</item>
+    </plurals>
+    <plurals name="reminder_bundle_description_prefix">
+        <item quantity="other">ការ​រំលឹក %d៖</item>
+        <item quantity="one">ការ​រំលឹក %d៖</item>
+    </plurals>
+    <plurals name="reminder_done_bundle_description_prefix">
+        <item quantity="other">ការ​រំលឹក %d បាន​ធ្វើ​រួច៖</item>
+        <item quantity="one">ការ​រំលឹក %d បាន​ធ្វើ​រួច៖</item>
+    </plurals>
+    <plurals name="reminders_marked_done">
+        <item quantity="other">បានសម្គាល់​ការ​រំលឹក %d ថា​បាន​ធ្វើ​រួច។</item>
+        <item quantity="one">បាន​សម្គាល់​ការ​រំលឹក %d ថា​បាន​ធ្វើ​រួច។</item>
+    </plurals>
+    <plurals name="reminders_migration_dialog_title">
+        <item quantity="other">ប្ដូរ​ការ​រំលឹក %d ទៅជា​កិច្ចការ</item>
+        <item quantity="one">ប្ដូរ​ការរំលឹក %d ទៅជាកិច្ចការ</item>
+    </plurals>
+    <plurals name="reminders_migration_force_completed_toast">
+        <item quantity="other">ឥឡូវនេះ ការរំលឹក​ក្លាយ​ជា​កិច្ចការ​ហើយ។ ការ​រំលឹក %1$d បាន​ប្ដូរ​ទៅ​ជា​កិច្ចការ​សម្រាប់ %2$s។</item>
+        <item quantity="one">ឥឡូវនេះ ការរំលឹក​ក្លាយ​ជា​កិច្ចការ​ហើយ។ ការរំលឹក %1$d បានប្ដូរ​ទៅជា​កិច្ចការ​សម្រាប់ %2$s។</item>
+    </plurals>
+    <plurals name="reminders_migration_keep_only_dialog_title">
+        <item quantity="other">ការ​រំលឹក %d របស់​អ្នក​នឹង​មាន​នៅ​ក្នុង Google Keep</item>
+        <item quantity="one">ការរំលឹក %d របស់អ្នក​នឹង​មាន​នៅក្នុង Google Keep</item>
+    </plurals>
+    <plurals name="reminders_migration_keep_only_reminders_dialog_description_with_account">
+        <item quantity="other">ក្នុងនាមជា %s ការរំលឹក​ទាំងអស់​របស់អ្នក​ត្រូវបាន​បង្កើត​នៅក្នុង Google Keep និង​មិន​អាច​ត្រូវបានប្ដូរ​ទៅជា​កិច្ចការ​បានទេ។ ការរំលឹក​ទាំងនេះ​នឹងត្រូវបាន​លុបចេញ​ពី​ប្រតិទិន ប៉ុន្តែអ្នកនៅតែ​អាច​គ្រប់គ្រង​ការរំលឹក​ទាំងនេះ​ក្នុង Keep បាន​ដដែល។</item>
+        <item quantity="one">ក្នុងនាមជា %s ការរំលឹក​របស់អ្នក​ត្រូវបាន​បង្កើត​នៅក្នុង Google Keep និង​មិន​អាច​ត្រូវបាន​ប្ដូរ​ទៅជា​កិច្ចការ​បានទេ។ ការរំលឹកនេះ​នឹងត្រូវបាន​លុបចេញ​ពី​ប្រតិទិន ប៉ុន្តែអ្នកនៅតែ​អាច​គ្រប់គ្រង​ការរំលឹក​នេះនៅ​ក្នុង Keep បាន​ដដែល។</item>
+    </plurals>
+    <plurals name="reminders_migration_partial_failure_some_remaining_toast">
+        <item quantity="other">មានតែការរំលឹក %1$d ប៉ុណ្ណោះ​ត្រូវបានប្ដូរ​ទៅជា​កិច្ចការ​សម្រាប់ %2$s។ ការរំលឹក​មួយចំនួន​នៅតែ​រក្សាដដែល។</item>
+        <item quantity="one">មានតែការរំលឹក %1$d ប៉ុណ្ណោះ​ត្រូវបានប្ដូរ​ទៅជា​កិច្ចការ​សម្រាប់ %2$s។ ការរំលឹក​មួយចំនួន​នៅតែ​រក្សាដដែល។</item>
+    </plurals>
+    <plurals name="reminders_migration_tooltip_remark">
+        <item quantity="other">ការរំលឹក %d របស់អ្នក​បាន​ប្ដូរ​ទៅជា​កិច្ចការ។</item>
+        <item quantity="one">ការរំលឹក %d របស់អ្នក​បានប្ដូរ​ទៅជា​កិច្ចការ។</item>
+    </plurals>
+    <plurals name="reminders_migration_tooltip_with_keep_reminders_remark">
+        <item quantity="other">ការរំលឹក %d បានប្ដូរទៅជា​កិច្ចការ។ ការរំលឹក​ដែលបានបង្កើត​នៅក្នុង Google Keep មិនត្រូវបាន​ផ្លាស់ប្ដូរ​ទេ។ ការរំលឹក​ទាំងនេះ​នឹងត្រូវបាន​លុបចេញ​ពី​ប្រតិទិន ប៉ុន្តែអ្នកនៅតែ​អាច​គ្រប់គ្រង​ការរំលឹក​ទាំងនេះ​ក្នុង Keep បាន​ដដែល។</item>
+        <item quantity="one">ការរំលឹក %d បាន​ប្ដូរ​ទៅជា​កិច្ចការ។ ការរំលឹក​ដែលបានបង្កើត​នៅក្នុង Google Keep មិនត្រូវបាន​ផ្លាស់ប្ដូរ​ទេ។ ការរំលឹក​ទាំងនេះ​នឹងត្រូវបាន​លុបចេញ​ពី​ប្រតិទិន ប៉ុន្តែអ្នកនៅតែ​អាច​គ្រប់គ្រង​ការរំលឹក​ទាំងនេះ​ក្នុង Keep បាន​ដដែល។</item>
+    </plurals>
+    <plurals name="reminders_migration_voluntary_completed_keep_only_toast">
+        <item quantity="other">បានលុប​ការរំលឹក %1$d ចេញ​ពី​ប្រតិទិន​សម្រាប់ %2$s ប៉ុន្តែ​នៅតែ​មាន​នៅក្នុង Keep ដដែល</item>
+        <item quantity="one">បានលុប​ការរំលឹក %1$d ចេញ​ពី​ប្រតិទិន​សម្រាប់ %2$s ប៉ុន្តែ​នៅតែ​មាន​នៅក្នុង Keep ដដែល</item>
+    </plurals>
+    <plurals name="reminders_migration_voluntary_completed_toast">
+        <item quantity="other">ការ​រំលឹក %1$d បាន​ប្ដូរ​ទៅ​ជា​កិច្ចការ​សម្រាប់ %2$s</item>
+        <item quantity="one">ការរំលឹក %1$d បានប្ដូរ​ទៅជា​កិច្ចការ​សម្រាប់ %2$s</item>
+    </plurals>
+    <plurals name="reminders_title">
+        <item quantity="other">ការ​រំលឹក %d</item>
+        <item quantity="one">ការ​រំលឹក %d</item>
+    </plurals>
+    <plurals name="response_count_accepted">
+        <item quantity="other">បាទ/ចាស %s</item>
+        <item quantity="one">បាទ/ចាស %s</item>
+    </plurals>
+    <plurals name="response_count_accepted_in_a_meeting_room">
+        <item quantity="other">%s នៅក្នុងបន្ទប់ប្រជុំ</item>
+        <item quantity="one">%s នៅក្នុងបន្ទប់ប្រជុំ</item>
+    </plurals>
+    <plurals name="response_count_accepted_virtually">
+        <item quantity="other">%s ជាក់ស្ដែង</item>
+        <item quantity="one">%s ជាក់ស្ដែង</item>
+    </plurals>
+    <plurals name="response_count_declined">
+        <item quantity="other">ទេ %s</item>
+        <item quantity="one">ទេ %s</item>
+    </plurals>
+    <plurals name="response_count_need_action">
+        <item quantity="other">កំពុង​រង់ចាំ %s</item>
+        <item quantity="one">កំពុង​រង់ចាំ %s</item>
+    </plurals>
+    <plurals name="response_count_tentative">
+        <item quantity="other">ប្រហែល %s</item>
+        <item quantity="one">ប្រហែល %s</item>
+    </plurals>
+    <plurals name="room_capacity_description">
+        <item quantity="other">បន្ទប់​ប្រជុំ​សម្រាប់​មនុស្ស %1$d នាក់</item>
+        <item quantity="one">បន្ទប់​ប្រជុំ​សម្រាប់​មនុស្ស​ម្នាក់</item>
+    </plurals>
+    <plurals name="short_invisible_all_day_events">
+        <item quantity="other">+%d</item>
+        <item quantity="one">+%d</item>
+    </plurals>
+    <plurals name="smartmail_seats">
+        <item quantity="other">កៅអីលេខ %s</item>
+        <item quantity="one">កៅអីលេខ %s</item>
+    </plurals>
+    <plurals name="smartmail_time_day_offset">
+        <item quantity="other">%d ថ្ងៃ</item>
+        <item quantity="one">%d ថ្ងៃ</item>
+    </plurals>
+    <plurals name="survey_star_rating">
+        <item quantity="other">ផ្កាយ %1$d ក្នុងចំណោមផ្កាយ %2$d</item>
+        <item quantity="one">ផ្កាយ %1$d ក្នុងចំណោមផ្កាយ %2$d</item>
+    </plurals>
+    <plurals name="tasks_rollover_chip_title">
+        <item quantity="other">កិច្ចការ​ដែល​មិន​ទាន់​សម្រេច %d</item>
+        <item quantity="one">កិច្ចការ​ដែល​មិន​ទាន់​សម្រេច %d</item>
+    </plurals>
+    <plurals name="tasks_rollover_dialog_description">
+        <item quantity="other">ក្នុង​រយៈ​ពេល %d ថ្ងៃ​ចុង​ក្រោយ</item>
+        <item quantity="one">ក្នុង​រយៈ​ពេល %d ថ្ងៃ​ចុង​ក្រោយ</item>
+    </plurals>
+    <plurals name="weekly_by_day_lower">
+        <item quantity="other">រៀងរាល់ %1$d សប្ដាហ៍​នៅ​ថ្ងៃ %2$s</item>
+        <item quantity="one">រៀងរាល់​សប្ដាហ៍​នៅ​ថ្ងៃ %2$s</item>
+    </plurals>
+    <plurals name="weekly_frequency_text">
+        <item quantity="other">សា​ឡើង​វិញរាល់ %1$d %2$s ម្ដង</item>
+        <item quantity="one">សា​ឡើង​វិញរាល់ %1$d %2$s ម្ដង</item>
+    </plurals>
+    <plurals name="weeks">
+        <item quantity="other">សប្ដាហ៍</item>
+        <item quantity="one">សប្ដាហ៍</item>
+    </plurals>
+    <plurals name="weeks_before">
+        <item quantity="other">សប្ដាហ៍​មុន</item>
+        <item quantity="one">សប្ដាហ៍​មុន</item>
+    </plurals>
+</resources>

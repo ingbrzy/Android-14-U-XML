@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dlg_message_deletion_confirmation">
+        <item quantity="other">Okurekhodiwe kwakho kuzosuswa ingunaphakade. Lesi senzo asikwazi ukuhlehliswa.</item>
+        <item quantity="one">Okurekhodiwe kwakho kuzosuswa ingunaphakade. Lesi senzo asikwazi ukuhlehliswa.</item>
+    </plurals>
+    <plurals name="dlg_message_deletion_permanent_confirmation">
+        <item quantity="other">Ukurekhodwa akwenziwe ikhophi yasenqolobaneni. Lokhu kuzosuswa unaphakade. Awukwazi ukuhlehlisa lesi senzo.</item>
+        <item quantity="one">Ukurekhodwa akwenziwe ikhophi yasenqolobaneni. Lokhu kuzosuswa unaphakade. Awukwazi ukuhlehlisa lesi senzo.</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_confirmation">
+        <item quantity="other">Susa okurekhodiwe?</item>
+        <item quantity="one">Susa okurekhodiwe?</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_permanent_confirmation">
+        <item quantity="other">Susa unaphakade lokhu kurekhodwa?</item>
+        <item quantity="one">Susa unaphakade lokhu kurekhodwa?</item>
+    </plurals>
+    <plurals name="download_failure_description_storage_full">
+        <item quantity="other">Ayikwazi ukulanda ukurekhodwa ngoba isitoreji sedivayisi sigcwele. Thepha ukuze ubuyekeze.</item>
+        <item quantity="one">Ayikwazi ukulanda ukurekhodwa ngoba isitoreji sedivayisi sigcwele. Thepha ukuze ubuyekeze.</item>
+    </plurals>
+    <plurals name="downloading_description">
+        <item quantity="other">Ilanda ukurekhodwa okungu-%1$d</item>
+        <item quantity="one">Ilanda ukurekhodwa okungu-%1$d</item>
+    </plurals>
+    <plurals name="og_backup_failed_title">
+        <item quantity="other">izinto ezingu-%1$d zehlulekile ukwenza ikhophi yasenqolobaneni</item>
+        <item quantity="one">izinto ezingu-%1$d zehlulekile ukwenza ikhophi yasenqolobaneni</item>
+    </plurals>
+    <plurals name="og_backup_items_left">
+        <item quantity="other">izinto ezisele ezingu-%1$d</item>
+        <item quantity="one">izinto ezisele ezingu-%1$d</item>
+    </plurals>
+    <plurals name="og_backup_items_stopped_title">
+        <item quantity="other">izinto ezingu-%1$d azenziwanga isipele</item>
+        <item quantity="one">izinto ezingu-%1$d azenziwanga isipele</item>
+    </plurals>
+    <plurals name="peoplekit_chips_copied_recipients">
+        <item quantity="other">Kukopishiwe abamukeli abangu-%d</item>
+        <item quantity="one">Kukopishiwe abamukeli abangu-%d</item>
+    </plurals>
+    <plurals name="search_results_count">
+        <item quantity="other">%1$d imiphumela</item>
+        <item quantity="one">%1$d imiphumela</item>
+    </plurals>
+    <plurals name="search_results_position">
+        <item quantity="other">^1/^2 imiphumela</item>
+        <item quantity="one">^1/^2 imiphumela</item>
+    </plurals>
+    <plurals name="search_results_position_content_description">
+        <item quantity="other">%1$d yemiphumela engu-%2$d</item>
+        <item quantity="one">%1$d yemiphumela engu-%2$d</item>
+    </plurals>
+    <plurals name="selected_recording_quantity">
+        <item quantity="other">%1$d okukhethiwe</item>
+        <item quantity="one">%1$d okukhethiwe</item>
+    </plurals>
+    <plurals name="snackbar_message_download_failed_storage_full">
+        <item quantity="other">Isitoreji sedivayisi sigcwele. Ayikwazi ukulanda ukurekhodwa.</item>
+        <item quantity="one">Isitoreji sedivayisi sigcwele. Ayikwazi ukulanda ukurekhodwa.</item>
+    </plurals>
+    <plurals name="speaker_count">
+        <item quantity="other">Izipikha ezingu-%1$d</item>
+        <item quantity="one">Izipikha ezingu-%1$d</item>
+    </plurals>
+    <plurals name="uploading_description">
+        <item quantity="other">Ilayisha ukurekhodwa okungu-%1$d</item>
+        <item quantity="one">Ilayisha ukurekhodwa okungu-%1$d</item>
+    </plurals>
+</resources>

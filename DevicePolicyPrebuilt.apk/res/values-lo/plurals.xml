@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_install_failed_multi_app_desc">
+        <item quantity="other">ບໍ່ສາມາດສຳເລັດການຕັ້ງຄ່າໄດ້ ເພາະວ່າຕິດຕັ້ງ %1$d ແອັບທີ່ຈຳເປັນບໍ່ສຳເລັດ. ກະລຸນາຕິດຕໍ່ຜູ້ເບິ່ງແຍງລະບົບຂອງທ່ານໂດຍກົງ</item>
+        <item quantity="one">ບໍ່ສາມາດສຳເລັດການຕັ້ງຄ່າໄດ້ ເພາະວ່າຕິດຕັ້ງ %1$d ແອັບທີ່ຈຳເປັນບໍ່ສຳເລັດ. ກະລຸນາຕິດຕໍ່ຜູ້ເບິ່ງແຍງລະບົບຂອງທ່ານໂດຍກົງ</item>
+    </plurals>
+    <plurals name="app_install_failure_title">
+        <item quantity="other">ບໍ່ສາມາດຕິດຕັ້ງແອັບໄດ້</item>
+        <item quantity="one">ບໍ່ສາມາດຕິດຕັ້ງແອັບໄດ້</item>
+    </plurals>
+    <plurals name="app_install_progress_desc">
+        <item quantity="other">ຕິດຕັ້ງ %1$d ແອັບຈາກທັງໝົດ %2$d ແອັບແລ້ວ</item>
+        <item quantity="one">ຕິດຕັ້ງ %1$d ແອັບຈາກທັງໝົດ %2$d ແອັບແລ້ວ</item>
+    </plurals>
+    <plurals name="app_uninstall_button">
+        <item quantity="other">ຖອນຕິດຕັ້ງແອັບ</item>
+        <item quantity="one">ຖອນຕິດຕັ້ງແອັບ</item>
+    </plurals>
+    <plurals name="days_left_message">
+        <item quantity="other">ຍັງເຫຼືອອີກ &lt;annotation id="numeric_time_left">^1&lt;/annotation> ມື້</item>
+        <item quantity="one">ຍັງເຫຼືອອີກ &lt;annotation id="numeric_time_left">^1&lt;/annotation> ມື້</item>
+    </plurals>
+    <plurals name="hours_left_message">
+        <item quantity="other">ຍັງເຫຼືອ &lt;annotation id="numeric_time_left">^1&lt;/annotation> ຊົ່ວໂມງ</item>
+        <item quantity="one">ຍັງເຫຼືອ &lt;annotation id="numeric_time_left">^1&lt;/annotation> ຊົ່ວໂມງ</item>
+    </plurals>
+    <plurals name="number_of_additional_apps">
+        <item quantity="other">%1$d ແອັບເພີ່ມເຕີມ</item>
+        <item quantity="one">%1$d ແອັບເພີ່ມເຕີມ</item>
+    </plurals>
+    <plurals name="number_of_required_apps">
+        <item quantity="other">%1$d ແອັບທີ່ຈຳເປັນ</item>
+        <item quantity="one">%1$d ແອັບທີ່ຈຳເປັນ</item>
+    </plurals>
+    <plurals name="policy_apps_list_summary">
+        <item quantity="other">ບໍ່ສາມາດຕິດຕັ້ງແອັບບ່ອນເຮັດວຽກ %d ລາຍການໄດ້</item>
+        <item quantity="one">ບໍ່ສາມາດຕິດຕັ້ງແອັບບ່ອນເຮັດວຽກ %d ລາຍການໄດ້</item>
+    </plurals>
+    <plurals name="preinstalled_apps">
+        <item quantity="other">ຕິດຕັ້ງ %1$d ແອັບຈາກທັງໝົດ %2$d ແອັບແລ້ວ</item>
+        <item quantity="one">ຕິດຕັ້ງ %1$d ແອັບຈາກທັງໝົດ %2$d ແອັບແລ້ວ</item>
+    </plurals>
+    <plurals name="readable_name_applications">
+        <item quantity="other">%1$d ແອັບພ້ອມນຳໃຊ້ (ຕິດຕັ້ງ %2$d, ປິດນຳໃຊ້ %3$d)</item>
+        <item quantity="one">%1$d ແອັບພ້ອມນຳໃຊ້ (ຕິດຕັ້ງ %2$d, ປິດນຳໃຊ້ %3$d)</item>
+    </plurals>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dots">
+        <item quantity="other">ចំណុច %s</item>
+        <item quantity="one">ចំណុច %s</item>
+    </plurals>
+    <plurals name="gestures_recorded_message">
+        <item quantity="other">បានថត​ចលនា %d</item>
+        <item quantity="one">បានថត​ចលនា 1</item>
+    </plurals>
+    <plurals name="label_num_keys_assigned_format">
+        <item quantity="other">បានកំណត់​ឧបករណ៍ចុច %d</item>
+        <item quantity="one">បានកំណត់​ឧបករណ៍ចុច %d</item>
+    </plurals>
+    <plurals name="label_num_scanning_loops_format">
+        <item quantity="other">%d ជុំ</item>
+        <item quantity="one">%d ជុំ</item>
+    </plurals>
+    <plurals name="line_speed_summary_format">
+        <item quantity="other">%.2f cm ក្នុងមួយ​វិនាទី</item>
+        <item quantity="one">1 cm ក្នុងមួយ​វិនាទី</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">ការជូនដំណឹងថ្មី %d</item>
+        <item quantity="one">ការជូនដំណឹងថ្មី %d</item>
+    </plurals>
+    <plurals name="time_delay_summary_format">
+        <item quantity="other">%.2f វិនាទី</item>
+        <item quantity="one">1 វិនាទី</item>
+    </plurals>
+</resources>

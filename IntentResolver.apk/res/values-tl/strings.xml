@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Mag-navigate sa home</string>
+    <string name="abc_action_bar_up_description">Mag-navigate pataas</string>
+    <string name="abc_action_menu_overflow_description">Higit pang opsyon</string>
+    <string name="abc_action_mode_done">Tapos na</string>
+    <string name="abc_activity_chooser_view_see_all">Tingnan lahat</string>
+    <string name="abc_activitychooserview_choose_application">Pumili ng app</string>
+    <string name="abc_capital_off">I-OFF</string>
+    <string name="abc_capital_on">I-ON</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Maghanap…</string>
+    <string name="abc_searchview_description_clear">I-clear ang query</string>
+    <string name="abc_searchview_description_query">Query sa paghahanap</string>
+    <string name="abc_searchview_description_search">Maghanap</string>
+    <string name="abc_searchview_description_submit">Isumite ang query</string>
+    <string name="abc_searchview_description_voice">Paghahanap gamit ang boses</string>
+    <string name="abc_shareactionprovider_share_with">Ibahagi sa/kay</string>
+    <string name="abc_shareactionprovider_share_with_application">Ibahagi gamit ang %s</string>
+    <string name="abc_toolbar_collapse_description">I-collapse</string>
+    <string name="activity_resolver_use_always">Palagi</string>
+    <string name="activity_resolver_use_once">Isang beses lang</string>
+    <string name="activity_resolver_work_profiles_support">Hindi sinusuportahan ng %1$s ang profile sa trabaho</string>
+    <string name="call_notification_answer_action">Sagutin</string>
+    <string name="call_notification_answer_video_action">Video</string>
+    <string name="call_notification_decline_action">Tanggihan</string>
+    <string name="call_notification_hang_up_action">Ibaba</string>
+    <string name="call_notification_incoming_text">Papasok na tawag</string>
+    <string name="call_notification_ongoing_text">Kasalukuyang tawag</string>
+    <string name="call_notification_screening_text">Nagsi-screen ng papasok na tawag</string>
+    <string name="chooseActivity">Pumili ng pagkilos</string>
+    <string name="chooser_no_direct_share_targets">Walang inirerekomendang taong mapagbabahagian</string>
+    <string name="exclude_link">Huwag isama ang link</string>
+    <string name="exclude_text">Huwag isama ang text</string>
+    <string name="file_preview_a11y_description">Thumbnail ng preview ng file</string>
+    <string name="forward_intent_to_owner">Ginagamit mo ang app na ito sa labas ng iyong profile sa trabaho</string>
+    <string name="forward_intent_to_work">Ginagamit mo ang app na ito sa iyong profile sa trabaho</string>
+    <string name="image_preview_a11y_description">Thumbnail ng preview ng larawan</string>
+    <string name="include_link">Isama ang link</string>
+    <string name="include_text">Isama ang text</string>
+    <string name="miniresolver_open_in_personal">Buksan ang %s sa iyong personal na profile?</string>
+    <string name="miniresolver_open_in_work">Buksan ang %s sa iyong profile sa trabaho?</string>
+    <string name="miniresolver_use_personal_browser">Gamitin ang personal na browser</string>
+    <string name="miniresolver_use_work_browser">Gamitin ang browser sa trabaho</string>
+    <string name="more_files">{count,plural, =1{+ # pang file}one{+ # pang file}other{+ # pang file}}</string>
+    <string name="noApplications">Walang apps ang makakapagsagawa ng pagkilos na ito.</string>
+    <string name="other_files">{count,plural, =1{+ # file}one{+ # file}other{+ # na file}}</string>
+    <string name="pin_specific_target">I-pin ang %1$s</string>
+    <string name="resolver_cant_access_personal_apps_explanation">Hindi puwedeng buksan sa mga personal na app ang content na ito</string>
+    <string name="resolver_cant_access_work_apps_explanation">Hindi puwedeng buksan sa mga app para sa trabaho ang content na ito</string>
+    <string name="resolver_cant_share_with_personal_apps_explanation">Hindi puwedeng ibahagi sa mga personal na app ang content na ito</string>
+    <string name="resolver_cant_share_with_work_apps_explanation">Hindi puwedeng ibahagi sa mga app para sa trabaho ang content na ito</string>
+    <string name="resolver_cross_profile_blocked">Na-block ng iyong IT admin</string>
+    <string name="resolver_no_personal_apps_available">Walang personal na app</string>
+    <string name="resolver_no_work_apps_available">Walang app para sa trabaho</string>
+    <string name="resolver_personal_tab">Personal</string>
+    <string name="resolver_personal_tab_accessibility">Personal na view</string>
+    <string name="resolver_switch_on_work">I-unpause</string>
+    <string name="resolver_turn_on_work_apps">Naka-pause ang mga app para sa trabaho</string>
+    <string name="resolver_work_tab">Trabaho</string>
+    <string name="resolver_work_tab_accessibility">View ng trabaho</string>
+    <string name="screenshot_edit">I-edit</string>
+    <string name="search_menu_title">Maghanap</string>
+    <string name="sharing_files">{count,plural, =1{Nagshe-share ng # file}one{Nagshe-share ng # file}other{Nagshe-share ng # na file}}</string>
+    <string name="sharing_files_only">{count,plural, =1{File lang}one{Mga file lang}other{Mga file lang}}</string>
+    <string name="sharing_files_with_link">{count,plural, =1{Nagbabahagi ng file na may link}one{Nagbabahagi ng # file na may link}other{Nagbabahagi ng # na file na may link}}</string>
+    <string name="sharing_files_with_text">{count,plural, =1{Nagbabahagi ng file na may text}one{Nagbabahagi ng # file na may text}other{Nagbabahagi ng # na file na may text}}</string>
+    <string name="sharing_images">{count,plural, =1{Ibinabahagi ang larawan}one{Ibinabahagi ang # larawan}other{Ibinabahagi ang # na larawan}}</string>
+    <string name="sharing_images_only">{count,plural, =1{Larawan lang}one{Mga larawan lang}other{Mga larawan lang}}</string>
+    <string name="sharing_images_with_link">{count,plural, =1{Nagbabahagi ng larawang may link}one{Nagbabahagi ng # larawang may link}other{Nagbabahagi ng # na larawang may link}}</string>
+    <string name="sharing_images_with_text">{count,plural, =1{Nagbabahagi ng larawang may text}one{Nagbabahagi ng # larawang may text}other{Nagbabahagi ng # na larawang may text}}</string>
+    <string name="sharing_link">Ibinabahagi ang link</string>
+    <string name="sharing_text">Ibinabahagi ang text</string>
+    <string name="sharing_videos">{count,plural, =1{Ibinabahagi ang video}one{Ibinabahagi ang # video}other{Ibinabahagi ang # na video}}</string>
+    <string name="sharing_videos_only">{count,plural, =1{Video lang}one{Mga video lang}other{Mga video lang}}</string>
+    <string name="sharing_videos_with_link">{count,plural, =1{Nagbabahagi ng video na may link}one{Nagbabahagi ng # video na may link}other{Nagbabahagi ng # na video na may link}}</string>
+    <string name="sharing_videos_with_text">{count,plural, =1{Nagbabahagi ng video na may text}one{Nagbabahagi ng # video na may text}other{Nagbabahagi ng # na video na may text}}</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="unpin_specific_target">I-unpin ang %1$s</string>
+    <string name="usb_device_resolve_prompt_warn">Hindi nabigyan ng pahintulot ang app na ito para mag-record pero nakakapag-capture ito ng audio sa pamamagitan ng USB device na ito.</string>
+    <string name="use_a_different_app">Gumamit ng ibang app</string>
+    <string name="video_preview_a11y_description">Thumbnail ng preview ng video</string>
+    <string name="whichApplication">Kumpletuhin ang pagkilos gamit ang</string>
+    <string name="whichApplicationLabel">Gawin ang pagkilos</string>
+    <string name="whichApplicationNamed">Kumpletuhin ang pagkilos gamit ang %1$s</string>
+    <string name="whichEditApplication">I-edit gamit ang</string>
+    <string name="whichEditApplicationLabel">I-edit</string>
+    <string name="whichEditApplicationNamed">I-edit sa %1$s</string>
+    <string name="whichGiveAccessToApplicationLabel">Bigyan ng access</string>
+    <string name="whichHomeApplication">Pumili ng app sa Home</string>
+    <string name="whichHomeApplicationLabel">Kunan ng larawan</string>
+    <string name="whichHomeApplicationNamed">Gamitin ang %1$s bilang Home</string>
+    <string name="whichImageCaptureApplication">Kunan ng larawan gamit ang</string>
+    <string name="whichImageCaptureApplicationLabel">Kunan ng larawan</string>
+    <string name="whichImageCaptureApplicationNamed">I-capture ang larawan gamit ang %1$s</string>
+    <string name="whichOpenHostLinksWith">Buksan ang mga link ng %1$s gamit ang</string>
+    <string name="whichOpenHostLinksWithApp">Buksan ang mga link ng %1$s gamit ang %2$s</string>
+    <string name="whichOpenLinksWith">Buksan ang mga link gamit ang</string>
+    <string name="whichOpenLinksWithApp">Buksan ang mga link gamit ang %1$s</string>
+    <string name="whichSendApplication">Ibahagi</string>
+    <string name="whichSendApplicationLabel">Ibahagi</string>
+    <string name="whichSendApplicationNamed">Ibahagi gamit ang %1$s</string>
+    <string name="whichSendToApplication">Ipadala gamit ang</string>
+    <string name="whichSendToApplicationLabel">Ipadala</string>
+    <string name="whichSendToApplicationNamed">Ipadala gamit ang %1$s</string>
+    <string name="whichViewApplication">Buksan gamit ang</string>
+    <string name="whichViewApplicationLabel">Buksan</string>
+    <string name="whichViewApplicationNamed">Buksan sa %1$s</string>
+</resources>

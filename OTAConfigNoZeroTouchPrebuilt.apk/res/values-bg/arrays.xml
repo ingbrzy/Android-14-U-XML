@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sim_locked_notification_custom_content_array">
+        <item>За да използвате тази SIM карта, отключете телефона си посредством приложението Device Unlock.</item>
+        <item>Моля, свържете се с мобилния си оператор</item>
+    </string-array>
+</resources>

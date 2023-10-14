@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="select_logpersist_summaries">
+        <item>অফ কৰক</item>
+        <item>আটাইবোৰ লগ বাফাৰ</item>
+        <item>"ৰেডিঅ' লগ বাফাৰৰ বাহিৰে আটাইবোৰ"</item>
+        <item>কেৱল কাৰ্ণেল লগ বাফাৰ</item>
+    </string-array>
+</resources>

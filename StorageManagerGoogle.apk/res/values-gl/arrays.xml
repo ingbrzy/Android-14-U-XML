@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="select_logpersist_summaries">
+        <item>Desactivado</item>
+        <item>Todos os búfers de rexistro</item>
+        <item>Todo agás os búfers de rexistro de radio</item>
+        <item>só búfer do rexistro do kernel</item>
+    </string-array>
+</resources>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Servizi cross-device</string>
+    <string name="app_name_generic">"Un'app"</string>
+    <string name="app_stream_error_generic">"Si è verificato un errore durante la condivisione dell'app"</string>
+    <string name="app_stream_init_error_generic">"Impossibile condividere l'app con il tuo Chromebook"</string>
+    <string name="audio_permission_rationale">"L'autorizzazione di accesso al microfono necessaria per la condivisione di app è disattivata"</string>
+    <string name="cancel_button_label">Annulla</string>
+    <string name="chromebook_keyboard">Tastiera di Chromebook</string>
+    <string name="chromebook_mouse">Mouse di Chromebook</string>
+    <string name="chromebook_touchscreen">Touchscreen di Chromebook</string>
+    <string name="connect_device">Connessione del telefono al dispositivo remoto %1$s in corso…</string>
+    <string name="decline_button_label">Rifiuta</string>
+    <string name="development_notification_channel_name">Sviluppo</string>
+    <string name="device_camera_cannot_access">Impossibile accedere alla fotocamera del dispositivo da questo Chromebook</string>
+    <string name="done_button_label">Fine</string>
+    <string name="enable_button_label">Attiva</string>
+    <string name="foreground_service_notification_channel_name">Generale</string>
+    <string name="foreground_service_notification_content">Tocca per modificare le impostazioni</string>
+    <string name="foreground_service_notification_title">{0,plural, =1{# dispositivo connesso}other{# dispositivi connessi}}</string>
+    <string name="interactive_streaming_generic_notification">Streaming di %1$s e sincronizzazione delle notifiche per Chromebook in corso…</string>
+    <string name="interactive_streaming_individual_notification">"Streaming dell'app %1$s e sincronizzazione delle notifiche verso %2$s"</string>
+    <string name="interactive_streaming_notification">Streaming su Chromebook in corso…</string>
+    <string name="keyboard_name">Tastiera cross-device</string>
+    <string name="lock_screen_notif_warning_content">Attiva le notifiche nella schermata di blocco</string>
+    <string name="lock_screen_notif_warning_title">Le notifiche non verranno deviate</string>
+    <string name="mouse_name">Mouse cross-device</string>
+    <string name="new_connection_confirm">Conferma</string>
+    <string name="new_connection_deny">Rifiuta</string>
+    <string name="new_connection_title">Verifica corrispondenza stringa</string>
+    <string name="notification_access_missing">Accesso alle notifiche necessario</string>
+    <string name="notification_access_missing_description">"Per aprire le notifiche su Chromebook, devi attivare l'accesso alle notifiche"</string>
+    <string name="notification_channel_name">Generali</string>
+    <string name="notification_listener_label">Condividi app con il tuo Chromebook</string>
+    <string name="open_source_licenses">Licenze open source</string>
+    <string name="phone_permission_rationale">"L'autorizzazione di accesso alle telefonate necessaria per la condivisione di app è disattivata"</string>
+    <string name="prompt_switch_languages">Premi Maiusc + Spazio per cambiare la lingua di Gboard sul telefono</string>
+    <string name="settings_button">Impostazioni</string>
+    <string name="stop_sharing_button">Termina streaming</string>
+    <string name="stream_termination_proximity_warning">Il telefono è troppo lontano. Avvicinalo per continuare lo streaming.</string>
+    <string name="substitute_app_name">Sistema</string>
+    <string name="summary_disable_wirecutter">Off</string>
+    <string name="summary_enable_wirecutter">On</string>
+    <string name="touchscreen_name">Touchscreen cross-device</string>
+</resources>

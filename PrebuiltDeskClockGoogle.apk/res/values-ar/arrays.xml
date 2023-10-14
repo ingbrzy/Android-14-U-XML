@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_set">
+        <item>تم ضبط المنبّه ليرنّ بعد أقل من دقيقة من الآن.</item>
+        <item>تم ضبط المنبّه ليرنّ بعد %1$s من الآن.</item>
+        <item>تم ضبط المنبّه ليرنّ بعد %2$s من الآن.</item>
+        <item>تم ضبط المنبّه ليرنّ بعد %1$s و%2$s من الآن.</item>
+        <item>تم ضبط المنبّه ليرنّ بعد %3$s من الآن.</item>
+        <item>تم ضبط المنبّه ليرنّ بعد %1$s و%3$s من الآن.</item>
+        <item>تم ضبط المنبّه ليرنّ بعد %2$s و%3$s من الآن.</item>
+        <item>تم ضبط المنبّه ليرنّ بعد %1$s و%2$s و%3$s من الآن.</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>دقيقة واحدة</item>
+        <item>٥ دقائق</item>
+        <item>۱۰ دقائق</item>
+        <item>١٥ دقيقة</item>
+        <item>۲۰ دقيقة</item>
+        <item>٢٥ دقيقة</item>
+        <item>@string/auto_silence_entry_never</item>
+    </string-array>
+    <string-array name="bedtime_reminder_entries">
+        <item>15 دقيقة قبل وقت النوم</item>
+        <item>30 دقيقة قبل وقت النوم</item>
+        <item>45 دقيقة قبل وقت النوم</item>
+        <item>ساعة واحدة قبل وقت النوم</item>
+        <item>إيقاف</item>
+    </string-array>
+    <string-array name="clock_style_entries">
+        <item>تناظري</item>
+        <item>رقمي</item>
+    </string-array>
+    <string-array name="crescendo_entries">
+        <item>@string/crescendo_entry_never</item>
+        <item>٥ ثوانٍ</item>
+        <item>۱۰ ثوانٍ</item>
+        <item>١٥ ثانية</item>
+        <item>۲۰ ثانية</item>
+        <item>٢٥ ثانية</item>
+        <item>٣۰ ثانية</item>
+        <item>٣٥ ثانية</item>
+        <item>٤٠ ثانية</item>
+        <item>٤٥ ثانية</item>
+        <item>٥۰ ثانية</item>
+        <item>٥٥ ثانية</item>
+        <item>٦٠ ثانية</item>
+    </string-array>
+    <string-array name="sleep_duration">
+        <item>%2$s</item>
+        <item>%1$s</item>
+        <item>%1$s %2$s</item>
+    </string-array>
+    <string-array name="sleep_sound_length_content_descriptions">
+        <item>الإيقاف بعد 10 دقائق</item>
+        <item>الإيقاف بعد 20 دقيقة</item>
+        <item>الإيقاف بعد 30 دقائق</item>
+        <item>الإيقاف بعد 40 دقيقة</item>
+        <item>الإيقاف بعد 50 دقائق</item>
+        <item>الإيقاف بعد ساعة واحدة</item>
+    </string-array>
+    <string-array name="sleep_sound_length_descriptions">
+        <item>الإيقاف بعد 10 دقائق</item>
+        <item>الإيقاف بعد 20 دقيقة</item>
+        <item>الإيقاف بعد 30 دقيقة</item>
+        <item>الإيقاف بعد 40 دقيقة</item>
+        <item>الإيقاف بعد 50 دقيقة</item>
+        <item>الإيقاف بعد ساعة واحدة</item>
+    </string-array>
+    <string-array name="sleep_sound_length_entries">
+        <item>۱۰ دقائق</item>
+        <item>۲۰ دقيقة</item>
+        <item>٣۰ دقيقة</item>
+        <item>40 دقيقة</item>
+        <item>50 دقيقة</item>
+        <item>ساعة واحدة</item>
+    </string-array>
+    <string-array name="snooze_duration_entries">
+        <item>دقيقة واحدة</item>
+        <item>دقيقتان</item>
+        <item>٣ دقائق</item>
+        <item>٤ دقائق</item>
+        <item>٥ دقائق</item>
+        <item>٦ دقائق</item>
+        <item>٧ دقائق</item>
+        <item>٨ دقائق</item>
+        <item>٩ دقائق</item>
+        <item>۱۰ دقائق</item>
+        <item>١١ دقيقة</item>
+        <item>١٢ دقيقة</item>
+        <item>١٣ دقيقة</item>
+        <item>١٤ دقيقة</item>
+        <item>١٥ دقيقة</item>
+        <item>١٦ دقيقة</item>
+        <item>١٧ دقيقة</item>
+        <item>١٨ دقيقة</item>
+        <item>١٩ دقيقة</item>
+        <item>۲۰ دقيقة</item>
+        <item>٢١ دقيقة</item>
+        <item>٢٢ دقيقة</item>
+        <item>٢٣ دقيقة</item>
+        <item>٢٤ دقيقة</item>
+        <item>٢٥ دقيقة</item>
+        <item>٢٦ دقيقة</item>
+        <item>٢٧ دقيقة</item>
+        <item>٢٨ دقيقة</item>
+        <item>٢٩ دقيقة</item>
+        <item>٣۰ دقيقة</item>
+    </string-array>
+    <string-array name="timer_duration">
+        <item>الموقّت</item>
+        <item>موقّت %3$s</item>
+        <item>موقّت %2$s</item>
+        <item>موقّت %2$s %3$s</item>
+        <item>موقّت %1$s</item>
+        <item>موقّت %1$s %3$s</item>
+        <item>موقّت %1$s %2$s</item>
+        <item>موقّت %1$s %2$s %3$s</item>
+    </string-array>
+    <string-array name="timer_duration_short">
+        <item>الموقّت</item>
+        <item>موقِّت مدته %3$s</item>
+        <item>موقِّت مدته %2$s</item>
+        <item>موقِّت مدته %2$s %3$s</item>
+        <item>موقِّت مدته %1$s</item>
+        <item>موقِّت مدته %1$s %3$s</item>
+        <item>موقِّت مدته %1$s %2$s</item>
+        <item>موقِّت مدته %1$s %2$s %3$s</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>جزر مارشال</item>
+        <item>جزيرة ميدواي</item>
+        <item>هاواي</item>
+        <item>ألاسكا</item>
+        <item>توقيت المحيط الهادئ</item>
+        <item>تيغوانا</item>
+        <item>أريزونا</item>
+        <item>تشي هواوا</item>
+        <item>التوقيت الجبلي</item>
+        <item>أمريكا الوسطى</item>
+        <item>توقيت مركزي</item>
+        <item>مدينة مكسيكو</item>
+        <item>ساسكاتشوان</item>
+        <item>بوغوتا</item>
+        <item>توقيت شرقي</item>
+        <item>فنزويلا</item>
+        <item>توقيت المحيط الأطلسي (باربادوس)</item>
+        <item>توقيت المحيط الأطلسي (كندا)</item>
+        <item>مناويس</item>
+        <item>سانتياغو</item>
+        <item>نيوفاوندلاند</item>
+        <item>برازيليا</item>
+        <item>بوینس آیرس</item>
+        <item>غرينلاند</item>
+        <item>مونتيفيديو</item>
+        <item>إقليم الأطلسي الأوسط</item>
+        <item>الأزور</item>
+        <item>جزر الرأس الأخضر</item>
+        <item>الدار البيضاء</item>
+        <item>لندن، دبلن</item>
+        <item>أمستردام، برلين</item>
+        <item>بلغراد</item>
+        <item>بروكسل</item>
+        <item>سراييفو</item>
+        <item>ویندهوك</item>
+        <item>توقيت غرب إفريقيا</item>
+        <item>عمان، الأردن</item>
+        <item>أثينا، إسطنبول</item>
+        <item>بيروت، لبنان</item>
+        <item>القاهرة</item>
+        <item>هلسینكي</item>
+        <item>القدس</item>
+        <item>مینسك</item>
+        <item>هراري</item>
+        <item>بغداد</item>
+        <item>موسكو</item>
+        <item>الكويت</item>
+        <item>نیروبي</item>
+        <item>طهران</item>
+        <item>باكو</item>
+        <item>تبليسي</item>
+        <item>ایروان</item>
+        <item>دبي</item>
+        <item>كابول</item>
+        <item>إسلام أباد، كراتشي</item>
+        <item>أورالسك</item>
+        <item>يكاترينبورغ</item>
+        <item>كولكاتا</item>
+        <item>سريلانكا</item>
+        <item>كاثماندو</item>
+        <item>أستانا</item>
+        <item>يانغون</item>
+        <item>كراسنويارسك</item>
+        <item>بانكوك</item>
+        <item>بكين</item>
+        <item>هونج كونج</item>
+        <item>إركوتسك</item>
+        <item>كوالالامبور</item>
+        <item>بيرث</item>
+        <item>تایبي</item>
+        <item>سيول</item>
+        <item>طوكيو، أوساكا</item>
+        <item>ياكوتسك</item>
+        <item>أديليد</item>
+        <item>داروين</item>
+        <item>بريزبين</item>
+        <item>هوبارت</item>
+        <item>سيدني، كانبيرا</item>
+        <item>فلاديفوستوك</item>
+        <item>غوام</item>
+        <item>ماغادان</item>
+        <item>آكلاند</item>
+        <item>فيجي</item>
+        <item>تونغا</item>
+        <item>جاكارتا</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>@string/alarm_alert_snooze_text</item>
+        <item>إيقاف</item>
+        <item>التحكم في مستوى الصوت</item>
+        <item>عدم اتخاذ أي إجراء</item>
+    </string-array>
+    <string-array name="wakeup_alarm_description">
+        <item>باقٍ على انطلاق جرس منبّه الاستيقاظ أقل من دقيقة واحدة من الآن.</item>
+        <item>باقٍ على انطلاق جرس منبّه الاستيقاظ %1$s من الآن.</item>
+        <item>باقٍ على انطلاق جرس منبّه الاستيقاظ %2$s من الآن.</item>
+        <item>باقٍ على انطلاق جرس منبّه الاستيقاظ %1$s و%2$s من الآن.</item>
+        <item>باقٍ على انطلاق جرس منبّه الاستيقاظ %3$s من الآن.</item>
+        <item>باقٍ على انطلاق جرس منبّه الاستيقاظ %1$s و%3$s من الآن.</item>
+        <item>باقٍ على انطلاق جرس منبّه الاستيقاظ %2$s و%3$s من الآن.</item>
+        <item>باقٍ على انطلاق جرس منبّه الاستيقاظ %1$s و%2$s و%3$s من الآن.</item>
+    </string-array>
+    <string-array name="week_start_entries">
+        <item>الجمعة</item>
+        <item>السبت</item>
+        <item>الأحد</item>
+        <item>الاثنين</item>
+    </string-array>
+</resources>

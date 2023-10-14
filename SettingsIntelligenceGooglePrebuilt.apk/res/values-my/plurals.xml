@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="other">ပြီးခဲ့သော %d ရက်</item>
+        <item quantity="one">ပြီးခဲ့သော %d ရက်</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="other">ပြီးခဲ့သော %d မိနစ်</item>
+        <item quantity="one">ပြီးခဲ့သော %d မိနစ်</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="other">ပြီးခဲ့သော %d နှစ်</item>
+        <item quantity="one">ပြီးခဲ့သော %d နှစ်</item>
+    </plurals>
+    <plurals name="accessibility_other_devices">
+        <item quantity="other">အခြားစက် %d ခု</item>
+        <item quantity="one">အခြားစက် %d ခု</item>
+    </plurals>
+    <plurals name="routines_settings_summary">
+        <item quantity="other">စည်းမျဉ်း %d ခု</item>
+        <item quantity="one">စည်းမျဉ်း ၁ ခု</item>
+    </plurals>
+</resources>

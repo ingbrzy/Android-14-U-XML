@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sound_amplifier_html_description">Ojačevalnik zvoka poveča glasnost šibkejših zvokov, ne da bi močnejši zvoki postali preglasni.&lt;br/>&lt;br/> &lt;b>Uporaba ojačevalnika zvoka&lt;/b>&lt;br/> 1. Priključite žične slušalke ali povežite slušalke Bluetooth.&lt;br/> 2. Zaženite ojačevalnik zvoka.</string>
+    <string name="sound_amplifier_intro">Uporabite ojačevalnik zvoka s slušalkami za izboljšavo kakovosti zvoka v vaši okolici in napravi.</string>
+</resources>

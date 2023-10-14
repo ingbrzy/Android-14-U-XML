@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="switch_access_htmlDescription">Kapcsolók segítségével kiválaszthat elemeket, görgethet, gépelhet, és végrehajthat egyéb műveleteket.</string>
+    <string name="switch_access_intro">A kapcsolók segítségével vezérelheti Android-eszközét, ha nehezséget okoz az érintőképernyő közvetlen használata. Kapcsolót (pl. billentyűzetet vagy nagy gombot) kívülről csatlakoztathat az eszközhöz.</string>
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_install_failed_multi_app_desc">
+        <item quantity="other">Seadistamist ei saa lõpule viia, kuna %1$d nõutava rakenduse installimine nurjus. Võtke ühendust süsteemiadministraatoriga.</item>
+        <item quantity="one">Seadistamist ei saa lõpule viia, kuna %1$d nõutava rakenduse installimine nurjus. Võtke ühendust süsteemiadministraatoriga.</item>
+    </plurals>
+    <plurals name="app_install_failure_title">
+        <item quantity="other">Rakendusi ei saa installida</item>
+        <item quantity="one">Rakendust ei saa installida</item>
+    </plurals>
+    <plurals name="app_install_progress_desc">
+        <item quantity="other">%1$d rakendust %2$d-st on installitud</item>
+        <item quantity="one">%1$d rakendus %2$d-st on installitud</item>
+    </plurals>
+    <plurals name="app_uninstall_button">
+        <item quantity="other">Desinstalli rakendused</item>
+        <item quantity="one">Desinstalli rakendus</item>
+    </plurals>
+    <plurals name="days_left_message">
+        <item quantity="other">Jäänud on &lt;annotation id="numeric_time_left">^1&lt;/annotation> päeva</item>
+        <item quantity="one">Jäänud on &lt;annotation id="numeric_time_left">^1&lt;/annotation> päev</item>
+    </plurals>
+    <plurals name="hours_left_message">
+        <item quantity="other">Jäänud on &lt;annotation id="numeric_time_left">^1&lt;/annotation> tundi</item>
+        <item quantity="one">Jäänud on &lt;annotation id="numeric_time_left">^1&lt;/annotation> tund</item>
+    </plurals>
+    <plurals name="number_of_additional_apps">
+        <item quantity="other">%1$d täiendavat rakendust</item>
+        <item quantity="one">%1$d täiendav rakendus</item>
+    </plurals>
+    <plurals name="number_of_required_apps">
+        <item quantity="other">%1$d nõutavat rakendust</item>
+        <item quantity="one">%1$d nõutav rakendus</item>
+    </plurals>
+    <plurals name="policy_apps_list_summary">
+        <item quantity="other">%d töörakendust ei saa desinstallida</item>
+        <item quantity="one">%d töörakendust ei saa desinstallida</item>
+    </plurals>
+    <plurals name="preinstalled_apps">
+        <item quantity="other">%1$d rakendust %2$d-st on installitud</item>
+        <item quantity="one">%1$d rakendus %2$d-st on installitud</item>
+    </plurals>
+    <plurals name="readable_name_applications">
+        <item quantity="other">%1$d rakendust on saadaval (%2$d rakendust on installitud, %3$d rakendust on keelatud)</item>
+        <item quantity="one">%1$d rakendus on saadaval (%2$d rakendust on installitud, %3$d rakendust on keelatud)</item>
+    </plurals>
+</resources>

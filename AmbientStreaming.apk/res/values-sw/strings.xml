@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Huduma ya Kifaa Kilichounganishwa Kwingine</string>
+    <string name="app_name_generic">programu</string>
+    <string name="app_stream_error_generic">Hitilafu imetokea wakati wa kushiriki programu</string>
+    <string name="app_stream_init_error_generic">Imeshindwa kushiriki programu kwenye Chromebook yako</string>
+    <string name="audio_permission_rationale">Ruhusa ya kufikia maikrofoni kwa ajili ya kushiriki programu imezimwa</string>
+    <string name="cancel_button_label">Ghairi</string>
+    <string name="chromebook_keyboard">Kibodi ya Chromebook</string>
+    <string name="chromebook_mouse">Kipanya cha Chromebook</string>
+    <string name="chromebook_touchscreen">Skrini ya kugusa ya Chromebook</string>
+    <string name="connect_device">Inaunganisha simu yako kwenye kifaa cha mbali: %1$s</string>
+    <string name="decline_button_label">Kataa</string>
+    <string name="development_notification_channel_name">Usanidi programu</string>
+    <string name="device_camera_cannot_access">Huwezi kufikia kamera ya kifaa kwenye Chromebook hii</string>
+    <string name="done_button_label">Imemaliza</string>
+    <string name="enable_button_label">Washa</string>
+    <string name="foreground_service_notification_channel_name">Jumla</string>
+    <string name="foreground_service_notification_content">Gusa ili ubadilishe mipangilio</string>
+    <string name="foreground_service_notification_title">{0,plural, =1{Imeunganishwa kwenye kifaa #}other{Imeunganishwa kwenye vifaa #}}</string>
+    <string name="interactive_streaming_generic_notification">Inatiririsha programu ya %1$s na kusawazisha arifa kwa ajili ya Chromebook yako</string>
+    <string name="interactive_streaming_individual_notification">Kutiririsha programu ya %1$s na kusawazisha arifa za %2$s</string>
+    <string name="interactive_streaming_notification">Inatiririsha kwenye Chromebook yako</string>
+    <string name="keyboard_name">Kibodi ya vifaa mbalimbali</string>
+    <string name="lock_screen_notif_warning_content">Ruhusu arifa kwenye skrini iliyofungwa</string>
+    <string name="lock_screen_notif_warning_title">Arifa hazitasambazwa</string>
+    <string name="mouse_name">Kipanya kilichounganishwa kwingine</string>
+    <string name="new_connection_confirm">Thibitisha</string>
+    <string name="new_connection_deny">Kataa</string>
+    <string name="new_connection_title">Tafadhali Thibitisha kuwa Mfuatano Unalingana</string>
+    <string name="notification_access_missing">Inahitaji ruhusa ya kufikia arifa</string>
+    <string name="notification_access_missing_description">Ili ufungue arifa kwenye Chromebook yako, washa Ruhusa ya kufikia arifa</string>
+    <string name="notification_channel_name">Jumla</string>
+    <string name="notification_listener_label">Shiriki programu na Chromebook yako</string>
+    <string name="open_source_licenses">Leseni za programu huria</string>
+    <string name="phone_permission_rationale">Ruhusa ya simu kwa ajili ya kushiriki programu imezimwa</string>
+    <string name="prompt_switch_languages">Bonyeza shift + space ili ubadili lugha ya Gboard ya simu yako</string>
+    <string name="settings_button">Mipangilio</string>
+    <string name="stop_sharing_button">Kamilisha mtiririko</string>
+    <string name="stream_termination_proximity_warning">Simu yako iko mbali mno. Ilete karibu ili uendelee kutiririsha.</string>
+    <string name="substitute_app_name">Mfumo</string>
+    <string name="summary_disable_wirecutter">Imezimwa</string>
+    <string name="summary_enable_wirecutter">Imewashwa</string>
+    <string name="touchscreen_name">Skrini ya kugusa iliyounganishwa kwingine</string>
+</resources>

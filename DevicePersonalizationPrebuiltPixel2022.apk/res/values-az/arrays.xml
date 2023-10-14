@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="call_captions_typing_predictions_post_system_message">
+        <item>Salam, kimsiniz?</item>
+        <item>Salam, necəsiniz?</item>
+        <item>Bir dəqiqə gözləyin</item>
+        <item>Salam, sonra zəng edə bilərsiniz?</item>
+        <item>Salam! Zənginiz üçün təşəkkür edirik.</item>
+    </string-array>
+    <string-array name="captions_settings_enable_for_calls_choices_entries">
+        <item>Həmişə soruşulsun</item>
+        <item>Həmişə</item>
+        <item>Deaktiv</item>
+    </string-array>
+    <string-array name="captions_settings_typing_voice_names">
+        <item>Səs A</item>
+        <item>Səs B</item>
+        <item>Səs C</item>
+        <item>Səs D</item>
+        <item>Səs E</item>
+        <item>Səs F</item>
+        <item>Səs G</item>
+        <item>Səs H</item>
+        <item>Səs I</item>
+        <item>Səs J</item>
+        <item>Səs K</item>
+        <item>Səs L</item>
+        <item>Səs M</item>
+        <item>Səs N</item>
+        <item>Səs O</item>
+        <item>Səs P</item>
+    </string-array>
+    <string-array name="pref_download_policy_entries">
+        <item>Mobil + WiFi</item>
+        <item>Yalnız WiFi</item>
+        <item>Güncəlləməyin</item>
+    </string-array>
+    <string-array name="pref_download_policy_entry_values_placeholder">
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+</resources>

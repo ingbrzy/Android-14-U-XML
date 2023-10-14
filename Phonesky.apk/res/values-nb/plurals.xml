@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120000">
+        <item quantity="other">Venter på Wifi</item>
+        <item quantity="one">Venter på Wifi</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120002">
+        <item quantity="other">På denne enheten (%d apper)</item>
+        <item quantity="one">På denne enheten (%d app)</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120003">
+        <item quantity="other">Funksjoner for %1$s</item>
+        <item quantity="one">Funksjon for %1$s</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120004">
+        <item quantity="other">Installert for %d dager siden</item>
+        <item quantity="one">Installert for %d dag siden</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120005">
+        <item quantity="other">Installert for %d timer siden</item>
+        <item quantity="one">Installert for %d time siden</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120006">
+        <item quantity="other">Installert for %d minutter siden</item>
+        <item quantity="one">Installert for %d minutt siden</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120007">
+        <item quantity="other">%1$d er valgt</item>
+        <item quantity="one">%1$d er valgt</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120008">
+        <item quantity="other">Oppdatert for %d dager siden</item>
+        <item quantity="one">Oppdatert for %d dag siden</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120009">
+        <item quantity="other">Oppdatert for %d timer siden</item>
+        <item quantity="one">Oppdatert for %d time siden</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000a">
+        <item quantity="other">Oppdatert for %d minutter siden</item>
+        <item quantity="one">Oppdatert for %d minutt siden</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000b">
+        <item quantity="other">Sist brukt for %d dager siden</item>
+        <item quantity="one">Sist brukt for %d dag siden</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000c">
+        <item quantity="other">Sist brukt for %d timer siden</item>
+        <item quantity="one">Sist brukt for %d time siden</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000d">
+        <item quantity="other">Sist brukt for %d minutter siden</item>
+        <item quantity="one">Sist brukt for %d minutt siden</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000f">
+        <item quantity="other">Appene ble skannet for %d dager siden</item>
+        <item quantity="one">Appene ble skannet for %d dag siden</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120010">
+        <item quantity="other">Appene ble skannet for %d timer siden</item>
+        <item quantity="one">Appene ble skannet for %d time siden</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120011">
+        <item quantity="other">Appene ble skannet for %d minutter siden</item>
+        <item quantity="one">Appene ble skannet for %d minutt siden</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120014">
+        <item quantity="other">%1$d anmeldelser</item>
+        <item quantity="one">%1$d anmeldelse</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120015">
+        <item quantity="other">%1$d anmeldelser med stjernerangering %2$d</item>
+        <item quantity="one">%1$d anmeldelse med stjernerangering %2$d</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120016">
+        <item quantity="other">Installer på %1$d enheter.</item>
+        <item quantity="one">Installer på %1$d enhet.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120017">
+        <item quantity="other">Installer på %1$d enheter. Flere enheter er tilgjengelige.</item>
+        <item quantity="one">Installer på %1$d enhet. Flere enheter er tilgjengelige.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120018">
+        <item quantity="other">Denne appen installeres snart på %1$d enheter.</item>
+        <item quantity="one">Denne appen installeres snart på %1$d enhet.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120019">
+        <item quantity="other">%1$d ekstramaterialer er tilgjengelig</item>
+        <item quantity="one">%1$d ekstramateriale er tilgjengelig</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001a">
+        <item quantity="other">%1$d ekstramaterialer er tilgjengelig når du kjøper filmen</item>
+        <item quantity="one">%1$d ekstramateriale er tilgjengelig når du kjøper filmen</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001b">
+        <item quantity="other">%1$d dager</item>
+        <item quantity="one">%1$d dag</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001c">
+        <item quantity="other">Gjennomsnittlig vurdering på %1$s stjerner fra %2$s anmeldelser</item>
+        <item quantity="one">Gjennomsnittlig vurdering på %1$s stjerner fra én anmeldelse</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001d">
+        <item quantity="other">%s anmeldelser</item>
+        <item quantity="one">1 anmeldelse</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001e">
+        <item quantity="other">Du er nå %1$d trinn fra å bli en utvikler.</item>
+        <item quantity="one">Du er nå %1$d trinn fra å bli en utvikler.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001f">
+        <item quantity="other">biler</item>
+        <item quantity="one">bil</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120020">
+        <item quantity="other">Chromebook-enheter</item>
+        <item quantity="one">Chromebook</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120021">
+        <item quantity="other">sammenleggbare</item>
+        <item quantity="one">sammenleggbar</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120022">
+        <item quantity="other">telefoner</item>
+        <item quantity="one">telefon</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120023">
+        <item quantity="other">nettbrett</item>
+        <item quantity="one">nettbrett</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120024">
+        <item quantity="other">TV-er</item>
+        <item quantity="one">TV</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120025">
+        <item quantity="other">enheter</item>
+        <item quantity="one">enhet</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120026">
+        <item quantity="other">klokker</item>
+        <item quantity="one">klokke</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120027">
+        <item quantity="other">Du har %1$d Play-poeng.</item>
+        <item quantity="one">Du har %1$d Play-poeng.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120028">
+        <item quantity="other">%1$d timer</item>
+        <item quantity="one">%1$d time</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120029">
+        <item quantity="other">%1$d timer igjen</item>
+        <item quantity="one">1 time igjen</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002a">
+        <item quantity="other">Installerer %1$d apper …</item>
+        <item quantity="one">Installerer %1$d app …</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002b">
+        <item quantity="other">Installasjonene er satt på pause</item>
+        <item quantity="one">Installasjonen er satt på pause</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002c">
+        <item quantity="other">%1$d apper blir installert</item>
+        <item quantity="one">%1$d app blir installert</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002d">
+        <item quantity="other">Sist oppdatert for %d dager siden</item>
+        <item quantity="one">Sist oppdatert for %d dag siden</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002e">
+        <item quantity="other">Sist oppdatert for %d timer siden</item>
+        <item quantity="one">Sist oppdatert for %d time siden</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002f">
+        <item quantity="other">Sist oppdatert for %d minutter siden</item>
+        <item quantity="one">Sist oppdatert for %d minutt siden</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120033">
+        <item quantity="other">for %1$d år siden</item>
+        <item quantity="one">for %1$d år siden</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120034">
+        <item quantity="other">%1$d minutter</item>
+        <item quantity="one">%1$d minutt</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120035">
+        <item quantity="other">%1$d minutter igjen</item>
+        <item quantity="one">1 minutt igjen</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120037">
+        <item quantity="other">%1$d er valgt</item>
+        <item quantity="one">%1$d er valgt</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120038">
+        <item quantity="other">Arkiverer %1$d apper</item>
+        <item quantity="one">Arkiverer %1$d app</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120039">
+        <item quantity="other">Vil du fjerne de valgte appene?</item>
+        <item quantity="one">Vil du fjerne den valgte appen?</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12003a">
+        <item quantity="other">%1$d apper ble fjernet</item>
+        <item quantity="one">%1$d app ble fjernet</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12003d">
+        <item quantity="other">%1$d installeringer venter</item>
+        <item quantity="one">%1$d installering venter</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12003e">
+        <item quantity="other">%1$d installeringer pågår</item>
+        <item quantity="one">%1$d installering pågår</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120040">
+        <item quantity="other">%1$d oppdateringer venter</item>
+        <item quantity="one">%1$d oppdatering venter</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120041">
+        <item quantity="other">%1$d oppdateringer pågår</item>
+        <item quantity="one">%1$d oppdatering pågår</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120042">
+        <item quantity="other">%1$d apper er installert</item>
+        <item quantity="one">%1$d app er installert</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120044">
+        <item quantity="other">Gitt ut for %1$d timer siden</item>
+        <item quantity="one">Gitt ut for %1$d time siden</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120045">
+        <item quantity="other">Gitt ut for %1$d dager siden</item>
+        <item quantity="one">Gitt ut for %1$d dag siden</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120046">
+        <item quantity="other">Appene er fjernet</item>
+        <item quantity="one">Appen er fjernet</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120047">
+        <item quantity="other">%1$d oppdateringer krever godkjenning</item>
+        <item quantity="one">%1$d oppdatering krever godkjenning</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120048">
+        <item quantity="other">%1$d nye oppdateringer</item>
+        <item quantity="one">%1$d ny oppdatering</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120049">
+        <item quantity="other">%1$d tilgjengelige oppdateringer</item>
+        <item quantity="one">%1$d tilgjengelig oppdatering</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004a">
+        <item quantity="other">Oppdater alle</item>
+        <item quantity="one">Oppdater</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004b">
+        <item quantity="other">%1$d apper ble oppdatert</item>
+        <item quantity="one">%1$d app ble oppdatert</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004c">
+        <item quantity="other">Avsluttes om %1$d timer</item>
+        <item quantity="one">Avsluttes om %1$d time</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004d">
+        <item quantity="other">Avsluttes om %1$d dager</item>
+        <item quantity="one">Avsluttes om %1$d dag</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004e">
+        <item quantity="other">%1$d minutter</item>
+        <item quantity="one">%1$d minutt</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004f">
+        <item quantity="other">%1$d sekunder</item>
+        <item quantity="one">%1$d sekund</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120050">
+        <item quantity="other">De personlige appene er fjernet</item>
+        <item quantity="one">Den personlige appen er fjernet</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120053">
+        <item quantity="other">Play Protect kjørte en skanning for %d dager siden</item>
+        <item quantity="one">Play Protect kjørte en skanning for %d dag siden</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120054">
+        <item quantity="other">Play Protect kjørte en skanning for %d timer siden</item>
+        <item quantity="one">Play Protect kjørte en skanning for %d time siden</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120055">
+        <item quantity="other">Play Protect kjørte en skanning for %d minutter siden</item>
+        <item quantity="one">Play Protect kjørte en skanning for %d minutt siden</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120056">
+        <item quantity="other">Du er %1$s poeng fra å beholde %2$s til neste år</item>
+        <item quantity="one">Du er 1 poeng fra å beholde %2$s til neste år</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120057">
+        <item quantity="other">Du er %1$s poeng fra å nå %2$s</item>
+        <item quantity="one">Du er 1 poeng fra å nå %2$s</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120058">
+        <item quantity="other">Du har gitt disse appene tillatelse til å installere eller oppdatere ukjente apper. Dette kan utsette enheten og personopplysningene dine for fare. Avslå tillatelsen for å hindre at dette kan skje.</item>
+        <item quantity="one">Du har gitt denne appen tillatelse til å installere eller oppdatere ukjente apper. Dette kan utsette enheten din og personopplysningene dine for fare. Avslå tillatelsen for å hindre at dette kan skje.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120059">
+        <item quantity="other">Du har gitt %1$d apper tillatelse til å installere eller oppdatere ukjente apper. Dette kan utsette enheten din og personopplysningene dine for fare</item>
+        <item quantity="one">Du har gitt 1 app tillatelse til å installere eller oppdatere ukjente apper. Dette kan utsette enheten din og personopplysningene dine for fare</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005a">
+        <item quantity="other">%1$d personvernadvarsler</item>
+        <item quantity="one">1 personvernadvarsel</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005b">
+        <item quantity="other">Fant %1$d skadelige apper</item>
+        <item quantity="one">Fant 1 skadelig app</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005c">
+        <item quantity="other">%1$d sikkerhetsvarsler</item>
+        <item quantity="one">1 sikkerhetsvarsel</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005d">
+        <item quantity="other">%1$d sikkerhetsoppdateringer</item>
+        <item quantity="one">1 sikkerhetsoppdatering</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005e">
+        <item quantity="other">Fant %1$d utrygge apper</item>
+        <item quantity="one">Fant 1 utrygg app</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005f">
+        <item quantity="other">%1$d advarsler</item>
+        <item quantity="one">1 advarsel</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120060">
+        <item quantity="other">Fant utrygge apper</item>
+        <item quantity="one">Fant en utrygg app</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120061">
+        <item quantity="other">Avsluttes om %1$d timer</item>
+        <item quantity="one">Avsluttes om %1$d time</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120062">
+        <item quantity="other">Avsluttes om %1$d dager</item>
+        <item quantity="one">Avsluttes om %1$d dag</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120063">
+        <item quantity="other">%1$d av %2$d trinn er fullført</item>
+        <item quantity="one">%1$d av %2$d trinn er fullført</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120064">
+        <item quantity="other">Klar til å installere %1$d apper</item>
+        <item quantity="one">Klar til å installere %1$d app</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120065">
+        <item quantity="other">%1$s sender deg %2$d apper. Sørg for at sammenkoblingskoden samsvarer.</item>
+        <item quantity="one">%1$s sender deg %2$d app. Sørg for at sammenkoblingskoden samsvarer.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120066">
+        <item quantity="other">Mottar %1$d apper fra «%2$s» …</item>
+        <item quantity="one">Mottar %1$d app fra «%2$s» …</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006a">
+        <item quantity="other">%1$d brukere syntes at denne anmeldelsen var nyttig. Markér kommentaren som nyttig</item>
+        <item quantity="one">%1$d bruker syntes at denne anmeldelsen var nyttig. Markér kommentaren som nyttig</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006b">
+        <item quantity="other">%1$d brukere syntes at denne anmeldelsen var nyttig. Fjern markeringen som nyttig fra kommentaren</item>
+        <item quantity="one">%1$d bruker syntes at denne anmeldelsen var nyttig. Fjern markeringen som nyttig fra kommentaren</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006c">
+        <item quantity="other">%1$s personer syntes dette var nyttig</item>
+        <item quantity="one">%1$s person syntes dette var nyttig</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006f">
+        <item quantity="other">%1$d sekunder</item>
+        <item quantity="one">%1$d sekund</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120070">
+        <item quantity="other">%1$d sekunder igjen</item>
+        <item quantity="one">1 sekund igjen</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120071">
+        <item quantity="other">%1$d er valgt • %2$s</item>
+        <item quantity="one">%1$d er valgt • %2$s</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120072">
+        <item quantity="other">Sender %1$d apper til «%2$s» …</item>
+        <item quantity="one">Sender %1$d app til «%2$s» …</item>
+    </plurals>
+    <plurals name="setup_completed_installed">
+        <item quantity="other">%1$d apper er installert</item>
+        <item quantity="one">%1$d app er installert</item>
+    </plurals>
+    <plurals name="setup_completed_installed_with_failures">
+        <item quantity="other">Kunne ikke installere %1$d av %2$d apper</item>
+        <item quantity="one">Kunne ikke installere %1$d av %2$d app</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120075">
+        <item quantity="other">Sist brukt for %1$d dager siden</item>
+        <item quantity="one">Sist brukt for %1$d dag siden</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120076">
+        <item quantity="other">Gjenopprett de %1$d valgte appene</item>
+        <item quantity="one">Gjenopprett den valgte appen</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120078">
+        <item quantity="other">Vil du laste ned %1$d nye språk?</item>
+        <item quantity="one">Vil du laste ned ett nytt språk?</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007b">
+        <item quantity="other">%1$d svar på undersøkelser blir fjernet permanent fra kontoen din.</item>
+        <item quantity="one">%1$d svar på undersøkelser blir fjernet permanent fra kontoen din.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007c">
+        <item quantity="other">%1$d er valgt</item>
+        <item quantity="one">%1$d er valgt</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007d">
+        <item quantity="other">Vis Play-poeng. Du har %1$d poeng.</item>
+        <item quantity="one">Vis Play-poeng. Du har %1$d poeng.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007e">
+        <item quantity="other">Du har %1$d Play-poeng.</item>
+        <item quantity="one">Du har %1$d Play-poeng.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120080">
+        <item quantity="other">%1$s poeng</item>
+        <item quantity="one">1 poeng</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120081">
+        <item quantity="other">Overfører %1$d apper med «%2$s» …</item>
+        <item quantity="one">Overfører %1$d app med «%2$s» …</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120082">
+        <item quantity="other">%1$d apper avinstalleres fra enheten</item>
+        <item quantity="one">%1$d app avinstalleres fra enheten</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120083">
+        <item quantity="other">Vil du avinstallere de valgte appene?</item>
+        <item quantity="one">Vil du avinstallere den valgte appen?</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120084">
+        <item quantity="other">Avinstallere oppdateringer for de valgte appene?</item>
+        <item quantity="one">Avinstallere oppdateringer for den valgte appen?</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120085">
+        <item quantity="other">%1$s apper ble fjernet, slik at det er nok plass til %2$s.</item>
+        <item quantity="one">%1$s app ble fjernet, slik at det er nok plass til %2$s.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120086">
+        <item quantity="other">Appene installeres snart.</item>
+        <item quantity="one">Appen installeres snart.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120087">
+        <item quantity="other">Appoppdateringene installeres snart.</item>
+        <item quantity="one">Appoppdateringen installeres snart.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008a">
+        <item quantity="other">Sist brukt for %1$d dager siden</item>
+        <item quantity="one">Sist brukt for %1$d dag siden</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008b">
+        <item quantity="other">Sist brukt for %1$d måneder siden</item>
+        <item quantity="one">Sist brukt for %1$d måned siden</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008c">
+        <item quantity="other">For å installere apper eller oppdateringer på denne enheten, fjern apper du ikke trenger lenger. Du kan også frigjøre plass ved å slette mediefiler i lagringsinnstillingene.</item>
+        <item quantity="one">For å installere en app eller oppdatering på denne enheten, fjern apper du ikke trenger lenger. Du kan også frigjøre plass ved å slette mediefiler i lagringsinnstillingene.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008d">
+        <item quantity="other">For å installere apper eller oppdateringer på denne enheten, fjern apper du ikke trenger lenger. Du kan også frigjøre plass ved å slette mediefiler i &lt;a href=\"\">Innstillinger > Lagring&lt;/a>.</item>
+        <item quantity="one">For å installere en app eller oppdatering på denne enheten, fjern apper du ikke trenger lenger. Du kan også frigjøre plass ved å slette mediefiler i &lt;a href=\"\">Innstillinger > Lagring&lt;/a>.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008e">
+        <item quantity="other">For å installere apper eller oppdateringer på denne enheten, fjern apper du ikke trenger lenger. Du kan også frigjøre plass ved å slette mediefiler i Innstillinger > Lagring.</item>
+        <item quantity="one">For å installere en app eller oppdatering på denne enheten, fjern apper du ikke trenger lenger. Du kan også frigjøre plass ved å slette mediefiler i Innstillinger > Lagring.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008f">
+        <item quantity="other">%1$d apper er avinstallert</item>
+        <item quantity="one">%1$d app er avinstallert</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120090">
+        <item quantity="other">Vi fant %1$d apper du ikke har brukt på en stund. Hvis du fjerner dem, får du %2$d MB mer lagringsplass</item>
+        <item quantity="one">Vi fant %1$d app du ikke har brukt på en stund. Hvis du fjerner den, får du %2$d MB mer lagringsplass</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120091">
+        <item quantity="other">Begynner om %1$d timer</item>
+        <item quantity="one">Begynner om %1$d time</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120092">
+        <item quantity="other">Begynner om %1$d dager</item>
+        <item quantity="one">Begynner om %1$d dag</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120093">
+        <item quantity="other">Tilgjengelig om %1$d timer</item>
+        <item quantity="one">Tilgjengelig om %1$d time</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120094">
+        <item quantity="other">Tilgjengelig om %1$d dager</item>
+        <item quantity="one">Tilgjengelig om %1$d dag</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120095">
+        <item quantity="other">Systemet på denne enheten er ikke oppdatert på over %1$d måneder</item>
+        <item quantity="one">Systemet på denne enheten er ikke oppdatert på over %1$d måned</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120096">
+        <item quantity="other">Jobbappene er fjernet</item>
+        <item quantity="one">Jobbappen er fjernet</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120097">
+        <item quantity="other">For %1$d år siden</item>
+        <item quantity="one">For %1$d år siden</item>
+    </plurals>
+</resources>

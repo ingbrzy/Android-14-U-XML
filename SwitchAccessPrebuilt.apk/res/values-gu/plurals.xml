@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dots">
+        <item quantity="other">ડૉટ %s</item>
+        <item quantity="one">ડૉટ %s</item>
+    </plurals>
+    <plurals name="gestures_recorded_message">
+        <item quantity="other">%d સંકેત રેકોર્ડ કર્યા</item>
+        <item quantity="one">%d સંકેત રેકોર્ડ કર્યો</item>
+    </plurals>
+    <plurals name="label_num_keys_assigned_format">
+        <item quantity="other">%d સ્વિચની સોંપણી કરી</item>
+        <item quantity="one">%d સ્વિચની સોંપણી કરી</item>
+    </plurals>
+    <plurals name="label_num_scanning_loops_format">
+        <item quantity="other">%d લૂપ</item>
+        <item quantity="one">%d લૂપ</item>
+    </plurals>
+    <plurals name="line_speed_summary_format">
+        <item quantity="other">%.2f સેન્ટિમીટર પ્રતિ સેકન્ડ</item>
+        <item quantity="one">%.2f સેન્ટિમીટર પ્રતિ સેકન્ડ</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d નવા નોટિફિકેશન</item>
+        <item quantity="one">%d નવું નોટિફિકેશન</item>
+    </plurals>
+    <plurals name="time_delay_summary_format">
+        <item quantity="other">%.2f સેકન્ડ</item>
+        <item quantity="one">%.2f સેકન્ડ</item>
+    </plurals>
+</resources>

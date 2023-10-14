@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bugreport_in_progress_title">Bug report #%1$d is %2$s complete</string>
+</resources>

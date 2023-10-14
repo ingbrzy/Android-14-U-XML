@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_menu">مینیو</string>
+    <string name="call_notification_answer_action">جواب دیں</string>
+    <string name="call_notification_answer_video_action">ویڈیو</string>
+    <string name="call_notification_decline_action">مسترد کریں</string>
+    <string name="call_notification_hang_up_action">منقطع کر دیں</string>
+    <string name="call_notification_incoming_text">اِن کمنگ کال</string>
+    <string name="call_notification_ongoing_text">جاری کال</string>
+    <string name="call_notification_screening_text">اِن کمنگ کال کی اسکریننگ</string>
+    <string name="error_generic">آپ کے کارڈز حاصل کرنے میں ایک مسئلہ درپیش تھا، براہ کرم بعد میں دوبارہ کوشش کریں</string>
+    <string name="error_user_locked">اپنی ادائیگی کی معلومات لوڈ کرنے کے لیے اپنا فون غیر مقفل کریں</string>
+    <string name="settings">ترتیبات</string>
+    <string name="status_bar_notification_info_overflow">+999</string>
+</resources>

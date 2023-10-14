@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120000">
+        <item quantity="other">Wi-Fiን በመጠበቅ ላይ</item>
+        <item quantity="one">Wi-Fiን በመጠበቅ ላይ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120002">
+        <item quantity="other">በዚህ መሣሪያ ላይ (%d መተግበሪያዎች)</item>
+        <item quantity="one">በዚህ መሣሪያ ላይ (%d መተግበሪያዎች)</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120003">
+        <item quantity="other">ባህሪዎች ለ%1$s</item>
+        <item quantity="one">ባህሪዎች ለ%1$s</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120004">
+        <item quantity="other">ከ%d ቀናት በፊት ተጭነዋል</item>
+        <item quantity="one">ከ%d ቀናት በፊት ተጭነዋል</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120005">
+        <item quantity="other">ከ%d ሰዓታት በፊት ተጭነዋል</item>
+        <item quantity="one">ከ%d ሰዓታት በፊት ተጭነዋል</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120006">
+        <item quantity="other">ከ%d ደቂቃዎች በፊት ተጭነዋል</item>
+        <item quantity="one">ከ%d ደቂቃዎች በፊት ተጭነዋል</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120007">
+        <item quantity="other">%1$d ተመርጠዋል</item>
+        <item quantity="one">%1$d ተመርጧል</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120008">
+        <item quantity="other">ከ%d ቀኖች በፊት ተዘምኗል</item>
+        <item quantity="one">ከ%d ቀኖች በፊት ተዘምኗል</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120009">
+        <item quantity="other">ከ%d ሰዓቶች በፊት ተዘምኗል</item>
+        <item quantity="one">ከ%d ሰዓቶች በፊት ተዘምኗል</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000a">
+        <item quantity="other">ከ%d ደቂቃዎች በፊት ተዘምኗል</item>
+        <item quantity="one">ከ%d ደቂቃ በፊት ተዘምኗል</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000b">
+        <item quantity="other">ለመጨረሻ ጊዜ ጥቅም ላይ የዋለው ከ%d ቀኖች በፊት</item>
+        <item quantity="one">ለመጨረሻ ጊዜ ጥቅም ላይ የዋለው ከ%d ቀኖች በፊት</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000c">
+        <item quantity="other">ለመጨረሻ ጊዜ ጥቅም ላይ የዋለው ከ%d ሰዓታት በፊት</item>
+        <item quantity="one">ለመጨረሻ ጊዜ ጥቅም ላይ የዋለው ከ%d ሰዓታት በፊት</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000d">
+        <item quantity="other">ለመጨረሻ ጊዜ ጥቅም ላይ የዋለው ከ%d ደቂቃዎች በፊት</item>
+        <item quantity="one">ለመጨረሻ ጊዜ ጥቅም ላይ የዋለው ከ%d ደቂቃዎች በፊት</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000f">
+        <item quantity="other">መተግበሪያዎች ከ%d ቀናት በፊት ተቃኝተዋል</item>
+        <item quantity="one">መተግበሪያዎች ከ%d ቀናት በፊት ተቃኝተዋል</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120010">
+        <item quantity="other">መተግበሪያዎች ከ%d ሰዓቶች በፊት ተቃኝተዋል</item>
+        <item quantity="one">መተግበሪያዎች ከ%d ሰዓቶች በፊት ተቃኝተዋል</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120011">
+        <item quantity="other">መተግበሪያዎች ከ%d ደቂቃዎች በፊት ተቃኝተዋል</item>
+        <item quantity="one">መተግበሪያዎች ከ%d ደቂቃዎች በፊት ተቃኝተዋል</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120014">
+        <item quantity="other">%1$d ግምገማዎች</item>
+        <item quantity="one">%1$d ግምገማዎች</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120015">
+        <item quantity="other">%1$d ግምገማዎች ለኮከብ ደረጃ %2$d</item>
+        <item quantity="one">%1$d ግምገማዎች ለኮከብ ደረጃ %2$d</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120016">
+        <item quantity="other">%1$d መሣሪያዎች ላይ ይጫኑ።</item>
+        <item quantity="one">%1$d መሣሪያዎች ላይ ይጫኑ።</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120017">
+        <item quantity="other">%1$d መሣሪያዎች ላይ ይጫኑ። ተጨማሪ መሣሪያዎች ይገኛሉ።</item>
+        <item quantity="one">%1$d መሣሪያዎች ላይ ይጫኑ። ተጨማሪ መሣሪያዎች ይገኛሉ።</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120018">
+        <item quantity="other">ይህ መተግበሪያ በእርስዎ %1$d መሣሪያዎች ላይ በቅርቡ ይጫናል።</item>
+        <item quantity="one">ይህ መተግበሪያ በእርስዎ %1$d መሣሪያዎች ላይ በቅርቡ ይጫናል።</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120019">
+        <item quantity="other">%1$d ተጨማሪዎች ይገኛሉ</item>
+        <item quantity="one">%1$d ተጨማሪዎች ይገኛሉ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001a">
+        <item quantity="other">%1$d ተጨማሪዎች ከግዢ ጋር ይገኛሉ</item>
+        <item quantity="one">%1$d ተጨማሪዎች ከግዢ ጋር ይገኛሉ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001b">
+        <item quantity="other">%1$d ቀኖች</item>
+        <item quantity="one">%1$d ቀኖች</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001c">
+        <item quantity="other">አማካይ ደረጃ አሰጣጥ %1$s ኮከቦች በ %2$s ግምገማዎች</item>
+        <item quantity="one">አማካይ ደረጃ አሰጣጥ %1$s ኮከቦች በ %2$s ግምገማዎች</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001d">
+        <item quantity="other">%s ግምገማዎች</item>
+        <item quantity="one">%s ግምገማዎች</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001e">
+        <item quantity="other">አሁን ገንቢ ለመሆን %1$d ደረጃዎች ይቀረዎታል።</item>
+        <item quantity="one">አሁን ገንቢ ለመሆን %1$d ደረጃዎች ይቀርዎታል።</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001f">
+        <item quantity="other">መኪናዎች</item>
+        <item quantity="one">መኪናዎች</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120020">
+        <item quantity="other">Chromebooks</item>
+        <item quantity="one">Chromebook</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120021">
+        <item quantity="other">ሊታጠፉ የሚችሉ</item>
+        <item quantity="one">ሊታጠፉ የሚችሉ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120022">
+        <item quantity="other">ስልኮች</item>
+        <item quantity="one">ስልኮች</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120023">
+        <item quantity="other">ጡባዊዎች</item>
+        <item quantity="one">ጡባዊዎች</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120024">
+        <item quantity="other">ቴሌቪዥኖች</item>
+        <item quantity="one">ቴሌቪዥኖች</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120025">
+        <item quantity="other">መሣሪያዎች</item>
+        <item quantity="one">መሣሪያ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120026">
+        <item quantity="other">የእጅ ሰዓቶች</item>
+        <item quantity="one">የእጅ ሰዓቶች</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120027">
+        <item quantity="other">%1$d የPlay Points ይገኛሉ።</item>
+        <item quantity="one">%1$d የPlay Points ይገኛሉ።</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120028">
+        <item quantity="other">%1$d ሰዓቶች</item>
+        <item quantity="one">%1$d ሰዓቶች</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120029">
+        <item quantity="other">%1$d ሰዓቶች ቀርተዋል</item>
+        <item quantity="one">%1$d ሰዓቶች ቀርተዋል</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002a">
+        <item quantity="other">%1$d መተግበሪያዎችን በመጫን ላይ…</item>
+        <item quantity="one">%1$d መተግበሪያዎችን በመጫን ላይ…</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002b">
+        <item quantity="other">ጭነቶች ባሉበት ቆመዋል</item>
+        <item quantity="one">ጭነቶች ባሉበት ቆመዋል</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002c">
+        <item quantity="other">%1$d መተግበሪያዎች ይጫናሉ</item>
+        <item quantity="one">%1$d መተግበሪያዎች ይጫናሉ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002d">
+        <item quantity="other">ለመጨረሻ ጊዜ ከ%d ቀኖች በፊት</item>
+        <item quantity="one">ለመጨረሻ ጊዜ ከ%d ቀኖች በፊት</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002e">
+        <item quantity="other">ለመጨረሻ ጊዜ የተዘመነው ከ%d ሰዓቶች በፊት</item>
+        <item quantity="one">ለመጨረሻ ጊዜ የተዘመነው ከ%d ሰዓቶች በፊት</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002f">
+        <item quantity="other">ለመጨረሻ ጊዜ የተዘመነው ከ%d ደቂቃዎች በፊት</item>
+        <item quantity="one">ለመጨረሻ ጊዜ የተዘመነው ከ%d ደቂቃዎች በፊት</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120033">
+        <item quantity="other">ከ%1$d ዓመታት በፊት</item>
+        <item quantity="one">ከ%1$d ዓመታት በፊት</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120034">
+        <item quantity="other">%1$d ደቂቃዎች</item>
+        <item quantity="one">%1$d ደቂቃዎች</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120035">
+        <item quantity="other">%1$d ደቂቃዎች ቀርተዋል</item>
+        <item quantity="one">%1$d ደቂቃዎች ቀርተዋል</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120037">
+        <item quantity="other">%1$d ተመርጠዋል</item>
+        <item quantity="one">%1$d ተመርጧል</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120038">
+        <item quantity="other">%1$d መተግበሪያዎችን በማህደር በማስቀመጥ ላይ</item>
+        <item quantity="one">%1$d መተግበሪያን በማህደር በማስቀመጥ ላይ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120039">
+        <item quantity="other">የተመረጡት መተግበሪያዎች ይወገዱ?</item>
+        <item quantity="one">የተመረጠው መተግበሪያ ይወገድ?</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12003a">
+        <item quantity="other">%1$d መተግበሪያዎች ተወግደዋል</item>
+        <item quantity="one">%1$d መተግበሪያ ተወግዷል</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12003d">
+        <item quantity="other">%1$d ጭነቶች በመጠባበቅ ላይ</item>
+        <item quantity="one">%1$d ጭነት በመጠባበቅ ላይ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12003e">
+        <item quantity="other">%1$d ጭነቶች በሂደት ላይ</item>
+        <item quantity="one">%1$d ጭነት በሂደት ላይ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120040">
+        <item quantity="other">%1$d ዝማኔዎች በመጠባበቅ ላይ</item>
+        <item quantity="one">%1$d ዝማኔ በመጠባበቅ ላይ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120041">
+        <item quantity="other">%1$d ዝማኔዎች በሂደት ላይ</item>
+        <item quantity="one">%1$d ዝማኔ በሂደት ላይ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120042">
+        <item quantity="other">%1$d መተግበሪያዎች ተጭነዋል</item>
+        <item quantity="one">%1$d መተግበሪያዎች ተጭነዋል</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120044">
+        <item quantity="other">ከ%1$d ሰዓቶች በፊት የተለቀቀ</item>
+        <item quantity="one">ከ%1$d ሰዓቶች በፊት የተለቀቀ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120045">
+        <item quantity="other">ከ%1$d ቀኖች በፊት የተለቀቀ</item>
+        <item quantity="one">ከ%1$d ቀኖች በፊት የተለቀቀ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120046">
+        <item quantity="other">መተግበሪያዎች ተወግደዋል</item>
+        <item quantity="one">መተግበሪያዎች ተወግደዋል</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120047">
+        <item quantity="other">%1$d ዝማኔዎች ማጽደቅ ያስፈልጋቸዋል</item>
+        <item quantity="one">%1$d ዝማኔዎች ማጽደቅ ያስፈልጋቸዋል</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120048">
+        <item quantity="other">%1$d አዲስ ዝማኔዎች</item>
+        <item quantity="one">%1$d አዲስ ዝማኔዎች</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120049">
+        <item quantity="other">%1$d ዝማኔዎች ይገኛሉ</item>
+        <item quantity="one">%1$d ዝማኔዎች ይገኛሉ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004a">
+        <item quantity="other">ሁሉንም አዘምን</item>
+        <item quantity="one">ሁሉንም አዘምን</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004b">
+        <item quantity="other">%1$d መተግበሪያዎች ተዘምነዋል</item>
+        <item quantity="one">%1$d መተግበሪያዎች ተዘምነዋል</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004c">
+        <item quantity="other">በ%1$d ሰዓቶች ውስጥ ያበቃል</item>
+        <item quantity="one">በ%1$d ሰዓቶች ውስጥ ያበቃል</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004d">
+        <item quantity="other">በ%1$d ቀኖች ውስጥ ያበቃል</item>
+        <item quantity="one">በ%1$d ቀኖች ውስጥ ያበቃል</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004e">
+        <item quantity="other">%1$d ደቂቃዎች</item>
+        <item quantity="one">%1$d ደቂቃዎች</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004f">
+        <item quantity="other">%1$d ሰከንዶች</item>
+        <item quantity="one">%1$d ሰከንዶች</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120050">
+        <item quantity="other">የግል መተግበሪያዎች ተወግደዋል</item>
+        <item quantity="one">የግል መተግበሪያዎች ተወግደዋል</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120053">
+        <item quantity="other">Play ጥቃት መከላከያ ከ%d ቀኖች በፊት ቃኝቷል</item>
+        <item quantity="one">Play ጥቃት መከላከያ ከ%d ቀኖች በፊት ቃኝቷል</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120054">
+        <item quantity="other">Play ጥቃት መከላከያ ከ%d ሰዓቶች በፊት ቃኝቷል</item>
+        <item quantity="one">Play ጥቃት መከላከያ ከ%d ሰዓቶች በፊት ቃኝቷል</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120055">
+        <item quantity="other">Play ጥቃት መከላከያ ከ%d ደቂቃዎች በፊት ቃኝቷል</item>
+        <item quantity="one">Play ጥቃት መከላከያ ከ%d ደቂቃዎች በፊት ቃኝቷል</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120056">
+        <item quantity="other">%1$s ነጥቦች %2$sን ለሚቀጥለው ዓመት ለማቆየት</item>
+        <item quantity="one">%1$s ነጥቦች %2$sን ለሚቀጥለው ዓመት ለማቆየት</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120057">
+        <item quantity="other">%1$s ነጥቦች ለ %2$s</item>
+        <item quantity="one">%1$s ነጥቦች ለ %2$s</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120058">
+        <item quantity="other">እነዚህ መተግበሪያዎች ያልታወቁ መተግበሪያዎችን እንዲጭኑ ወይም እንዲያዘምኑ ፈቃድ ሰጥተውታል፣ ይህም መሣሪያዎን እና የግል መረጃዎን አደጋ ላይ ሊጥለው ይችላል እንዳይጭኑ ለመከላከል ፈቃድን ይከልክሉ።</item>
+        <item quantity="one">እነዚህ መተግበሪያዎች ያልታወቁ መተግበሪያዎችን እንዲጭኑ ወይም እንዲያዘምኑ ፈቃድ ሰጥተውታል፣ ይህም መሣሪያዎን እና የግል መረጃዎን አደጋ ላይ ሊጥለው ይችላል እንዳይጭኑ ለመከላከል ፈቃድን ይከልክሉ።</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120059">
+        <item quantity="other">%1$d መተግበሪያዎች ፈቃድ ያልታወቁ መተግበሪያዎችን እንዲጭኑ ወይም እንዲያዘምኑ ፈቃድ ሰጥተውታል፣ ይህም መሣሪያዎን እና የግል መረጃዎን አደጋ ላይ ሊጥለው ይችላል</item>
+        <item quantity="one">%1$d መተግበሪያዎች ፈቃድ ያልታወቁ መተግበሪያዎችን እንዲጭኑ ወይም እንዲያዘምኑ ፈቃድ ሰጥተውታል፣ ይህም መሣሪያዎን እና የግል መረጃዎን አደጋ ላይ ሊጥለው ይችላል</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005a">
+        <item quantity="other">%1$d የግላዊነት ማስጠንቀቂያዎች</item>
+        <item quantity="one">%1$d የግላዊነት ማስጠንቀቂያዎች</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005b">
+        <item quantity="other">%1$d ጎጂ መተግበሪያዎች ተገኝተዋል</item>
+        <item quantity="one">%1$d ጎጂ መተግበሪያዎች ተገኝተዋል</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005c">
+        <item quantity="other">%1$d የደህንነት ማሳወቂያዎች</item>
+        <item quantity="one">%1$d የደህንነት ማሳወቂያዎች</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005d">
+        <item quantity="other">%1$d የደህንነት ዝማኔዎች</item>
+        <item quantity="one">%1$d የደህንነት ዝማኔ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005e">
+        <item quantity="other">%1$d ደህንነታቸው ያልተጠበቀ መተግበሪያዎች ተገኝተዋል</item>
+        <item quantity="one">%1$d ደህንነታቸው ያልተጠበቀ መተግበሪያዎች ተገኝተዋል</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005f">
+        <item quantity="other">%1$d ማስጠንቀቂያዎች</item>
+        <item quantity="one">%1$d ማስጠንቀቂያዎች</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120060">
+        <item quantity="other">ደህንነታቸው ያልተጠበቀ መተግበሪያዎች ተገኝተዋል</item>
+        <item quantity="one">ደህንነታቸው ያልተጠበቀ መተግበሪያዎች ተገኝተዋል</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120061">
+        <item quantity="other">በ%1$d ሰዓቶች ውስጥ ያበቃል</item>
+        <item quantity="one">በ%1$d ሰዓቶች ውስጥ ያበቃል</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120062">
+        <item quantity="other">በ%1$d ቀኖች ውስጥ ያበቃል</item>
+        <item quantity="one">በ%1$d ቀኖች ውስጥ ያበቃል</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120063">
+        <item quantity="other">ከ%2$d ደረጃዎች %1$d ተጠናቀዋል</item>
+        <item quantity="one">ከ%2$d ደረጃ %1$d ተጠናቅቋል</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120064">
+        <item quantity="other">%1$d መተግበሪያዎችን ለመጫን ዝግጁ</item>
+        <item quantity="one">%1$d መተግበሪያዎችን ለመጫን ዝግጁ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120065">
+        <item quantity="other">%1$s %2$d መተግበሪያዎችን ይልክልዎታል። የማጣመሪያ ኮዱ የሚዛመድ መሆኑን ያረጋግጡ።</item>
+        <item quantity="one">%1$s %2$d መተግበሪያዎችን ይልክልዎታል። የማጣመሪያ ኮዱ የሚዛመድ መሆኑን ያረጋግጡ።</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120066">
+        <item quantity="other">%1$d መተግበሪያዎችን ከ «%2$s» በመቀበል ላይ…</item>
+        <item quantity="one">%1$d መተግበሪያዎችን ከ «%2$s» በመቀበል ላይ…</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006a">
+        <item quantity="other">%1$d ተጠቃሚዎች ይህን ግምገማ ጠቃሚ ሆኖ አግኝተውታል። አስተያየት አጋዥ እንደሆነ ምልክት ያድርጉበት</item>
+        <item quantity="one">%1$d ተጠቃሚዎች ይህን ግምገማ ጠቃሚ ሆኖ አግኝተውታል። አስተያየት አጋዥ እንደሆነ ምልክት ያድርጉበት</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006b">
+        <item quantity="other">%1$d ተጠቃሚዎች ይህን ግምገማ ጠቃሚ ሆኖ አግኝተውታል። አስተያየቱ አጋዥ እንደሆነ ምልክት አታድርግ</item>
+        <item quantity="one">%1$d ተጠቃሚዎች ይህን ግምገማ ጠቃሚ ሆኖ አግኝተውታል። አስተያየቱ አጋዥ እንደሆነ ምልክት አታድርግ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006c">
+        <item quantity="other">%1$s ሰዎች ይህን አጋዥ ሆኖ አግኝተውታል</item>
+        <item quantity="one">%1$s ሰዎች ይህን አጋዥ ሆኖ አግኝተውታል</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006f">
+        <item quantity="other">%1$d ሰከንዶች</item>
+        <item quantity="one">%1$d ሰከንዶች</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120070">
+        <item quantity="other">%1$d ሰከንዶች ቀርተዋል</item>
+        <item quantity="one">%1$d ሰከንዶች ቀርተዋል</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120071">
+        <item quantity="other">%1$d ተመርጧል • %2$s</item>
+        <item quantity="one">%1$d ተመርጧል • %2$s</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120072">
+        <item quantity="other">%1$d መተግበሪያዎችን ወደ «%2$s» በመላክ ላይ…</item>
+        <item quantity="one">%1$d መተግበሪያዎችን ወደ «%2$s» በመላክ ላይ…</item>
+    </plurals>
+    <plurals name="setup_completed_installed">
+        <item quantity="other">%1$d መተግበሪያዎች ተጭነዋል</item>
+        <item quantity="one">%1$d መተግበሪያዎች ተጭነዋል</item>
+    </plurals>
+    <plurals name="setup_completed_installed_with_failures">
+        <item quantity="other">ከ%2$d መተግበሪያዎች %1$d መጫን አልተቻለም</item>
+        <item quantity="one">ከ%2$d መተግበሪያዎች %1$d መጫን አልተቻለም</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120075">
+        <item quantity="other">ለመጨረሻ ጊዜ ጥቅም ላይ የዋለው%1$d ቀን በፊት</item>
+        <item quantity="one">ለመጨረሻ ጊዜ ጥቅም ላይ የዋለው%1$d ቀን በፊት</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120076">
+        <item quantity="other">የተመረጡትን %1$d መተግበሪያዎች ወደነበሩበት መልስ</item>
+        <item quantity="one">የተመረጡትን %1$d መተግበሪያዎች ወደነበሩበት መልስ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120078">
+        <item quantity="other">%1$d አዲስ ቋንቋዎች ይውረዱ?</item>
+        <item quantity="one">%1$d አዲስ ቋንቋዎች ይውረዱ?</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007b">
+        <item quantity="other">%1$d የዳሰሳ ጥናት ምላሾች እስከመጨረሻው ከመለያዎ ይወገዳሉ።</item>
+        <item quantity="one">%1$d የዳሰሳ ጥናት ምላሾች እስከመጨረሻው ከመለያዎ ይወገዳሉ።</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007c">
+        <item quantity="other">%1$d ተመርጧል</item>
+        <item quantity="one">%1$d ተመርጧል</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007d">
+        <item quantity="other">የPlay Points አሳይ። %1$d Points ይገኛሉ።</item>
+        <item quantity="one">የPlay Points አሳይ። %1$d ነጥቦች ይገኛሉ።</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007e">
+        <item quantity="other">%1$d የPlay Points ይገኛሉ።</item>
+        <item quantity="one">%1$d የPlay Points ይገኛሉ።</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120080">
+        <item quantity="other">%1$s ነጥቦች</item>
+        <item quantity="one">%1$s ነጥቦች</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120081">
+        <item quantity="other">%1$d መተግበሪያዎችን በ«%2$s» አማካኝነት በማስተላለፍ ላይ…</item>
+        <item quantity="one">%1$d መተግበሪያዎችን በ«%2$s» አማካኝነት በማስተላለፍ ላይ…</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120082">
+        <item quantity="other">%1$d መተግበሪያዎች ከእርስዎ መሣሪያ ላይ ይራገፋሉ።</item>
+        <item quantity="one">%1$d መተግበሪያዎች ከእርስዎ መሣሪያ ላይ ይራገፋሉ።</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120083">
+        <item quantity="other">የተመረጡ መተግበሪያዎች ይራገፉ?</item>
+        <item quantity="one">የተመረጡ መተግበሪያዎች ይራገፉ?</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120084">
+        <item quantity="other">ለተመረጡ መተግበሪያዎች ዝመኔዎች ይራገፉ?</item>
+        <item quantity="one">ለተመረጡ መተግበሪያዎች ዝመኔዎች ይራገፉ?</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120085">
+        <item quantity="other">%1$s መተግበሪያዎች ተወግደዋል፣ ለ%2$s በቂ ቦታ ትተዋል።</item>
+        <item quantity="one">%1$s መተግበሪያዎች ተወግደዋል፣ ለ%2$s በቂ ቦታ ትተዋል።</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120086">
+        <item quantity="other">መተግበሪያዎች በቅርቡ ይጫናሉ።</item>
+        <item quantity="one">መተግበሪያዎች በቅርቡ ይጫናሉ።</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120087">
+        <item quantity="other">የመተግበሪያ ዝማኔዎች በቅርቡ ይጫናሉ።</item>
+        <item quantity="one">የመተግበሪያ ዝማኔዎች በቅርቡ ይጫናሉ።</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008a">
+        <item quantity="other">ለመጨረሻ ጊዜ ጥቅም ላይ የዋለው ከ%1$d ቀኖች በፊት</item>
+        <item quantity="one">ለመጨረሻ ጊዜ ጥቅም ላይ የዋለው ከ%1$d ቀኖች በፊት</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008b">
+        <item quantity="other">ለመጨረሻ ጊዜ ጥቅም ላይ የዋለው ከ%1$d ወሮች በፊት</item>
+        <item quantity="one">ለመጨረሻ ጊዜ ጥቅም ላይ የዋለው ከ%1$d ወሮች በፊት</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008c">
+        <item quantity="other">በዚህ መሣሪያ ላይ መተግበሪያዎችን ወይም ዝማኔዎችን ለመጫን ከአሁን በኋላ የማይፈልጓቸውን መተግበሪያዎች ያስወግዱ። እንዲሁም በማከማቻ ቅንብሮች ውስጥ የማህደረመረጃ ፋይሎችን በመሰረዝ ቦታ ማስለቀቅ ይችላሉ።</item>
+        <item quantity="one">በዚህ መሣሪያ ላይ መተግበሪያዎችን ወይም ዝማኔዎችን ለመጫን ከአሁን በኋላ የማይፈልጓቸውን መተግበሪያዎች ያስወግዱ። እንዲሁም በማከማቻ ቅንብሮች ውስጥ የማህደረመረጃ ፋይሎችን በመሰረዝ ቦታ ማስለቀቅ ይችላሉ።</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008d">
+        <item quantity="other">በዚህ መሣሪያ ላይ መተግበሪያዎችን ወይም ዝማኔዎችን ለመጫን ከአሁን በኋላ የማይፈልጓቸውን መተግበሪያዎች ያስወግዱ። እንዲሁም በ&lt;a href=\"\">ቅንብሮች > ማከማቻ&lt;/a> ውስጥ የማህደረመረጃ ፋይሎችን በመሰረዝ ቦታ ማስለቀቅ ይችላሉ።</item>
+        <item quantity="one">በዚህ መሣሪያ ላይ መተግበሪያዎችን ወይም ዝማኔዎችን ለመጫን ከአሁን በኋላ የማይፈልጓቸውን መተግበሪያዎች ያስወግዱ። እንዲሁም በ&lt;a href=\"\">ቅንብሮች > ማከማቻ&lt;/a> ውስጥ የማህደረመረጃ ፋይሎችን በመሰረዝ ቦታ ማስለቀቅ ይችላሉ።</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008e">
+        <item quantity="other">በዚህ መሣሪያ ላይ መተግበሪያዎችን ወይም ዝማኔዎችን ለመጫን ከአሁን በኋላ የማይፈልጓቸውን መተግበሪያዎች ያስወግዱ። እንዲሁም በቅንብሮች > ማከማቻ ውስጥ የማህደረመረጃ ፋይሎችን በመሰረዝ ቦታ ማስለቀቅ ይችላሉ።</item>
+        <item quantity="one">በዚህ መሣሪያ ላይ መተግበሪያዎችን ወይም ዝማኔዎችን ለመጫን ከአሁን በኋላ የማይፈልጓቸውን መተግበሪያዎች ያስወግዱ። እንዲሁም በቅንብሮች > ማከማቻ ውስጥ የማህደረመረጃ ፋይሎችን በመሰረዝ ቦታ ማስለቀቅ ይችላሉ።</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008f">
+        <item quantity="other">%1$d መተግበሪያዎች ተራግፈዋል</item>
+        <item quantity="one">%1$d መተግበሪያዎች ተራግፈዋል</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120090">
+        <item quantity="other">ለሆነ ያህል ጊዜ ያልተጠቀሙባቸው %1$d መተግበሪያዎችን አግኝተናል። እነሱን ማስወገድ %2$d ሜባ ማከማቻ ቦታ ይሰጠዎታል</item>
+        <item quantity="one">ለሆነ ያህል ጊዜ ያልተጠቀሙባቸው %1$d መተግበሪያዎችን አግኝተናል። እነሱን ማስወገድ %2$d ሜባ ማከማቻ ቦታ ይሰጠዎታል</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120091">
+        <item quantity="other">በ%1$d ሰዓቶች ውስጥ ይጀምራል</item>
+        <item quantity="one">በ%1$d ሰዓቶች ውስጥ ይጀምራል</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120092">
+        <item quantity="other">በ%1$d ቀኖች ውስጥ ይጀምራል</item>
+        <item quantity="one">በ%1$d ቀኖች ውስጥ ይጀምራል</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120093">
+        <item quantity="other">በ%1$d ሰዓቶች ውስጥ ይገኛል</item>
+        <item quantity="one">በ%1$d ሰዓቶች ውስጥ ይገኛል</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120094">
+        <item quantity="other">በ%1$d ቀኖች ውስጥ ይገኛል</item>
+        <item quantity="one">በ%1$d ቀኖች ውስጥ ይገኛል</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120095">
+        <item quantity="other">ይህ መሣሪያ ከ%1$d ወራት በላይ ባሉ ጊዜያት ውስጥ የሥርዓት ዝማኔ አልተደረገለትም</item>
+        <item quantity="one">ይህ መሣሪያ ከ%1$d ወር በላይ ባለ ጊዜ ውስጥ የሥርዓት ዝማኔ አልተደረገለትም</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120096">
+        <item quantity="other">የሥራ መተግበሪያዎች ተወግደዋል</item>
+        <item quantity="one">የሥራ መተግበሪያዎች ተወግደዋል</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120097">
+        <item quantity="other">ከ%1$d ዓመታት በፊት</item>
+        <item quantity="one">ከ%1$d ዓመታት በፊት</item>
+    </plurals>
+</resources>

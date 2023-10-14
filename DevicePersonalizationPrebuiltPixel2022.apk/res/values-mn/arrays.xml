@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="call_captions_typing_predictions_post_system_message">
+        <item>Сайн байна уу, хэн бэ?</item>
+        <item>Сайн уу, юу байна даа?</item>
+        <item>Түр хүлээнэ үү</item>
+        <item>Сайн уу, та дараа залгаж болох уу?</item>
+        <item>Сайн уу! Залгасанд баярлалаа.</item>
+    </string-array>
+    <string-array name="captions_settings_enable_for_calls_choices_entries">
+        <item>Тухай бүрд асуух</item>
+        <item>Үргэлж</item>
+        <item>Унтраалттай</item>
+    </string-array>
+    <string-array name="captions_settings_typing_voice_names">
+        <item>A дуу хоолой</item>
+        <item>B дуу хоолой</item>
+        <item>C дуу хоолой</item>
+        <item>D дуу хоолой</item>
+        <item>E дуу хоолой</item>
+        <item>F дуу хоолой</item>
+        <item>G дуу хоолой</item>
+        <item>H дуу хоолой</item>
+        <item>I дуу хоолой</item>
+        <item>J дуу хоолой</item>
+        <item>K дуу хоолой</item>
+        <item>L дуу хоолой</item>
+        <item>M дуу хоолой</item>
+        <item>N дуу хоолой</item>
+        <item>O дуу хоолой</item>
+        <item>P дуу хоолой</item>
+    </string-array>
+    <string-array name="pref_download_policy_entries">
+        <item>Мобайл + Wi-Fi</item>
+        <item>Зөвхөн Wi-Fi</item>
+        <item>Бүү шинэчил</item>
+    </string-array>
+    <string-array name="pref_download_policy_entry_values_placeholder">
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+</resources>

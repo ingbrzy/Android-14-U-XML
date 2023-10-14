@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120000">
+        <item quantity="other">%d taustiņi piešķirti</item>
+        <item quantity="zero">%d taustiņi piešķirti</item>
+        <item quantity="one">%d taustiņš piešķirts</item>
+    </plurals>
+</resources>

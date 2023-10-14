@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_error_bad_calibration">Barmoq izi skaneridan foydalanish imkonsiz. Xizmat koʻrsatish markaziga murojaat qiling yoki g.co/pixel/fingerprintunlock saytidan yordam oling</string>
+    <string name="fingerprint_recalibrate_notification_content">Xizmat koʻrsatish markaziga murojaat qiling yoki g.co/pixel/fingerprintunlock saytidan yordam oling</string>
+    <string name="battery_saver_description_with_learn_more">"Batareya quvvatini uzaytirish uchun Quvvat tejash funksiyasi:
+
+• Tungi mavzuni yoqadi
+• Fondagi harakatlar, vizual effektlar va “Ok Google” kabi boshqa funksiyalarni faolsizlantiradi
+• Tarmoq aloqalarini optimallashtiradi
+
+"<annotation id="url">Batafsil</annotation></string>
+</resources>

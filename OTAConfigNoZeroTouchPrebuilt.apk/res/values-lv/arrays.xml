@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sim_locked_notification_custom_content_array">
+        <item>Lai varētu izmantot šo SIM karti, atbloķējiet tālruni ar lietotni Device Unlock.</item>
+        <item>Lūdzu, sazinieties ar savu mobilo sakaru operatoru.</item>
+    </string-array>
+</resources>

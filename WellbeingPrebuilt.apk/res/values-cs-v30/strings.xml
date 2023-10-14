@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="heads_up_location_permission_description">Díky tomu funkce Pozor na cestu! pozná, že jste venku. Na dalších dvou obrazovkách vyberte <b>Při používání aplikace > Povolit vždy</b>.</string>
+    <string name="wind_down_discovery_notification_text">{DEVICE_TYPE,select, DEVICE_PHONE{Pomocí režimu nočního klidu můžete ztlumit telefon a odstranit barvy obrazovky}DEVICE_TABLET{Pomocí režimu nočního klidu můžete ztlumit tablet a odstranit barvy obrazovky}other{Pomocí režimu nočního klidu můžete ztlumit zařízení a odstranit barvy obrazovky}}</string>
+</resources>

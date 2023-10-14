@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sound_amplifier_html_description">Sound Amplifier हे तीव्र आवाजांना अति तीव्र न करता अस्पष्ट आवाजांना अधिक स्पष्ट करते&lt;br/>&lt;br/> &lt;b>Sound Amplifier कसे वापरावे&lt;/b>&lt;br/> 1. वायर असलेले हेडफोन प्लग इन करा किंवा ब्लूटूथ हेडफोन कनेक्ट करा&lt;br/> 2. Sound Amplifier सुरू करा</string>
+    <string name="sound_amplifier_intro">तुमच्या सभोवतालची आणि तुमच्या डिव्हाइसवरील ऑडिओ गुणवत्ता वाढवण्यासाठी हेडफोनसह साउंड अँप्लिफायर वापरा</string>
+</resources>

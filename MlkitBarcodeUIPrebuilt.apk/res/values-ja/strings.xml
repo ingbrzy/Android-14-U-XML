@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">前に戻る</string>
+    <string name="abc_action_mode_done">完了</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">Space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">検索…</string>
+    <string name="abc_searchview_description_clear">検索キーワードを削除</string>
+    <string name="abc_searchview_description_search">検索</string>
+    <string name="abc_searchview_description_submit">検索キーワードを送信</string>
+    <string name="abc_searchview_description_voice">音声検索</string>
+    <string name="abc_toolbar_collapse_description">折りたたむ</string>
+    <string name="bottom_sheet_button_contact_text">@string/common_view</string>
+    <string name="bottom_sheet_button_matter_text">セットアップ</string>
+    <string name="bottom_sheet_button_no_apps_text">検索</string>
+    <string name="bottom_sheet_button_wifi_text">@string/common_connect</string>
+    <string name="bottom_sheet_copy_error_toast">テキストをクリップボードにコピーできませんでした</string>
+    <string name="bottom_sheet_copy_success_toast">テキストをクリップボードにコピーしました</string>
+    <string name="bottom_sheet_image_view_description">表示されているアプリのアイコン</string>
+    <string name="bottom_sheet_sub_title_no_apps">Google Play での検索</string>
+    <string name="bottom_sheet_title">アプリで開く</string>
+    <string name="bottom_sheet_title_app_found">%1$s で開く</string>
+    <string name="bottom_sheet_title_contact">連絡先情報を表示</string>
+    <string name="bottom_sheet_title_copy_text">テキストをコピーします</string>
+    <string name="bottom_sheet_title_copy_text_button_text">@string/common_copy</string>
+    <string name="bottom_sheet_title_copy_text_button_text_copied">コピーしました</string>
+    <string name="bottom_sheet_title_matter">デバイスのセットアップ</string>
+    <string name="bottom_sheet_title_passkey">パスキーを使用</string>
+    <string name="bottom_sheet_title_payment">お支払い方法</string>
+    <string name="bottom_sheet_title_payment_setup">支払いの設定:</string>
+    <string name="bottom_sheet_title_payment_setup_single_app">支払いの設定: %1$s</string>
+    <string name="bottom_sheet_title_payment_single_app">%1$s でのお支払い</string>
+    <string name="bottom_sheet_title_single_app_button_text">開く</string>
+    <string name="bottom_sheet_title_wifi">Wi-Fi に接続</string>
+    <string name="bottomsheet_action_expand_halfway">下半分を展開</string>
+    <string name="bottomsheet_drag_handle_content_description">ドラッグ ハンドル</string>
+    <string name="camera_permission_dialog_button">OK</string>
+    <string name="camera_permission_dialog_message">"Google Play 開発者サービスが %1$s のコードをスキャンするにはデバイスのカメラにアクセスする必要があります。
+
+有効にするには、[設定] で Google Play 開発者サービスにカメラの権限を付与してください。"</string>
+    <string name="camera_permission_dialog_message_platform">"Google Play 開発者サービスが QR コードをスキャンするにはデバイスのカメラにアクセスする必要があります。
+
+有効にするには、[設定] で Google Play 開発者サービスにカメラの権限を付与してください。"</string>
+    <string name="camera_permission_dialog_title">カメラの権限が必要</string>
+    <string name="cd_cancel_button">コードスキャナを閉じる</string>
+    <string name="cd_info_button">情報ダイアログを開く</string>
+    <string name="cd_selected_photo_view">選択した画像の表示</string>
+    <string name="cd_settings_button">スキャナの設定を開く</string>
+    <string name="cd_torch_button">ライトの ON / OFF を切り替える</string>
+    <string name="character_counter_content_description">入力済み文字数: %1$d/%2$d</string>
+    <string name="character_counter_overflowed_content_description">文字数制限を超えています（%1$d/%2$d 文字）</string>
+    <string name="clear_text_end_icon_content_description">テキストを消去</string>
+    <string name="common_connect">接続</string>
+    <string name="common_continue">続行</string>
+    <string name="common_copy">コピー</string>
+    <string name="common_google_play_services_enable_button">有効にする</string>
+    <string name="common_google_play_services_enable_text">%1$sの実行には、Google Play開発者サービスの有効化が必要です。</string>
+    <string name="common_google_play_services_enable_title">Google Play開発者サービスの有効化</string>
+    <string name="common_google_play_services_install_button">インストール</string>
+    <string name="common_google_play_services_install_text">「%1$s」の実行には Google Play 開発者サービスが必要ですが、お使いのデバイスにはインストールされていません。</string>
+    <string name="common_google_play_services_install_title">Google Play開発者サービスの入手</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play 開発者サービスの利用</string>
+    <string name="common_google_play_services_notification_ticker">Google Play開発者サービスのエラー</string>
+    <string name="common_google_play_services_unknown_issue">「%1$s」で Google Play 開発者サービスに問題が発生しています。もう一度お試しください。</string>
+    <string name="common_google_play_services_unsupported_text">「%1$s」の実行には Google Play 開発者サービスが必要ですが、お使いのデバイスではサポートされていません。</string>
+    <string name="common_google_play_services_update_button">更新</string>
+    <string name="common_google_play_services_update_text">%1$sの実行にはGoogle Play開発者サービスの更新が必要です。</string>
+    <string name="common_google_play_services_update_title">Google Play開発者サービスの更新</string>
+    <string name="common_google_play_services_updating_text">%1$sの実行にはGoogle Play開発者サービスが必要ですが、このサービスは現在更新中です。</string>
+    <string name="common_google_play_services_wear_update_text">Google Play開発者サービスの新しいバージョンが必要です。まもなく自動更新されます。</string>
+    <string name="common_got_it">OK</string>
+    <string name="common_no_apps_found">アプリが見つかりません</string>
+    <string name="common_open_on_phone">スマートフォンで開く</string>
+    <string name="common_view">表示</string>
+    <string name="error_a11y_label">Error: invalid</string>
+    <string name="error_icon_content_description">エラー</string>
+    <string name="exposed_dropdown_menu_content_description">プルダウン メニューを表示</string>
+    <string name="info_dialog_button">@string/common_got_it</string>
+    <string name="info_dialog_message">"Google Play 開発者サービスが代わりにコードをスキャンすることを、%1$s がリクエストしています。画像データは共有されません。スキャンの結果のみが共有されます。
+
+スキャンはデバイス上で行われ、Google が画像データやスキャンしたコードを保存することはありません。"</string>
+    <string name="info_dialog_message_platform">Google Play 開発者サービスがこのデバイスのカメラにアクセスしています。スキャンしたコードのデータと画像は保存されず、このデバイスの外部に送信されることはありません。</string>
+    <string name="info_dialog_title">Google による保護</string>
+    <string name="info_dialog_title_platform">Powered by Google</string>
+    <string name="manual_input_hint">ここをタップすると、手動でコードを入力できます</string>
+    <string name="mtrl_checkbox_state_description_checked">Checked</string>
+    <string name="mtrl_checkbox_state_description_indeterminate">Partially checked</string>
+    <string name="mtrl_checkbox_state_description_unchecked">Not checked</string>
+    <string name="password_toggle_content_description">パスワードを表示</string>
+    <string name="qr_detection_failure_dialog_message">別の写真からスキャンしてみてください</string>
+    <string name="qr_detection_failure_dialog_title">QR コードが見つかりません</string>
+    <string name="scan_from_photo_title">写真からスキャン</string>
+    <string name="scanner_brand">%1$s に代わって Google がスキャン</string>
+    <string name="scanner_brand_platform">@string/info_dialog_title_platform</string>
+    <string name="scanner_title">コードのスキャン</string>
+    <string name="scanner_title_platform">QR コードのスキャン</string>
+</resources>

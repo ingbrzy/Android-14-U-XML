@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="track_counts">
+        <item quantity="other">%1$d garsų</item>
+        <item quantity="one">%1$d garsas</item>
+        <item quantity="few">%1$d garsai</item>
+        <item quantity="many">%1$d garso</item>
+    </plurals>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="account_exists_text_multiple">
+        <item quantity="other">"Handa na ang mga sumusunod na account:
+
+"&lt;annotation textAppearance="TextAppearance.SudDescription.Medium">^1&lt;/annotation></item>
+        <item quantity="one">"Handa na ang mga sumusunod na account:
+
+"&lt;annotation textAppearance="TextAppearance.SudDescription.Medium">^1&lt;/annotation></item>
+    </plurals>
+    <plurals name="people_contacts_sync_failure_in_contacts_title_in_portal">
+        <item quantity="other">Hindi ma-sync ang %1$,d ng %2$,d na contact</item>
+        <item quantity="one">Hindi ma-sync ang %1$,d ng %2$,d contact</item>
+    </plurals>
+    <plurals name="people_contacts_sync_failure_in_photos_title_in_portal">
+        <item quantity="other">Hindi ma-sync ang %1$,d ng %2$,d na larawan ng contact</item>
+        <item quantity="one">Hindi ma-sync ang %1$,d ng %2$,d larawan ng contact</item>
+    </plurals>
+    <plurals name="people_contacts_sync_succeed_title_in_portal">
+        <item quantity="other">%,d na contact ang na-sync sa Google Contacts</item>
+        <item quantity="one">%,d contact ang na-sync sa Google Contacts</item>
+    </plurals>
+    <plurals name="qr_provision_toast">
+        <item quantity="other">%d pang pag-tap upang simulan ang pag-set up ng QR code</item>
+        <item quantity="one">%d pang pag-tap upang simulan ang pag-set up ng QR code</item>
+    </plurals>
+    <plurals name="slots_selection_text">
+        <item quantity="other">%d na numero ang naidagdag sa device na ito, ngunit isa lang ang magagamit sa isang pagkakataon</item>
+        <item quantity="one">%d numero ang naidagdag sa device na ito, ngunit isa lang ang magagamit sa isang pagkakataon</item>
+    </plurals>
+    <plurals name="survey_star_rating">
+        <item quantity="other">%1$d na star sa %2$d</item>
+        <item quantity="one">%1$d star sa %2$d</item>
+    </plurals>
+</resources>

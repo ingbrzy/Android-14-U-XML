@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_install_failed_multi_app_desc">
+        <item quantity="other">Nastavitve ni mogoče dokončati, saj namestitev %1$d obveznih aplikacij ni uspela. Obrnite se neposredno na skrbnika sistema.</item>
+        <item quantity="one">Nastavitve ni mogoče dokončati, saj namestitev %1$d obvezne aplikacije ni uspela. Obrnite se neposredno na skrbnika sistema.</item>
+        <item quantity="two">Nastavitve ni mogoče dokončati, saj namestitev %1$d obveznih aplikacij ni uspela. Obrnite se neposredno na skrbnika sistema.</item>
+        <item quantity="few">Nastavitve ni mogoče dokončati, saj namestitev %1$d obveznih aplikacij ni uspela. Obrnite se neposredno na skrbnika sistema.</item>
+    </plurals>
+    <plurals name="app_install_failure_title">
+        <item quantity="other">Aplikacij ni mogoče namestiti</item>
+        <item quantity="one">Aplikacij ni mogoče namestiti</item>
+        <item quantity="two">Aplikacij ni mogoče namestiti</item>
+        <item quantity="few">Aplikacij ni mogoče namestiti</item>
+    </plurals>
+    <plurals name="app_install_progress_desc">
+        <item quantity="other">Nameščene aplikacije: %1$d od %2$d</item>
+        <item quantity="one">Nameščene aplikacije: %1$d od %2$d</item>
+        <item quantity="two">Nameščene aplikacije: %1$d od %2$d</item>
+        <item quantity="few">Nameščene aplikacije: %1$d od %2$d</item>
+    </plurals>
+    <plurals name="app_uninstall_button">
+        <item quantity="other">Odmesti aplikacije</item>
+        <item quantity="one">Odmesti aplikacije</item>
+        <item quantity="two">Odmesti aplikacije</item>
+        <item quantity="few">Odmesti aplikacije</item>
+    </plurals>
+    <plurals name="days_left_message">
+        <item quantity="other">Še &lt;annotation id="numeric_time_left">^1&lt;/annotation> dni</item>
+        <item quantity="one">Še &lt;annotation id="numeric_time_left">^1&lt;/annotation> dan</item>
+        <item quantity="two">Še &lt;annotation id="numeric_time_left">^1&lt;/annotation> dneva</item>
+        <item quantity="few">Še &lt;annotation id="numeric_time_left">^1&lt;/annotation> dni</item>
+    </plurals>
+    <plurals name="hours_left_message">
+        <item quantity="other">Še &lt;annotation id="numeric_time_left">^1&lt;/annotation> ur</item>
+        <item quantity="one">Še &lt;annotation id="numeric_time_left">^1&lt;/annotation> ura</item>
+        <item quantity="two">Še &lt;annotation id="numeric_time_left">^1&lt;/annotation> uri</item>
+        <item quantity="few">Še &lt;annotation id="numeric_time_left">^1&lt;/annotation> ure</item>
+    </plurals>
+    <plurals name="number_of_additional_apps">
+        <item quantity="other">%1$d dodatnih aplikacij</item>
+        <item quantity="one">%1$d dodatna aplikacija</item>
+        <item quantity="two">%1$d dodatni aplikaciji</item>
+        <item quantity="few">%1$d dodatne aplikacije</item>
+    </plurals>
+    <plurals name="number_of_required_apps">
+        <item quantity="other">%1$d obveznih aplikacij</item>
+        <item quantity="one">%1$d obvezna aplikacija</item>
+        <item quantity="two">%1$d obvezni aplikaciji</item>
+        <item quantity="few">%1$d obvezne aplikacije</item>
+    </plurals>
+    <plurals name="policy_apps_list_summary">
+        <item quantity="other">%d delovnih aplikacij ni mogoče odmestiti.</item>
+        <item quantity="one">%d delovne aplikacije ni mogoče odmestiti.</item>
+        <item quantity="two">%d delovnih aplikacij ni mogoče odmestiti.</item>
+        <item quantity="few">%d delovnih aplikacij ni mogoče odmestiti.</item>
+    </plurals>
+    <plurals name="preinstalled_apps">
+        <item quantity="other">Nameščene aplikacije: %1$d od %2$d</item>
+        <item quantity="one">Nameščene aplikacije: %1$d od %2$d</item>
+        <item quantity="two">Nameščene aplikacije: %1$d od %2$d</item>
+        <item quantity="few">Nameščene aplikacije: %1$d od %2$d</item>
+    </plurals>
+    <plurals name="readable_name_applications">
+        <item quantity="other">Na voljo je %1$d aplikacij (nameščene/onemogočene aplikacije:%2$d/%3$d)</item>
+        <item quantity="one">Na voljo je %1$d aplikacija (nameščene/onemogočene aplikacije:%2$d/%3$d)</item>
+        <item quantity="two">Na voljo sta %1$d aplikaciji (nameščene/onemogočene aplikacije:%2$d/%3$d)</item>
+        <item quantity="few">Na voljo so %1$d aplikacije (nameščene/onemogočene aplikacije:%2$d/%3$d)</item>
+    </plurals>
+</resources>

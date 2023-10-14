@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120000">
+        <item quantity="other">កំពុង​រង់ចាំ Wi-Fi</item>
+        <item quantity="one">កំពុង​រង់ចាំ Wi-Fi</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120002">
+        <item quantity="other">នៅ​លើឧបករណ៍​នេះ (កម្មវិធី %d)</item>
+        <item quantity="one">នៅ​លើឧបករណ៍​នេះ (កម្មវិធី %d)</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120003">
+        <item quantity="other">មុខងារ​សម្រាប់ %1$s</item>
+        <item quantity="one">មុខងារ​សម្រាប់ %1$s</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120004">
+        <item quantity="other">បានដំឡើង %d ថ្ងៃមុន</item>
+        <item quantity="one">បានដំឡើង %d ថ្ងៃមុន</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120005">
+        <item quantity="other">បានដំឡើង %d ម៉ោងមុន</item>
+        <item quantity="one">បានដំឡើង %d ម៉ោងមុន</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120006">
+        <item quantity="other">បានដំឡើង %d នាទីមុន</item>
+        <item quantity="one">បានដំឡើង %d នាទីមុន</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120007">
+        <item quantity="other">បានជ្រើសរើស %1$d</item>
+        <item quantity="one">បានជ្រើសរើស %1$d</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120008">
+        <item quantity="other">បានដំឡើងកំណែ %d ថ្ងៃ​មុន</item>
+        <item quantity="one">បានដំឡើងកំណែ %d ថ្ងៃ​មុន</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120009">
+        <item quantity="other">បានដំឡើងកំណែ​ %d ម៉ោង​មុន</item>
+        <item quantity="one">បានដំឡើងកំណែ​ %d ម៉ោង​មុន</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000a">
+        <item quantity="other">បានដំឡើងកំណែ %d នាទី​មុន</item>
+        <item quantity="one">បានដំឡើងកំណែ %d នាទី​មុន</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000b">
+        <item quantity="other">បានប្រើចុងក្រោយ %d ថ្ងៃមុន</item>
+        <item quantity="one">បានប្រើចុងក្រោយ %d ថ្ងៃមុន</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000c">
+        <item quantity="other">បានប្រើចុងក្រោយ %d ម៉ោងមុន</item>
+        <item quantity="one">បានប្រើចុងក្រោយ %d ម៉ោងមុន</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000d">
+        <item quantity="other">បានប្រើចុងក្រោយ %d នាទីមុន</item>
+        <item quantity="one">បានប្រើចុងក្រោយ %d នាទីមុន</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000f">
+        <item quantity="other">បានស្កេន​កម្មវិធី %d ថ្ងៃមុន</item>
+        <item quantity="one">បានស្កេន​កម្មវិធី %d ថ្ងៃមុន</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120010">
+        <item quantity="other">បានស្កេន​កម្មវិធី %d ម៉ោងមុន</item>
+        <item quantity="one">បានស្កេន​កម្មវិធី %d ម៉ោងមុន</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120011">
+        <item quantity="other">បានស្កេន​កម្មវិធី %d នាទីមុន</item>
+        <item quantity="one">បានស្កេន​កម្មវិធី %d នាទីមុន</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120014">
+        <item quantity="other">យោបល់ %1$d</item>
+        <item quantity="one">យោបល់ %1$d</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120015">
+        <item quantity="other">យោបល់ %1$d សម្រាប់ការវាយតម្លៃផ្កាយ %2$d</item>
+        <item quantity="one">យោបល់ %1$d សម្រាប់ការវាយតម្លៃផ្កាយ %2$d</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120016">
+        <item quantity="other">ដំឡើង​នៅលើ​ឧបករណ៍ %1$d។</item>
+        <item quantity="one">ដំឡើង​នៅលើ​ឧបករណ៍ %1$d។</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120017">
+        <item quantity="other">ដំឡើង​នៅលើ​ឧបករណ៍ %1$d។ មានឧបករណ៍​ច្រើនទៀតដែលអាច​ដំឡើងបាន។</item>
+        <item quantity="one">ដំឡើង​នៅលើ​ឧបករណ៍ %1$d។ មានឧបករណ៍​ច្រើនទៀតដែលអាច​ដំឡើងបាន។</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120018">
+        <item quantity="other">កម្មវិធីនេះ​នឹងត្រូវបាន​ដំឡើងនៅលើ​ឧបករណ៍​ចំនួន %1$d របស់អ្នក​នាពេលឆាប់ៗនេះ។</item>
+        <item quantity="one">កម្មវិធីនេះ​នឹងត្រូវបាន​ដំឡើងនៅលើ​ឧបករណ៍​ចំនួន %1$d របស់អ្នក​នាពេលឆាប់ៗនេះ។</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120019">
+        <item quantity="other">មានផ្ដល់ជូន​ភាពយន្ត %1$d បន្ថែមទៀត</item>
+        <item quantity="one">មានផ្ដល់ជូន​ភាពយន្ត %1$d បន្ថែមទៀត</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001a">
+        <item quantity="other">មានផ្ដល់ជូន​ភាពយន្ត %1$d បន្ថែមទៀត​ជាមួយ​ការទិញ</item>
+        <item quantity="one">មានផ្ដល់ជូន​ភាពយន្ត %1$d បន្ថែមទៀត​ជាមួយ​ការទិញ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001b">
+        <item quantity="other">%1$d ថ្ងៃ</item>
+        <item quantity="one">%1$d ថ្ងៃ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001c">
+        <item quantity="other">ការវាយតម្លៃ​ជាមធ្យមផ្កាយ %1$s នៅក្នុងការវាយតម្លៃ %2$s</item>
+        <item quantity="one">ការវាយតម្លៃ​ជាមធ្យមផ្កាយ %1$s នៅក្នុងការវាយតម្លៃ 1</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001d">
+        <item quantity="other">ការវាយតម្លៃ %s</item>
+        <item quantity="one">ការវាយតម្លៃ 1</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001e">
+        <item quantity="other">ឥឡូវនេះ នៅសល់ %1$d ជំហាន​ទៀត អ្នកនឹង​​ក្លាយ​ជាអ្នកអភិវឌ្ឍន៍​។</item>
+        <item quantity="one">ឥឡូវនេះ នៅសល់ %1$d ជំហាន​ទៀត អ្នកនឹង​​​ក្លាយ​ជាអ្នកអភិវឌ្ឍន៍​។</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001f">
+        <item quantity="other">រថយន្ត</item>
+        <item quantity="one">រថយន្ត</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120020">
+        <item quantity="other">Chromebook</item>
+        <item quantity="one">Chromebook</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120021">
+        <item quantity="other">អាចបត់បាន</item>
+        <item quantity="one">អាចបត់បាន</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120022">
+        <item quantity="other">ទូរសព្ទ</item>
+        <item quantity="one">ទូរសព្ទ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120023">
+        <item quantity="other">ថេប្លេត</item>
+        <item quantity="one">ថេប្លេត</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120024">
+        <item quantity="other">ទូរទស្សន៍</item>
+        <item quantity="one">ទូរទស្សន៍</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120025">
+        <item quantity="other">ឧបករណ៍</item>
+        <item quantity="one">ឧបករណ៍</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120026">
+        <item quantity="other">នាឡិកា</item>
+        <item quantity="one">នាឡិកា</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120027">
+        <item quantity="other">មាន​ពិន្ទុ Play %1$d។</item>
+        <item quantity="one">មាន​ពិន្ទុ Play %1$d។</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120028">
+        <item quantity="other">%1$d ម៉ោង</item>
+        <item quantity="one">%1$d ម៉ោង</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120029">
+        <item quantity="other">នៅសល់ %1$d ម៉ោង​ទៀត</item>
+        <item quantity="one">នៅ​សល់ 1 ម៉ោង​ទៀត</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002a">
+        <item quantity="other">កំពុងដំឡើង​កម្មវិធី %1$d…</item>
+        <item quantity="one">កំពុងដំឡើង​កម្មវិធី %1$d…</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002b">
+        <item quantity="other">បានផ្អាកការដំឡើង</item>
+        <item quantity="one">បានផ្អាកការដំឡើង</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002c">
+        <item quantity="other">កម្មវិធី %1$d នឹង​ត្រូវ​បាន​ដំឡើង</item>
+        <item quantity="one">កម្មវិធី %1$d នឹង​ត្រូវ​បាន​ដំឡើង</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002d">
+        <item quantity="other">បានដំឡើងកំណែចុងក្រោយ %d ថ្ងៃមុន</item>
+        <item quantity="one">បានដំឡើងកំណែចុងក្រោយ %d ថ្ងៃមុន</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002e">
+        <item quantity="other">បានដំឡើងកំណែចុងក្រោយ %d ម៉ោងមុន</item>
+        <item quantity="one">បានដំឡើងកំណែចុងក្រោយ %d ម៉ោងមុន</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002f">
+        <item quantity="other">បានដំឡើងកំណែចុងក្រោយ %d នាទីមុន</item>
+        <item quantity="one">បានដំឡើងកំណែចុងក្រោយ %d នាទីមុន</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120033">
+        <item quantity="other">%1$d ឆ្នាំមុន</item>
+        <item quantity="one">%1$d ឆ្នាំមុន</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120034">
+        <item quantity="other">%1$d នាទី</item>
+        <item quantity="one">%1$d នាទី</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120035">
+        <item quantity="other">នៅសល់ %1$d នាទី​ទៀត</item>
+        <item quantity="one">នៅសល់ 1 នាទីទៀត</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120037">
+        <item quantity="other">បាន​ជ្រើសរើស %1$d</item>
+        <item quantity="one">បាន​ជ្រើសរើស %1$d</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120038">
+        <item quantity="other">កំពុងទុក​កម្មវិធី %1$d ក្នុងបណ្ណសារ</item>
+        <item quantity="one">កំពុងទុក​កម្មវិធី %1$d ក្នុងបណ្ណសារ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120039">
+        <item quantity="other">ដក​កម្មវិធី​ដែលបាន​ជ្រើសរើស​ចេញឬ?</item>
+        <item quantity="one">ដក​កម្មវិធី​ដែលបាន​ជ្រើសរើសចេញ​ឬ?</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12003a">
+        <item quantity="other">បានដកកម្មវិធី %1$d ចេញ</item>
+        <item quantity="one">បានដកកម្មវិធី %1$d ចេញ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12003d">
+        <item quantity="other">ការដំឡើង​មិនទាន់សម្រេច​ចំនួន %1$d</item>
+        <item quantity="one">ការដំឡើង​មិនទាន់សម្រេច​ចំនួន %1$d</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12003e">
+        <item quantity="other">ការដំឡើង %1$d កំពុងដំណើរការ</item>
+        <item quantity="one">ការដំឡើង %1$d កំពុងដំណើរការ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120040">
+        <item quantity="other">កំណែថ្មីដែលមិន​ទាន់សម្រេច %1$d</item>
+        <item quantity="one">កំណែថ្មីដែលមិន​ទាន់សម្រេច %1$d</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120041">
+        <item quantity="other">ការដំឡើងកំណែ %1$d កំពុងដំណើរការ</item>
+        <item quantity="one">ការដំឡើងកំណែ %1$d កំពុងដំណើរការ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120042">
+        <item quantity="other">បានដំឡើង​កម្មវិធី %1$d</item>
+        <item quantity="one">បានដំឡើង​កម្មវិធី %1$d</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120044">
+        <item quantity="other">បានចេញផ្សាយ %1$d ម៉ោង​មុន</item>
+        <item quantity="one">បានចេញផ្សាយ %1$d ម៉ោង​មុន</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120045">
+        <item quantity="other">បានចេញផ្សាយ %1$d ថ្ងៃមុន</item>
+        <item quantity="one">បានចេញផ្សាយ %1$d ថ្ងៃមុន</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120046">
+        <item quantity="other">បាន​លុប​កម្មវិធី​</item>
+        <item quantity="one">បាន​លុប​កម្មវិធី​</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120047">
+        <item quantity="other">ការអាប់ដេត %1$d តម្រូវឲ្យមានការយល់ព្រម</item>
+        <item quantity="one">ការអាប់ដេត %1$d តម្រូវឲ្យមានការយល់ព្រម</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120048">
+        <item quantity="other">បច្ចុប្បន្នភាពថ្មី %1$d</item>
+        <item quantity="one">បច្ចុប្បន្នភាពថ្មី %1$d</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120049">
+        <item quantity="other">មានការអាប់ដេត %1$d</item>
+        <item quantity="one">មានការអាប់ដេត %1$d</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004a">
+        <item quantity="other">ការអាប់ដេតទាំងអស់</item>
+        <item quantity="one">ការអាប់ដេត</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004b">
+        <item quantity="other">បានដំឡើង​ជំនាន់​កម្មវិធី​ចំនួន %1$d</item>
+        <item quantity="one">បានដំឡើង​ជំនាន់​កម្មវិធី​ចំនួន %1$d</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004c">
+        <item quantity="other">បញ្ចប់​ក្នុងរយៈពេល %1$d ម៉ោង​ទៀត</item>
+        <item quantity="one">បញ្ចប់​ក្នុងរយៈពេល %1$d ម៉ោង​ទៀត</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004d">
+        <item quantity="other">បញ្ចប់​ក្នុងរយៈពេល %1$d ថ្ងៃ​ទៀត</item>
+        <item quantity="one">បញ្ចប់​ក្នុងរយៈពេល %1$d ថ្ងៃទៀត</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004e">
+        <item quantity="other">%1$d នាទី</item>
+        <item quantity="one">%1$d នាទី</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004f">
+        <item quantity="other">%1$d វិនាទី</item>
+        <item quantity="one">%1$d វិនាទី</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120050">
+        <item quantity="other">បានលុបកម្មវិធី​ផ្ទាល់ខ្លួន</item>
+        <item quantity="one">បានលុបកម្មវិធី​ផ្ទាល់ខ្លួន</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120053">
+        <item quantity="other">Play Protect បានស្កេន %d ថ្ងៃមុន</item>
+        <item quantity="one">Play Protect បានស្កេន %d ថ្ងៃមុន</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120054">
+        <item quantity="other">Play Protect បានស្កេន %d ម៉ោងមុន</item>
+        <item quantity="one">Play Protect បានស្កេន %d ម៉ោងមុន</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120055">
+        <item quantity="other">Play Protect បានស្កេន %d នាទីមុន</item>
+        <item quantity="one">Play Protect បានស្កេន %d នាទីមុន</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120056">
+        <item quantity="other">%1$s ពិន្ទុ ដើម្បី​រក្សាកម្រិត %2$s នៅឆ្នាំបន្ទាប់</item>
+        <item quantity="one">1 ពិន្ទុ ដើម្បី​រក្សាកម្រិត %2$s នៅឆ្នាំបន្ទាប់</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120057">
+        <item quantity="other">%1$s ពិន្ទុ ដើម្បី​ឈានដល់​កម្រិត %2$s</item>
+        <item quantity="one">1 ពិន្ទុ ដើម្បី​ឈានដល់​កម្រិត %2$s</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120058">
+        <item quantity="other">អ្នកបានផ្តល់​ការអនុញ្ញាតឱ្យ​កម្មវិធីទាំងនេះ​ដំឡើង ឬដំឡើងកំណែ​កម្មវិធីដែលមិនស្គាល់។ សកម្មភាពនេះអាច​ធ្វើឱ្យព័ត៌មាន​ផ្ទាល់ខ្លួន និងឧបករណ៍​របស់អ្នក​ប្រឈមនឹង​គ្រោះថ្នាក់។ សូម​បដិសេធ​ការអនុញ្ញាត ដើម្បី​ទប់ស្កាត់​កម្មវិធីទាំងនោះ​កុំឱ្យដំឡើង។</item>
+        <item quantity="one">អ្នកបានផ្តល់​ការអនុញ្ញាតឱ្យ​កម្មវិធីនេះ​ដំឡើង ឬដំឡើងកំណែ​កម្មវិធីដែលមិនស្គាល់។ សកម្មភាពនេះអាច​ធ្វើឱ្យព័ត៌មាន​ផ្ទាល់ខ្លួន និងឧបករណ៍​របស់អ្នក​ប្រឈមនឹង​គ្រោះថ្នាក់។ សូម​បដិសេធ​ការអនុញ្ញាត ដើម្បី​ទប់ស្កាត់​កម្មវិធីទាំងនោះ​កុំឱ្យដំឡើង។</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120059">
+        <item quantity="other">អ្នកបានផ្តល់​ការអនុញ្ញាតឱ្យ​កម្មវិធី %1$d ដំឡើង ឬដំឡើងកំណែ​កម្មវិធីដែលមិនស្គាល់។ សកម្មភាពនេះអាច​ធ្វើឱ្យព័ត៌មាន​ផ្ទាល់ខ្លួន និងឧបករណ៍​របស់អ្នក​ប្រឈមនឹង​គ្រោះថ្នាក់</item>
+        <item quantity="one">អ្នកបានផ្តល់​ការអនុញ្ញាតឱ្យ​កម្មវិធី 1 ដំឡើង ឬដំឡើងកំណែ​កម្មវិធីដែលមិនស្គាល់។ សកម្មភាពនេះអាច​ធ្វើឱ្យព័ត៌មាន​ផ្ទាល់ខ្លួន និងឧបករណ៍​របស់អ្នក​ប្រឈមនឹង​គ្រោះថ្នាក់</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005a">
+        <item quantity="other">ការព្រមាន %1$d អំពី​ឯកជនភាព</item>
+        <item quantity="one">ការព្រមាន 1 អំពី​ឯកជនភាព</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005b">
+        <item quantity="other">បាន​រកឃើញ​កម្មវិធីដែល​បង្កគ្រោះថ្នាក់ %1$d</item>
+        <item quantity="one">បានរកឃើញ​កម្មវិធី​ដែលបង្កគ្រោះថ្នាក់ 1</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005c">
+        <item quantity="other">ការជូនដំណឹង​អំពី​សុវត្ថិភាព %1$d</item>
+        <item quantity="one">ការជូនដំណឹង​អំពី​សុវត្ថិភាព 1</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005d">
+        <item quantity="other">ការធ្វើបច្ចុប្បន្នភាព​ផ្នែកសុវត្ថិភាព %1$d</item>
+        <item quantity="one">ការធ្វើបច្ចុប្បន្នភាព​ផ្នែកសុវត្ថិភាព 1</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005e">
+        <item quantity="other">បានរកឃើញ​កម្មវិធីដែល​គ្មានសុវត្ថិភាព %1$d</item>
+        <item quantity="one">បានរកឃើញ​កម្មវិធីដែល​គ្មានសុវត្ថិភាព 1</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005f">
+        <item quantity="other">ការព្រមាន %1$d</item>
+        <item quantity="one">ការព្រមាន 1</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120060">
+        <item quantity="other">បានរកឃើញ​កម្មវិធីដែល​គ្មានសុវត្ថិភាព</item>
+        <item quantity="one">បានរកឃើញ​កម្មវិធីដែល​គ្មានសុវត្ថិភាព</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120061">
+        <item quantity="other">បញ្ចប់​ក្នុងរយៈពេល %1$d ម៉ោង​ទៀត</item>
+        <item quantity="one">បញ្ចប់​ក្នុងរយៈពេល %1$d ម៉ោង​ទៀត</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120062">
+        <item quantity="other">បញ្ចប់​ក្នុងរយៈពេល %1$d ថ្ងៃ​ទៀត</item>
+        <item quantity="one">បញ្ចប់​ក្នុងរយៈពេល %1$d ថ្ងៃទៀត</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120063">
+        <item quantity="other">បានបញ្ចប់ជំហាន %1$d នៃ %2$d</item>
+        <item quantity="one">បានបញ្ចប់ជំហាន %1$d នៃ %2$d</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120064">
+        <item quantity="other">អាចដំឡើងកម្មវិធី %1$d</item>
+        <item quantity="one">អាចដំឡើងកម្មវិធី %1$d</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120065">
+        <item quantity="other">%1$s នឹងផ្ញើកម្មវិធី %2$d ឱ្យអ្នក។ សូមប្រាកដថា កូដផ្គូផ្គងត្រូវគ្នា។</item>
+        <item quantity="one">%1$s នឹងផ្ញើកម្មវិធី %2$d ឱ្យអ្នក។ សូមប្រាកដថា កូដផ្គូផ្គងត្រូវគ្នា។</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120066">
+        <item quantity="other">កំពុងទទួលកម្មវិធី %1$d ពី \"%2$s\"…</item>
+        <item quantity="one">កំពុងទទួលកម្មវិធី %1$d ពី \"%2$s\"…</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006a">
+        <item quantity="other">អ្នកប្រើ %1$d នាក់គិតថាយោបល់នេះមានប្រយោជន៍។ សម្គាល់មតិយោបល់ថាមានប្រយោជន៍</item>
+        <item quantity="one">អ្នកប្រើ %1$d នាក់គិតថាយោបល់នេះមានប្រយោជន៍ សម្គាល់មតិយោបល់ថាមានប្រយោជន៍</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006b">
+        <item quantity="other">អ្នកប្រើ %1$d នាក់គិតថាយោបល់នេះមានប្រយោជន៍។ ដកសម្គាល់មតិយោបល់ថាមានប្រយោជន៍</item>
+        <item quantity="one">អ្នកប្រើ %1$d នាក់គិតថាយោបល់នេះមានប្រយោជន៍ ដកសម្គាល់មតិយោបល់ថាមានប្រយោជន៍</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006c">
+        <item quantity="other">មនុស្ស %1$s នាក់យល់ថាការ​វាយតម្លៃ​នេះ​មាន​ប្រយោជន៍</item>
+        <item quantity="one">មនុស្ស %1$s នាក់យល់ថាការ​វាយតម្លៃ​នេះ​មាន​ប្រយោជន៍</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006f">
+        <item quantity="other">%1$d វិនាទី</item>
+        <item quantity="one">%1$d វិនាទី</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120070">
+        <item quantity="other">នៅ​សល់ %1$d វិនាទី​ទៀត</item>
+        <item quantity="one">នៅ​សល់ 1 វិនាទី​ទៀត</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120071">
+        <item quantity="other">បានជ្រើសរើស %1$d • %2$s</item>
+        <item quantity="one">បានជ្រើសរើស %1$d • %2$s</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120072">
+        <item quantity="other">កំពុងផ្ញើកម្មវិធី %1$d ទៅ \"%2$s\"…</item>
+        <item quantity="one">កំពុងផ្ញើកម្មវិធី %1$d ទៅ \"%2$s\"…</item>
+    </plurals>
+    <plurals name="setup_completed_installed">
+        <item quantity="other">បានដំឡើង​កម្មវិធី %1$d</item>
+        <item quantity="one">បានដំឡើង​កម្មវិធី %1$d</item>
+    </plurals>
+    <plurals name="setup_completed_installed_with_failures">
+        <item quantity="other">មិនអាច​ដំឡើង​កម្មវិធី %1$d នៃ %2$d បានទេ</item>
+        <item quantity="one">មិនអាច​ដំឡើង​កម្មវិធី %1$d នៃ %2$d បានទេ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120075">
+        <item quantity="other">ប្រើចុងក្រោយ %1$d ថ្ងៃមុន</item>
+        <item quantity="one">ប្រើចុងក្រោយ %1$d ថ្ងៃមុន</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120076">
+        <item quantity="other">ស្តារកម្មវិធី %1$d ដែលបានជ្រើស</item>
+        <item quantity="one">ស្តារកម្មវិធីដែលបានជ្រើស</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120078">
+        <item quantity="other">ទាញយកភាសាថ្មី %1$d?</item>
+        <item quantity="one">ទាញយក​ភាសាថ្មី?</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007b">
+        <item quantity="other">ការ​ឆ្លើយតប​ការ​ស្ទង់មតិចំនួន %1$d នឹង​ត្រូវ​បានលុប​ចេញពី​គណនី​របស់​អ្នក​ជា​រៀងរហូត។</item>
+        <item quantity="one">ការ​ឆ្លើយតប​ការ​ស្ទង់មតិចំនួន %1$d នឹង​ត្រូវ​បាន​លុបចេញ​ពី​គណនី​របស់​អ្នក​ជា​រៀងរហូត។</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007c">
+        <item quantity="other">បានជ្រើសរើស %1$d</item>
+        <item quantity="one">បានជ្រើសរើស %1$d</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007d">
+        <item quantity="other">បង្ហាញ Play Points។ មាន %1$d ពិន្ទុ​។</item>
+        <item quantity="one">បង្ហាញ Play Points។ មាន %1$d ពិន្ទុ​។</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007e">
+        <item quantity="other">មានពិន្ទុ Play ចំនួន %1$d។</item>
+        <item quantity="one">មានពិន្ទុ Play ចំនួន %1$d។</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120080">
+        <item quantity="other">%1$s ពិន្ទុ</item>
+        <item quantity="one">1 ពិន្ទុ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120081">
+        <item quantity="other">កំពុងផ្ទេរកម្មវិធី %1$d ជាមួយ \"%2$s\"…</item>
+        <item quantity="one">កំពុងផ្ទេរកម្មវិធី %1$d ជាមួយ \"%2$s\"…</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120082">
+        <item quantity="other">កម្មវិធី %1$d នឹងត្រូវលុប​ចេញពី​ឧបករណ៍​របស់អ្នក។</item>
+        <item quantity="one">កម្មវិធី %1$d នឹងត្រូវលុប​ចេញពី​ឧបករណ៍​របស់អ្នក។</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120083">
+        <item quantity="other">លុបកម្មវិធី​ដែលបាន​ជ្រើសរើសឬ?</item>
+        <item quantity="one">លុបកម្មវិធី​ដែលបាន​ជ្រើសរើសឬ?</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120084">
+        <item quantity="other">លុបកំណែថ្មី​សម្រាប់កម្មវិធី​ដែលបានជ្រើសរើសឬ?</item>
+        <item quantity="one">លុបកំណែថ្មី​សម្រាប់កម្មវិធី​ដែលបានជ្រើសរើសឬ?</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120085">
+        <item quantity="other">បានលុប​កម្មវិធី %1$s ទើបមាន​ទំហំផ្ទុក​គ្រប់គ្រាន់​សម្រាប់ %2$s។</item>
+        <item quantity="one">បានលុប​កម្មវិធី %1$s ទើបមាន​ទំហំផ្ទុក​គ្រប់គ្រាន់​សម្រាប់ %2$s។</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120086">
+        <item quantity="other">កម្មវិធីនឹងត្រូវបានដំឡើងក្នុងពេលឆាប់ៗ</item>
+        <item quantity="one">កម្មវិធីនឹងត្រូវបានដំឡើងក្នុងពេលឆាប់ៗ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120087">
+        <item quantity="other">ការអាប់ដេតកម្មវិធីនឹងត្រូវបានដំឡើងក្នុងពេលឆាប់ៗ</item>
+        <item quantity="one">ការអាប់ដេតកម្មវិធីនឹងត្រូវបានដំឡើងក្នុងពេលឆាប់ៗ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008a">
+        <item quantity="other">ប្រើចុងក្រោយកាលពី %1$d ថ្ងៃមុន</item>
+        <item quantity="one">ប្រើចុងក្រោយកាលពី %1$d ថ្ងៃមុន</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008b">
+        <item quantity="other">ប្រើចុងក្រោយកាលពី %1$d ខែមុន</item>
+        <item quantity="one">ប្រើចុងក្រោយកាលពី %1$d ខែមុន</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008c">
+        <item quantity="other">ដើម្បី​ដំឡើង​កម្មវិធី ឬ​ដំឡើងកំណែ​នៅលើ​ឧបករណ៍​នេះ សូម​លុប​កម្មវិធី​ដែលអ្នក​លែង​ត្រូវការ។ អ្នក​ក៏អាច​បង្កើន​ទំហំផ្ទុក​ដោយ​លុប​ឯកសារ​មេឌៀ​នៅក្នុង​ការកំណត់​ទំហំផ្ទុក​បានផងដែរ។</item>
+        <item quantity="one">ដើម្បី​ដំឡើង​កម្មវិធី ឬ​ដំឡើងកំណែ​នៅលើ​ឧបករណ៍​នេះ សូមលុប​កម្មវិធី​ដែលអ្នក​លែង​ត្រូវការ។ អ្នក​ក៏អាច​បង្កើន​ទំហំផ្ទុក​ដោយ​លុប​ឯកសារ​មេឌៀ​នៅក្នុង​ការកំណត់​ទំហំផ្ទុក​បានផងដែរ។</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008d">
+        <item quantity="other">ដើម្បី​ដំឡើង​កម្មវិធី ឬ​ដំឡើងកំណែ​នៅលើ​ឧបករណ៍​នេះ សូម​លុប​កម្មវិធី​ដែលអ្នក​លែង​ត្រូវការ។ អ្នក​ក៏អាច​បង្កើន​ទំហំផ្ទុក​ដោយ​លុប​ឯកសារ​មេឌៀ​បានផងដែរ​នៅក្នុង&lt;a href=\"\">ការកំណត់ > ទំហំផ្ទុក&lt;/a>។</item>
+        <item quantity="one">ដើម្បី​ដំឡើង​កម្មវិធី ឬ​ដំឡើងកំណែ​នៅលើ​ឧបករណ៍​នេះ សូមលុប​កម្មវិធី​ដែលអ្នក​លែង​ត្រូវការ។ អ្នក​ក៏អាច​បង្កើន​ទំហំផ្ទុក​ដោយ​លុប​ឯកសារ​មេឌៀ​បានផងដែរ​នៅក្នុង&lt;a href=\"\">ការកំណត់ > ទំហំផ្ទុក&lt;/a>។</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008e">
+        <item quantity="other">ដើម្បី​ដំឡើង​កម្មវិធី ឬ​ដំឡើងកំណែ​នៅលើ​ឧបករណ៍​នេះ សូម​លុប​កម្មវិធី​ដែលអ្នក​លែង​ត្រូវការ។ អ្នក​ក៏អាច​បង្កើន​ទំហំផ្ទុកដោយ​លុប​ឯកសារ​មេឌៀ​បានផងដែរ​នៅក្នុង​ការកំណត់ > ទំហំផ្ទុក។</item>
+        <item quantity="one">ដើម្បី​ដំឡើង​កម្មវិធី ឬ​ដំឡើងកំណែ​នៅលើ​ឧបករណ៍​នេះ សូមលុប​កម្មវិធី​ដែលអ្នក​លែង​ត្រូវការ។ អ្នក​ក៏អាច​បង្កើន​ទំហំផ្ទុកដោយ​លុប​ឯកសារ​មេឌៀ​បានផងដែរ​នៅក្នុង​ការកំណត់ > ទំហំផ្ទុក។</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008f">
+        <item quantity="other">បានលុប​កម្មវិធី %1$d</item>
+        <item quantity="one">បានលុប​កម្មវិធី %1$d</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120090">
+        <item quantity="other">យើង​បានរកឃើញ​កម្មវិធី %1$d ដែលអ្នក​មិនបានប្រើ​មួយរយៈ​ពេលហើយ។ ការលុប​កម្មវិធី​ទាំងនេះ​នឹងផ្ដល់​ទំហំផ្ទុក %2$d MB ដល់អ្នក</item>
+        <item quantity="one">យើង​បានរកឃើញ​កម្មវិធី %1$d ដែលអ្នក​មិនបានប្រើ​មួយរយៈ​ពេលហើយ។ ការលុប​កម្មវិធី​នេះនឹងផ្ដល់​ទំហំផ្ទុក %2$d MB ដល់អ្នក</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120091">
+        <item quantity="other">ចាប់ផ្ដើម​ក្នុងរយៈពេល %1$d ម៉ោង​ទៀត</item>
+        <item quantity="one">ចាប់ផ្ដើម​ក្នុងរយៈពេល %1$d ម៉ោង​ទៀត</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120092">
+        <item quantity="other">ចាប់ផ្ដើម​ក្នុងរយៈពេល %1$d ថ្ងៃ​ទៀត</item>
+        <item quantity="one">ចាប់ផ្ដើម​ក្នុងរយៈពេល %1$d ថ្ងៃ​ទៀត</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120093">
+        <item quantity="other">មាន​ក្នុងរយៈពេល %1$d ម៉ោង​ទៀត</item>
+        <item quantity="one">មាន​ក្នុងរយៈពេល %1$d ម៉ោង​ទៀត</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120094">
+        <item quantity="other">មានក្នុងរយៈពេល %1$d ថ្ងៃទៀត</item>
+        <item quantity="one">មាន​ក្នុងរយៈពេល %1$d ថ្ងៃទៀត</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120095">
+        <item quantity="other">ឧបករណ៍​នេះ​មិន​មានការធ្វើ​បច្ចុប្បន្នភាព​ប្រព័ន្ធអស់​រយៈ​ពេល​ច្រើន​ជាង %1$d ខែ</item>
+        <item quantity="one">ឧបករណ៍​នេះ​មិន​មានការធ្វើ​បច្ចុប្បន្នភាព​ប្រព័ន្ធអស់​រយៈ​ពេល​ច្រើន​ជាង %1$d ខែ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120096">
+        <item quantity="other">បានលុបកម្មវិធី​ការងារ</item>
+        <item quantity="one">បានលុបកម្មវិធី​ការងារ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120097">
+        <item quantity="other">%1$d ឆ្នាំមុន</item>
+        <item quantity="one">%1$d ឆ្នាំមុន</item>
+    </plurals>
+</resources>

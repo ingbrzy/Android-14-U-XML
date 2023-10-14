@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_retaildemoCommunication">Membenarkan apl untuk berinteraksi dengan Perkhidmatan Tunjuk Cara Runcit. Hanya Tunjuk Cara Runcit yang perlu diberikan kebenaran. Apl yang diberikan kebenaran ini boleh mencetuskan tindakan terpelihara untuk Mod Tunjuk Cara Runcit.</string>
+    <string name="permlab_retaildemoCommunication">Komunikasi Tunjuk Cara Runcit</string>
+    <string name="retaildemo_preload_app_name">Perkhidmatan Tunjuk Cara Runcit</string>
+</resources>

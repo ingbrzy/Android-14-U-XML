@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="gh_yt_video_num_views">
+        <item quantity="other">視聴回数 %1$s 回</item>
+        <item quantity="one">視聴回数 1 回</item>
+    </plurals>
+</resources>

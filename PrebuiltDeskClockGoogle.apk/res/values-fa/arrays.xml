@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_set">
+        <item>هشدار برای کمتر از ۱ دقیقه دیگر از حالا تنظیم شد.</item>
+        <item>هشدار برای %1$s دیگر از حالا تنظیم شد.</item>
+        <item>هشدار برای %2$s دیگر از حالا تنظیم شد.</item>
+        <item>هشدار برای %1$s و %2$s از حالا تنظیم شد.</item>
+        <item>هشدار برای %3$s دیگر از حالا تنظیم شد.</item>
+        <item>هشدار برای %1$s و %3$s دیگر از حالا تنظیم شد.</item>
+        <item>هشدار برای %2$s و %3$s دیگر از حالا تنظیم شد.</item>
+        <item>هشدار برای %1$s و %2$s و %3$s دیگر از حالا تنظیم شد.</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>۱ دقیقه</item>
+        <item>۵ دقیقه</item>
+        <item>۱۰ دقیقه</item>
+        <item>۱۵ دقیقه</item>
+        <item>۲۰ دقیقه</item>
+        <item>۲۵ دقیقه</item>
+        <item>@string/auto_silence_entry_never</item>
+    </string-array>
+    <string-array name="bedtime_reminder_entries">
+        <item>۱۵ دقیقه قبل از وقت خواب</item>
+        <item>۳۰ دقیقه قبل از وقت خواب</item>
+        <item>۴۵ دقیقه قبل از وقت خواب</item>
+        <item>۱ ساعت قبل از وقت خواب</item>
+        <item>خاموش</item>
+    </string-array>
+    <string-array name="clock_style_entries">
+        <item>آنالوگ</item>
+        <item>دیجیتال</item>
+    </string-array>
+    <string-array name="crescendo_entries">
+        <item>@string/crescendo_entry_never</item>
+        <item>۵ ثانیه</item>
+        <item>۱۰ ثانیه</item>
+        <item>۱۵ ثانیه</item>
+        <item>۲۰ ثانیه</item>
+        <item>۲۵ ثانیه</item>
+        <item>۳۰ ثانیه</item>
+        <item>۳۵ ثانیه</item>
+        <item>۴۰ ثانیه</item>
+        <item>۴۵ ثانیه</item>
+        <item>۵۰ ثانیه</item>
+        <item>۵۵ ثانیه</item>
+        <item>۶۰ ثانیه</item>
+    </string-array>
+    <string-array name="sleep_duration">
+        <item>%2$s</item>
+        <item>%1$s</item>
+        <item>%1$s %2$s</item>
+    </string-array>
+    <string-array name="sleep_sound_length_content_descriptions">
+        <item>توقف بعد از ۱۰ دقیقه</item>
+        <item>توقف بعد از ۲۰ دقیقه</item>
+        <item>توقف بعد از ۳۰ دقیقه</item>
+        <item>توقف بعد از ۴۰ دقیقه</item>
+        <item>توقف بعد از ۵۰ دقیقه</item>
+        <item>توقف بعد از ۱ ساعت</item>
+    </string-array>
+    <string-array name="sleep_sound_length_descriptions">
+        <item>توقف بعد از ۱۰ دقیقه</item>
+        <item>توقف بعد از ۲۰ دقیقه</item>
+        <item>توقف بعد از ۳۰ دقیقه</item>
+        <item>توقف بعد از ۴۰ دقیقه</item>
+        <item>توقف بعد از ۵۰ دقیقه</item>
+        <item>توقف بعد از ۱ ساعت</item>
+    </string-array>
+    <string-array name="sleep_sound_length_entries">
+        <item>۱۰ دقیقه</item>
+        <item>۲۰ دقیقه</item>
+        <item>۳۰ دقیقه</item>
+        <item>۴۰ دقیقه</item>
+        <item>۵۰ دقیقه</item>
+        <item>۱ ساعت</item>
+    </string-array>
+    <string-array name="snooze_duration_entries">
+        <item>۱ دقیقه</item>
+        <item>۲ دقیقه</item>
+        <item>۳ دقیقه</item>
+        <item>۴ دقیقه</item>
+        <item>۵ دقیقه</item>
+        <item>۶ دقیقه</item>
+        <item>۷ دقیقه</item>
+        <item>۸ دقیقه</item>
+        <item>۹ دقیقه</item>
+        <item>۱۰ دقیقه</item>
+        <item>۱۱ دقیقه</item>
+        <item>۱۲ دقیقه</item>
+        <item>۱۳ دقیقه</item>
+        <item>۱۴ دقیقه</item>
+        <item>۱۵ دقیقه</item>
+        <item>۱۶ دقیقه</item>
+        <item>۱۷ دقیقه</item>
+        <item>۱۸ دقیقه</item>
+        <item>۱۹ دقیقه</item>
+        <item>۲۰ دقیقه</item>
+        <item>۲۱ دقیقه</item>
+        <item>۲۲ دقیقه</item>
+        <item>۲۳ دقیقه</item>
+        <item>۲۴ دقیقه</item>
+        <item>۲۵ دقیقه</item>
+        <item>۲۶ دقیقه</item>
+        <item>۲۷ دقیقه</item>
+        <item>۲۸ دقیقه</item>
+        <item>۲۹ دقیقه</item>
+        <item>۳۰ دقیقه</item>
+    </string-array>
+    <string-array name="timer_duration">
+        <item>زمان‌سنج</item>
+        <item>زمان‌سنج: %3$s</item>
+        <item>زمان‌سنج: %2$s</item>
+        <item>زمان‌سنج: %2$s %3$s</item>
+        <item>زمان‌سنج: %1$s</item>
+        <item>زمان‌سنج: %1$s %3$s</item>
+        <item>زمان‌سنج: %1$s %2$s</item>
+        <item>زمان‌سنج: %1$s %2$s %3$s</item>
+    </string-array>
+    <string-array name="timer_duration_short">
+        <item>زمان‌سنج</item>
+        <item>زمان‌سنج: %3$s</item>
+        <item>زمان‌سنج: %2$s</item>
+        <item>زمان‌سنج: %3$s %2$s</item>
+        <item>زمان‌سنج: %1$s</item>
+        <item>زمان‌سنج: %3$s %1$s</item>
+        <item>زمان‌سنج: %2$s %1$s</item>
+        <item>زمان‌سنج: %3$s %2$s %1$s</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>جزایر مارشال</item>
+        <item>جزیره میدوی</item>
+        <item>هاوایی</item>
+        <item>آلاسکا</item>
+        <item>وقت اقیانوس آرام</item>
+        <item>تیهوانا</item>
+        <item>آریزونا</item>
+        <item>چیواوا</item>
+        <item>وقت کوه‌های راکی</item>
+        <item>آمریکای مرکزی</item>
+        <item>وقت مرکزی</item>
+        <item>مکزیکوسیتی</item>
+        <item>ساسکاچوان</item>
+        <item>بوگوتا</item>
+        <item>وقت شرقی</item>
+        <item>ونزوئلا</item>
+        <item>زمان اقیانوس اطلس (باربادوس)</item>
+        <item>زمان اقیانوس اطلس (کانادا)</item>
+        <item>ماناوس</item>
+        <item>سانتیاگو</item>
+        <item>نیوفاندلند</item>
+        <item>برازیلیا</item>
+        <item>بوینوس آیرس</item>
+        <item>گرینلند</item>
+        <item>مونته ویدئو</item>
+        <item>آتلانتیک میانی</item>
+        <item>آزور</item>
+        <item>جزایر کیپ ورد</item>
+        <item>کازابلانکا</item>
+        <item>لندن، دوبلین</item>
+        <item>آمستردام، برلین</item>
+        <item>بلگراد</item>
+        <item>بروکسل</item>
+        <item>سارایوو</item>
+        <item>ويندهوک</item>
+        <item>وقت غرب آفریقا</item>
+        <item>عمان، اردن</item>
+        <item>آتن، استانبول</item>
+        <item>بیروت، لبنان</item>
+        <item>قاهره</item>
+        <item>هلسینکی</item>
+        <item>بیت‌المقدس</item>
+        <item>مينسک</item>
+        <item>هراره</item>
+        <item>بغداد</item>
+        <item>مسکو</item>
+        <item>کویت</item>
+        <item>نایروبی</item>
+        <item>تهران</item>
+        <item>باکو</item>
+        <item>تفلیس</item>
+        <item>ایروان</item>
+        <item>دبی</item>
+        <item>کابل</item>
+        <item>اسلام آباد، کراچی</item>
+        <item>اورالسک</item>
+        <item>یکاترینبورگ</item>
+        <item>کلکته</item>
+        <item>سری لانکا</item>
+        <item>کاتماندو</item>
+        <item>آستانا</item>
+        <item>یانگون</item>
+        <item>کراسنویارسک</item>
+        <item>بانکوک</item>
+        <item>پکن</item>
+        <item>هنگ کنگ</item>
+        <item>ایرکوتسک</item>
+        <item>کوالالامپور</item>
+        <item>پرث</item>
+        <item>تایپه</item>
+        <item>سئول</item>
+        <item>توکیو، اوزاکا</item>
+        <item>یاکوتسک</item>
+        <item>آدلاید</item>
+        <item>داروین</item>
+        <item>بریسبین</item>
+        <item>هوبارت</item>
+        <item>سیدنی، کانبرا</item>
+        <item>ولادی ووستوک</item>
+        <item>گوام</item>
+        <item>ماگادان</item>
+        <item>اوکلند</item>
+        <item>فیجی</item>
+        <item>تونگا</item>
+        <item>جاکارتا</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>@string/alarm_alert_snooze_text</item>
+        <item>توقف</item>
+        <item>کنترل بلندی صدا</item>
+        <item>كاری انجام نشود</item>
+    </string-array>
+    <string-array name="wakeup_alarm_description">
+        <item>زنگ بیداری کمتراز یک دقیقه دیگر به‌صدا درمی‌آید</item>
+        <item>زنگ بیداری %1$s دیگر به‌صدا درمی‌آید</item>
+        <item>زنگ بیداری %2$s دیگر به‌صدا درمی‌آید</item>
+        <item>زنگ بیداری %1$s و %2$s دیگر به‌صدا درمی‌آید</item>
+        <item>زنگ بیداری %3$s دیگر به‌صدا درمی‌آید</item>
+        <item>زنگ بیداری %1$s و %3$s دیگر به‌صدا درمی‌آید</item>
+        <item>زنگ بیداری %2$s و %3$s دیگر به‌صدا درمی‌آید</item>
+        <item>زنگ بیداری %1$s و %2$s و %3$s دیگر به‌صدا درمی‌آید</item>
+    </string-array>
+    <string-array name="week_start_entries">
+        <item>جمعه</item>
+        <item>شنبه</item>
+        <item>یک شنبه</item>
+        <item>دوشنبه</item>
+    </string-array>
+</resources>

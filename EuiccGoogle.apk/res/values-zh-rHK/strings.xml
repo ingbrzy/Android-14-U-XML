@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">向上瀏覽</string>
+    <string name="abc_action_mode_done">完成</string>
+    <string name="abc_capital_off">關閉</string>
+    <string name="abc_capital_on">開啟</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+    <string name="abc_menu_delete_shortcut_label">刪除</string>
+    <string name="abc_menu_enter_shortcut_label">Enter 鍵</string>
+    <string name="abc_menu_function_shortcut_label">Fn +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Shift +</string>
+    <string name="abc_menu_space_shortcut_label">空白鍵</string>
+    <string name="abc_menu_sym_shortcut_label">Sym +</string>
+    <string name="abc_prepend_shortcut_label">Menu +</string>
+    <string name="abc_search_hint">搜尋…</string>
+    <string name="abc_searchview_description_clear">清除查詢</string>
+    <string name="abc_searchview_description_search">搜尋</string>
+    <string name="abc_searchview_description_submit">提交查詢</string>
+    <string name="abc_searchview_description_voice">語音搜尋</string>
+    <string name="abc_toolbar_collapse_description">收合</string>
+    <string name="activation_code_scan_button">改為掃瞄二維條碼</string>
+    <string name="activation_code_text">請輸入流動網絡供應商提供的代碼</string>
+    <string name="activation_code_title">新增網絡供應商</string>
+    <string name="add_profile_title">新增流動網絡供應商</string>
+    <string name="asked_for_eid">要在商店內啟用嗎？如果服務人員要求你提供 EID，你可以%1$s。</string>
+    <string name="back_button_error_msg">為免出錯，你無法在設定過程中離開此畫面</string>
+    <string name="body_check_qr_code_or_go_back">請確定你掃瞄正確的 QR 碼。</string>
+    <string name="body_device_is_locked">你的裝置已由 %1$s 鎖定。</string>
+    <string name="body_device_is_locked_no_name">你的裝置已鎖定。</string>
+    <string name="body_issue_with_sim_profile">你的 SIM 卡發生問題。如要解決問題，請致電 %2$s 與 %1$s 聯絡。</string>
+    <string name="body_issue_with_sim_profile_maximum_attempts">嘗試次數已達上限。如需協助連線，請致電 %2$s 與 %1$s 聯絡。</string>
+    <string name="body_issue_with_sim_profile_maximum_attempts_no_name">嘗試次數已達上限。如需協助連線，請與你的流動網絡供應商聯絡。</string>
+    <string name="body_issue_with_sim_profile_maximum_attempts_no_tel">嘗試次數已達上限。如需協助連線，請與 %1$s 聯絡。</string>
+    <string name="body_issue_with_sim_profile_no_name">你的 SIM 卡發生問題。如要解決問題，請與你的流動網絡供應商聯絡。</string>
+    <string name="body_issue_with_sim_profile_no_tel">你的 SIM 卡發生問題。如要解決問題，請與 %1$s 聯絡。</string>
+    <string name="body_issue_with_sim_profile_used_on_another_device">此 SIM 卡正在其他裝置上使用。如要解決問題，請致電 %2$s 與 %1$s 聯絡。</string>
+    <string name="body_issue_with_sim_profile_used_on_another_device_no_name">此 SIM 卡正在其他裝置上使用。如要解決問題，請與你的流動網絡供應商聯絡。</string>
+    <string name="body_issue_with_sim_profile_used_on_another_device_no_tel">此 SIM 卡正在其他裝置上使用。如要解決問題，請與 %1$s 聯絡。</string>
+    <string name="body_make_sure_not_already_downloaded">"請確保所選的 SIM 卡尚未在此裝置或其他裝置下載。
+
+如需更多協助，請致電 %2$s 與 %1$s 聯絡"</string>
+    <string name="body_make_sure_not_already_downloaded_no_name">"請確保所選的 SIM 卡尚未在此裝置或其他裝置下載。
+
+如需更多協助，請與你的流動網絡供應商聯絡。"</string>
+    <string name="body_make_sure_not_already_downloaded_no_tel">"請確保所選的 SIM 卡尚未在此裝置或其他裝置下載。
+
+如需更多協助，請與 %1$s 聯絡"</string>
+    <string name="body_need_wifi_connection">你需要 Wi-Fi 連線，才能下載 eSIM 卡。</string>
+    <string name="body_need_wifi_or_mobile_connection">你需要 Wi-Fi 或流動網絡連線，才能下載 eSIM 卡。</string>
+    <string name="body_not_enough_space_to_download">空間不足，無法下載此 SIM 卡。</string>
+    <string name="body_sim_has_expired">"你的 eSIM 卡已失效。
+如要取得新 SIM 卡，請致電 %2$s 與 %1$s 聯絡"</string>
+    <string name="body_sim_has_expired_no_name">"你的 eSIM 卡已失效。
+如要取得新 SIM 卡，請與你的流動網絡供應商聯絡。"</string>
+    <string name="body_sim_has_expired_no_tel">"你的 eSIM 卡已失效。
+如要取得新 SIM 卡，請與 %1$s 聯絡"</string>
+    <string name="body_something_went_wrong">嘗試啟用你的號碼時發生錯誤。</string>
+    <string name="bottomsheet_action_expand_halfway">展開一半</string>
+    <string name="button_text_close">關閉</string>
+    <string name="button_text_settings">設定</string>
+    <string name="cancel_button">取消</string>
+    <string name="cant_get_eid_please_contact_carrier">發生問題，目前找不到你的裝置 EID 號碼，請聯絡你的流動網絡供應商尋求協助。</string>
+    <string name="carrier_confirm_subtitle">你應該已經申請使用此網絡</string>
+    <string name="carrier_confirm_title">確認你的網絡</string>
+    <string name="carrier_selection_msg">選擇你已有帳戶，且想在這部手機上使用的流動網絡供應商</string>
+    <string name="carrier_selection_psim">改用 SIM 卡</string>
+    <string name="carrier_selection_title">確認你的流動網絡供應商</string>
+    <string name="choose_carrier_title">選擇要使用的流動網絡供應商</string>
+    <string name="choose_number_activating">正在啟用…</string>
+    <string name="choose_number_could_not_activate">目前無法啟用</string>
+    <string name="choose_number_error_no_space">如要使用其他號碼或網絡，你需要先在「設定」中刪除 1 個或多個現有號碼以騰出空間</string>
+    <string name="choose_number_error_perm">如要使用其他號碼或網絡，請聯絡網絡供應商尋求協助</string>
+    <string name="choose_number_error_temp">如要使用其他號碼或網絡，稍後請前往「設定」啟用</string>
+    <string name="choose_number_item_summary_unknown">電話號碼不明</string>
+    <string name="choose_number_subtitle">{count,plural, =1{已新增 1 個號碼至此裝置，但每次只能使用 1 個號碼}other{已新增 # 個號碼至此裝置，但每次只能使用 1 個號碼}}</string>
+    <string name="choose_number_title">選擇要使用的號碼</string>
+    <string name="choose_second_number_subtitle">你可以在此裝置上使用目前的號碼以及第二個號碼</string>
+    <string name="choose_second_number_subtitle_with_psim_carrier_name">你可以在此裝置上使用%1$s號碼以及第二個號碼</string>
+    <string name="choose_second_number_subtitle_with_psim_phone_number">你可以在此裝置上使用 %1$s 以及第二個號碼</string>
+    <string name="choose_second_number_title">選擇第二個號碼</string>
+    <string name="common_google_play_services_enable_button">啟用</string>
+    <string name="common_google_play_services_enable_text">你必須啟用 Google Play 服務，方可執行「%1$s」。</string>
+    <string name="common_google_play_services_enable_title">啟用 Google Play 服務</string>
+    <string name="common_google_play_services_install_button">安裝</string>
+    <string name="common_google_play_services_install_text">你的裝置尚未安裝 Google Play 服務，因此無法執行「%1$s」。</string>
+    <string name="common_google_play_services_install_title">安裝 Google Play 服務</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play 服務的適用範圍</string>
+    <string name="common_google_play_services_notification_ticker">Google Play 服務錯誤</string>
+    <string name="common_google_play_services_unknown_issue">「%1$s」存取 Google Play 服務時發生問題。請稍後再試一次。</string>
+    <string name="common_google_play_services_unsupported_text">你的裝置不支援 Google Play 服務，因此無法執行「%1$s」。</string>
+    <string name="common_google_play_services_update_button">更新</string>
+    <string name="common_google_play_services_update_text">你必須更新「Google Play 服務」，才能執行 %1$s。</string>
+    <string name="common_google_play_services_update_title">更新 Google Play 服務</string>
+    <string name="common_google_play_services_updating_text">正在更新 Google Play 服務，更新完成後方可執行「%1$s」。</string>
+    <string name="common_google_play_services_wear_update_text">需要使用新版本的 Google Play 服務。更新會即將自動開始。</string>
+    <string name="common_open_on_phone">在手機開啟</string>
+    <string name="complete_service_setup_text">你已啟用%1$s的服務</string>
+    <string name="complete_service_setup_title">完成%1$s設定</string>
+    <string name="complete_update_esim_notification_body_text">輕按即可完成軟件更新</string>
+    <string name="complete_update_esim_notification_title">完成流動網絡連線</string>
+    <string name="confirm_acti_no_space_sub1">如要使用其他號碼，你需要先刪除此裝置上的現有號碼以騰出空間。你稍後可以在「設定」中完成此操作。</string>
+    <string name="confirm_acti_no_space_sub1_multi">如要使用其他號碼或網絡，你需要先刪除此裝置上的現有號碼以騰出空間。你稍後可以在「設定」中完成此操作。</string>
+    <string name="confirm_acti_perm_error_sub1">如要使用其他號碼，請致電 %2$s，聯絡%1$s尋求協助。你可能需要此裝置的 EID 號碼：</string>
+    <string name="confirm_acti_perm_error_sub1_multi">如要使用其他號碼或網絡，請致電 %2$s，聯絡%1$s尋求協助。你可能需要此裝置的 EID 號碼：</string>
+    <string name="confirm_acti_perm_error_sub1_multi_no_carrier_name">如要使用其他號碼或網絡，請聯絡網絡供應商尋求協助。你可能需要此裝置的 EID 號碼：</string>
+    <string name="confirm_acti_perm_error_sub1_multi_no_phone">如要使用其他號碼或網絡，請聯絡%1$s尋求協助。你可能需要此裝置的 EID 號碼：</string>
+    <string name="confirm_acti_perm_error_sub1_no_carrier_name">如要使用其他號碼，請聯絡網絡供應商尋求協助。你可能需要此裝置的 EID 號碼：</string>
+    <string name="confirm_acti_perm_error_sub1_no_eid">如要使用其他號碼，請致電 %2$s，聯絡%1$s尋求協助</string>
+    <string name="confirm_acti_perm_error_sub1_no_eid_multi">如要使用其他號碼或網絡，請致電 %2$s，聯絡%1$s尋求協助</string>
+    <string name="confirm_acti_perm_error_sub1_no_eid_multi_no_phone">如要使用其他號碼或網絡，請聯絡%1$s尋求協助</string>
+    <string name="confirm_acti_perm_error_sub1_no_eid_no_carrier_name">如要使用其他號碼，請聯絡網絡供應商尋求協助</string>
+    <string name="confirm_acti_perm_error_sub1_no_eid_no_phone">如要使用其他號碼，請聯絡%1$s尋求協助</string>
+    <string name="confirm_acti_perm_error_sub1_no_phone">如要使用其他號碼，請聯絡%1$s尋求協助。你可能需要此裝置的 EID 號碼：</string>
+    <string name="confirm_acti_success_sub_title">%1$s 現可使用</string>
+    <string name="confirm_acti_success_sub_title_no_phone">你的號碼已可使用</string>
+    <string name="confirm_acti_success_sub_title_w_app">如要完成啟用 %1$s 的流程，你將需要下載%2$s應用程式。現在，我們先完成你的手機設定。</string>
+    <string name="confirm_acti_success_sub_title_w_app_no_name">如要完成啟用 %1$s 的流程，你將需要下載網絡供應商的應用程式。現在，我們先完成你的手機設定。</string>
+    <string name="confirm_acti_success_sub_title_w_app_no_name_setting">如要完成啟用 %1$s 的流程，你將需要下載網絡供應商的應用程式</string>
+    <string name="confirm_acti_success_sub_title_w_app_no_phone">如要完成啟用號碼的流程，你將需要下載%1$s應用程式。現在，我們先完成你的手機設定。</string>
+    <string name="confirm_acti_success_sub_title_w_app_no_phone_no_name">如要完成啟用號碼的流程，你將需要下載網絡供應商的應用程式。現在，我們先完成你的手機設定。</string>
+    <string name="confirm_acti_success_sub_title_w_app_no_phone_no_name_setting">如要完成啟用號碼的流程，你將需要下載網絡供應商的應用程式</string>
+    <string name="confirm_acti_success_sub_title_w_app_no_phone_setting">如要完成啟用號碼的流程，你將需要下載%1$s應用程式</string>
+    <string name="confirm_acti_success_sub_title_w_app_setting">如要完成啟用 %1$s 的流程，你將需要下載%2$s應用程式</string>
+    <string name="confirm_acti_success_title">已連接至 %1$s</string>
+    <string name="confirm_acti_success_title_no_carrier_name">你的網絡已啟用</string>
+    <string name="confirm_acti_success_title_with_app">稍後才連接至%1$s</string>
+    <string name="confirm_acti_success_title_with_app_no_name">稍後才連接至你的網絡</string>
+    <string name="confirm_acti_temp_error_sub1">如要使用其他號碼，稍後請前往「設定」啟用</string>
+    <string name="confirm_acti_temp_error_sub1_multi">如要使用其他號碼或網絡，稍後請前往「設定」啟用</string>
+    <string name="confirm_code_try_again">確認碼不正確，請再試一次。</string>
+    <string name="confirm_transfer_single_carrier_dsds_msg">完成轉移後，你的舊裝置將無法繼續使用 %1$s。插入 SIM 卡並完成設定後，你就可以轉移第二個號碼。</string>
+    <string name="confirm_transfer_single_carrier_msg">完成轉移後，你的舊裝置將無法繼續使用 %1$s</string>
+    <string name="confirm_transfer_single_carrier_title">要轉移%1$s號碼嗎？</string>
+    <string name="confirmation_code_body_text">你的流動網絡供應商應該已將驗證碼傳送給你。輸入驗證碼，即可連線至網絡。</string>
+    <string name="confirmation_code_body_text_with_carrier">「%1$s」應該已將確認碼傳送給你。輸入驗證碼，即可連線至網絡。</string>
+    <string name="confirmation_code_title">輸入驗證碼</string>
+    <string name="confirmation_code_what">這是甚麼？</string>
+    <string name="contact_carrier_description">如要設定 SIM 卡，你需要致電 %2$s 聯絡「%1$s」</string>
+    <string name="contact_carrier_description_eid">EID 號碼。</string>
+    <string name="contact_carrier_description_eid_additional">"
+
+你可能需要此裝置的"</string>
+    <string name="contact_carrier_title">聯絡「%1$s」</string>
+    <string name="continue_button">繼續</string>
+    <string name="copy">複製</string>
+    <string name="customer_service_activate_service">客戶服務專員可以使用此 EID 號碼協助你啟用服務：</string>
+    <string name="data_plan_select_subtitle">轉移號碼後，你的舊裝置將無法繼續使用此號碼</string>
+    <string name="data_plan_select_title">選擇要轉移的號碼</string>
+    <string name="def_notif_activating_title">你的%1$s號碼正在啟用中…</string>
+    <string name="def_notif_activation_fail_subtitle">輕按以查看詳情</string>
+    <string name="def_notif_activation_fail_title">無法啟用你的%1$s號碼</string>
+    <string name="def_notif_activation_success_dsds_subtitle">選擇你的通話、短訊和數據偏好設定</string>
+    <string name="def_notif_activation_success_dsds_title">你的號碼現在應可使用</string>
+    <string name="def_notif_activation_success_title">你的%1$s號碼已啟用</string>
+    <string name="default_display_name">SIM</string>
+    <string name="default_profile_nickname_format">%1$s %2$d</string>
+    <string name="deferred_setup_notification_description">Ready to connect to mobile network</string>
+    <string name="deferred_setup_notification_title">Set you your %1$s SIM</string>
+    <string name="detail_contact_carrier_for_more_help">如需更多協助，請與你的流動網絡供應商聯絡。</string>
+    <string name="detail_contact_carrier_to_unlock">請致電 %2$s 與 %1$s 聯絡，瞭解能否解鎖裝置。</string>
+    <string name="detail_contact_carrier_to_unlock_no_name">請與你的流動網絡供應商聯絡，瞭解能否解鎖裝置。</string>
+    <string name="detail_contact_carrier_to_unlock_no_tel">請與 %1$s 聯絡，瞭解能否解鎖裝置。</string>
+    <string name="detail_delete_a_profile_before_retrying">如要騰出儲存空間，請前往「設定」頁面清除一張 SIM 卡，然後再試一次。</string>
+    <string name="detail_may_need_eid_number">EID：%1$s</string>
+    <string name="detail_provide_info_to_carrier">"你可向流動網絡供應商提供以下資料：
+%1$s
+%2$s"</string>
+    <string name="detail_try_adding_again">連接網絡後，請再嘗試新增流動網絡。</string>
+    <string name="disable_carrier_dialog_text">"此裝置會立即與網絡解除連接。
+
+此操作不會取消任何流動服務計劃。"</string>
+    <string name="disable_carrier_dialog_text_with_carrier">"此裝置會立即與 %1$s 解除連接。
+
+此操作不會取消任何流動服務計劃。"</string>
+    <string name="disable_carrier_dialog_title">要停用流動網絡供應商嗎？</string>
+    <string name="disable_fail_text">發生問題，無法停用你的流動網絡供應商。</string>
+    <string name="disable_fail_title">無法停用流動網絡供應商</string>
+    <string name="disable_profile_title">停用</string>
+    <string name="disabled_profiles_title">可用的流動網絡供應商</string>
+    <string name="disabling_carrier">正在停用流動網絡供應商…</string>
+    <string name="done_button">完成</string>
+    <string name="download_complete_text">請前往「設定」啟用此 SIM 卡</string>
+    <string name="download_complete_text_with_carrier">請前往「設定」開啟 %1$s。</string>
+    <string name="download_complete_title">已下載 eSIM 卡</string>
+    <string name="download_esim_button">Download eSIM</string>
+    <string name="download_fail_dialog_text">發生錯誤，無法下載 eSIM 卡，請再試一次。如果問題持續，請聯絡 %1$s。</string>
+    <string name="download_fail_dialog_text_no_carrier_name">發生錯誤，因此無法下載 eSIM 卡，請再試一次。如果問題持續，請聯絡你的流動網絡供應商。</string>
+    <string name="download_fail_dialog_title">無法下載 eSIM 卡</string>
+    <string name="download_sub_multi_carriers_text">{count,plural, =1{系統正從%1$s和另外 1 個流動網絡供應商下載 &lt;b>%2$d 個號碼&lt;/b>。此過程可能需要一段時間。}other{系統正從%1$s和另外 %3$d 個流動網絡供應商下載 &lt;b>%2$d 個號碼&lt;/b>。此過程可能需要一段時間。}}</string>
+    <string name="download_sub_text">{count,plural, =1{系統正從%1$s下載你的號碼。此過程可能需要一段時間。}other{系統正從%1$s下載 &lt;b>%2$d 個號碼&lt;/b>。此過程可能需要一段時間。}}</string>
+    <string name="download_sub_title">{count,plural, =1{正在加入你的號碼…}other{正在加入你的號碼…}}</string>
+    <string name="download_sub_transform_title">正在檢查服務…</string>
+    <string name="download_switch_confirm_mep_dialog_message">此裝置可以同時使用 2 張 SIM 卡。如要下載並使用另一張 SIM 卡，請關閉使用中的 SIM 卡。</string>
+    <string name="download_switch_confirm_mep_dialog_title">關閉 SIM 卡以繼續</string>
+    <string name="download_web_sub_text">這個過程需時一至兩分鐘，有時會更久</string>
+    <string name="download_web_sub_title">正在設定服務…</string>
+    <string name="downloading_no_carrier_name_title">正在下載 eSIM 卡…</string>
+    <string name="downloading_with_carrier_name_title">正在下載 %1$s eSIM 卡…</string>
+    <string name="dsds_activation_failure_body_msg1">請移除 SIM 卡再重新插入。如果問題持續發生，請重新啟動裝置。</string>
+    <string name="dsds_activation_failure_body_msg2">請嘗試再次啟用 SIM 卡。如果問題持續發生，請重新啟動裝置。</string>
+    <string name="dsds_activation_failure_title">無法啟用 SIM 卡</string>
+    <string name="dsds_activation_text">正在啟用 SIM 卡…</string>
+    <string name="dsds_activation_text_in_esim_activation">正在更新…</string>
+    <string name="dsds_choose_number_text">此裝置已有 %1$d 個號碼，但每次只能使用一個號碼</string>
+    <string name="dsds_choose_number_title">選擇要使用的號碼</string>
+    <string name="dsds_choose_second_number_text">你可以在此裝置上同時使用 2 個號碼。%1$s 已啟用。</string>
+    <string name="dsds_choose_second_number_title">選擇第二個號碼</string>
+    <string name="dsds_learn_more_button">瞭解詳情</string>
+    <string name="dsds_notification_after_reboot_text">輕按以更新 SIM 卡設定</string>
+    <string name="dsds_notification_after_reboot_text_carrier">輕按以更新%1$s設定</string>
+    <string name="dsds_notification_after_reboot_title_carrier">已啟用%1$s</string>
+    <string name="dsds_notification_after_reboot_title_phone">已啟用 %1$s</string>
+    <string name="dsds_notification_after_suw_text">選擇你要使用的 SIM 卡或同時使用 2 張 SIM 卡</string>
+    <string name="dsds_notification_after_suw_title">設定你的其他 SIM 卡</string>
+    <string name="dsds_switch_dialog_no_switch_text">如要在之後才使用流動數據、通話功能和短訊，請前往網絡設定</string>
+    <string name="dsds_switch_dialog_no_switch_title">沒有使用中的 SIM 卡</string>
+    <string name="dsds_switch_dialog_progress_text">正在切換至%1$s…</string>
+    <string name="dsds_switch_dialog_text">%1$s將用於流動數據、通話和短訊。</string>
+    <string name="dsds_switch_dialog_title">要使用%1$s嗎？</string>
+    <string name="eid_not_found">找不到裝置 EID</string>
+    <string name="eid_number">顯示詳細資料</string>
+    <string name="eid_qr_code_dialog_error_msg">無法使用 EID 的二維條碼。</string>
+    <string name="eid_qr_code_dialog_title">你的裝置 EID</string>
+    <string name="enable_carrier_dialog_text">"此裝置將連接至 %1$s，而非 %2$s。
+
+此操作不會取消任何流動服務計劃。"</string>
+    <string name="enable_carrier_dialog_text_from_removable">"此裝置將連接「%1$s」，而非目前的 SIM 卡。
+
+此操作不會取消任何流動服務計劃。"</string>
+    <string name="enable_carrier_dialog_text_to_removable">"此裝置將連接插入的 SIM 卡，而非 %1$s。
+
+此操作不會取消任何流動服務計劃。"</string>
+    <string name="enable_carrier_dialog_title">要切換流動網絡供應商嗎？</string>
+    <string name="enable_fail_text">發生錯誤，無法切換流動網絡供應商。</string>
+    <string name="enable_fail_title">無法切換流動網絡供應商</string>
+    <string name="enable_profile_title">啟用</string>
+    <string name="enabling_carrier">正在連接至網絡…</string>
+    <string name="enter_manually_button">手動輸入</string>
+    <string name="enter_qr_code_button_title">手動輸入代碼</string>
+    <string name="erase_sim_confirm_button">清除</string>
+    <string name="erase_sim_dialog_text">"清除此 SIM 卡即會從此裝置中移除 %1$s 服務。
+
+%1$s 的服務將不會取消。"</string>
+    <string name="erase_sim_dialog_title">要清除這張 eSIM 卡嗎？</string>
+    <string name="erase_sim_fail_text">"由於發生錯誤，因此無法清除此 SIM 卡。
+
+請重新開機，然後再試一次。"</string>
+    <string name="erase_sim_fail_title">無法清除 SIM 卡</string>
+    <string name="erasing_carriers">正在重設流動網絡供應商…</string>
+    <string name="erasing_sim">正在清除 SIM 卡…</string>
+    <string name="error_code_text">錯誤代碼</string>
+    <string name="error_screen_title_multiple_carrier">網絡尚未啟用</string>
+    <string name="error_screen_title_single_carrier">%1$s尚未啟用</string>
+    <string name="error_screen_title_single_carrier_no_name">網絡尚未啟用</string>
+    <string name="esim_setup_channel_id">網絡啟用</string>
+    <string name="esim_warning_title">下載 eSIM 卡</string>
+    <string name="esim_warning_txt_default">這會取代標準的 SIM 卡，而且同樣安全</string>
+    <string name="esim_warning_txt_default_tmo_esim_primary">下載 SIM 卡的常用資訊，以連接流動網絡。這會取代標準的 SIM 卡，而且同樣安全。</string>
+    <string name="euicc_settings_title">硬件設定</string>
+    <string name="euicc_title">SIM 卡管理工具</string>
+    <string name="expand_button_title">進階</string>
+    <string name="find_it_here">在此搜尋</string>
+    <string name="get_default_sub_title">正在檢查網絡資料…</string>
+    <string name="get_help_ask_for_eid_v2">流動網絡供應商或會要求你提供可識別此手機的 %1$s。</string>
+    <string name="get_help_skip_mobile_setup">略過流動裝置設定</string>
+    <string name="get_help_text">看不到你的電話號碼嗎？請致電 %2$s 聯絡%1$s尋求協助</string>
+    <string name="get_help_text_multiple_carriers_no_phone">如果有流動網絡供應商的號碼數量比預期更多，請聯絡他們尋求協助</string>
+    <string name="get_help_text_no_phone">看不到你的電話號碼嗎？請聯絡%1$s尋求協助。</string>
+    <string name="get_help_text_single_carrier">如果你毋需使用 %3$d 個號碼，請致電 %2$s，聯絡 %1$s 尋求協助</string>
+    <string name="get_help_text_single_carrier_no_phone">如果你毋需使用 %2$d 個號碼，請聯絡 %1$s 尋求協助</string>
+    <string name="get_help_text_single_carrier_no_phone_with_eid">如果你毋需使用 %2$d 個號碼，請聯絡%1$s尋求協助。你可能需要此裝置的 EID 號碼：</string>
+    <string name="get_help_title">尋求有關設定的協助</string>
+    <string name="get_metadata_fail_title">無法載入流動網絡資料</string>
+    <string name="help_add_network_info1_msg1_v2">掃瞄 QR 碼時遇到問題嗎？%1$s</string>
+    <string name="help_add_network_info2_msg1">你亦可以%1$s，以連接網絡</string>
+    <string name="help_add_network_info3">仍未解決問題？請致電 %1$s 聯絡你的網絡供應商，以尋求協助</string>
+    <string name="help_add_network_info3_no_phone">仍未解決問題？請聯絡你的網絡供應商以尋求協助</string>
+    <string name="help_add_network_subtitle">查看裝置隨附的紙張或流動網絡供應商向你傳送的電郵，找出你的 QR 碼。</string>
+    <string name="help_add_network_title">協助新增網絡</string>
+    <string name="insert_psim_button">插入標準 SIM 卡</string>
+    <string name="insert_text">如果你有 SIM 卡，請現在插入</string>
+    <string name="insert_title">連線至流動網絡</string>
+    <string name="install_system_update_dialog_body_text">如要下載 eSIM 卡，你需要為此手機安裝最新的系統更新。更新過程只需數分鐘。</string>
+    <string name="install_system_update_dialog_title">要安裝系統更新嗎？</string>
+    <string name="install_update_button">安裝更新</string>
+    <string name="insufficient_space_description_q">{count,plural, =1{如要使用你的號碼，你需要先刪除此裝置上的現有號碼以騰出空間。你稍後可以在「設定」中完成此操作。}other{如要使用你的號碼，你需要先刪除此裝置上的現有號碼以騰出空間。你稍後可以在「設定」中完成此操作。}}</string>
+    <string name="legal_notices">%1$s、%2$s和%3$s</string>
+    <string name="low_battery_alert_body_text">為免更新中斷，請先將手機連接至電源。</string>
+    <string name="low_battery_alert_title">手機電量不足</string>
+    <string name="manually_add_msg1_v2">如果你有二維條碼，%1$s。如果商店服務人員要求你提供 EID 號碼，你可以%2$s。</string>
+    <string name="mobile_network_connection_alert_description">如略過此步驟，你將無法連線至流動網絡。如要連接網絡，之後可在「設定」中新增 SIM 卡。</string>
+    <string name="mobile_network_connection_alert_title">要略過流動網絡設定嗎？</string>
+    <string name="msg_choose_download_type">選擇在此裝置上安全啟用號碼的方式</string>
+    <string name="msg_install_app_notification">輕按以繼續</string>
+    <string name="msg_portal_intro">你需要使用%1$s使用者名稱和密碼登入</string>
+    <string name="msg_sign_in_button">登入%1$s</string>
+    <string name="msg_transfer_type_portal">你需要使用自己的使用者名稱和密碼登入</string>
+    <string name="msg_transfer_type_qr">%1$s或已向你傳送一個二維條碼</string>
+    <string name="mtrl_checkbox_state_description_checked">Checked</string>
+    <string name="mtrl_checkbox_state_description_indeterminate">Partially checked</string>
+    <string name="mtrl_checkbox_state_description_unchecked">Not checked</string>
+    <string name="multiple_carrier_download_number_count">{count,plural, =1{1 個號碼}other{# 個號碼}}</string>
+    <string name="next_button">繼續</string>
+    <string name="no_licenses_found_error">發生錯誤，因此無法找到授權。</string>
+    <string name="no_qr_code_info_insert_btn">改為插入 SIM 卡</string>
+    <string name="no_qr_code_info_text">查看裝置隨附的紙張或流動網絡供應商向你傳送的電郵，以找出你的二維條碼。若找不到，可以稍後才新增流動網絡供應商。</string>
+    <string name="no_qr_code_scan_button">掃瞄二維條碼</string>
+    <string name="no_qr_code_title">設定選項</string>
+    <string name="no_thanks_button">不用了，謝謝</string>
+    <string name="no_wifi_dialog_message">你需要 Wi-Fi 才可下載 SIM 卡</string>
+    <string name="no_wifi_dialog_title">連線至 Wi-Fi</string>
+    <string name="not_set">未設定</string>
+    <string name="notification_carrier_unknown">{count,plural, =1{你現在可以加入另外 1 個號碼}other{你現在可以加入另外 # 個號碼}}</string>
+    <string name="notification_channel_ota_update">流動網絡供應商更新</string>
+    <string name="notification_multiple_carrier_name_known">{count,plural, =1{現已準備好加入%1$s的號碼和另外 %2$d 個號碼}other{現已準備好加入%1$s的號碼和另外 %2$d 個號碼}}</string>
+    <string name="notification_single_carrier_name_known">{count,plural, =1{你現在可以加入%1$s的號碼}other{你現在可以加入%1$s的號碼}}</string>
+    <string name="notification_tap_setup">輕按即可設定</string>
+    <string name="open_source_licenses">開放原始碼授權</string>
+    <string name="operation_code_text">運行代碼</string>
+    <string name="os_version">OS 版本</string>
+    <string name="ota_error_notification_msg">重新啟動手機後就能繼續使用流動服務。</string>
+    <string name="ota_error_notification_title">無法更新流動網絡供應商</string>
+    <string name="ota_notification_msg">更新完成後就能繼續使用流動服務</string>
+    <string name="ota_notification_title">正在完成流動網絡供應商更新…</string>
+    <string name="perm_error_description_q">{count,plural, =1{嘗試啟用你的號碼時發生錯誤。請致電 %2$s 聯絡%1$s以尋求協助。}other{嘗試啟用你的號碼時發生錯誤。請致電 %2$s 聯絡%1$s以尋求協助。}}</string>
+    <string name="perm_error_description_q_multi_carrier">嘗試啟用你的號碼時發生錯誤。請聯絡你的網絡供應商以尋求協助。</string>
+    <string name="perm_error_description_q_no_phone">{count,plural, =1{嘗試啟用你的號碼時發生錯誤。請聯絡%1$s以尋求協助。}other{嘗試啟用你的號碼時發生錯誤。請聯絡%1$s以尋求協助。}}</string>
+    <string name="perm_error_description_q_no_phone_no_carrier_name">{count,plural, =1{嘗試啟用你的號碼時發生錯誤。請聯絡你的網絡供應商以尋求協助。}other{嘗試啟用你的號碼時發生錯誤。請聯絡你的網絡供應商以尋求協助。}}</string>
+    <string name="perm_error_q_sub2_eid">你可能需要此裝置的 %1$s</string>
+    <string name="pixel_support_page_button">Pixel 支援頁面</string>
+    <string name="pre_activation_ota_update_complete_subtitle">已成功更新軟件，你現在可以繼續下載 eSIM 卡。</string>
+    <string name="pre_activation_ota_update_complete_title">更新完成</string>
+    <string name="pre_activation_ota_update_error_msg1">此手機無法下載 eSIM 卡。</string>
+    <string name="pre_activation_ota_update_error_msg2_v2">"你亦可使用 SIM 卡，或者前往以下網站尋求協助：
+%1$s。"</string>
+    <string name="pre_activation_ota_update_error_title">更新尚未完成</string>
+    <string name="pre_activation_ota_update_subtitle">已完成 %1$d%%。請在更新期間留在此畫面。</string>
+    <string name="pre_activation_ota_update_title">更新中…</string>
+    <string name="pre_activation_ota_user_consent_msg1">你需要最新版本的 SIM 卡管理工具，方可下載 eSIM 卡。更新過程需時 4-5 分鐘。</string>
+    <string name="pre_activation_ota_user_consent_msg2">為免更新中斷，請勿離開此畫面。更新期間只可撥打緊急電話。</string>
+    <string name="pre_activation_ota_user_consent_title">要更新 eSIM 卡軟件嗎？</string>
+    <string name="preference_copied">「%1$s」已複製到剪貼簿。</string>
+    <string name="privacy_policy">私隱權政策</string>
+    <string name="privacy_warning_message">繼續操作即表示你允許%1$s驗證可在網絡上識別此裝置的資料。</string>
+    <string name="privileged_action_disable_sub_dialog_progress">正在關閉 SIM…</string>
+    <string name="privileged_action_disable_sub_dialog_text">關閉%1$s會將啟用中的流動網絡供應商切換為%2$s。</string>
+    <string name="privileged_action_disable_sub_dialog_title">要關閉 %1$s 嗎？</string>
+    <string name="privileged_action_enable_sub_dialog_title">要啟用 %1$s 嗎？</string>
+    <string name="privileged_action_switch_psim_dialog_title">要改用 SIM 卡嗎？</string>
+    <string name="privileged_action_switch_sub_dialog_confirm">切換至%1$s</string>
+    <string name="privileged_action_switch_sub_dialog_progress">正在切換至「%1$s」</string>
+    <string name="privileged_action_switch_sub_dialog_text">"每次只可啟用一張 SIM 卡。
+
+切換至 %1$s 將不會取消 %2$s 的服務。"</string>
+    <string name="privileged_action_switch_sub_dialog_text_downloaded">"每次只可啟用 1 張 eSIM 卡。
+
+切換至「%1$s」將不會取消「%2$s」的服務。"</string>
+    <string name="privileged_action_switch_sub_dialog_text_no_to">"每次只可啟用一張 SIM 卡。
+
+切換至其他服務將不會取消 %1$s 的服務。"</string>
+    <string name="privileged_action_switch_sub_dialog_title">要切換至%1$s嗎？</string>
+    <string name="privileged_action_turn_on_sub_dialog_progress">正在開啟「%1$s」</string>
+    <string name="profile_disabled">已停用</string>
+    <string name="profile_disabled_confirmation_body_text">輸入 PIN 碼即可啟用 eSIM 卡</string>
+    <string name="profile_disabled_confirmation_title">eSIM 卡已停用</string>
+    <string name="profile_enabled">已啟用</string>
+    <string name="profile_enabled_with_phone_number">已啟用，%1$s</string>
+    <string name="profile_list_action_bar_title">流動網絡供應商</string>
+    <string name="profile_transfer_activation_fail_available_phone_number_description">"發生問題。你的 %1$s SIM 卡已轉移至此裝置，但尚無法使用。
+
+ 請致電 %3$s. 聯絡 %2$s 以尋求協助
+
+你可能需要此裝置的 EID 號碼：
+
+%4$s"</string>
+    <string name="profile_transfer_activation_fail_available_phone_number_title">無法啟用號碼</string>
+    <string name="profile_transfer_activation_fail_unavailable_phone_number_description">"發生問題。你的 %1$s 號碼 (%2$s) 已轉移至此裝置，但未連接網絡。
+
+ 請致電 %4$s. 聯絡 %3$s 以尋求協助
+
+你可能需要此裝置的 EID 號碼：
+
+%5$s"</string>
+    <string name="profile_transfer_activation_fail_unavailable_phone_number_title">無法啟用流動網絡</string>
+    <string name="profile_transfer_connecting_description">連線中…</string>
+    <string name="profile_transfer_downloading_deferred_notification_content">正在連接到 %1$s 伺服器…</string>
+    <string name="profile_transfer_downloading_deferred_notification_title">正在下載 %1$s</string>
+    <string name="profile_transfer_error_deferred_notification_title">無法轉移 %1$s</string>
+    <string name="profile_transfer_error_title">無法轉移 %1$s 的 SIM 卡</string>
+    <string name="profile_transfer_non_recoverable_error_deferred_notification_action">瞭解詳情</string>
+    <string name="profile_transfer_non_recoverable_error_deferred_notification_content">嘗試轉移 SIM 卡時發生問題，請致電 %2$s 聯絡 %1$s 以尋求協助。</string>
+    <string name="profile_transfer_non_recoverable_error_description">"嘗試轉移 SIM 卡時發生問題，請致電 %2$s 聯絡 %1$s 以尋求協助。
+
+你可能需要此裝置的 EID 號碼：
+
+%3$s"</string>
+    <string name="profile_transfer_recoverable_error_deferred_notification_content">嘗試轉移 SIM 卡時發生問題，你可以再試一次來解決問題</string>
+    <string name="profile_transfer_recoverable_error_description">嘗試轉移 SIM 卡時發生問題。</string>
+    <string name="profile_transfer_retry_button">重試</string>
+    <string name="profile_transfer_success_deferred_notification_content">%1$s 已可供使用</string>
+    <string name="profile_transfer_success_deferred_notification_title">成功轉移 SIM 卡</string>
+    <string name="profile_transfer_suw_recoverable_error_description">嘗試轉移 SIM 卡時發生問題，你可以再試一次來解決問題。</string>
+    <string name="psim_guide_dialog_message">SIM 卡槽位於手機的邊緣。使用 SIM 卡針或萬字夾打開卡槽，然後插入 SIM 卡。</string>
+    <string name="psim_guide_dialog_title">請插入 SIM 卡</string>
+    <string name="q_download_sub_text">此程序可能需時幾分鐘</string>
+    <string name="q_download_sub_title">正在連線至 %1$s…</string>
+    <string name="q_multiple_carrier_confirm_title">選擇要啟用的網絡</string>
+    <string name="q_multiple_carrier_metadata_confirm_subtitle">{count,plural, =1{有 1 個號碼可供此裝置使用。啟用服務後，網絡供應商可能會開始向你收取服務費用。}other{有 # 個號碼可供此裝置使用。啟用服務後，網絡供應商可能會開始向你收取服務費用。}}</string>
+    <string name="q_result_download_metadata_text">{count,plural, =1{此裝置可使用 1 個 %1$s 號碼。啟用服務後，%1$s 可能會開始向你收費。}other{此裝置可使用 # 個 %1$s 號碼。啟用服務後，%1$s 可能會開始向你收費。}}</string>
+    <string name="qr_scanner_end_button">找不到二維條碼嗎？</string>
+    <string name="qr_scanner_failed_msg">你的相機發生錯誤，請稍後再試。</string>
+    <string name="qr_scanner_failed_title">無法使用你的相機</string>
+    <string name="qr_scanner_msg">如果流動網絡供應商向你提供二維條碼，請將條碼保持在方框正中以即時掃描</string>
+    <string name="qr_scanner_msg_q">如果%1$s向你提供二維條碼，請將條碼保持在方框正中以即時掃描</string>
+    <string name="qr_scanner_msg_q_no_carrier_name">如果網絡供應商向你提供 QR 碼，現在請將 QR 碼保持在方框正中央，即可掃瞄</string>
+    <string name="qr_scanner_title">使用二維條碼新增流動網絡供應商</string>
+    <string name="qr_scanner_title_q">掃描%1$s的二維條碼</string>
+    <string name="qr_scanner_title_q_no_carrier_name">掃瞄網絡的 QR 碼</string>
+    <string name="reactivate_error_dialog_body">嘗試啟用你的號碼時發生錯誤。請稍後再試或重新插入 SIM 卡。</string>
+    <string name="reactivate_error_dialog_title_with_carrier_name">%1$s尚未啟用</string>
+    <string name="reactivate_error_dialog_title_without_carrier_name">SIM 卡未啟用</string>
+    <string name="reason_code_text">原因代碼</string>
+    <string name="reboot_button_title">重新啟動手機</string>
+    <string name="remove_carrier_dialog_text_disabled">"此裝置將無法再連接 %1$s。
+
+此操作不會取消任何流動服務計劃。"</string>
+    <string name="remove_carrier_dialog_text_enabled">"此裝置會立即與 %1$s 解除連接。
+
+此操作不會取消任何流動服務計劃。"</string>
+    <string name="remove_carrier_dialog_title">要刪除流動網絡供應商嗎？</string>
+    <string name="remove_fail_text">發生問題，無法刪除你的流動網絡供應商。</string>
+    <string name="remove_fail_title">無法刪除流動網絡供應商</string>
+    <string name="remove_profile_title">刪除</string>
+    <string name="removing_carrier">正在刪除流動網絡供應商…</string>
+    <string name="res_activate_profile_later_button">稍後啟用</string>
+    <string name="res_activation_button">連線</string>
+    <string name="res_continue_info1_general_multi_carriers">{count,plural, =1{很抱歉，我們無法加入你的%1$s號碼和另外 %2$d 個流動網絡供應商號碼。}other{很抱歉，我們無法加入你的%1$s號碼和另外 %2$d 個流動網絡供應商號碼。}}</string>
+    <string name="res_continue_info1_general_no_carrier">{count,plural, =1{很抱歉，我們無法加入你流動網絡供應商的 &lt;b>1 個號碼&lt;/b>。}other{很抱歉，我們無法加入你任何流動網絡供應商的號碼。}}</string>
+    <string name="res_continue_info1_general_single_carrier">{count,plural, =1{很抱歉，我們無法加入%1$s的 &lt;b>%2$d 個號碼&lt;/b>。}other{很抱歉，我們無法加入%1$s的 &lt;b>%2$d 個號碼&lt;/b>。}}</string>
+    <string name="res_continue_info1_no_mem_multi_carriers">{count,plural, =1{剩餘空間不足，無法加入你的%1$s號碼和另外 %2$d 個流動網絡供應商號碼。}other{剩餘空間不足，無法加入你的 %1$s號碼和另外 %2$d 個流動網絡供應商號碼。}}</string>
+    <string name="res_continue_info1_no_mem_no_carrier">{count,plural, =1{剩餘空間不足，無法加入 &lt;b>1 個號碼&lt;/b>。}other{剩餘空間不足，無法加入你任何流動網絡供應商的號碼。}}</string>
+    <string name="res_continue_info1_no_mem_single_carrier">{count,plural, =1{剩餘空間不足，無法加入%1$s的 &lt;b>%2$d 個號碼&lt;/b>。}other{剩餘空間不足，無法加入%1$s的 &lt;b>%2$d 個號碼&lt;/b>。}}</string>
+    <string name="res_continue_info_item_2">如果無法使用流動服務，請聯絡 %1$s 尋求協助。</string>
+    <string name="res_continue_info_item_2_no_carrier_name">如果無法使用流動服務，請聯絡你的流動網絡供應商尋求協助</string>
+    <string name="res_continue_text_partial_complete_multiple_carriers">{count,plural, =1{你已加入%2$s和%3$s的 &lt;b>%1$d 個號碼&lt;/b>}=2{你已加入%2$s、%3$s和另外 %4$d 個流動網絡供應商的 &lt;b>%1$d 個號碼&lt;/b>}other{你已加入%2$s、%3$s和另外 %4$d 個流動網絡供應商的 &lt;b>%1$d 個號碼&lt;/b>}}</string>
+    <string name="res_continue_text_partial_complete_single_carrier">{count,plural, =1{你已加入%2$s的 &lt;b>%1$d 個號碼&lt;/b>}other{你已加入%2$s的 &lt;b>%1$d 個號碼&lt;/b>}}</string>
+    <string name="res_continue_title_all_success">{count,plural, =1{已加入電話號碼}other{已加入 # 個號碼}}</string>
+    <string name="res_continue_title_partial_success">已加入 %1$d 個號碼 (共 %2$d 個)</string>
+    <string name="res_download_button">下載</string>
+    <string name="res_enter_pin_button">輸入 PIN</string>
+    <string name="res_need_help_button">需要協助嗎？</string>
+    <string name="res_start_button">開始</string>
+    <string name="reset_button">重設</string>
+    <string name="reset_dialog_carriers_body">要清除裝置上的所有流動網絡供應商嗎？此操作將無法復原。</string>
+    <string name="reset_dialog_carriers_title">要重設流動網絡供應商嗎？</string>
+    <string name="reset_fail_text">發生問題，無法重設你的流動網絡供應商。</string>
+    <string name="reset_fail_title">無法重設流動網絡供應商</string>
+    <string name="reset_screen_text_bottom">此操作不會取消任何流動服務計劃。</string>
+    <string name="reset_screen_text_top">這項操作將移除裝置上的所有流動網絡供應商：</string>
+    <string name="reset_screen_title">重設流動網絡供應商</string>
+    <string name="result_connect_title">要連線至 %1$s 嗎？</string>
+    <string name="result_download_metadata_text">{count,plural, =1{有 1 個 %1$s 號碼可供此裝置使用。}other{有 # 個 %1$s 號碼可供此裝置使用。}}</string>
+    <string name="result_download_text">{count,plural, =1{現已準備好將%1$s的號碼加到手機}other{現已準備好將%1$s的 &lt;b>%2$d 個號碼&lt;/b>加到這部手機}}</string>
+    <string name="result_download_title">要下載 %1$s eSIM 卡嗎？</string>
+    <string name="scan_it_now">立即掃瞄</string>
+    <string name="send_feedback">傳送意見</string>
+    <string name="set_up_button">Set up</string>
+    <string name="settings_gear_label">設定</string>
+    <string name="sim_action_switch_sub_dialog_carrier_list_item_for_turning_off">關閉%1$s</string>
+    <string name="sim_action_switch_sub_dialog_info_outline_for_turning_off">關閉 SIM 卡並不會取消服務</string>
+    <string name="sim_card_label">SIM 卡</string>
+    <string name="sim_illustration_bottom_alt_text">將螢幕向住自己，然後搵充電埠。SIM 槽喺手機底部充電埠嘅左邊。卡槽係平嘅，兩邊有細嘅凸起點，左邊有一個細窿。將萬字夾或者 SIM 卡取卡針個尾插入呢個窿就可以開卡槽。插入 SIM 卡嘅時候，請將凹口對準卡槽。只有呢個方向先可以插入 SIM 卡。</string>
+    <string name="sim_illustration_bottom_left_alt_text">將螢幕向住自己，然後搵充電埠。喺手機嘅左邊向上郁手指，就可以搵到 SIM 卡槽。SIM 卡槽係平嘅，兩邊有細嘅凸起點，卡槽頂附近有一個細窿。將萬字夾或者 SIM 卡取卡針個尾插入呢個窿就可以開卡槽。插入 SIM 卡嘅時候，請將凹口對準卡槽。只有呢個方向先可以插入 SIM 卡。</string>
+    <string name="sim_illustration_top_left_alt_text">將螢幕向住自己，然後搵充電埠。喺手機嘅左邊向上郁手指，就可以搵到 SIM 卡槽。SIM 卡槽係平嘅，兩邊有細嘅凸起點，卡槽頂附近有一個細窿。將萬字夾或者 SIM 卡取卡針個尾插入呢個窿就可以開卡槽。插入 SIM 卡嘅時候，請將凹口對準卡槽。只有呢個方向先可以插入 SIM 卡。</string>
+    <string name="sim_locked_text">"此手機目前被另一間流動網絡供應商鎖定，請使用有效的 SIM 卡。
+
+插入 SIM 卡後，可能需時數秒才能啟動。"</string>
+    <string name="sim_locked_title">不支援 SIM 卡</string>
+    <string name="sim_missing_activity_esim_button_title">下載新 eSIM 卡</string>
+    <string name="sim_missing_activity_esim_transfer_button_title">從舊手機轉移 SIM 卡</string>
+    <string name="sim_missing_activity_psim_hint">瞭解如何使用 SIM 卡</string>
+    <string name="sim_missing_activity_subtitle_no_psim">請立即下載 eSIM 卡或插入 SIM 卡。</string>
+    <string name="sim_missing_activity_subtitle_psim_exists">"如要新增其他 SIM 卡，請下載新的 eSIM 卡。
+
+請先從手機中移除現有 SIM 卡，才能使用其他 SIM 卡"</string>
+    <string name="sim_missing_activity_subtitle_tmo_esim_primary">你現在可以下載 SIM 卡或插入 SIM 卡</string>
+    <string name="sim_missing_activity_subtitle_with_psim">如要使用新的 SIM 卡，你需要先移除目前裝置內的電話卡</string>
+    <string name="sim_missing_activity_with_tmo_esim_primary_button_title">下載你的 SIM 卡</string>
+    <string name="sim_ready_message">此手機先前已設定號碼</string>
+    <string name="sim_ready_message_carrier_app">你需要下載 %2$s 應用程式，才能完成 %1$s 的啟用程序。現在請先完成手機的設定程序。</string>
+    <string name="sim_ready_message_invalid_phone_number_carrier_app">你需要下載 %1$s 應用程式，才能完成號碼的啟用程序。現在請先完成手機的設定程序。</string>
+    <string name="sim_ready_title">裝置上已有 eSIM 卡</string>
+    <string name="sim_ready_title_carrier_app">請稍後再連線至 %1$s</string>
+    <string name="skip_button">略過</string>
+    <string name="status_title">狀態</string>
+    <string name="subject_code_text">主題代碼</string>
+    <string name="sud_back_button_label">返回</string>
+    <string name="sud_more_button_label">更多</string>
+    <string name="sud_next_button_label">繼續</string>
+    <string name="summary_collapsed_preference_list">%1$s、%2$s</string>
+    <string name="suw_carrier_support_to_complete_activation_no_carrier_v2">如要啟用服務，請聯絡流動網絡供應商尋求協助。</string>
+    <string name="suw_default_failed_msg_no_carrier">很抱歉，由於發生問題，因此無法新增電話號碼</string>
+    <string name="suw_failed_title">尚未完成設定</string>
+    <string name="suw_pii_sent_msg">設定所需的部分裝置資訊會傳送至 Google、你的流動網絡供應商及其合作夥伴</string>
+    <string name="suw_setting_up_phone_info">尚餘少於一分鐘</string>
+    <string name="suw_setting_up_phone_title">正在設定你的手機…</string>
+    <string name="suw_sim_missing_activity_for_delayed_setup_decription">"When you're done setting up your phone, go to Settings to connect to your mobile network. Or, if you have a SIM card, insert it now."</string>
+    <string name="suw_sim_missing_activity_for_delayed_setup_title">Connect to mobile network after setup</string>
+    <string name="switch_button">切換</string>
+    <string name="switch_confirm_mep_dialog_message">此裝置可以同時使用 2 張 SIM 卡。</string>
+    <string name="switch_confirm_mep_dialog_title">關閉其中一張 SIM 卡才能使用 %1$s</string>
+    <string name="switch_confirm_message">%1$s連線將會暫時解除</string>
+    <string name="switch_confirm_message_no_carrier">你的流動網絡連線將會暫時解除</string>
+    <string name="switch_confirm_new_title">使用 Wi‑Fi 下載 SIM 卡</string>
+    <string name="switch_confirm_no_active_profile_message">允許網絡供應商下載 SIM 卡</string>
+    <string name="switch_confirm_no_active_profile_title">系統即將下載你的 SIM 卡</string>
+    <string name="switch_confirm_no_wifi_message">以便你使用其他網絡</string>
+    <string name="switch_confirm_no_wifi_title">要中斷與%1$s的連線嗎？</string>
+    <string name="switch_confirm_no_wifi_title_no_carrier">要中斷與流動網絡的連線嗎？</string>
+    <string name="switch_restriction_message_to_connect_to">如要連接到「%2$s」(而非「%1$s」)，請先移除「%1$s」的 SIM 卡，然後再試一次。</string>
+    <string name="switch_restriction_message_to_switch_from">如要從「%1$s」轉用其他流動網絡供應商，請先移除「%1$s」的 SIM 卡，然後再試一次。</string>
+    <string name="switch_restriction_title_remove_sim">移除 SIM 卡</string>
+    <string name="sys_notification_5g_enable_dsds_text">"此裝置可以同時使用 2 張 SIM 卡。
+
+使用 2 張 SIM 卡時，此手機將只能使用 4G。%1$s"</string>
+    <string name="sys_notification_after_dsds_reboot_text">輕按即可完成啟用其他 SIM 卡</string>
+    <string name="sys_notification_after_dsds_reboot_title">已準備好同時使用 2 張 SIM 卡</string>
+    <string name="sys_notification_enable_dsds_text">此裝置可以同時使用 2 張 SIM 卡。如要繼續每次使用一張 SIM 卡，請輕按 [不用了，謝謝]。</string>
+    <string name="sys_notification_enable_dsds_title">要使用 2 張 SIM 卡嗎？</string>
+    <string name="sys_notification_no_thanks">不用了，謝謝</string>
+    <string name="sys_notification_reboot">重新啟動</string>
+    <string name="sys_notification_restart_text">如要開始使用，請重新啟動你的裝置。然後你就可以新增其他 SIM 卡。</string>
+    <string name="sys_notification_restart_title">要重新啟動裝置嗎？</string>
+    <string name="sys_notification_selected_text">你的流動網絡已變更</string>
+    <string name="sys_notification_switched_title">已切換至 %1$s</string>
+    <string name="sys_notification_switched_title_no_carrier_name">已切換至另一個流動網絡供應商</string>
+    <string name="sys_notification_title">轉用流動網絡供應商</string>
+    <string name="temp_error_description_q">{count,plural, =1{嘗試啟用你的號碼時發生錯誤。你稍後可在「設定」中再試一次。}other{嘗試啟用你的號碼時發生錯誤。你稍後可在「設定」中再試一次。}}</string>
+    <string name="terms_of_service">服務條款</string>
+    <string name="text_bottom_transfer_carrier_info">看不到你的流動網絡供應商嗎？請聯絡你的流動網絡供應商尋求協助。</string>
+    <string name="title_app_required">稍後才連接至%1$s</string>
+    <string name="title_cannot_connect_to_network_no_name">無法連接網絡</string>
+    <string name="title_cannot_download">無法下載 SIM 卡</string>
+    <string name="title_choose_download_type">啟用你的%1$s號碼</string>
+    <string name="title_choose_transfer_type">選擇轉移%1$s號碼的方式</string>
+    <string name="title_incorrect_qr_code">QR 碼不正確</string>
+    <string name="title_install_app_notification">下載%1$s應用程式來設定你的號碼</string>
+    <string name="title_network_not_activated">網絡尚未啟用</string>
+    <string name="title_no_connection">無法連接互聯網</string>
+    <string name="title_portal_intro">轉移你的%1$s號碼</string>
+    <string name="title_profile_already_downloaded">已下載 SIM 卡</string>
+    <string name="title_transfer_type_portal">登入你的%1$s帳戶</string>
+    <string name="title_transfer_type_qr">掃描二維條碼</string>
+    <string name="transfer_button">轉移</string>
+    <string name="transfer_device_transfer_error">(無法轉移)</string>
+    <string name="transfer_in_device_name">「%1$s」錯誤：%2$s</string>
+    <string name="transfer_profile_downloading_description">你可以繼續設定 %1$s</string>
+    <string name="transfer_single_description_with_esim">"%1$s will be transferred to this phone.
+
+After you transfer your SIM to this phone, it will no longer work on your other device."</string>
+    <string name="transfer_single_description_with_psim">"You can convert your SIM card into an eSIM and
+transfer it to this phone. After it's been
+converted, your SIM card can't be used again."</string>
+    <string name="transfer_single_psim_hint">Learn how to use a SIM card</string>
+    <string name="transfer_single_psim_sub_info">Or, insert the SIM card now.</string>
+    <string name="transfer_single_subItem_title_with_number">號碼不正確嗎？</string>
+    <string name="transfer_single_subItem_title_without_number_esim">eSIM 卡不正確嗎？</string>
+    <string name="transfer_single_subItem_title_without_number_unknown">SIM 卡不正確嗎？</string>
+    <string name="transfer_single_title">Transfer %1$s SIM?</string>
+    <string name="transfer_subItem_desc">轉為下載新的 eSIM 卡</string>
+    <string name="transfer_subItem_title_with_number">號碼不正確嗎？</string>
+    <string name="transfer_subItem_title_without_number_esim">eSIM 卡不正確嗎？</string>
+    <string name="transfer_subItem_title_without_number_unknown">SIM 卡不正確嗎？</string>
+    <string name="transfer_title_unknown_sim">選取要轉移的 SIM 卡</string>
+    <string name="transfer_title_with_number">選取要轉移的號碼</string>
+    <string name="transfer_title_without_number">選取要轉移的 eSIM 卡</string>
+    <string name="update_button">更新</string>
+    <string name="use_different_network">使用其他網絡</string>
+    <string name="use_different_network_button">使用其他網絡</string>
+    <string name="user_consent_download_active_profile_body_text">下載期間將關閉 %1$s</string>
+    <string name="user_consent_download_mobile_data_body_text">系統會透過流動網絡下載 SIM 卡</string>
+    <string name="user_consent_download_no_name_body_text">下載期間將關閉目前使用的 SIM 卡</string>
+    <string name="user_consent_download_over_wifi_title">要使用 Wi-Fi 下載 SIM 卡嗎？</string>
+    <string name="user_consent_download_ss_no_profile_title">要允許流動網絡供應商下載 SIM 卡嗎？</string>
+    <string name="user_consent_download_ss_no_profile_wifi_body_text">系統會透過 Wi-Fi 下載 SIM 卡</string>
+    <string name="user_consent_download_switch_body_text">"如要下載並使用其他 SIM 卡，請關閉 %1$s。
+
+關閉 %1$s 並不會取消服務。"</string>
+    <string name="user_consent_download_switch_dsds_no_name_body_text">"如要下載並使用其他 SIM 卡，請關閉目前使用的 SIM 卡。
+
+關閉 SIM 卡並不會取消服務。"</string>
+    <string name="user_consent_download_switch_dsds_no_name_title">要關閉 SIM 卡嗎？</string>
+    <string name="user_consent_download_switch_no_profile_body_text">SIM 卡將在下載後立即使用</string>
+    <string name="user_consent_download_switch_ss_no_name_body_text">"如要下載並使用其他 SIM 卡，請關閉目前使用的 SIM 卡。
+
+關閉 SIM 卡並不會取消服務。"</string>
+    <string name="user_consent_download_switch_ss_no_name_title">要關閉 SIM 卡嗎？</string>
+    <string name="user_consent_switch_dsds_body_text">"此裝置只可使用 1 張 eSIM 卡。
+
+系統將會關閉「%1$s」，但服務不會因此取消。"</string>
+    <string name="user_consent_switch_dsds_no_name_body_text">"此裝置只可使用 1 張 eSIM 卡。
+
+系統將關閉目前的 SIM 卡，但服務不會因此取消。"</string>
+    <string name="user_consent_switch_mep_dsds_body_text">系統將關閉「%1$s」，但服務不會因此取消。</string>
+    <string name="user_consent_switch_mep_dsds_no_name_body_text">系統將關閉目前的 SIM 卡，但服務不會因此取消。</string>
+    <string name="user_consent_switch_no_name_title">要使用新 SIM 卡嗎？</string>
+    <string name="user_consent_switch_ss_body_text">"此裝置只可使用 1 張 SIM 卡。
+
+系統將會關閉 %1$s，但服務不會因此取消。"</string>
+    <string name="user_consent_switch_ss_no_name_body_text">"此裝置只可使用 1 張 SIM 卡。
+
+系統將關閉目前的 SIM 卡，但服務不會因此取消。"</string>
+    <string name="user_consent_switch_title">要使用 %1$s 嗎？</string>
+    <string name="v7_preference_off">關閉</string>
+    <string name="v7_preference_on">開啟</string>
+    <string name="wait_msg">請稍候…</string>
+    <string name="wrong_code_dialog_text">"為加強安全性，部分流動網絡供應商要求使用驗證碼。在哪裡可以找到驗證碼：
+
+• 裝置隨附的紙張
+• 流動網絡供應商向你傳送的電郵
+• 傳送到你舊裝置的短訊"</string>
+    <string name="yes_button">是</string>
+</resources>

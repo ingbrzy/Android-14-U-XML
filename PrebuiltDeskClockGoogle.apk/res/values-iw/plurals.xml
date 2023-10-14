@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="alarm_alert_snooze_duration">
+        <item quantity="other">%d דקות</item>
+        <item quantity="one">%d דקות</item>
+        <item quantity="two">%d דקות</item>
+    </plurals>
+    <plurals name="alarm_alert_snooze_set">
+        <item quantity="other">עובר למצב נודניק למשך %d דקות.</item>
+        <item quantity="one">עובר למצב נודניק למשך %d דקות.</item>
+        <item quantity="two">עובר למצב נודניק למשך %d דקות.</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%s ימים</item>
+        <item quantity="one">%s ימים</item>
+        <item quantity="two">%s ימים</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">לפני %s ימים</item>
+        <item quantity="one">לפני %s ימים</item>
+        <item quantity="two">לפני יומיים (%s)</item>
+    </plurals>
+    <plurals name="days_extra_short">
+        <item quantity="other">%s ימים</item>
+        <item quantity="one">%s ימים</item>
+        <item quantity="two">יומיים (%s)</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s שעות</item>
+        <item quantity="one">%s שעות</item>
+        <item quantity="two">%s שעות</item>
+    </plurals>
+    <plurals name="hours_extra_short">
+        <item quantity="other">%s ש‘</item>
+        <item quantity="one">%s ש‘</item>
+        <item quantity="two">%s ש‘</item>
+    </plurals>
+    <plurals name="hours_short">
+        <item quantity="other">‏%s שע‘</item>
+        <item quantity="one">‏%s שע‘</item>
+        <item quantity="two">‏%s שע‘</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s דקות</item>
+        <item quantity="one">%s דקות</item>
+        <item quantity="two">%s דקות</item>
+    </plurals>
+    <plurals name="minutes_extra_short">
+        <item quantity="other">%s ד‘</item>
+        <item quantity="one">%s ד‘</item>
+        <item quantity="two">%s ד‘</item>
+    </plurals>
+    <plurals name="minutes_short">
+        <item quantity="other">‏%s דק‘</item>
+        <item quantity="one">‏%s דק‘</item>
+        <item quantity="two">‏%s דק‘</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d התראות חדשות</item>
+        <item quantity="one">%d התראות חדשות</item>
+        <item quantity="two">%d התראות חדשות</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%s שניות</item>
+        <item quantity="one">%s שניות</item>
+        <item quantity="two">%s שניות</item>
+    </plurals>
+    <plurals name="seconds_extra_short">
+        <item quantity="other">%s ש‘</item>
+        <item quantity="one">%s ש‘</item>
+        <item quantity="two">%s ש‘</item>
+    </plurals>
+</resources>

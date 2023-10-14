@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">瀏覽首頁</string>
+    <string name="abc_action_bar_up_description">向上瀏覽</string>
+    <string name="abc_action_menu_overflow_description">更多選項</string>
+    <string name="abc_action_mode_done">完成</string>
+    <string name="abc_activity_chooser_view_see_all">查看全部</string>
+    <string name="abc_activitychooserview_choose_application">選擇應用程式</string>
+    <string name="abc_capital_off">關閉</string>
+    <string name="abc_capital_on">開啟</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+    <string name="abc_menu_delete_shortcut_label">Delete 鍵</string>
+    <string name="abc_menu_enter_shortcut_label">Enter 鍵</string>
+    <string name="abc_menu_function_shortcut_label">Fn +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Shift +</string>
+    <string name="abc_menu_space_shortcut_label">空格鍵</string>
+    <string name="abc_menu_sym_shortcut_label">Sym +</string>
+    <string name="abc_prepend_shortcut_label">Menu +</string>
+    <string name="abc_search_hint">搜尋…</string>
+    <string name="abc_searchview_description_clear">清除查詢</string>
+    <string name="abc_searchview_description_query">搜尋查詢</string>
+    <string name="abc_searchview_description_search">搜尋</string>
+    <string name="abc_searchview_description_submit">提交查詢</string>
+    <string name="abc_searchview_description_voice">語音搜尋</string>
+    <string name="abc_shareactionprovider_share_with">分享對象</string>
+    <string name="abc_shareactionprovider_share_with_application">與「%s」分享</string>
+    <string name="abc_toolbar_collapse_description">收合</string>
+    <string name="activity_resolver_use_always">一律採用</string>
+    <string name="activity_resolver_use_once">僅限一次</string>
+    <string name="activity_resolver_work_profiles_support">「%1$s」不支援工作資料夾</string>
+    <string name="call_notification_answer_action">接聽</string>
+    <string name="call_notification_answer_video_action">視訊</string>
+    <string name="call_notification_decline_action">拒接</string>
+    <string name="call_notification_hang_up_action">掛斷</string>
+    <string name="call_notification_incoming_text">來電</string>
+    <string name="call_notification_ongoing_text">通話中</string>
+    <string name="call_notification_screening_text">正在過濾來電</string>
+    <string name="chooseActivity">選擇一項操作</string>
+    <string name="chooser_no_direct_share_targets">沒有建議的分享對象</string>
+    <string name="exclude_link">排除連結</string>
+    <string name="exclude_text">排除文字</string>
+    <string name="file_preview_a11y_description">檔案預覽縮圖</string>
+    <string name="forward_intent_to_owner">你目前並非透過工作資料夾使用這個應用程式</string>
+    <string name="forward_intent_to_work">你目前透過工作設定檔使用這個應用程式</string>
+    <string name="image_preview_a11y_description">圖片預覽縮圖</string>
+    <string name="include_link">加回連結</string>
+    <string name="include_text">加回文字</string>
+    <string name="miniresolver_open_in_personal">要在個人資料夾中開啟「%s」嗎？</string>
+    <string name="miniresolver_open_in_work">要在工作資料夾中開啟「%s」嗎？</string>
+    <string name="miniresolver_use_personal_browser">使用個人瀏覽器</string>
+    <string name="miniresolver_use_work_browser">使用工作瀏覽器</string>
+    <string name="more_files">{count,plural, =1{和另外 # 個檔案}other{和另外 # 個檔案}}</string>
+    <string name="noApplications">沒有應用程式可執行這項操作。</string>
+    <string name="other_files">{count,plural, =1{和 # 個檔案}other{和 # 個檔案}}</string>
+    <string name="pin_specific_target">將「%1$s」置頂</string>
+    <string name="resolver_cant_access_personal_apps_explanation">無法使用個人應用程式開啟這項內容</string>
+    <string name="resolver_cant_access_work_apps_explanation">無法使用工作應用程式開啟這項內容</string>
+    <string name="resolver_cant_share_with_personal_apps_explanation">無法與個人應用程式分享這項內容</string>
+    <string name="resolver_cant_share_with_work_apps_explanation">無法透過工作應用程式分享這項內容</string>
+    <string name="resolver_cross_profile_blocked">IT 管理員已封鎖這項操作</string>
+    <string name="resolver_no_personal_apps_available">沒有適用的個人應用程式</string>
+    <string name="resolver_no_work_apps_available">沒有適用的工作應用程式</string>
+    <string name="resolver_personal_tab">個人</string>
+    <string name="resolver_personal_tab_accessibility">個人檢視模式</string>
+    <string name="resolver_switch_on_work">取消暫停</string>
+    <string name="resolver_turn_on_work_apps">工作應用程式目前為暫停狀態</string>
+    <string name="resolver_work_tab">工作</string>
+    <string name="resolver_work_tab_accessibility">工作檢視模式</string>
+    <string name="screenshot_edit">編輯</string>
+    <string name="search_menu_title">搜尋</string>
+    <string name="sharing_files">{count,plural, =1{正在分享 # 個檔案}other{正在分享 # 個檔案}}</string>
+    <string name="sharing_files_only">{count,plural, =1{只有檔案}other{只有檔案}}</string>
+    <string name="sharing_files_with_link">{count,plural, =1{分享含有連結的檔案}other{分享含有連結的 # 個檔案}}</string>
+    <string name="sharing_files_with_text">{count,plural, =1{分享含有文字的檔案}other{分享含有文字的 # 個檔案}}</string>
+    <string name="sharing_images">{count,plural, =1{分享圖片}other{分享 # 張圖片}}</string>
+    <string name="sharing_images_only">{count,plural, =1{只有圖片}other{只有圖片}}</string>
+    <string name="sharing_images_with_link">{count,plural, =1{分享含有連結的圖片}other{分享 # 張含有連結的圖片}}</string>
+    <string name="sharing_images_with_text">{count,plural, =1{分享含有文字的圖片}other{分享 # 張含有文字的圖片}}</string>
+    <string name="sharing_link">分享連結</string>
+    <string name="sharing_text">分享文字</string>
+    <string name="sharing_videos">{count,plural, =1{正在分享影片}other{正在分享 # 部影片}}</string>
+    <string name="sharing_videos_only">{count,plural, =1{只有影片}other{只有影片}}</string>
+    <string name="sharing_videos_with_link">{count,plural, =1{分享含有連結的影片}other{分享 # 部含有連結的影片}}</string>
+    <string name="sharing_videos_with_text">{count,plural, =1{分享含有文字的影片}other{分享 # 部含有文字的影片}}</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="unpin_specific_target">將「%1$s」取消固定</string>
+    <string name="usb_device_resolve_prompt_warn">這個應用程式未取得錄製內容的權限，但可以透過這部 USB 裝置錄製音訊。</string>
+    <string name="use_a_different_app">使用其他應用程式</string>
+    <string name="video_preview_a11y_description">影片預覽縮圖</string>
+    <string name="whichApplication">選擇要使用的應用程式</string>
+    <string name="whichApplicationLabel">完成操作</string>
+    <string name="whichApplicationNamed">使用「%1$s」完成操作</string>
+    <string name="whichEditApplication">選擇編輯工具</string>
+    <string name="whichEditApplicationLabel">編輯</string>
+    <string name="whichEditApplicationNamed">透過「%1$s」編輯</string>
+    <string name="whichGiveAccessToApplicationLabel">授予存取權</string>
+    <string name="whichHomeApplication">選取主畫面應用程式</string>
+    <string name="whichHomeApplicationLabel">擷取圖片</string>
+    <string name="whichHomeApplicationNamed">將「%1$s」做為主畫面應用程式</string>
+    <string name="whichImageCaptureApplication">使用以下應用程式擷取圖片：</string>
+    <string name="whichImageCaptureApplicationLabel">擷取圖片</string>
+    <string name="whichImageCaptureApplicationNamed">透過「%1$s」擷取圖片</string>
+    <string name="whichOpenHostLinksWith">開啟 %1$s 連結時使用的瀏覽器/應用程式</string>
+    <string name="whichOpenHostLinksWithApp">使用「%2$s」開啟 %1$s 連結</string>
+    <string name="whichOpenLinksWith">開啟連結時使用的瀏覽器</string>
+    <string name="whichOpenLinksWithApp">使用「%1$s」開啟連結</string>
+    <string name="whichSendApplication">分享</string>
+    <string name="whichSendApplicationLabel">分享</string>
+    <string name="whichSendApplicationNamed">與「%1$s」分享</string>
+    <string name="whichSendToApplication">透過以下應用程式傳送：</string>
+    <string name="whichSendToApplicationLabel">傳送</string>
+    <string name="whichSendToApplicationNamed">透過「%1$s」傳送</string>
+    <string name="whichViewApplication">選擇開啟工具</string>
+    <string name="whichViewApplicationLabel">開啟</string>
+    <string name="whichViewApplicationNamed">透過「%1$s」開啟</string>
+</resources>

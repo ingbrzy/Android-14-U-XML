@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dots">
+        <item quantity="other">%s nokta</item>
+        <item quantity="one">%s nokta</item>
+    </plurals>
+    <plurals name="gestures_recorded_message">
+        <item quantity="other">%d hareket kaydedildi</item>
+        <item quantity="one">1 hareket kaydedildi</item>
+    </plurals>
+    <plurals name="label_num_keys_assigned_format">
+        <item quantity="other">%d anahtar atandı</item>
+        <item quantity="one">%d anahtar atandı</item>
+    </plurals>
+    <plurals name="label_num_scanning_loops_format">
+        <item quantity="other">%d Döngü</item>
+        <item quantity="one">%d Döngü</item>
+    </plurals>
+    <plurals name="line_speed_summary_format">
+        <item quantity="other">Saniyede %.2f cm</item>
+        <item quantity="one">Saniyede 1 cm</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d yeni bildirim</item>
+        <item quantity="one">%d yeni bildirim</item>
+    </plurals>
+    <plurals name="time_delay_summary_format">
+        <item quantity="other">%.2f Saniye</item>
+        <item quantity="one">1 Saniye</item>
+    </plurals>
+</resources>

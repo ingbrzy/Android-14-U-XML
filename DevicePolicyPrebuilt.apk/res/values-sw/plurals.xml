@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_install_failed_multi_app_desc">
+        <item quantity="other">Haiwezi kukamilisha mipangilio kwa sababu imeshindwa kusakinisha programu %1$d zinazohitajika. Tafadhali wasiliana na msimamizi wako wa mfumo moja kwa moja.</item>
+        <item quantity="one">Haiwezi kukamilisha mipangilio kwa sababu imeshindwa kusakinisha programu %1$d inayohitajika. Tafadhali wasiliana na msimamizi wako wa mfumo moja kwa moja.</item>
+    </plurals>
+    <plurals name="app_install_failure_title">
+        <item quantity="other">Imeshindwa kusakinisha programu</item>
+        <item quantity="one">Imeshindwa kusakinisha programu</item>
+    </plurals>
+    <plurals name="app_install_progress_desc">
+        <item quantity="other">Programu %1$d kati ya %2$d zimesakinishwa</item>
+        <item quantity="one">Programu %1$d kati ya %2$d imesakinishwa</item>
+    </plurals>
+    <plurals name="app_uninstall_button">
+        <item quantity="other">Ondoa programu</item>
+        <item quantity="one">Ondoa programu</item>
+    </plurals>
+    <plurals name="days_left_message">
+        <item quantity="other">Zimebaki siku &lt;annotation id="numeric_time_left">^1&lt;/annotation></item>
+        <item quantity="one">Imebaki siku &lt;annotation id="numeric_time_left">^1&lt;/annotation></item>
+    </plurals>
+    <plurals name="hours_left_message">
+        <item quantity="other">Zimebaki saa &lt;annotation id="numeric_time_left">^1&lt;/annotation></item>
+        <item quantity="one">Imebaki saa &lt;annotation id="numeric_time_left">^1&lt;/annotation></item>
+    </plurals>
+    <plurals name="number_of_additional_apps">
+        <item quantity="other">Programu %1$d za ziada</item>
+        <item quantity="one">Programu %1$d ya ziada</item>
+    </plurals>
+    <plurals name="number_of_required_apps">
+        <item quantity="other">Programu %1$d zinazohitajika</item>
+        <item quantity="one">Programu %1$d inayohitajika</item>
+    </plurals>
+    <plurals name="policy_apps_list_summary">
+        <item quantity="other">Huwezi kuondoa programu %d za kazini</item>
+        <item quantity="one">Huwezi kuondoa programu %d ya kazini</item>
+    </plurals>
+    <plurals name="preinstalled_apps">
+        <item quantity="other">Programu %1$d kati ya %2$d zimesakinishwa</item>
+        <item quantity="one">Programu %1$d kati ya %2$d imesakinishwa</item>
+    </plurals>
+    <plurals name="readable_name_applications">
+        <item quantity="other">Programu %1$d zinapatikana (programu %2$d zimesakinishwa, %3$d zimezimwa)</item>
+        <item quantity="one">Programu %1$d inapatikana (programu %2$d imesakinishwa, %3$d imezimwa)</item>
+    </plurals>
+</resources>

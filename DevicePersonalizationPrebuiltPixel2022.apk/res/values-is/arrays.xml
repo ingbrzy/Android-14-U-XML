@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="call_captions_typing_predictions_post_system_message">
+        <item>Halló, hver er þetta?</item>
+        <item>Hæ, hvernig hefurðu það?</item>
+        <item>Hinkraðu augnablik</item>
+        <item>Hæ, geturðu hringt seinna?</item>
+        <item>Hæ! Takk fyrir að hringja.</item>
+    </string-array>
+    <string-array name="captions_settings_enable_for_calls_choices_entries">
+        <item>Spyrja alltaf</item>
+        <item>Alltaf</item>
+        <item>Slökkt</item>
+    </string-array>
+    <string-array name="captions_settings_typing_voice_names">
+        <item>Rödd A</item>
+        <item>Rödd B</item>
+        <item>Rödd C</item>
+        <item>Rödd D</item>
+        <item>Rödd E</item>
+        <item>Rödd F</item>
+        <item>Rödd G</item>
+        <item>Rödd H</item>
+        <item>Rödd I</item>
+        <item>Rödd J</item>
+        <item>Rödd K</item>
+        <item>Rödd L</item>
+        <item>Rödd M</item>
+        <item>Rödd N</item>
+        <item>Rödd O</item>
+        <item>Rödd P</item>
+    </string-array>
+    <string-array name="pref_download_policy_entries">
+        <item>Farsímagögn + WiFi</item>
+        <item>WiFi eingöngu</item>
+        <item>Ekki uppfæra</item>
+    </string-array>
+    <string-array name="pref_download_policy_entry_values_placeholder">
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+</resources>

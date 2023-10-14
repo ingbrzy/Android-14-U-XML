@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_menu">ម៉ឺនុយ</string>
+    <string name="call_notification_answer_action">ឆ្លើយ</string>
+    <string name="call_notification_answer_video_action">វីដេអូ</string>
+    <string name="call_notification_decline_action">បដិសេធ</string>
+    <string name="call_notification_hang_up_action">ដាក់​ចុះ</string>
+    <string name="call_notification_incoming_text">ការ​ហៅ​ចូល</string>
+    <string name="call_notification_ongoing_text">ការ​ហៅដែលកំពុងដំណើរការ</string>
+    <string name="call_notification_screening_text">កំពុងពិនិត្យការ​ហៅ​ចូល</string>
+    <string name="error_generic">មានបញ្ហា​ក្នុងការទាញយក​កាត​របស់អ្នក សូម​ព្យាយាមម្ដងទៀត​នៅពេលក្រោយ</string>
+    <string name="error_user_locked">ដោះសោទូរសព្ទរបស់អ្នក ដើម្បីផ្ទុកព័ត៌មានបង់ប្រាក់</string>
+    <string name="settings">ការកំណត់</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

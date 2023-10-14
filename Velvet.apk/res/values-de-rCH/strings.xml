@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="atv_accessibility_action_select_description">aktivieren</string>
+    <string name="collapse_room">Collapse %s</string>
+    <string name="controls_dialog_button_cancel">Abbrechen</string>
+    <string name="controls_error_failed">Ein Fehler ist aufgetreten</string>
+    <string name="controls_error_generic">Status: Laden nicht möglich</string>
+    <string name="controls_error_removed">Nicht gefunden</string>
+    <string name="controls_error_removed_message">Auf %1$s konnte nicht zugegriffen werden. Rufe die Google Home App auf, um zu prüfen, dass das Steuerelement immer noch verfügbar ist und dass die App-Einstellungen nicht geändert wurden.</string>
+    <string name="controls_error_removed_title">Steuerelement nicht verfügbar</string>
+    <string name="controls_error_timeout">Inaktiv – App prüfen</string>
+    <string name="light_group_accessibility_name">Lichtergruppe</string>
+    <string name="loading">Wird geladen…</string>
+    <string name="open_additional_controls_accessibility_description">um weitere Steuerelemente zu öffnen</string>
+    <string name="systemcontrol_action_description_turn_off">Ausschalten</string>
+    <string name="systemcontrol_action_description_turn_on">Einschalten</string>
+    <string name="systemcontrol_light_off_status">Aus</string>
+    <string name="systemcontrol_light_on_status">An</string>
+    <string name="systemcontrol_percentage_format">%1$.0f %%</string>
+    <string name="vento_accessibility_name">Nest Wifi-Zugangspunkt</string>
+</resources>

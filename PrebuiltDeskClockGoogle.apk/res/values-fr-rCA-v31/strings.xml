@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="analog_gadget">Analogique</string>
+    <string name="digital_gadget">Numérique</string>
+    <string name="analog_widget_clover_clock_name">Trèfle</string>
+    <string name="analog_widget_clover_content_description">Horloge en forme de trèfle</string>
+    <string name="analog_widget_config_activity_title">Sélectionnez un cadran</string>
+    <string name="analog_widget_day_clock_name">Jour</string>
+    <string name="analog_widget_day_content_description">Horloge affichant le jour du mois</string>
+    <string name="analog_widget_numeral_clock_name">Chiffre</string>
+    <string name="analog_widget_numeral_content_description">Horloge affichant de gros chiffres</string>
+    <string name="analog_widget_scallop_clock_name">Coquille</string>
+    <string name="analog_widget_scallop_content_description">Horloge affichant le jour de la semaine et le mois</string>
+    <string name="cities_widget_config_activity_subtitle">"Les villes peuvent être ajoutées à partir de l'onglet Horloge"</string>
+    <string name="cities_widget_config_activity_subtitle_button">"Choisissez les villes dans l'application Horloge"</string>
+    <string name="cities_widget_preview_city_london">Londres</string>
+    <string name="cities_widget_preview_city_mountain_view">Mountain View</string>
+    <string name="clock_widget_opaque_label">Uni</string>
+    <string name="clock_widget_transparent_label">Transparent</string>
+    <string name="digital_appwidget_config_activity_title">"Choisir le style de l'horloge"</string>
+    <string name="digital_cities_gadget">Monde</string>
+    <string name="digital_cities_gadget_description">"Choisissez les villes dans l'application Horloge"</string>
+    <string name="digital_stacked_gadget">Empilée</string>
+    <string name="digital_widgets_preview_alarm">Lun., 9 h 30</string>
+    <string name="stopwatch_gadget_description">"Contrôlez le chronomètre dans l'application Horloge"</string>
+</resources>

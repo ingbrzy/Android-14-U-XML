@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Perkhidmatan Silang Peranti</string>
+    <string name="app_name_generic">apl</string>
+    <string name="app_stream_error_generic">Ralat telah berlaku semasa perkongsian apl</string>
+    <string name="app_stream_init_error_generic">Perkongsian apl ke Chromebook anda tidak berjaya</string>
+    <string name="audio_permission_rationale">Kebenaran mikrofon untuk perkongsian apl dilumpuhkan</string>
+    <string name="cancel_button_label">Batal</string>
+    <string name="chromebook_keyboard">Papan kekunci Chromebook</string>
+    <string name="chromebook_mouse">Tetikus Chromebook</string>
+    <string name="chromebook_touchscreen">Skrin sentuh Chromebook</string>
+    <string name="connect_device">Menyambungkan telefon anda kepada peranti jauh: %1$s</string>
+    <string name="decline_button_label">Tolak</string>
+    <string name="development_notification_channel_name">Pembangunan</string>
+    <string name="device_camera_cannot_access">Tidak dapat mengakses kamera peranti daripada Chromebook ini</string>
+    <string name="done_button_label">Selesai</string>
+    <string name="enable_button_label">Dayakan</string>
+    <string name="foreground_service_notification_channel_name">Umum</string>
+    <string name="foreground_service_notification_content">Ketik untuk mengubah suai tetapan</string>
+    <string name="foreground_service_notification_title">{0,plural, =1{Disambungkan kepada # peranti}other{Disambungkan kepada # peranti}}</string>
+    <string name="interactive_streaming_generic_notification">Penstriman %1$s dan penyegerakan pemberitahuan untuk Chromebook anda</string>
+    <string name="interactive_streaming_individual_notification">Menstrim %1$s dan menyegerakkan pemberitahuan untuk %2$s</string>
+    <string name="interactive_streaming_notification">Penstriman pada Chromebook anda</string>
+    <string name="keyboard_name">Papan kekunci silang peranti</string>
+    <string name="lock_screen_notif_warning_content">Dayakan pemberitahuan pada skrin kunci</string>
+    <string name="lock_screen_notif_warning_title">Pemberitahuan tidak akan dimajukan</string>
+    <string name="mouse_name">Tetikus silang peranti</string>
+    <string name="new_connection_confirm">Sahkan</string>
+    <string name="new_connection_deny">Tolak</string>
+    <string name="new_connection_title">Sila Sahkan Padanan Rentetan</string>
+    <string name="notification_access_missing">Akses pemberitahuan diperlukan</string>
+    <string name="notification_access_missing_description">Untuk membuka pemberitahuan di Chromebook anda, hidupkan akses Pemberitahuan</string>
+    <string name="notification_channel_name">Umum</string>
+    <string name="notification_listener_label">Kongsikan apl dengan Chromebook anda</string>
+    <string name="open_source_licenses">Lesen sumber terbuka</string>
+    <string name="phone_permission_rationale">Kebenaran panggilan telefon untuk perkongsian apl dilumpuhkan</string>
+    <string name="prompt_switch_languages">Tekan kekunci shift + ruang untuk menukar bahasa Gboard telefon anda</string>
+    <string name="settings_button">Tetapan</string>
+    <string name="stop_sharing_button">Tamatkan strim</string>
+    <string name="stream_termination_proximity_warning">Telefon anda terlalu jauh. Dekatkan telefon anda untuk kekal menstrim.</string>
+    <string name="substitute_app_name">Sistem</string>
+    <string name="summary_disable_wirecutter">Mati</string>
+    <string name="summary_enable_wirecutter">Hidup</string>
+    <string name="touchscreen_name">Skrin sentuh silang peranti</string>
+</resources>

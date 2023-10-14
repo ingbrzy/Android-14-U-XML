@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dlg_message_deletion_confirmation">
+        <item quantity="other">Rekaman Anda akan dihapus secara permanen. Tindakan ini tidak dapat diurungkan.</item>
+        <item quantity="one">Rekaman Anda akan dihapus secara permanen. Tindakan ini tidak dapat diurungkan.</item>
+    </plurals>
+    <plurals name="dlg_message_deletion_permanent_confirmation">
+        <item quantity="other">Rekaman tidak dicadangkan. Ini akan dihapus secara permanen. Anda tidak dapat mengurungkan tindakan ini.</item>
+        <item quantity="one">Rekaman tidak dicadangkan. Ini akan dihapus secara permanen. Anda tidak dapat mengurungkan tindakan ini.</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_confirmation">
+        <item quantity="other">Hapus rekaman?</item>
+        <item quantity="one">Hapus rekaman?</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_permanent_confirmation">
+        <item quantity="other">Hapus rekaman ini secara permanen?</item>
+        <item quantity="one">Hapus rekaman ini secara permanen?</item>
+    </plurals>
+    <plurals name="download_failure_description_storage_full">
+        <item quantity="other">Tidak dapat mendownload rekaman karena penyimpanan perangkat penuh. Ketuk untuk meninjau.</item>
+        <item quantity="one">Penyimpanan perangkat penuh. Ketuk untuk meninjau.</item>
+    </plurals>
+    <plurals name="downloading_description">
+        <item quantity="other">Mendownload %1$d rekaman</item>
+        <item quantity="one">Mendownload %1$d rekaman</item>
+    </plurals>
+    <plurals name="peoplekit_chips_copied_recipients">
+        <item quantity="other">%d penerima disalin</item>
+        <item quantity="one">%d penerima disalin</item>
+    </plurals>
+    <plurals name="search_results_count">
+        <item quantity="other">%1$d hasil</item>
+        <item quantity="one">%1$d hasil</item>
+    </plurals>
+    <plurals name="search_results_position">
+        <item quantity="other">^1/^2 hasil</item>
+        <item quantity="one">^1/^2 hasil</item>
+    </plurals>
+    <plurals name="search_results_position_content_description">
+        <item quantity="other">%1$d dari %2$d hasil</item>
+        <item quantity="one">%1$d dari %2$d hasil</item>
+    </plurals>
+    <plurals name="selected_recording_quantity">
+        <item quantity="other">%1$d dipilih</item>
+        <item quantity="one">%1$d dipilih</item>
+    </plurals>
+    <plurals name="snackbar_message_download_failed_storage_full">
+        <item quantity="other">Penyimpanan perangkat penuh. Tidak dapat mendownload rekaman.</item>
+        <item quantity="one">Penyimpanan perangkat penuh. Tidak dapat mendownload rekaman.</item>
+    </plurals>
+    <plurals name="speaker_count">
+        <item quantity="other">%1$d speaker</item>
+        <item quantity="one">%1$d speaker</item>
+    </plurals>
+    <plurals name="uploading_description">
+        <item quantity="other">Mengupload %1$d rekaman</item>
+        <item quantity="one">Mengupload %1$d rekaman</item>
+    </plurals>
+</resources>

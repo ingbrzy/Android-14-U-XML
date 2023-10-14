@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">クロスデバイス サービス</string>
+    <string name="app_name_generic">アプリ</string>
+    <string name="app_stream_error_generic">アプリの共有中にエラーが発生しました</string>
+    <string name="app_stream_init_error_generic">Chromebook へのアプリの共有が失敗しました</string>
+    <string name="audio_permission_rationale">アプリの共有に対するマイクの権限が無効になっています</string>
+    <string name="cancel_button_label">キャンセル</string>
+    <string name="chromebook_keyboard">Chromebook のキーボード</string>
+    <string name="chromebook_mouse">Chromebook のマウス</string>
+    <string name="chromebook_touchscreen">Chromebook のタッチスクリーン</string>
+    <string name="connect_device">スマートフォンをリモート デバイス %1$s に接続しています</string>
+    <string name="decline_button_label">許可しない</string>
+    <string name="development_notification_channel_name">開発</string>
+    <string name="device_camera_cannot_access">この Chromebook からデバイスのカメラにアクセスすることはできません</string>
+    <string name="done_button_label">完了</string>
+    <string name="enable_button_label">有効にする</string>
+    <string name="foreground_service_notification_channel_name">全般</string>
+    <string name="foreground_service_notification_content">設定を変更するにはタップしてください</string>
+    <string name="foreground_service_notification_title">{0,plural, =1{# 台のデバイスに接続}other{# 台のデバイスに接続}}</string>
+    <string name="interactive_streaming_generic_notification">%1$sをストリーミングし、Chromebook の通知を同期します</string>
+    <string name="interactive_streaming_individual_notification">%1$s をストリーミングし、%2$s の通知を同期しています</string>
+    <string name="interactive_streaming_notification">Chromebook にストリーミングしています</string>
+    <string name="keyboard_name">クロスデバイス キーボード</string>
+    <string name="lock_screen_notif_warning_content">ロック画面での通知を有効にしてください</string>
+    <string name="lock_screen_notif_warning_title">通知は転送されません</string>
+    <string name="mouse_name">クロスデバイス対応マウス</string>
+    <string name="new_connection_confirm">確認</string>
+    <string name="new_connection_deny">許可しない</string>
+    <string name="new_connection_title">文字列の一致を確認してください</string>
+    <string name="notification_access_missing">通知へのアクセス権が必要です</string>
+    <string name="notification_access_missing_description">Chromebook で通知を開くには、通知へのアクセスを ON にします</string>
+    <string name="notification_channel_name">全般</string>
+    <string name="notification_listener_label">アプリを Chromebook と共有する</string>
+    <string name="open_source_licenses">オープンソース ライセンス</string>
+    <string name="phone_permission_rationale">アプリの共有に対する通話の権限が無効になっています</string>
+    <string name="prompt_switch_languages">スマートフォンの Gboard の言語を切り替えるには、Shift+スペースキーを押します。</string>
+    <string name="settings_button">設定</string>
+    <string name="stop_sharing_button">ストリーミングを終了</string>
+    <string name="stream_termination_proximity_warning">スマートフォンが離れすぎています。ストリーミングを続けるには、もっと近づけてください。</string>
+    <string name="substitute_app_name">システム</string>
+    <string name="summary_disable_wirecutter">OFF</string>
+    <string name="summary_enable_wirecutter">ON</string>
+    <string name="touchscreen_name">クロスデバイス対応タッチスクリーン</string>
+</resources>

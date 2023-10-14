@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bezier_scale">
+        <item>0.0f</item>
+        <item>0.011f</item>
+        <item>0.022f</item>
+        <item>0.033f</item>
+        <item>0.045f</item>
+        <item>0.056f</item>
+        <item>0.069f</item>
+        <item>0.082f</item>
+        <item>0.096f</item>
+        <item>0.111f</item>
+        <item>0.128f</item>
+        <item>0.146f</item>
+        <item>0.166f</item>
+        <item>0.188f</item>
+        <item>0.212f</item>
+        <item>0.24f</item>
+        <item>0.272f</item>
+        <item>0.307f</item>
+        <item>0.348f</item>
+        <item>0.397f</item>
+        <item>0.454f</item>
+        <item>0.525f</item>
+        <item>0.617f</item>
+        <item>0.742f</item>
+        <item>0.995f</item>
+    </string-array>
+    <string-array name="color_options">
+        <item>option1</item>
+        <item>option11</item>
+        <item>option2</item>
+        <item>option12</item>
+        <item>option3</item>
+        <item>option13</item>
+        <item>option4</item>
+        <item>option14</item>
+        <item>option5</item>
+        <item>option15</item>
+        <item>option6</item>
+        <item>option16</item>
+        <item>option7</item>
+        <item>option17</item>
+        <item>option8</item>
+        <item>option18</item>
+        <item>option9</item>
+        <item>option19</item>
+        <item>option10</item>
+        <item>option20</item>
+    </string-array>
+    <array name="com_google_android_gms_fonts_certs">
+        <item>@array/com_google_android_gms_fonts_certs_dev</item>
+        <item>@array/com_google_android_gms_fonts_certs_prod</item>
+    </array>
+    <string-array name="com_google_android_gms_fonts_certs_dev">
+        <item>MIIEqDCCA5CgAwIBAgIJANWFuGx90071MA0GCSqGSIb3DQEBBAUAMIGUMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEQMA4GA1UEChMHQW5kcm9pZDEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDEiMCAGCSqGSIb3DQEJARYTYW5kcm9pZEBhbmRyb2lkLmNvbTAeFw0wODA0MTUyMzM2NTZaFw0zNTA5MDEyMzM2NTZaMIGUMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEQMA4GA1UEChMHQW5kcm9pZDEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDEiMCAGCSqGSIb3DQEJARYTYW5kcm9pZEBhbmRyb2lkLmNvbTCCASAwDQYJKoZIhvcNAQEBBQADggENADCCAQgCggEBANbOLggKv+IxTdGNs8/TGFy0PTP6DHThvbbR24kT9ixcOd9W+EaBPWW+wPPKQmsHxajtWjmQwWfna8mZuSeJS48LIgAZlKkpFeVyxW0qMBujb8X8ETrWy550NaFtI6t9+u7hZeTfHwqNvacKhp1RbE6dBRGWynwMVX8XW8N1+UjFaq6GCJukT4qmpN2afb8sCjUigq0GuMwYXrFVee74bQgLHWGJwPmvmLHC69EH6kWr22ijx4OKXlSIx2xT1AsSHee70w5iDBiK4aph27yH3TxkXy9V89TDdexAcKk/cVHYNnDBapcavl7y0RiQ4biu8ymM8Ga/nmzhRKya6G0cGw8CAQOjgfwwgfkwHQYDVR0OBBYEFI0cxb6VTEM8YYY6FbBMvAPyT+CyMIHJBgNVHSMEgcEwgb6AFI0cxb6VTEM8YYY6FbBMvAPyT+CyoYGapIGXMIGUMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEQMA4GA1UEChMHQW5kcm9pZDEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDEiMCAGCSqGSIb3DQEJARYTYW5kcm9pZEBhbmRyb2lkLmNvbYIJANWFuGx90071MAwGA1UdEwQFMAMBAf8wDQYJKoZIhvcNAQEEBQADggEBABnTDPEF+3iSP0wNfdIjIz1AlnrPzgAIHVvXxunW7SBrDhEglQZBbKJEk5kT0mtKoOD1JMrSu1xuTKEBahWRbqHsXclaXjoBADb0kkjVEJu/Lh5hgYZnOjvlba8Ld7HCKePCVePoTJBdI4fvugnL8TsgK05aIskyY0hKI9L8KfqfGTl1lzOv2KoWD0KWwtAWPoGChZxmQ+nBli+gwYMzM1vAkP+aayLe0a1EQimlOalO762r0GXO0ks+UeXde2Z4e+8S/pf7pITEI/tP+MxJTALw9QUWEv9lKTk+jkbqxbsh8nfBUapfKqYn0eidpwq2AzVp3juYl7//fKnaPhJD9gs=</item>
+    </string-array>
+    <string-array name="com_google_android_gms_fonts_certs_prod">
+        <item>MIIEQzCCAyugAwIBAgIJAMLgh0ZkSjCNMA0GCSqGSIb3DQEBBAUAMHQxCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpDYWxpZm9ybmlhMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtHb29nbGUgSW5jLjEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDAeFw0wODA4MjEyMzEzMzRaFw0zNjAxMDcyMzEzMzRaMHQxCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpDYWxpZm9ybmlhMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtHb29nbGUgSW5jLjEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDCCASAwDQYJKoZIhvcNAQEBBQADggENADCCAQgCggEBAKtWLgDYO6IIrgqWbxJOKdoR8qtW0I9Y4sypEwPpt1TTcvZApxsdyxMJZ2JORland2qSGT2y5b+3JKkedxiLDmpHpDsz2WCbdxgxRczfey5YZnTJ4VZbH0xqWVW/8lGmPav5xVwnIiJS6HXk+BVKZF+JcWjAsb/GEuq/eFdpuzSqeYTcfi6idkyugwfYwXFU1+5fZKUaRKYCwkkFQVfcAs1fXA5V+++FGfvjJ/CxURaSxaBvGdGDhfXE28LWuT9ozCl5xw4Yq5OGazvV24mZVSoOO0yZ31j7kYvtwYK6NeADwbSxDdJEqO4k//0zOHKrUiGYXtqw/A0LFFtqoZKFjnkCAQOjgdkwgdYwHQYDVR0OBBYEFMd9jMIhF1Ylmn/Tgt9r45jk14alMIGmBgNVHSMEgZ4wgZuAFMd9jMIhF1Ylmn/Tgt9r45jk14aloXikdjB0MQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEUMBIGA1UEChMLR29vZ2xlIEluYy4xEDAOBgNVBAsTB0FuZHJvaWQxEDAOBgNVBAMTB0FuZHJvaWSCCQDC4IdGZEowjTAMBgNVHRMEBTADAQH/MA0GCSqGSIb3DQEBBAUAA4IBAQBt0lLO74UwLDYKqs6Tm8/yzKkEu116FmH4rkaymUIE0P9KaMftGlMexFlaYjzmB2OxZyl6euNXEsQH8gjwyxCUKRJNexBiGcCEyj6z+a1fuHHvkiaai+KL8W1EyNmgjmyy8AW7P+LLlkR+ho5zEHatRbM/YAnqGcFh5iZBqpknHf1SKMXFh4dd239FJ1jWYfbMDMy3NS5CTMQ2XFI1MvcyUTdZPErjQfTbQe3aDQsQcafEQPD+nqActifKZ0Np0IS9L9kR/wbNvyz6ENwPiTrjV2KRkEjH78ZMcUQXg0L3BYHJ3lc69Vs5Ddf9uUGGMYldX3WfMBEmh/9iFBDAaTCK</item>
+    </string-array>
+    <integer-array name="default_max_unlock_flip_delay">
+        <item>900</item>
+        <item>500</item>
+    </integer-array>
+    <integer-array name="default_max_wake_offset_delay">
+        <item>300</item>
+        <item>300</item>
+    </integer-array>
+    <integer-array name="default_max_wake_scaling_delay">
+        <item>150</item>
+        <item>80</item>
+    </integer-array>
+    <integer-array name="default_orbit_max_angle">
+        <item>-3</item>
+        <item>-5</item>
+    </integer-array>
+    <string-array name="default_spring_attenuation">
+        <item>0.05</item>
+        <item>0.05</item>
+    </string-array>
+    <string-array name="default_spring_friction">
+        <item>0.01</item>
+        <item>0.01</item>
+    </string-array>
+    <string-array name="default_spring_influence">
+        <item>0.3</item>
+        <item>0.3</item>
+    </string-array>
+    <string-array name="default_spring_max_rotation">
+        <item>10.0</item>
+        <item>10.0</item>
+    </string-array>
+    <string-array name="default_spring_tension">
+        <item>85</item>
+        <item>85</item>
+    </string-array>
+    <integer-array name="default_unlock_duration">
+        <item>1500</item>
+        <item>1500</item>
+    </integer-array>
+    <string-array name="emoji_categories_content_desc">
+        <item>@string/emoji_recent_content_desc</item>
+        <item>@string/emoji_category_emotions_content_desc</item>
+        <item>@string/emoji_category_people_content_desc</item>
+        <item>@string/emoji_category_animals_nature_content_desc</item>
+        <item>@string/emoji_category_food_drink_content_desc</item>
+        <item>@string/emoji_category_travel_places_content_desc</item>
+        <item>@string/emoji_category_activity_content_desc</item>
+        <item>@string/emoji_category_objects_content_desc</item>
+        <item>@string/emoji_category_symbols_content_desc</item>
+        <item>@string/emoji_category_flags_content_desc</item>
+    </string-array>
+    <array name="emoji_categories_icons">
+        <item>@drawable/quantum_gm_ic_access_time_filled_vd_theme_24</item>
+        <item>@drawable/gm_filled_emoji_emotions_vd_theme_24</item>
+        <item>@drawable/gm_filled_emoji_people_vd_theme_24</item>
+        <item>@drawable/gm_filled_emoji_nature_vd_theme_24</item>
+        <item>@drawable/gm_filled_emoji_food_beverage_vd_theme_24</item>
+        <item>@drawable/gm_filled_emoji_transportation_vd_theme_24</item>
+        <item>@drawable/gm_filled_emoji_events_vd_theme_24</item>
+        <item>@drawable/gm_filled_emoji_objects_vd_theme_24</item>
+        <item>@drawable/gm_filled_emoji_symbols_vd_theme_24</item>
+        <item>@drawable/gm_filled_flag_vd_theme_24</item>
+    </array>
+    <array name="emoji_list_raw_resources">
+        <item>@raw/emoji_category_emotions</item>
+        <item>@raw/emoji_category_people</item>
+        <item>@raw/emoji_category_animals_nature</item>
+        <item>@raw/emoji_category_food_drink</item>
+        <item>@raw/emoji_category_travel_places</item>
+        <item>@raw/emoji_category_activity</item>
+        <item>@raw/emoji_category_objects</item>
+        <item>@raw/emoji_category_symbols</item>
+        <item>@raw/emoji_category_flags</item>
+    </array>
+    <array name="emoji_list_raw_resources_for_supplier">
+        <item>@raw/emoji_category_emotions</item>
+        <item>@raw/emoji_category_people</item>
+        <item>@raw/emoji_category_animals_nature</item>
+        <item>@raw/emoji_category_food_drink</item>
+        <item>@raw/emoji_category_travel_places</item>
+        <item>@raw/emoji_category_activity</item>
+        <item>@raw/emoji_category_objects</item>
+        <item>@raw/emoji_category_symbols</item>
+        <item>@raw/emoji_category_flags</item>
+    </array>
+    <array name="emoji_list_raw_resources_with_gender_inclusive">
+        <item>@raw/emoji_category_emotions</item>
+        <item>@raw/emoji_category_people_gender_inclusive</item>
+        <item>@raw/emoji_category_animals_nature</item>
+        <item>@raw/emoji_category_food_drink</item>
+        <item>@raw/emoji_category_travel_places</item>
+        <item>@raw/emoji_category_activity</item>
+        <item>@raw/emoji_category_objects</item>
+        <item>@raw/emoji_category_symbols</item>
+        <item>@raw/emoji_category_flags</item>
+    </array>
+    <array name="emoji_list_raw_resources_with_gender_inclusive_for_supplier">
+        <item>@raw/emoji_category_emotions</item>
+        <item>@raw/emoji_category_people_gender_inclusive</item>
+        <item>@raw/emoji_category_animals_nature</item>
+        <item>@raw/emoji_category_food_drink</item>
+        <item>@raw/emoji_category_travel_places</item>
+        <item>@raw/emoji_category_activity</item>
+        <item>@raw/emoji_category_objects</item>
+        <item>@raw/emoji_category_symbols</item>
+        <item>@raw/emoji_category_flags</item>
+    </array>
+    <integer-array name="lotus_max_unlock_flip_delay">
+        <item>1000</item>
+        <item>800</item>
+    </integer-array>
+    <integer-array name="lotus_max_wake_offset_delay">
+        <item>300</item>
+        <item>250</item>
+    </integer-array>
+    <integer-array name="lotus_max_wake_scaling_delay">
+        <item>150</item>
+        <item>100</item>
+    </integer-array>
+    <integer-array name="lotus_orbit_max_angle">
+        <item>-3</item>
+        <item>-5</item>
+    </integer-array>
+    <string-array name="lotus_spring_attenuation">
+        <item>0.05</item>
+        <item>0.05</item>
+    </string-array>
+    <string-array name="lotus_spring_friction">
+        <item>0.01</item>
+        <item>0.01</item>
+    </string-array>
+    <string-array name="lotus_spring_influence">
+        <item>0.3</item>
+        <item>0.3</item>
+    </string-array>
+    <string-array name="lotus_spring_max_rotation">
+        <item>10.0</item>
+        <item>10.0</item>
+    </string-array>
+    <string-array name="lotus_spring_tension">
+        <item>85</item>
+        <item>85</item>
+    </string-array>
+    <integer-array name="lotus_unlock_duration">
+        <item>2000</item>
+        <item>1500</item>
+    </integer-array>
+    <integer-array name="mosaic_max_unlock_flip_delay">
+        <item>900</item>
+        <item>500</item>
+    </integer-array>
+    <integer-array name="mosaic_max_wake_offset_delay">
+        <item>300</item>
+        <item>300</item>
+    </integer-array>
+    <integer-array name="mosaic_max_wake_scaling_delay">
+        <item>150</item>
+        <item>80</item>
+    </integer-array>
+    <integer-array name="mosaic_orbit_max_angle">
+        <item>-3</item>
+        <item>-5</item>
+    </integer-array>
+    <string-array name="mosaic_spring_attenuation">
+        <item>0.05</item>
+        <item>0.05</item>
+    </string-array>
+    <string-array name="mosaic_spring_friction">
+        <item>0.01</item>
+        <item>0.01</item>
+    </string-array>
+    <string-array name="mosaic_spring_influence">
+        <item>0.3</item>
+        <item>0.3</item>
+    </string-array>
+    <string-array name="mosaic_spring_max_rotation">
+        <item>10.0</item>
+        <item>10.0</item>
+    </string-array>
+    <string-array name="mosaic_spring_tension">
+        <item>85</item>
+        <item>85</item>
+    </string-array>
+    <integer-array name="mosaic_unlock_duration">
+        <item>1500</item>
+        <item>1500</item>
+    </integer-array>
+    <string-array name="pref_def_value_per_device_vibration_duration_on_keypress">
+        <item>MODEL=Nexus S:BRAND=google,5</item>
+        <item>MODEL=Galaxy Nexus:BRAND=google,5</item>
+        <item>MODEL=Nexus 4:BRAND=google,8</item>
+        <item>MODEL=Nexus 10:BRAND=google,16</item>
+        <item>MODEL=GT-I(9100[GMPT]?|9108|9210T?):MANUFACTURER=samsung,8</item>
+        <item>MODEL=SGH-(I9[27]7R?|I927|T989D?):MANUFACTURER=samsung,8</item>
+        <item>MODEL=SHW-M250[KLS]?|SPH-D710|SCH-R760:MANUFACTURER=samsung,8</item>
+        <item>MODEL=ISW11SC|SC-02C:MANUFACTURER=samsung,8</item>
+        <item>MODEL=(SAMSUNG-)?GT-I(930[05][NT]?|9308):MANUFACTURER=samsung,8</item>
+        <item>MODEL=(SAMSUNG-)?SGH-(T999[V]?|I747[M]?|N064|N035):MANUFACTURER=samsung,8</item>
+        <item>MODEL=(SAMSUNG-)?SCH-(J021|R530|I535|I939):MANUFACTURER=samsung,8</item>
+        <item>MODEL=(SAMSUNG-)?(SCL21|SC-06D|SC-03E):MANUFACTURER=samsung,8</item>
+        <item>MODEL=(SAMSUNG-)?(SHV-210[KLS]?|SPH-L710):MANUFACTURER=samsung,8</item>
+        <item>MODEL=(SAMSUNG-)?GT-I(950[0258][G]?):MANUFACTURER=samsung,7</item>
+        <item>MODEL=(SAMSUNG-)?SGH-(I337|M919|N045):MANUFACTURER=samsung,7</item>
+        <item>MODEL=(SAMSUNG-)?SCH-(I545|I959|R970):MANUFACTURER=samsung,7</item>
+        <item>MODEL=(SAMSUNG-)?SPH-(L720):MANUFACTURER=samsung,7</item>
+        <item>MODEL=(SAMSUNG-)?(SC-04E):MANUFACTURER=samsung,7</item>
+        <item>MODEL=(SAMSUNG-)?(SHV-E300[KLS]?):MANUFACTURER=samsung,7</item>
+        <item>MODEL=LG-E97[013]|LS970|L-01E:MANUFACTURER=LGE,15</item>
+        <item>MODEL=HTC One X:MANUFACTURER=HTC,20</item>
+        <item>MODEL=HTC One:MANUFACTURER=HTC,15</item>
+        <item>MODEL=HTL22:MANUFACTURER=HTC,15</item>
+        <item>MODEL=XT907:MANUFACTURER=motorola,30</item>
+        <item>MODEL=XT1035:MANUFACTURER=motorola,18</item>
+        <item>MODEL=C6603|C6806:MANUFACTURER=Sony,35</item>
+    </string-array>
+    <integer-array name="preview_max_wake_offset_delay">
+        <item>500</item>
+        <item>500</item>
+    </integer-array>
+    <integer-array name="prism_max_unlock_flip_delay">
+        <item>100</item>
+        <item>30</item>
+    </integer-array>
+    <integer-array name="prism_max_wake_offset_delay">
+        <item>300</item>
+        <item>250</item>
+    </integer-array>
+    <integer-array name="prism_max_wake_scaling_delay">
+        <item>150</item>
+        <item>30</item>
+    </integer-array>
+    <integer-array name="prism_orbit_max_angle">
+        <item>-4</item>
+        <item>-2</item>
+    </integer-array>
+    <string-array name="prism_spring_attenuation">
+        <item>0.05</item>
+        <item>0.05</item>
+    </string-array>
+    <string-array name="prism_spring_friction">
+        <item>0.007</item>
+        <item>0.007</item>
+    </string-array>
+    <string-array name="prism_spring_influence">
+        <item>0.3</item>
+        <item>0.3</item>
+    </string-array>
+    <string-array name="prism_spring_max_rotation">
+        <item>10.0</item>
+        <item>10.0</item>
+    </string-array>
+    <string-array name="prism_spring_tension">
+        <item>20</item>
+        <item>20</item>
+    </string-array>
+    <integer-array name="prism_unlock_duration">
+        <item>1500</item>
+        <item>2000</item>
+    </integer-array>
+    <integer-array name="sprinkle_max_unlock_flip_delay">
+        <item>600</item>
+        <item>900</item>
+    </integer-array>
+    <integer-array name="sprinkle_max_wake_offset_delay">
+        <item>300</item>
+        <item>300</item>
+    </integer-array>
+    <integer-array name="sprinkle_max_wake_scaling_delay">
+        <item>150</item>
+        <item>100</item>
+    </integer-array>
+    <integer-array name="sprinkle_orbit_max_angle">
+        <item>-4</item>
+        <item>-5</item>
+    </integer-array>
+    <string-array name="sprinkle_spring_attenuation">
+        <item>0.05</item>
+        <item>0.05</item>
+    </string-array>
+    <string-array name="sprinkle_spring_friction">
+        <item>0.01</item>
+        <item>0.01</item>
+    </string-array>
+    <string-array name="sprinkle_spring_influence">
+        <item>0.3</item>
+        <item>0.3</item>
+    </string-array>
+    <string-array name="sprinkle_spring_max_rotation">
+        <item>10.0</item>
+        <item>10.0</item>
+    </string-array>
+    <string-array name="sprinkle_spring_tension">
+        <item>85</item>
+        <item>85</item>
+    </string-array>
+    <integer-array name="sprinkle_unlock_duration">
+        <item>1500</item>
+        <item>1500</item>
+    </integer-array>
+    <integer-array name="stacks_max_unlock_flip_delay">
+        <item>800</item>
+        <item>500</item>
+    </integer-array>
+    <integer-array name="stacks_max_wake_offset_delay">
+        <item>300</item>
+        <item>300</item>
+    </integer-array>
+    <integer-array name="stacks_max_wake_scaling_delay">
+        <item>150</item>
+        <item>100</item>
+    </integer-array>
+    <integer-array name="stacks_orbit_max_angle">
+        <item>-5</item>
+        <item>-7</item>
+    </integer-array>
+    <string-array name="stacks_spring_attenuation">
+        <item>0.05</item>
+        <item>0.05</item>
+    </string-array>
+    <string-array name="stacks_spring_friction">
+        <item>0.01</item>
+        <item>0.01</item>
+    </string-array>
+    <string-array name="stacks_spring_influence">
+        <item>0.3</item>
+        <item>0.3</item>
+    </string-array>
+    <string-array name="stacks_spring_max_rotation">
+        <item>10.0</item>
+        <item>10.0</item>
+    </string-array>
+    <string-array name="stacks_spring_tension">
+        <item>85</item>
+        <item>85</item>
+    </string-array>
+    <integer-array name="stacks_unlock_duration">
+        <item>1500</item>
+        <item>1500</item>
+    </integer-array>
+</resources>

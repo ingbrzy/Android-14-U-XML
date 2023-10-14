@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">跨设备服务</string>
+    <string name="app_name_generic">一款应用</string>
+    <string name="app_stream_error_generic">分享应用期间出错</string>
+    <string name="app_stream_init_error_generic">未能成功向您的 Chromebook 分享应用</string>
+    <string name="audio_permission_rationale">分享应用时所需的麦克风权限已停用</string>
+    <string name="cancel_button_label">取消</string>
+    <string name="chromebook_keyboard">Chromebook 键盘</string>
+    <string name="chromebook_mouse">Chromebook 鼠标</string>
+    <string name="chromebook_touchscreen">Chromebook 触摸屏</string>
+    <string name="connect_device">正在将您的手机连接到以下远程设备：%1$s</string>
+    <string name="decline_button_label">拒绝</string>
+    <string name="development_notification_channel_name">开发</string>
+    <string name="device_camera_cannot_access">无法从这台 Chromebook 访问设备摄像头</string>
+    <string name="done_button_label">完成</string>
+    <string name="enable_button_label">启用</string>
+    <string name="foreground_service_notification_channel_name">常规</string>
+    <string name="foreground_service_notification_content">点按即可修改设置</string>
+    <string name="foreground_service_notification_title">{0,plural, =1{已连接到 # 部设备}other{已连接到 # 部设备}}</string>
+    <string name="interactive_streaming_generic_notification">正在流式传输“%1$s”并将通知同步到您的 Chromebook</string>
+    <string name="interactive_streaming_individual_notification">正在流式传输“%1$s”并同步 %2$s 的通知</string>
+    <string name="interactive_streaming_notification">正在向您的 Chromebook 流式传输</string>
+    <string name="keyboard_name">跨设备键盘</string>
+    <string name="lock_screen_notif_warning_content">请启用锁定屏幕通知功能</string>
+    <string name="lock_screen_notif_warning_title">系统将不会转发通知</string>
+    <string name="mouse_name">跨设备鼠标</string>
+    <string name="new_connection_confirm">确认</string>
+    <string name="new_connection_deny">拒绝</string>
+    <string name="new_connection_title">请确认字符串匹配</string>
+    <string name="notification_access_missing">需要获取通知访问权限</string>
+    <string name="notification_access_missing_description">若要在您的 Chromebook 上打开通知，请开启通知访问权限</string>
+    <string name="notification_channel_name">常规</string>
+    <string name="notification_listener_label">与您的 Chromebook 分享应用</string>
+    <string name="open_source_licenses">开源许可</string>
+    <string name="phone_permission_rationale">分享应用时所需的通话权限已停用</string>
+    <string name="prompt_switch_languages">按 Shift + 空格键即可切换您手机的 Gboard 语言</string>
+    <string name="settings_button">设置</string>
+    <string name="stop_sharing_button">结束流式传输</string>
+    <string name="stream_termination_proximity_warning">您的手机离得太远了。请将手机拿近一些以继续流式传输。</string>
+    <string name="substitute_app_name">系统</string>
+    <string name="summary_disable_wirecutter">已关闭</string>
+    <string name="summary_enable_wirecutter">已开启</string>
+    <string name="touchscreen_name">跨设备触摸屏</string>
+</resources>

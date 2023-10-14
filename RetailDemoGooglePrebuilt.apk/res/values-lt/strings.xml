@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_retaildemoCommunication">Programai leidžiama sąveikauti su demonstracinės versijos mažmenininkams paslaugomis. Šis leidimas turėtų būti suteikiamas tik demonstracinei versijai mažmenininkams. Programos, kurioms suteiktas šis leidimas, gali suaktyvinti veiksmus, leidžiamus tik naudojant demonstracinį režimą mažmenininkams.</string>
+    <string name="permlab_retaildemoCommunication">Ryšiai su demonstracine versija mažmenininkams</string>
+    <string name="retaildemo_preload_app_name">Demonstracinės versijos mažmenininkams paslaugos</string>
+</resources>

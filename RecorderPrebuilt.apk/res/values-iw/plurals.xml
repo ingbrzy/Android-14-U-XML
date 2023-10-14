@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dlg_message_deletion_confirmation">
+        <item quantity="other">ההקלטות שלך יימחקו באופן סופי. לא ניתן לבטל את הפעולה הזו.</item>
+        <item quantity="one">ההקלטות שלך יימחקו באופן סופי. לא ניתן לבטל את הפעולה הזו.</item>
+        <item quantity="two">ההקלטות שלך יימחקו באופן סופי. לא ניתן לבטל את הפעולה הזו.</item>
+    </plurals>
+    <plurals name="dlg_message_deletion_permanent_confirmation">
+        <item quantity="other">אין גיבוי של ההקלטות. הן יימחקו לתמיד. לא ניתן לבטל את הפעולה הזו.</item>
+        <item quantity="one">אין גיבוי של ההקלטות. הן יימחקו לתמיד. לא ניתן לבטל את הפעולה הזו.</item>
+        <item quantity="two">אין גיבוי של ההקלטות. הן יימחקו לתמיד. לא ניתן לבטל את הפעולה הזו.</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_confirmation">
+        <item quantity="other">למחוק את ההקלטות?</item>
+        <item quantity="one">למחוק את ההקלטות?</item>
+        <item quantity="two">למחוק את ההקלטות?</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_permanent_confirmation">
+        <item quantity="other">למחוק את ההקלטות האלה לתמיד?</item>
+        <item quantity="one">למחוק את ההקלטות האלה לתמיד?</item>
+        <item quantity="two">למחוק את ההקלטות האלה לתמיד?</item>
+    </plurals>
+    <plurals name="download_failure_description_storage_full">
+        <item quantity="other">לא ניתן להוריד את ההקלטות כי נפח האחסון של המכשיר מלא. יש להקיש כדי לבדוק.</item>
+        <item quantity="one">לא ניתן להוריד את ההקלטות כי נפח האחסון של המכשיר מלא. יש להקיש כדי לבדוק.</item>
+        <item quantity="two">לא ניתן להוריד את ההקלטות כי נפח האחסון של המכשיר מלא. יש להקיש כדי לבדוק.</item>
+    </plurals>
+    <plurals name="downloading_description">
+        <item quantity="other">%1$d הקלטות בהורדה</item>
+        <item quantity="one">%1$d הקלטות בהורדה</item>
+        <item quantity="two">%1$d הקלטות בהורדה</item>
+    </plurals>
+    <plurals name="og_backup_failed_title">
+        <item quantity="other">לא ניתן היה לגבות %1$d פריטים</item>
+        <item quantity="one">לא ניתן היה לגבות %1$d פריטים</item>
+        <item quantity="two">לא ניתן היה לגבות %1$d פריטים</item>
+    </plurals>
+    <plurals name="og_backup_items_left">
+        <item quantity="other">נותרו %1$d פריטים</item>
+        <item quantity="one">נותרו %1$d פריטים</item>
+        <item quantity="two">נותרו %1$d פריטים</item>
+    </plurals>
+    <plurals name="og_backup_items_stopped_title">
+        <item quantity="other">%1$d פריטים לא גובו</item>
+        <item quantity="one">%1$d פריטים לא גובו</item>
+        <item quantity="two">%1$d פריטים לא גובו</item>
+    </plurals>
+    <plurals name="peoplekit_chips_copied_recipients">
+        <item quantity="other">הועתקו %d נמענים</item>
+        <item quantity="one">הועתקו %d נמענים</item>
+        <item quantity="two">הועתקו %d נמענים</item>
+    </plurals>
+    <plurals name="search_results_count">
+        <item quantity="other">%1$d תוצאות</item>
+        <item quantity="one">%1$d תוצאות</item>
+        <item quantity="two">%1$d תוצאות</item>
+    </plurals>
+    <plurals name="search_results_position">
+        <item quantity="other">^2/^1 תוצאות</item>
+        <item quantity="one">^2/^1 תוצאות</item>
+        <item quantity="two">^2/^1 תוצאות</item>
+    </plurals>
+    <plurals name="search_results_position_content_description">
+        <item quantity="other">%1$d מתוך %2$d תוצאות</item>
+        <item quantity="one">%1$d מתוך %2$d תוצאות</item>
+        <item quantity="two">%1$d מתוך %2$d תוצאות</item>
+    </plurals>
+    <plurals name="selected_recording_quantity">
+        <item quantity="other">נבחרו %1$d פריטים</item>
+        <item quantity="one">נבחרו %1$d פריטים</item>
+        <item quantity="two">נבחרו %1$d פריטים</item>
+    </plurals>
+    <plurals name="snackbar_message_download_failed_storage_full">
+        <item quantity="other">נפח האחסון של המכשיר מלא. לא ניתן להוריד את ההקלטות.</item>
+        <item quantity="one">נפח האחסון של המכשיר מלא. לא ניתן להוריד את ההקלטות.</item>
+        <item quantity="two">נפח האחסון של המכשיר מלא. לא ניתן להוריד את ההקלטות.</item>
+    </plurals>
+    <plurals name="speaker_count">
+        <item quantity="other">%1$d רמקולים</item>
+        <item quantity="one">%1$d רמקולים</item>
+        <item quantity="two">%1$d רמקולים</item>
+    </plurals>
+    <plurals name="uploading_description">
+        <item quantity="other">מתבצעת העלאה של %1$d הקלטות</item>
+        <item quantity="one">מתבצעת העלאה של %1$d הקלטות</item>
+        <item quantity="two">מתבצעת העלאה של %1$d הקלטות</item>
+    </plurals>
+</resources>

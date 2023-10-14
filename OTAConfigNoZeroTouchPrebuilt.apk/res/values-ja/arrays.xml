@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sim_locked_notification_custom_content_array">
+        <item>この SIM カードを使用するには、Device Unlock アプリでスマートフォンのロックを解除してください。</item>
+        <item>携帯通信会社にお問い合わせください</item>
+    </string-array>
+</resources>

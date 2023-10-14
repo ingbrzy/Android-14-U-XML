@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ndays">
+        <item quantity="other">%d ቀኖች</item>
+        <item quantity="one">%d ቀኖች</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%d ሰዓቶች</item>
+        <item quantity="one">%d ሰዓቶች</item>
+    </plurals>
+    <plurals name="Nminutes">
+        <item quantity="other">%d ደቂቃዎች</item>
+        <item quantity="one">%d ደቂቃዎች</item>
+    </plurals>
+    <plurals name="Nweeks">
+        <item quantity="other">%d ሳምንቶች</item>
+        <item quantity="one">%d ሳምንቶች</item>
+    </plurals>
+    <plurals name="a11y_filter_capacity">
+        <item quantity="other">የሚፈለገው ክፍል አቅም፦ %1$d መቀመጫዎች</item>
+        <item quantity="one">የሚፈለገው ክፍል አቅም፦ %1$d መቀመጫዎች</item>
+    </plurals>
+    <plurals name="accessibility_find_time_custom_duration_hour_input">
+        <item quantity="other">%dሰዓቶች</item>
+        <item quantity="one">%d ሰዓቶች</item>
+    </plurals>
+    <plurals name="accessibility_find_time_custom_duration_minute_input">
+        <item quantity="other">%d ደቂቃዎች</item>
+        <item quantity="one">%d ደቂቃዎች</item>
+    </plurals>
+    <plurals name="accessibility_has_time_proposals">
+        <item quantity="other">የጊዜ ምክረሃሳቦች አሉት</item>
+        <item quantity="one">የጊዜ ምክረሃሳቦች አሉት</item>
+    </plurals>
+    <plurals name="alternate_search_available_announce">
+        <item quantity="other">ፍለጋ በ%d ውጤቶች ተጠናቅቋል።</item>
+        <item quantity="one">ፍለጋ በ%d ውጤቶች ተጠናቅቋል።</item>
+    </plurals>
+    <plurals name="annually_frequency_text">
+        <item quantity="other">በእያንዳንዱ %1$d %2$s ድገም</item>
+        <item quantity="one">በእያንዳንዱ %1$d %2$s ድገም</item>
+    </plurals>
+    <plurals name="birthday_chip_title">
+        <item quantity="other">%d የልደት ቀኖች</item>
+        <item quantity="one">%d የልደት ቀኖች</item>
+    </plurals>
+    <plurals name="calendar_daily_lower">
+        <item quantity="other">በ%d ቀናት</item>
+        <item quantity="one">በ%d ቀን</item>
+    </plurals>
+    <plurals name="calendar_monthly_interval_lower">
+        <item quantity="other">በ%1$d ወራት</item>
+        <item quantity="one">በ%1$d ወር</item>
+    </plurals>
+    <plurals name="calendar_weekly_lower">
+        <item quantity="other">በ%1$d ሳምንታት</item>
+        <item quantity="one">በ%1$d ሳምንት</item>
+    </plurals>
+    <plurals name="calendar_yearly_interval_lower">
+        <item quantity="other">በ%1$d ዓመታት</item>
+        <item quantity="one">በ%1$d ዓመት</item>
+    </plurals>
+    <plurals name="capacity_description">
+        <item quantity="other">%d ሰዎች</item>
+        <item quantity="one">%d ሰዎች</item>
+    </plurals>
+    <plurals name="count_duration_accessibility_description">
+        <item quantity="other">ከ%d ክስተቶች በኋላ ያበቃል</item>
+        <item quantity="one">ከ%d ክስተቶች በኋላ ያበቃል</item>
+    </plurals>
+    <plurals name="count_duration_label">
+        <item quantity="other">ከ%d ክስተቶች በኋላ</item>
+        <item quantity="one">ከ%d ክስተቶች በኋላ</item>
+    </plurals>
+    <plurals name="daily_frequency_text">
+        <item quantity="other">በእያንዳንዱ %1$d %2$s ድገም</item>
+        <item quantity="one">በእያንዳንዱ %1$d %2$s ድገም</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">ቀኖች</item>
+        <item quantity="one">ቀኖች</item>
+    </plurals>
+    <plurals name="days_before">
+        <item quantity="other">ከቀኖች በፊት</item>
+        <item quantity="one">ከቀኖች በፊት</item>
+    </plurals>
+    <plurals name="describe_attachments">
+        <item quantity="other">አባሪዎች፦ %1$d አባሪዎች</item>
+        <item quantity="one">አባሪዎች፦ %1$d አባሪዎች</item>
+    </plurals>
+    <plurals name="done_reminders_title">
+        <item quantity="other">%d አስታዋሾች ተከናውነዋል</item>
+        <item quantity="one">%d አስታዋሾች ተከናውነዋል</item>
+    </plurals>
+    <plurals name="end_by_count">
+        <item quantity="other">፤ ለ%d ጊዜያት</item>
+        <item quantity="one">፤ ለ%d ጊዜያት</item>
+    </plurals>
+    <plurals name="error_working_location_duration_too_long">
+        <item quantity="other">የስራ አካባቢዎች ከ%1$d ቀኖች በላይ ሆነው ሊቀናበሩ አይችሉም።</item>
+        <item quantity="one">የስራ አካባቢዎች ከ%1$d ቀኖች በላይ ሆነው ሊቀናበሩ አይችሉም።</item>
+    </plurals>
+    <plurals name="files_not_shared_dialog_body">
+        <item quantity="other">ከDrive ያስገቡዋቸውን ፋይሎች እንግዶችዎ መዳረሻ ላይኖራቸው ይችላል። ፋይሎቹን ከGoogle Drive ውስጥ ማጋራት ሊኖርብዎ ይችላል።</item>
+        <item quantity="one">ከDrive ያስገቡዋቸውን ፋይሎች እንግዶችዎ መዳረሻ ላይኖራቸው ይችላል። ፋይሎቹን ከGoogle Drive ውስጥ ማጋራት ሊኖርብዎ ይችላል።</item>
+    </plurals>
+    <plurals name="find_a_time_invisible_attendee">
+        <item quantity="other">+%d ተጨማሪ</item>
+        <item quantity="one">+%d ተጨማሪ</item>
+    </plurals>
+    <plurals name="find_time_duration_hour_label">
+        <item quantity="other">%d ሰዓቶች</item>
+        <item quantity="one">%d ሰዓቶች</item>
+    </plurals>
+    <plurals name="find_time_duration_minute_label">
+        <item quantity="other">%d ደቂቃዎች</item>
+        <item quantity="one">%d ደቂቃዎች</item>
+    </plurals>
+    <plurals name="fix_permissions_does_not_fix_everything_warning">
+        <item quantity="other">ማስታወሻ፥ አንዳንድ እንግዶች አሁንም ወደ እነዚህ ፋይሎች መዳረሻ ላይኖራቸው ይችላል። እነዚህን ፋይሎች ከGoogle Drive ውስጥ ማጋራት ሊኖርብዎ ይችላል።</item>
+        <item quantity="one">ማስታወሻ፥ አንዳንድ እንግዶች አሁንም ወደ እነዚህ ፋይሎች መዳረሻ ላይኖራቸው ይችላል። እነዚህን ፋይሎች ከGoogle Drive ውስጥ ማጋራት ሊኖርብዎ ይችላል።</item>
+    </plurals>
+    <plurals name="fix_permissions_outside_domain_warning_hedgehog">
+        <item quantity="other">"የእነዚህ ፋይሎች ባለቤት ከሆነው Google Workspace ድርጅት ውስጥ ካልሆኑ እንግዶች፦&lt;br>&lt;b>%1$s
+&lt;/b>&lt;br>ጋር እየተጋሩ ነው"</item>
+        <item quantity="one">"የእነዚህ ፋይሎች ባለቤት ከሆነው Google Workspace ድርጅት ውስጥ ካልሆኑ እንግዶች፦&lt;br>&lt;b>%1$s
+&lt;/b>&lt;br>ጋር እየተጋሩ ነው"</item>
+    </plurals>
+    <plurals name="guest_count">
+        <item quantity="other">%d እንግዶች</item>
+        <item quantity="one">%d እንግዶች</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">ሰዓቶች</item>
+        <item quantity="one">ሰዓቶች</item>
+    </plurals>
+    <plurals name="hours_before">
+        <item quantity="other">ከደቂቃዎች በፊት</item>
+        <item quantity="one">ከደቂቃዎች በፊት</item>
+    </plurals>
+    <plurals name="ical_many_events_warning">
+        <item quantity="other">ይህ %d ክስተቶች ያክላል እና ሊቀለበስ አይችልም። እርግጠኛ ነዎት?</item>
+        <item quantity="one">ይህ %d ክስተቶች ያክላል እና ሊቀለበስ አይችልም። እርግጠኛ ነዎት?</item>
+    </plurals>
+    <plurals name="mark_reminders_done_title">
+        <item quantity="other">%dአስታዋሾች እንደተከናወኑ ምልክት ይደረግባቸው?</item>
+        <item quantity="one">%dአስታዋሾች እንደተከናወኑ ምልክት ይደረግባቸው?</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">ደቂቃዎች</item>
+        <item quantity="one">ደቂቃዎች</item>
+    </plurals>
+    <plurals name="minutes_before">
+        <item quantity="other">ከደቂቃዎች በፊት</item>
+        <item quantity="one">ከደቂቃዎች በፊት</item>
+    </plurals>
+    <plurals name="month_view_hidden_events">
+        <item quantity="other">%d ተጨማሪ</item>
+        <item quantity="one">%d ተጨማሪ</item>
+    </plurals>
+    <plurals name="monthly_frequency_text">
+        <item quantity="other">በእያንዳንዱ %1$d %2$s ድገም</item>
+        <item quantity="one">በእያንዳንዱ %1$d %2$s ድገም</item>
+    </plurals>
+    <plurals name="more_guests">
+        <item quantity="other">እና %1$d ተጨማሪ</item>
+        <item quantity="one">እና %1$d ተጨማሪ</item>
+    </plurals>
+    <plurals name="no_room_suggestions_title">
+        <item quantity="other">%1$d እንግዳዎች እና ምንም የክፍል አስተያየት ጥቆማዎች</item>
+        <item quantity="one">%1$d እንግዳ እና ምንም የክፍል አስተያየት ጥቆማዎች</item>
+    </plurals>
+    <plurals name="num_rooms">
+        <item quantity="other">%1$d ክፍሎች</item>
+        <item quantity="one">%1$d ክፍሎች</item>
+    </plurals>
+    <plurals name="public_notification_text">
+        <item quantity="other">%1$d new notifications</item>
+        <item quantity="one">You have a notification</item>
+    </plurals>
+    <plurals name="recurrence_frequency_annually">
+        <item quantity="other">ዓመታት</item>
+        <item quantity="one">ዓመታት</item>
+    </plurals>
+    <plurals name="recurrence_frequency_daily">
+        <item quantity="other">ቀኖች</item>
+        <item quantity="one">ቀኖች</item>
+    </plurals>
+    <plurals name="recurrence_frequency_monthly">
+        <item quantity="other">ወራት</item>
+        <item quantity="one">ወራት</item>
+    </plurals>
+    <plurals name="recurrence_frequency_weekly">
+        <item quantity="other">ሳምንታት</item>
+        <item quantity="one">ሳምንታት</item>
+    </plurals>
+    <plurals name="reminder_bundle_description_prefix">
+        <item quantity="other">%d አስታዋሾች፥</item>
+        <item quantity="one">%d አስታዋሾች፥</item>
+    </plurals>
+    <plurals name="reminder_done_bundle_description_prefix">
+        <item quantity="other">%d አስታዋሾች ተከናውነዋል፥</item>
+        <item quantity="one">%d አስታዋሾች ተከናውነዋል፥</item>
+    </plurals>
+    <plurals name="reminders_marked_done">
+        <item quantity="other">%d አስታዋሾች እንደተከናወኑ ምልክት ተገርጎባቸዋል።</item>
+        <item quantity="one">%d አስታዋሾች እንደተከናወኑ ምልክት ተገርጎባቸዋል።</item>
+    </plurals>
+    <plurals name="reminders_migration_dialog_title">
+        <item quantity="other">%d አስታዋሾችን ወደ ተግባራት ይቀይሩ</item>
+        <item quantity="one">%d አስታዋሽን ወደ ተግባር ይቀይሩ</item>
+    </plurals>
+    <plurals name="reminders_migration_force_completed_toast">
+        <item quantity="other">አስታዋሾች አሁን ተግባሮች ሆነዋል። የ%2$s %1$d አስታዋሾች ወደ ተግባሮች ተቀይረዋል።</item>
+        <item quantity="one">አስታዋሾች አሁን ተግባሮች ሆነዋል። የ%2$s %1$d አስታዋሽ ወደ ተግባሮች ተቀይሯል።</item>
+    </plurals>
+    <plurals name="reminders_migration_keep_only_dialog_title">
+        <item quantity="other">የእርስዎ %d አስታዋሾች በGoogle Keep ውስጥ የሚገኙ ይሆናሉ</item>
+        <item quantity="one">የእርስዎ %d አስታዋሽ በGoogle Keep ውስጥ የሚገኙ ይሆናል</item>
+    </plurals>
+    <plurals name="reminders_migration_keep_only_reminders_dialog_description_with_account">
+        <item quantity="other">እንደ %s ሁሉም የእርስዎ አስታዋሾች በGoogle Keep ውስጥ ተፈጥረዋል እና ወደ ተግባራት ሊለወጡ አይችሉም። ከቀን መቁጠሪያ ይወገዳሉ ነገር ግን አሁንም በKeep ውስጥ ሊያቀናብሯቸው ይችላሉ።</item>
+        <item quantity="one">እንደ %s የእርስዎ አስታዋሽ በGoogle Keep ውስጥ ተፈጥሯል እና ወደ ተግባር ሊለወጥ አይችልም። ከቀን መቁጠሪያ ይወገዳል ነገር ግን እርስዎ አሁንም በKeep ውስጥ ሊያስተዳድሩት ይችላሉ።</item>
+    </plurals>
+    <plurals name="reminders_migration_partial_failure_some_remaining_toast">
+        <item quantity="other">ለ%2$s %1$d አስታዋሾች ብቻ ወደ ተግባራት ተቀይረዋል። አንዳንድ አስታዋሾች ይቀራሉ።</item>
+        <item quantity="one">ለ%2$s %1$d አስታዋሽ ብቻ ወደ ተግባር ተቀይሯል። አንዳንድ አስታዋሾች ይቀራሉ።</item>
+    </plurals>
+    <plurals name="reminders_migration_tooltip_remark">
+        <item quantity="other">የእርስዎ %d አስታዋሽ ወደ ተግባራት ተቀይረዋል።</item>
+        <item quantity="one">የእርስዎ %d አስታዋሽ ወደ ተግባራት ተቀይሯል።</item>
+    </plurals>
+    <plurals name="reminders_migration_tooltip_with_keep_reminders_remark">
+        <item quantity="other">%d አስታዋሾች ወደ ተግባሮች ተቀይረዋል። በGoogle Keep ውስጥ የተፈጠሩ አስታዋሾች አልተቀየሩም። ከቀን መቁጠሪያ ይወገዳሉ፣ ነገር ግን አሁንም በKeep ውስጥ ሊያቀናብሯቸው ይችላሉ።</item>
+        <item quantity="one">%d አስታዋሾች ወደ ተግባሮች ተቀይረዋል። በGoogle Keep ውስጥ የተፈጠሩ አስታዋሾች አልተቀየሩም። ከቀን መቁጠሪያ ይወገዳሉ፣ ነገር ግን አሁንም በKeep ውስጥ ሊያቀናብሯቸው ይችላሉ።</item>
+    </plurals>
+    <plurals name="reminders_migration_voluntary_completed_keep_only_toast">
+        <item quantity="other">የ%2$s %1$d አስታዋሾች ከቀን መቁጠሪያ ላይ ተወግደዋል፣ ነገር ግን Keep ውስጥ ይቆያሉ</item>
+        <item quantity="one">የ%2$s %1$d አስታዋሾች ከቀን መቁጠሪያ ላይ ተወግደዋል፣ ነገር ግን Keep ውስጥ ይቆያሉ</item>
+    </plurals>
+    <plurals name="reminders_migration_voluntary_completed_toast">
+        <item quantity="other">የ%2$s %1$d አስታዋሾች ወደ ተግባሮች ተቀይረዋል</item>
+        <item quantity="one">የ%2$s %1$d አስታዋሾች ወደ ተግባሮች ተቀይረዋል</item>
+    </plurals>
+    <plurals name="reminders_title">
+        <item quantity="other">%d አስታዋሾች</item>
+        <item quantity="one">%d አስታዋሾች</item>
+    </plurals>
+    <plurals name="response_count_accepted">
+        <item quantity="other">%s አዎ</item>
+        <item quantity="one">%s አዎ</item>
+    </plurals>
+    <plurals name="response_count_accepted_in_a_meeting_room">
+        <item quantity="other">%s በስብሰባ ክፍል ውስጥ</item>
+        <item quantity="one">%s በስብሰባ ክፍል ውስጥ</item>
+    </plurals>
+    <plurals name="response_count_accepted_virtually">
+        <item quantity="other">%s በምናባዊ</item>
+        <item quantity="one">%s በምናባዊ</item>
+    </plurals>
+    <plurals name="response_count_declined">
+        <item quantity="other">%s የለም</item>
+        <item quantity="one">%s የለም</item>
+    </plurals>
+    <plurals name="response_count_need_action">
+        <item quantity="other">%s በመጠባበቅ ላይ</item>
+        <item quantity="one">%s በመጠባበቅ ላይ</item>
+    </plurals>
+    <plurals name="response_count_tentative">
+        <item quantity="other">%s ምናልባት</item>
+        <item quantity="one">%s ምናልባት</item>
+    </plurals>
+    <plurals name="room_capacity_description">
+        <item quantity="other">የጉባኤ ክፍል ለ%1$d ሰዎች</item>
+        <item quantity="one">የጉባኤ ክፍል ለ%1$d ሰዎች</item>
+    </plurals>
+    <plurals name="short_invisible_all_day_events">
+        <item quantity="other">+%d</item>
+        <item quantity="one">+%d</item>
+    </plurals>
+    <plurals name="smartmail_seats">
+        <item quantity="other">መቀመጫዎች %s</item>
+        <item quantity="one">መቀመጫዎች %s</item>
+    </plurals>
+    <plurals name="smartmail_time_day_offset">
+        <item quantity="other">%d ቀኖች</item>
+        <item quantity="one">%d ቀኖች</item>
+    </plurals>
+    <plurals name="survey_star_rating">
+        <item quantity="other">%1$d ኮከቦች ከ%2$d</item>
+        <item quantity="one">%1$d ኮከቦች ከ%2$d</item>
+    </plurals>
+    <plurals name="tasks_rollover_chip_title">
+        <item quantity="other">በመጠባበቅ ላይ ያሉ %d ተግባሮች</item>
+        <item quantity="one">በመጠባበቅ ላይ ያሉ %d ተግባሮች</item>
+    </plurals>
+    <plurals name="tasks_rollover_dialog_description">
+        <item quantity="other">ባለፉት %d ቀኖች ውስጥ</item>
+        <item quantity="one">ባለፉት %d ቀኖች ውስጥ</item>
+    </plurals>
+    <plurals name="weekly_by_day_lower">
+        <item quantity="other">በየ%1$d ሳምንቱ %2$s ላይ</item>
+        <item quantity="one">በየ%1$d ሳምንቱ %2$s ላይ</item>
+    </plurals>
+    <plurals name="weekly_frequency_text">
+        <item quantity="other">በእያንዳንዱ %1$d %2$s ድገም</item>
+        <item quantity="one">በእያንዳንዱ %1$d %2$s ድገም</item>
+    </plurals>
+    <plurals name="weeks">
+        <item quantity="other">ሳምንቶች</item>
+        <item quantity="one">ሳምንቶች</item>
+    </plurals>
+    <plurals name="weeks_before">
+        <item quantity="other">ከሳምንቶች በፊት</item>
+        <item quantity="one">ከሳምንቶች በፊት</item>
+    </plurals>
+</resources>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dlg_message_deletion_confirmation">
+        <item quantity="other">Upptökunum verður eytt varanlega. Ekki er hægt að afturkalla þessa aðgerð.</item>
+        <item quantity="one">Upptökunum verður eytt varanlega. Ekki er hægt að afturkalla þessa aðgerð.</item>
+    </plurals>
+    <plurals name="dlg_message_deletion_permanent_confirmation">
+        <item quantity="other">Ekki hefur verið tekið afrit af upptökunum. Þeim verður eytt endanlega. Ekki er hægt að afturkalla þessa aðgerð.</item>
+        <item quantity="one">Ekki hefur verið tekið afrit af upptökunum. Þeim verður eytt endanlega. Ekki er hægt að afturkalla þessa aðgerð.</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_confirmation">
+        <item quantity="other">Eyða upptökum?</item>
+        <item quantity="one">Eyða upptökum?</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_permanent_confirmation">
+        <item quantity="other">Viltu eyða þessum upptökum endanlega?</item>
+        <item quantity="one">Viltu eyða þessum upptökum endanlega?</item>
+    </plurals>
+    <plurals name="download_failure_description_storage_full">
+        <item quantity="other">Ekki er hægt að sækja upptökur því að geymslurými tækisins er fullt. Ýttu til að skoða.</item>
+        <item quantity="one">Ekki er hægt að sækja upptökur því að geymslurými tækisins er fullt. Ýttu til að skoða.</item>
+    </plurals>
+    <plurals name="downloading_description">
+        <item quantity="other">Sækir %1$d upptökur</item>
+        <item quantity="one">Sækir %1$d upptöku</item>
+    </plurals>
+    <plurals name="og_backup_failed_title">
+        <item quantity="other">Ekki tókst að afrita %1$d atriði</item>
+        <item quantity="one">Ekki tókst að afrita %1$d atriði</item>
+    </plurals>
+    <plurals name="og_backup_items_left">
+        <item quantity="other">%1$d atriði eftir</item>
+        <item quantity="one">%1$d atriði eftir</item>
+    </plurals>
+    <plurals name="og_backup_items_stopped_title">
+        <item quantity="other">%1$d atriði ekki afrituð</item>
+        <item quantity="one">%1$d atriði ekki afritað</item>
+    </plurals>
+    <plurals name="peoplekit_chips_copied_recipients">
+        <item quantity="other">%d viðtakendur afritaðir</item>
+        <item quantity="one">%d viðtakandi afritaður</item>
+    </plurals>
+    <plurals name="search_results_count">
+        <item quantity="other">%1$d niðurstöður</item>
+        <item quantity="one">%1$d niðurstaða</item>
+    </plurals>
+    <plurals name="search_results_position">
+        <item quantity="other">^1/^2 niðurstöðum</item>
+        <item quantity="one">^1/^2 niðurstöðu</item>
+    </plurals>
+    <plurals name="search_results_position_content_description">
+        <item quantity="other">%1$d af %2$d niðurstöðum</item>
+        <item quantity="one">%1$d af %2$d niðurstöðu</item>
+    </plurals>
+    <plurals name="selected_recording_quantity">
+        <item quantity="other">%1$d valin</item>
+        <item quantity="one">%1$d valið</item>
+    </plurals>
+    <plurals name="snackbar_message_download_failed_storage_full">
+        <item quantity="other">Geymslurými tækis er fullt. Ekki er hægt að sækja upptökur.</item>
+        <item quantity="one">Geymslurými tækis er fullt. Ekki er hægt að sækja upptökur.</item>
+    </plurals>
+    <plurals name="speaker_count">
+        <item quantity="other">%1$d hátalarar</item>
+        <item quantity="one">%1$d hátalari</item>
+    </plurals>
+    <plurals name="uploading_description">
+        <item quantity="other">Hleður upp %1$d upptökum</item>
+        <item quantity="one">Hleður upp %1$d upptöku</item>
+    </plurals>
+</resources>

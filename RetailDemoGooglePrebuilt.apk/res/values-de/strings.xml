@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_retaildemoCommunication">Erlaubt einer App, mit Retail Demo Services zu interagieren. Diese Berechtigung sollte nur für den Demomodus für den Einzelhandel erteilt werden. Apps, denen diese Berechtigung erteilt wurde, können Aktionen auslösen, die dem Demomodus für den Einzelhandel vorbehalten sind.</string>
+    <string name="permlab_retaildemoCommunication">Kommunikation mit der Retail Demo Services App</string>
+    <string name="retaildemo_preload_app_name">Retail Demo Services</string>
+</resources>

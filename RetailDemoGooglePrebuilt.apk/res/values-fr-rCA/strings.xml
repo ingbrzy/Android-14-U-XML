@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_retaildemoCommunication">"Permet à l'application d'interagir avec les services de démo en magasin. Cette autorisation ne doit être accordée qu'à l'application de démo en magasin. Les applications auxquelles cette autorisation est accordée ont accès à des actions réservées au mode Démo en magasin."</string>
+    <string name="permlab_retaildemoCommunication">Communications relatives à la démo en magasin</string>
+    <string name="retaildemo_preload_app_name">Services démo magasin</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_retaildemoCommunication">يسمح هذا الإذن للتطبيق بالتفاعل مع خدمات العرض التوضيحي لبائعي التجزئة. يجب ألا يُمنح هذا الإذن سوى لخدمات \"العرض التوضيحي لبائعي التجزئة\" فقط. يمكن للتطبيقات التي حصلت على هذا الإذن تنفيذ الإجراءات المخصّصة لوضع العرض التوضيحي لبائعي التجزئة.</string>
+    <string name="permlab_retaildemoCommunication">التفاعل مع خدمات العرض التوضيحي لبائعي التجزئة</string>
+    <string name="retaildemo_preload_app_name">خدمات العرض التوضيحي لبائعي التجزئة</string>
+</resources>

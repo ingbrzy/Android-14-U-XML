@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_retaildemoCommunication">एपलाई Retail Demo का सेवाहरूसँग अन्तर्क्रिया गर्ने अनुमति दिन्छ। यो अनुमति Retail Demo लाई मात्र दिनु पर्छ। यो अनुमति पाएका एपहरूले Retail Demo मोडका लागि रिजर्भ गरिएका कारबाहीहरू सुरु गर्न सक्छ।</string>
+    <string name="permlab_retaildemoCommunication">Retail Demo Communication</string>
+    <string name="retaildemo_preload_app_name">Retail Demo Services</string>
+</resources>

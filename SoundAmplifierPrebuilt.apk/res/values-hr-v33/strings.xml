@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sound_amplifier_html_description">Pojačalo pojačava slabe zvukove, no glasni zvukovi ne postaju preglasni.&lt;br/>&lt;br/> &lt;b>Kako se upotrebljava Pojačalo&lt;/b>&lt;br/> 1. Priključite žičane slušalice ili povežite Bluetooth slušalice.&lt;br/> 2. Pokrenite Pojačalo.</string>
+    <string name="sound_amplifier_intro">Koristite Pojačalo sa slušalicama da biste poboljšali kvalitetu zvuka oko sebe i na uređaju</string>
+</resources>

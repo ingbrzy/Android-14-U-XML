@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dlg_message_deletion_confirmation">
+        <item quantity="other">Rakaman anda akan dipadamkan secara kekal. Tindakan ini tidak boleh dibuat asal.</item>
+        <item quantity="one">Rakaman anda akan dipadamkan secara kekal. Tindakan ini tidak boleh dibuat asal.</item>
+    </plurals>
+    <plurals name="dlg_message_deletion_permanent_confirmation">
+        <item quantity="other">Rakaman tidak disandarkan. Ini akan dipadam secara kekal. Anda tidak dapat membuat asal tindakan ini.</item>
+        <item quantity="one">Rakaman tidak disandarkan. Ini akan dipadam secara kekal. Anda tidak dapat membuat asal tindakan ini.</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_confirmation">
+        <item quantity="other">Padamkan rakaman?</item>
+        <item quantity="one">Padamkan rakaman?</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_permanent_confirmation">
+        <item quantity="other">Padam rekod ini secara kekal?</item>
+        <item quantity="one">Padam rakaman ini secara kekal?</item>
+    </plurals>
+    <plurals name="download_failure_description_storage_full">
+        <item quantity="other">Tidak dapat memuat turun rakaman kerana storan peranti penuh. Ketik untuk menyemak.</item>
+        <item quantity="one">Storan peranti penuh. Ketik untuk menyemak.</item>
+    </plurals>
+    <plurals name="downloading_description">
+        <item quantity="other">Memuat turun %1$d rakaman</item>
+        <item quantity="one">Memuat turun %1$d rakaman</item>
+    </plurals>
+    <plurals name="og_backup_failed_title">
+        <item quantity="other">%1$d item gagal disandarkan</item>
+        <item quantity="one">%1$d item gagal disandarkan</item>
+    </plurals>
+    <plurals name="og_backup_items_left">
+        <item quantity="other">%1$d item lagi</item>
+        <item quantity="one">%1$d item lagi</item>
+    </plurals>
+    <plurals name="og_backup_items_stopped_title">
+        <item quantity="other">%1$d item tidak disandarkan</item>
+        <item quantity="one">%1$d item tidak disandarkan</item>
+    </plurals>
+    <plurals name="peoplekit_chips_copied_recipients">
+        <item quantity="other">%d penerima disalin</item>
+        <item quantity="one">%d penerima disalin</item>
+    </plurals>
+    <plurals name="search_results_count">
+        <item quantity="other">%1$d hasil carian</item>
+        <item quantity="one">%1$d hasil carian</item>
+    </plurals>
+    <plurals name="search_results_position">
+        <item quantity="other">^1/^2 hasil carian</item>
+        <item quantity="one">^1/^2 hasil carian</item>
+    </plurals>
+    <plurals name="search_results_position_content_description">
+        <item quantity="other">%1$d daripada %2$d hasil carian</item>
+        <item quantity="one">%1$d daripada %2$d hasil carian</item>
+    </plurals>
+    <plurals name="selected_recording_quantity">
+        <item quantity="other">%1$d dipilih</item>
+        <item quantity="one">%1$d dipilih</item>
+    </plurals>
+    <plurals name="snackbar_message_download_failed_storage_full">
+        <item quantity="other">Storan peranti penuh. Tidak dapat memuat turun rakaman.</item>
+        <item quantity="one">Storan peranti penuh. Tidak dapat memuat turun rakaman.</item>
+    </plurals>
+    <plurals name="speaker_count">
+        <item quantity="other">%1$d pembesar suara</item>
+        <item quantity="one">%1$d pembesar suara</item>
+    </plurals>
+    <plurals name="uploading_description">
+        <item quantity="other">Memuat naik %1$d rakaman</item>
+        <item quantity="one">Memuat naik %1$d rakaman</item>
+    </plurals>
+</resources>

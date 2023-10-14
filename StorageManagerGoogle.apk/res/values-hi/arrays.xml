@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="select_logpersist_summaries">
+        <item>बंद</item>
+        <item>सभी लॉग बफ़र</item>
+        <item>रेडियो लॉग बफ़र को छोड़कर सभी</item>
+        <item>केवल कर्नल लॉग बफ़र</item>
+    </string-array>
+</resources>

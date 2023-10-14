@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120000">
+        <item quantity="other">Wi-Fi కోసం వేచి ఉంది</item>
+        <item quantity="one">Wi-Fi కోసం వేచి ఉంది</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120002">
+        <item quantity="other">ఈ పరికరంలో (%d యాప్‌లు)</item>
+        <item quantity="one">ఈ పరికరంలో (%d యాప్)</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120003">
+        <item quantity="other">%1$s కోసం ఫీచర్‌లు</item>
+        <item quantity="one">%1$s కోసం ఫీచర్</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120004">
+        <item quantity="other">%d రోజుల క్రితం ఇన్‌స్టాల్ చేయబడింది</item>
+        <item quantity="one">%d రోజు క్రితం ఇన్‌స్టాల్ చేయబడింది</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120005">
+        <item quantity="other">%d గంటల క్రితం ఇన్‌స్టాల్ చేయబడింది</item>
+        <item quantity="one">%d గంట క్రితం ఇన్‌స్టాల్ చేయబడింది</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120006">
+        <item quantity="other">%d నిమిషాల క్రితం ఇన్‌స్టాల్ చేయబడింది</item>
+        <item quantity="one">%d నిమిషం క్రితం ఇన్‌స్టాల్ చేయబడింది</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120007">
+        <item quantity="other">%1$d ఎంచుకున్నారు</item>
+        <item quantity="one">%1$d ఎంచుకున్నారు</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120008">
+        <item quantity="other">%d రోజుల క్రితం అప్‌డేట్ అయింది</item>
+        <item quantity="one">%d రోజు క్రితం అప్‌డేట్ చేయబడింది</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120009">
+        <item quantity="other">%d గంటల క్రితం అప్‌డేట్ చేయబడింది</item>
+        <item quantity="one">%d గంట క్రితం అప్‌డేట్ చేయబడింది</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000a">
+        <item quantity="other">%d నిమిషాల క్రితం అప్‌డేట్ చేయబడింది</item>
+        <item quantity="one">%d నిమిషం క్రితం అప్‌డేట్ చేయబడింది</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000b">
+        <item quantity="other">చివరిగా, %d రోజుల క్రితం ఉపయోగించబడింది</item>
+        <item quantity="one">చివరిగా, %d రోజు క్రితం ఉపయోగించబడింది</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000c">
+        <item quantity="other">చివరిగా, %d గంటల క్రితం ఉపయోగించబడింది</item>
+        <item quantity="one">చివరిగా, %d గంట క్రితం ఉపయోగించబడింది</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000d">
+        <item quantity="other">చివరిగా, %d నిమిషాల క్రితం ఉపయోగించబడింది</item>
+        <item quantity="one">చివరిగా, %d నిమిషం క్రితం ఉపయోగించబడింది</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000f">
+        <item quantity="other">%d రోజుల క్రితం యాప్‌లు స్కాన్ చేయబడ్డాయి</item>
+        <item quantity="one">%d రోజు క్రితం యాప్‌లు స్కాన్ చేయబడ్డాయి</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120010">
+        <item quantity="other">%d గంటల క్రితం యాప్‌లు స్కాన్ చేయబడ్డాయి</item>
+        <item quantity="one">%d గంట క్రితం యాప్‌లు స్కాన్ చేయబడ్డాయి</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120011">
+        <item quantity="other">%d నిమిషాల క్రితం యాప్‌లు స్కాన్ చేయబడ్డాయి</item>
+        <item quantity="one">%d నిమిషం క్రితం యాప్‌లు స్కాన్ చేయబడ్డాయి</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120014">
+        <item quantity="other">%1$d రివ్యూలు</item>
+        <item quantity="one">%1$d రివ్యూ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120015">
+        <item quantity="other">%2$d నక్షత్ర రేటింగ్‌తో %1$d రివ్యూలు</item>
+        <item quantity="one">%2$d నక్షత్ర రేటింగ్‌తో %1$d రివ్యూ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120016">
+        <item quantity="other">%1$d పరికరాలలో ఇన్‌స్టాల్ చేయండి.</item>
+        <item quantity="one">%1$d పరికరంలో ఇన్‌స్టాల్ చేయండి.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120017">
+        <item quantity="other">%1$d పరికరాలలో ఇన్‌స్టాల్ చేయండి. మరిన్ని పరికరాలు అందుబాటులో ఉన్నాయి.</item>
+        <item quantity="one">%1$d పరికరంలో ఇన్‌స్టాల్ చేయండి. మరిన్ని పరికరాలు అందుబాటులో ఉన్నాయి.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120018">
+        <item quantity="other">ఈ యాప్ త్వరలో మీ %1$d పరికరాలలో ఇన్‌స్టాల్ చేయబడుతుంది.</item>
+        <item quantity="one">ఈ యాప్ త్వరలో మీ %1$d పరికరంలో ఇన్‌స్టాల్ చేయబడుతుంది.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120019">
+        <item quantity="other">%1$d అదనపు సన్నివేశాలు లభించాయి</item>
+        <item quantity="one">%1$d అదనపు సన్నివేశం లభించింది</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001a">
+        <item quantity="other">ఈ కొనుగోలుపై %1$d అదనపు సన్నివేశాలు లభిస్తాయి</item>
+        <item quantity="one">ఈ కొనుగోలుపై %1$d అదనపు సన్నివేశం లభిస్తుంది</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001b">
+        <item quantity="other">%1$d రోజులు</item>
+        <item quantity="one">%1$d రోజు</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001c">
+        <item quantity="other">%1$s రివ్యూలలో సగటు రేటింగ్ %2$s స్టార్‌లు</item>
+        <item quantity="one">1 రివ్యూలో సగటు రేటింగ్ %1$s స్టార్‌లు</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001d">
+        <item quantity="other">%s రివ్యూలు</item>
+        <item quantity="one">1 రివ్యూ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001e">
+        <item quantity="other">మీరు ఇప్పుడు డెవలపర్ కావడానికి %1$d దశల దూరంలో ఉన్నారు.</item>
+        <item quantity="one">మీరు ఇప్పుడు డెవలపర్ కావడానికి %1$d దశ దూరంలో ఉన్నారు.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001f">
+        <item quantity="other">కార్లు</item>
+        <item quantity="one">కారు</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120020">
+        <item quantity="other">Chromebookలు</item>
+        <item quantity="one">Chromebook</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120021">
+        <item quantity="other">మడవగలవి</item>
+        <item quantity="one">మడవగలది</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120022">
+        <item quantity="other">ఫోన్‌లు</item>
+        <item quantity="one">ఫోన్</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120023">
+        <item quantity="other">టాబ్లెట్‌లు</item>
+        <item quantity="one">టాబ్లెట్</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120024">
+        <item quantity="other">టీవీలు</item>
+        <item quantity="one">టీవీ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120025">
+        <item quantity="other">పరికరాలు</item>
+        <item quantity="one">పరికరం</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120026">
+        <item quantity="other">గడియారాలు</item>
+        <item quantity="one">గడియారం</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120027">
+        <item quantity="other">%1$d Play పాయింట్‌లు అందుబాటులో ఉన్నాయి.</item>
+        <item quantity="one">%1$d Play పాయింట్ అందుబాటులో ఉంది.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120028">
+        <item quantity="other">%1$d గంటలు</item>
+        <item quantity="one">%1$d గంట</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120029">
+        <item quantity="other">%1$d గంటలు మిగిలి ఉన్నాయి</item>
+        <item quantity="one">1 గంట మిగిలి ఉంది</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002a">
+        <item quantity="other">%1$d యాప్‌లు ఇన్‌స్టాల్ అవుతున్నాయి…</item>
+        <item quantity="one">%1$d యాప్ ఇన్‌స్టాల్ అవుతోంది…</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002b">
+        <item quantity="other">ఇన్‌స్టాల్‌లు పాజ్ చేయబడ్డాయి</item>
+        <item quantity="one">ఇన్‌స్టాల్ పాజ్ చేయబడింది</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002c">
+        <item quantity="other">%1$d యాప్‌లు ఇన్‌స్టాల్ చేయబడతాయి</item>
+        <item quantity="one">%1$d యాప్ ఇన్‌స్టాల్ చేయబడుతుంది</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002d">
+        <item quantity="other">చివరిగా, %d రోజుల క్రితం అప్‌డేట్ చేయబడింది</item>
+        <item quantity="one">చివరిగా, %d రోజు క్రితం అప్‌డేట్ చేయబడింది</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002e">
+        <item quantity="other">చివరిగా, %d గంటల క్రితం అప్‌డేట్ చేయబడింది</item>
+        <item quantity="one">చివరిగా, %d గంట క్రితం అప్‌డేట్ చేయబడింది</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002f">
+        <item quantity="other">చివరిగా, %d నిమిషాల క్రితం అప్‌డేట్ చేయబడింది</item>
+        <item quantity="one">చివరిగా, %d నిమిషం క్రితం అప్‌డేట్ చేయబడింది</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120033">
+        <item quantity="other">%1$d సంవత్సరాల క్రితం</item>
+        <item quantity="one">%1$d సంవత్సరం క్రితం</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120034">
+        <item quantity="other">%1$d నిమిషాలు</item>
+        <item quantity="one">%1$d నిమిషం</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120035">
+        <item quantity="other">%1$d నిమిషాలు మిగిలి ఉన్నాయి</item>
+        <item quantity="one">1 నిమిషం మిగిలి ఉంది</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120037">
+        <item quantity="other">%1$d ఎంచుకున్నారు</item>
+        <item quantity="one">%1$d ఎంచుకున్నారు</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120038">
+        <item quantity="other">%1$d యాప్‌లు ఆర్కైవ్ చేయబడుతున్నాయి</item>
+        <item quantity="one">%1$d యాప్ ఆర్కైవ్ చేయబడుతోంది</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120039">
+        <item quantity="other">ఎంచుకున్న యాప్‌లను తీసివేయాలా?</item>
+        <item quantity="one">ఎంచుకున్న యాప్‌ను తీసివేయాలా?</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12003a">
+        <item quantity="other">%1$d యాప్‌లు తీసివేయబడ్డాయి</item>
+        <item quantity="one">%1$d యాప్ తీసివేయబడింది</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12003d">
+        <item quantity="other">%1$d ఇన్‌స్టలేషన్‌లు పెండింగ్‌లో ఉన్నాయి</item>
+        <item quantity="one">%1$d ఇన్‌స్టలేషన్ పెండింగ్‌లో ఉంది</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12003e">
+        <item quantity="other">%1$d ఇన్‌స్టలేషన్‌లు ప్రోగ్రెస్‌లో ఉన్నాయి</item>
+        <item quantity="one">%1$d ఇన్‌స్టలేషన్ ప్రోగ్రెస్‌లో ఉంది</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120040">
+        <item quantity="other">%1$d అప్‌డేట్‌లు పెండింగ్‌లో ఉన్నాయి</item>
+        <item quantity="one">%1$d అప్‌డేట్ పెండింగ్‌లో ఉంది</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120041">
+        <item quantity="other">%1$d అప్‌డేట్‍లు ప్రోగ్రెస్‌లో ఉన్నాయి</item>
+        <item quantity="one">%1$d అప్‌డేట్ ప్రోగ్రెస్‌లో ఉంది</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120042">
+        <item quantity="other">%1$d యాప్‌లు ఇన్‌స్టాల్ చేయబడ్డాయి</item>
+        <item quantity="one">%1$d యాప్ ఇన్‌స్టాల్ చేయబడింది</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120044">
+        <item quantity="other">%1$d గంటల క్రితం రిలీజ్ అయింది</item>
+        <item quantity="one">%1$d గంట క్రితం రిలీజ్ అయింది</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120045">
+        <item quantity="other">%1$d రోజుల క్రితం రిలీజ్ అయింది</item>
+        <item quantity="one">%1$d రోజు క్రితం రిలీజ్ అయింది</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120046">
+        <item quantity="other">యాప్‌లు తీసివేయబడ్డాయి</item>
+        <item quantity="one">యాప్ తీసివేయబడింది</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120047">
+        <item quantity="other">%1$d updates need approval</item>
+        <item quantity="one">%1$d[=1] అప్‌‌డేట్‌కు ఆమోదం అవసరం</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120048">
+        <item quantity="other">%1$d కొత్త అప్‌‌డేట్‌లు</item>
+        <item quantity="one">%1$d కొత్త అప్‌డేట్</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120049">
+        <item quantity="other">%1$d అప్‌డేట్‌లు అందుబాటులో ఉన్నాయి</item>
+        <item quantity="one">%1$d అప్‌డేట్ లభిస్తుంది</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004a">
+        <item quantity="other">అన్నీ అప్‌డేట్ చేయండి</item>
+        <item quantity="one">అప్‌డేట్ చేయండి</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004b">
+        <item quantity="other">%1$d apps updated</item>
+        <item quantity="one">%1$d యాప్ అప్‌డేట్ అయింది</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004c">
+        <item quantity="other">%1$d గంటల్లో ముగుస్తుంది</item>
+        <item quantity="one">%1$d గంటలో ముగుస్తుంది</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004d">
+        <item quantity="other">%1$d రోజుల్లో ముగుస్తుంది</item>
+        <item quantity="one">%1$d రోజులో ముగుస్తుంది</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004e">
+        <item quantity="other">%1$d నిమిషాలు</item>
+        <item quantity="one">%1$d నిమిషం</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004f">
+        <item quantity="other">%1$d సెకన్లు</item>
+        <item quantity="one">%1$d సెకను</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120050">
+        <item quantity="other">వ్యక్తిగత యాప్‌లు తీసివేయబడ్డాయి</item>
+        <item quantity="one">వ్యక్తిగత యాప్ తీసివేయబడింది</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120053">
+        <item quantity="other">Play Protect %d రోజుల క్రితం స్కాన్ చేయబడింది</item>
+        <item quantity="one">Play Protect %d రోజు క్రితం స్కాన్ చేయబడింది</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120054">
+        <item quantity="other">Play Protect %d గంటల క్రితం స్కాన్ చేయబడింది</item>
+        <item quantity="one">Play Protect %d గంట క్రితం స్కాన్ చేయబడింది</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120055">
+        <item quantity="other">Play Protect %d నిమిషాల క్రితం స్కాన్ చేయబడింది</item>
+        <item quantity="one">Play Protect %d నిమిషం క్రితం స్కాన్ చేయబడింది</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120056">
+        <item quantity="other">వచ్చే సంవత్సరం %2$sని ఉంచడానికి %1$s పాయింట్‌లు</item>
+        <item quantity="one">వచ్చే సంవత్సరం %2$sని ఉంచడానికి 1 పాయింట్</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120057">
+        <item quantity="other">%2$sకు %1$s పాయింట్‌లు</item>
+        <item quantity="one">%2$sకు 1 పాయింట్</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120058">
+        <item quantity="other">తెలియని యాప్‌లను ఇన్‌స్టాల్ చేయడానికి లేదా అప్‌డేట్ చేయడానికి మీరు ఈ యాప్‌లకు అనుమతిని ఇచ్చారు, దీనివల్ల మీ పరికరం అలాగే వ్యక్తిగత సమాచారం ప్రమాదంలో పడవచ్చు. ఆ యాప్‌లు ఇన్‌స్టాల్ అవ్వకుండా నివారించడానికి అనుమతి నిరాకరించండి.</item>
+        <item quantity="one">తెలియని యాప్‌లను ఇన్‌స్టాల్ చేయడానికి లేదా అప్‌డేట్ చేయడానికి మీరు ఈ యాప్‌నకు అనుమతిని ఇచ్చారు, దీనివల్ల మీ పరికరం అలాగే వ్యక్తిగత సమాచారం ప్రమాదంలో పడవచ్చు. ఆ యాప్‌లు ఇన్‌స్టాల్ అవ్వకుండా నివారించడానికి అనుమతి నిరాకరించండి.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120059">
+        <item quantity="other">తెలియని యాప్‌లను ఇన్‌స్టాల్ చేయడానికి లేదా అప్‌డేట్ చేయడానికి మీరు %1$d యాప్‌లకు అనుమతిని ఇచ్చారు, దీనివల్ల మీ పరికరం అలాగే వ్యక్తిగత సమాచారం ప్రమాదంలో పడవచ్చు</item>
+        <item quantity="one">తెలియని యాప్‌లను ఇన్‌స్టాల్ చేయడానికి లేదా అప్‌డేట్ చేయడానికి మీరు 1 యాప్‌నకు అనుమతిని ఇచ్చారు, దీనివల్ల మీ పరికరం అలాగే వ్యక్తిగత సమాచారం ప్రమాదంలో పడవచ్చు</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005a">
+        <item quantity="other">%1$d గోప్యతా హెచ్చరికలు</item>
+        <item quantity="one">1 గోప్యతా హెచ్చరిక</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005b">
+        <item quantity="other">%1$d హానికరమైన యాప్‌లు కనుగొనబడ్డాయి</item>
+        <item quantity="one">1 హానికరమైన యాప్ కనుగొనబడింది</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005c">
+        <item quantity="other">%1$d సెక్యూరిటీ నోటిఫికేషన్‌లు</item>
+        <item quantity="one">1 సెక్యూరిటీ నోటిఫికేషన్</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005d">
+        <item quantity="other">%1$d సెక్యూరిటీ అప్‌డేట్‌లు</item>
+        <item quantity="one">1 సెక్యూరిటీ అప్‌డేట్</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005e">
+        <item quantity="other">%1$d సురక్షితం కాని యాప్‌లు కనుగొనబడ్డాయి</item>
+        <item quantity="one">1 సురక్షితం కాని యాప్ కనుగొనబడింది</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005f">
+        <item quantity="other">%1$d హెచ్చరికలు</item>
+        <item quantity="one">1 హెచ్చరిక</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120060">
+        <item quantity="other">సురక్షితం కాని యాప్‌లు కనుగొనబడ్డాయి</item>
+        <item quantity="one">సురక్షితం కాని యాప్ కనుగొనబడింది</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120061">
+        <item quantity="other">%1$d గంటల్లో ముగుస్తుంది</item>
+        <item quantity="one">%1$d గంటలో ముగుస్తుంది</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120062">
+        <item quantity="other">%1$d రోజుల్లో ముగుస్తుంది</item>
+        <item quantity="one">%1$d రోజులో ముగుస్తుంది</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120063">
+        <item quantity="other">%2$d దశల్లో %1$d పూర్తయ్యాయి</item>
+        <item quantity="one">%2$d‌లో %1$d‌వ దశ పూర్తయింది</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120064">
+        <item quantity="other">%1$d యాప్‌లు ఇన్‌స్టాల్‌కు సిద్ధంగా ఉన్నాయి</item>
+        <item quantity="one">%1$d యాప్ ఇన్‌స్టాల్‌కు సిద్ధంగా ఉంది</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120065">
+        <item quantity="other">%1$s మీకు %2$d యాప్‌లను పంపుతుంది. పెయిరింగ్ కోడ్ మ్యాచ్ అయినట్లు నిర్ధారించుకోండి.</item>
+        <item quantity="one">%1$s, మీకు %2$d యాప్‌ను పంపుతుంది. పెయిరింగ్ కోడ్ మ్యాచ్ అయినట్లు నిర్ధారించుకోండి.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120066">
+        <item quantity="other">\"%2$s\" నుంచి %1$d యాప్‌లు స్వీకరించబడుతున్నాయి…</item>
+        <item quantity="one">\"%2$s\" నుంచి %1$d యాప్ స్వీకరించబడుతోంది…</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006a">
+        <item quantity="other">%1$d మంది వినియోగదారులు ఈ రివ్యూ సహాయకరంగా ఉందని కనుగొన్నారు. కామెంట్‌ సహాయకరంగా ఉన్నట్లు గుర్తు పెడుతుంది</item>
+        <item quantity="one">%1$d వినియోగదారు ఈ రివ్యూ సహాయకరంగా ఉందని కనుగొన్నారు. కామెంట్‌ సహాయకరంగా ఉన్నట్లు గుర్తు పెడుతుంది</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006b">
+        <item quantity="other">%1$d మంది వినియోగదారులు ఈ రివ్యూ సహాయకరంగా ఉందని కనుగొన్నారు. సహాయకరంగా ఉందనే కామెంట్‌ను తీసివేయండి</item>
+        <item quantity="one">%1$d వినియోగదారు ఈ రివ్యూ సహాయకరంగా ఉన్నట్లు కనుగొన్నారు. సహాయకరంగా ఉందనే కామెంట్‌ను తీసివేయండి</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006c">
+        <item quantity="other">%1$s మంది వ్యక్తులు ఇది సహాయకరంగా ఉందని గుర్తించారు</item>
+        <item quantity="one">%1$s వ్యక్తి ఇది ఉపయోగకరంగా ఉందని తెలిపారు.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006f">
+        <item quantity="other">%1$d సెకన్లు</item>
+        <item quantity="one">%1$d సెకను</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120070">
+        <item quantity="other">%1$d సెకన్లు మిగిలి ఉన్నాయి</item>
+        <item quantity="one">1 సెకను మిగిలి ఉంది</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120071">
+        <item quantity="other">%1$d ఎంచుకోబడ్డాయి • %2$s</item>
+        <item quantity="one">%1$d ఎంచుకోబడ్డాయి • %2$s</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120072">
+        <item quantity="other">%1$d యాప్‌లను \"%2$s\"కు పంపిస్తున్నాం…</item>
+        <item quantity="one">%1$d యాప్‌ను \"%2$s\"కు పంపిస్తున్నాం…</item>
+    </plurals>
+    <plurals name="setup_completed_installed">
+        <item quantity="other">%1$d యాప్‌లు ఇన్‌స్టాల్ చేయబడ్డాయి</item>
+        <item quantity="one">%1$d యాప్ ఇన్‌స్టాల్ చేయబడింది</item>
+    </plurals>
+    <plurals name="setup_completed_installed_with_failures">
+        <item quantity="other">%2$d యాప్‌లలో %1$d ఇన్‌స్టాల్ చేయడం సాధ్యపడలేదు</item>
+        <item quantity="one">%2$d యాప్‌లో %1$d ఇన్‌స్టాల్ చేయడం సాధ్యపడలేదు</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120075">
+        <item quantity="other">చివరిగా %1$d రోజుల క్రితం ఉపయోగించబడింది</item>
+        <item quantity="one">చివరిగా %1$d రోజు క్రితం ఉపయోగించబడింది</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120076">
+        <item quantity="other">ఎంచుకున్న %1$d యాప్‌లను పునరుద్ధరించు</item>
+        <item quantity="one">ఎంచుకున్న యాప్‌ను పునరుద్ధరించు</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120078">
+        <item quantity="other">%1$d కొత్త భాషలను డౌన్‌లోడ్ చేయాలా?</item>
+        <item quantity="one">కొత్త భాషను డౌన్‌లోడ్ చేయాలా?</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007b">
+        <item quantity="other">%1$dవ సర్వే ప్రతిస్పందనలు మీ ఖాతా నుండి శాశ్వతంగా తీసివేయబడతాయి.</item>
+        <item quantity="one">%1$dవ సర్వే ప్రతిస్పందన మీ ఖాతా నుండి శాశ్వతంగా తీసివేయబడుతుంది.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007c">
+        <item quantity="other">%1$d ఎంచుకున్నారు</item>
+        <item quantity="one">%1$d ఎంచుకున్నారు</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007d">
+        <item quantity="other">Play పాయింట్‌లను చూపించు. %1$d పాయింట్‌లు అందుబాటులో ఉన్నాయి.</item>
+        <item quantity="one">Play పాయింట్‌లను చూపించు. %1$d పాయింట్ అందుబాటులో ఉంది.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007e">
+        <item quantity="other">%1$d Play పాయింట్‌లు అందుబాటులో ఉన్నాయి.</item>
+        <item quantity="one">%1$d Play పాయింట్ అందుబాటులో ఉంది.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120080">
+        <item quantity="other">%1$s పాయింట్‌లు</item>
+        <item quantity="one">1 పాయింట్</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120081">
+        <item quantity="other">%1$d యాప్‌లను \"%2$s\"తో బదిలీ చేస్తున్నాం…</item>
+        <item quantity="one">%1$d యాప్‌ను \"%2$s\"తో బదిలీ చేస్తున్నాం…</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120082">
+        <item quantity="other">%1$d యాప్‌లు మీ పరికరం నుండి అన్‌ఇన్‌స్టాల్ చేయబడతాయి.</item>
+        <item quantity="one">%1$d యాప్ మీ పరికరం నుండి అన్‌ఇన్‌స్టాల్ చేయబడుతుంది.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120083">
+        <item quantity="other">ఎంచుకున్న యాప్‌లను అన్‌ఇన్‌స్టాల్ చేయాలా?</item>
+        <item quantity="one">ఎంచుకున్న యాప్‌ను అన్‌ఇన్‌స్టాల్ చేయాలా?</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120084">
+        <item quantity="other">ఎంచుకున్న యాప్‌లకు అప్‌డేట్‌లను అన్‌ఇన్‌స్టాల్ చేయాలా?</item>
+        <item quantity="one">ఎంచుకున్న యాప్‌నకు అప్‌డేట్‌లను అన్‌ఇన్‌స్టాల్ చేయాలా?</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120085">
+        <item quantity="other">%2$sకి కావలసినంత స్పేస్ కోసం %1$s యాప్‌లు తీసివేయబడ్డాయి.</item>
+        <item quantity="one">%2$sకి కావలసినంత స్పేస్ కోసం %1$s యాప్ తీసివేయబడింది.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120086">
+        <item quantity="other">Apps will be installed soon.</item>
+        <item quantity="one">యాప్‌ త్వరలో ఇన్‌స్టాల్ చేయబడుతుంది.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120087">
+        <item quantity="other">App updates will be installed soon.</item>
+        <item quantity="one">యాప్‌ అప్‌డేట్‌ త్వరలో ఇన్‌స్టాల్ చేయబడుతుంది.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008a">
+        <item quantity="other">చివరిగా %1$d రోజుల క్రితం ఉపయోగించబడింది</item>
+        <item quantity="one">చివరిగా %1$d రోజు క్రితం ఉపయోగించబడింది</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008b">
+        <item quantity="other">చివరిగా %1$d నెలల క్రితం ఉపయోగించబడింది</item>
+        <item quantity="one">చివరిగా %1$d నెల క్రితం ఉపయోగించబడింది</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008c">
+        <item quantity="other">ఈ పరికరంలో యాప్‌లను లేదా అప్‌డేట్‌లను ఇన్‌స్టాల్ చేయడానికి, మీకు ఇకపై అవసరం లేని యాప్‌లను తీసివేయండి. అలాగే మీరు స్టోరేజ్‌ సెట్టింగ్‌లలో మీడియా ఫైళ్లను తొలగించడం ద్వారా కూడా స్టోరేజ్‌ స్థలాన్ని ఖాళీ చేయవచ్చు.</item>
+        <item quantity="one">ఈ పరికరంలో యాప్‌ను లేదా అప్‌డేట్‌ను ఇన్‌స్టాల్ చేయడానికి, మీకు ఇకపై అవసరం లేని యాప్‌లను తీసివేయండి. అలాగే మీరు స్టోరేజ్‌ సెట్టింగ్‌లలో మీడియా ఫైళ్లను తొలగించడం ద్వారా కూడా స్టోరేజ్‌ స్థలాన్ని ఖాళీ చేయవచ్చు.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008d">
+        <item quantity="other">ఈ పరికరంలో యాప్‌లను లేదా అప్‌డేట్‌లను ఇన్‌స్టాల్ చేయడానికి, మీకు ఇకపై అవసరం లేని యాప్‌లను తీసివేయండి. అలాగే మీరు \"&lt;a href=\"\">సెట్టింగ్‌లు > స్టోరేజ్‌&lt;/a>\"లో మీడియా ఫైళ్లను తొలగించడం ద్వారా కూడా స్టోరేజ్‌ స్థలాన్ని ఖాళీ చేయవచ్చు.</item>
+        <item quantity="one">ఈ పరికరంలో యాప్‌ను లేదా అప్‌డేట్‌ను ఇన్‌స్టాల్ చేయడానికి, మీకు ఇకపై అవసరం లేని యాప్‌లను తీసివేయండి. అలాగే మీరు \"&lt;a href=\"\">సెట్టింగ్‌లు > స్టోరేజ్‌&lt;/a>\"లో మీడియా ఫైళ్లను తొలగించడం ద్వారా కూడా స్టోరేజ్‌ స్థలాన్ని ఖాళీ చేయవచ్చు.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008e">
+        <item quantity="other">ఈ పరికరంలో యాప్‌లను లేదా అప్‌డేట్‌లను ఇన్‌స్టాల్ చేయడానికి, మీకు ఇకపై అవసరం లేని యాప్‌లను తీసివేయండి. అలాగే మీరు \"సెట్టింగ్‌లు > స్టోరేజ్‌\"లో మీడియా ఫైళ్లను తొలగించడం ద్వారా కూడా స్టోరేజ్‌ స్థలాన్ని ఖాళీ చేయవచ్చు.</item>
+        <item quantity="one">ఈ పరికరంలో యాప్‌ను లేదా అప్‌డేట్‌ను ఇన్‌స్టాల్ చేయడానికి, మీకు ఇకపై అవసరం లేని యాప్‌లను తీసివేయండి. అలాగే మీరు \"సెట్టింగ్‌లు > స్టోరేజ్‌\"లో మీడియా ఫైళ్లను తొలగించడం ద్వారా కూడా స్టోరేజ్‌ స్థలాన్ని ఖాళీ చేయవచ్చు.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008f">
+        <item quantity="other">%1$d యాప్‌లు అన్‌ఇన్‌స్టాల్ చేయబడ్డాయి</item>
+        <item quantity="one">%1$d యాప్ అన్‌ఇన్‌స్టాల్ చేయబడింది</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120090">
+        <item quantity="other">మీరు కొంత కాలంగా ఉపయోగించని %1$d యాప్‌లను మేము కనుగొన్నాము. వాటిని తొలగించడం వలన మీకు%2$dMB స్టోరేజ్‌ స్థలం దొరుకుతుంది</item>
+        <item quantity="one">మీరు కొంత కాలంగా ఉపయోగించని %1$d యాప్‌ను మేము కనుగొన్నాము. దీన్ని తొలగించడం వలన మీకు%2$dMB స్టోరేజ్‌ స్థలం దొరుకుతుంది</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120091">
+        <item quantity="other">%1$d గంటల్లో ప్రారంభమవుతుంది</item>
+        <item quantity="one">%1$d గంటలో ప్రారంభమవుతుంది</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120092">
+        <item quantity="other">%1$d రోజుల్లో ప్రారంభమవుతుంది</item>
+        <item quantity="one">%1$d రోజులో ప్రారంభమవుతుంది</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120093">
+        <item quantity="other">%1$d గంటల్లో అందుబాటులో ఉంటుంది</item>
+        <item quantity="one">%1$d గంటలో అందుబాటులో ఉంటుంది</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120094">
+        <item quantity="other">%1$d రోజుల్లో అందుబాటులో ఉంటుంది</item>
+        <item quantity="one">%1$d రోజులో అందుబాటులో ఉంటుంది</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120095">
+        <item quantity="other">%1$d నెలలకు పైబడి, పరికరంలో సిస్టమ్ అప్‌డేట్ చేయబడలేదు</item>
+        <item quantity="one">%1$d నెల రోజులుగా పరికరంలో సిస్టమ్ అప్‌డేట్ చేయబడలేదు</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120096">
+        <item quantity="other">వర్క్ యాప్‌లు తీసివేయబడ్డాయి</item>
+        <item quantity="one">వర్క్ యాప్ తీసివేయబడింది</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120097">
+        <item quantity="other">%1$d సంవత్సరాల క్రితం</item>
+        <item quantity="one">%1$d సంవత్సరం క్రితం</item>
+    </plurals>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dots">
+        <item quantity="other">%s డాట్‌లు</item>
+        <item quantity="one">%s డాట్</item>
+    </plurals>
+    <plurals name="gestures_recorded_message">
+        <item quantity="other">%d సంజ్ఞలు రికార్డ్ చేయబడ్డాయి</item>
+        <item quantity="one">1 సంజ్ఞ రికార్డ్ చేయబడింది</item>
+    </plurals>
+    <plurals name="label_num_keys_assigned_format">
+        <item quantity="other">%d స్విచ్‌లు కేటాయించబడ్డాయి</item>
+        <item quantity="one">%d స్విచ్ కేటాయించబడింది</item>
+    </plurals>
+    <plurals name="label_num_scanning_loops_format">
+        <item quantity="other">%d లూప్‌లు</item>
+        <item quantity="one">%d లూప్</item>
+    </plurals>
+    <plurals name="line_speed_summary_format">
+        <item quantity="other">సెకనుకు %.2f సెం.మీ.</item>
+        <item quantity="one">సెకనుకు 1 సెం.మీ.</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d కొత్త నోటిఫికేషన్‌లు</item>
+        <item quantity="one">%d కొత్త నోటిఫికేషన్</item>
+    </plurals>
+    <plurals name="time_delay_summary_format">
+        <item quantity="other">%.2f సెకన్లు</item>
+        <item quantity="one">1 సెకను</item>
+    </plurals>
+</resources>

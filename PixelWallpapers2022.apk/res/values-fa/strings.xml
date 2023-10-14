@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="azure_title">جیجاق لاجوردی</string>
+    <string name="blackswan_title">قوی سیاه</string>
+    <string name="cockatoo_title">طوطی کاکلی</string>
+    <string name="come_alive_title">کاغذدیواری‌های زنده</string>
+    <string name="feathers_attribution">عکس از اندرو زوکِرمَن</string>
+    <string name="feathers_description">نمایی از پرهای رنگین با جزئیات واضح</string>
+    <string name="feathers_title">پر</string>
+    <string name="greenwinged_title">مکائوی بال‌سبز</string>
+    <string name="king_title">کرکس شاهی</string>
+    <string name="living_universe_title">پس‌زمینه‌های کیهانی</string>
+    <string name="photos_memory_gallery_title">خاطرات شما</string>
+    <string name="pied_title">کلاغ پیسه</string>
+    <string name="ringnecked_title">طوطی طوق‌صورتی</string>
+    <string name="seagull_title">مرغ دریایی</string>
+</resources>

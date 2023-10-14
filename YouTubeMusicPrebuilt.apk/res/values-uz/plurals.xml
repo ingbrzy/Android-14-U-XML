@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_duration_description_hours">
+        <item quantity="other">%d soat</item>
+        <item quantity="one">%d soat</item>
+    </plurals>
+    <plurals name="accessibility_duration_description_minutes">
+        <item quantity="other">%d daqiqa</item>
+        <item quantity="one">%d daqiqa</item>
+    </plurals>
+    <plurals name="accessibility_duration_description_seconds">
+        <item quantity="other">%d soniya</item>
+        <item quantity="one">%d soniya</item>
+    </plurals>
+    <plurals name="accessibility_skip_ad_in">
+        <item quantity="other">Reklamani yopish: %1$d soniya</item>
+        <item quantity="one">Reklamani yopish: 1 soniya</item>
+    </plurals>
+    <plurals name="auto_playlist_with_episode_count_item_subtitle">
+        <item quantity="other">Avto-pleylist • %1$d ta qism</item>
+        <item quantity="one">Avto-pleylist • 1 ta qism</item>
+    </plurals>
+    <plurals name="auto_playlist_with_size_item_subtitle">
+        <item quantity="other">Avtomatik pleylist • %1$d ta tarona</item>
+        <item quantity="one">Avtomatik pleylist • 1 ta tarona</item>
+    </plurals>
+    <plurals name="duration_hours">
+        <item quantity="other">%1$d soat</item>
+        <item quantity="one">%1$d soat</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%1$d daqiqa</item>
+        <item quantity="one">%1$d daqiqa</item>
+    </plurals>
+    <plurals name="hours_abbreviated">
+        <item quantity="other">%s st</item>
+        <item quantity="one">%s st</item>
+    </plurals>
+    <plurals name="menu_option_hours">
+        <item quantity="other">%s soat</item>
+        <item quantity="one">%s soat</item>
+    </plurals>
+    <plurals name="menu_option_minutes">
+        <item quantity="other">%s daqiqa</item>
+        <item quantity="one">%s daqiqa</item>
+    </plurals>
+    <plurals name="minutes_abbreviated">
+        <item quantity="other">%s daq</item>
+        <item quantity="one">%s daq</item>
+    </plurals>
+    <plurals name="notification_offline_playlist_progress_size">
+        <item quantity="other">%1$d / %2$d ta tarona</item>
+        <item quantity="one">%1$d / 1 ta tarona</item>
+    </plurals>
+    <plurals name="notification_offline_playlist_progress_track_count">
+        <item quantity="other">%1$d / %2$d trek</item>
+        <item quantity="one">Trekning 1 / %1$d</item>
+    </plurals>
+    <plurals name="offline_playlist_detail_page_subtitle_with_size">
+        <item quantity="other">Pleylist • %1$d ta tarona</item>
+        <item quantity="one">Pleylist • 1 ta tarona</item>
+    </plurals>
+    <plurals name="offline_playlist_size">
+        <item quantity="other">%1$,d ta tarona</item>
+        <item quantity="one">1 ta tarona</item>
+    </plurals>
+    <plurals name="offline_podcast_playlist_size">
+        <item quantity="other">%1$,d ta qism</item>
+        <item quantity="one">1 ta qism</item>
+    </plurals>
+    <plurals name="playlist_subtitle_with_track_count">
+        <item quantity="other">Pleylist • %1$d ta trek</item>
+        <item quantity="one">Pleylist • 1 ta trek</item>
+    </plurals>
+    <plurals name="playlist_with_creator_and_size_item_subtitle">
+        <item quantity="other">%1$s • %2$d ta tarona</item>
+        <item quantity="one">%1$s • 1 ta tarona</item>
+    </plurals>
+    <plurals name="playlist_with_creator_and_track_count_item_subtitle">
+        <item quantity="other">%1$s • %2$d ta trek</item>
+        <item quantity="one">%1$s • 1 ta trek</item>
+    </plurals>
+    <plurals name="playlist_with_entity_type_and_creator_and_size_item_subtitle">
+        <item quantity="other">Pleylist • %1$s • %2$d ta tarona</item>
+        <item quantity="one">Pleylist • %1$s • 1 ta tarona</item>
+    </plurals>
+    <plurals name="playlist_with_entity_type_and_creator_and_track_count_item_subtitle">
+        <item quantity="other">Pleylist • %1$s • %2$d ta trek</item>
+        <item quantity="one">Pleylist • %1$s • 1 ta trek</item>
+    </plurals>
+    <plurals name="pref_enable_smart_download_recent_music_summary">
+        <item quantity="other">Yaqinda tinglangan %1$d tagacha taronani yuklab olamiz.</item>
+        <item quantity="one">Yaqinda tinglangan %1$d tagacha taronani yuklab olamiz.</item>
+    </plurals>
+    <plurals name="quick_seek_x_second">
+        <item quantity="other">%d soniya</item>
+        <item quantity="one">%d soniya</item>
+    </plurals>
+    <plurals name="smart_downloads_details_header_byline_explanation">
+        <item quantity="other">Smart yuklanma (%1$d ta tarona)</item>
+        <item quantity="one">Smart yuklanma (%1$d ta tarona)</item>
+    </plurals>
+    <plurals name="smart_downloads_num_songs_estimated_space">
+        <item quantity="other">%1$d ta tarona (~%2$s)</item>
+        <item quantity="one">%1$d ta tarona (~%2$s)</item>
+    </plurals>
+    <plurals name="song_count">
+        <item quantity="other">%1$d ta tarona</item>
+        <item quantity="one">1 ta tarona</item>
+    </plurals>
+    <plurals name="track_count">
+        <item quantity="other">%1$d ta trek</item>
+        <item quantity="one">1 ta trek</item>
+    </plurals>
+    <plurals name="user_education_quick_seek">
+        <item quantity="other">%d soniya tashlab ketish uchun chap yoki oʻngga ikki marta tegining</item>
+        <item quantity="one">%d soniya tashlab ketish uchun chap yoki oʻngga ikki marta tegining</item>
+    </plurals>
+</resources>

@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="other">%d நா முன்பு</item>
+        <item quantity="one">%d நா முன்பு</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="other">%d நிமி முன்பு</item>
+        <item quantity="one">%d நிமி முன்பு</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="other">%d ஆண்டுக்கு முன்</item>
+        <item quantity="one">%d ஆண்டுக்கு முன்</item>
+    </plurals>
+    <plurals name="assistant_custodio_device_list_fragment_legacy_linking_item_text">
+        <item quantity="other">%d சாதனங்கள் உள்ளன</item>
+        <item quantity="one">%d சாதனம் உள்ளது</item>
+    </plurals>
+    <plurals name="assistant_custodio_device_list_home_section_subtitle_text">
+        <item quantity="other">%d சாதனங்கள்</item>
+        <item quantity="one">%d சாதனம்</item>
+    </plurals>
+    <plurals name="assistant_holiday_alarms_notification_content_text">
+        <item quantity="other">Tap to pause or cancel your alarms</item>
+        <item quantity="one">Tap to pause or cancel your %s alarm</item>
+    </plurals>
+    <plurals name="assistant_holiday_alarms_notification_pause_button_text">
+        <item quantity="other">Pause your alarms for the holiday</item>
+        <item quantity="one">Pause your %s alarm for the holiday</item>
+    </plurals>
+    <plurals name="assistant_post_task_migration_succeed_notification_title">
+        <item quantity="other">%1$d reminders set up in Google Tasks</item>
+        <item quantity="one">%1$d reminder set up in Google Tasks</item>
+    </plurals>
+    <plurals name="assistantactions_n_phone_numbers">
+        <item quantity="other">%1$d எண்கள்</item>
+        <item quantity="one">%1$d எண்</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">ஒவ்வொரு %d நாட்களும்</item>
+        <item quantity="one">தினமும்</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; %d முறை</item>
+        <item quantity="one">; ஒரு முறை</item>
+    </plurals>
+    <plurals name="fa_message_preview_card_num_of_audio_messages">
+        <item quantity="other">%1$d ஆடியோ மெசேஜ்கள்</item>
+        <item quantity="one">%1$d ஆடியோ மெசேஜ்</item>
+    </plurals>
+    <plurals name="fa_message_preview_card_num_of_pictures">
+        <item quantity="other">%1$d படங்கள்</item>
+        <item quantity="one">%1$d படம்</item>
+    </plurals>
+    <plurals name="fa_message_preview_card_num_of_videos">
+        <item quantity="other">%1$d வீடியோக்கள்</item>
+        <item quantity="one">%1$d வீடியோ</item>
+    </plurals>
+    <plurals name="gestalt_duration_in_days_short">
+        <item quantity="other">%1$d நாட்கள்</item>
+        <item quantity="one">%1$d நாள்</item>
+    </plurals>
+    <plurals name="gestalt_duration_in_hours_short">
+        <item quantity="other">%1$d மணிநேரம்</item>
+        <item quantity="one">%1$d மணிநேரம்</item>
+    </plurals>
+    <plurals name="gestalt_duration_in_minutes_short">
+        <item quantity="other">%1$d நிமிடங்கள்</item>
+        <item quantity="one">%1$d நிமிடம்</item>
+    </plurals>
+    <plurals name="gestalt_duration_in_months_short">
+        <item quantity="other">%1$d மாதங்கள்</item>
+        <item quantity="one">%1$d மாதம்</item>
+    </plurals>
+    <plurals name="gestalt_duration_in_years_short">
+        <item quantity="other">%1$d ஆண்டுகள்</item>
+        <item quantity="one">%1$d ஆண்டு</item>
+    </plurals>
+    <plurals name="lens_region_search_area_percent">
+        <item quantity="other">%1$s %2$d சதவீதம்</item>
+        <item quantity="one">%1$s %2$d சதவீதம்</item>
+    </plurals>
+    <plurals name="monthly_interval">
+        <item quantity="other">ஒவ்வொரு %1$d மாதங்களும்</item>
+        <item quantity="one">மாதந்தோறும்</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d புதிய அறிவிப்புகள்</item>
+        <item quantity="one">%d புதிய அறிவிப்பு</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">%1$d தேர்ந்தெடுக்கப்பட்டன</item>
+        <item quantity="one">%1$d தேர்ந்தெடுக்கப்பட்டது</item>
+    </plurals>
+    <plurals name="peoplekit_chips_copied_recipients">
+        <item quantity="other">%d பெறுநர்கள் நகலெடுக்கப்பட்டன</item>
+        <item quantity="one">%d பெறுநர் நகலெடுக்கப்பட்டது</item>
+    </plurals>
+    <plurals name="podcasts_days_ago">
+        <item quantity="other">%1$d நாட்களுக்கு முன்</item>
+        <item quantity="one">%1$d நாளுக்கு முன்</item>
+    </plurals>
+    <plurals name="podcasts_days_left_to_remove_downloads">
+        <item quantity="other">%1$d நாட்களுக்குப் பிறகு</item>
+        <item quantity="one">%1$d நாளுக்குப் பிறகு</item>
+    </plurals>
+    <plurals name="podcasts_enabled_podcasts_number_label">
+        <item quantity="other">%1$d/%2$d பாட்காஸ்ட்களில் இயக்கப்பட்டுள்ளது</item>
+        <item quantity="one">%1$d/%2$d பாட்காஸ்ட்களில் இயக்கப்பட்டுள்ளது</item>
+    </plurals>
+    <plurals name="podcasts_episode_list_title_text">
+        <item quantity="other">%1$d எபிசோடுகள்</item>
+        <item quantity="one">%1$d எபிசோடு</item>
+    </plurals>
+    <plurals name="podcasts_hours_abbreviated">
+        <item quantity="other">%s ம.நே</item>
+        <item quantity="one">%s ம.நே</item>
+    </plurals>
+    <plurals name="podcasts_hours_ago">
+        <item quantity="other">%1$d மணிநேரத்திற்கு முன்</item>
+        <item quantity="one">%1$d மணிநேரத்திற்கு முன்</item>
+    </plurals>
+    <plurals name="podcasts_hours_left_to_remove_downloads">
+        <item quantity="other">%1$d மணிநேரத்திற்குப் பிறகு</item>
+        <item quantity="one">%1$d மணிநேரத்திற்குப் பிறகு</item>
+    </plurals>
+    <plurals name="podcasts_minutes_abbreviated">
+        <item quantity="other">%s நிமி</item>
+        <item quantity="one">%s நிமி</item>
+    </plurals>
+    <plurals name="podcasts_minutes_ago">
+        <item quantity="other">%1$d நிமிடங்களுக்கு முன்</item>
+        <item quantity="one">%1$d நிமிடத்திற்கு முன்</item>
+    </plurals>
+    <plurals name="public_notification_text">
+        <item quantity="other">%1$d new notifications</item>
+        <item quantity="one">You have a notification</item>
+    </plurals>
+    <plurals name="readaloud_number_of_minutes">
+        <item quantity="other">%d நிமிடங்கள்</item>
+        <item quantity="one">%d நிமிடம்</item>
+    </plurals>
+    <plurals name="readaloud_number_of_seconds">
+        <item quantity="other">%d வினாடிகள்</item>
+        <item quantity="one">%d வினாடி</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">%d நிகழ்வுகளுக்கு</item>
+        <item quantity="one">%d நிகழ்விற்கு</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">ஒவ்வொரு %d நாட்களும்</item>
+        <item quantity="one">ஒவ்வொரு %d நாளும்</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">ஒவ்வொரு %d மாதங்களும்</item>
+        <item quantity="one">ஒவ்வொரு %d மாதமும்</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">ஒவ்வொரு %d வாரங்களும்</item>
+        <item quantity="one">ஒவ்வொரு %d வாரமும்</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">ஒவ்வொரு %d ஆண்டுகளும்</item>
+        <item quantity="one">ஒவ்வொரு %d ஆண்டும்</item>
+    </plurals>
+    <plurals name="share_eta_button">
+        <item quantity="other">%d நிமிடங்கள்</item>
+        <item quantity="one">%d நிமிடம்</item>
+    </plurals>
+    <plurals name="share_eta_message">
+        <item quantity="other">சென்றடைய சுமார் %d நிமிடங்கள் ஆகலாம்.</item>
+        <item quantity="one">சென்றடைய %d நிமிடம் ஆகலாம்.</item>
+    </plurals>
+    <plurals name="share_imminent_eta_message">
+        <item quantity="other">சென்றடைய %d நிமிடங்கள் ஆகலாம்.</item>
+        <item quantity="one">சென்றடைய %d நிமிடம் ஆகலாம்.</item>
+    </plurals>
+    <plurals name="survey_star_rating">
+        <item quantity="other">%1$d/%2$d நட்சத்திரங்கள் வழங்கப்பட்டுள்ளன</item>
+        <item quantity="one">%1$d/%2$d நட்சத்திரம் வழங்கப்பட்டுள்ளது</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">ஒவ்வொரு %1$d வாரங்களும், %2$s அன்று</item>
+        <item quantity="one">வாரந்தோறும் %2$s அன்று</item>
+    </plurals>
+    <plurals name="yearly_interval_plain">
+        <item quantity="other">ஒவ்வொரு %1$d ஆண்டுகளும்</item>
+        <item quantity="one">ஆண்டுதோறும்</item>
+    </plurals>
+</resources>

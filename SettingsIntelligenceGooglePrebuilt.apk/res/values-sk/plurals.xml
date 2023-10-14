@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="other">pred %d dňami</item>
+        <item quantity="one">pred %d dňom</item>
+        <item quantity="few">pred %d dňami</item>
+        <item quantity="many">pred %d dňa</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="other">pred %d min</item>
+        <item quantity="one">pred %d min</item>
+        <item quantity="few">pred %d min</item>
+        <item quantity="many">pred %d min</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="other">pred %d r.</item>
+        <item quantity="one">pred %d r.</item>
+        <item quantity="few">pred %d r.</item>
+        <item quantity="many">pred %d r.</item>
+    </plurals>
+    <plurals name="accessibility_other_devices">
+        <item quantity="other">%d ďalších zariadení</item>
+        <item quantity="one">%d ďalšie zariadenie</item>
+        <item quantity="few">%d ďalšie zariadenia</item>
+        <item quantity="many">%d Other devices</item>
+    </plurals>
+    <plurals name="routines_settings_summary">
+        <item quantity="other">%d pravidiel</item>
+        <item quantity="one">1 pravidlo</item>
+        <item quantity="few">%d pravidlá</item>
+        <item quantity="many">%d rules</item>
+    </plurals>
+</resources>

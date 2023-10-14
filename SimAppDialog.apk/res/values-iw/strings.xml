@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">‏תיבת דו-שיח של אפליקציית כרטיס ה-SIM</string>
+    <string name="call_notification_answer_action">מענה</string>
+    <string name="call_notification_answer_video_action">וידאו</string>
+    <string name="call_notification_decline_action">דחייה</string>
+    <string name="call_notification_hang_up_action">ניתוק</string>
+    <string name="call_notification_incoming_text">שיחה נכנסת</string>
+    <string name="call_notification_ongoing_text">שיחה פעילה</string>
+    <string name="call_notification_screening_text">סינון שיחה נכנסת</string>
+    <string name="install_carrier_app_defer_action">לא עכשיו</string>
+    <string name="install_carrier_app_description">‏כדי שכרטיס ה-SIM החדש יפעל כראוי, צריך להתקין את האפליקציה %1$s</string>
+    <string name="install_carrier_app_description_default">‏כדי שכרטיס ה-SIM החדש יפעל כראוי, צריך להתקין את אפליקציית הספק</string>
+    <string name="install_carrier_app_download_action">הורדת האפליקציה</string>
+    <string name="install_carrier_app_title">הפעלה של השירות הסלולרי</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="suw_back_button_label">חזרה</string>
+    <string name="suw_more_button_label">עוד</string>
+    <string name="suw_next_button_label">הבא</string>
+</resources>

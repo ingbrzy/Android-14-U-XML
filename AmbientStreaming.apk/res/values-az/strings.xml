@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cihazlararası Xidmətlər</string>
+    <string name="app_name_generic">tətbiq</string>
+    <string name="app_stream_error_generic">Tətbiqi paylaşarkən xəta oldu.</string>
+    <string name="app_stream_init_error_generic">Chromebook ilə tətbiqin paylaşılması alınmadı</string>
+    <string name="audio_permission_rationale">Tətbiq paylaşımı üçün mikrofon icazəsi deaktivdir</string>
+    <string name="cancel_button_label">Ləğv edin</string>
+    <string name="chromebook_keyboard">Chromebook klaviaturası</string>
+    <string name="chromebook_mouse">Chromebook mausu</string>
+    <string name="chromebook_touchscreen">Chromebook sensor ekranı</string>
+    <string name="connect_device">Telefonunuz məsafədəki cihaza qoşulur: %1$s</string>
+    <string name="decline_button_label">İmtina edin</string>
+    <string name="development_notification_channel_name">İnkişaf</string>
+    <string name="device_camera_cannot_access">"Bu Chromebook'dan cihaz kamerasına giriş mümkün deyil"</string>
+    <string name="done_button_label">Oldu</string>
+    <string name="enable_button_label">Aktiv edin</string>
+    <string name="foreground_service_notification_channel_name">Ümumi</string>
+    <string name="foreground_service_notification_content">Ayarları dəyişmək üçün toxunun</string>
+    <string name="foreground_service_notification_title">{0,plural, =1{# cihaza qoşulub}other{# cihaza qoşulub}}</string>
+    <string name="interactive_streaming_generic_notification">"Chromebook'unuz üçün %1$s yayımlanır və bildirişlər sinxronlaşdırılır"</string>
+    <string name="interactive_streaming_individual_notification">%1$s yayımlanır və %2$s üçün bildirişlər sinxronizasiya edilir</string>
+    <string name="interactive_streaming_notification">"Chromebook'unuza yayımlanır"</string>
+    <string name="keyboard_name">Cihazlararası klaviatura</string>
+    <string name="lock_screen_notif_warning_content">Kilid ekranında bildirişləri aktiv edin</string>
+    <string name="lock_screen_notif_warning_title">Bildirişlər yönləndirilməyəcək</string>
+    <string name="mouse_name">Cihazlararası maus</string>
+    <string name="new_connection_confirm">Təsdiq</string>
+    <string name="new_connection_deny">Rədd edin</string>
+    <string name="new_connection_title">Sətir Uyğunluqlarını Təsdiq edin</string>
+    <string name="notification_access_missing">Bildiriş girişi tələb edilir</string>
+    <string name="notification_access_missing_description">"Chromebook'unuzda bildirişləri açmaq üçün Bildiriş girişini aktiv edin"</string>
+    <string name="notification_channel_name">Ümumi</string>
+    <string name="notification_listener_label">"Tətbiqləri Chromebook'unuz ilə paylaşın"</string>
+    <string name="open_source_licenses">Açıq mənbə lisenziyaları</string>
+    <string name="phone_permission_rationale">Tətbiq paylaşımı üçün telefon zəngi icazəsi deaktivdir</string>
+    <string name="prompt_switch_languages">Telefonunuzun Gboard dilini dəyişmək üçün shift + boşluq düyməsinə basın</string>
+    <string name="settings_button">Ayarlar</string>
+    <string name="stop_sharing_button">Yayımı bitirin</string>
+    <string name="stream_termination_proximity_warning">Telefonunuz çox uzaqdadır. Yayımı davam etdirmək üçün onu yaxınlaşdırın.</string>
+    <string name="substitute_app_name">Sistem</string>
+    <string name="summary_disable_wirecutter">Deaktiv</string>
+    <string name="summary_enable_wirecutter">Aktiv</string>
+    <string name="touchscreen_name">Cihazlararası sensor ekran</string>
+</resources>

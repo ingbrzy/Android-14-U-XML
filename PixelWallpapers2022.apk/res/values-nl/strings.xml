@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="azure_title">Azuurblauwe gaai</string>
+    <string name="blackswan_title">Zwarte zwaan</string>
+    <string name="cockatoo_title">Kaketoe</string>
+    <string name="come_alive_title">Tot leven komen</string>
+    <string name="feathers_attribution">Foto van Andrew Zuckerman</string>
+    <string name="feathers_description">Een kleurrijke, gedetailleerde weergave van veren</string>
+    <string name="feathers_title">Veren</string>
+    <string name="greenwinged_title">Groenvleugelara</string>
+    <string name="king_title">Koningsgier</string>
+    <string name="living_universe_title">Universum</string>
+    <string name="photos_memory_gallery_title">Je herinneringen</string>
+    <string name="pied_title">Schildraaf</string>
+    <string name="ringnecked_title">Halsbandparkiet</string>
+    <string name="seagull_title">Zeemeeuw</string>
+</resources>

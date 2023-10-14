@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_error_bad_calibration">Невозможно использовать сканер отпечатков пальцев. Обратитесь в сервисный центр или перейдите на страницу g.co/pixel/fingerprintunlock.</string>
+    <string name="fingerprint_recalibrate_notification_content">Обратитесь в сервисный центр или перейдите на страницу g.co/pixel/fingerprintunlock.</string>
+    <string name="battery_saver_description_with_learn_more">"Чтобы продлить время работы от батареи, в режиме энергосбережения:
+
+• включается тёмная тема;
+• отключаются или ограничиваются фоновые процессы, некоторые визуальные эффекты и другие функции (например, распознавание команды \"Окей, Google\");
+• оптимизируется подключение к сети.
+
+"<annotation id="url">Подробнее…</annotation></string>
+</resources>

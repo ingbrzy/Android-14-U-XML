@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Oorkruistoesteldienste</string>
+    <string name="app_name_generic">’n app</string>
+    <string name="app_stream_error_generic">Kon nie program deel nie</string>
+    <string name="app_stream_init_error_generic">Programdeling na jou Chromebook was onsuksesvol</string>
+    <string name="audio_permission_rationale">Mikrofoontoestemming vir programdeling is gedeaktiveer</string>
+    <string name="cancel_button_label">Kanselleer</string>
+    <string name="chromebook_keyboard">Chromebook-sleutelbord</string>
+    <string name="chromebook_mouse">Chromebook-muis</string>
+    <string name="chromebook_touchscreen">Chromebook-raakskerm</string>
+    <string name="connect_device">Koppel jou foon tans aan afstandtoestel: %1$s</string>
+    <string name="decline_button_label">Wys af</string>
+    <string name="development_notification_channel_name">Ontwikkeling</string>
+    <string name="device_camera_cannot_access">Het nie van hierdie Chromebook af toegang tot toestelkamera nie</string>
+    <string name="done_button_label">Klaar</string>
+    <string name="enable_button_label">Aktiveer</string>
+    <string name="foreground_service_notification_channel_name">Algemeen</string>
+    <string name="foreground_service_notification_content">Tik om instellings te wysig</string>
+    <string name="foreground_service_notification_title">{0,plural, =1{Gekoppel aan # toestel}other{Gekoppel aan # toestelle}}</string>
+    <string name="interactive_streaming_generic_notification">Stroom tans %1$s en sinkroniseer kennisgewings vir jou Chromebook</string>
+    <string name="interactive_streaming_individual_notification">Stroom tans %1$s en sinkroniseer kennisgewings vir %2$s</string>
+    <string name="interactive_streaming_notification">Stroom tans na jou Chromebook</string>
+    <string name="keyboard_name">Oorkruistoestelsleutelbord</string>
+    <string name="lock_screen_notif_warning_content">Aktiveer kennisgewings op die sluitskerm</string>
+    <string name="lock_screen_notif_warning_title">Kennisgewings sal nie aangestuur word nie</string>
+    <string name="mouse_name">Oorkruistoestelmuis</string>
+    <string name="new_connection_confirm">Bevestig</string>
+    <string name="new_connection_deny">Weier</string>
+    <string name="new_connection_title">Bevestig stringpassings</string>
+    <string name="notification_access_missing">Kennisgewingtoegang word benodig</string>
+    <string name="notification_access_missing_description">Skakel kennisgewingtoegang aan om kennisgewings op jou Chromebook oop te maak</string>
+    <string name="notification_channel_name">Algemeen</string>
+    <string name="notification_listener_label">Deel programme met jou Chromebook</string>
+    <string name="open_source_licenses">Oopbronlisensies</string>
+    <string name="phone_permission_rationale">Foonoproeptoestemming vir programdeling is gedeaktiveer</string>
+    <string name="prompt_switch_languages">Druk shift + spasie om jou foon se Gboard-taal te verander</string>
+    <string name="settings_button">Instellings</string>
+    <string name="stop_sharing_button">Beëindig stroom</string>
+    <string name="stream_termination_proximity_warning">Jou foon is te ver weg. Bring dit nader om aan te hou stroom.</string>
+    <string name="substitute_app_name">Stelsel</string>
+    <string name="summary_disable_wirecutter">Af</string>
+    <string name="summary_enable_wirecutter">Aan</string>
+    <string name="touchscreen_name">Oorkruistoestelraakskerm</string>
+</resources>

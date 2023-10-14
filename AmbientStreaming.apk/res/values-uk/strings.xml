@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cross-Device Services</string>
+    <string name="app_name_generic">додаток</string>
+    <string name="app_stream_error_generic">Під час надання доступу до додатка сталася помилка</string>
+    <string name="app_stream_init_error_generic">Не вдалося надати доступ вашому пристрою Chromebook</string>
+    <string name="audio_permission_rationale">Дозвіл на доступ до мікрофона під час спільного використання додатка вимкнено</string>
+    <string name="cancel_button_label">Скасувати</string>
+    <string name="chromebook_keyboard">Клавіатура Chromebook</string>
+    <string name="chromebook_mouse">Миша Chromebook</string>
+    <string name="chromebook_touchscreen">Сенсорний екран Chromebook</string>
+    <string name="connect_device">Підключення телефона до віддаленого пристрою: %1$s</string>
+    <string name="decline_button_label">Відхилити</string>
+    <string name="development_notification_channel_name">Розробка</string>
+    <string name="device_camera_cannot_access">Не вдається отримати доступ до камери з цього пристрою Chromebook</string>
+    <string name="done_button_label">Готово</string>
+    <string name="enable_button_label">Увімкнути</string>
+    <string name="foreground_service_notification_channel_name">Загальні</string>
+    <string name="foreground_service_notification_content">Натисніть, щоб змінити налаштування</string>
+    <string name="foreground_service_notification_title">{0,plural, =1{Підключено до # пристрою}one{Підключено до # пристрою}few{Підключено до # пристроїв}many{Підключено до # пристроїв}other{Підключено до # пристрою}}</string>
+    <string name="interactive_streaming_generic_notification">Триває потокове передавання %1$s та синхронізація сповіщень на вашому Chromebook</string>
+    <string name="interactive_streaming_individual_notification">Триває потокове передавання додатка %1$s і синхронізація сповіщень для %2$s</string>
+    <string name="interactive_streaming_notification">Потокове передавання на Chromebook</string>
+    <string name="keyboard_name">Клавіатура для кількох пристроїв</string>
+    <string name="lock_screen_notif_warning_content">Увімкніть сповіщення на заблокованому екрані</string>
+    <string name="lock_screen_notif_warning_title">Сповіщення не пересилатимуться</string>
+    <string name="mouse_name">Миша для кількох пристроїв</string>
+    <string name="new_connection_confirm">Так</string>
+    <string name="new_connection_deny">Відмовити</string>
+    <string name="new_connection_title">Підтвердьте збіги</string>
+    <string name="notification_access_missing">Потрібен доступ до сповіщень</string>
+    <string name="notification_access_missing_description">Щоб відкрити сповіщення на пристрої Chromebook, надайте до них доступ</string>
+    <string name="notification_channel_name">Загальні</string>
+    <string name="notification_listener_label">Спільне використання додатків із пристроєм Chromebook</string>
+    <string name="open_source_licenses">Ліцензії відкритого коду</string>
+    <string name="phone_permission_rationale">Дозвіл на здійснення викликів під час спільного використання додатка вимкнено</string>
+    <string name="prompt_switch_languages">Натисніть клавіші Shift і пробіл, щоб змінити мову клавіатури Gboard на телефоні</string>
+    <string name="settings_button">Налаштування</string>
+    <string name="stop_sharing_button">Завершити трансляцію</string>
+    <string name="stream_termination_proximity_warning">Телефон задалеко. Щоб продовжити потокове передавання, розташуйте його ближче.</string>
+    <string name="substitute_app_name">Система</string>
+    <string name="summary_disable_wirecutter">Вимкнено</string>
+    <string name="summary_enable_wirecutter">Увімкнено</string>
+    <string name="touchscreen_name">Сенсорний екран для кількох пристроїв</string>
+</resources>

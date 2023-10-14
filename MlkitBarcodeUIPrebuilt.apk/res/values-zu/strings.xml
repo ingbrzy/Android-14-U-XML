@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">Zulazulela phezulu</string>
+    <string name="abc_action_mode_done">Kwenziwe</string>
+    <string name="abc_capital_off">VALA</string>
+    <string name="abc_capital_on">VULA</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Imenyu+</string>
+    <string name="abc_search_hint">Sesha…</string>
+    <string name="abc_searchview_description_clear">Sula inkinga</string>
+    <string name="abc_searchview_description_search">Sesha</string>
+    <string name="abc_searchview_description_submit">Thumela umbuzo</string>
+    <string name="abc_searchview_description_voice">Ukusesha ngezwi</string>
+    <string name="abc_toolbar_collapse_description">Goqa</string>
+    <string name="bottom_sheet_button_contact_text">@string/common_view</string>
+    <string name="bottom_sheet_button_matter_text">Ukusetha</string>
+    <string name="bottom_sheet_button_no_apps_text">Sesha</string>
+    <string name="bottom_sheet_button_wifi_text">@string/common_connect</string>
+    <string name="bottom_sheet_copy_error_toast">Ayikwazanga ukukopishela umbhalo kwibhodi yokunamathisela</string>
+    <string name="bottom_sheet_copy_success_toast">Umbhalo ukopishelwe ebhodini lokunamathisela</string>
+    <string name="bottom_sheet_image_view_description">Isithonjana se-application esiboniswayo</string>
+    <string name="bottom_sheet_sub_title_no_apps">Sesha ku-Google Play</string>
+    <string name="bottom_sheet_title">Vula nge-</string>
+    <string name="bottom_sheet_title_app_found">Vula nge-%1$s</string>
+    <string name="bottom_sheet_title_contact">Buka imininingwane yoxhumana naye</string>
+    <string name="bottom_sheet_title_copy_text">Kopisha Umbhalo</string>
+    <string name="bottom_sheet_title_copy_text_button_text">@string/common_copy</string>
+    <string name="bottom_sheet_title_copy_text_button_text_copied">Ikopishiwe</string>
+    <string name="bottom_sheet_title_matter">Setha idivayisi yakho</string>
+    <string name="bottom_sheet_title_passkey">Sebenzisa iphasiwedi</string>
+    <string name="bottom_sheet_title_payment">Khokha nge-</string>
+    <string name="bottom_sheet_title_payment_setup">Setha inkokhelo nge-</string>
+    <string name="bottom_sheet_title_payment_setup_single_app">Setha inkokhelo nge-%1$s</string>
+    <string name="bottom_sheet_title_payment_single_app">Khokha nge-%1$s</string>
+    <string name="bottom_sheet_title_single_app_button_text">Vula</string>
+    <string name="bottom_sheet_title_wifi">Xhuma ku-WiFi</string>
+    <string name="bottomsheet_action_expand_halfway">Nweba phakathi</string>
+    <string name="bottomsheet_drag_handle_content_description">Hudula isibambi</string>
+    <string name="camera_permission_dialog_button">KULUNGILE</string>
+    <string name="camera_permission_dialog_message">"Amasevisi e-Google Play adinga ukufinyelela kukhamera yedivayisi yakho ukuze askene ikhodi ye-%1$s.
+
+Ukuze unike amandla, sicela unikeze imvume ikhamera yamasevisi e-Google Play Kumasethingi."</string>
+    <string name="camera_permission_dialog_message_platform">"Amasevisi e-Google Play adinga ukufinyelela kwekhamera yakho yedivayisi ukuze askene ikhodi ye-QR.
+
+Ukuze unike amandla, sicela unikeze ikhamera imvume kumasevisi e-Google Play Kumasethingi."</string>
+    <string name="camera_permission_dialog_title">Kudingeka imvume yekhamera</string>
+    <string name="cd_cancel_button">Vala iskena sekhodi</string>
+    <string name="cd_info_button">Vula ibhokisi lolwazi</string>
+    <string name="cd_selected_photo_view">Bonisa isithombe esikhethiwe</string>
+    <string name="cd_settings_button">Vula amasethingi eskena</string>
+    <string name="cd_torch_button">Guqula ithoshi</string>
+    <string name="character_counter_content_description">Izinhlamvu ezifakiwe ezingu-%1$d zokungu-%2$d</string>
+    <string name="character_counter_overflowed_content_description">Umkhawulo wezinhlamvu udlule u-%1$d kokungu-%2$d</string>
+    <string name="clear_text_end_icon_content_description">Sula umbhalo</string>
+    <string name="common_connect">Xhuma</string>
+    <string name="common_continue">Qhubeka</string>
+    <string name="common_copy">Kopisha</string>
+    <string name="common_google_play_services_enable_button">Nika amandla</string>
+    <string name="common_google_play_services_enable_text">I-%1$s ngeke isebenze ngaphandle kokuthi unike amandla amasevisi we-Google Play.</string>
+    <string name="common_google_play_services_enable_title">Nika amandla amasevisi we-Google Play</string>
+    <string name="common_google_play_services_install_button">Faka</string>
+    <string name="common_google_play_services_install_text">I-%1$s ngeke ize iqalise ngaphandle kwamasevisi we-Google Play, angekho kusukela kudivayisi yakho.</string>
+    <string name="common_google_play_services_install_title">Thola amasevisi we-Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Ukungatholakali kwamasevisi e-Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Iphutha lamasevisi we-Google Play</string>
+    <string name="common_google_play_services_unknown_issue">%1$s inenkinga ngamasevisi e-Google Play. Sicela uzame futhi.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s ngeke isebenze ngaphandle kwamasevisi e-Google Play, angasekelwa idivayisi yakho.</string>
+    <string name="common_google_play_services_update_button">Isibuyekezo</string>
+    <string name="common_google_play_services_update_text">I-%1$s ngeke ize iqalise ngaphandle kokuthi ubuyekeze i-Google Play.</string>
+    <string name="common_google_play_services_update_title">Buyekeza amasevisi we-Google Play</string>
+    <string name="common_google_play_services_updating_text">I-%1$s ngeke ize iqalise ngaphandle kwamasevisi we-Google Play, okwamanje abuyekezwayo.</string>
+    <string name="common_google_play_services_wear_update_text">Kudingeka inguqulo entsha yamasevisi we-Google Play. Izozibuyekeza ngokwayo maduze.</string>
+    <string name="common_got_it">Ngiyitholile</string>
+    <string name="common_no_apps_found">Awekho ama-app atholiwe</string>
+    <string name="common_open_on_phone">Vula kufoni</string>
+    <string name="common_view">Buka</string>
+    <string name="error_a11y_label">Error: invalid</string>
+    <string name="error_icon_content_description">Iphutha</string>
+    <string name="exposed_dropdown_menu_content_description">Bonisa imenyu yokudonsela phansi</string>
+    <string name="info_dialog_button">@string/common_got_it</string>
+    <string name="info_dialog_message">"I-%1$s icela ukuthi amasevisi e-Google Play askene ikhodi enzela yona. Ayikho idatha yomfanekiso ezokwabiwa, imiphumela yosesho kuphela.
+
+Ukuskena kwenziwa kudivayisi yakho futhi i-Google ngeke ilondoloze noma iyiphi idatha yomfanekiso noma amakhodi askeniwe."</string>
+    <string name="info_dialog_message_platform">Amasevisi we-Google Play afinyelela ikhamera yale divayisi. Idatha yekhodi eskeniwe nemifanekiso azigcinwa futhi ngeke zishiye le divayisi.</string>
+    <string name="info_dialog_title">Kuvikelwe yi-Google</string>
+    <string name="info_dialog_title_platform">Ixhaswe ngabakwa-Google</string>
+    <string name="manual_input_hint">Thepha lapha ukuze ufake ikhodi mathupha</string>
+    <string name="mtrl_checkbox_state_description_checked">Checked</string>
+    <string name="mtrl_checkbox_state_description_indeterminate">Partially checked</string>
+    <string name="mtrl_checkbox_state_description_unchecked">Not checked</string>
+    <string name="password_toggle_content_description">Bonisa iphasiwedi</string>
+    <string name="qr_detection_failure_dialog_message">Zama ukuskena esithombeni esihlukile</string>
+    <string name="qr_detection_failure_dialog_title">Ayikho ikhodi ye-QR etholiwe</string>
+    <string name="scan_from_photo_title">Skena esithombeni</string>
+    <string name="scanner_brand">Kuskenwe yi-Google egameni lika-%1$s</string>
+    <string name="scanner_brand_platform">@string/info_dialog_title_platform</string>
+    <string name="scanner_title">Skena ikhodi</string>
+    <string name="scanner_title_platform">Skena ikhodi ye-QR</string>
+</resources>

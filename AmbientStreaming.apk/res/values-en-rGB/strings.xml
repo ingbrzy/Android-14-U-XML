@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cross-device services</string>
+    <string name="app_name_generic">an app</string>
+    <string name="app_stream_error_generic">An error has occurred during app sharing</string>
+    <string name="app_stream_init_error_generic">App sharing to your Chromebook was unsuccessful</string>
+    <string name="audio_permission_rationale">Microphone permission for app sharing is disabled</string>
+    <string name="cancel_button_label">Cancel</string>
+    <string name="chromebook_keyboard">Chromebook keyboard</string>
+    <string name="chromebook_mouse">Chromebook mouse</string>
+    <string name="chromebook_touchscreen">Chromebook touchscreen</string>
+    <string name="connect_device">Connecting your phone to remote device: %1$s</string>
+    <string name="decline_button_label">Decline</string>
+    <string name="development_notification_channel_name">Development</string>
+    <string name="device_camera_cannot_access">Cannot access device camera from this Chromebook</string>
+    <string name="done_button_label">Done</string>
+    <string name="enable_button_label">Enable</string>
+    <string name="foreground_service_notification_channel_name">General</string>
+    <string name="foreground_service_notification_content">Tap to modify settings</string>
+    <string name="foreground_service_notification_title">{0,plural, =1{Connected to # device}other{Connected to # devices}}</string>
+    <string name="interactive_streaming_generic_notification">Streaming %1$s and syncing notifications for your Chromebook</string>
+    <string name="interactive_streaming_individual_notification">Streaming %1$s and syncing notifications for %2$s</string>
+    <string name="interactive_streaming_notification">Streaming to your Chromebook</string>
+    <string name="keyboard_name">Cross-device keyboard</string>
+    <string name="lock_screen_notif_warning_content">Enable notifications on the lock screen</string>
+    <string name="lock_screen_notif_warning_title">Notifications will not be forwarded</string>
+    <string name="mouse_name">Cross-device mouse</string>
+    <string name="new_connection_confirm">Confirm</string>
+    <string name="new_connection_deny">Deny</string>
+    <string name="new_connection_title">Please confirm string matches</string>
+    <string name="notification_access_missing">Notification access needed</string>
+    <string name="notification_access_missing_description">To open notifications on your Chromebook, turn on Notification access</string>
+    <string name="notification_channel_name">General</string>
+    <string name="notification_listener_label">Share apps with your Chromebook</string>
+    <string name="open_source_licenses">Open-source licences</string>
+    <string name="phone_permission_rationale">Phone call permission for app sharing is disabled</string>
+    <string name="prompt_switch_languages">Press shift + space to switch your phone’s Gboard language</string>
+    <string name="settings_button">Settings</string>
+    <string name="stop_sharing_button">End stream</string>
+    <string name="stream_termination_proximity_warning">Your phone is too far away. Bring it closer to keep streaming.</string>
+    <string name="substitute_app_name">System</string>
+    <string name="summary_disable_wirecutter">Off</string>
+    <string name="summary_enable_wirecutter">On</string>
+    <string name="touchscreen_name">Cross-device touchscreen</string>
+</resources>

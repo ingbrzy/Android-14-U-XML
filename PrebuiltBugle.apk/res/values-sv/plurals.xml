@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="add_invalid_contact_error">
+        <item quantity="other">Ogiltiga kontakter</item>
+        <item quantity="one">Ogiltig kontakt</item>
+    </plurals>
+    <plurals name="and_n_more_plural">
+        <item quantity="other">och %d till</item>
+        <item quantity="one">och %d till</item>
+    </plurals>
+    <plurals name="archived_toast_message">
+        <item quantity="other">%d konversationer har arkiverats</item>
+        <item quantity="one">%d konversation har arkiverats</item>
+    </plurals>
+    <plurals name="attachment_changed_accessibility_announcement">
+        <item quantity="other">%d bilagor är klara att skicka</item>
+        <item quantity="one">En bilaga är klar att skicka</item>
+    </plurals>
+    <plurals name="attachment_preview_photos_link_share_title">
+        <item quantity="other">%d objekt</item>
+        <item quantity="one">Ett objekt</item>
+    </plurals>
+    <plurals name="attachment_preview_photos_link_share_title_videos">
+        <item quantity="other">%d videor</item>
+        <item quantity="one">En video</item>
+    </plurals>
+    <plurals name="attachment_save_error">
+        <item quantity="other">Det gick inte att spara %d bilagor</item>
+        <item quantity="one">Det gick inte att spara %d bilaga</item>
+    </plurals>
+    <plurals name="attachments_saved">
+        <item quantity="other">%d bilagor sparas</item>
+        <item quantity="one">%d bilaga har sparats</item>
+    </plurals>
+    <plurals name="audiobubble_slider_minutes_state_description">
+        <item quantity="other">%d minuter</item>
+        <item quantity="one">%d minut</item>
+    </plurals>
+    <plurals name="audiobubble_slider_seconds_state_description">
+        <item quantity="other">%d sekunder</item>
+        <item quantity="one">%d sekund</item>
+    </plurals>
+    <plurals name="badge_content_description">
+        <item quantity="other">%1$d %2$s-märken</item>
+        <item quantity="one">%1$d %2$s-märke</item>
+    </plurals>
+    <plurals name="bugle_content_description_num_minutes_ago">
+        <item quantity="other">%d minuter</item>
+        <item quantity="one">%d minut</item>
+    </plurals>
+    <plurals name="bugle_num_minutes_ago">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+    </plurals>
+    <plurals name="content_description_duration_hours">
+        <item quantity="other">%d timmar</item>
+        <item quantity="one">%d timme</item>
+    </plurals>
+    <plurals name="content_description_duration_minutes">
+        <item quantity="other">%d minuter</item>
+        <item quantity="one">%d minut</item>
+    </plurals>
+    <plurals name="content_description_duration_seconds">
+        <item quantity="other">%d sekunder</item>
+        <item quantity="one">%d sekund</item>
+    </plurals>
+    <plurals name="delete_conversations_confirmation_dialog_title">
+        <item quantity="other">Ta bort %d konversationer?</item>
+        <item quantity="one">Vill du ta bort konversationen?</item>
+    </plurals>
+    <plurals name="delete_conversations_confirmation_dialog_title_supersort_otp">
+        <item quantity="other">Vill du ta bort meddelanden under Engångslösenord i %d konversationer?</item>
+        <item quantity="one">Vill du ta bort meddelanden under Engångslösenord i den här konversationen?</item>
+    </plurals>
+    <plurals name="delete_conversations_confirmation_dialog_title_supersort_promo">
+        <item quantity="other">Vill du ta bort meddelanden under Erbjudande i %d konversationer?</item>
+        <item quantity="one">Vill du ta bort meddelanden under Erbjudande i den här konversationen?</item>
+    </plurals>
+    <plurals name="delete_conversations_confirmation_dialog_title_supersort_transaction">
+        <item quantity="other">Vill du ta bort meddelanden under Transaktion i %d konversationer?</item>
+        <item quantity="one">Vill du ta bort meddelanden under Transaktion i den här konversationen?</item>
+    </plurals>
+    <plurals name="delete_conversations_confirmation_dialog_title_supersort_update">
+        <item quantity="other">Vill du ta bort uppdateringsmeddelanden i %d konversationer?</item>
+        <item quantity="one">Vill du ta bort uppdateringsmeddelanden i den här konversationen?</item>
+    </plurals>
+    <plurals name="delete_message_confirmation_dialog_title">
+        <item quantity="other">Ta bort %d meddelanden?</item>
+        <item quantity="one">Vill du ta bort meddelandet?</item>
+    </plurals>
+    <plurals name="deleted_toast_message">
+        <item quantity="other">%d konversationer raderade</item>
+        <item quantity="one">%d konversation raderad</item>
+    </plurals>
+    <plurals name="donation_conversation_selected_count_content_description">
+        <item quantity="other">%1$d har valts</item>
+        <item quantity="one">%1$d har valts</item>
+    </plurals>
+    <plurals name="donation_conversation_total_count_content_description">
+        <item quantity="other">av %1$d</item>
+        <item quantity="one">av %1$d</item>
+    </plurals>
+    <plurals name="donation_donate_dialog_body_text_conversations">
+        <item quantity="other">%d avsändare</item>
+        <item quantity="one">%d avsändare</item>
+    </plurals>
+    <plurals name="donation_donate_dialog_body_text_messages">
+        <item quantity="other">%d meddelanden</item>
+        <item quantity="one">%d meddelanden</item>
+    </plurals>
+    <plurals name="donation_toolbar_title">
+        <item quantity="other">%d valda</item>
+        <item quantity="one">%d valt</item>
+    </plurals>
+    <plurals name="encryption_status_self_and_other_users_group">
+        <item quantity="other">End-to-end-kryptering av grupp är inte tillgängligt för dig och %1$s andra. %2$s</item>
+        <item quantity="one">End-to-end-kryptering av grupp är inte tillgängligt för dig och %1$s. %2$s</item>
+    </plurals>
+    <plurals name="encryption_status_user_and_other_users_group">
+        <item quantity="other">End-to-end-kryptering av grupp är inte tillgängligt för %1$s och %2$s andra. %3$s</item>
+        <item quantity="one">End-to-end-kryptering av grupp är inte tillgängligt för %1$s och %2$s. %3$s</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Spola framåt %d sekunder</item>
+        <item quantity="one">Spola framåt %d sekund</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Spola tillbaka %d sekunder</item>
+        <item quantity="one">Spola tillbaka %d sekund</item>
+    </plurals>
+    <plurals name="extras_in_joinlist">
+        <item quantity="other">+%d</item>
+        <item quantity="one">+%d</item>
+    </plurals>
+    <plurals name="failed_to_select_attachments_from_system_picker">
+        <item quantity="other">Det gick inte att välja %d bilagor</item>
+        <item quantity="one">Det gick inte att välja en bilaga</item>
+    </plurals>
+    <plurals name="lt_num_minutes_ago">
+        <item quantity="other">%1$d min</item>
+        <item quantity="one">%1$d min</item>
+    </plurals>
+    <plurals name="mediapicker_gallery_title_selection">
+        <item quantity="other">%d bifogade</item>
+        <item quantity="one">%d bifogad</item>
+    </plurals>
+    <plurals name="mediapicker_gallery_title_selection_alternate">
+        <item quantity="other">%d har valts</item>
+        <item quantity="one">%d har valts</item>
+    </plurals>
+    <plurals name="message_deleted_count">
+        <item quantity="other">%d meddelanden borttagna</item>
+        <item quantity="one">%d meddelande borttaget</item>
+    </plurals>
+    <plurals name="message_selected_count">
+        <item quantity="other">%d markerade meddelanden</item>
+        <item quantity="one">%d markerat meddelande</item>
+    </plurals>
+    <plurals name="message_status_media_seen_by_list">
+        <item quantity="other">Sågs av %s</item>
+        <item quantity="one">Sågs av %s</item>
+    </plurals>
+    <plurals name="message_status_recipients_failed_decryption">
+        <item quantity="other">%1$s mottagare kan inte dekryptera, tryck för alternativ</item>
+        <item quantity="one">%1$s mottagare kan inte dekryptera, tryck för alternativ</item>
+    </plurals>
+    <plurals name="message_status_recipients_failed_decryption_no_options">
+        <item quantity="other">%1$s mottagare kan inte dekryptera</item>
+        <item quantity="one">%1$s mottagare kan inte dekryptera</item>
+    </plurals>
+    <plurals name="message_status_seen_by_list">
+        <item quantity="other">Läst av %s</item>
+        <item quantity="one">Läst av %s</item>
+    </plurals>
+    <plurals name="month_count">
+        <item quantity="other">%d månader</item>
+        <item quantity="one">en månad</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nya aviseringar</item>
+        <item quantity="one">%d ny avisering</item>
+    </plurals>
+    <plurals name="multiple_typing_indicators_in_groups">
+        <item quantity="other">%d personer skriver …</item>
+        <item quantity="one">%d personer skriver …</item>
+    </plurals>
+    <plurals name="name_and_other_plural">
+        <item quantity="other">%1$s + %2$s till</item>
+        <item quantity="one">%1$s + %2$s till</item>
+    </plurals>
+    <plurals name="notification2o_new_messages">
+        <item quantity="other">%d nya meddelanden</item>
+        <item quantity="one">Nytt meddelande</item>
+    </plurals>
+    <plurals name="notification_delivery_failures_line2_plural">
+        <item quantity="other">Det går inte att leverera %1$d meddelanden i %2$d konversationer</item>
+        <item quantity="one">Det går inte att leverera %1$d meddelanden till %3$s</item>
+    </plurals>
+    <plurals name="notification_download_failures">
+        <item quantity="other">%1$d meddelanden i %2$d konversationer</item>
+        <item quantity="one">%1$d meddelanden i en konversation</item>
+    </plurals>
+    <plurals name="notification_new_messages">
+        <item quantity="other">%d nya meddelanden</item>
+        <item quantity="one">Nytt meddelande</item>
+    </plurals>
+    <plurals name="notification_new_reminders">
+        <item quantity="other">%d nya påminnelser</item>
+        <item quantity="one">Ny påminnelse</item>
+    </plurals>
+    <plurals name="notification_picture_count">
+        <item quantity="other">%d bilder</item>
+        <item quantity="one">%d bild</item>
+    </plurals>
+    <plurals name="notification_video_count">
+        <item quantity="other">%d videor</item>
+        <item quantity="one">%d video</item>
+    </plurals>
+    <plurals name="notification_waiting_for_connection_timeout_line2_plural">
+        <item quantity="other">%1$d meddelanden i %2$d konversationer inte skickade</item>
+        <item quantity="one">%1$d meddelande till %3$s inte skickat</item>
+    </plurals>
+    <plurals name="number_of_characters_remaining_in_message">
+        <item quantity="other">%1$d tecken kvar i meddelandet</item>
+        <item quantity="one">%1$d tecken kvar i meddelandet</item>
+    </plurals>
+    <plurals name="number_of_users_typing_message">
+        <item quantity="other">%d personer skriver</item>
+        <item quantity="one">%d person skriver</item>
+    </plurals>
+    <plurals name="original_image_plural_info">
+        <item quantity="other">%d foton</item>
+        <item quantity="one">%d foto</item>
+    </plurals>
+    <plurals name="original_images_only_saved_info">
+        <item quantity="other">%1$d foton har sparats i mappen %2$s</item>
+        <item quantity="one">%1$d foto har sparats i mappen %2$s</item>
+    </plurals>
+    <plurals name="original_video_plural_info">
+        <item quantity="other">%d videor</item>
+        <item quantity="one">%d video</item>
+    </plurals>
+    <plurals name="original_videos_only_saved_info">
+        <item quantity="other">%1$d videor har sparats i mappen %2$s</item>
+        <item quantity="one">%1$d video har sparats i mappen %2$s</item>
+    </plurals>
+    <plurals name="p2p_conversation_suggestion_share_recent_image_display_text">
+        <item quantity="other">Bifoga senaste foton</item>
+        <item quantity="one">Bifoga senaste foto</item>
+    </plurals>
+    <plurals name="participant_list_count_title">
+        <item quantity="other">%d personer</item>
+        <item quantity="one">%d person</item>
+    </plurals>
+    <plurals name="photos_saved_to_folder">
+        <item quantity="other">%1$d foton sparade i %2$s</item>
+        <item quantity="one">%1$d foto sparat i %2$s</item>
+    </plurals>
+    <plurals name="pin_limit_messages_plural">
+        <item quantity="other">Det går att fästa upp till %1$d konversationer</item>
+        <item quantity="one">Det går att fästa upp till %1$d konversation</item>
+    </plurals>
+    <plurals name="pin_success_message_plural">
+        <item quantity="other">Fäste %1$d av %2$d konversationer</item>
+        <item quantity="one">Fäste %1$d av %2$d konversation</item>
+    </plurals>
+    <plurals name="plus_n_plural">
+        <item quantity="other">+%d</item>
+        <item quantity="one">+1</item>
+    </plurals>
+    <plurals name="rcs_not_delivered_notification_text">
+        <item quantity="other">Mottagarna är kanske offline</item>
+        <item quantity="one">%1$s är kanske offline</item>
+    </plurals>
+    <plurals name="rcs_not_delivered_notification_title">
+        <item quantity="other">Meddelanden inte levererade</item>
+        <item quantity="one">Meddelandet levererades inte</item>
+    </plurals>
+    <plurals name="rcs_still_sending_notification_text">
+        <item quantity="other">Kontrollera %1$d konversationer för alternativ för att skicka</item>
+        <item quantity="one">Kontrollera konversationen med %1$s för alternativ för att skicka</item>
+    </plurals>
+    <plurals name="rcs_still_sending_notification_title">
+        <item quantity="other">%1$d meddelanden inte skickade</item>
+        <item quantity="one">Meddelandet inte skickat</item>
+    </plurals>
+    <plurals name="reaction_badge_content_description">
+        <item quantity="other">%1$d %2$s reaktioner</item>
+        <item quantity="one">%1$d %2$s reaktion</item>
+    </plurals>
+    <plurals name="resize_service_notification_title_attachment_plural">
+        <item quantity="other">%d bilagor skickas</item>
+        <item quantity="one">Bilagan skickas</item>
+    </plurals>
+    <plurals name="resize_service_notification_title_photo_plural">
+        <item quantity="other">%d foton skickas</item>
+        <item quantity="one">Fotot skickas</item>
+    </plurals>
+    <plurals name="resize_service_notification_title_video_plural">
+        <item quantity="other">%d videor skickas</item>
+        <item quantity="one">Videon skickas</item>
+    </plurals>
+    <plurals name="scheduled_message">
+        <item quantity="other">Schemalagda meddelanden</item>
+        <item quantity="one">Schemalagt meddelande</item>
+    </plurals>
+    <plurals name="scheduled_message_toggle">
+        <item quantity="other">Schemalagda meddelanden (%d)</item>
+        <item quantity="one">Schemalagt meddelande</item>
+    </plurals>
+    <plurals name="selected_count">
+        <item quantity="other">%d valda</item>
+        <item quantity="one">%d valt</item>
+    </plurals>
+    <plurals name="stuck_in_sending_notification_text_beta">
+        <item quantity="other">%1$s meddelanden till %2$s skickas fortfarande. Tryck för att skicka feedback till Google. Din feedback om betaversionen hjälper oss att förbättra Messages.</item>
+        <item quantity="one">Skickar fortfarande %1$s meddelande till %2$s. Tryck för att skicka feedback till Google. Din feedback om betaversionen hjälper oss att förbättra Messages.</item>
+    </plurals>
+    <plurals name="stuck_in_sending_notification_title">
+        <item quantity="other">Skickar fortfarande meddelanden</item>
+        <item quantity="one">Skickar fortfarande meddelande</item>
+    </plurals>
+    <plurals name="stuck_in_sending_notification_view_message_action_button">
+        <item quantity="other">Visa meddelanden</item>
+        <item quantity="one">Visa meddelande</item>
+    </plurals>
+    <plurals name="survey_star_rating">
+        <item quantity="other">%1$d av %2$d stjärnor</item>
+        <item quantity="one">%1$d av %2$d stjärnor</item>
+    </plurals>
+    <plurals name="text_results_bar_results">
+        <item quantity="other">%1$d/%2$d resultat hittade</item>
+        <item quantity="one">%1$d/%2$d resultat hittat</item>
+    </plurals>
+    <plurals name="typing_indicator_many">
+        <item quantity="other">%1$s och %2$s andra skriver</item>
+        <item quantity="one">%1$s och %2$s annan skriver</item>
+    </plurals>
+    <plurals name="unarchived_toast_message">
+        <item quantity="other">%d konversationer har hämtats från arkivet</item>
+        <item quantity="one">%d konversation har hämtats från arkivet</item>
+    </plurals>
+    <plurals name="unread_with_count">
+        <item quantity="other">%d olästa meddelanden</item>
+        <item quantity="one">%d oläst meddelande</item>
+    </plurals>
+    <plurals name="vcard_multiple_display_name">
+        <item quantity="other">%d kontakter</item>
+        <item quantity="one">%d kontakt</item>
+    </plurals>
+    <plurals name="vcard_tap_hint_new">
+        <item quantity="other">Visa kontakter</item>
+        <item quantity="one">Visa kontakt</item>
+    </plurals>
+    <plurals name="videos_saved_to_folder">
+        <item quantity="other">%1$d videor sparade i %2$s</item>
+        <item quantity="one">%1$d video sparad i %2$s</item>
+    </plurals>
+    <plurals name="voice_messages_saved_to_folder">
+        <item quantity="other">%1$d röstmeddelanden sparade i %2$s</item>
+        <item quantity="one">%1$d röstmeddelande sparat i %2$s</item>
+    </plurals>
+    <plurals name="week_count">
+        <item quantity="other">%d veckor</item>
+        <item quantity="one">en vecka</item>
+    </plurals>
+    <plurals name="year_count">
+        <item quantity="other">%d år</item>
+        <item quantity="one">ett år</item>
+    </plurals>
+</resources>

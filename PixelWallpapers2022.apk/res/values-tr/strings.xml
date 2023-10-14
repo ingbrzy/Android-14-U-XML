@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="azure_title">Mavi saksağan</string>
+    <string name="blackswan_title">Siyah kuğu</string>
+    <string name="cockatoo_title">Kakadu</string>
+    <string name="come_alive_title">Dokununca Canlanan</string>
+    <string name="feathers_attribution">Fotoğraf: Andrew Zuckerman</string>
+    <string name="feathers_description">Renk ve ayrıntının tüye bürünmüş görüntüsü</string>
+    <string name="feathers_title">Tüyler</string>
+    <string name="greenwinged_title">Yeşil kanatlı makav</string>
+    <string name="king_title">Kral akbaba</string>
+    <string name="living_universe_title">Yaşayan evren</string>
+    <string name="photos_memory_gallery_title">Anılarınız</string>
+    <string name="pied_title">Alaca karga</string>
+    <string name="ringnecked_title">Yeşil papağan</string>
+    <string name="seagull_title">Martı</string>
+</resources>

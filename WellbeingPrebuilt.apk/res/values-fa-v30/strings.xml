@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="heads_up_location_permission_description">با این اجازه، «مراقب باش» وقتی بیرون هستید مطلع می‌شود. در دو صفحه بعدی، <b>هنگام استفاده از برنامه > همیشه مجاز بودن</b> را انتخاب کنید.</string>
+    <string name="wind_down_discovery_notification_text">{DEVICE_TYPE,select, DEVICE_PHONE{برای بی‌صدا کردن تلفن و تیره ماندن صفحه‌نمایش در وقت خواب، از «حالت وقت خواب» استفاده کنید}DEVICE_TABLET{برای بی‌صدا کردن رایانه لوحی و تیره ماندن صفحه‌نمایش در وقت خواب، از «حالت وقت خواب» استفاده کنید}other{برای بی‌صدا کردن دستگاه و تیره ماندن صفحه‌نمایش در وقت خواب، از «حالت وقت خواب» استفاده کنید}}</string>
+</resources>

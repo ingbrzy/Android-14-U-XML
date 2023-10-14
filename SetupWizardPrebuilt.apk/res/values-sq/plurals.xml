@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="account_exists_text_multiple">
+        <item quantity="other">"Llogaritë e mëposhtme janë gati:
+
+"&lt;annotation textAppearance="TextAppearance.SudDescription.Medium">^1&lt;/annotation></item>
+        <item quantity="one">"Llogaria e mëposhtme është gati:
+
+"&lt;annotation textAppearance="TextAppearance.SudDescription.Medium">^1&lt;/annotation></item>
+    </plurals>
+    <plurals name="people_contacts_sync_failure_in_contacts_title_in_portal">
+        <item quantity="other">Nuk mund të sinkronizohen %1$,d nga %2$,d kontakte</item>
+        <item quantity="one">Nuk mund të sinkronizohet %1$,d nga %2$,d kontakte</item>
+    </plurals>
+    <plurals name="people_contacts_sync_failure_in_photos_title_in_portal">
+        <item quantity="other">Nuk mund të sinkronizohen %1$,d nga %2$,d fotografi kontaktesh</item>
+        <item quantity="one">Nuk mund të sinkronizohet %1$,d nga %2$,d fotografi kontaktesh</item>
+    </plurals>
+    <plurals name="people_contacts_sync_succeed_title_in_portal">
+        <item quantity="other">%,d kontakte u sinkronizuan me \"Kontaktet e Google\"</item>
+        <item quantity="one">%,d kontakt u sinkronizua me \"Kontaktet e Google\"</item>
+    </plurals>
+    <plurals name="qr_provision_toast">
+        <item quantity="other">%d trokitje më shumë për të nisur konfigurimin e kodit QR</item>
+        <item quantity="one">%d trokitje më shumë për të nisur konfigurimin e kodit QR</item>
+    </plurals>
+    <plurals name="slots_selection_text">
+        <item quantity="other">%d numra i janë shtuar kësaj pajisjeje, por mund të përdoret vetëm një njëkohësisht.</item>
+        <item quantity="one">%d numër i është shtuar kësaj pajisjeje, por mund të përdoret vetëm një njëkohësisht.</item>
+    </plurals>
+    <plurals name="survey_star_rating">
+        <item quantity="other">%1$d yje nga %2$d</item>
+        <item quantity="one">%1$d yll nga %2$d</item>
+    </plurals>
+</resources>

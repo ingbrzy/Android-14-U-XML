@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="select_logpersist_summaries">
+        <item>Desaktibatuta</item>
+        <item>Erregistroen buffer guztiak</item>
+        <item>Erregistroen buffer guztiak, irratiarenak izan ezik</item>
+        <item>kernel-aren erregistroaren bufferra soilik</item>
+    </string-array>
+</resources>

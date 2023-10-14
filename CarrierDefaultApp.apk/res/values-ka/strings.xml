@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_bar_label">მობილურ ქსელში შესვლა</string>
+    <string name="android_system_label">მობილური ოპერატორი</string>
+    <string name="app_name">ოპერატორთან კომუნიკაცია</string>
+    <string name="mobile_data_status_notification_channel_name">მობილური ინტერნეტის სტატუსი</string>
+    <string name="no_data_notification_detail">გთხოვთ, დაუკავშირდეთ სერვისის პროვაიდერს (%s)</string>
+    <string name="no_data_notification_id">მობილური ინტერნეტი დეაქტივირებულია</string>
+    <string name="no_mobile_data_connection">დაამატეთ მობილური ინტერნეტის ან როუმინგის პაკეტი %s-ის მეშვეობით</string>
+    <string name="no_mobile_data_connection_title">მობილური ინტერნეტის კავშირი არ არის</string>
+    <string name="performance_boost_notification_button_manage">მართვა</string>
+    <string name="performance_boost_notification_button_not_now">ახლა არა</string>
+    <string name="performance_boost_notification_channel">ეფექტურობის გაძლიერება</string>
+    <string name="performance_boost_notification_detail">ეწვიეთ %s-ის ვებსაიტს თქვენი აპის გამოცდილების ვარიანტების სანახავად</string>
+    <string name="performance_boost_notification_title">5G ვარიანტები თქვენი ოპერატორისგან</string>
+    <string name="portal_notification_detail">შეეხეთ, რათა ეწვიოთ ვებსაიტს: %s</string>
+    <string name="portal_notification_id">მობილური ინტერნეტის პაკეტი ამოიწურა</string>
+    <string name="slice_purchase_app_label">ეფექტურობის გაძლიერების შეძენა.</string>
+    <string name="ssl_error_continue">მაინც ბრაუზერში გაგრძელება</string>
+    <string name="ssl_error_example">მაგალითად, სისტემაში შესვლის გვერდი შეიძლება არ ეკუთვნოდეს ნაჩვენებ ორგანიზაციას.</string>
+    <string name="ssl_error_warning">ქსელს, რომელთან დაკავშრებასაც ცდილობთ, უსაფრთხოების პრობლემები აქვს.</string>
+</resources>

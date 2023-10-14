@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="analog_gadget">አናሎግ</string>
+    <string name="digital_gadget">ዲጂታል</string>
+    <string name="analog_widget_clover_clock_name">ማገጥ</string>
+    <string name="analog_widget_clover_content_description">የማገጥ ቅርጽ ያለው የሰዓት መልክ</string>
+    <string name="analog_widget_config_activity_title">የሰዓት መልክን ይምረጡ</string>
+    <string name="analog_widget_day_clock_name">ቀን</string>
+    <string name="analog_widget_day_content_description">የሰዓት መልክ ከወሩ ቀን ጋር</string>
+    <string name="analog_widget_numeral_clock_name">ቁጥር</string>
+    <string name="analog_widget_numeral_content_description">ትልቅ ቁጥሮች ያሉት የሰዓት መልክ</string>
+    <string name="analog_widget_scallop_clock_name">ስካሎፕ</string>
+    <string name="analog_widget_scallop_content_description">የሰዓት መልክ ከሳምንቱ ቀን እና ወር</string>
+    <string name="cities_widget_config_activity_subtitle">ከተሞች ከሰዓት ትር ሊታከሉ ይችላሉ።</string>
+    <string name="cities_widget_config_activity_subtitle_button">በሰዓት መተግበሪያ ውስጥ ከተሞችን ይምረጡ</string>
+    <string name="cities_widget_preview_city_london">ለንደን</string>
+    <string name="cities_widget_preview_city_mountain_view">ማውንቴን ቪው</string>
+    <string name="clock_widget_opaque_label">ድፍን</string>
+    <string name="clock_widget_transparent_label">ግልፅ</string>
+    <string name="digital_appwidget_config_activity_title">የሰዓት ዘይቤን ይምረጡ</string>
+    <string name="digital_cities_gadget">ዓለም</string>
+    <string name="digital_cities_gadget_description">በሰዓት መተግበሪያ ውስጥ ከተሞችን ይምረጡ</string>
+    <string name="digital_stacked_gadget">ቁልል</string>
+    <string name="digital_widgets_preview_alarm">ሰኞ 09:30</string>
+    <string name="stopwatch_gadget_description">በሰዓት መተግበሪያ ውስጥ የሩጫ ሰዓቱን ይቆጣጠሩ</string>
+</resources>

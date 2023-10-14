@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dlg_message_deletion_confirmation">
+        <item quantity="other">আপোনাৰ ৰেকৰ্ডিংসমূহ স্থায়ীভাৱে মচা হ’ব। এই কাৰ্যটো আনডু কৰিব নোৱাৰি।</item>
+        <item quantity="one">আপোনাৰ ৰেকৰ্ডিংসমূহ স্থায়ীভাৱে মচা হ’ব। এই কাৰ্যটো আনডু কৰিব নোৱাৰি।</item>
+    </plurals>
+    <plurals name="dlg_message_deletion_permanent_confirmation">
+        <item quantity="other">"ৰেকৰ্ডিংসমূহৰ বেক আপ লোৱা নাই। এইসমূহ স্থায়ীভাৱে মচা হ'ব। আপুনি এই কাৰ্য আনডু কৰিব নোৱাৰে।"</item>
+        <item quantity="one">"ৰেকৰ্ডিংসমূহৰ বেক আপ লোৱা নাই। এইসমূহ স্থায়ীভাৱে মচা হ'ব। আপুনি এই কাৰ্য আনডু কৰিব নোৱাৰে।"</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_confirmation">
+        <item quantity="other">ৰেকৰ্ডিংসমূহ মচিবনে?</item>
+        <item quantity="one">ৰেকৰ্ডিংসমূহ মচিবনে?</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_permanent_confirmation">
+        <item quantity="other">এই ৰেকেৰ্ডিংসমূহ স্থায়ীভাৱে মচিবনে?</item>
+        <item quantity="one">এই ৰেকেৰ্ডিংসমূহ স্থায়ীভাৱে মচিবনে?</item>
+    </plurals>
+    <plurals name="download_failure_description_storage_full">
+        <item quantity="other">ডিভাইচৰ ষ্ট’ৰেজ ভৰি পৰাৰ কাৰণে ৰেকৰ্ডিংসমূহ ডাউনল’ড কৰিব নোৱাৰি। পৰ্যালোচনা কৰিবলৈ টিপক।</item>
+        <item quantity="one">ডিভাইচৰ ষ্ট’ৰেজ ভৰি পৰাৰ কাৰণে ৰেকৰ্ডিংসমূহ ডাউনল’ড কৰিব নোৱাৰি। পৰ্যালোচনা কৰিবলৈ টিপক।</item>
+    </plurals>
+    <plurals name="downloading_description">
+        <item quantity="other">"%1$dটা ৰেকৰ্ডিং ডাউনল'ড কৰি থকা হৈছে"</item>
+        <item quantity="one">"%1$dটা ৰেকৰ্ডিং ডাউনল'ড কৰি থকা হৈছে"</item>
+    </plurals>
+    <plurals name="og_backup_failed_title">
+        <item quantity="other">"%1$d টা বস্তুৰ বেক আপ ল'ব পৰা নগ'ল"</item>
+        <item quantity="one">"%1$d টা বস্তুৰ বেক আপ ল'ব পৰা নগ'ল"</item>
+    </plurals>
+    <plurals name="og_backup_items_left">
+        <item quantity="other">%1$d টা বস্তু বাকী আছে</item>
+        <item quantity="one">%1$d টা বস্তু বাকী আছে</item>
+    </plurals>
+    <plurals name="og_backup_items_stopped_title">
+        <item quantity="other">%1$d টা বস্তুৰ বেক আপ লোৱা হোৱা নাই</item>
+        <item quantity="one">%1$d টা বস্তুৰ বেক আপ লোৱা হোৱা নাই</item>
+    </plurals>
+    <plurals name="peoplekit_chips_copied_recipients">
+        <item quantity="other">%d গৰাকী প্ৰাপকৰ নাম প্ৰতিলিপি কৰা হ’ল</item>
+        <item quantity="one">%d গৰাকী প্ৰাপকৰ নাম প্ৰতিলিপি কৰা হ’ল</item>
+    </plurals>
+    <plurals name="search_results_count">
+        <item quantity="other">%1$dটা ফলাফল</item>
+        <item quantity="one">%1$dটা ফলাফল</item>
+    </plurals>
+    <plurals name="search_results_position">
+        <item quantity="other">^1/^2টা ফলাফল</item>
+        <item quantity="one">^1/^2টা ফলাফল</item>
+    </plurals>
+    <plurals name="search_results_position_content_description">
+        <item quantity="other">%2$dটাৰ %1$dটা ফলাফল</item>
+        <item quantity="one">%2$dটাৰ %1$dটা ফলাফল</item>
+    </plurals>
+    <plurals name="selected_recording_quantity">
+        <item quantity="other">%1$dটা বাছনি কৰা হৈছে</item>
+        <item quantity="one">%1$dটা বাছনি কৰা হৈছে</item>
+    </plurals>
+    <plurals name="snackbar_message_download_failed_storage_full">
+        <item quantity="other">ডিভাইচৰ ষ্ট’ৰেজ ভৰি পৰিছে। ৰেকৰ্ডিংসমূহ ডাউনল’ড কৰিব নোৱাৰি।</item>
+        <item quantity="one">ডিভাইচৰ ষ্ট’ৰেজ ভৰি পৰিছে। ৰেকৰ্ডিংসমূহ ডাউনল’ড কৰিব নোৱাৰি।</item>
+    </plurals>
+    <plurals name="speaker_count">
+        <item quantity="other">%1$d টা স্পীকাৰ</item>
+        <item quantity="one">%1$d টা স্পীকাৰ</item>
+    </plurals>
+    <plurals name="uploading_description">
+        <item quantity="other">%1$d টা ৰেকৰ্ডিং আপল’ড হৈ আছে</item>
+        <item quantity="one">%1$d টা ৰেকৰ্ডিং আপল’ড হৈ আছে</item>
+    </plurals>
+</resources>

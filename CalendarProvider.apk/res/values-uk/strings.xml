@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="calendar_default_name">За умовчанням</string>
+    <string name="calendar_info">Інформація про календар</string>
+    <string name="calendar_info_error">Помилка</string>
+    <string name="calendar_info_events">Події: %1$d</string>
+    <string name="calendar_info_events_dirty">Подій: %1$d, не збережено: %2$d</string>
+    <string name="calendar_info_no_calendars">Немає календарів</string>
+    <string name="calendar_storage">Пам’ять календаря</string>
+    <string name="debug_tool_delete_button">Видалити</string>
+    <string name="debug_tool_email_body">У вкладенні – база даних мого додатка Календар з усіма запланованими зустрічами й особистою інформацією. Обережно працюйте з нею.</string>
+    <string name="debug_tool_email_sender_picker">Виберіть програму для надсилання файлу</string>
+    <string name="debug_tool_email_subject">Базу даних календаря вкладено</string>
+    <string name="debug_tool_message">Ви збираєтеся: 1) створити копію бази даних свого календаря на карті SD або на носії USB, які зможе читати будь-який додаток, і 2) надіслати базу даних електронною поштою. Не забудьте видалити базу даних, коли скопіюєте її з пристрою або отримаєте електронним листом.</string>
+    <string name="debug_tool_start_button">Почати</string>
+    <string name="provider_label">Календар</string>
+</resources>

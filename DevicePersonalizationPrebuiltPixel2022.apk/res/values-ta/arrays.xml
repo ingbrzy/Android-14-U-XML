@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="call_captions_typing_predictions_post_system_message">
+        <item>ஹலோ, யார் அது?</item>
+        <item>ஹாய், எப்படி இருக்கீங்க?</item>
+        <item>ஒரு நிமிடம் காத்திருங்கள்</item>
+        <item>ஹாய், பிறகு அழைக்கிறீர்களா?</item>
+        <item>வணக்கம்! அழைத்ததற்கு நன்றி.</item>
+    </string-array>
+    <string-array name="captions_settings_enable_for_calls_choices_entries">
+        <item>ஒவ்வொரு முறையும் கேள்</item>
+        <item>எப்போதும்</item>
+        <item>ஆஃப்</item>
+    </string-array>
+    <string-array name="captions_settings_typing_voice_names">
+        <item>குரல் A</item>
+        <item>குரல் B</item>
+        <item>குரல் C</item>
+        <item>குரல் D</item>
+        <item>குரல் E</item>
+        <item>குரல் F</item>
+        <item>குரல் G</item>
+        <item>குரல் H</item>
+        <item>குரல் I</item>
+        <item>குரல் J</item>
+        <item>குரல் K</item>
+        <item>குரல் L</item>
+        <item>குரல் M</item>
+        <item>குரல் N</item>
+        <item>குரல் O</item>
+        <item>குரல் P</item>
+    </string-array>
+    <string-array name="pref_download_policy_entries">
+        <item>மொபைல் + வைஃபை</item>
+        <item>வைஃபை மட்டும்</item>
+        <item>புதுப்பிக்க வேண்டாம்</item>
+    </string-array>
+    <string-array name="pref_download_policy_entry_values_placeholder">
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+</resources>

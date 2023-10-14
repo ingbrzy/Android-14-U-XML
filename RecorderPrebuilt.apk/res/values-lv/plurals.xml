@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dlg_message_deletion_confirmation">
+        <item quantity="other">Jūsu ieraksti tiks neatgriezeniski izdzēsti. Šo darbību nevar atsaukt.</item>
+        <item quantity="zero">Jūsu ieraksti tiks neatgriezeniski izdzēsti. Šo darbību nevar atsaukt.</item>
+        <item quantity="one">Jūsu ieraksti tiks neatgriezeniski izdzēsti. Šo darbību nevar atsaukt.</item>
+    </plurals>
+    <plurals name="dlg_message_deletion_permanent_confirmation">
+        <item quantity="other">Ierakstiem nav izveidots dublējums. Tie tiks neatgriezeniski dzēsti. Šo darbību nevar atsaukt.</item>
+        <item quantity="zero">Ierakstiem nav izveidots dublējums. Tie tiks neatgriezeniski dzēsti. Šo darbību nevar atsaukt.</item>
+        <item quantity="one">Ierakstiem nav izveidots dublējums. Tie tiks neatgriezeniski dzēsti. Šo darbību nevar atsaukt.</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_confirmation">
+        <item quantity="other">Vai izdzēst ierakstus?</item>
+        <item quantity="zero">Vai izdzēst ierakstus?</item>
+        <item quantity="one">Vai izdzēst ierakstus?</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_permanent_confirmation">
+        <item quantity="other">Vai neatgriezeniski dzēst šos ierakstus?</item>
+        <item quantity="zero">Vai neatgriezeniski dzēst šos ierakstus?</item>
+        <item quantity="one">Vai neatgriezeniski dzēst šos ierakstus?</item>
+    </plurals>
+    <plurals name="download_failure_description_storage_full">
+        <item quantity="other">Nevar lejupielādēt ierakstus, jo ierīces krātuve ir pilna. Pieskarieties, lai to pārskatītu.</item>
+        <item quantity="zero">Nevar lejupielādēt ierakstus, jo ierīces krātuve ir pilna. Pieskarieties, lai to pārskatītu.</item>
+        <item quantity="one">Nevar lejupielādēt ierakstus, jo ierīces krātuve ir pilna. Pieskarieties, lai to pārskatītu.</item>
+    </plurals>
+    <plurals name="downloading_description">
+        <item quantity="other">Notiek %1$d ierakstu lejupielāde</item>
+        <item quantity="zero">Notiek %1$d ierakstu lejupielāde</item>
+        <item quantity="one">Notiek %1$d ieraksta lejupielāde</item>
+    </plurals>
+    <plurals name="og_backup_failed_title">
+        <item quantity="other">Neizdevās dublēt %1$d vienumus</item>
+        <item quantity="zero">Neizdevās dublēt %1$d vienumus</item>
+        <item quantity="one">Neizdevās dublēt %1$d vienumu</item>
+    </plurals>
+    <plurals name="og_backup_items_left">
+        <item quantity="other">Atlikuši %1$d vienumi.</item>
+        <item quantity="zero">Atlikuši %1$d vienumi.</item>
+        <item quantity="one">Atlicis %1$d vienums.</item>
+    </plurals>
+    <plurals name="og_backup_items_stopped_title">
+        <item quantity="other">%1$d vienumi nav dublēti</item>
+        <item quantity="zero">%1$d vienumi nav dublēti</item>
+        <item quantity="one">%1$d vienums nav dublēts</item>
+    </plurals>
+    <plurals name="peoplekit_chips_copied_recipients">
+        <item quantity="other">Nokopēti %d adresāti.</item>
+        <item quantity="zero">Nokopēti %d adresāti.</item>
+        <item quantity="one">Nokopēts %d adresāts.</item>
+    </plurals>
+    <plurals name="search_results_count">
+        <item quantity="other">%1$d rezultāti</item>
+        <item quantity="zero">%1$d rezultātu</item>
+        <item quantity="one">%1$d rezultāts</item>
+    </plurals>
+    <plurals name="search_results_position">
+        <item quantity="other">^1. rezultāts no ^2</item>
+        <item quantity="zero">^1. rezultāts no ^2</item>
+        <item quantity="one">^1. rezultāts no ^2</item>
+    </plurals>
+    <plurals name="search_results_position_content_description">
+        <item quantity="other">%1$d. rezultāts no %2$d</item>
+        <item quantity="zero">%1$d. rezultāts no %2$d</item>
+        <item quantity="one">%1$d. rezultāts no %2$d</item>
+    </plurals>
+    <plurals name="selected_recording_quantity">
+        <item quantity="other">%1$d atlasīti</item>
+        <item quantity="zero">%1$d atlasītu</item>
+        <item quantity="one">%1$d atlasīts</item>
+    </plurals>
+    <plurals name="snackbar_message_download_failed_storage_full">
+        <item quantity="other">Ierīces krātuve ir pilna. Nevar lejupielādēt ierakstus.</item>
+        <item quantity="zero">Ierīces krātuve ir pilna. Nevar lejupielādēt ierakstus.</item>
+        <item quantity="one">Ierīces krātuve ir pilna. Nevar lejupielādēt ierakstus.</item>
+    </plurals>
+    <plurals name="speaker_count">
+        <item quantity="other">%1$d runātāji</item>
+        <item quantity="zero">%1$d runātāju</item>
+        <item quantity="one">%1$d runātājs</item>
+    </plurals>
+    <plurals name="uploading_description">
+        <item quantity="other">Notiek %1$d ierakstu augšupielāde</item>
+        <item quantity="zero">Notiek %1$d ierakstu augšupielāde</item>
+        <item quantity="one">Notiek %1$d ieraksta augšupielāde</item>
+    </plurals>
+</resources>

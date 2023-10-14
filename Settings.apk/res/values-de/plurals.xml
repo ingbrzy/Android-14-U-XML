@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="other">Vor %d Tagen</item>
+        <item quantity="one">Vor %d Tag</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="other">Vor %d Min.</item>
+        <item quantity="one">Vor %d Min.</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="other">Vor %d Jahren</item>
+        <item quantity="one">Vor %d Jahr</item>
+    </plurals>
+    <plurals name="lockscreen_quick_affordances_summary">
+        <item quantity="other">%1$s, %2$s</item>
+        <item quantity="one">%1$s</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d neue Benachrichtigungen</item>
+        <item quantity="one">%d neue Benachrichtigung</item>
+    </plurals>
+    <plurals name="security_settings_hub_show_warnings_preference">
+        <item quantity="other">%1$d Warnungen anzeigen</item>
+        <item quantity="one">%1$d Warnung anzeigen</item>
+    </plurals>
+    <plurals name="security_settings_hub_warnings_title">
+        <item quantity="other">%1$d Warnungen</item>
+        <item quantity="one">%1$d Warnung</item>
+    </plurals>
+    <plurals name="special_access_summary">
+        <item quantity="other">%d Apps dürfen uneingeschränkt Daten nutzen</item>
+        <item quantity="one">1 App darf uneingeschränkt Daten nutzen</item>
+    </plurals>
+</resources>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="call_captions_typing_predictions_post_system_message">
+        <item>નમસ્કાર, તમે કોણ છો?</item>
+        <item>નમસ્તે, તમે કેમ છો?</item>
+        <item>કૃપા કરીને એક મિનિટ રાહ જુઓ</item>
+        <item>નમસ્તે, તમે થોડીવાર પછી કૉલબૅક કરશો?</item>
+        <item>કેમ છો! કૉલ કરવા બદલ આભાર.</item>
+    </string-array>
+    <string-array name="captions_settings_enable_for_calls_choices_entries">
+        <item>દર વખતે પૂછો</item>
+        <item>હંમેશાં</item>
+        <item>બંધ</item>
+    </string-array>
+    <string-array name="captions_settings_typing_voice_names">
+        <item>વૉઇસ A</item>
+        <item>વૉઇસ B</item>
+        <item>વૉઇસ C</item>
+        <item>વૉઇસ D</item>
+        <item>વૉઇસ E</item>
+        <item>વૉઇસ F</item>
+        <item>વૉઇસ G</item>
+        <item>વૉઇસ H</item>
+        <item>વૉઇસ I</item>
+        <item>વૉઇસ J</item>
+        <item>વૉઇસ K</item>
+        <item>વૉઇસ L</item>
+        <item>વૉઇસ M</item>
+        <item>વૉઇસ N</item>
+        <item>વૉઇસ O</item>
+        <item>વૉઇસ P</item>
+    </string-array>
+    <string-array name="pref_download_policy_entries">
+        <item>મોબાઇલ + વાઇ-ફાઇ</item>
+        <item>માત્ર વાઇ-ફાઇ</item>
+        <item>અપડેટ કરશો નહીં</item>
+    </string-array>
+    <string-array name="pref_download_policy_entry_values_placeholder">
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+</resources>

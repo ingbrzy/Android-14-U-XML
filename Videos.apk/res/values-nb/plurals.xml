@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nye varsler</item>
+        <item quantity="one">%d nytt varsel</item>
+    </plurals>
+    <plurals name="public_notification_text">
+        <item quantity="other">%1$d nye varsler</item>
+        <item quantity="one">Du har et varsel</item>
+    </plurals>
+</resources>

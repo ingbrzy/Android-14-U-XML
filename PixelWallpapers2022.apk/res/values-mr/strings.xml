@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="azure_title">अझूर जे</string>
+    <string name="blackswan_title">काळा हंस</string>
+    <string name="cockatoo_title">कोकॅटो</string>
+    <string name="come_alive_title">कम अलाइव्‍ह</string>
+    <string name="feathers_attribution">अँड्र्यू झुकरमन यांनी काढलेला फोटो</string>
+    <string name="feathers_description">रंग आणि तपशिलासह, पिसार्‍यांचे प्रदर्शन</string>
+    <string name="feathers_title">पिसे</string>
+    <string name="greenwinged_title">हिरव्या पंखांचा मकाव</string>
+    <string name="king_title">राज गिधाड</string>
+    <string name="living_universe_title">लिव्हिंग युनिव्‍हर्स</string>
+    <string name="photos_memory_gallery_title">तुमच्या आठवणी</string>
+    <string name="pied_title">दोनरंगी कावळा</string>
+    <string name="ringnecked_title">पोपट</string>
+    <string name="seagull_title">सीगल</string>
+</resources>

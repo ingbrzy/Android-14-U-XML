@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="azure_title">Asurskrike</string>
+    <string name="blackswan_title">Svartsvane</string>
+    <string name="cockatoo_title">Kakadue</string>
+    <string name="come_alive_title">Levende skjerm</string>
+    <string name="feathers_attribution">Foto av Andrew Zuckerman</string>
+    <string name="feathers_description">En fjærkledd utfoldelse av farger og detaljer</string>
+    <string name="feathers_title">Fjær</string>
+    <string name="greenwinged_title">Grønnvingerødara</string>
+    <string name="king_title">Kongekondor</string>
+    <string name="living_universe_title">Levende univers</string>
+    <string name="photos_memory_gallery_title">Minnene dine</string>
+    <string name="pied_title">Hvitbrystkråke</string>
+    <string name="ringnecked_title">Halsbåndparakitt</string>
+    <string name="seagull_title">Måke</string>
+</resources>

@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120000">
+        <item quantity="other">Kablosuz bağlantı bekleniyor</item>
+        <item quantity="one">Kablosuz bağlantı bekleniyor</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120002">
+        <item quantity="other">Bu cihazda (%d uygulama)</item>
+        <item quantity="one">Bu cihazda (%d uygulama)</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120003">
+        <item quantity="other">%1$s için özellikler</item>
+        <item quantity="one">%1$s için özellik</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120004">
+        <item quantity="other">%d gün önce yüklendi</item>
+        <item quantity="one">%d gün önce yüklendi</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120005">
+        <item quantity="other">%d saat önce yüklendi</item>
+        <item quantity="one">%d saat önce yüklendi</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120006">
+        <item quantity="other">%d dakika önce yüklendi</item>
+        <item quantity="one">%d dakika önce yüklendi</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120007">
+        <item quantity="other">%1$d uygulama seçildi</item>
+        <item quantity="one">%1$d uygulama seçildi</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120008">
+        <item quantity="other">%d gün önce güncellendi</item>
+        <item quantity="one">%d gün önce güncellendi</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120009">
+        <item quantity="other">%d saat önce güncellendi</item>
+        <item quantity="one">%d saat önce güncellendi</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000a">
+        <item quantity="other">%d dakika önce güncellendi</item>
+        <item quantity="one">%d dakika önce güncellendi</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000b">
+        <item quantity="other">En son %d gün önce kullanıldı</item>
+        <item quantity="one">En son %d gün önce kullanıldı</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000c">
+        <item quantity="other">En son %d saat önce kullanıldı</item>
+        <item quantity="one">En son %d saat önce kullanıldı</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000d">
+        <item quantity="other">En son %d dakika önce kullanıldı</item>
+        <item quantity="one">En son %d dakika önce kullanıldı</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000f">
+        <item quantity="other">Uygulamalar %d gün önce tarandı</item>
+        <item quantity="one">Uygulamalar %d gün önce tarandı</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120010">
+        <item quantity="other">Uygulamalar %d saat önce tarandı</item>
+        <item quantity="one">Uygulamalar %d saat önce tarandı</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120011">
+        <item quantity="other">Uygulamalar %d dakika önce tarandı</item>
+        <item quantity="one">Uygulamalar %d dakika önce tarandı</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120014">
+        <item quantity="other">%1$d yorum</item>
+        <item quantity="one">%1$d yorum</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120015">
+        <item quantity="other">%2$d yıldızlı değerlendirme için %1$d yorum</item>
+        <item quantity="one">%2$d yıldızlı değerlendirme için %1$d yorum</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120016">
+        <item quantity="other">%1$d cihaza yükle.</item>
+        <item quantity="one">%1$d cihaza yükle.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120017">
+        <item quantity="other">%1$d cihaza yükle. Daha fazla cihaz mevcut.</item>
+        <item quantity="one">%1$d cihaza yükle. Daha fazla cihaz mevcut.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120018">
+        <item quantity="other">Bu uygulama, kısa süre içinde %1$d cihazınıza yüklenecek.</item>
+        <item quantity="one">Bu uygulama, kısa süre içinde %1$d cihazınıza yüklenecek.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120019">
+        <item quantity="other">Ekstra %1$d film</item>
+        <item quantity="one">Ekstra %1$d film</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001a">
+        <item quantity="other">Satın alma işlemiyle birlikte ekstra %1$d film</item>
+        <item quantity="one">Satın alma işlemiyle birlikte ekstra %1$d film</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001b">
+        <item quantity="other">%1$d Gün</item>
+        <item quantity="one">%1$d Gün</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001c">
+        <item quantity="other">Ortalama puan, %2$s yorumda %1$s yıldız</item>
+        <item quantity="one">Ortalama puan, 1 yorumda %1$s yıldız</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001d">
+        <item quantity="other">%s yorum</item>
+        <item quantity="one">1 yorum</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001e">
+        <item quantity="other">Geliştirici olmanıza %1$d adım kaldı.</item>
+        <item quantity="one">Geliştirici olmanıza %1$d adım kaldı.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001f">
+        <item quantity="other">araba</item>
+        <item quantity="one">araba</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120020">
+        <item quantity="other">"Chromebook'lar"</item>
+        <item quantity="one">Chromebook</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120021">
+        <item quantity="other">katlanabilir</item>
+        <item quantity="one">katlanabilir</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120022">
+        <item quantity="other">telefon</item>
+        <item quantity="one">telefon</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120023">
+        <item quantity="other">tablet</item>
+        <item quantity="one">tablet</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120024">
+        <item quantity="other">TV</item>
+        <item quantity="one">TV</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120025">
+        <item quantity="other">cihazlar</item>
+        <item quantity="one">cihaz</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120026">
+        <item quantity="other">saat</item>
+        <item quantity="one">saat</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120027">
+        <item quantity="other">%1$d Play Puanı var.</item>
+        <item quantity="one">%1$d Play Puanı var.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120028">
+        <item quantity="other">%1$d Saat</item>
+        <item quantity="one">%1$d Saat</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120029">
+        <item quantity="other">%1$d saat kaldı</item>
+        <item quantity="one">1 saat kaldı</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002a">
+        <item quantity="other">%1$d uygulama yükleniyor…</item>
+        <item quantity="one">%1$d uygulama yükleniyor…</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002b">
+        <item quantity="other">Yüklemeler duraklatıldı</item>
+        <item quantity="one">Yükleme duraklatıldı</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002c">
+        <item quantity="other">%1$d uygulama yüklenecek</item>
+        <item quantity="one">%1$d uygulama yüklenecek</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002d">
+        <item quantity="other">En son %d gün önce güncellendi.</item>
+        <item quantity="one">En son %d gün önce güncellendi.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002e">
+        <item quantity="other">En son %d saat önce güncellendi</item>
+        <item quantity="one">En son %d saat önce güncellendi</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002f">
+        <item quantity="other">%d dakika önce güncellendi</item>
+        <item quantity="one">En son %d dakika önce güncellendi</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120033">
+        <item quantity="other">%1$d yıl önce</item>
+        <item quantity="one">%1$d yıl önce</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120034">
+        <item quantity="other">%1$d Dakika</item>
+        <item quantity="one">%1$d Dakika</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120035">
+        <item quantity="other">%1$d dakika kaldı</item>
+        <item quantity="one">1 dakika kaldı</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120037">
+        <item quantity="other">%1$d seçildi</item>
+        <item quantity="one">%1$d seçildi</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120038">
+        <item quantity="other">%1$d uygulama arşivleniyor</item>
+        <item quantity="one">%1$d uygulama arşivleniyor</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120039">
+        <item quantity="other">Seçili uygulamalar kaldırılsın mı?</item>
+        <item quantity="one">Seçili uygulama kaldırılsın mı?</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12003a">
+        <item quantity="other">%1$d uygulama kaldırıldı</item>
+        <item quantity="one">%1$d uygulama kaldırıldı</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12003d">
+        <item quantity="other">%1$d yükleme beklemede</item>
+        <item quantity="one">%1$d yükleme beklemede</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12003e">
+        <item quantity="other">%1$d yükleme devam ediyor</item>
+        <item quantity="one">%1$d yükleme devam ediyor</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120040">
+        <item quantity="other">%1$d güncelleme beklemede</item>
+        <item quantity="one">%1$d güncelleme beklemede</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120041">
+        <item quantity="other">%1$d güncelleme devam ediyor</item>
+        <item quantity="one">%1$d güncelleme devam ediyor</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120042">
+        <item quantity="other">%1$d uygulama yüklendi</item>
+        <item quantity="one">%1$d uygulama yüklendi</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120044">
+        <item quantity="other">%1$d saat önce yayınlandı</item>
+        <item quantity="one">%1$d saat önce yayınlandı</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120045">
+        <item quantity="other">%1$d gün önce yayınlandı</item>
+        <item quantity="one">%1$d gün önce yayınlandı</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120046">
+        <item quantity="other">Uygulamalar kaldırıldı</item>
+        <item quantity="one">Uygulama kaldırıldı</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120047">
+        <item quantity="other">%1$d güncelleme onay gerektiriyor</item>
+        <item quantity="one">%1$d güncelleme onay gerektiriyor</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120048">
+        <item quantity="other">%1$d yeni güncelleme</item>
+        <item quantity="one">%1$d yeni güncelleme</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120049">
+        <item quantity="other">%1$d güncelleme var</item>
+        <item quantity="one">%1$d güncelleme var</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004a">
+        <item quantity="other">Tümünü güncelle</item>
+        <item quantity="one">Güncelle</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004b">
+        <item quantity="other">%1$d uygulama güncellendi</item>
+        <item quantity="one">%1$d uygulama güncellendi</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004c">
+        <item quantity="other">%1$d saat içinde sona eriyor</item>
+        <item quantity="one">%1$d saat içinde sona eriyor</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004d">
+        <item quantity="other">%1$d gün içinde sona eriyor</item>
+        <item quantity="one">%1$d gün içinde sona eriyor</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004e">
+        <item quantity="other">%1$d dakika</item>
+        <item quantity="one">%1$d dakika</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004f">
+        <item quantity="other">%1$d saniye</item>
+        <item quantity="one">%1$d saniye</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120050">
+        <item quantity="other">Kişisel uygulamalar kaldırıldı</item>
+        <item quantity="one">Kişisel uygulama kaldırıldı</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120053">
+        <item quantity="other">Play Protect %d gün önce taradı</item>
+        <item quantity="one">Play Protect %d gün önce taradı</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120054">
+        <item quantity="other">Play Protect %d saat önce taradı</item>
+        <item quantity="one">Play Protect %d saat önce taradı</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120055">
+        <item quantity="other">Play Protect %d dakika önce taradı</item>
+        <item quantity="one">Play Protect %d dakika önce taradı</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120056">
+        <item quantity="other">%1$s puan daha kazanarak gelecek yılda %2$s seviyesinde kalabilirsiniz.</item>
+        <item quantity="one">1 puan daha kazanarak gelecek yılda %2$s seviyesinde kalabilirsiniz.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120057">
+        <item quantity="other">%2$s seviyesine %1$s puan kaldı</item>
+        <item quantity="one">%2$s seviyesine 1 puan kaldı</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120058">
+        <item quantity="other">Bu uygulamalara, bilinmeyen uygulamalar yükleme veya güncelleme izni verdiniz ve bu durum hem cihazınızı hem de kişisel bilgilerinizi riske atabilir. Bu uygulamaların başka uygulamalar yüklemesini önlemek için izni reddedin.</item>
+        <item quantity="one">Bu uygulamaya, bilinmeyen uygulamalar yükleme veya güncelleme izni verdiniz ve bu durum hem cihazınızı hem de kişisel bilgilerinizi riske atabilir. Bu uygulamaların başka uygulamalar yüklemesini önlemek için izni reddedin.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120059">
+        <item quantity="other">%1$d uygulamaya, bilinmeyen uygulamalar yükleme veya güncelleme izni verdiniz ve bu durum hem cihazınızı hem de kişisel bilgilerinizi riske atabilir</item>
+        <item quantity="one">1 uygulamaya, bilinmeyen uygulamalar yükleme veya güncelleme izni verdiniz ve bu durum hem cihazınızı hem de kişisel bilgilerinizi riske atabilir</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005a">
+        <item quantity="other">%1$d gizlilik uyarısı</item>
+        <item quantity="one">1 gizlilik uyarısı</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005b">
+        <item quantity="other">%1$d zararlı uygulama bulundu</item>
+        <item quantity="one">1 zararlı uygulama bulundu</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005c">
+        <item quantity="other">%1$d güvenlik bildirimi</item>
+        <item quantity="one">1 güvenlik bildirimi</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005d">
+        <item quantity="other">%1$d güvenlik güncellemesi</item>
+        <item quantity="one">1 güvenlik güncellemesi</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005e">
+        <item quantity="other">Güvenli olmayan %1$d uygulama bulundu</item>
+        <item quantity="one">Güvenli olmayan 1 uygulama bulundu</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005f">
+        <item quantity="other">%1$d uyarı</item>
+        <item quantity="one">1 uyarı</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120060">
+        <item quantity="other">Güvenli olmayan uygulamalar bulundu</item>
+        <item quantity="one">Güvenli olmayan uygulama bulundu</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120061">
+        <item quantity="other">%1$d saat içinde sona eriyor</item>
+        <item quantity="one">%1$d saat içinde sona eriyor</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120062">
+        <item quantity="other">%1$d gün içinde sona eriyor</item>
+        <item quantity="one">%1$d gün içinde sona eriyor</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120063">
+        <item quantity="other">%1$d/%2$d adım tamamlandı</item>
+        <item quantity="one">%1$d/%2$d adım tamamlandı</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120064">
+        <item quantity="other">%1$d uygulama yüklemeye hazır</item>
+        <item quantity="one">%1$d uygulama yüklemeye hazır</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120065">
+        <item quantity="other">%1$s size %2$d uygulama gönderecek. Eşleme kodunuzun eşleştiğinden emin olun. Eşleme kodunuzun eşleştiğinden emin olun.</item>
+        <item quantity="one">%1$s size %2$d uygulama gönderecek. Eşleme kodunuzun eşleştiğinden emin olun.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120066">
+        <item quantity="other">\"%2$s\" cihazından %1$d uygulama alınıyor…</item>
+        <item quantity="one">\"%2$s\" cihazından %1$d uygulama alınıyor…</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006a">
+        <item quantity="other">%1$d kullanıcı bu yorumu faydalı buldu. Yorumu faydalı olarak işaretle</item>
+        <item quantity="one">%1$d kullanıcı bu yorumu faydalı buldu. Yorumu faydalı olarak işaretle</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006b">
+        <item quantity="other">%1$d kullanıcı bu yorumu faydalı buldu. Yorumun faydalı bulunma işaretini kaldır</item>
+        <item quantity="one">%1$d kullanıcı bu yorumu faydalı buldu. Yorumun faydalı bulunma işaretini kaldır</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006c">
+        <item quantity="other">%1$s kişi bunu faydalı buldu</item>
+        <item quantity="one">%1$s kişi bunu yararlı buldu</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006f">
+        <item quantity="other">%1$d Saniye</item>
+        <item quantity="one">%1$d Saniye</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120070">
+        <item quantity="other">%1$d saniye kaldı</item>
+        <item quantity="one">1 saniye kaldı</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120071">
+        <item quantity="other">%1$d uygulama seçildi • %2$s</item>
+        <item quantity="one">%1$d uygulama seçildi • %2$s</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120072">
+        <item quantity="other">%1$d uygulama \"%2$s\" cihazına gönderiliyor…</item>
+        <item quantity="one">%1$d uygulama \"%2$s\" cihazına gönderiliyor…</item>
+    </plurals>
+    <plurals name="setup_completed_installed">
+        <item quantity="other">%1$d uygulama yüklendi</item>
+        <item quantity="one">%1$d uygulama yüklendi</item>
+    </plurals>
+    <plurals name="setup_completed_installed_with_failures">
+        <item quantity="other">%1$d / %2$d uygulama yüklenemedi</item>
+        <item quantity="one">%1$d / %2$d uygulama yüklenemedi</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120075">
+        <item quantity="other">En son %1$d gün önce kullanıldı</item>
+        <item quantity="one">En son %1$d gün önce kullanıldı</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120076">
+        <item quantity="other">Seçilen %1$d uygulamayı geri yükle</item>
+        <item quantity="one">Seçilen uygulamayı geri yükle</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120078">
+        <item quantity="other">%1$d yeni dil indirilsin mi?</item>
+        <item quantity="one">Yeni dil indirilsin mi?</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007b">
+        <item quantity="other">%1$d anket yanıtı, hesabınızdan kalıcı olarak kaldırılacak.</item>
+        <item quantity="one">%1$d anket yanıtı, hesabınızdan kalıcı olarak kaldırılacak.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007c">
+        <item quantity="other">%1$d seçildi</item>
+        <item quantity="one">%1$d seçildi</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007d">
+        <item quantity="other">Play Puanları göster. %1$d puan var.</item>
+        <item quantity="one">Play Puanları göster. %1$d puan var.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007e">
+        <item quantity="other">%1$d Play Puanı var.</item>
+        <item quantity="one">%1$d Play Puanı var.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120080">
+        <item quantity="other">%1$s puan</item>
+        <item quantity="one">1 puan</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120081">
+        <item quantity="other">\"%2$s\" cihazına %1$d uygulama aktarılıyor…</item>
+        <item quantity="one">\"%2$s\" cihazına %1$d uygulama aktarılıyor…</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120082">
+        <item quantity="other">%1$d uygulama cihazınızdan kaldırılacak.</item>
+        <item quantity="one">%1$d uygulama cihazınızdan kaldırılacak.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120083">
+        <item quantity="other">Seçili uygulamalar kaldırılsın mı?</item>
+        <item quantity="one">Seçili uygulama kaldırılsın mı?</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120084">
+        <item quantity="other">Seçili uygulamalar için güncellemeler kaldırılsın mı?</item>
+        <item quantity="one">Seçili uygulama için güncellemeler kaldırılsın mı?</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120085">
+        <item quantity="other">%1$s uygulama kaldırıldı, %2$s için yeterli alan açıldı.</item>
+        <item quantity="one">%1$s uygulama kaldırıldı, %2$s için yeterli alan açıldı.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120086">
+        <item quantity="other">Uygulamalar kısa bir süre içinde yüklenecek.</item>
+        <item quantity="one">Uygulama kısa bir süre içinde yüklenecek.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120087">
+        <item quantity="other">Uygulama güncellemeleri kısa bir süre içinde yüklenecek.</item>
+        <item quantity="one">Uygulama güncellemesi kısa bir süre içinde yüklenecek.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008a">
+        <item quantity="other">En son %1$d gün önce kullanıldı</item>
+        <item quantity="one">En son %1$d gün önce kullanıldı</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008b">
+        <item quantity="other">En son %1$d ay önce kullanıldı</item>
+        <item quantity="one">En son %1$d ay önce kullanıldı</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008c">
+        <item quantity="other">"Bu cihaza uygulama veya güncelleme yüklemek için artık ihtiyacınız olmayan uygulamaları kaldırın. Alan boşaltmak için Depolama Ayarları'nda medya dosyalarını da silebilirsiniz."</item>
+        <item quantity="one">"Bu cihaza uygulama veya güncelleme yüklemek için artık ihtiyacınız olmayan uygulamaları kaldırın. Alan boşaltmak için Depolama Ayarları'nda medya dosyalarını da silebilirsiniz."</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008d">
+        <item quantity="other">"Bu cihaza uygulama veya güncelleme yüklemek için artık ihtiyacınız olmayan uygulamaları kaldırın. &lt;a href=\"\">Ayarlar > Depolama&lt;/a>'da medya dosyalarını silerek de alan boşaltabilirsiniz."</item>
+        <item quantity="one">"Bu cihaza uygulama veya güncelleme yüklemek için artık ihtiyacınız olmayan uygulamaları kaldırın. &lt;a href=\"\">Ayarlar > Depolama&lt;/a>'da medya dosyalarını silerek de alan boşaltabilirsiniz."</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008e">
+        <item quantity="other">"Bu cihaza uygulama veya güncelleme yüklemek için artık ihtiyacınız olmayan uygulamaları kaldırın. Ayarlar > Depolama'da medya dosyalarını silerek de alan boşaltabilirsiniz"</item>
+        <item quantity="one">"Bu cihaza uygulama veya güncelleme yüklemek için artık ihtiyacınız olmayan uygulamaları kaldırın. Ayarlar > Depolama'da medya dosyalarını silerek de alan boşaltabilirsiniz."</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008f">
+        <item quantity="other">%1$d uygulama kaldırıldı</item>
+        <item quantity="one">%1$d uygulama kaldırıldı</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120090">
+        <item quantity="other">"Bir süredir kullanmadığınız %1$d uygulama bulduk. Bunları kaldırmak size %2$d MB'lık depolama alanı kazandıracaktır"</item>
+        <item quantity="one">"Bir süredir kullanmadığınız %1$d uygulama bulduk. Uygulamayı kaldırmak size %2$d MB'lık depolama alanı kazandıracaktır"</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120091">
+        <item quantity="other">%1$d saat içinde başlıyor</item>
+        <item quantity="one">%1$d saat içinde başlıyor</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120092">
+        <item quantity="other">%1$d gün içinde başlıyor</item>
+        <item quantity="one">%1$d gün içinde başlıyor</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120093">
+        <item quantity="other">%1$d saat içinde kullanıma sunulacak</item>
+        <item quantity="one">%1$d saat içinde kullanıma sunulacak</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120094">
+        <item quantity="other">%1$d gün içinde kullanıma sunulacak</item>
+        <item quantity="one">%1$d gün içinde kullanıma sunulacak</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120095">
+        <item quantity="other">Bu cihazda %1$d aydan uzun bir süredir sistem güncellemesi yapılmadı</item>
+        <item quantity="one">Bu cihazda %1$d aydan uzun bir süredir sistem güncellemesi yapılmadı</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120096">
+        <item quantity="other">İş uygulamaları kaldırıldı</item>
+        <item quantity="one">İş uygulaması kaldırıldı</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120097">
+        <item quantity="other">%1$d yıl önce</item>
+        <item quantity="one">%1$d yıl önce</item>
+    </plurals>
+</resources>

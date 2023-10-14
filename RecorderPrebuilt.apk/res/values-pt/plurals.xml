@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="og_backup_failed_title">
+        <item quantity="other">Não foi possível fazer o backup de %1$d itens</item>
+        <item quantity="one">Não foi possível fazer o backup de %1$d item</item>
+    </plurals>
+    <plurals name="og_backup_items_left">
+        <item quantity="other">%1$d itens restantes</item>
+        <item quantity="one">%1$d item restante</item>
+    </plurals>
+    <plurals name="og_backup_items_stopped_title">
+        <item quantity="other">%1$d itens não foram salvos em backup</item>
+        <item quantity="one">%1$d item não foi salvo em backup</item>
+    </plurals>
+    <plurals name="peoplekit_chips_copied_recipients">
+        <item quantity="other">%d destinatários copiados</item>
+        <item quantity="one">%d destinatário copiado</item>
+    </plurals>
+</resources>

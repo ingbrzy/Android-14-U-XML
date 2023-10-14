@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cross-Device-tjenester</string>
+    <string name="app_name_generic">en app</string>
+    <string name="app_stream_error_generic">Der opstod en fejl under appdelingen</string>
+    <string name="app_stream_init_error_generic">Appdelingen med din Chromebook mislykkedes</string>
+    <string name="audio_permission_rationale">Mikrofontilladelsen for appdeling er deaktiveret</string>
+    <string name="cancel_button_label">Annuller</string>
+    <string name="chromebook_keyboard">Chromebook-tastatur</string>
+    <string name="chromebook_mouse">Chromebook-mus</string>
+    <string name="chromebook_touchscreen">Chromebook-touchskærm</string>
+    <string name="connect_device">Din telefon knyttes til fjernenheden: %1$s</string>
+    <string name="decline_button_label">Afvis</string>
+    <string name="development_notification_channel_name">Udvikling</string>
+    <string name="device_camera_cannot_access">Denne Chromebook kan ikke få adgang til enhedens kamera</string>
+    <string name="done_button_label">Luk</string>
+    <string name="enable_button_label">Aktivér</string>
+    <string name="foreground_service_notification_channel_name">Generelt</string>
+    <string name="foreground_service_notification_content">Tryk for at ændre indstillingerne</string>
+    <string name="foreground_service_notification_title">{0,plural, =1{Forbundet til # enhed}one{Forbundet til # enhed}other{Forbundet til # enheder}}</string>
+    <string name="interactive_streaming_generic_notification">Streamer %1$s til din Chromebook og synkroniserer notifikationer med den</string>
+    <string name="interactive_streaming_individual_notification">Streamer %1$s og synkroniserer notifikationer for %2$s</string>
+    <string name="interactive_streaming_notification">Streamer til din Chromebook</string>
+    <string name="keyboard_name">Tastatur til flere enheder</string>
+    <string name="lock_screen_notif_warning_content">Aktivér notifikationer på låseskærmen</string>
+    <string name="lock_screen_notif_warning_title">Notifikationerne videresendes ikke</string>
+    <string name="mouse_name">Mus til flere enheder</string>
+    <string name="new_connection_confirm">Bekræft</string>
+    <string name="new_connection_deny">Afvis</string>
+    <string name="new_connection_title">Bekræft strengmatches</string>
+    <string name="notification_access_missing">Kræver Adgang til notifikationer</string>
+    <string name="notification_access_missing_description">Aktivér Adgang til notifikationer for at åbne notifikationer på din Chromebook</string>
+    <string name="notification_channel_name">Generelt</string>
+    <string name="notification_listener_label">Del apps med din Chromebook</string>
+    <string name="open_source_licenses">Open source-licenser</string>
+    <string name="phone_permission_rationale">Telefonopkaldstilladelsen for appdeling er deaktiveret</string>
+    <string name="prompt_switch_languages">Tryk på Shift + mellemrum for at skifte Gboard-sprog på din telefon</string>
+    <string name="settings_button">Indstillinger</string>
+    <string name="stop_sharing_button">Afslut stream</string>
+    <string name="stream_termination_proximity_warning">Din telefon er for langt væk. Flyt den tættere på for at fortsætte med at streame.</string>
+    <string name="substitute_app_name">System</string>
+    <string name="summary_disable_wirecutter">Fra</string>
+    <string name="summary_enable_wirecutter">Til</string>
+    <string name="touchscreen_name">Touchskærm til flere enheder</string>
+</resources>

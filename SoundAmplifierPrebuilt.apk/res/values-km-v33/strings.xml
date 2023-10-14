@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sound_amplifier_html_description">អំភ្លីសំឡេង​ជួយឱ្យសំឡេងខ្សោយ​ឮខ្លាំងជាងមុន​ដោយ​មិនធ្វើឱ្យ​សំឡេងខ្លាំង​ឮខ្លាំងជ្រុល&lt;br/>&lt;br/> &lt;b>របៀបប្រើ​អំភ្លីសំឡេង&lt;/b>&lt;br/> 1. ដោតកាសមានខ្សែ ឬភ្ជាប់កាសប៊្លូធូស&lt;br/> 2. ចាប់ផ្ដើមអំភ្លីសំឡេង</string>
+    <string name="sound_amplifier_intro">ប្រើ​អំភ្លីសំឡេង​ជាមួយកាស ដើម្បី​កែលម្អ​គុណភាព​សំឡេង​នៅជុំវិញអ្នក និងនៅលើឧបករណ៍​របស់អ្នក</string>
+</resources>

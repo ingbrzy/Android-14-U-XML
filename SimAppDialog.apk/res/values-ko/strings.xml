@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SIM 앱 대화상자</string>
+    <string name="call_notification_answer_action">통화</string>
+    <string name="call_notification_answer_video_action">동영상</string>
+    <string name="call_notification_decline_action">거절</string>
+    <string name="call_notification_hang_up_action">전화 끊기</string>
+    <string name="call_notification_incoming_text">수신 전화</string>
+    <string name="call_notification_ongoing_text">진행 중인 통화</string>
+    <string name="call_notification_screening_text">수신 전화 검사 중</string>
+    <string name="install_carrier_app_defer_action">나중에</string>
+    <string name="install_carrier_app_description">새로운 SIM을 정상적으로 사용하려면 %1$s 앱을 설치해야 합니다.</string>
+    <string name="install_carrier_app_description_default">새로운 SIM을 정상적으로 사용하려면 이동통신사 앱을 설치해야 합니다.</string>
+    <string name="install_carrier_app_download_action">앱 다운로드</string>
+    <string name="install_carrier_app_title">모바일 서비스 활성화</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="suw_back_button_label">뒤로</string>
+    <string name="suw_more_button_label">더보기</string>
+    <string name="suw_next_button_label">다음</string>
+</resources>

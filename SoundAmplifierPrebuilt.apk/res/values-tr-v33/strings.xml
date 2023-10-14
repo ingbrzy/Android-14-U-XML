@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sound_amplifier_html_description">"Ses Yükseltici, güçlü sesleri fazla yükseltmeden düşük sesleri yükseltir&lt;br/>&lt;br/> &lt;b>Ses Yükseltici nasıl kullanılır?&lt;/b>&lt;br/> 1. Kablolu kulaklığı takın veya Bluetooth kulaklığı bağlayın&lt;br/> 2. Ses Yükseltici'yi başlatın"</string>
+    <string name="sound_amplifier_intro">"Çevrenizdeki ve cihazınızdaki seslerin kalitesini iyileştirmek için kulaklıkla Ses Yükseltici'yi kullanın"</string>
+</resources>

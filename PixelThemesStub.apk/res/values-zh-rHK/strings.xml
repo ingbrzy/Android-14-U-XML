@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bundle1_color_name">炭灰色</string>
+    <string name="bundle2_color_name">紙張</string>
+    <string name="bundle3_color_name">太陽</string>
+    <string name="color_name_monochromatic">單色</string>
+    <string name="default_color_name">經典</string>
+    <string name="fruit1_color_name">黃色和紅色雙色調色盤</string>
+    <string name="fruit2_color_name">綠色和橙色雙色調色盤</string>
+    <string name="fruit3_color_name">藍色和綠色雙色調色盤</string>
+    <string name="fruit4_color_name">淺紫色和藍色雙色調色盤</string>
+    <string name="fruit5_color_name">粉紅色和靛藍色雙色調色盤</string>
+    <string name="rainbow1_color_name">紅色</string>
+    <string name="rainbow2_color_name">橙色</string>
+    <string name="rainbow3_color_name">黃色</string>
+    <string name="rainbow4_color_name">綠色</string>
+    <string name="rainbow5_color_name">藍色</string>
+    <string name="rainbow6_color_name">靛藍色</string>
+    <string name="rainbow7_color_name">紫羅蘭色</string>
+</resources>

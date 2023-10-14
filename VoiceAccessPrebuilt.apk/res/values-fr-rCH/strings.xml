@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="service_description_supported_languages">"Voice Access vous permet de contrôler votre appareil Android en mode mains libres. Utilisez les commandes vocales pour ouvrir des applications, appuyer sur des boutons, faire défiler l'écran, saisir du texte et bien plus encore. Actuellement disponible en allemand, anglais, espagnol, français, italien."</string>
+    <string name="service_summary">"Contrôler l'appareil à la voix"</string>
+    <string name="voice_access_htmlDescription">"Contrôlez votre appareil en mode mains libres en parlant à Voice Access. Essayez ces commandes :&lt;br> &lt;br> &lt;ul> &lt;li>Accueil &lt;li>Retour &lt;li>Afficher les notifications &lt;li>Appuyer sur OK &lt;li>Ouvrir Photos &lt;/ul> &lt;br> De nombreuses autres commandes sont disponibles. Lorsque Voice Access vous écoute, dites \"Que dire ?\" pour obtenir plus d'informations."</string>
+</resources>

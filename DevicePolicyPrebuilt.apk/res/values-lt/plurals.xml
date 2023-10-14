@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_install_failed_multi_app_desc">
+        <item quantity="other">Nepavyko užbaigti nustatymo proceso, nes nepavyko įdiegti %1$d būtinų programų. Susisiekite tiesiogiai su sistemos administratoriumi.</item>
+        <item quantity="one">Nepavyko užbaigti nustatymo proceso, nes nepavyko įdiegti %1$d būtinos programos. Susisiekite tiesiogiai su sistemos administratoriumi.</item>
+        <item quantity="few">Nepavyko užbaigti nustatymo proceso, nes nepavyko įdiegti %1$d būtinų programų. Susisiekite tiesiogiai su sistemos administratoriumi.</item>
+        <item quantity="many">Nepavyko užbaigti nustatymo proceso, nes nepavyko įdiegti %1$d būtinos programos. Susisiekite tiesiogiai su sistemos administratoriumi.</item>
+    </plurals>
+    <plurals name="app_install_failure_title">
+        <item quantity="other">Nepavyko įdiegti programų</item>
+        <item quantity="one">Nepavyko įdiegti programų</item>
+        <item quantity="few">Nepavyko įdiegti programų</item>
+        <item quantity="many">Nepavyko įdiegti programų</item>
+    </plurals>
+    <plurals name="app_install_progress_desc">
+        <item quantity="other">Įdiegta programų: %1$d iš %2$d</item>
+        <item quantity="one">Įdiegta programų: %1$d iš %2$d</item>
+        <item quantity="few">Įdiegta programų: %1$d iš %2$d</item>
+        <item quantity="many">Įdiegta programų: %1$d iš %2$d</item>
+    </plurals>
+    <plurals name="app_uninstall_button">
+        <item quantity="other">Pašalinti programas</item>
+        <item quantity="one">Pašalinti programas</item>
+        <item quantity="few">Pašalinti programas</item>
+        <item quantity="many">Pašalinti programas</item>
+    </plurals>
+    <plurals name="days_left_message">
+        <item quantity="other">Liko &lt;annotation id="numeric_time_left">^1&lt;/annotation> dienų</item>
+        <item quantity="one">Liko &lt;annotation id="numeric_time_left">^1&lt;/annotation> diena</item>
+        <item quantity="few">Liko &lt;annotation id="numeric_time_left">^1&lt;/annotation> dienos</item>
+        <item quantity="many">Liko &lt;annotation id="numeric_time_left">^1&lt;/annotation> dienos</item>
+    </plurals>
+    <plurals name="hours_left_message">
+        <item quantity="other">Liko &lt;annotation id="numeric_time_left">^1&lt;/annotation> valandų</item>
+        <item quantity="one">Liko &lt;annotation id="numeric_time_left">^1&lt;/annotation> valanda</item>
+        <item quantity="few">Liko &lt;annotation id="numeric_time_left">^1&lt;/annotation> valandos</item>
+        <item quantity="many">Liko &lt;annotation id="numeric_time_left">^1&lt;/annotation> valandos</item>
+    </plurals>
+    <plurals name="number_of_additional_apps">
+        <item quantity="other">%1$d papildomų programų</item>
+        <item quantity="one">%1$d papildoma programa</item>
+        <item quantity="few">%1$d papildomos programos</item>
+        <item quantity="many">%1$d papildomos programos</item>
+    </plurals>
+    <plurals name="number_of_required_apps">
+        <item quantity="other">%1$d būtinų programų</item>
+        <item quantity="one">%1$d būtina programa</item>
+        <item quantity="few">%1$d būtinos programos</item>
+        <item quantity="many">%1$d būtinos programos</item>
+    </plurals>
+    <plurals name="policy_apps_list_summary">
+        <item quantity="other">%d darbo programų negalima pašalinti</item>
+        <item quantity="one">%d darbo programos negalima pašalinti</item>
+        <item quantity="few">%d darbo programų negalima pašalinti</item>
+        <item quantity="many">%d darbo programos negalima pašalinti</item>
+    </plurals>
+    <plurals name="preinstalled_apps">
+        <item quantity="other">Įdiegta programų: %1$d iš %2$d</item>
+        <item quantity="one">Įdiegta programų: %1$d iš %2$d</item>
+        <item quantity="few">Įdiegta programų: %1$d iš %2$d</item>
+        <item quantity="many">Įdiegta programų: %1$d iš %2$d</item>
+    </plurals>
+    <plurals name="readable_name_applications">
+        <item quantity="other">Pasiekiama programų: %1$d (įdiegta: %2$d, išjungta: %3$d)</item>
+        <item quantity="one">Pasiekiama programų: %1$d (įdiegta: %2$d, išjungta: %3$d)</item>
+        <item quantity="few">Pasiekiama programų: %1$d (įdiegta: %2$d, išjungta: %3$d)</item>
+        <item quantity="many">Pasiekiama programų: %1$d (įdiegta: %2$d, išjungta: %3$d)</item>
+    </plurals>
+</resources>

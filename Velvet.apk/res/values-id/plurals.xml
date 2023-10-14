@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="peoplekit_chips_copied_recipients">
+        <item quantity="other">%d penerima disalin</item>
+        <item quantity="one">%d penerima disalin</item>
+    </plurals>
+    <plurals name="share_eta_button">
+        <item quantity="other">%d mnt</item>
+        <item quantity="one">%d mnt</item>
+    </plurals>
+    <plurals name="share_eta_message">
+        <item quantity="other">Tiba dalam sekitar %d menit.</item>
+        <item quantity="one">Tiba dalam %d menit.</item>
+    </plurals>
+    <plurals name="share_imminent_eta_message">
+        <item quantity="other">Tiba dalam %d menit.</item>
+        <item quantity="one">Tiba dalam %d menit.</item>
+    </plurals>
+</resources>

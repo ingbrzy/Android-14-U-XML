@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">सिम ऐप डायलॉग</string>
+    <string name="call_notification_answer_action">जवाब दें</string>
+    <string name="call_notification_answer_video_action">वीडियो</string>
+    <string name="call_notification_decline_action">अस्वीकार करें</string>
+    <string name="call_notification_hang_up_action">कॉल काटें</string>
+    <string name="call_notification_incoming_text">आने वाला (इनकमिंग) कॉल</string>
+    <string name="call_notification_ongoing_text">पहले से जारी कॉल</string>
+    <string name="call_notification_screening_text">इनकमिंग कॉल को स्क्रीन किया जा रहा है</string>
+    <string name="install_carrier_app_defer_action">अभी नहीं</string>
+    <string name="install_carrier_app_description">नया सिम ठीक से काम करे, इसके लिए आपको %1$s ऐप्लिकेशन इंस्टॉल करना होगा</string>
+    <string name="install_carrier_app_description_default">नया सिम ठीक से काम करे, इसके लिए आपको मोबाइल और इंटरनेट सेवा देने वाली कंपनी का ऐप डाउनलोड करना होगा</string>
+    <string name="install_carrier_app_download_action">ऐप्लिकेशन डाउनलोड करें</string>
+    <string name="install_carrier_app_title">माेबाइल सेवा चालू करें</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="suw_back_button_label">पीछे</string>
+    <string name="suw_more_button_label">ज़्यादा</string>
+    <string name="suw_next_button_label">आगे बढ़ें</string>
+</resources>

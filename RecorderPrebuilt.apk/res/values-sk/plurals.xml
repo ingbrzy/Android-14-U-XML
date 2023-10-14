@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dlg_message_deletion_confirmation">
+        <item quantity="other">Vaše nahrávky budú natrvalo odstránené. Túto akciu nie je možné vrátiť späť.</item>
+        <item quantity="one">Vaša nahrávka bude natrvalo odstránená. Túto akciu nie je možné vrátiť späť.</item>
+        <item quantity="few">Vaše nahrávky budú natrvalo odstránené. Túto akciu nie je možné vrátiť späť.</item>
+        <item quantity="many">Vaše nahrávky budú natrvalo odstránené. Túto akciu nie je možné vrátiť späť.</item>
+    </plurals>
+    <plurals name="dlg_message_deletion_permanent_confirmation">
+        <item quantity="other">Nahrávky nie sú zálohované. Budú natrvalo odstránené. Túto akciu nie je možné vrátiť späť.</item>
+        <item quantity="one">Nahrávka nie je zálohovaná. Bude natrvalo odstránená. Túto akciu nie je možné vrátiť späť.</item>
+        <item quantity="few">Nahrávky nie sú zálohované. Budú natrvalo odstránené. Túto akciu nie je možné vrátiť späť.</item>
+        <item quantity="many">Recordings are not backed up. These will be permanently deleted. You can’t undo this action.</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_confirmation">
+        <item quantity="other">Chcete odstrániť nahrávky?</item>
+        <item quantity="one">Chcete odstrániť nahrávku?</item>
+        <item quantity="few">Chcete odstrániť nahrávky?</item>
+        <item quantity="many">Chcete odstrániť nahrávky?</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_permanent_confirmation">
+        <item quantity="other">Chcete tieto nahrávky natrvalo odstrániť?</item>
+        <item quantity="one">Chcete túto nahrávku natrvalo odstrániť?</item>
+        <item quantity="few">Chcete tieto nahrávky natrvalo odstrániť?</item>
+        <item quantity="many">Permanently delete these recordings?</item>
+    </plurals>
+    <plurals name="download_failure_description_storage_full">
+        <item quantity="other">Nahrávky sa nedajú stiahnuť, pretože priestor v zariadení je plný. Skontrolujte to klepnutím.</item>
+        <item quantity="one">Priestor v zariadení je plný. Skontrolujte to klepnutím.</item>
+        <item quantity="few">Nahrávky sa nedajú stiahnuť, pretože priestor v zariadení je plný. Skontrolujte to klepnutím.</item>
+        <item quantity="many">Nahrávky sa nedajú stiahnuť, pretože priestor v zariadení je plný. Skontrolujte to klepnutím.</item>
+    </plurals>
+    <plurals name="downloading_description">
+        <item quantity="other">Sťahuje sa %1$d nahrávok</item>
+        <item quantity="one">Sťahuje sa %1$d nahrávka</item>
+        <item quantity="few">Sťahujú sa %1$d nahrávky</item>
+        <item quantity="many">Downloading %1$d recordings</item>
+    </plurals>
+    <plurals name="og_backup_failed_title">
+        <item quantity="other">%1$d položiek sa nepodarilo zálohovať</item>
+        <item quantity="one">%1$d položku sa nepodarilo zálohovať</item>
+        <item quantity="few">%1$d položky sa nepodarilo zálohovať</item>
+        <item quantity="many">%1$d items failed to back up</item>
+    </plurals>
+    <plurals name="og_backup_items_left">
+        <item quantity="other">Zostáva %1$d položiek</item>
+        <item quantity="one">Zostáva %1$d položka</item>
+        <item quantity="few">Zostávajú %1$d položky</item>
+        <item quantity="many">%1$d items left</item>
+    </plurals>
+    <plurals name="og_backup_items_stopped_title">
+        <item quantity="other">%1$d položiek nebolo zálohovaných</item>
+        <item quantity="one">%1$d položka nebola zálohovaná</item>
+        <item quantity="few">%1$d položky neboli zálohované</item>
+        <item quantity="many">%1$d items not backed up</item>
+    </plurals>
+    <plurals name="peoplekit_chips_copied_recipients">
+        <item quantity="other">%d príjemcov bolo skopírovaných</item>
+        <item quantity="one">%d príjemca bol skopírovaný</item>
+        <item quantity="few">%d príjemcovia boli skopírovaní</item>
+        <item quantity="many">Copied %d recipients</item>
+    </plurals>
+    <plurals name="search_results_count">
+        <item quantity="other">%1$d výsledkov</item>
+        <item quantity="one">%1$d výsledok</item>
+        <item quantity="few">%1$d výsledky</item>
+        <item quantity="many">%1$d results</item>
+    </plurals>
+    <plurals name="search_results_position">
+        <item quantity="other">^1. z ^2 výsledkov</item>
+        <item quantity="one">^1. z ^2 výsledku</item>
+        <item quantity="few">^1. z ^2 výsledkov</item>
+        <item quantity="many">^1/^2 results</item>
+    </plurals>
+    <plurals name="search_results_position_content_description">
+        <item quantity="other">%1$d z %2$d výsledkov</item>
+        <item quantity="one">%1$d z %2$d výsledku</item>
+        <item quantity="few">%1$d z %2$d výsledkov</item>
+        <item quantity="many">%1$d of %2$d results</item>
+    </plurals>
+    <plurals name="selected_recording_quantity">
+        <item quantity="other">%1$d vybraných</item>
+        <item quantity="one">%1$d vybraná</item>
+        <item quantity="few">%1$d vybrané</item>
+        <item quantity="many">%1$d selected</item>
+    </plurals>
+    <plurals name="snackbar_message_download_failed_storage_full">
+        <item quantity="other">Priestor zariadenia je plný. Nahrávky sa nedajú stiahnuť.</item>
+        <item quantity="one">Priestor zariadenia je plný. Nahrávka sa nedá stiahnuť.</item>
+        <item quantity="few">Priestor zariadenia je plný. Nahrávky sa nedajú stiahnuť.</item>
+        <item quantity="many">Priestor zariadenia je plný. Nahrávky sa nedajú stiahnuť.</item>
+    </plurals>
+    <plurals name="speaker_count">
+        <item quantity="other">%1$d reproduktorov</item>
+        <item quantity="one">%1$d reproduktor</item>
+        <item quantity="few">%1$d reproduktory</item>
+        <item quantity="many">%1$d speakers</item>
+    </plurals>
+    <plurals name="uploading_description">
+        <item quantity="other">Nahráva sa %1$d nahrávok</item>
+        <item quantity="one">Nahráva sa %1$d nahrávka</item>
+        <item quantity="few">Nahrávajú sa %1$d nahrávky</item>
+        <item quantity="many">Uploading %1$d recordings</item>
+    </plurals>
+</resources>

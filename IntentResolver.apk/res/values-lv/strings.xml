@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Pārvietoties uz sākuma ekrānu</string>
+    <string name="abc_action_bar_up_description">Pārvietoties uz augšu</string>
+    <string name="abc_action_menu_overflow_description">Citas opcijas</string>
+    <string name="abc_action_mode_done">Gatavs</string>
+    <string name="abc_activity_chooser_view_see_all">Skatīt visu</string>
+    <string name="abc_activitychooserview_choose_application">Izvēlieties lietotni</string>
+    <string name="abc_capital_off">IZSLĒGT</string>
+    <string name="abc_capital_on">IESLĒGT</string>
+    <string name="abc_menu_alt_shortcut_label">Alternēšanas taustiņš +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Vadīšanas taustiņš +</string>
+    <string name="abc_menu_delete_shortcut_label">dzēšanas taustiņš</string>
+    <string name="abc_menu_enter_shortcut_label">ievadīšanas taustiņš</string>
+    <string name="abc_menu_function_shortcut_label">Funkcijas taustiņš +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta taustiņš +</string>
+    <string name="abc_menu_shift_shortcut_label">Pārslēgšanas taustiņš +</string>
+    <string name="abc_menu_space_shortcut_label">atstarpes taustiņš</string>
+    <string name="abc_menu_sym_shortcut_label">Simbolu taustiņš +</string>
+    <string name="abc_prepend_shortcut_label">Poga Izvēlne +</string>
+    <string name="abc_search_hint">Meklējiet…</string>
+    <string name="abc_searchview_description_clear">Notīrīt vaicājumu</string>
+    <string name="abc_searchview_description_query">Meklēšanas vaicājums</string>
+    <string name="abc_searchview_description_search">Meklēt</string>
+    <string name="abc_searchview_description_submit">Iesniegt vaicājumu</string>
+    <string name="abc_searchview_description_voice">Meklēt ar balsi</string>
+    <string name="abc_shareactionprovider_share_with">Kopīgot ar:</string>
+    <string name="abc_shareactionprovider_share_with_application">Kopīgot ar lietojumprogrammu %s</string>
+    <string name="abc_toolbar_collapse_description">Sakļaut</string>
+    <string name="activity_resolver_use_always">Vienmēr</string>
+    <string name="activity_resolver_use_once">Tikai vienreiz</string>
+    <string name="activity_resolver_work_profiles_support">%1$s neatbalsta darba profilu</string>
+    <string name="call_notification_answer_action">Atbildēt</string>
+    <string name="call_notification_answer_video_action">Video</string>
+    <string name="call_notification_decline_action">Noraidīt</string>
+    <string name="call_notification_hang_up_action">Pārtraukt</string>
+    <string name="call_notification_incoming_text">Ienākošais zvans</string>
+    <string name="call_notification_ongoing_text">Pašreizējais zvans</string>
+    <string name="call_notification_screening_text">Ienākošā zvana filtrēšana</string>
+    <string name="chooseActivity">Darbības izvēle</string>
+    <string name="chooser_no_direct_share_targets">Nav ieteikta neviena persona, ar ko kopīgot</string>
+    <string name="exclude_link">Izslēgt saiti</string>
+    <string name="exclude_text">Izslēgt tekstu</string>
+    <string name="file_preview_a11y_description">Faila priekšskatījuma sīktēls</string>
+    <string name="forward_intent_to_owner">Šo lietotni izmantojat ārpus sava darba profila</string>
+    <string name="forward_intent_to_work">Jūs izmantojat šo lietotni no sava darba profila.</string>
+    <string name="image_preview_a11y_description">Attēla priekšskatījuma sīktēls</string>
+    <string name="include_link">Iekļaut saiti</string>
+    <string name="include_text">Iekļaut tekstu</string>
+    <string name="miniresolver_open_in_personal">Vai atvērt lietotni %s jūsu personīgajā profilā?</string>
+    <string name="miniresolver_open_in_work">Vai atvērt lietotni %s jūsu darba profilā?</string>
+    <string name="miniresolver_use_personal_browser">Izmantot personīgo pārlūku</string>
+    <string name="miniresolver_use_work_browser">Izmantot darba pārlūku</string>
+    <string name="more_files">{count,plural, =1{Un vēl # fails}zero{Un vēl # failu}one{Un vēl # fails}other{Un vēl # faili}}</string>
+    <string name="noApplications">Šo darbību nevar veikt neviena lietotne.</string>
+    <string name="other_files">{count,plural, =1{un vēl # fails}zero{un vēl # faili}one{un vēl # fails}other{un vēl # faili}}</string>
+    <string name="pin_specific_target">Piespraust lietotni %1$s</string>
+    <string name="resolver_cant_access_personal_apps_explanation">Šo saturu nevar atvērt personīgajās lietotnēs</string>
+    <string name="resolver_cant_access_work_apps_explanation">Šo saturu nevar atvērt darba lietotnēs</string>
+    <string name="resolver_cant_share_with_personal_apps_explanation">Šo saturu nevar kopīgot ar personīgajām lietotnēm</string>
+    <string name="resolver_cant_share_with_work_apps_explanation">Šo saturu nevar kopīgot ar darba lietotnēm</string>
+    <string name="resolver_cross_profile_blocked">Bloķējis jūsu IT administrators</string>
+    <string name="resolver_no_personal_apps_available">Nav personīgu lietotņu</string>
+    <string name="resolver_no_work_apps_available">Nav darba lietotņu</string>
+    <string name="resolver_personal_tab">Privātais profils</string>
+    <string name="resolver_personal_tab_accessibility">Personisks skats</string>
+    <string name="resolver_switch_on_work">Aktivizēt</string>
+    <string name="resolver_turn_on_work_apps">Darba lietotnes ir apturētas.</string>
+    <string name="resolver_work_tab">Darba profils</string>
+    <string name="resolver_work_tab_accessibility">Darba skats</string>
+    <string name="screenshot_edit">Rediģēt</string>
+    <string name="search_menu_title">Meklēt</string>
+    <string name="sharing_files">{count,plural, =1{Notiek # faila kopīgošana}zero{Notiek # failu kopīgošana}one{Notiek # faila kopīgošana}other{Notiek # failu kopīgošana}}</string>
+    <string name="sharing_files_only">{count,plural, =1{Tikai fails}zero{Tikai faili}one{Tikai faili}other{Tikai faili}}</string>
+    <string name="sharing_files_with_link">{count,plural, =1{Tiek kopīgots fails ar saiti}zero{Tiek kopīgoti # faili ar saitēm}one{Tiek kopīgots # fails ar saitēm}other{Tiek kopīgoti # faili ar saitēm}}</string>
+    <string name="sharing_files_with_text">{count,plural, =1{Tiek kopīgots fails ar tekstu}zero{Tiek kopīgoti # faili ar tekstu}one{Tiek kopīgots # fails ar tekstu}other{Tiek kopīgoti # faili ar tekstu}}</string>
+    <string name="sharing_images">{count,plural, =1{Tiek kopīgots attēls}zero{Tiek kopīgoti # attēli}one{Tiek kopīgots # attēls}other{Tiek kopīgoti # attēli}}</string>
+    <string name="sharing_images_only">{count,plural, =1{Tikai attēls}zero{Tikai attēli}one{Tikai attēli}other{Tikai attēli}}</string>
+    <string name="sharing_images_with_link">{count,plural, =1{Tiek kopīgots attēls ar saiti}zero{Tiek kopīgoti # attēli ar saitēm}one{Tiek kopīgots # attēls ar saitēm}other{Tiek kopīgoti # attēli ar saitēm}}</string>
+    <string name="sharing_images_with_text">{count,plural, =1{Tiek kopīgots attēls ar tekstu}zero{Tiek kopīgoti # attēli ar tekstu}one{Tiek kopīgots # attēls ar tekstu}other{Tiek kopīgoti # attēli ar tekstu}}</string>
+    <string name="sharing_link">Tiek kopīgota saite</string>
+    <string name="sharing_text">Tiek kopīgots teksts</string>
+    <string name="sharing_videos">{count,plural, =1{Tiek kopīgots video}zero{Tiek kopīgoti # video}one{Tiek kopīgots # video}other{Tiek kopīgoti # video}}</string>
+    <string name="sharing_videos_only">{count,plural, =1{Tikai videoklips}zero{Tikai videoklipi}one{Tikai videoklipi}other{Tikai videoklipi}}</string>
+    <string name="sharing_videos_with_link">{count,plural, =1{Tiek kopīgots videoklips ar saiti}zero{Tiek kopīgoti # videoklipi ar saitēm}one{Tiek kopīgots # videoklips ar saitēm}other{Tiek kopīgoti # videoklipi ar saitēm}}</string>
+    <string name="sharing_videos_with_text">{count,plural, =1{Tiek kopīgots videoklips ar tekstu}zero{Tiek kopīgoti # videoklipi ar tekstu}one{Tiek kopīgots # videoklips ar tekstu}other{Tiek kopīgoti # videoklipi ar tekstu}}</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="unpin_specific_target">Atspraust lietotni %1$s</string>
+    <string name="usb_device_resolve_prompt_warn">Šai lietotnei nav piešķirta ierakstīšanas atļauja, taču tā varētu tvert audio, izmantojot šo USB ierīci.</string>
+    <string name="use_a_different_app">Izmantot citu lietotni</string>
+    <string name="video_preview_a11y_description">Videoklipa priekšskatījuma sīktēls</string>
+    <string name="whichApplication">Izvēlieties lietotni</string>
+    <string name="whichApplicationLabel">Pabeigt darbību</string>
+    <string name="whichApplicationNamed">Darbības pabeigšana, izmantojot lietotni %1$s</string>
+    <string name="whichEditApplication">Rediģēt, izmantojot</string>
+    <string name="whichEditApplicationLabel">Rediģēt</string>
+    <string name="whichEditApplicationNamed">Rediģēšana lietotnē %1$s</string>
+    <string name="whichGiveAccessToApplicationLabel">Atļaut piekļuvi</string>
+    <string name="whichHomeApplication">Sākuma lietotnes atlase</string>
+    <string name="whichHomeApplicationLabel">Uzņemt attēlu</string>
+    <string name="whichHomeApplicationNamed">%1$s kā sākuma lietotnes izmantošana</string>
+    <string name="whichImageCaptureApplication">Attēla uzņemšana, izmantojot lietotni</string>
+    <string name="whichImageCaptureApplicationLabel">Uzņemt attēlu</string>
+    <string name="whichImageCaptureApplicationNamed">Attēla uzņemšana, izmantojot lietotni %1$s</string>
+    <string name="whichOpenHostLinksWith">%1$s saišu atvēršana, izmantojot:</string>
+    <string name="whichOpenHostLinksWithApp">%1$s saišu atvēršana, izmantojot pārlūku %2$s</string>
+    <string name="whichOpenLinksWith">Saišu atvēršana, izmantojot:</string>
+    <string name="whichOpenLinksWithApp">Saišu atvēršana, izmantojot pārlūku %1$s</string>
+    <string name="whichSendApplication">Kopīgot</string>
+    <string name="whichSendApplicationLabel">Kopīgot</string>
+    <string name="whichSendApplicationNamed">Kopīgošana, izmantojot lietotni %1$s</string>
+    <string name="whichSendToApplication">Sūtīšana, izmantojot...</string>
+    <string name="whichSendToApplicationLabel">Sūtīt</string>
+    <string name="whichSendToApplicationNamed">Sūtīšana, izmantojot lietotni %1$s</string>
+    <string name="whichViewApplication">Atvērt, izmantojot</string>
+    <string name="whichViewApplicationLabel">Atvērt</string>
+    <string name="whichViewApplicationNamed">Atvēršana lietotnē %1$s</string>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="heads_up_location_permission_description">Kjo i lejon \"Paralajmërimit\" të dijë kur ndodhesh jashtë në natyrë. Në dy ekranet e tjera të radhës, zgjidh <b>Gjatë përdorimit të aplikacionit > Lejo gjithmonë</b>.</string>
+    <string name="wind_down_discovery_notification_text">{DEVICE_TYPE,select, DEVICE_PHONE{Përdor modalitetin \"Orari i gjumit\" për ta vendosur telefonin në heshtje dhe për ta mbajtur ekranin të errët në orarin e gjumit}DEVICE_TABLET{Përdor modalitetin \"Orari i gjumit\" për ta vendosur tabletin në heshtje dhe për ta mbajtur ekranin të errët në orarin e gjumit}other{Përdor modalitetin \"Orari i gjumit\" për ta vendosur pajisjen në heshtje dhe për ta mbajtur ekranin të errët në orarin e gjumit}}</string>
+</resources>

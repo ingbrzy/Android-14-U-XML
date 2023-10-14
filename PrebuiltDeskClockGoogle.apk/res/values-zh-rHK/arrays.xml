@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_set">
+        <item>鬧鐘設定在 1 分鐘內響起。</item>
+        <item>鬧鐘設定在 %1$s後響起。</item>
+        <item>鬧鐘設定在 %2$s後響起。</item>
+        <item>鬧鐘設定在 %1$s %2$s後響起。</item>
+        <item>鬧鐘設定在 %3$s後響起。</item>
+        <item>鬧鐘設定在 %1$s %3$s後響起。</item>
+        <item>鬧鐘設定在 %2$s %3$s後響起。</item>
+        <item>鬧鐘設定在 %1$s %2$s %3$s後響起。</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>1 分鐘</item>
+        <item>5 分鐘</item>
+        <item>10 分鐘</item>
+        <item>15 分鐘</item>
+        <item>20 分鐘</item>
+        <item>25 分鐘</item>
+        <item>@string/auto_silence_entry_never</item>
+    </string-array>
+    <string-array name="bedtime_reminder_entries">
+        <item>睡眠時間前 15 分鐘</item>
+        <item>睡眠時間前 30 分鐘</item>
+        <item>睡眠時間前 45 分鐘</item>
+        <item>睡眠時間前 1 小時</item>
+        <item>關閉</item>
+    </string-array>
+    <string-array name="clock_style_entries">
+        <item>指針</item>
+        <item>數碼</item>
+    </string-array>
+    <string-array name="crescendo_entries">
+        <item>@string/crescendo_entry_never</item>
+        <item>5 秒</item>
+        <item>10 秒</item>
+        <item>15 秒</item>
+        <item>20 秒</item>
+        <item>25 秒</item>
+        <item>30 秒</item>
+        <item>35 秒</item>
+        <item>40 秒</item>
+        <item>45 秒</item>
+        <item>50 秒</item>
+        <item>55 秒</item>
+        <item>60 秒</item>
+    </string-array>
+    <string-array name="sleep_duration">
+        <item>%2$s</item>
+        <item>%1$s</item>
+        <item>%1$s %2$s</item>
+    </string-array>
+    <string-array name="sleep_sound_length_content_descriptions">
+        <item>10 分鐘後停止</item>
+        <item>20 分鐘後停止</item>
+        <item>30 分鐘後停止</item>
+        <item>40 分鐘後停止</item>
+        <item>50 分鐘後停止</item>
+        <item>在 1 小時後停止</item>
+    </string-array>
+    <string-array name="sleep_sound_length_descriptions">
+        <item>10 分鐘後停止</item>
+        <item>20 分鐘後停止</item>
+        <item>30 分鐘後停止</item>
+        <item>40 分鐘後停止</item>
+        <item>50 分鐘後停止</item>
+        <item>在 1 小時後停止</item>
+    </string-array>
+    <string-array name="sleep_sound_length_entries">
+        <item>10 分鐘</item>
+        <item>20 分鐘</item>
+        <item>30 分鐘</item>
+        <item>40 分鐘</item>
+        <item>50 分鐘</item>
+        <item>1 小時</item>
+    </string-array>
+    <string-array name="snooze_duration_entries">
+        <item>1 分鐘</item>
+        <item>2 分鐘</item>
+        <item>3 分鐘</item>
+        <item>4 分鐘</item>
+        <item>5 分鐘</item>
+        <item>6 分鐘</item>
+        <item>7 分鐘</item>
+        <item>8 分鐘</item>
+        <item>9 分鐘</item>
+        <item>10 分鐘</item>
+        <item>11 分鐘</item>
+        <item>12 分鐘</item>
+        <item>13 分鐘</item>
+        <item>14 分鐘</item>
+        <item>15 分鐘</item>
+        <item>16 分鐘</item>
+        <item>17 分鐘</item>
+        <item>18 分鐘</item>
+        <item>19 分鐘</item>
+        <item>20 分鐘</item>
+        <item>21 分鐘</item>
+        <item>22 分鐘</item>
+        <item>23 分鐘</item>
+        <item>24 分鐘</item>
+        <item>25 分鐘</item>
+        <item>26 分鐘</item>
+        <item>27 分鐘</item>
+        <item>28 分鐘</item>
+        <item>29 分鐘</item>
+        <item>30 分鐘</item>
+    </string-array>
+    <string-array name="timer_duration">
+        <item>計時器</item>
+        <item>%3$s 的計時器</item>
+        <item>%2$s 的計時器</item>
+        <item>%2$s %3$s 的計時器</item>
+        <item>%1$s 的計時器</item>
+        <item>%1$s %3$s 的計時器</item>
+        <item>%1$s %2$s 的計時器</item>
+        <item>%1$s %2$s %3$s 的計時器</item>
+    </string-array>
+    <string-array name="timer_duration_short">
+        <item>計時器</item>
+        <item>%3$s 秒計時器</item>
+        <item>%2$s 分鐘計時器</item>
+        <item>%2$s 分鐘 %3$s 秒計時器</item>
+        <item>%1$s 小時計時器</item>
+        <item>%1$s 小時 %3$s 秒計時器</item>
+        <item>%1$s 小時 %2$s 分鐘計時器</item>
+        <item>%1$s 小時 %2$s 分鐘 %3$s 秒計時器</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>馬紹爾群島</item>
+        <item>中途島</item>
+        <item>夏威夷</item>
+        <item>阿拉斯加</item>
+        <item>太平洋時間</item>
+        <item>蒂華納</item>
+        <item>亞利桑那</item>
+        <item>奇瓦瓦</item>
+        <item>山區時間</item>
+        <item>中美洲</item>
+        <item>中部時間</item>
+        <item>墨西哥城</item>
+        <item>薩斯喀徹溫</item>
+        <item>波哥大</item>
+        <item>東部時間</item>
+        <item>委內瑞拉</item>
+        <item>大西洋時間 (巴巴多斯)</item>
+        <item>大西洋時間 (加拿大)</item>
+        <item>馬瑙斯</item>
+        <item>聖地牙哥</item>
+        <item>紐芬蘭</item>
+        <item>巴西利亞</item>
+        <item>布宜諾斯艾利斯</item>
+        <item>格陵蘭</item>
+        <item>蒙得維的亞</item>
+        <item>大西洋中部</item>
+        <item>亞速爾</item>
+        <item>佛得角群島</item>
+        <item>卡薩布蘭卡</item>
+        <item>倫敦、都柏林</item>
+        <item>阿姆斯特丹、柏林</item>
+        <item>貝爾格萊德</item>
+        <item>布魯塞爾</item>
+        <item>薩拉熱窩</item>
+        <item>溫得和克</item>
+        <item>非洲西部時間</item>
+        <item>約旦安曼</item>
+        <item>雅典、伊斯坦布爾</item>
+        <item>黎巴嫩貝魯特</item>
+        <item>開羅</item>
+        <item>赫爾辛基</item>
+        <item>耶路撒冷</item>
+        <item>明斯克</item>
+        <item>哈拉雷</item>
+        <item>巴格達</item>
+        <item>莫斯科</item>
+        <item>科威特</item>
+        <item>奈羅比</item>
+        <item>德黑蘭</item>
+        <item>巴庫</item>
+        <item>第比利斯</item>
+        <item>埃里溫</item>
+        <item>杜拜</item>
+        <item>喀布爾</item>
+        <item>伊斯蘭堡、卡拉奇</item>
+        <item>烏拉爾</item>
+        <item>葉卡特琳堡</item>
+        <item>加爾各答</item>
+        <item>斯里蘭卡</item>
+        <item>加德滿都</item>
+        <item>阿斯塔納</item>
+        <item>仰光</item>
+        <item>克拉斯諾亞爾斯克</item>
+        <item>曼谷</item>
+        <item>北京</item>
+        <item>香港</item>
+        <item>伊爾庫茨克</item>
+        <item>吉隆坡</item>
+        <item>珀斯</item>
+        <item>台北</item>
+        <item>首爾</item>
+        <item>東京、大阪</item>
+        <item>雅庫茨克</item>
+        <item>阿德萊德</item>
+        <item>達爾文</item>
+        <item>布里斯本</item>
+        <item>霍巴特</item>
+        <item>悉尼、坎培拉</item>
+        <item>海參崴</item>
+        <item>關島</item>
+        <item>馬加丹</item>
+        <item>奧克蘭</item>
+        <item>斐濟</item>
+        <item>湯加</item>
+        <item>雅加達</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>@string/alarm_alert_snooze_text</item>
+        <item>停止</item>
+        <item>控制音量</item>
+        <item>不執行任何操作</item>
+    </string-array>
+    <string-array name="wakeup_alarm_description">
+        <item>鬧鐘將於 1 分鐘內響起</item>
+        <item>鬧鐘將於 %1$s 天後響起</item>
+        <item>鬧鐘將於 %2$s 小時後響起</item>
+        <item>鬧鐘將於 %1$s 天 %2$s 小時後響起</item>
+        <item>鬧鐘將於 %3$s 分鐘後響起</item>
+        <item>鬧鐘將於 %1$s 天 %3$s 分鐘後響起</item>
+        <item>鬧鐘將於 %2$s 小時 %3$s 分鐘後響起</item>
+        <item>鬧鐘將於 %1$s 天 %2$s 小時 %3$s 分鐘後響起</item>
+    </string-array>
+    <string-array name="week_start_entries">
+        <item>星期五</item>
+        <item>星期六</item>
+        <item>星期日</item>
+        <item>星期一</item>
+    </string-array>
+</resources>

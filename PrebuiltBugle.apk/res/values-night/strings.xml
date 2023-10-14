@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_chat_app_gm3_json">default_chat_animation_gm3_dark.json</string>
+    <string name="rcs_tos_animation_json">rcs_tos_animation_dark.json</string>
+    <string name="smarts_animation_json">smarts_animation_dark.json</string>
+    <string name="spam_animation_json">spam_animation_dark.json</string>
+    <string name="switcher_json">switcher_animation_dark.json</string>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dots">
+        <item quantity="other">punten %s</item>
+        <item quantity="one">punt %s</item>
+    </plurals>
+    <plurals name="gestures_recorded_message">
+        <item quantity="other">%d gebaren opgenomen</item>
+        <item quantity="one">1 gebaar opgenomen</item>
+    </plurals>
+    <plurals name="label_num_keys_assigned_format">
+        <item quantity="other">%d schakelaars toegewezen</item>
+        <item quantity="one">%d schakelaar toegewezen</item>
+    </plurals>
+    <plurals name="label_num_scanning_loops_format">
+        <item quantity="other">%d lussen</item>
+        <item quantity="one">%d lus</item>
+    </plurals>
+    <plurals name="line_speed_summary_format">
+        <item quantity="other">%.2f cm per seconde</item>
+        <item quantity="one">1 cm per seconde</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nieuwe meldingen</item>
+        <item quantity="one">%d nieuwe melding</item>
+    </plurals>
+    <plurals name="time_delay_summary_format">
+        <item quantity="other">%.2f seconden</item>
+        <item quantity="one">1 seconde</item>
+    </plurals>
+</resources>

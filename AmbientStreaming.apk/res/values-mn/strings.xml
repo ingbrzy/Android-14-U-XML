@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Төхөөрөмж хоорондын үйлчилгээ</string>
+    <string name="app_name_generic">апп</string>
+    <string name="app_stream_error_generic">Аппыг хуваалцах үед алдаа гарлаа</string>
+    <string name="app_stream_init_error_generic">Таны Chromebook-тэй апп хуваалцаж чадсангүй</string>
+    <string name="audio_permission_rationale">Апп хуваалцахад микрофоны зөвшөөрлийг идэвхгүй болгосон</string>
+    <string name="cancel_button_label">Цуцлах</string>
+    <string name="chromebook_keyboard">Chromebook-н гар</string>
+    <string name="chromebook_mouse">Chromebook-н хулгана</string>
+    <string name="chromebook_touchscreen">Chromebook-н мэдрэмтгий дэлгэц</string>
+    <string name="connect_device">Таны утсыг алсын төхөөрөмжтэй холбож байна: %1$s</string>
+    <string name="decline_button_label">Татгалзах</string>
+    <string name="development_notification_channel_name">Хөгжүүлэлт</string>
+    <string name="device_camera_cannot_access">Энэ Chromebook-с төхөөрөмжийн камерт хандах боломжгүй</string>
+    <string name="done_button_label">Болсон</string>
+    <string name="enable_button_label">Идэвхжүүлэх</string>
+    <string name="foreground_service_notification_channel_name">Ерөнхий</string>
+    <string name="foreground_service_notification_content">Тохиргоог өөрчлөхийн тулд товшино уу</string>
+    <string name="foreground_service_notification_title">{0,plural, =1{# төхөөрөмжид холбогдсон}other{# төхөөрөмжид холбогдсон}}</string>
+    <string name="interactive_streaming_generic_notification">Таны Chromebook-д %1$s-г дамжуулж, мэдэгдлийг синк хийж байна</string>
+    <string name="interactive_streaming_individual_notification">%1$s-г дамжуулж, %2$s-д мэдэгдлийг синк хийж байна</string>
+    <string name="interactive_streaming_notification">Таны Chromebook-д дамжуулж байна</string>
+    <string name="keyboard_name">Төхөөрөмж хоорондын гар</string>
+    <string name="lock_screen_notif_warning_content">Түгжигдсэн дэлгэц дээр мэдэгдэл идэвхжүүлэх</string>
+    <string name="lock_screen_notif_warning_title">Мэдэгдлийг дамжуулахгүй</string>
+    <string name="mouse_name">Төхөөрөмж хоорондын хулгана</string>
+    <string name="new_connection_confirm">Баталгаажуулах</string>
+    <string name="new_connection_deny">Татгалзах</string>
+    <string name="new_connection_title">Стрингийн тохирлыг баталгаажуул</string>
+    <string name="notification_access_missing">Мэдэгдлийн хандалт шаардлагатай</string>
+    <string name="notification_access_missing_description">Та Chromebook дээрээ мэдэгдлүүдийг нээхийн тулд Мэдэгдлийн хандалтыг асаана уу</string>
+    <string name="notification_channel_name">Ерөнхий</string>
+    <string name="notification_listener_label">Chromebook-тэйгээ аппууд хуваалцах</string>
+    <string name="open_source_licenses">Нээлттэй эхийн лиценз</string>
+    <string name="phone_permission_rationale">Апп хуваалцахад утасны дуудлагын зөвшөөрлийг идэвхгүй болгосон</string>
+    <string name="prompt_switch_languages">Утасныхаа Gboard-н хэлийг солихын тулд shift + зай авах товчлуур дээр дарна уу</string>
+    <string name="settings_button">Тохиргоо</string>
+    <string name="stop_sharing_button">Дамжуулалтыг дуусгах</string>
+    <string name="stream_termination_proximity_warning">Таны утас хэтэрхий хол байна. Үргэлжлүүлэн дамжуулахын тулд үүнийг ойртуулна уу.</string>
+    <string name="substitute_app_name">Систем</string>
+    <string name="summary_disable_wirecutter">Унтраалттай</string>
+    <string name="summary_enable_wirecutter">Асаалттай</string>
+    <string name="touchscreen_name">Төхөөрөмж хоорондын мэдрэмтгий дэлгэц</string>
+</resources>

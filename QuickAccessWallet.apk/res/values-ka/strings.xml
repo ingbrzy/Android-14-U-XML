@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_menu">მენიუ</string>
+    <string name="call_notification_answer_action">პასუხი</string>
+    <string name="call_notification_answer_video_action">ვიდეო</string>
+    <string name="call_notification_decline_action">უარყოფა</string>
+    <string name="call_notification_hang_up_action">გათიშვა</string>
+    <string name="call_notification_incoming_text">შემომავალი ზარი</string>
+    <string name="call_notification_ongoing_text">მიმდინარე ზარი</string>
+    <string name="call_notification_screening_text">შემომავალი ზარების გაცხრილვა</string>
+    <string name="error_generic">თქვენი ბარათების მიღებისას პრობლემა წარმოიქმნა. გთხოვთ, ხელახლა ცადოთ მოგვიანებით</string>
+    <string name="error_user_locked">განბლოკეთ ტელეფონი გადახდის ინფორმაციის ჩასატვირთად</string>
+    <string name="settings">პარამეტრები</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

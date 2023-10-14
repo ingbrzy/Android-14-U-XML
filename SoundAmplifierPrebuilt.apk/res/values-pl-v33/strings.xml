@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sound_amplifier_html_description">Wzmacniacz dźwięku zwiększa głośność cichych dźwięków, nie wzmacniając przy tym tych, które już są wyraźne.&lt;br/>&lt;br/> &lt;b>Jak używać wzmacniacza dźwięku&lt;/b>&lt;br/> 1. Podłącz słuchawki przewodowe lub słuchawki Bluetooth&lt;br/> 2. Uruchom wzmacniacz dźwięku</string>
+    <string name="sound_amplifier_intro">Używaj wzmacniacza dźwięku ze słuchawkami, aby lepiej słyszeć dźwięki otoczenia na urządzeniu</string>
+</resources>

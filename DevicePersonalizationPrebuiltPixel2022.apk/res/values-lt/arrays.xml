@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="call_captions_typing_predictions_post_system_message">
+        <item>Sveiki, kas tai?</item>
+        <item>Sveiki, kaip sekasi?</item>
+        <item>Šiek tiek palaukite</item>
+        <item>Sveiki, ar galite vėliau paskambinti?</item>
+        <item>Sveiki! Dėkojame, kad paskambinote.</item>
+    </string-array>
+    <string-array name="captions_settings_enable_for_calls_choices_entries">
+        <item>Klausti kaskart</item>
+        <item>Visada</item>
+        <item>Išjungta</item>
+    </string-array>
+    <string-array name="captions_settings_typing_voice_names">
+        <item>A balsas</item>
+        <item>B balsas</item>
+        <item>C balsas</item>
+        <item>D balsas</item>
+        <item>E balsas</item>
+        <item>F balsas</item>
+        <item>G balsas</item>
+        <item>H balsas</item>
+        <item>I balsas</item>
+        <item>J balsas</item>
+        <item>K balsas</item>
+        <item>L balsas</item>
+        <item>M balsas</item>
+        <item>N balsas</item>
+        <item>O balsas</item>
+        <item>P balsas</item>
+    </string-array>
+    <string-array name="pref_download_policy_entries">
+        <item>Mobilusis + „Wi-Fi“</item>
+        <item>Tik „Wi-Fi“</item>
+        <item>Neatnaujinti</item>
+    </string-array>
+    <string-array name="pref_download_policy_entry_values_placeholder">
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+</resources>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="location_permission_denied_dialog_message">Pour permettre à Lever la tête de déterminer que vous êtes dehors, accédez à Paramètres > Autorisations > Localisation et sélectionnez \"Toujours autoriser\".</string>
+</resources>

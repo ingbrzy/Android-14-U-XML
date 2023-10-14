@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bundle1_color_name">कार्बन</string>
+    <string name="bundle2_color_name">कागज़</string>
+    <string name="bundle3_color_name">सूरज</string>
+    <string name="color_name_monochromatic">मोनोक्रोमैटिक</string>
+    <string name="default_color_name">क्लासिक</string>
+    <string name="fruit1_color_name">पीला और लाल रंग वाला पटल</string>
+    <string name="fruit2_color_name">हरा और नारंगी रंग वाला पटल</string>
+    <string name="fruit3_color_name">नीला और हरा रंग वाला पटल</string>
+    <string name="fruit4_color_name">हल्का बैंगनी और नीला रंग वाला पटल</string>
+    <string name="fruit5_color_name">गुलाबी और गहरा नीला रंग वाला पटल</string>
+    <string name="rainbow1_color_name">लाल</string>
+    <string name="rainbow2_color_name">नारंगी</string>
+    <string name="rainbow3_color_name">पीला</string>
+    <string name="rainbow4_color_name">हरा</string>
+    <string name="rainbow5_color_name">नीला</string>
+    <string name="rainbow6_color_name">गहरा नीला</string>
+    <string name="rainbow7_color_name">बैंगनी</string>
+</resources>

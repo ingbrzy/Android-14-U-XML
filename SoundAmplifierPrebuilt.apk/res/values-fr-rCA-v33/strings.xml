@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sound_amplifier_html_description">"L'amplificateur de son amplifie les sons faibles sans rendre les sons forts trop envahissants&lt;br/>&lt;br/> &lt;b>Comment utiliser l'amplificateur de son&lt;/b>&lt;br/> 1. Branchez des écouteurs filaires ou connectez des écouteurs Bluetooth&lt;br/> 2. Lancez l'amplificateur de son"</string>
+    <string name="sound_amplifier_intro">"Servez-vous de l'amplificateur de son avec des écouteurs pour améliorer la qualité audio de votre environnement et sur votre appareil"</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="track_counts">
+        <item quantity="other">%1$d zvokov</item>
+        <item quantity="one">%1$d zvok</item>
+        <item quantity="two">%1$d zvoka</item>
+        <item quantity="few">%1$d zvoki</item>
+    </plurals>
+</resources>

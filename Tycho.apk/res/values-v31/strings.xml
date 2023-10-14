@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="activation_complete_footer_self_service_suw">"Google Fi uses your location to keep you on the strongest signal nearby. For best results, share your precise location while using the app. You can adjust your location settings at any time.
+
+You can manage your other preferences with the Google Fi app that's already on your phone."</string>
+    <string name="fi_location_rationale">Google Fi uses your location to keep you on the strongest signal nearby. For best results, share your precise location while using the app. You can adjust your location settings at any time.</string>
+    <string name="location_consent_info_details">For best results, share your precise location while using the app. You can adjust your location settings anytime.</string>
+    <string name="location_permission_rationale">Google Fi uses your location to keep you on the strongest signal nearby. For best results, share your precise location while using the app.</string>
+    <string name="misconfig_location_permission_description">Google Fi uses your location to get you the strongest signal nearby. For best results, share your precise location while using the app.</string>
+    <string name="misconfig_location_permission_prompt_not_allowed">"Google Fi uses your location to get you the strongest signal nearby. For best results, share your precise location while using the app.
+
+In your phone Settings, you can go to Privacy > Permission manager > Location > Google Fi to allow location access."</string>
+    <string name="survey_font">google-sans</string>
+    <string name="survey_font_medium">google-sans-medium</string>
+    <string name="survey_font_regular">google-sans-regular</string>
+</resources>

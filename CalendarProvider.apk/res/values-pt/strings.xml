@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="calendar_default_name">Padrão</string>
+    <string name="calendar_info">Informações da agenda</string>
+    <string name="calendar_info_error">Erro</string>
+    <string name="calendar_info_events">Eventos: %1$d</string>
+    <string name="calendar_info_events_dirty">Eventos: %1$d, não salvos: %2$d</string>
+    <string name="calendar_info_no_calendars">Nenhuma agenda</string>
+    <string name="calendar_storage">Armazenamento de agenda</string>
+    <string name="debug_tool_delete_button">Excluir agora</string>
+    <string name="debug_tool_email_body">O banco de dados da minha agenda está anexado. Ele tem todos os meus compromissos e informações pessoais. Use com cuidado.</string>
+    <string name="debug_tool_email_sender_picker">Escolha um programa para enviar o arquivo</string>
+    <string name="debug_tool_email_subject">O banco de dados da agenda foi anexado</string>
+    <string name="debug_tool_message">Você está prestes a: 1) copiar seu banco de dados da agenda, que poderá ser lido por qualquer app, para o cartão SD/armazenamento USB e 2) o enviar por e-mail. Exclua o banco de dados após a cópia ou o envio do e-mail.</string>
+    <string name="debug_tool_start_button">Iniciar</string>
+    <string name="provider_label">Agenda</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="select_logpersist_summaries">
+        <item>Идэвхгүй</item>
+        <item>Бүх логийн хамгаалалт</item>
+        <item>Радиогоос бусад бүх логийн хамгаалалт</item>
+        <item>зөвхөн үйлдлийн системийн төв логийн хамгаалалтад</item>
+    </string-array>
+</resources>

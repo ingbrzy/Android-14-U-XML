@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_retaildemoCommunication">Permite que la app interactúe con servicios de demo para punto de venta. Solo la demo para punto de venta debería tener este permiso. Las apps que obtengan este permiso pueden iniciar acciones reservadas para el modo de demo para punto de venta.</string>
+    <string name="permlab_retaildemoCommunication">Comunicación con demo para punto de venta</string>
+    <string name="retaildemo_preload_app_name">Serv.: demo de venta</string>
+</resources>

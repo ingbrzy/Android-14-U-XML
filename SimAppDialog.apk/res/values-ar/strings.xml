@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sim App Dialog</string>
+    <string name="call_notification_answer_action">ردّ</string>
+    <string name="call_notification_answer_video_action">فيديو</string>
+    <string name="call_notification_decline_action">رفض</string>
+    <string name="call_notification_hang_up_action">قطع الاتصال</string>
+    <string name="call_notification_incoming_text">مكالمة واردة</string>
+    <string name="call_notification_ongoing_text">مكالمة جارية</string>
+    <string name="call_notification_screening_text">يتم فحص المكالمة الواردة</string>
+    <string name="install_carrier_app_defer_action">لاحقًا</string>
+    <string name="install_carrier_app_description">‏لتعمل شريحة SIM الجديدة بشكل سليم، ستحتاج إلى تثبيت تطبيق %1$s.</string>
+    <string name="install_carrier_app_description_default">‏لتعمل شريحة SIM الجديدة بشكل سليم، ستحتاج إلى تثبيت تطبيق مشغّل شبكة الجوّال.</string>
+    <string name="install_carrier_app_download_action">تنزيل التطبيق</string>
+    <string name="install_carrier_app_title">تفعيل خدمة الجوّال</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="suw_back_button_label">رجوع</string>
+    <string name="suw_more_button_label">المزيد</string>
+    <string name="suw_next_button_label">التالي</string>
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_install_failed_multi_app_desc">
+        <item quantity="other">"[Šéţ-ûþ çåñ'ţ бé çömþļéţéð åš ᐅ%1$dᐊ ŕéqûîŕéð åþþš ƒåîļéð ţö îñšţåļļ. Þļéåšé çöñţåçţ ýöûŕ šýšţém åðmîñîšţŕåţöŕ ðîŕéçţļý. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fifteen sixteen seventeen eighteen]"</item>
+        <item quantity="one">"[Šéţ-ûþ çåñ'ţ бé çömþļéţéð åš ᐅ%1$dᐊ ŕéqûîŕéð åþþ ƒåîļéð ţö îñšţåļļ. Þļéåšé çöñţåçţ ýöûŕ šýšţém åðmîñîšţŕåţöŕ ðîŕéçţļý. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fifteen sixteen seventeen eighteen]"</item>
+    </plurals>
+    <plurals name="app_install_failure_title">
+        <item quantity="other">"[Çåñ'ţ îñšţåļļ åþþš one two three]"</item>
+        <item quantity="one">"[Çåñ'ţ îñšţåļļ åþþ one two three]"</item>
+    </plurals>
+    <plurals name="app_install_progress_desc">
+        <item quantity="other">[ᐅ%1$dᐊ öƒ ᐅ%2$dᐊ åþþš îñšţåļļéð one two three four five six]</item>
+        <item quantity="one">[ᐅ%1$dᐊ öƒ ᐅ%2$dᐊ åþþ îñšţåļļéð one two three four five]</item>
+    </plurals>
+    <plurals name="app_uninstall_button">
+        <item quantity="other">[Ûñîñšţåļļ åþþš one two]</item>
+        <item quantity="one">[Ûñîñšţåļļ åþþ one two]</item>
+    </plurals>
+    <plurals name="days_left_message">
+        <item quantity="other">[ᐅ&lt;annotation id="numeric_time_left">ᐊᐅ^1ᐊᐅ&lt;/annotation>ᐊ ðåýš ļéƒţ one two three four]</item>
+        <item quantity="one">[ᐅ&lt;annotation id="numeric_time_left">ᐊᐅ^1ᐊᐅ&lt;/annotation>ᐊ ðåý ļéƒţ one two three four]</item>
+    </plurals>
+    <plurals name="hours_left_message">
+        <item quantity="other">[ᐅ&lt;annotation id="numeric_time_left">ᐊᐅ^1ᐊᐅ&lt;/annotation>ᐊ ĥöûŕš ļéƒţ one two three four five]</item>
+        <item quantity="one">[ᐅ&lt;annotation id="numeric_time_left">ᐊᐅ^1ᐊᐅ&lt;/annotation>ᐊ ĥöûŕ ļéƒţ one two three four]</item>
+    </plurals>
+    <plurals name="number_of_additional_apps">
+        <item quantity="other">[ᐅ%1$dᐊ åððîţîöñåļ åþþš one two three four]</item>
+        <item quantity="one">[ᐅ%1$dᐊ åððîţîöñåļ åþþ one two three four]</item>
+    </plurals>
+    <plurals name="number_of_required_apps">
+        <item quantity="other">[ᐅ%1$dᐊ ŕéqûîŕéð åþþš one two three four]</item>
+        <item quantity="one">[ᐅ%1$dᐊ ŕéqûîŕéð åþþ one two three four]</item>
+    </plurals>
+    <plurals name="policy_apps_list_summary">
+        <item quantity="other">"[ᐅ%dᐊ ŵöŕķ åþþš çåñ'ţ бé ûñîñšţåļļéð one two three four five six seven]"</item>
+        <item quantity="one">"[ᐅ%dᐊ ŵöŕķ åþþ çåñ'ţ бé ûñîñšţåļļéð one two three four five six seven]"</item>
+    </plurals>
+    <plurals name="preinstalled_apps">
+        <item quantity="other">[ᐅ%1$dᐊ öƒ ᐅ%2$dᐊ åþþš îñšţåļļéð one two three four five six]</item>
+        <item quantity="one">[ᐅ%1$dᐊ öƒ ᐅ%2$dᐊ åþþ îñšţåļļéð one two three four five]</item>
+    </plurals>
+    <plurals name="readable_name_applications">
+        <item quantity="other">[ᐅ%1$dᐊ åþþš åvåîļåбļé (ᐅ%2$dᐊ îñšţåļļéð, ᐅ%3$dᐊ ðîšåбļéð) one two three four five six seven eight nine ten]</item>
+        <item quantity="one">[ᐅ%1$dᐊ åþþ åvåîļåбļé (ᐅ%2$dᐊ îñšţåļļéð, ᐅ%3$dᐊ ðîšåбļéð) one two three four five six seven eight nine ten]</item>
+    </plurals>
+</resources>

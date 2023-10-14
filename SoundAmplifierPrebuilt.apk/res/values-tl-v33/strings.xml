@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sound_amplifier_html_description">Pinapalakas ng Sound Amplifier ang mahihinang tunog nang hindi pinapalakas nang sobra ang malalakas na tunog&lt;br/>&lt;br/> &lt;b>Paano gamitin ang Sound Amplifier&lt;/b>&lt;br/> 1. Magsaksak ng wired headphones o magkonekta ng Bluetooth headphones&lt;br/> 2. Simulan ang Sound Amplifier</string>
+    <string name="sound_amplifier_intro">Gumamit ng Sound Amplifier sa headphones para pahusayin ang kalidad ng audio sa iyong paligid at sa device mo</string>
+</resources>

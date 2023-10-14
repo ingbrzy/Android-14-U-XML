@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dots">
+        <item quantity="other">amachashazi %s</item>
+        <item quantity="one">amachashazi %s</item>
+    </plurals>
+    <plurals name="gestures_recorded_message">
+        <item quantity="other">ukuthinta okungu-%d kurekhodiwe</item>
+        <item quantity="one">ukuthinta okungu-%d kurekhodiwe</item>
+    </plurals>
+    <plurals name="label_num_keys_assigned_format">
+        <item quantity="other">%d kushintsha okunikeziwe</item>
+        <item quantity="one">%d kushintsha okunikeziwe</item>
+    </plurals>
+    <plurals name="label_num_scanning_loops_format">
+        <item quantity="other">%d Ama-Loop</item>
+        <item quantity="one">%d Ama-Loop</item>
+    </plurals>
+    <plurals name="line_speed_summary_format">
+        <item quantity="other">%.2f cm ngomzuzwana</item>
+        <item quantity="one">%.2f cm ngomzuzwana</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d izaziso ezintsha</item>
+        <item quantity="one">%d izaziso ezintsha</item>
+    </plurals>
+    <plurals name="time_delay_summary_format">
+        <item quantity="other">Imizuzwana %.2f</item>
+        <item quantity="one">Imizuzwana %.2f</item>
+    </plurals>
+</resources>

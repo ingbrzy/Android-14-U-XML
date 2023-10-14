@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120000">
+        <item quantity="other">Wi-Fi 接続を待機しています</item>
+        <item quantity="one">Wi-Fi 接続を待機しています</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120002">
+        <item quantity="other">このデバイス上（%d 個のアプリ）</item>
+        <item quantity="one">このデバイス上（%d 個のアプリ）</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120003">
+        <item quantity="other">「%1$s」の機能</item>
+        <item quantity="one">「%1$s」の機能</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120004">
+        <item quantity="other">インストール: %d 日前</item>
+        <item quantity="one">インストール: %d 日前</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120005">
+        <item quantity="other">インストール: %d 時間前</item>
+        <item quantity="one">インストール: %d 時間前</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120006">
+        <item quantity="other">インストール: %d 分前</item>
+        <item quantity="one">インストール: %d 分前</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120007">
+        <item quantity="other">%1$d 件選択</item>
+        <item quantity="one">%1$d 件選択</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120008">
+        <item quantity="other">更新: %d 日前</item>
+        <item quantity="one">更新: %d 日前</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120009">
+        <item quantity="other">更新: %d 時間前</item>
+        <item quantity="one">更新: %d 時間前</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000a">
+        <item quantity="other">更新: %d 分前</item>
+        <item quantity="one">更新: %d 分前</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000b">
+        <item quantity="other">前回の使用: %d 日前</item>
+        <item quantity="one">前回の使用: %d 日前</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000c">
+        <item quantity="other">前回の使用: %d 時間前</item>
+        <item quantity="one">前回の使用: %d 時間前</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000d">
+        <item quantity="other">前回の使用: %d 分前</item>
+        <item quantity="one">前回の使用: %d 分前</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12000f">
+        <item quantity="other">%d 日前にスキャンしたアプリ</item>
+        <item quantity="one">%d 日前にスキャンしたアプリ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120010">
+        <item quantity="other">%d 時間前にスキャンしたアプリ</item>
+        <item quantity="one">%d 時間前にスキャンしたアプリ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120011">
+        <item quantity="other">%d 分前にスキャンしたアプリ</item>
+        <item quantity="one">%d 分前にスキャンしたアプリ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120014">
+        <item quantity="other">%1$d件のレビュー</item>
+        <item quantity="one">%1$d件のレビュー</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120015">
+        <item quantity="other">%1$d件の%2$dつ星のレビュー</item>
+        <item quantity="one">%1$d件の%2$dつ星のレビュー</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120016">
+        <item quantity="other">インストール: %1$d 台。</item>
+        <item quantity="one">インストール: %1$d 台。</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120017">
+        <item quantity="other">インストール: %1$d 台。他のデバイスにもインストールできます。</item>
+        <item quantity="one">インストール: %1$d 台。他のデバイスにもインストールできます。</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120018">
+        <item quantity="other">このアプリは %1$d 台のデバイスにまもなくインストールされます。</item>
+        <item quantity="one">このアプリは %1$d 台のデバイスにまもなくインストールされます。</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120019">
+        <item quantity="other">%1$d 件の特典をご利用いただけます</item>
+        <item quantity="one">%1$d 件の特典をご利用いただけます</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001a">
+        <item quantity="other">ご購入いただくと、%1$d 件の特典をご利用いただけます</item>
+        <item quantity="one">ご購入いただくと、%1$d 件の特典をご利用いただけます</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001b">
+        <item quantity="other">%1$d 日</item>
+        <item quantity="one">%1$d 日</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001c">
+        <item quantity="other">%2$s 件のレビューの平均評価は星 %1$s 個です</item>
+        <item quantity="one">1 件のレビューの平均評価は星 %1$s 個です</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001d">
+        <item quantity="other">%s 件のレビュー</item>
+        <item quantity="one">1 件のレビュー</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001e">
+        <item quantity="other">開発者向けオプションが有効になるまであと %1$d 回です</item>
+        <item quantity="one">開発者向けオプションが有効になるまであと %1$d 回です</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12001f">
+        <item quantity="other">車</item>
+        <item quantity="one">車</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120020">
+        <item quantity="other">Chromebook</item>
+        <item quantity="one">Chromebook</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120021">
+        <item quantity="other">折りたたみ式</item>
+        <item quantity="one">折りたたみ式</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120022">
+        <item quantity="other">スマートフォン</item>
+        <item quantity="one">スマートフォン</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120023">
+        <item quantity="other">タブレット</item>
+        <item quantity="one">タブレット</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120024">
+        <item quantity="other">テレビ</item>
+        <item quantity="one">テレビ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120025">
+        <item quantity="other">デバイス</item>
+        <item quantity="one">デバイス</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120026">
+        <item quantity="other">スマートウォッチ</item>
+        <item quantity="one">スマートウォッチ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120027">
+        <item quantity="other">Play ポイントを %1$d ポイント利用できます。</item>
+        <item quantity="one">Play ポイントを %1$d ポイント利用できます。</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120028">
+        <item quantity="other">%1$d 時間</item>
+        <item quantity="one">%1$d 時間</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120029">
+        <item quantity="other">残り %1$d 時間</item>
+        <item quantity="one">残り 1 時間</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002a">
+        <item quantity="other">%1$d 個のアプリをインストールしています…</item>
+        <item quantity="one">%1$d 個のアプリをインストールしています…</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002b">
+        <item quantity="other">インストールを一時停止しました</item>
+        <item quantity="one">インストールを一時停止しました</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002c">
+        <item quantity="other">%1$d 個のアプリをインストールします</item>
+        <item quantity="one">%1$d 個のアプリをインストールします</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002d">
+        <item quantity="other">最終更新: %d 日前</item>
+        <item quantity="one">最終更新: %d 日前</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002e">
+        <item quantity="other">最終更新: %d 時間前</item>
+        <item quantity="one">最終更新: %d 時間前</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12002f">
+        <item quantity="other">最終更新: %d 分前</item>
+        <item quantity="one">最終更新: %d 分前</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120033">
+        <item quantity="other">%1$d 年前</item>
+        <item quantity="one">%1$d 年前</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120034">
+        <item quantity="other">%1$d 分</item>
+        <item quantity="one">%1$d 分</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120035">
+        <item quantity="other">残り %1$d 分</item>
+        <item quantity="one">残り 1 分</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120037">
+        <item quantity="other">%1$d 件選択しました</item>
+        <item quantity="one">%1$d 件選択しました</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120038">
+        <item quantity="other">%1$d 個のアプリをアーカイブしています</item>
+        <item quantity="one">%1$d 個のアプリをアーカイブしています</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120039">
+        <item quantity="other">選択したアプリを削除しますか？</item>
+        <item quantity="one">選択したアプリを削除しますか？</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12003a">
+        <item quantity="other">%1$d 個のアプリを削除しました</item>
+        <item quantity="one">%1$d 個のアプリを削除しました</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12003d">
+        <item quantity="other">保留中のインストール: %1$d 件</item>
+        <item quantity="one">保留中のインストール: %1$d 件</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12003e">
+        <item quantity="other">インストール中: %1$d 件</item>
+        <item quantity="one">インストール中: %1$d 件</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120040">
+        <item quantity="other">保留中のアップデート: %1$d 件</item>
+        <item quantity="one">保留中のアップデート: %1$d 件</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120041">
+        <item quantity="other">更新中: %1$d 件</item>
+        <item quantity="one">更新中: %1$d 件</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120042">
+        <item quantity="other">%1$d 個のアプリをインストールしました</item>
+        <item quantity="one">%1$d 個のアプリをインストールしました</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120044">
+        <item quantity="other">%1$d 時間前にリリース</item>
+        <item quantity="one">%1$d 時間前にリリース</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120045">
+        <item quantity="other">%1$d 日前にリリース</item>
+        <item quantity="one">%1$d 日前にリリース</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120046">
+        <item quantity="other">アプリが削除されました</item>
+        <item quantity="one">アプリが削除されました</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120047">
+        <item quantity="other">%1$d件のアップデートで承認が必要です</item>
+        <item quantity="one">%1$d件のアップデートで承認が必要です</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120048">
+        <item quantity="other">%1$d件の新しいアップデート</item>
+        <item quantity="one">%1$d件の新しいアップデート</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120049">
+        <item quantity="other">%1$d件のアップデートがあります</item>
+        <item quantity="one">%1$d件のアップデートがあります</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004a">
+        <item quantity="other">すべて更新</item>
+        <item quantity="one">更新</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004b">
+        <item quantity="other">%1$d 個のアプリを更新しました</item>
+        <item quantity="one">%1$d 個のアプリを更新しました</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004c">
+        <item quantity="other">%1$d 時間後に終了</item>
+        <item quantity="one">%1$d 時間後に終了</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004d">
+        <item quantity="other">%1$d 日後に終了</item>
+        <item quantity="one">%1$d 日後に終了</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004e">
+        <item quantity="other">%1$d 分</item>
+        <item quantity="one">%1$d 分</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12004f">
+        <item quantity="other">%1$d 秒</item>
+        <item quantity="one">%1$d 秒</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120050">
+        <item quantity="other">個人用アプリが削除されました</item>
+        <item quantity="one">個人用アプリが削除されました</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120053">
+        <item quantity="other">Play プロテクトによる前回のスキャン: %d 日前</item>
+        <item quantity="one">Play プロテクトによる前回のスキャン: %d 日前</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120054">
+        <item quantity="other">Play プロテクトによる前回のスキャン: %d 時間前</item>
+        <item quantity="one">Play プロテクトによる前回のスキャン: %d 時間前</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120055">
+        <item quantity="other">Play プロテクトによる前回のスキャン: %d 分前</item>
+        <item quantity="one">Play プロテクトによる前回のスキャン: %d 分前</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120056">
+        <item quantity="other">%1$s ポイントで来年も%2$s</item>
+        <item quantity="one">1 ポイントで来年も%2$s</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120057">
+        <item quantity="other">%1$s ポイントで%2$s</item>
+        <item quantity="one">1 ポイントで%2$s</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120058">
+        <item quantity="other">不明なアプリをインストール、更新する権限をこれらのアプリに付与しましたが、デバイスと個人情報が不正使用される恐れがあります。不明なアプリのインストールを防ぐため、権限を取り消してください。</item>
+        <item quantity="one">不明なアプリをインストール、更新する権限をこのアプリに付与しましたが、デバイスと個人情報が不正使用される恐れがあります。不明なアプリのインストールを防ぐため、権限を取り消してください。</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120059">
+        <item quantity="other">不明なアプリをインストール、更新する権限を %1$d 個のアプリに付与しましたが、デバイスと個人情報が不正使用される恐れがあります</item>
+        <item quantity="one">不明なアプリをインストール、更新する権限を 1 個のアプリに付与しましたが、デバイスと個人情報が不正使用される恐れがあります</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005a">
+        <item quantity="other">%1$d 件のプライバシー通知</item>
+        <item quantity="one">1 件のプライバシー通知</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005b">
+        <item quantity="other">有害なアプリが %1$d 個見つかりました</item>
+        <item quantity="one">有害なアプリが 1 個見つかりました</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005c">
+        <item quantity="other">セキュリティに関する通知: %1$d 件</item>
+        <item quantity="one">セキュリティに関する通知: 1 件</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005d">
+        <item quantity="other">%1$d 件のセキュリティ アップデート</item>
+        <item quantity="one">1 件のセキュリティ アップデート</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005e">
+        <item quantity="other">安全ではないアプリが %1$d 個見つかりました</item>
+        <item quantity="one">安全ではないアプリが 1 個見つかりました</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12005f">
+        <item quantity="other">%1$d 件の警告</item>
+        <item quantity="one">1 件の警告</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120060">
+        <item quantity="other">安全ではないアプリが見つかりました</item>
+        <item quantity="one">安全ではないアプリが見つかりました</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120061">
+        <item quantity="other">%1$d 時間後に終了</item>
+        <item quantity="one">%1$d 時間後に終了</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120062">
+        <item quantity="other">%1$d 日後に終了</item>
+        <item quantity="one">%1$d 日後に終了</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120063">
+        <item quantity="other">%1$d / %2$d ステップ完了</item>
+        <item quantity="one">%1$d / %2$d ステップ完了</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120064">
+        <item quantity="other">%1$d 個のアプリをインストールできます</item>
+        <item quantity="one">%1$d 個のアプリをインストールできます</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120065">
+        <item quantity="other">%1$s から %2$d 個のアプリが送信されます。ペア設定コードが一致していることをご確認ください。</item>
+        <item quantity="one">%1$s から %2$d 個のアプリが送信されます。ペア設定コードが一致していることをご確認ください。</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120066">
+        <item quantity="other">「%2$s」から %1$d 個のアプリを受信しています…</item>
+        <item quantity="one">「%2$s」から %1$d 個のアプリを受信しています…</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006a">
+        <item quantity="other">%1$d人が、このレビューが役に立ったと評価しました。コメントが役に立ったと評価します</item>
+        <item quantity="one">%1$d人が、このレビューが役に立ったと評価しました。コメントが役に立ったと評価します</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006b">
+        <item quantity="other">%1$d人が、このレビューが役に立ったと評価しました。役立ったコメントとしての評価を削除します</item>
+        <item quantity="one">%1$d人が、このレビューが役に立ったと評価しました。役立ったコメントとしての評価を削除します</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006c">
+        <item quantity="other">%1$s 人のユーザーが役立ったと評価しました</item>
+        <item quantity="one">%1$s 人のユーザーが役立ったと評価しました</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12006f">
+        <item quantity="other">%1$d 秒</item>
+        <item quantity="one">%1$d 秒</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120070">
+        <item quantity="other">残り %1$d 秒</item>
+        <item quantity="one">残り 1 秒</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120071">
+        <item quantity="other">%1$d 個選択 • %2$s</item>
+        <item quantity="one">%1$d 個選択 • %2$s</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120072">
+        <item quantity="other">%1$d 個のアプリを「%2$s」に送信しています…</item>
+        <item quantity="one">%1$d 個のアプリを「%2$s」に送信しています…</item>
+    </plurals>
+    <plurals name="setup_completed_installed">
+        <item quantity="other">%1$d 個のアプリをインストールしました</item>
+        <item quantity="one">%1$d 個のアプリをインストールしました</item>
+    </plurals>
+    <plurals name="setup_completed_installed_with_failures">
+        <item quantity="other">%1$d/%2$d 個のアプリをインストールできませんでした</item>
+        <item quantity="one">%1$d/%2$d 個のアプリをインストールできませんでした</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120075">
+        <item quantity="other">前回の使用: %1$d日前</item>
+        <item quantity="one">前回の使用: %1$d日前</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120076">
+        <item quantity="other">選択した %1$d 個のアプリを復元</item>
+        <item quantity="one">選択したアプリを復元</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120078">
+        <item quantity="other">%1$d 件の新しい言語をダウンロードしますか？</item>
+        <item quantity="one">新しい言語をダウンロードしますか？</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007b">
+        <item quantity="other">%1$d 件のアンケートの回答をアカウントから完全に削除します。</item>
+        <item quantity="one">%1$d 件のアンケートの回答をアカウントから完全に削除します。</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007c">
+        <item quantity="other">%1$d 件選択しました</item>
+        <item quantity="one">%1$d 件選択しました</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007d">
+        <item quantity="other">Play ポイントを表示します。%1$d ポイント利用できます。</item>
+        <item quantity="one">Play ポイントを表示します。%1$d ポイント利用できます。</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12007e">
+        <item quantity="other">Play ポイントを %1$d ポイント利用できます。</item>
+        <item quantity="one">Play ポイントを %1$d ポイント利用できます。</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120080">
+        <item quantity="other">%1$s ポイント</item>
+        <item quantity="one">1 ポイント</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120081">
+        <item quantity="other">「%2$s」との間で %1$d 個のアプリを転送しています…</item>
+        <item quantity="one">「%2$s」との間で %1$d 個のアプリを転送しています…</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120082">
+        <item quantity="other">%1$d 個のアプリをデバイスからアンインストールします。</item>
+        <item quantity="one">%1$d 個のアプリをデバイスからアンインストールします。</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120083">
+        <item quantity="other">選択したアプリをアンインストールしますか？</item>
+        <item quantity="one">選択したアプリをアンインストールしますか？</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120084">
+        <item quantity="other">アプリのアップデートをアンインストールしますか？</item>
+        <item quantity="one">アプリのアップデートをアンインストールしますか？</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120085">
+        <item quantity="other">%1$s 個のアプリを削除しました。%2$s に必要な領域を確保しています。</item>
+        <item quantity="one">%1$s 個のアプリを削除しました。%2$s に必要な領域を確保しています。</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120086">
+        <item quantity="other">アプリはまもなくインストールされます。</item>
+        <item quantity="one">アプリはまもなくインストールされます。</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120087">
+        <item quantity="other">アプリのアップデートはまもなくインストールされます。</item>
+        <item quantity="one">アプリのアップデートはまもなくインストールされます。</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008a">
+        <item quantity="other">前回の使用: %1$d 日前</item>
+        <item quantity="one">前回の使用: %1$d 日前</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008b">
+        <item quantity="other">前回の使用: %1$d か月前</item>
+        <item quantity="one">前回の使用: %1$d か月前</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008c">
+        <item quantity="other">このデバイスにアプリまたはアップデートをインストールするには、不要なアプリを削除してください。[ストレージの設定] でメディア ファイルを削除して空き容量を増やすこともできます。</item>
+        <item quantity="one">このデバイスにアプリまたはアップデートをインストールするには、不要なアプリを削除してください。[ストレージの設定] でメディア ファイルを削除して空き容量を増やすこともできます。</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008d">
+        <item quantity="other">このデバイスにアプリまたはアップデートをインストールするには、不要なアプリを削除してください。&lt;a href=\"\">[設定] > [ストレージ]&lt;/a> でメディア ファイルを削除して空き容量を増やすこともできます。</item>
+        <item quantity="one">このデバイスにアプリまたはアップデートをインストールするには、不要なアプリを削除してください。&lt;a href=\"\">[設定] > [ストレージ]&lt;/a> でメディア ファイルを削除して空き容量を増やすこともできます。</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008e">
+        <item quantity="other">このデバイスにアプリまたはアップデートをインストールするには、不要なアプリを削除してください。[設定] > [ストレージ] でメディア ファイルを削除して空き容量を増やすこともできます。</item>
+        <item quantity="one">このデバイスにアプリまたはアップデートをインストールするには、不要なアプリを削除してください。[設定] > [ストレージ] でメディア ファイルを削除して空き容量を増やすこともできます。</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f12008f">
+        <item quantity="other">%1$d 個のアプリをアンインストールしました</item>
+        <item quantity="one">%1$d 個のアプリをアンインストールしました</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120090">
+        <item quantity="other">最近使用していないアプリが %1$d 個あります。これらのアプリを削除すると、保存容量が %2$d MB 増えます</item>
+        <item quantity="one">最近使用していないアプリが %1$d 個あります。このアプリを削除すると、保存容量が %2$d MB 増えます</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120091">
+        <item quantity="other">%1$d 時間後に開始</item>
+        <item quantity="one">%1$d 時間後に開始</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120092">
+        <item quantity="other">%1$d 日後に開始</item>
+        <item quantity="one">%1$d 日後に開始</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120093">
+        <item quantity="other">%1$d 時間後に提供開始</item>
+        <item quantity="one">%1$d 時間後に提供開始</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120094">
+        <item quantity="other">%1$d 日後に提供開始</item>
+        <item quantity="one">%1$d 日後に提供開始</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120095">
+        <item quantity="other">このデバイスには %1$d か月以上、システム アップデートが適用されていません</item>
+        <item quantity="one">このデバイスには %1$d か月以上、システム アップデートが適用されていません</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120096">
+        <item quantity="other">仕事用アプリが削除されました</item>
+        <item quantity="one">仕事用アプリが削除されました</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120097">
+        <item quantity="other">%1$d 年前</item>
+        <item quantity="one">%1$d 年前</item>
+    </plurals>
+</resources>

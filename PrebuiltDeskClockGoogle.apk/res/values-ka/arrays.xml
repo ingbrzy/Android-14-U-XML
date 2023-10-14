@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_set">
+        <item>მაღვიძარა დაყენებულია ამ მომენტიდან 1 წუთზე ნაკლებ დროზე.</item>
+        <item>მაღვიძარა დაყენებულია ამ მომენტიდან %1$sთ.</item>
+        <item>მაღვიძარა დაყენებულია ამ მომენტიდან %2$sთ.</item>
+        <item>ეს მაღვიძარა დაყენებულია %1$sთ და %2$sთ ამ მომენტიდან.</item>
+        <item>მაღვიძარა დაყენებულია ამ მომენტიდან %3$sთ.</item>
+        <item>ეს მაღვიძარა დაყენებულია %1$sთა და %3$sთ ამ მომენტიდან.</item>
+        <item>ეს მაღვიძარა დაყენებულია %2$sთა და %3$sთ ამ მომენტიდან.</item>
+        <item>ეს მაღვიძარა დაყენებულია %1$sთ, %2$sთა და %3$sთ ამ მომენტიდან.</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>1 წუთი</item>
+        <item>5 წუთი</item>
+        <item>10 წუთი</item>
+        <item>15 წუთი</item>
+        <item>20 წუთი</item>
+        <item>25 წუთი</item>
+        <item>@string/auto_silence_entry_never</item>
+    </string-array>
+    <string-array name="bedtime_reminder_entries">
+        <item>15 წუთი ძილის დრომდე</item>
+        <item>30 წუთი ძილის დრომდე</item>
+        <item>45 წუთი ძილის დრომდე</item>
+        <item>1 საათი ძილის დრომდე</item>
+        <item>გამორთვა</item>
+    </string-array>
+    <string-array name="clock_style_entries">
+        <item>ისრებიანი</item>
+        <item>ციფრული</item>
+    </string-array>
+    <string-array name="crescendo_entries">
+        <item>@string/crescendo_entry_never</item>
+        <item>5 წამი</item>
+        <item>10 წამი</item>
+        <item>15 წამი</item>
+        <item>20 წამი</item>
+        <item>25 წამი</item>
+        <item>30 წამი</item>
+        <item>35 წამი</item>
+        <item>40 წამი</item>
+        <item>45 წამი</item>
+        <item>50 წამი</item>
+        <item>55 წამი</item>
+        <item>60 წამი</item>
+    </string-array>
+    <string-array name="sleep_duration">
+        <item>%2$s</item>
+        <item>%1$s</item>
+        <item>%1$s %2$s</item>
+    </string-array>
+    <string-array name="sleep_sound_length_content_descriptions">
+        <item>შეწყდეს 10 წუთის შემდეგ</item>
+        <item>შეწყდეს 20 წუთის შემდეგ</item>
+        <item>შეწყდეს 30 წუთის შემდეგ</item>
+        <item>შეწყდეს 40 წუთის შემდეგ</item>
+        <item>შეწყდეს 50 წუთის შემდეგ</item>
+        <item>დარეკვის ხანგრძლივობა: 1 საათი</item>
+    </string-array>
+    <string-array name="sleep_sound_length_descriptions">
+        <item>დარეკვის ხანგრძლივობა: 10 წთ</item>
+        <item>დარეკვის ხანგრძლივობა: 20 წთ</item>
+        <item>დარეკვის ხანგრძლივობა: 30 წთ</item>
+        <item>დარეკვის ხანგრძლივობა: 40 წთ</item>
+        <item>დარეკვის ხანგრძლივობა: 50 წთ</item>
+        <item>დარეკვის ხანგრძლივობა: 1 საათი</item>
+    </string-array>
+    <string-array name="sleep_sound_length_entries">
+        <item>10 წუთი</item>
+        <item>20 წუთი</item>
+        <item>30 წუთი</item>
+        <item>40 წუთი</item>
+        <item>50 წუთი</item>
+        <item>1 საათი</item>
+    </string-array>
+    <string-array name="snooze_duration_entries">
+        <item>1 წუთი</item>
+        <item>2 წუთი</item>
+        <item>3 წუთი</item>
+        <item>4 წუთი</item>
+        <item>5 წუთი</item>
+        <item>6 წუთი</item>
+        <item>7 წუთი</item>
+        <item>8 წუთი</item>
+        <item>9 წუთი</item>
+        <item>10 წუთი</item>
+        <item>11 წუთი</item>
+        <item>12 წუთი</item>
+        <item>13 წუთი</item>
+        <item>14 წუთი</item>
+        <item>15 წუთი</item>
+        <item>16 წუთი</item>
+        <item>17 წუთი</item>
+        <item>18 წუთი</item>
+        <item>19 წუთი</item>
+        <item>20 წუთი</item>
+        <item>21 წუთი</item>
+        <item>22 წუთი</item>
+        <item>23 წუთი</item>
+        <item>24 წუთი</item>
+        <item>25 წუთი</item>
+        <item>26 წუთი</item>
+        <item>27 წუთი</item>
+        <item>28 წუთი</item>
+        <item>29 წუთი</item>
+        <item>30 წუთი</item>
+    </string-array>
+    <string-array name="timer_duration">
+        <item>ტაიმერი</item>
+        <item>%3$s-იანი ტაიმერი</item>
+        <item>%2$s-იანი ტაიმერი</item>
+        <item>ტაიმერი: %2$s %3$s</item>
+        <item>%1$s-იანი ტაიმერი</item>
+        <item>ტაიმერი: %1$s %3$s</item>
+        <item>ტაიმერი: %1$s %2$s</item>
+        <item>ტაიმერი: %1$s %2$s %3$s</item>
+    </string-array>
+    <string-array name="timer_duration_short">
+        <item>ტაიმერი</item>
+        <item>%3$s ტაიმერი</item>
+        <item>%2$s ტაიმერი</item>
+        <item>%2$s %3$s ტაიმერი</item>
+        <item>%1$s ტაიმერი</item>
+        <item>%1$s %3$s ტაიმერი</item>
+        <item>%1$s %2$s ტაიმერი</item>
+        <item>%1$s %2$s %3$s ტაიმერი</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>მარშალის კუნძულები</item>
+        <item>მიდუეის კუნძული</item>
+        <item>ჰავაი</item>
+        <item>ალასკა</item>
+        <item>წყნარი ოკეანის დრო</item>
+        <item>ტიხუანა</item>
+        <item>არიზონა</item>
+        <item>ჩიუაუა</item>
+        <item>მთის დრო</item>
+        <item>ცენტრალური ამერიკა</item>
+        <item>ცენტრალური დრო</item>
+        <item>მეხიკო</item>
+        <item>სასკაჩევანი</item>
+        <item>ბოგოტა</item>
+        <item>აღმოსავლეთის დრო</item>
+        <item>ვენესუელა</item>
+        <item>ატლანტიკური დრო (ბარბადოსი)</item>
+        <item>ატლანტიკური დრო (კანადა)</item>
+        <item>მანაუსი</item>
+        <item>სანტიაგო</item>
+        <item>ნიუფაუნდლენდი</item>
+        <item>ბრაზილია</item>
+        <item>ბუენოს-აირესი</item>
+        <item>გრენლანდია</item>
+        <item>მონტევიდეო</item>
+        <item>შუა-ატლანტიკური რეგიონი</item>
+        <item>აზორის კუნძულები</item>
+        <item>კაბო-ვერდეს კუნძულები</item>
+        <item>კასაბლანკა</item>
+        <item>ლონდონი, დუბლინი</item>
+        <item>ამსტერდამი, ბერლინი</item>
+        <item>ბელგრადი</item>
+        <item>ბრიუსელი</item>
+        <item>სარაევო</item>
+        <item>ვინდჰუკი</item>
+        <item>დას. აფრიკის დრო</item>
+        <item>ამანი, იორდანია</item>
+        <item>ათენი, სტამბული</item>
+        <item>ბეირუთი, ლიბანი</item>
+        <item>კაირო</item>
+        <item>ჰელსინკი</item>
+        <item>იერუსალიმი</item>
+        <item>მინსკი</item>
+        <item>ჰარარე</item>
+        <item>ბაღდადი</item>
+        <item>მოსკოვი</item>
+        <item>ქუვეითი</item>
+        <item>ნაირობი</item>
+        <item>თეირანი</item>
+        <item>ბაქო</item>
+        <item>თბილისი</item>
+        <item>ერევანი</item>
+        <item>დუბაი</item>
+        <item>ქაბული</item>
+        <item>ისლამაბადი, ყარაჩი</item>
+        <item>ურალსკი</item>
+        <item>ეკატერინბურგი</item>
+        <item>კოლკატა</item>
+        <item>შრი-ლანკა</item>
+        <item>კატმანდუ</item>
+        <item>ასტანა</item>
+        <item>იანგონი</item>
+        <item>კრასნოიარსკი</item>
+        <item>ბანგკოკი</item>
+        <item>პეკინი</item>
+        <item>ჰონგკონგი</item>
+        <item>ირკუტსკი</item>
+        <item>კუალა-ლუმპური</item>
+        <item>პერთი</item>
+        <item>ტაიპეი</item>
+        <item>სეული</item>
+        <item>ტოკიო, ოსაკა</item>
+        <item>იაკუტსკი</item>
+        <item>ადელაიდე</item>
+        <item>დარვინი</item>
+        <item>ბრიზბენი</item>
+        <item>ჰობარტი</item>
+        <item>სიდნეი, კანბერა</item>
+        <item>ვლადივოსტოკი</item>
+        <item>გუამი</item>
+        <item>მაგადანი</item>
+        <item>ოკლენდი</item>
+        <item>ფიჯი</item>
+        <item>ტონგა</item>
+        <item>ჯაკარტა</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>@string/alarm_alert_snooze_text</item>
+        <item>შეწყვეტა</item>
+        <item>ხმის მართვა</item>
+        <item>არაფერი მოხდეს</item>
+    </string-array>
+    <string-array name="wakeup_alarm_description">
+        <item>თქვენი მაღვიძარის დარეკვამდე დარჩა 1 წუთზე ნაკლები</item>
+        <item>თქვენი მაღვიძარის დარეკვამდე დარჩა %1$s</item>
+        <item>თქვენი მაღვიძარის დარეკვამდე დარჩა %2$s</item>
+        <item>თქვენი მაღვიძარის დარეკვამდე დარჩა %1$s და %2$s</item>
+        <item>თქვენი მაღვიძარის დარეკვამდე დარჩა %3$s</item>
+        <item>თქვენი მაღვიძარის დარეკვამდე დარჩა %1$s და %3$s</item>
+        <item>თქვენი მაღვიძარის დარეკვამდე დარჩა %2$s და %3$s</item>
+        <item>თქვენი მაღვიძარის დარეკვამდე დარჩა %1$s, %2$s და %3$s</item>
+    </string-array>
+    <string-array name="week_start_entries">
+        <item>პარასკევი</item>
+        <item>შაბათი</item>
+        <item>კვირა</item>
+        <item>ორშაბათი</item>
+    </string-array>
+</resources>

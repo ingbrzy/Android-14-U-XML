@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="azure_title">Huppunärhi</string>
+    <string name="blackswan_title">Mustajoutsen</string>
+    <string name="cockatoo_title">Kakadu</string>
+    <string name="come_alive_title">Kuin elossa</string>
+    <string name="feathers_attribution">Kuva: Andrew Zuckerman</string>
+    <string name="feathers_description">Höyhenten värejä ja yksityiskohtia</string>
+    <string name="feathers_title">Höyhenet</string>
+    <string name="greenwinged_title">Vihreäsiipinen macao</string>
+    <string name="king_title">Kuningaskondori</string>
+    <string name="living_universe_title">Elävä maailmankaikkeus</string>
+    <string name="photos_memory_gallery_title">Muistosi</string>
+    <string name="pied_title">Afrikanvaris</string>
+    <string name="ringnecked_title">Kauluskaija</string>
+    <string name="seagull_title">Merilokki</string>
+</resources>

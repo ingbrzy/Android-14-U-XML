@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="switch_access_htmlDescription">你可使用按鈕裝置選取項目、捲動畫面、輸入文字及執行其他操作。</string>
+    <string name="switch_access_intro">如果你不方便直接操作觸控螢幕，可使用按鈕裝置控制 Android 裝置。 按鈕裝置可外接到裝置上，使用方式就像操作鍵盤或大型按鈕一樣。</string>
+</resources>

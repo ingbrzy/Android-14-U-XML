@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_install_failed_multi_app_desc">
+        <item quantity="other">Nije moguće završiti postavljanje jer instaliranje %1$d aplikacija nije uspjelo. Kontaktirajte direktno administratora sistema.</item>
+        <item quantity="one">Nije moguće završiti postavljanje jer instaliranje %1$d aplikacije nije uspjelo. Kontaktirajte direktno administratora sistema.</item>
+        <item quantity="few">Nije moguće završiti postavljanje jer instaliranje %1$d aplikacije nije uspjelo. Kontaktirajte direktno administratora sistema.</item>
+    </plurals>
+    <plurals name="app_install_failure_title">
+        <item quantity="other">Nije moguće instalirati aplikacije</item>
+        <item quantity="one">Nije moguće instalirati aplikacije</item>
+        <item quantity="few">Nije moguće instalirati aplikacije</item>
+    </plurals>
+    <plurals name="app_install_progress_desc">
+        <item quantity="other">Instalirane aplikacije: %1$d od %2$d</item>
+        <item quantity="one">Instalirane aplikacije: %1$d od %2$d</item>
+        <item quantity="few">Instalirane aplikacije: %1$d od %2$d</item>
+    </plurals>
+    <plurals name="app_uninstall_button">
+        <item quantity="other">Deinstaliraj aplikacije</item>
+        <item quantity="one">Deinstaliraj aplikacije</item>
+        <item quantity="few">Deinstaliraj aplikacije</item>
+    </plurals>
+    <plurals name="days_left_message">
+        <item quantity="other">Preostalo je još &lt;annotation id="numeric_time_left">^1&lt;/annotation> dana</item>
+        <item quantity="one">Preostao je još &lt;annotation id="numeric_time_left">^1&lt;/annotation> dan</item>
+        <item quantity="few">Preostala su još &lt;annotation id="numeric_time_left">^1&lt;/annotation> dana</item>
+    </plurals>
+    <plurals name="hours_left_message">
+        <item quantity="other">Preostalo je još &lt;annotation id="numeric_time_left">^1&lt;/annotation> sati</item>
+        <item quantity="one">Preostao je još &lt;annotation id="numeric_time_left">^1&lt;/annotation> sat</item>
+        <item quantity="few">Preostala su još &lt;annotation id="numeric_time_left">^1&lt;/annotation> sata</item>
+    </plurals>
+    <plurals name="number_of_additional_apps">
+        <item quantity="other">%1$d dodatnih aplikacija</item>
+        <item quantity="one">%1$d dodatna aplikacija</item>
+        <item quantity="few">%1$d dodatne aplikacije</item>
+    </plurals>
+    <plurals name="number_of_required_apps">
+        <item quantity="other">%1$d obaveznih aplikacija</item>
+        <item quantity="one">%1$d obavezna aplikacija</item>
+        <item quantity="few">%1$d obavezne aplikacije</item>
+    </plurals>
+    <plurals name="policy_apps_list_summary">
+        <item quantity="other">Nije moguće deinstalirati %d poslovnih aplikacija</item>
+        <item quantity="one">Nije moguće deinstalirati %d poslovnu aplikaciju</item>
+        <item quantity="few">Nije moguće deinstalirati %d poslovne aplikacije</item>
+    </plurals>
+    <plurals name="preinstalled_apps">
+        <item quantity="other">Instalirane aplikacije: %1$d od %2$d</item>
+        <item quantity="one">Instalirane aplikacije: %1$d od %2$d</item>
+        <item quantity="few">Instalirane aplikacije: %1$d od %2$d</item>
+    </plurals>
+    <plurals name="readable_name_applications">
+        <item quantity="other">Dostupno je %1$d aplikacija (instalirano %2$d, onemogućeno %3$d)</item>
+        <item quantity="one">Dostupna je %1$d aplikacija (instalirano %2$d, onemogućeno %3$d)</item>
+        <item quantity="few">Dostupne su %1$d aplikacije (instalirano %2$d, onemogućeno %3$d)</item>
+    </plurals>
+</resources>

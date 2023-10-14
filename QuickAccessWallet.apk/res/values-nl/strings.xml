@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_menu">Menu</string>
+    <string name="call_notification_answer_action">Beantwoorden</string>
+    <string name="call_notification_answer_video_action">Video</string>
+    <string name="call_notification_decline_action">Weigeren</string>
+    <string name="call_notification_hang_up_action">Ophangen</string>
+    <string name="call_notification_incoming_text">Inkomend gesprek</string>
+    <string name="call_notification_ongoing_text">Actief gesprek</string>
+    <string name="call_notification_screening_text">Een inkomend gesprek screenen</string>
+    <string name="error_generic">Er is een probleem opgetreden bij het ophalen van je kaarten. Probeer het later opnieuw.</string>
+    <string name="error_user_locked">Ontgrendel je telefoon om je betalingsgegevens te laden</string>
+    <string name="settings">Instellingen</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

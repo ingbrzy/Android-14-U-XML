@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="alarm_alert_snooze_duration">
+        <item quantity="other">%d amaminithi</item>
+        <item quantity="one">%d amaminithi</item>
+    </plurals>
+    <plurals name="alarm_alert_snooze_set">
+        <item quantity="other">Isnuza ngamaminithi angu-%d.</item>
+        <item quantity="one">Isnuza ngamaminithi angu-%d.</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%s izinsuku</item>
+        <item quantity="one">%s izinsuku</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">%s izinsuku ezidlule</item>
+        <item quantity="one">%s izinsuku ezidlule</item>
+    </plurals>
+    <plurals name="days_extra_short">
+        <item quantity="other">usuku olungu-%s</item>
+        <item quantity="one">usuku olungu-%s</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s amahora</item>
+        <item quantity="one">%s amahora</item>
+    </plurals>
+    <plurals name="hours_extra_short">
+        <item quantity="other">%sh</item>
+        <item quantity="one">%sh</item>
+    </plurals>
+    <plurals name="hours_short">
+        <item quantity="other">ihora %s</item>
+        <item quantity="one">ihora %s</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s amaminithi</item>
+        <item quantity="one">%s amaminithi</item>
+    </plurals>
+    <plurals name="minutes_extra_short">
+        <item quantity="other">%sm</item>
+        <item quantity="one">%sm</item>
+    </plurals>
+    <plurals name="minutes_short">
+        <item quantity="other">imizuzu %s</item>
+        <item quantity="one">imizuzu %s</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d izaziso ezintsha</item>
+        <item quantity="one">%d izaziso ezintsha</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%s amasekhondi</item>
+        <item quantity="one">%s amasekhondi</item>
+    </plurals>
+    <plurals name="seconds_extra_short">
+        <item quantity="other">%ss</item>
+        <item quantity="one">%ss</item>
+    </plurals>
+</resources>

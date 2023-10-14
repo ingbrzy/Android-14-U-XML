@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dots">
+        <item quantity="other">puncte %s</item>
+        <item quantity="one">punct %s</item>
+        <item quantity="few">puncte %s</item>
+    </plurals>
+    <plurals name="gestures_recorded_message">
+        <item quantity="other">%d de expresii înregistrate</item>
+        <item quantity="one">O expresie înregistrată</item>
+        <item quantity="few">%d expresii înregistrate</item>
+    </plurals>
+    <plurals name="label_num_keys_assigned_format">
+        <item quantity="other">%d de comutatoare atribuite</item>
+        <item quantity="one">%d comutator atribuit</item>
+        <item quantity="few">%d comutatoare atribuite</item>
+    </plurals>
+    <plurals name="label_num_scanning_loops_format">
+        <item quantity="other">%d de bucle</item>
+        <item quantity="one">%d buclă</item>
+        <item quantity="few">%d bucle</item>
+    </plurals>
+    <plurals name="line_speed_summary_format">
+        <item quantity="other">%.2f cm pe secundă</item>
+        <item quantity="one">1 cm pe secundă</item>
+        <item quantity="few">%.2f cm pe secundă</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d de notificări noi</item>
+        <item quantity="one">%d notificare nouă</item>
+        <item quantity="few">%d notificări noi</item>
+    </plurals>
+    <plurals name="time_delay_summary_format">
+        <item quantity="other">%.2f de secunde</item>
+        <item quantity="one">O secundă</item>
+        <item quantity="few">%.2f secunde</item>
+    </plurals>
+</resources>

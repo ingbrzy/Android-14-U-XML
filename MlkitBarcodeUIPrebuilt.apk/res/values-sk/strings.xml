@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">Prejsť nahor</string>
+    <string name="abc_action_mode_done">Hotovo</string>
+    <string name="abc_capital_off">VYP.</string>
+    <string name="abc_capital_on">ZAP.</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">odstrániť</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">medzerník</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Vyhľadať…</string>
+    <string name="abc_searchview_description_clear">Vymazať dopyt</string>
+    <string name="abc_searchview_description_search">Hľadať</string>
+    <string name="abc_searchview_description_submit">Odoslať dopyt</string>
+    <string name="abc_searchview_description_voice">Hlasové vyhľadávanie</string>
+    <string name="abc_toolbar_collapse_description">Zbaliť</string>
+    <string name="bottom_sheet_button_contact_text">@string/common_view</string>
+    <string name="bottom_sheet_button_matter_text">Nastavenie</string>
+    <string name="bottom_sheet_button_no_apps_text">Hľadať</string>
+    <string name="bottom_sheet_button_wifi_text">@string/common_connect</string>
+    <string name="bottom_sheet_copy_error_toast">Text sa do schránky nepodarilo skopírovať</string>
+    <string name="bottom_sheet_copy_success_toast">Text bol skopírovaný do schránky</string>
+    <string name="bottom_sheet_image_view_description">Ikona zobrazenej aplikácie</string>
+    <string name="bottom_sheet_sub_title_no_apps">Vyhľadávanie na Google Play</string>
+    <string name="bottom_sheet_title">Otvoriť v aplikácii</string>
+    <string name="bottom_sheet_title_app_found">Otvoriť v aplikácii %1$s</string>
+    <string name="bottom_sheet_title_contact">Zobraziť kontaktné údaje</string>
+    <string name="bottom_sheet_title_copy_text">Kopírovať text</string>
+    <string name="bottom_sheet_title_copy_text_button_text">@string/common_copy</string>
+    <string name="bottom_sheet_title_copy_text_button_text_copied">Skopírované</string>
+    <string name="bottom_sheet_title_matter">Nastavenie zariadenia</string>
+    <string name="bottom_sheet_title_passkey">Použite heslo</string>
+    <string name="bottom_sheet_title_payment">Zaplatiť pomocou:</string>
+    <string name="bottom_sheet_title_payment_setup">Nastaviť platbu:</string>
+    <string name="bottom_sheet_title_payment_setup_single_app">Nastaviť platbu: %1$s</string>
+    <string name="bottom_sheet_title_payment_single_app">Zaplatiť pomocou %1$s</string>
+    <string name="bottom_sheet_title_single_app_button_text">Otvoriť</string>
+    <string name="bottom_sheet_title_wifi">Pripojte sa k sieti Wi‑Fi</string>
+    <string name="bottomsheet_action_expand_halfway">Rozbaliť napoly</string>
+    <string name="bottomsheet_drag_handle_content_description">Presúvadlo</string>
+    <string name="camera_permission_dialog_button">OK</string>
+    <string name="camera_permission_dialog_message">"Služby Google Play vyžadujú prístup ku kamere vášho zariadenia, aby mohli naskenovať kód pre %1$s.
+
+Ak to chcete povoliť, udeľte v Nastaveniach službám Google Play prístup ku kamere."</string>
+    <string name="camera_permission_dialog_message_platform">"Služby Google Play vyžadujú prístup ku kamere vášho zariadenia, aby mohli naskenovať QR kód.
+
+Ak to chcete povoliť, udeľte v Nastaveniach službám Google Play prístup ku kamere."</string>
+    <string name="camera_permission_dialog_title">Vyžaduje sa povolenie na použite kamery</string>
+    <string name="cd_cancel_button">Zavrieť skener kódov</string>
+    <string name="cd_info_button">Otvoriť dialógové okno s informáciami</string>
+    <string name="cd_selected_photo_view">Zobrazenie vybraného obrázka</string>
+    <string name="cd_settings_button">Otvoriť nastavenia skenera</string>
+    <string name="cd_torch_button">Prepnúť baterku</string>
+    <string name="character_counter_content_description">Zadané znaky: %1$d z %2$d</string>
+    <string name="character_counter_overflowed_content_description">Bol prekročený povolený počet znakov (%1$d z %2$d)</string>
+    <string name="clear_text_end_icon_content_description">Vymazať text</string>
+    <string name="common_connect">Pripojiť</string>
+    <string name="common_continue">Pokračovať</string>
+    <string name="common_copy">Kopírovať</string>
+    <string name="common_google_play_services_enable_button">Povoliť</string>
+    <string name="common_google_play_services_enable_text">Aplikácia %1$s bude fungovať až po povolení služieb Google Play.</string>
+    <string name="common_google_play_services_enable_title">Povoliť služby Google Play</string>
+    <string name="common_google_play_services_install_button">Inštalovať</string>
+    <string name="common_google_play_services_install_text">Na spustenie aplikácie %1$s sa vyžadujú služby Google Play, ktoré na zariadení nemáte.</string>
+    <string name="common_google_play_services_install_title">Inštalovať služby Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Dostupnosť služieb Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Chyba služieb Google Play</string>
+    <string name="common_google_play_services_unknown_issue">Aplikácia %1$s má problémy so službami Google Play. Skúste to znova.</string>
+    <string name="common_google_play_services_unsupported_text">Aplikáciu %1$s nebude možné spustiť bez služieb Google Play, ktoré vaše zariadenie nepodporuje.</string>
+    <string name="common_google_play_services_update_button">Aktualizovať</string>
+    <string name="common_google_play_services_update_text">Aplikáciu %1$s bude možné spustiť až po aktualizácii služieb Google Play.</string>
+    <string name="common_google_play_services_update_title">Aktualizácia služieb Google Play</string>
+    <string name="common_google_play_services_updating_text">Na spustenie aplikácie %1$s sa vyžadujú služby Google Play, ktoré sa momentálne aktualizujú.</string>
+    <string name="common_google_play_services_wear_update_text">Vyžaduje sa nová verzia služieb Google Play. Aktualizujú sa automaticky v najbližšom čase.</string>
+    <string name="common_got_it">Dobre</string>
+    <string name="common_no_apps_found">Nenašli sa žiadne aplikácie</string>
+    <string name="common_open_on_phone">Otvoriť v telefóne</string>
+    <string name="common_view">Zobraziť</string>
+    <string name="error_a11y_label">Error: invalid</string>
+    <string name="error_icon_content_description">Chyba</string>
+    <string name="exposed_dropdown_menu_content_description">Zobraziť rozbaľovaciu ponuku</string>
+    <string name="info_dialog_button">@string/common_got_it</string>
+    <string name="info_dialog_message">"Aplikácia %1$s vyžaduje, aby služby Google Play naskenovali kód v jej mene. Budú sa zdieľať iba výsledky skenovania, nie údaje obrázka.
+
+Skenovanie prebieha v zariadení a Google žiadne údaje obrázka ani naskenované kódy neuloží."</string>
+    <string name="info_dialog_message_platform">Kameru tohto zariadenia používajú Služby Google Play. Údaje a obrázky naskenovaného kódu sa neukladajú a toto zariadenie neopustia.</string>
+    <string name="info_dialog_title">Zabezpečené Googlom</string>
+    <string name="info_dialog_title_platform">Používa technológiu Google</string>
+    <string name="manual_input_hint">Klepnite tu a zadajte kód ručne</string>
+    <string name="mtrl_checkbox_state_description_checked">Checked</string>
+    <string name="mtrl_checkbox_state_description_indeterminate">Partially checked</string>
+    <string name="mtrl_checkbox_state_description_unchecked">Not checked</string>
+    <string name="password_toggle_content_description">Zobraziť heslo</string>
+    <string name="qr_detection_failure_dialog_message">Vyskúšajte skenovať z inej fotky</string>
+    <string name="qr_detection_failure_dialog_title">Nebol nájdený žiadny QR kód</string>
+    <string name="scan_from_photo_title">Skenovať z fotky</string>
+    <string name="scanner_brand">Naskenované Googlom v mene spoločnosti %1$s</string>
+    <string name="scanner_brand_platform">@string/info_dialog_title_platform</string>
+    <string name="scanner_title">Skenovanie kódu</string>
+    <string name="scanner_title_platform">Skenovanie QR kódu</string>
+</resources>

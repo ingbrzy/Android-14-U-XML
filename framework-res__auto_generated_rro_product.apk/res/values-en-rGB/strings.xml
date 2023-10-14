@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_error_bad_calibration">Can’t use fingerprint sensor. Visit a repair provider or g.co/pixel/fingerprintunlock</string>
+    <string name="fingerprint_recalibrate_notification_content">Visit a repair provider or g.co/pixel/fingerprintunlock</string>
+    <string name="battery_saver_description_with_learn_more">"To extend battery life, Battery Saver:
+
+• Turns on Dark theme
+• Turns off or restricts background activity, some visual effects and other features like 'Hey Google'
+• Optimises your network connections
+
+"<annotation id="url">Learn more</annotation></string>
+</resources>

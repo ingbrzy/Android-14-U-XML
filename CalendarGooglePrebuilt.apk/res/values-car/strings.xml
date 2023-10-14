@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="survey_font">google-sans</string>
+    <string name="survey_font_medium">google-sans-medium</string>
+    <string name="survey_font_regular">google-sans-regular</string>
+</resources>

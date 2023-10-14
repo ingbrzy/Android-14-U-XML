@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sim_locked_notification_custom_content_array">
+        <item>Jei norite naudoti šią SIM kortelę, atrakinkite telefoną naudodami programą „Device Unlock“.</item>
+        <item>Susisiekite su mobiliojo ryšio paslaugos teikėju</item>
+    </string-array>
+</resources>

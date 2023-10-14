@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_install_failed_multi_app_desc">
+        <item quantity="other">"La configuració no es pot completar perquè no s'han pogut instal·lar %1$d aplicacions necessàries. Contacta directament amb l'administrador del sistema."</item>
+        <item quantity="one">"La configuració no es pot completar perquè no s'ha pogut instal·lar %1$d aplicació necessària. Contacta directament amb l'administrador del sistema."</item>
+        <item quantity="many">"Set-up can't be completed as %1$d required apps failed to install. Please contact your system administrator directly."</item>
+    </plurals>
+    <plurals name="app_install_failure_title">
+        <item quantity="other">"No s'han pogut instal·lar les aplicacions"</item>
+        <item quantity="one">"No s'ha pogut instal·lar l'aplicació"</item>
+        <item quantity="many">"Can't install apps"</item>
+    </plurals>
+    <plurals name="app_install_progress_desc">
+        <item quantity="other">Aplicacions instal·lades: %1$d de %2$d</item>
+        <item quantity="one">Aplicacions instal·lades: %1$d d’%2$d</item>
+        <item quantity="many">%1$d of %2$d apps installed</item>
+    </plurals>
+    <plurals name="app_uninstall_button">
+        <item quantity="other">Desinstal·la les aplicacions</item>
+        <item quantity="one">"Desinstal·la l'aplicació"</item>
+        <item quantity="many">Uninstall apps</item>
+    </plurals>
+    <plurals name="days_left_message">
+        <item quantity="other">Queden &lt;annotation id="numeric_time_left">^1&lt;/annotation> dies</item>
+        <item quantity="one">Queda &lt;annotation id="numeric_time_left">^1&lt;/annotation> dia</item>
+        <item quantity="many">&lt;annotation id="numeric_time_left">^1&lt;/annotation> days left</item>
+    </plurals>
+    <plurals name="hours_left_message">
+        <item quantity="other">Queden &lt;annotation id="numeric_time_left">^1&lt;/annotation> hores</item>
+        <item quantity="one">Queda &lt;annotation id="numeric_time_left">^1&lt;/annotation> hora</item>
+        <item quantity="many">&lt;annotation id="numeric_time_left">^1&lt;/annotation> hours left</item>
+    </plurals>
+    <plurals name="number_of_additional_apps">
+        <item quantity="other">%1$d aplicacions addicionals</item>
+        <item quantity="one">%1$d aplicació addicional</item>
+        <item quantity="many">%1$d additional apps</item>
+    </plurals>
+    <plurals name="number_of_required_apps">
+        <item quantity="other">%1$d aplicacions necessàries</item>
+        <item quantity="one">%1$d aplicació necessària</item>
+        <item quantity="many">%1$d required apps</item>
+    </plurals>
+    <plurals name="policy_apps_list_summary">
+        <item quantity="other">%d aplicacions de treball no es poden desinstal·lar</item>
+        <item quantity="one">%d aplicació de treball no es pot desinstal·lar</item>
+        <item quantity="many">"%d work apps can't be uninstalled"</item>
+    </plurals>
+    <plurals name="preinstalled_apps">
+        <item quantity="other">Aplicacions instal·lades: %1$d de %2$d</item>
+        <item quantity="one">Aplicacions instal·lades: %1$d d’%2$d</item>
+        <item quantity="many">%1$d of %2$d apps installed</item>
+    </plurals>
+    <plurals name="readable_name_applications">
+        <item quantity="other">%1$d aplicacions disponibles (instal·lades: %2$d; desactivades: %3$d)</item>
+        <item quantity="one">%1$d aplicació disponible (instal·lades: %2$d; desactivades: %3$d)</item>
+        <item quantity="many">%1$d apps available (%2$d installed, %3$d disabled)</item>
+    </plurals>
+</resources>

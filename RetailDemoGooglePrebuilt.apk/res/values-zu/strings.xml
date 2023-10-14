@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_retaildemoCommunication">Ivumela i-app ukuthi ihlanganyele Namasevisi Edemo Yokuthenga. Idemo Yokuthenga kuphela okufanele inikezwe le mvume. Ama-app anikezwe le mvume angaqalisa izenzo ezibekelwe Imodi Yedemo Yokuthenga.</string>
+    <string name="permlab_retaildemoCommunication">Ukuxhumana Kwedemo Yokuthenga</string>
+    <string name="retaildemo_preload_app_name">Amasevisi Edemo Yokuthenga</string>
+</resources>

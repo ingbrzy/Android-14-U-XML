@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="azure_title">Лазурная разноцветная сойка</string>
+    <string name="blackswan_title">Черный лебедь</string>
+    <string name="cockatoo_title">Какаду</string>
+    <string name="come_alive_title">Живой экран</string>
+    <string name="feathers_attribution">Фотограф: Эндрю Цукерман</string>
+    <string name="feathers_description">Цветные и детальные изображения пернатых.</string>
+    <string name="feathers_title">Пернатые</string>
+    <string name="greenwinged_title">Зеленокрылый ара</string>
+    <string name="king_title">Королевский гриф</string>
+    <string name="living_universe_title">Живая вселенная</string>
+    <string name="photos_memory_gallery_title">Ваши воспоминания</string>
+    <string name="pied_title">Пегий ворон</string>
+    <string name="ringnecked_title">Ожереловый попугай</string>
+    <string name="seagull_title">Чайка</string>
+</resources>

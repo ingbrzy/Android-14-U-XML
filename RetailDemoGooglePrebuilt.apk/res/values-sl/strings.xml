@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_retaildemoCommunication">Aplikaciji omogoča interakcijo s storitvami Retail Demo. To dovoljenje omogočite le za Retail Demo. Aplikacije, ki imajo omogočeno to dovoljenje, lahko sprožajo dejanja, rezervirana za način Retail Demo.</string>
+    <string name="permlab_retaildemoCommunication">Komunikacija Retail Demo</string>
+    <string name="retaildemo_preload_app_name">Storitve Retail Demo</string>
+</resources>

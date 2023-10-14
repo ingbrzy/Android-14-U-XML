@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_install_failed_multi_app_desc">
+        <item quantity="other">Поставувањето не може да се заврши бидејќи %1$d задолжителни апликации не успеаја да се инсталираат. Контактирајте директно со администраторот на системот.</item>
+        <item quantity="one">Поставувањето не може да се заврши бидејќи %1$d задолжителна апликација не успеа да се инсталира. Контактирајте директно со администраторот на системот.</item>
+    </plurals>
+    <plurals name="app_install_failure_title">
+        <item quantity="other">Апликациите не може да се инсталираат</item>
+        <item quantity="one">Апликациите не може да се инсталираат</item>
+    </plurals>
+    <plurals name="app_install_progress_desc">
+        <item quantity="other">Инсталирани се %1$d од %2$d апликации</item>
+        <item quantity="one">Инсталирани се %1$d од %2$d апликации</item>
+    </plurals>
+    <plurals name="app_uninstall_button">
+        <item quantity="other">Деинсталирај ги апликациите</item>
+        <item quantity="one">Деинсталирај ги апликациите</item>
+    </plurals>
+    <plurals name="days_left_message">
+        <item quantity="other">Преостануваат &lt;annotation id="numeric_time_left">^1&lt;/annotation> дена</item>
+        <item quantity="one">Преостанува &lt;annotation id="numeric_time_left">^1&lt;/annotation> ден</item>
+    </plurals>
+    <plurals name="hours_left_message">
+        <item quantity="other">Преостануваат уште &lt;annotation id="numeric_time_left">^1&lt;/annotation> часа</item>
+        <item quantity="one">Преостанува уште &lt;annotation id="numeric_time_left">^1&lt;/annotation> час</item>
+    </plurals>
+    <plurals name="number_of_additional_apps">
+        <item quantity="other">%1$d дополнителни апликации</item>
+        <item quantity="one">%1$d дополнителна апликација</item>
+    </plurals>
+    <plurals name="number_of_required_apps">
+        <item quantity="other">%1$d задолжителни апликации</item>
+        <item quantity="one">%1$d задолжителна апликација</item>
+    </plurals>
+    <plurals name="policy_apps_list_summary">
+        <item quantity="other">%d работни апликации не може да се деинсталираат</item>
+        <item quantity="one">%d работна апликација не може да се деинсталираат</item>
+    </plurals>
+    <plurals name="preinstalled_apps">
+        <item quantity="other">Инсталирани се %1$d од %2$d апликации</item>
+        <item quantity="one">Инсталирана е %1$d од %2$d апликации</item>
+    </plurals>
+    <plurals name="readable_name_applications">
+        <item quantity="other">%1$d апликации се достапни (%2$d се инсталирани %3$d се оневозможени)</item>
+        <item quantity="one">%1$d апликација е достапна (%2$d е инсталирана, %3$d е оневозможена)</item>
+    </plurals>
+</resources>

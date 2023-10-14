@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="other">%d ມື້ກ່ອນ</item>
+        <item quantity="one">%d ມື້ກ່ອນ</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="other">%d ນທ ກ່ອນ</item>
+        <item quantity="one">%d ນທ ກ່ອນ</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="other">%d ປີກ່ອນ</item>
+        <item quantity="one">%d ປິກ່ອນ</item>
+    </plurals>
+    <plurals name="assistant_custodio_device_list_fragment_legacy_linking_item_text">
+        <item quantity="other">ມີ %d ອຸປະກອນທີ່ໃຊ້ໄດ້</item>
+        <item quantity="one">ມີ %d ອຸປະກອນທີ່ໃຊ້ໄດ້</item>
+    </plurals>
+    <plurals name="assistant_custodio_device_list_home_section_subtitle_text">
+        <item quantity="other">%d ອຸປະກອນ</item>
+        <item quantity="one">%d ອຸປະກອນ</item>
+    </plurals>
+    <plurals name="assistant_holiday_alarms_notification_content_text">
+        <item quantity="other">Tap to pause or cancel your alarms</item>
+        <item quantity="one">Tap to pause or cancel your %s alarm</item>
+    </plurals>
+    <plurals name="assistant_holiday_alarms_notification_pause_button_text">
+        <item quantity="other">Pause your alarms for the holiday</item>
+        <item quantity="one">Pause your %s alarm for the holiday</item>
+    </plurals>
+    <plurals name="assistant_post_task_migration_succeed_notification_title">
+        <item quantity="other">%1$d reminders set up in Google Tasks</item>
+        <item quantity="one">%1$d reminder set up in Google Tasks</item>
+    </plurals>
+    <plurals name="assistantactions_n_phone_numbers">
+        <item quantity="other">%1$d numbers</item>
+        <item quantity="one">%1$d number</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">ທຸກໆ %d ມື້</item>
+        <item quantity="one">ທຸກໆມື້</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; %d ເທື່ອ</item>
+        <item quantity="one">; ເທື່ອດຽວ</item>
+    </plurals>
+    <plurals name="fa_message_preview_card_num_of_audio_messages">
+        <item quantity="other">%1$d ຂໍ້ຄວາມສຽງ</item>
+        <item quantity="one">%1$d ຂໍ້ຄວາມສຽງ</item>
+    </plurals>
+    <plurals name="fa_message_preview_card_num_of_pictures">
+        <item quantity="other">%1$d ຮູບພາບ</item>
+        <item quantity="one">%1$d ຮູບພາບ</item>
+    </plurals>
+    <plurals name="fa_message_preview_card_num_of_videos">
+        <item quantity="other">%1$d ວິດີໂອ</item>
+        <item quantity="one">%1$d ວິດີໂອ</item>
+    </plurals>
+    <plurals name="gestalt_duration_in_days_short">
+        <item quantity="other">%1$d ມື້</item>
+        <item quantity="one">%1$d ມື້</item>
+    </plurals>
+    <plurals name="gestalt_duration_in_hours_short">
+        <item quantity="other">%1$d ຊົ່ວໂມງ</item>
+        <item quantity="one">%1$d ຊົ່ວໂມງ</item>
+    </plurals>
+    <plurals name="gestalt_duration_in_minutes_short">
+        <item quantity="other">%1$d ນາທີ</item>
+        <item quantity="one">%1$d ນາທີ</item>
+    </plurals>
+    <plurals name="gestalt_duration_in_months_short">
+        <item quantity="other">%1$d ເດືອນ</item>
+        <item quantity="one">%1$d ເດືອນ</item>
+    </plurals>
+    <plurals name="gestalt_duration_in_years_short">
+        <item quantity="other">%1$d ປີ</item>
+        <item quantity="one">%1$d ປີ</item>
+    </plurals>
+    <plurals name="lens_region_search_area_percent">
+        <item quantity="other">%1$s %2$d ເປີເຊັນ</item>
+        <item quantity="one">%1$s %2$d ເປີເຊັນ</item>
+    </plurals>
+    <plurals name="monthly_interval">
+        <item quantity="other">ທຸກໆ %1$d ເດືອນ</item>
+        <item quantity="one">ທຸກໆເດືອນ</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d ການແຈ້ງເຕືອນໃໝ່</item>
+        <item quantity="one">%d ການແຈ້ງເຕືອນໃໝ່</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">ເລືອກ %1$d ແລ້ວ</item>
+        <item quantity="one">ເລືອກ %1$d ແລ້ວ</item>
+    </plurals>
+    <plurals name="peoplekit_chips_copied_recipients">
+        <item quantity="other">ສຳເນົາຜູ້ຮັບ %d ຄົນແລ້ວ</item>
+        <item quantity="one">ສຳເນົາຜູ້ຮັບ %d ຄົນແລ້ວ</item>
+    </plurals>
+    <plurals name="podcasts_days_ago">
+        <item quantity="other">%1$d ມື້ກ່ອນ</item>
+        <item quantity="one">%1$d ມື້ກ່ອນ</item>
+    </plurals>
+    <plurals name="podcasts_days_left_to_remove_downloads">
+        <item quantity="other">ຫຼັງຈາກ %1$d ມື້</item>
+        <item quantity="one">ຫຼັງຈາກ %1$d ມື້</item>
+    </plurals>
+    <plurals name="podcasts_enabled_podcasts_number_label">
+        <item quantity="other">ເປີດການນຳໃຊ້ສຳລັບພອດແຄສ %1$d ລາຍການຈາກທັງໝົດ %2$d ລາຍການ</item>
+        <item quantity="one">ເປີດການນຳໃຊ້ສຳລັບພອດແຄສ %1$d ລາຍການຈາກທັງໝົດ %2$d ລາຍການ</item>
+    </plurals>
+    <plurals name="podcasts_episode_list_title_text">
+        <item quantity="other">%1$d ຕອນ</item>
+        <item quantity="one">%1$d ຕອນ</item>
+    </plurals>
+    <plurals name="podcasts_hours_abbreviated">
+        <item quantity="other">%s ຊົ່ວໂມງ</item>
+        <item quantity="one">%s ຊົ່ວໂມງ</item>
+    </plurals>
+    <plurals name="podcasts_hours_ago">
+        <item quantity="other">%1$d ຊົ່ວໂມງກ່ອນ</item>
+        <item quantity="one">%1$d ຊົ່ວໂມງກ່ອນ</item>
+    </plurals>
+    <plurals name="podcasts_hours_left_to_remove_downloads">
+        <item quantity="other">ຫຼັງຈາກ %1$d ຊົ່ວໂມງ</item>
+        <item quantity="one">ຫຼັງຈາກ %1$d ຊົ່ວໂມງ</item>
+    </plurals>
+    <plurals name="podcasts_minutes_abbreviated">
+        <item quantity="other">%s ນາທີ</item>
+        <item quantity="one">%s ນາທີ</item>
+    </plurals>
+    <plurals name="podcasts_minutes_ago">
+        <item quantity="other">%1$d ນທ ກ່ອນ</item>
+        <item quantity="one">%1$d ນທ ກ່ອນ</item>
+    </plurals>
+    <plurals name="public_notification_text">
+        <item quantity="other">%1$d new notifications</item>
+        <item quantity="one">You have a notification</item>
+    </plurals>
+    <plurals name="readaloud_number_of_minutes">
+        <item quantity="other">%d ນາທີ</item>
+        <item quantity="one">%d ນາທີ</item>
+    </plurals>
+    <plurals name="readaloud_number_of_seconds">
+        <item quantity="other">%d ວິນາທີ</item>
+        <item quantity="one">%d ວິນາທີ</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">ສຳລັບ %d ນັດໝາຍ</item>
+        <item quantity="one">ສຳລັບ %d ນັດໝາຍ</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">ທຸກໆ %d ມື້</item>
+        <item quantity="one">ທຸກໆ %d ມື້</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">ທຸກໆ %d ເດືອນ</item>
+        <item quantity="one">ທຸກໆ %d ເດືອນ</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">ທຸກໆ %d ອາທິດ</item>
+        <item quantity="one">ທຸກໆ %d ອາທິດ</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">ທຸກໆ %d ປີ</item>
+        <item quantity="one">ທຸກໆ %d ປີ</item>
+    </plurals>
+    <plurals name="share_eta_button">
+        <item quantity="other">%d ນທ</item>
+        <item quantity="one">%d ນທ</item>
+    </plurals>
+    <plurals name="share_eta_message">
+        <item quantity="other">ຈະມາຮອດໃນປະມານ %d ນາທີ.</item>
+        <item quantity="one">ຈະມາຮອດໃນ %d ນາທີ.</item>
+    </plurals>
+    <plurals name="share_imminent_eta_message">
+        <item quantity="other">ຈະມາຮອດໃນ %d ນາທີ.</item>
+        <item quantity="one">ຈະມາຮອດໃນ %d ນາທີ.</item>
+    </plurals>
+    <plurals name="survey_star_rating">
+        <item quantity="other">%1$d ດາວຈາກເຕັມ %2$d</item>
+        <item quantity="one">%1$d ດາວຈາກເຕັມ %2$d.</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">ທຸກໆ %1$d ອາທິດໃນ %2$s</item>
+        <item quantity="one">ທຸກໆອາທິດໃນ %2$s</item>
+    </plurals>
+    <plurals name="yearly_interval_plain">
+        <item quantity="other">ທຸກໆ %1$d ປີ</item>
+        <item quantity="one">ທຸກໆປີ</item>
+    </plurals>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Google Wallpaper Images</string>
+    <string name="azure_title">Azure jay</string>
+    <string name="blackswan_title">Black swan</string>
+    <string name="cockatoo_title">Cockatoo</string>
+    <string name="come_alive_title">Come Alive</string>
+    <string name="feathers_attribution">Photo by Andrew Zuckerman</string>
+    <string name="feathers_description">A feathery display of color and detail</string>
+    <string name="feathers_title">Feathers</string>
+    <string name="greenwinged_title">Green-winged macaw</string>
+    <string name="king_title">King vulture</string>
+    <string name="living_universe_title">Living Universe</string>
+    <string name="photos_memory_gallery_title">Your memories</string>
+    <string name="pied_title">Pied crow</string>
+    <string name="ringnecked_title">Ring-necked parakeet</string>
+    <string name="seagull_title">Seagull</string>
+</resources>

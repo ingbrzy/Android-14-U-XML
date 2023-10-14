@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="activation_error_chat_with_us_details">
+        <item quantity="other">Estimate wait: %1$d minutes</item>
+        <item quantity="one">Estimate wait: %1$d minute</item>
+    </plurals>
+    <plurals name="add_device_confirmation">
+        <item quantity="other">"Hooray! You'll get an email with your order status in the next %1$d minutes."</item>
+        <item quantity="one">"Hooray! You'll get an email with your order status in the next %1$d minute."</item>
+    </plurals>
+    <plurals name="add_device_confirmation_dpp_text">
+        <item quantity="other">You can still enroll your phone in device protection between now and %1$d days after it ships.</item>
+        <item quantity="one">You can still enroll your phone in device protection between now and %1$d day after it ships.</item>
+    </plurals>
+    <plurals name="add_member_pending_invites_disclaimer">
+        <item quantity="other">"This doesn't include your %1$d pending invites (%2$s)."</item>
+        <item quantity="one">"This doesn't include your %1$d pending invite (%2$s)."</item>
+    </plurals>
+    <plurals name="blocked_title">
+        <item quantity="other">%1$d blocked numbers</item>
+        <item quantity="one">%d blocked number</item>
+    </plurals>
+    <plurals name="data_cap_caption_other_unthrottled">
+        <item quantity="other">"You'll be able to set a data budget for %1$s when your next cycle starts in %2$d days."</item>
+        <item quantity="one">"You'll be able to set a data budget for %1$s when your next cycle starts in %2$d day."</item>
+    </plurals>
+    <plurals name="data_cap_caption_self_unthrottled">
+        <item quantity="other">"You'll be able to set a data budget when your next cycle starts in %1$d days."</item>
+        <item quantity="one">"You'll be able to set a data budget when your next cycle starts in %1$d day."</item>
+    </plurals>
+    <plurals name="data_only_sim_bill_cap_group_cap">
+        <item quantity="other">No extra costs — just pay for the data your group uses up to %1$s for a group of %2$d</item>
+    </plurals>
+    <plurals name="data_only_sim_bill_cap_group_rate_cap">
+        <item quantity="other">No extra costs — just pay %1$s for the data you use up to %2$s for a group of %3$d</item>
+    </plurals>
+    <plurals name="device_details_financing">
+        <item quantity="other">%1$d payments left</item>
+        <item quantity="one">%1$d payment left</item>
+    </plurals>
+    <plurals name="device_details_subscription">
+        <item quantity="other">Upgrade in %1$d months</item>
+        <item quantity="one">Upgrade in %1$d month</item>
+    </plurals>
+    <plurals name="device_insurance_body_unnamed_devices">
+        <item quantity="other">Do you want to continue device protection for %1$d devices?</item>
+        <item quantity="one">Do you want to continue device protection for %1$d device?</item>
+    </plurals>
+    <plurals name="device_protection_description_unnamed_devices">
+        <item quantity="other">Coverage for %1$d devices</item>
+        <item quantity="one">Coverage for %1$d device</item>
+    </plurals>
+    <plurals name="device_subscription_remaining">
+        <item quantity="other">%1$d months until upgrade</item>
+        <item quantity="one">%1$d month until upgrade</item>
+    </plurals>
+    <plurals name="international_call_detail">
+        <item quantity="other">%1$d minutes at %2$s/﻿minute</item>
+        <item quantity="one">%1$d minute at %2$s/﻿minute</item>
+    </plurals>
+    <plurals name="international_call_detail_wifi">
+        <item quantity="other">%1$d minutes at %2$s/﻿minute (Wi‑Fi)</item>
+        <item quantity="one">%1$d minute at %2$s/﻿minute (Wi‑Fi)</item>
+    </plurals>
+    <plurals name="line_item_device_replacement_charge">
+        <item quantity="other">Device replacement charges</item>
+        <item quantity="one">Device replacement charge</item>
+    </plurals>
+    <plurals name="line_item_insurance_premium_detail_entry">
+        <item quantity="other">%1$d devices at %2$s/device</item>
+        <item quantity="one">%1$d device at %2$s</item>
+    </plurals>
+    <plurals name="months_left_financing">
+        <item quantity="other">%1$d months left at %2$s/﻿month</item>
+        <item quantity="one">%1$d month left at %2$s/﻿month</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d new notifications</item>
+        <item quantity="one">%d new notification</item>
+    </plurals>
+    <plurals name="n_days">
+        <item quantity="other">%d days</item>
+        <item quantity="one">%d day</item>
+    </plurals>
+    <plurals name="n_devices">
+        <item quantity="other">%1$d devices</item>
+        <item quantity="one">%1$d device</item>
+    </plurals>
+    <plurals name="n_hours">
+        <item quantity="other">%d hours</item>
+        <item quantity="one">%d hour</item>
+    </plurals>
+    <plurals name="n_minutes">
+        <item quantity="other">%d minutes</item>
+        <item quantity="one">%d minute</item>
+    </plurals>
+    <plurals name="n_months">
+        <item quantity="other">%1$d months</item>
+        <item quantity="one">%1$d month</item>
+    </plurals>
+    <plurals name="n_people">
+        <item quantity="other">%1$d people</item>
+        <item quantity="one">%1$d person</item>
+    </plurals>
+    <plurals name="n_weeks">
+        <item quantity="other">%1$d weeks</item>
+        <item quantity="one">%1$d week</item>
+    </plurals>
+    <plurals name="n_years">
+        <item quantity="other">%1$d years</item>
+        <item quantity="one">%1$d year</item>
+    </plurals>
+    <plurals name="nebula_welcome_page_title">
+        <item quantity="other">Your next %1$d days are on us</item>
+        <item quantity="one">Your next %1$d day is on us</item>
+    </plurals>
+    <plurals name="pay_off_devices_body_step_one">
+        <item quantity="other">Schedule payoff of the existing balance on one or more of your devices:</item>
+        <item quantity="one">Schedule payoff of the existing balance on:</item>
+    </plurals>
+    <plurals name="phone_contact_title">
+        <item quantity="other">%1$d phone contacts</item>
+        <item quantity="one">%1$d phone contact</item>
+    </plurals>
+    <plurals name="plan_switch_details">
+        <item quantity="other">Choose between %1$d plans</item>
+        <item quantity="one">Choose a plan</item>
+    </plurals>
+    <plurals name="positive_delta">
+        <item quantity="other">+%d</item>
+        <item quantity="zero">%d</item>
+    </plurals>
+    <plurals name="purchase_subscription_upgrade_months">
+        <item quantity="other">Phone upgrade after %1$d months</item>
+        <item quantity="one">Phone upgrade after %1$d month</item>
+    </plurals>
+    <plurals name="purchase_subscription_upgrade_years">
+        <item quantity="other">Phone upgrade after %1$d years</item>
+        <item quantity="one">Phone upgrade after %1$d year</item>
+    </plurals>
+    <plurals name="subscription_payment_details">
+        <item quantity="other">&lt;b>Save %1$s total.&lt;/b> Includes a %2$s with an upgrade after %3$d years.</item>
+        <item quantity="one">&lt;b>Save %1$s total.&lt;/b> Includes a %2$s with an upgrade after %3$d year.</item>
+    </plurals>
+    <plurals name="subscription_payment_details_no_savings">
+        <item quantity="other">Includes a %1$s with an upgrade after %2$d years.</item>
+        <item quantity="one">Includes a %1$s with an upgrade after %2$d year.</item>
+    </plurals>
+    <plurals name="subscription_upgrade_label">
+        <item quantity="other">"It's time for your upgrade! You've been on Fi's phone subscription for %1$d years, so you're eligible to upgrade to a new %2$s for %3$s/﻿month. &lt;a href=\"#clickify\">Learn&amp;nbsp;more&lt;/a>"</item>
+        <item quantity="one">"It's time for your upgrade! You've been on Fi's phone subscription for %1$d year, so you're eligible to upgrade to a new %2$s for %3$s/﻿month. &lt;a href=\"#clickify\">Learn&amp;nbsp;more&lt;/a>"</item>
+    </plurals>
+    <plurals name="survey_star_rating">
+        <item quantity="other">%1$d stars out of %2$d</item>
+        <item quantity="one">%1$d star out of %2$d</item>
+    </plurals>
+    <plurals name="time_elapsed_hours_talk_back_format">
+        <item quantity="other">%d hours</item>
+        <item quantity="one">%d hour</item>
+    </plurals>
+    <plurals name="time_elapsed_minutes_talk_back_format">
+        <item quantity="other">%d minutes</item>
+        <item quantity="one">%d minute</item>
+    </plurals>
+    <plurals name="time_elapsed_seconds_talk_back_format">
+        <item quantity="other">%d seconds</item>
+        <item quantity="one">%d second</item>
+    </plurals>
+    <plurals name="troubleshooting_fixing_misconfiguration">
+        <item quantity="other">Take action on the items below</item>
+        <item quantity="one">Take action on the item below</item>
+    </plurals>
+    <plurals name="unlimited_cost_add_member">
+        <item quantity="other">%1$d people, %2$s each</item>
+        <item quantity="one">%1$d person, %2$s</item>
+    </plurals>
+    <plurals name="x_days_left">
+        <item quantity="other">%1$d days left</item>
+        <item quantity="one">%1$d day left</item>
+    </plurals>
+    <plurals name="x_days_left_sentence">
+        <item quantity="other">Your current cycle ends in %1$d days</item>
+        <item quantity="one">Your current cycle ends in %1$d day</item>
+    </plurals>
+</resources>

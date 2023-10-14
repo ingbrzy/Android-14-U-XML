@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="account_exists_text_multiple">
+        <item quantity="other">"Ja s'han afegit aquests comptes:
+
+"&lt;annotation textAppearance="TextAppearance.SudDescription.Medium">^1&lt;/annotation></item>
+        <item quantity="one">"Ja s'ha afegit aquest compte:
+
+"&lt;annotation textAppearance="TextAppearance.SudDescription.Medium">^1&lt;/annotation></item>
+    </plurals>
+    <plurals name="people_contacts_sync_failure_in_contacts_title_in_portal">
+        <item quantity="other">"No s'han pogut sincronitzar %1$,d de %2$,d contactes"</item>
+        <item quantity="one">"No s'ha pogut sincronitzar %1$,d d’%2$,d contacte"</item>
+    </plurals>
+    <plurals name="people_contacts_sync_failure_in_photos_title_in_portal">
+        <item quantity="other">"No s'han pogut sincronitzar %1$,d de %2$,d fotos de contactes"</item>
+        <item quantity="one">"No s'ha pogut sincronitzar %1$,d d’%2$,d foto de contacte"</item>
+    </plurals>
+    <plurals name="people_contacts_sync_succeed_title_in_portal">
+        <item quantity="other">"S'han sincronitzat %,d contactes amb Contactes de Google"</item>
+        <item quantity="one">"S'ha sincronitzat %,d contacte amb Contactes de Google"</item>
+    </plurals>
+    <plurals name="qr_provision_toast">
+        <item quantity="other">%d tocs més per iniciar la configuració amb el codi QR</item>
+        <item quantity="one">%d toc més per iniciar la configuració amb el codi QR</item>
+    </plurals>
+    <plurals name="slots_selection_text">
+        <item quantity="other">"S'han afegit %d números al dispositiu, però només se'n pot utilitzar un."</item>
+        <item quantity="one">"S'ha afegit %d número al dispositiu, però només se'n pot utilitzar un."</item>
+    </plurals>
+    <plurals name="survey_star_rating">
+        <item quantity="other">%1$d estrelles de %2$d</item>
+        <item quantity="one">%1$d estrella de %2$d</item>
+    </plurals>
+</resources>

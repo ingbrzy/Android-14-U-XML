@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_install_failed_multi_app_desc">
+        <item quantity="other">%1$d የሚያስፈልጉ መተግበሪያዎች ሊጫኑ ስላልቻሉ ማዋቀር ሊጠናቀቅ አልቻለም። እባክዎ የስርዓትዎን አስተዳዳሪ በቀጥታ ያነጋግሩ።</item>
+        <item quantity="one">%1$d የሚያስፈልጉ መተግበሪያዎች ሊጫኑ ስላልቻሉ ማዋቀር ሊጠናቀቅ አልቻለም። እባክዎ የስርዓትዎን አስተዳዳሪ በቀጥታ ያነጋግሩ።</item>
+    </plurals>
+    <plurals name="app_install_failure_title">
+        <item quantity="other">መተግበሪያዎችን መጫን አይቻልም</item>
+        <item quantity="one">መተግበሪያዎችን መጫን አይቻልም</item>
+    </plurals>
+    <plurals name="app_install_progress_desc">
+        <item quantity="other">%1$d ከ%2$d መተግበሪያዎች ተጭነዋል</item>
+        <item quantity="one">%1$d ከ%2$d መተግበሪያዎች ተጭነዋል</item>
+    </plurals>
+    <plurals name="app_uninstall_button">
+        <item quantity="other">መተግበሪያዎችን አራግፍ</item>
+        <item quantity="one">መተግበሪያዎችን አራግፍ</item>
+    </plurals>
+    <plurals name="days_left_message">
+        <item quantity="other">&lt;annotation id="numeric_time_left">^1&lt;/annotation> ቀኖች ቀርተዋል</item>
+        <item quantity="one">&lt;annotation id="numeric_time_left">^1&lt;/annotation> ቀኖች ቀርተዋል</item>
+    </plurals>
+    <plurals name="hours_left_message">
+        <item quantity="other">&lt;annotation id="numeric_time_left">^1&lt;/annotation> ሰዓቶች ይቀራሉ</item>
+        <item quantity="one">&lt;annotation id="numeric_time_left">^1&lt;/annotation> ሰዓቶች ይቀራሉ</item>
+    </plurals>
+    <plurals name="number_of_additional_apps">
+        <item quantity="other">%1$d ተጨማሪ መተግበሪያዎች</item>
+        <item quantity="one">%1$d ተጨማሪ መተግበሪያ</item>
+    </plurals>
+    <plurals name="number_of_required_apps">
+        <item quantity="other">%1$d የተጠየቁ መተግበሪያዎች</item>
+        <item quantity="one">%1$d የተጠየቀ መተግበሪያ</item>
+    </plurals>
+    <plurals name="policy_apps_list_summary">
+        <item quantity="other">%d የስራ መተግበሪያዎች ሊራገፉ አይችሉም</item>
+        <item quantity="one">%d የስራ መተግበሪያዎች ሊራገፉ አይችሉም</item>
+    </plurals>
+    <plurals name="preinstalled_apps">
+        <item quantity="other">%1$d ከ%2$d መተግበሪያዎች ተጭነዋል</item>
+        <item quantity="one">%1$d ከ%2$d መተግበሪያዎች ተጭነዋል</item>
+    </plurals>
+    <plurals name="readable_name_applications">
+        <item quantity="other">%1$d መተግበሪያዎች ይገኛሉ (%2$d ተጭነዋል፣ %3$d ተሰናክለዋል)</item>
+        <item quantity="one">%1$d መተግበሪያዎች ይገኛሉ (%2$d ተጭነዋል፣ %3$d ተሰናክለዋል)</item>
+    </plurals>
+</resources>

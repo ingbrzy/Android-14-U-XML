@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Servicii pe mai multe dispozitive</string>
+    <string name="app_name_generic">o aplicație</string>
+    <string name="app_stream_error_generic">A apărut o eroare în timpul trimiterii aplicațiilor</string>
+    <string name="app_stream_init_error_generic">Nu a reușit trimiterea aplicațiilor pe Chromebook</string>
+    <string name="audio_permission_rationale">Permisiunea pentru microfon pentru trimiterea aplicațiilor este dezactivată</string>
+    <string name="cancel_button_label">Anulează</string>
+    <string name="chromebook_keyboard">Tastatura Chromebookului</string>
+    <string name="chromebook_mouse">Mouse-ul Chromebookului</string>
+    <string name="chromebook_touchscreen">Ecranul tactil al Chromebookului</string>
+    <string name="connect_device">Se conectează telefonul la dispozitivul de la distanță: %1$s</string>
+    <string name="decline_button_label">Respinge</string>
+    <string name="development_notification_channel_name">Dezvoltare</string>
+    <string name="device_camera_cannot_access">Nu se poate accesa camera foto a dispozitivului de pe acest Chromebook</string>
+    <string name="done_button_label">Gata</string>
+    <string name="enable_button_label">Activează</string>
+    <string name="foreground_service_notification_channel_name">General</string>
+    <string name="foreground_service_notification_content">Atinge pentru a modifica setările</string>
+    <string name="foreground_service_notification_title">{0,plural, =1{S-a conectat la # dispozitiv}few{S-a conectat la # dispozitive}other{S-a conectat la # de dispozitive}}</string>
+    <string name="interactive_streaming_generic_notification">Se transmite în stream %1$s și se sincronizează notificările pentru Chromebook</string>
+    <string name="interactive_streaming_individual_notification">Se redă în stream %1$s și se sincronizează notificările pentru %2$s</string>
+    <string name="interactive_streaming_notification">Se face streaming pe Chromebook</string>
+    <string name="keyboard_name">Tastatură pentru mai multe dispozitive</string>
+    <string name="lock_screen_notif_warning_content">Activează notificările pe ecranul de blocare</string>
+    <string name="lock_screen_notif_warning_title">Notificările nu se vor redirecționa</string>
+    <string name="mouse_name">Mouse pentru mai multe dispozitive</string>
+    <string name="new_connection_confirm">Confirm</string>
+    <string name="new_connection_deny">Refuză</string>
+    <string name="new_connection_title">Confirmă șirurile</string>
+    <string name="notification_access_missing">Este necesar accesul la notificări</string>
+    <string name="notification_access_missing_description">Pentru a deschide notificările pe Chromebook, activează Accesul la notificări</string>
+    <string name="notification_channel_name">Generale</string>
+    <string name="notification_listener_label">Trimite aplicații pe Chromebook</string>
+    <string name="open_source_licenses">Licențe open source</string>
+    <string name="phone_permission_rationale">Permisiunea pentru apeluri telefonice pentru trimiterea aplicațiilor este dezactivată</string>
+    <string name="prompt_switch_languages">Apasă shift + spațiu ca să schimbi limba Gboard a telefonului</string>
+    <string name="settings_button">Setări</string>
+    <string name="stop_sharing_button">Încheie streamul</string>
+    <string name="stream_termination_proximity_warning">Telefonul este prea departe. Adu-l mai aproape pentru a continua redarea în stream.</string>
+    <string name="substitute_app_name">Sistem</string>
+    <string name="summary_disable_wirecutter">Dezactivat</string>
+    <string name="summary_enable_wirecutter">Activat</string>
+    <string name="touchscreen_name">Ecran tactil pentru mai multe dispozitive</string>
+</resources>

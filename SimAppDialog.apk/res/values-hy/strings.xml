@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sim App Dialog</string>
+    <string name="call_notification_answer_action">Պատասխանել</string>
+    <string name="call_notification_answer_video_action">Տեսազանգ</string>
+    <string name="call_notification_decline_action">Մերժել</string>
+    <string name="call_notification_hang_up_action">Ավարտել</string>
+    <string name="call_notification_incoming_text">Մուտքային զանգ</string>
+    <string name="call_notification_ongoing_text">Ընթացիկ զանգ</string>
+    <string name="call_notification_screening_text">Մուտքային զանգի զտում</string>
+    <string name="install_carrier_app_defer_action">Ոչ հիմա</string>
+    <string name="install_carrier_app_description">Նոր SIM քարտի պատշաճ աշխատանքն ապահովելու համար տեղադրեք %1$s օպերատորի հավելվածը</string>
+    <string name="install_carrier_app_description_default">Նոր SIM քարտի պատշաճ աշխատանքն ապահովելու համար տեղադրեք օպերատորի հավելվածը</string>
+    <string name="install_carrier_app_download_action">Ներբեռնել հավելվածը</string>
+    <string name="install_carrier_app_title">Ակտիվացրեք բջջային կապը</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="suw_back_button_label">Հետ</string>
+    <string name="suw_more_button_label">Ավելին</string>
+    <string name="suw_next_button_label">Առաջ</string>
+</resources>

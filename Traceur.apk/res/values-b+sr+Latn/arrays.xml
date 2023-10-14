@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="select_logpersist_summaries">
+        <item>Isključeno</item>
+        <item>Sve međumemorije evidencija</item>
+        <item>Sve osim međumemorija evidencija za radio</item>
+        <item>samo međumemorija evidencije jezgra</item>
+    </string-array>
+</resources>

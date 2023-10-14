@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_retaildemoCommunication">"Колдонмолорго Retail Demo кызматтары менен иштешүүгө мүмкүнчүлүк берет. Бул уруксат Retail Demo'го гана берилиши керек. Бул уруксатты алган колдонмолор Retail Demo режиминдеги аракеттерди аткара алышат."</string>
+    <string name="permlab_retaildemoCommunication">Retail Demo Байланышуу</string>
+    <string name="retaildemo_preload_app_name">Retail Demo кызматтары</string>
+</resources>

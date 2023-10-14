@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bundle1_color_name">ຄາບອນ</string>
+    <string name="bundle2_color_name">ເຈ້ຍ</string>
+    <string name="bundle3_color_name">ຕາເວັນ</string>
+    <string name="color_name_monochromatic">ສີດຽວ</string>
+    <string name="default_color_name">ຄລາສສິກ</string>
+    <string name="fruit1_color_name">ຖາດ 2 ສີ ເຫຼືອງ ແລະ ແດງ</string>
+    <string name="fruit2_color_name">ຖາດ 2 ສີ ຂຽວ ແລະ ສົ້ມ</string>
+    <string name="fruit3_color_name">ຖາດ 2 ສີ ຟ້າ ແລະ ຂຽວ</string>
+    <string name="fruit4_color_name">ຖາດ 2 ສີ ມ່ວງອ່ອນ ແລະ ຟ້າ</string>
+    <string name="fruit5_color_name">ຖາດ 2 ສີ ບົວ ແລະ ຄາມ</string>
+    <string name="rainbow1_color_name">ແດງ</string>
+    <string name="rainbow2_color_name">ສົ້ມ</string>
+    <string name="rainbow3_color_name">ເຫຼືອງ</string>
+    <string name="rainbow4_color_name">ຂຽວ</string>
+    <string name="rainbow5_color_name">ຟ້າ</string>
+    <string name="rainbow6_color_name">ຄາມ</string>
+    <string name="rainbow7_color_name">ມ່ວງອົມຟ້າ</string>
+</resources>

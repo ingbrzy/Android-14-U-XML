@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="service_description_supported_languages">‏يتيح لك تطبيق Voice Access التحكّم في جهاز Android الخاص بك بدون لمسه. ويمكنك استخدام الطلبات الصوتية لفتح التطبيقات والنقر على الأزرار والتنقّل في أقسام الجهاز والكتابة وغير ذلك. يتوفّر هذا التطبيق حاليًا باللغات الإنجليزية والفرنسية والإيطالية والألمانية والإسبانية فقط.</string>
+    <string name="service_summary">التحكّم في الجهاز عبر الصوت</string>
+    <string name="voice_access_htmlDescription">‏يمكنك التحدث إلى تطبيق Voice Access والتحكم في جهازك بدون لمسه. يمكنك تجربة قول:&lt;br> &lt;br> &lt;ul> &lt;li>‏⁦go home⁩ (الانتقال إلى الصفحة الرئيسية) &lt;li>‏⁦go back⁩ (الرجوع) &lt;li>⁦show notifications⁩ (عرض الإشعارات) &lt;li>‏⁦click OK⁩ (النقر على حسنًا) &lt;li>⁦open photos⁩ (فتح الصور) &lt;/ul> &lt;br> يتوفّر العديد من الطلبات الأخرى. عندما يبدأ تطبيق Voice Access بالاستماع، يمكنك قول \"what can I say?‎\" (ما الذي يمكنني قوله؟) للحصول على مزيد من المعلومات.</string>
+</resources>

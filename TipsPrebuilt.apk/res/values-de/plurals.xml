@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="setup_info_module_tip_count_text">
+        <item quantity="other">%1$d Tipps</item>
+        <item quantity="one">%1$d Tipp</item>
+    </plurals>
+    <plurals name="tip_count_text">
+        <item quantity="other">%1$d von %2$d Tipps angesehen</item>
+        <item quantity="one">%1$d von %2$d Tipp angesehen</item>
+    </plurals>
+</resources>

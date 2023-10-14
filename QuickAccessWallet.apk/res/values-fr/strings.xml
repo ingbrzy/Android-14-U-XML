@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_menu">Menu</string>
+    <string name="call_notification_answer_action">Répondre</string>
+    <string name="call_notification_answer_video_action">Vidéo</string>
+    <string name="call_notification_decline_action">Refuser</string>
+    <string name="call_notification_hang_up_action">Raccrocher</string>
+    <string name="call_notification_incoming_text">Appel entrant</string>
+    <string name="call_notification_ongoing_text">Appel en cours</string>
+    <string name="call_notification_screening_text">"Filtrage d'un appel entrant"</string>
+    <string name="error_generic">Un problème est survenu lors de la récupération de vos cartes. Veuillez réessayer plus tard.</string>
+    <string name="error_user_locked">Déverrouillez le téléphone pour charger vos informations de paiement</string>
+    <string name="settings">Paramètres</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

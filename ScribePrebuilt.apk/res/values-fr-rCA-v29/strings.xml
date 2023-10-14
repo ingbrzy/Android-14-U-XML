@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="live_transcribe_description">"Transcription instantanée capture la parole avec le microphone de l'appareil et l'affiche sous forme de texte.
+
+Google traite vos conversations, mais ne les stocke jamais."</string>
+</resources>

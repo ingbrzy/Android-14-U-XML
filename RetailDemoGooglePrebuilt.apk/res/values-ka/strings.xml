@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_retaildemoCommunication">აპს აძლევს Retail Demo სერვისებთან ინტერაციის საშუალებას. ეს ნებართვა მხოლოდ Retail Demo-ს უნდა მიენიჭოს. ამ ნებართვის მქონე აპებს Retail Demo რეჟიმისთვის განკუთვნილი მოქმედებების გაშვება შეუძლია.</string>
+    <string name="permlab_retaildemoCommunication">Retail Demo კომუნიკაცია</string>
+    <string name="retaildemo_preload_app_name">Retail Demo სერვის.</string>
+</resources>

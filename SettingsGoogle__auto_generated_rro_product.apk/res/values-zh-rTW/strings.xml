@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="desc_ProfileIcons1">淺綠色背景上有兩個深綠色半圓的有趣插圖</string>
+    <string name="desc_ProfileIcons10">黃色背景上有橙色蝴蝶的有趣插圖</string>
+    <string name="desc_ProfileIcons11">深灰色背景上有圓滑邊緣的黑色鼻子圖形</string>
+    <string name="desc_ProfileIcons12">淺灰色背景上有圓滑邊緣的黑色幸運草圖形</string>
+    <string name="desc_ProfileIcons13">深紫色背景上有淺紫色波浪狀圓形</string>
+    <string name="desc_ProfileIcons14">橙色背景上有圓滑邊緣的淺藍色幸運草圖形</string>
+    <string name="desc_ProfileIcons15">深綠色背景上有圓滑邊緣的淺綠色六邊形</string>
+    <string name="desc_ProfileIcons16">淺灰色背景上有圓滑邊緣的黑色鑽石圖形</string>
+    <string name="desc_ProfileIcons17">黃色背景上有橙色葉子的有趣插圖</string>
+    <string name="desc_ProfileIcons18">蜜桃色背景上有行星土星的有趣插圖</string>
+    <string name="desc_ProfileIcons19">在黑色背景上，由白色及橙色星星和圓點構成滿天星斗的有趣插圖</string>
+    <string name="desc_ProfileIcons2">黑白交錯圓柱形狀的抽象插圖</string>
+    <string name="desc_ProfileIcons20">黃色背景上有一隻狗，狗兒有著藍色耳朵和白色臉孔的有趣插圖</string>
+    <string name="desc_ProfileIcons21">紫色背景上有白鴿銜著橄欖枝飛翔的有趣插圖</string>
+    <string name="desc_ProfileIcons22">藍色背景上有一隻狗，狗兒有著黑色耳朵和白色臉孔的有趣插圖</string>
+    <string name="desc_ProfileIcons23">奶油色背景上由粉色花朵及綠葉構成的有趣插圖</string>
+    <string name="desc_ProfileIcons24">紅色背景上有六個藍色圓柱體的抽象插圖</string>
+    <string name="desc_ProfileIcons3">深藍色背景上有淺藍色幸運草圖形的抽象插圖</string>
+    <string name="desc_ProfileIcons4">由兩個粉紅色立體三角形構成的抽象插圖</string>
+    <string name="desc_ProfileIcons5">黃色背景上有藍綠色分層的抽象插圖</string>
+    <string name="desc_ProfileIcons6">綠色背景上有紫色岩石的抽象插圖</string>
+    <string name="desc_ProfileIcons7">橙色背景上有五朵白色幾何花朵的有趣插圖</string>
+    <string name="desc_ProfileIcons8">粉色背景上有三顆藍莓的有趣插圖</string>
+    <string name="desc_ProfileIcons9">綠色背景上有檸檬與黑色葉子的有趣插圖</string>
+    <string name="display_white_balance_summary">根據環境光線自動調整螢幕色調</string>
+    <string name="display_white_balance_title">自動調整色調</string>
+    <string name="fingerprint_unlock_set_unlock_password">Pixel Imprint + 密碼</string>
+    <string name="fingerprint_unlock_set_unlock_pattern">Pixel Imprint + 解鎖圖案</string>
+    <string name="fingerprint_unlock_set_unlock_pin">Pixel Imprint + PIN 碼</string>
+    <string name="fingerprint_unlock_skip_fingerprint">繼續但不使用 Pixel Imprint</string>
+    <string name="fingerprint_unlock_title">你可以透過 Pixel Imprint 使用指紋將手機解鎖。為了安全起見，你必須設定備用螢幕鎖定方式，才能使用這個選項。</string>
+    <string name="security_settings_fingerprint_enroll_consent_introduction_title">允許使用 Pixel Imprint</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"你可以透過 Pixel Imprint 使用指紋授權購物交易或登入應用程式。
+
+你在裝置上新增的任何指紋都能用來進行前述操作，因此請慎選要加入的指紋。
+
+注意：你無法使用指紋將這個裝置解鎖。詳情請洽貴機構的管理員。"</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">設定 Pixel Imprint</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Pixel Imprint</string>
+    <string name="security_settings_fingerprint_preference_title">Pixel Imprint</string>
+    <string name="suggested_fingerprint_lock_settings_summary">使用 Pixel Imprint 將手機解鎖</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sim_locked_notification_custom_content_array">
+        <item>Bu SIM kartı kullanmak için Device Unlock uygulamasıyla telefonunuzun kilidini açın.</item>
+        <item>Lütfen mobil servis sağlayıcınızla iletişime geçin</item>
+    </string-array>
+</resources>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">वर नेव्‍हिगेट करा</string>
+    <string name="abc_action_mode_done">पूर्ण झाले</string>
+    <string name="abc_capital_off">बंद</string>
+    <string name="abc_capital_on">सुरू</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">हटवा</string>
+    <string name="abc_menu_enter_shortcut_label">एंटर करा</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">मेनू+</string>
+    <string name="abc_search_hint">शोधा…</string>
+    <string name="abc_searchview_description_clear">क्‍वेरी साफ करा</string>
+    <string name="abc_searchview_description_search">शोधा</string>
+    <string name="abc_searchview_description_submit">क्वेरी सबमिट करा</string>
+    <string name="abc_searchview_description_voice">व्हॉइस शोध</string>
+    <string name="abc_toolbar_collapse_description">कोलॅप्स करा</string>
+    <string name="bottom_sheet_button_contact_text">@string/common_view</string>
+    <string name="bottom_sheet_button_matter_text">सेटअप</string>
+    <string name="bottom_sheet_button_no_apps_text">शोधा</string>
+    <string name="bottom_sheet_button_wifi_text">@string/common_connect</string>
+    <string name="bottom_sheet_copy_error_toast">मजकूर क्लिपबोर्डवर कॉपी करता आला नाही</string>
+    <string name="bottom_sheet_copy_success_toast">मजकूर क्लिपबोर्डवर कॉपी केला</string>
+    <string name="bottom_sheet_image_view_description">प्रदर्शित होणाऱ्या अ‍ॅप्लिकेशनचा आयकन</string>
+    <string name="bottom_sheet_sub_title_no_apps">Google Play वर शोधा</string>
+    <string name="bottom_sheet_title">हे वापरून उघडा</string>
+    <string name="bottom_sheet_title_app_found">%1$s वापरून उघडा</string>
+    <string name="bottom_sheet_title_contact">संपर्क तपशील पहा</string>
+    <string name="bottom_sheet_title_copy_text">मजकूर कॉपी करा</string>
+    <string name="bottom_sheet_title_copy_text_button_text">@string/common_copy</string>
+    <string name="bottom_sheet_title_copy_text_button_text_copied">कॉपी केले</string>
+    <string name="bottom_sheet_title_matter">तुमचे डिव्हाइस सेट करा</string>
+    <string name="bottom_sheet_title_passkey">पासकी वापरा</string>
+    <string name="bottom_sheet_title_payment">हे वापरून पेमेंट करा</string>
+    <string name="bottom_sheet_title_payment_setup">यासोबत पेमेंट सेट करा</string>
+    <string name="bottom_sheet_title_payment_setup_single_app">%1$s सोबत पेमेंट सेट करा</string>
+    <string name="bottom_sheet_title_payment_single_app">%1$s वापरून पेमेंट करा</string>
+    <string name="bottom_sheet_title_single_app_button_text">उघडा</string>
+    <string name="bottom_sheet_title_wifi">वायफायशी कनेक्ट करा</string>
+    <string name="bottomsheet_action_expand_halfway">पूर्णपणे विस्तृत करा</string>
+    <string name="bottomsheet_drag_handle_content_description">ड्रॅग हॅंडल</string>
+    <string name="camera_permission_dialog_button">ओके</string>
+    <string name="camera_permission_dialog_message">"Google Play सेवांना %1$s साठी कोड स्कॅन करण्याकरिता तुमच्या डिव्हाइसचा कॅमेरा अ‍ॅक्सेस करणे आवश्यक आहे.
+
+सुरू करण्यासाठी, कृपया सेटिंग्जमध्ये Google Play सेवांना कॅमेराची परवानगी द्या."</string>
+    <string name="camera_permission_dialog_message_platform">"QR कोड स्कॅन करण्यासाठी Google Play सेवांना तुमच्या डिव्हाइसचा कॅमेरा अ‍ॅक्सेस करणे आवश्यक आहे.
+
+सुरू करण्यासाठी, कृपया सेटिंग्जमध्ये Google Play सेवांना कॅमेराची परवानगी द्या."</string>
+    <string name="camera_permission_dialog_title">कॅमेरा परवानगी आवश्‍यक आहे</string>
+    <string name="cd_cancel_button">कोड स्कॅनर बंद करा</string>
+    <string name="cd_info_button">माहितीचा डायलॉग उघडा</string>
+    <string name="cd_selected_photo_view">निवडलेली इमेज प्रदर्शित करा</string>
+    <string name="cd_settings_button">स्कॅनरशी संबंधित सेटिंग्ज उघडा</string>
+    <string name="cd_torch_button">फ्लॅशलाइट टॉगल करा</string>
+    <string name="character_counter_content_description">%2$d पैकी %1$d वर्ण एंटर केले आहे</string>
+    <string name="character_counter_overflowed_content_description">%2$d पैकी %1$d वर्णमर्यादा ओलांडली आहे</string>
+    <string name="clear_text_end_icon_content_description">मजकूर साफ करा</string>
+    <string name="common_connect">कनेक्ट करा</string>
+    <string name="common_continue">सुरू ठेवा</string>
+    <string name="common_copy">कॉपी करा</string>
+    <string name="common_google_play_services_enable_button">सुरू करा</string>
+    <string name="common_google_play_services_enable_text">तुम्ही Google Play सेवा सक्षम केल्याशिवाय %1$s हा अ‍ॅप कार्य करणार नाही.</string>
+    <string name="common_google_play_services_enable_title">Google Play सेवा सुरू करा</string>
+    <string name="common_google_play_services_install_button">स्‍थापित करा</string>
+    <string name="common_google_play_services_install_text">Google Play सेवा आपल्या डिव्हाइसवर उपलब्ध नाही, त्याशिवाय %1$s चालणार नाही.</string>
+    <string name="common_google_play_services_install_title">Google Play सेवा मिळवा</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play सेवा उपलब्धता</string>
+    <string name="common_google_play_services_notification_ticker">Google Play सेवा एरर</string>
+    <string name="common_google_play_services_unknown_issue">%1$s ला Google Play सेवांमध्ये समस्या येत आहे. कृपया पुन्हा प्रयत्न करा.</string>
+    <string name="common_google_play_services_unsupported_text">तुमचे डिव्हाइस सपोर्ट करत नसलेल्या, Google Play सेवांशिवाय %1$s चालणार नाही.</string>
+    <string name="common_google_play_services_update_button">अपडेट करा</string>
+    <string name="common_google_play_services_update_text">तुम्ही Google Play सेवा अपडेट करेपर्यंत %1$s चालणार नाही.</string>
+    <string name="common_google_play_services_update_title">Google Play सेवा अपडेट करा</string>
+    <string name="common_google_play_services_updating_text">सध्‍या अपडेट होत असलेल्‍या, Google Play सेवांशिवाय %1$s चालणार नाही.</string>
+    <string name="common_google_play_services_wear_update_text">Google Play सेवांच्या नवीन आवृत्तीची आवश्यकता आहे. हे स्वत:ला लवकरच अपडेट करेल.</string>
+    <string name="common_got_it">समजले</string>
+    <string name="common_no_apps_found">कोणतीही अ‍ॅप्स आढळली नाहीत</string>
+    <string name="common_open_on_phone">फोनवर उघडा</string>
+    <string name="common_view">पहा</string>
+    <string name="error_a11y_label">Error: invalid</string>
+    <string name="error_icon_content_description">एरर</string>
+    <string name="exposed_dropdown_menu_content_description">ड्रॉपडाउन मेनू दाखवा</string>
+    <string name="info_dialog_button">@string/common_got_it</string>
+    <string name="info_dialog_message">"%1$s हे Google Play सेवांनी त्याच्या वतीने कोड स्कॅन करावा अशी विनंती करत आहे. कोणताही इमेज डेटा शेअर केला जाणार नाही, फक्त स्कॅन परिणाम शेअर केले जातील.
+
+तुमच्या डिव्हाइसवर स्कॅनिंग केले जाते आणि Google कोणताही इमेज डेटा किंवा स्कॅन केलेले कोड सेव्ह करणार नाही."</string>
+    <string name="info_dialog_message_platform">Google Play सेवा या डिव्हाइसचा कॅमेरा अ‍ॅक्सेस करत आहेत. स्कॅन केलेला कोड डेटा आणि इमेज या डिव्हाइसमध्ये स्टोअर व सेव्ह केल्या जातील.</string>
+    <string name="info_dialog_title">Beveilig deur Google</string>
+    <string name="info_dialog_title_platform">Google द्वारे समर्थित</string>
+    <string name="manual_input_hint">मॅन्युअली कोड एंटर करण्यासाठी येथे टॅप करा</string>
+    <string name="mtrl_checkbox_state_description_checked">Checked</string>
+    <string name="mtrl_checkbox_state_description_indeterminate">Partially checked</string>
+    <string name="mtrl_checkbox_state_description_unchecked">Not checked</string>
+    <string name="password_toggle_content_description">पासवर्ड दाखवा</string>
+    <string name="qr_detection_failure_dialog_message">वेगळ्या फोटोवरून स्कॅन करण्याचा प्रयत्न करा</string>
+    <string name="qr_detection_failure_dialog_title">कोणताही QR कोड सापडला नाही</string>
+    <string name="scan_from_photo_title">फोटोवरून स्कॅन करा</string>
+    <string name="scanner_brand">%1$s च्या वतीने Google ने स्कॅन केला आहे</string>
+    <string name="scanner_brand_platform">@string/info_dialog_title_platform</string>
+    <string name="scanner_title">कोड स्कॅन करा</string>
+    <string name="scanner_title_platform">QR कोड स्कॅन करा</string>
+</resources>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dlg_message_deletion_confirmation">
+        <item quantity="other">Nahrávky budou trvale smazány. Tuto akci nebude možné vrátit.</item>
+        <item quantity="one">Nahrávka bude trvale smazána. Tuto akci nebude možné vrátit.</item>
+        <item quantity="few">Nahrávky budou trvale smazány. Tuto akci nebude možné vrátit.</item>
+        <item quantity="many">Nahrávky budou trvale smazány. Tuto akci nebude možné vrátit.</item>
+    </plurals>
+    <plurals name="dlg_message_deletion_permanent_confirmation">
+        <item quantity="other">Nahrávky nejsou zálohované. Budou natrvalo smazány. Tuto akci nelze vrátit zpět.</item>
+        <item quantity="one">Nahrávka není zálohovaná. Bude natrvalo smazána. Tuto akci nelze vrátit zpět.</item>
+        <item quantity="few">Nahrávky nejsou zálohované. Budou natrvalo smazány. Tuto akci nelze vrátit zpět.</item>
+        <item quantity="many">Nahrávky nejsou zálohované. Budou natrvalo smazány. Tuto akci nelze vrátit zpět.</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_confirmation">
+        <item quantity="other">Smazat nahrávky?</item>
+        <item quantity="one">Smazat nahrávku?</item>
+        <item quantity="few">Smazat nahrávky?</item>
+        <item quantity="many">Smazat nahrávky?</item>
+    </plurals>
+    <plurals name="dlg_title_deletion_permanent_confirmation">
+        <item quantity="other">Trvale tyto nahrávky smazat?</item>
+        <item quantity="one">Trvale tuto nahrávku smazat?</item>
+        <item quantity="few">Trvale tyto nahrávky smazat?</item>
+        <item quantity="many">Trvale tyto nahrávky smazat?</item>
+    </plurals>
+    <plurals name="download_failure_description_storage_full">
+        <item quantity="other">Nahrávky nelze stáhnout, protože úložiště zařízení je plné. Klepnutím to zkontrolujete.</item>
+        <item quantity="one">Úložiště zařízení je plné. Klepnutím to zkontrolujete.</item>
+        <item quantity="few">Nahrávky nelze stáhnout, protože úložiště zařízení je plné. Klepnutím to zkontrolujete.</item>
+        <item quantity="many">Nahrávky nelze stáhnout, protože úložiště zařízení je plné. Klepnutím to zkontrolujete.</item>
+    </plurals>
+    <plurals name="downloading_description">
+        <item quantity="other">Stahování %1$d záznamů</item>
+        <item quantity="one">Stahování %1$d záznamu</item>
+        <item quantity="few">Stahování %1$d záznamů</item>
+        <item quantity="many">Stahování %1$d záznamu</item>
+    </plurals>
+    <plurals name="og_backup_failed_title">
+        <item quantity="other">%1$d položek se nepodařilo zálohovat</item>
+        <item quantity="one">%1$d položku se nepodařilo zálohovat</item>
+        <item quantity="few">%1$d položky se nepodařilo zálohovat</item>
+        <item quantity="many">%1$d položky se nepodařilo zálohovat</item>
+    </plurals>
+    <plurals name="og_backup_items_left">
+        <item quantity="other">Zbývá %1$d položek</item>
+        <item quantity="one">Zbývá %1$d položka</item>
+        <item quantity="few">Zbývají %1$d položky</item>
+        <item quantity="many">Zbývá %1$d položky</item>
+    </plurals>
+    <plurals name="og_backup_items_stopped_title">
+        <item quantity="other">%1$d položek nebylo zálohováno</item>
+        <item quantity="one">%1$d položka nebyla zálohována</item>
+        <item quantity="few">%1$d položky nebyly zálohovány</item>
+        <item quantity="many">%1$d položky nebylo zálohováno</item>
+    </plurals>
+    <plurals name="peoplekit_chips_copied_recipients">
+        <item quantity="other">%d příjemců bylo zkopírováno</item>
+        <item quantity="one">%d příjemce byl zkopírován</item>
+        <item quantity="few">%d příjemci byli zkopírováni</item>
+        <item quantity="many">%d příjemce bylo zkopírováno</item>
+    </plurals>
+    <plurals name="search_results_count">
+        <item quantity="other">%1$d výsledků</item>
+        <item quantity="one">%1$d výsledek</item>
+        <item quantity="few">%1$d výsledky</item>
+        <item quantity="many">%1$d výsledku</item>
+    </plurals>
+    <plurals name="search_results_position">
+        <item quantity="other">^1/^2 výsledků</item>
+        <item quantity="one">^1/^2 výsledku</item>
+        <item quantity="few">^1/^2 výsledků</item>
+        <item quantity="many">^1/^2 výsledku</item>
+    </plurals>
+    <plurals name="search_results_position_content_description">
+        <item quantity="other">%1$d z %2$d výsledků</item>
+        <item quantity="one">%1$d z %2$d výsledku</item>
+        <item quantity="few">%1$d z %2$d výsledků</item>
+        <item quantity="many">%1$d z %2$d výsledku</item>
+    </plurals>
+    <plurals name="selected_recording_quantity">
+        <item quantity="other">Vybráno: %1$d</item>
+        <item quantity="one">Vybráno: %1$d</item>
+        <item quantity="few">Vybráno: %1$d</item>
+        <item quantity="many">Vybráno: %1$d</item>
+    </plurals>
+    <plurals name="snackbar_message_download_failed_storage_full">
+        <item quantity="other">Úložiště zařízení je plné. Nahrávky nelze stáhnout.</item>
+        <item quantity="one">Úložiště zařízení je plné. Nahrávku nelze stáhnout.</item>
+        <item quantity="few">Úložiště zařízení je plné. Nahrávky nelze stáhnout.</item>
+        <item quantity="many">Úložiště zařízení je plné. Nahrávky nelze stáhnout.</item>
+    </plurals>
+    <plurals name="speaker_count">
+        <item quantity="other">%1$d reproduktorů</item>
+        <item quantity="one">%1$d reproduktor</item>
+        <item quantity="few">%1$d reproduktory</item>
+        <item quantity="many">%1$d reproduktoru</item>
+    </plurals>
+    <plurals name="uploading_description">
+        <item quantity="other">Nahrávání %1$d nahrávek</item>
+        <item quantity="one">Nahrávání %1$d nahrávky</item>
+        <item quantity="few">Nahrávání %1$d nahrávek</item>
+        <item quantity="many">Nahrávání %1$d nahrávky</item>
+    </plurals>
+</resources>

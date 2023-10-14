@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ndays">
+        <item quantity="other">%d päivää</item>
+        <item quantity="one">1 päivä</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%d tuntia</item>
+        <item quantity="one">1 tunti</item>
+    </plurals>
+    <plurals name="Nminutes">
+        <item quantity="other">%d minuuttia</item>
+        <item quantity="one">1 minuutti</item>
+    </plurals>
+    <plurals name="Nweeks">
+        <item quantity="other">%d viikkoa</item>
+        <item quantity="one">1 viikko</item>
+    </plurals>
+    <plurals name="a11y_filter_capacity">
+        <item quantity="other">Huoneen tarvittava kapasiteetti: %1$d paikkaa</item>
+        <item quantity="one">Huoneen tarvittava kapasiteetti: 1 paikka</item>
+    </plurals>
+    <plurals name="accessibility_find_time_custom_duration_hour_input">
+        <item quantity="other">%d tuntia</item>
+        <item quantity="one">%d tunti</item>
+    </plurals>
+    <plurals name="accessibility_find_time_custom_duration_minute_input">
+        <item quantity="other">%d minuuttia</item>
+        <item quantity="one">%d minuutti</item>
+    </plurals>
+    <plurals name="accessibility_has_time_proposals">
+        <item quantity="other">sisältää ajankohtaehdotuksia</item>
+        <item quantity="one">sisältää ajankohtaehdotuksen</item>
+    </plurals>
+    <plurals name="alternate_search_available_announce">
+        <item quantity="other">Haku tuotti %d tulosta.</item>
+        <item quantity="one">Haku tuotti %d tuloksen.</item>
+    </plurals>
+    <plurals name="annually_frequency_text">
+        <item quantity="other">Toista joka %1$d %2$s</item>
+        <item quantity="one">Toista joka %1$d %2$s</item>
+    </plurals>
+    <plurals name="birthday_chip_title">
+        <item quantity="other">%d syntymäpäivää</item>
+        <item quantity="one">Syntymäpäivä</item>
+    </plurals>
+    <plurals name="calendar_daily_lower">
+        <item quantity="other">%d päivän välein</item>
+        <item quantity="one">päivittäin</item>
+    </plurals>
+    <plurals name="calendar_monthly_interval_lower">
+        <item quantity="other">%1$d kuukauden välein</item>
+        <item quantity="one">kuukausittain</item>
+    </plurals>
+    <plurals name="calendar_weekly_lower">
+        <item quantity="other">%1$d viikon välein</item>
+        <item quantity="one">viikoittain</item>
+    </plurals>
+    <plurals name="calendar_yearly_interval_lower">
+        <item quantity="other">%1$d vuoden välein</item>
+        <item quantity="one">vuosittain</item>
+    </plurals>
+    <plurals name="capacity_description">
+        <item quantity="other">%d henkilöä</item>
+        <item quantity="one">yksi henkilö</item>
+    </plurals>
+    <plurals name="count_duration_accessibility_description">
+        <item quantity="other">Päättyy %d toistokerran jälkeen.</item>
+        <item quantity="one">Päättyy yhden toistokerran jälkeen.</item>
+    </plurals>
+    <plurals name="count_duration_label">
+        <item quantity="other">%d toistokerran</item>
+        <item quantity="one">%d toistokerran jälkeen</item>
+    </plurals>
+    <plurals name="daily_frequency_text">
+        <item quantity="other">Toista joka %1$d %2$s</item>
+        <item quantity="one">Toista joka %1$d %2$s</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">päivää</item>
+        <item quantity="one">päivä</item>
+    </plurals>
+    <plurals name="days_before">
+        <item quantity="other">päivää ennen</item>
+        <item quantity="one">päivä ennen</item>
+    </plurals>
+    <plurals name="describe_attachments">
+        <item quantity="other">Liitteet: %1$d liitettä</item>
+        <item quantity="one">Liitteet: %1$d liite</item>
+    </plurals>
+    <plurals name="done_reminders_title">
+        <item quantity="other">%d valmista muistutusta</item>
+        <item quantity="one">%d valmis muistutus</item>
+    </plurals>
+    <plurals name="end_by_count">
+        <item quantity="other">, %d kertaa</item>
+        <item quantity="one">, yhden kerran</item>
+    </plurals>
+    <plurals name="error_working_location_duration_too_long">
+        <item quantity="other">Työskentelypaikkoja ei voida asettaa yli %1$d päiväksi.</item>
+        <item quantity="one">Työskentelypaikkoja ei voida asettaa yli %1$d päiväksi.</item>
+    </plurals>
+    <plurals name="files_not_shared_dialog_body">
+        <item quantity="other">Osallistujilla ei ehkä ole käyttöoikeutta tiedostoihin, jotka lisäsit Drivesta. Sinun on ehkä jaettava tiedostot Google Drivessa.</item>
+        <item quantity="one">Osallistujilla ei ehkä ole käyttöoikeutta tiedostoon, jonka lisäsit Drivesta. Sinun on ehkä jaettava tiedosto Google Drivessa.</item>
+    </plurals>
+    <plurals name="find_a_time_invisible_attendee">
+        <item quantity="other">+%d muuta</item>
+        <item quantity="one">+%d muu</item>
+    </plurals>
+    <plurals name="find_time_duration_hour_label">
+        <item quantity="other">%d tuntia</item>
+        <item quantity="one">%d tunti</item>
+    </plurals>
+    <plurals name="find_time_duration_minute_label">
+        <item quantity="other">%d minuuttia</item>
+        <item quantity="one">%d minuutti</item>
+    </plurals>
+    <plurals name="fix_permissions_does_not_fix_everything_warning">
+        <item quantity="other">Huomaa: Kaikilla osallistujilla ei ehkä vieläkään ole käyttöoikeutta näihin tiedostoihin. Sinun on ehkä jaettava nämä tiedostot Google Drivessa.</item>
+        <item quantity="one">Huomaa: Kaikilla osallistujilla ei ehkä vieläkään ole käyttöoikeutta tähän tiedostoon. Sinun on ehkä jaettava tämä tiedosto Google Drivessa.</item>
+    </plurals>
+    <plurals name="fix_permissions_outside_domain_warning_hedgehog">
+        <item quantity="other">"Olet jakamassa tiedostoja seuraaville osallistujille:&lt;br>&lt;b>%1$s
+&lt;/b>&lt;br>He eivät ole Google Workspace ‑organisaatiossa, jolle tiedostot kuuluvat"</item>
+        <item quantity="one">Olet jakamassa tiedostoa seuraaville osallistujille:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>He eivät ole Google Workspace ‑organisaatiossa, jolle tiedosto kuuluu</item>
+    </plurals>
+    <plurals name="guest_count">
+        <item quantity="other">%d osallistujaa</item>
+        <item quantity="one">%d osallistuja</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">tuntia</item>
+        <item quantity="one">tunti</item>
+    </plurals>
+    <plurals name="hours_before">
+        <item quantity="other">tuntia ennen</item>
+        <item quantity="one">tunti ennen</item>
+    </plurals>
+    <plurals name="ical_many_events_warning">
+        <item quantity="other">Tämä lisää %d tapahtumaa, eikä toimintoa voi peruuttaa. Oletko varma?</item>
+        <item quantity="one">Tämä lisää %d tapahtuman, eikä toimintoa voi peruuttaa. Oletko varma?</item>
+    </plurals>
+    <plurals name="mark_reminders_done_title">
+        <item quantity="other">Merkitäänkö %d muistutusta valmiiksi?</item>
+        <item quantity="one">Merkitäänkö %d muistutus valmiiksi?</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">minuuttia</item>
+        <item quantity="one">minuutti</item>
+    </plurals>
+    <plurals name="minutes_before">
+        <item quantity="other">minuuttia ennen</item>
+        <item quantity="one">minuutti ennen</item>
+    </plurals>
+    <plurals name="month_view_hidden_events">
+        <item quantity="other">%d muuta</item>
+        <item quantity="one">%d muu</item>
+    </plurals>
+    <plurals name="monthly_frequency_text">
+        <item quantity="other">Toista joka %1$d %2$s</item>
+        <item quantity="one">Toista joka %1$d %2$s</item>
+    </plurals>
+    <plurals name="more_guests">
+        <item quantity="other">ja %1$d muuta​</item>
+        <item quantity="one">ja %1$d muu​</item>
+    </plurals>
+    <plurals name="no_room_suggestions_title">
+        <item quantity="other">%1$d osallistujaa ilman huone-ehdotuksia</item>
+        <item quantity="one">Yksi osallistuja ilman huone-ehdotuksia</item>
+    </plurals>
+    <plurals name="num_rooms">
+        <item quantity="other">%1$d huonetta</item>
+        <item quantity="one">%1$d huone</item>
+    </plurals>
+    <plurals name="public_notification_text">
+        <item quantity="other">%1$d uutta ilmoitusta</item>
+        <item quantity="one">Sinulla on ilmoitus.</item>
+    </plurals>
+    <plurals name="recurrence_frequency_annually">
+        <item quantity="other">vuosi</item>
+        <item quantity="one">vuosi</item>
+    </plurals>
+    <plurals name="recurrence_frequency_daily">
+        <item quantity="other">päivää</item>
+        <item quantity="one">päivä</item>
+    </plurals>
+    <plurals name="recurrence_frequency_monthly">
+        <item quantity="other">kuukausi</item>
+        <item quantity="one">kuukausi</item>
+    </plurals>
+    <plurals name="recurrence_frequency_weekly">
+        <item quantity="other">viikko</item>
+        <item quantity="one">viikko</item>
+    </plurals>
+    <plurals name="reminder_bundle_description_prefix">
+        <item quantity="other">%d muistutusta:</item>
+        <item quantity="one">%d muistutus:</item>
+    </plurals>
+    <plurals name="reminder_done_bundle_description_prefix">
+        <item quantity="other">%d valmista muistutusta:</item>
+        <item quantity="one">%d valmis muistutus:</item>
+    </plurals>
+    <plurals name="reminders_marked_done">
+        <item quantity="other">%d muistutusta merkittiin valmiiksi.</item>
+        <item quantity="one">%d muistutus merkittiin valmiiksi.</item>
+    </plurals>
+    <plurals name="reminders_migration_dialog_title">
+        <item quantity="other">Muuta %d muistutusta tehtäviksi</item>
+        <item quantity="one">Muuta %d muistutus tehtäväksi</item>
+    </plurals>
+    <plurals name="reminders_migration_force_completed_toast">
+        <item quantity="other">Muistutukset ovat nyt tehtäviä. %1$d muistutusta muutettiin tehtäviksi tilillä %2$s.</item>
+        <item quantity="one">Muistutukset ovat nyt tehtäviä. %1$d muistutus muutettiin tehtäväksi tilillä %2$s.</item>
+    </plurals>
+    <plurals name="reminders_migration_keep_only_dialog_title">
+        <item quantity="other">%d muistutusta näkyy nyt Google Keepissä</item>
+        <item quantity="one">%d muistutus näkyy nyt Google Keepissä</item>
+    </plurals>
+    <plurals name="reminders_migration_keep_only_reminders_dialog_description_with_account">
+        <item quantity="other">Tilin %s kaikki muistutukset on luotu Google Keepissä, eikä niitä voi muuttaa tehtäviksi. Ne poistetaan Kalenterista, mutta niitä voi edelleen käyttää Keepissä.</item>
+        <item quantity="one">Tilin %s muistutus on luotu Google Keepissä, eikä sitä voi muuttaa tehtäväksi. Se poistetaan Kalenterista, mutta sitä voi edelleen käyttää Keepissä.</item>
+    </plurals>
+    <plurals name="reminders_migration_partial_failure_some_remaining_toast">
+        <item quantity="other">Vain %1$d muistutusta muutettiin tehtäviksi tilillä %2$s. Kaikkia muistutuksia ei muutettu.</item>
+        <item quantity="one">Vain %1$d muistutus muutettiin tehtäväksi tilillä %2$s. Kaikkia muistutuksia ei muutettu.</item>
+    </plurals>
+    <plurals name="reminders_migration_tooltip_remark">
+        <item quantity="other">%d muistutusta muutettiin tehtäviksi.</item>
+        <item quantity="one">%d muistutus muutettiin tehtäväksi.</item>
+    </plurals>
+    <plurals name="reminders_migration_tooltip_with_keep_reminders_remark">
+        <item quantity="other">%d muistutusta muutettiin tehtäviksi. Google Keepissä luodut muistutukset pysyvät ennallaan. Ne poistetaan Kalenterista, mutta niitä voi edelleen käyttää Keepissä.</item>
+        <item quantity="one">%d muistutus muutettiin tehtäväksi. Google Keepissä luodut muistutukset pysyvät ennallaan. Ne poistetaan Kalenterista, mutta niitä voi edelleen käyttää Keepissä.</item>
+    </plurals>
+    <plurals name="reminders_migration_voluntary_completed_keep_only_toast">
+        <item quantity="other">%1$d muistutusta poistettiin Kalenterista tilillä %2$s, mutta ne ovat edelleen Keepissä</item>
+        <item quantity="one">%1$d muistutus poistettiin Kalenterista tilillä %2$s, mutta se on edelleen Keepissä</item>
+    </plurals>
+    <plurals name="reminders_migration_voluntary_completed_toast">
+        <item quantity="other">%1$d muistutusta muutettiin tehtäviksi tilillä %2$s</item>
+        <item quantity="one">%1$d muistutus muutettiin tehtäväksi tilillä %2$s</item>
+    </plurals>
+    <plurals name="reminders_title">
+        <item quantity="other">%d muistutusta</item>
+        <item quantity="one">%d muistutus</item>
+    </plurals>
+    <plurals name="response_count_accepted">
+        <item quantity="other">%s kyllää</item>
+        <item quantity="one">%s kyllä</item>
+    </plurals>
+    <plurals name="response_count_accepted_in_a_meeting_room">
+        <item quantity="other">%s kokoustilassa</item>
+        <item quantity="one">%s kokoustilassa</item>
+    </plurals>
+    <plurals name="response_count_accepted_virtually">
+        <item quantity="other">%s virtuaalisesti</item>
+        <item quantity="one">%s virtuaalisesti</item>
+    </plurals>
+    <plurals name="response_count_declined">
+        <item quantity="other">%s eitä</item>
+        <item quantity="one">%s ei</item>
+    </plurals>
+    <plurals name="response_count_need_action">
+        <item quantity="other">%s ei ole vastannut</item>
+        <item quantity="one">%s ei ole vastannut</item>
+    </plurals>
+    <plurals name="response_count_tentative">
+        <item quantity="other">%s ehkää</item>
+        <item quantity="one">%s ehkä</item>
+    </plurals>
+    <plurals name="room_capacity_description">
+        <item quantity="other">Kokoustila %1$d henkilölle</item>
+        <item quantity="one">Kokoustila yhdelle henkilölle</item>
+    </plurals>
+    <plurals name="short_invisible_all_day_events">
+        <item quantity="other">+%d</item>
+        <item quantity="one">+%d</item>
+    </plurals>
+    <plurals name="smartmail_seats">
+        <item quantity="other">paikkaa %s</item>
+        <item quantity="one">paikka %s</item>
+    </plurals>
+    <plurals name="smartmail_time_day_offset">
+        <item quantity="other">%d päivää</item>
+        <item quantity="one">%d päivä</item>
+    </plurals>
+    <plurals name="survey_star_rating">
+        <item quantity="other">%1$d/%2$d tähteä</item>
+        <item quantity="one">%1$d/%2$d tähteä</item>
+    </plurals>
+    <plurals name="tasks_rollover_chip_title">
+        <item quantity="other">%d odottavaa tehtävää</item>
+        <item quantity="one">%d odottava tehtävä</item>
+    </plurals>
+    <plurals name="tasks_rollover_dialog_description">
+        <item quantity="other">%d viime päivän aikana</item>
+        <item quantity="one">%d viime päivän aikana</item>
+    </plurals>
+    <plurals name="weekly_by_day_lower">
+        <item quantity="other">%1$d viikon välein joka %2$s</item>
+        <item quantity="one">viikoittain joka %2$s</item>
+    </plurals>
+    <plurals name="weekly_frequency_text">
+        <item quantity="other">Toista joka %1$d %2$s</item>
+        <item quantity="one">Toista joka %1$d %2$s</item>
+    </plurals>
+    <plurals name="weeks">
+        <item quantity="other">viikkoa</item>
+        <item quantity="one">viikko</item>
+    </plurals>
+    <plurals name="weeks_before">
+        <item quantity="other">viikkoa ennen</item>
+        <item quantity="one">viikko ennen</item>
+    </plurals>
+</resources>

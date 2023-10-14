@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="call_captions_typing_predictions_post_system_message">
+        <item>হ্যালো, কে বলছেন?</item>
+        <item>হাই, কেমন আছেন?</item>
+        <item>এক মিনিট হোল্ড করুন</item>
+        <item>হাই, আপনি পরে ফোন করতে পারবেন?</item>
+        <item>হাই! কল করার জন্য ধন্যবাদ।</item>
+    </string-array>
+    <string-array name="captions_settings_enable_for_calls_choices_entries">
+        <item>প্রতিবার জিজ্ঞাসা করা হবে</item>
+        <item>সবসময়</item>
+        <item>বন্ধ আছে</item>
+    </string-array>
+    <string-array name="captions_settings_typing_voice_names">
+        <item>ভয়েস ক</item>
+        <item>ভয়েস খ</item>
+        <item>ভয়েস গ</item>
+        <item>ভয়েস ঘ</item>
+        <item>ভয়েস ঙ</item>
+        <item>ভয়েস চ</item>
+        <item>ভয়েস ছ</item>
+        <item>ভয়েস জ</item>
+        <item>ভয়েস ঝ</item>
+        <item>ভয়েস ঞ</item>
+        <item>ভয়েস ট</item>
+        <item>ভয়েস ঠ</item>
+        <item>ভয়েস ড</item>
+        <item>ভয়েস ঢ</item>
+        <item>ভয়েস ণ</item>
+        <item>ভয়েস ত</item>
+    </string-array>
+    <string-array name="pref_download_policy_entries">
+        <item>মোবাইল + ওয়াই-ফাই</item>
+        <item>শুধু ওয়াই-ফাই</item>
+        <item>আপডেট করবেন না</item>
+    </string-array>
+    <string-array name="pref_download_policy_entry_values_placeholder">
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+</resources>

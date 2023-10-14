@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="azure_title">વાદળી રંગનો કાગળો</string>
+    <string name="blackswan_title">કાળો હંસ</string>
+    <string name="cockatoo_title">કાકાકૌઆ</string>
+    <string name="come_alive_title">સ્ક્રીનનું દૃશ્ય જીવંત બનાવો</string>
+    <string name="feathers_attribution">એન્ડ્ર્યુ ઝુકરમેન દ્વારા લેવાયેલો ફોટો</string>
+    <string name="feathers_description">રંગ અને વિગતોનું પીછાવાળું ડિસ્પ્લે</string>
+    <string name="feathers_title">પીછાં</string>
+    <string name="greenwinged_title">લીલી પાંખવાળો મકો</string>
+    <string name="king_title">રાજગીધ</string>
+    <string name="living_universe_title">જીવંત બ્રહ્માંડ</string>
+    <string name="photos_memory_gallery_title">તમારી યાદગીરીઓ</string>
+    <string name="pied_title">કાબરચીતરો કાગળો</string>
+    <string name="ringnecked_title">કાંઠલાવાળો સૂડો</string>
+    <string name="seagull_title">સમળી</string>
+</resources>

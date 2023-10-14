@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bundle1_color_name">Կարբոն</string>
+    <string name="bundle2_color_name">Թուղթ</string>
+    <string name="bundle3_color_name">Արև</string>
+    <string name="color_name_monochromatic">Մոնոխրոմ</string>
+    <string name="default_color_name">Դասական</string>
+    <string name="fruit1_color_name">Դեղին և կարմիր երկգույն գունապնակ</string>
+    <string name="fruit2_color_name">Կանաչ և նարնջագույն երկգույն գունապնակ</string>
+    <string name="fruit3_color_name">Կապույտ և կանաչ երկգույն գունապնակ</string>
+    <string name="fruit4_color_name">Բաց մանուշակագույն և կապույտ երկգույն գունապնակ</string>
+    <string name="fruit5_color_name">Վարդագույն և ինդիգո երկգույն գունապնակ</string>
+    <string name="rainbow1_color_name">Կարմիր</string>
+    <string name="rainbow2_color_name">Նարնջագույն</string>
+    <string name="rainbow3_color_name">Դեղին</string>
+    <string name="rainbow4_color_name">Կանաչ</string>
+    <string name="rainbow5_color_name">Կապույտ</string>
+    <string name="rainbow6_color_name">Ինդիգո</string>
+    <string name="rainbow7_color_name">Մանուշակագույն</string>
+</resources>

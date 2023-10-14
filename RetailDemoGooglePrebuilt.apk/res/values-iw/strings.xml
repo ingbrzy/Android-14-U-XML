@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_retaildemoCommunication">ההרשאה מאפשרת לאפליקציה ליצור אינטראקציה עם שירותי ההדגמה לקמעונאים. ההרשאה הזו תינתן רק להדגמה לקמעונאים. אפליקציות שקיבלו את ההרשאה הזו יכולות להקפיץ פעולות המיועדות למצב ההדגמה לקמעונאים.</string>
+    <string name="permlab_retaildemoCommunication">תקשורת להדגמה לקמעונאים</string>
+    <string name="retaildemo_preload_app_name">שירותי הדגמה לקמעונאים</string>
+</resources>

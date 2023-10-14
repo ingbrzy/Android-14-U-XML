@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="analog_gadget">Analoog</string>
+    <string name="digital_gadget">Digitaalne</string>
+    <string name="analog_widget_clover_clock_name">Ristikheinaleht</string>
+    <string name="analog_widget_clover_content_description">Ristikheinalehe kujuline kelladisain</string>
+    <string name="analog_widget_config_activity_title">Valige kelladisain</string>
+    <string name="analog_widget_day_clock_name">Kuupäev</string>
+    <string name="analog_widget_day_content_description">Kuupäevaga kelladisain</string>
+    <string name="analog_widget_numeral_clock_name">Suured numbrid</string>
+    <string name="analog_widget_numeral_content_description">Suurte numbritega kelladisain</string>
+    <string name="analog_widget_scallop_clock_name">Kammkarp</string>
+    <string name="analog_widget_scallop_content_description">Nädalapäeva ja kuuga kelladisain</string>
+    <string name="cities_widget_config_activity_subtitle">Linnasid saab lisada vahekaardil Kell</string>
+    <string name="cities_widget_config_activity_subtitle_button">Valige linnad rakenduses Kell</string>
+    <string name="cities_widget_preview_city_london">London</string>
+    <string name="cities_widget_preview_city_mountain_view">Mountain View</string>
+    <string name="clock_widget_opaque_label">Täidetud</string>
+    <string name="clock_widget_transparent_label">Läbipaistev</string>
+    <string name="digital_appwidget_config_activity_title">Valige kella stiil</string>
+    <string name="digital_cities_gadget">Maailm</string>
+    <string name="digital_cities_gadget_description">Valige linnad rakenduses Kell</string>
+    <string name="digital_stacked_gadget">Virnastatud</string>
+    <string name="digital_widgets_preview_alarm">E 09.30</string>
+    <string name="stopwatch_gadget_description">Juhtige stopperit rakenduses Kell</string>
+</resources>

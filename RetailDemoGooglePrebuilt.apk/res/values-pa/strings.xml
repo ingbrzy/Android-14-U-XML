@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_retaildemoCommunication">ਐਪ ਨੂੰ Retail Demo Services ਨਾਲ ਅੰਤਰਕਿਰਿਆ ਕਰਨ ਦੀ ਆਗਿਆ ਦਿੰਦੀ ਹੈ। ਸਿਰਫ਼ Retail Demo ਨੂੰ ਇਹ ਇਜਾਜ਼ਤ ਦੇਣੀ ਚਾਹੀਦੀ ਹੈ। ਜਿਨ੍ਹਾਂ ਐਪਾਂ ਨੂੰ ਇਹ ਇਜਾਜ਼ਤ ਮਿਲਦੀ ਹੈ, ਉਹ Retail Demo ਮੋਡ ਲਈ ਰਾਖਵੀਂਆਂ ਕਾਰਵਾਈਆਂ ਨੂੰ ਟ੍ਰਿਗਰ ਕਰ ਸਕਦੀਆਂ ਹਨ।</string>
+    <string name="permlab_retaildemoCommunication">Retail Demo ਸੰਚਾਰ</string>
+    <string name="retaildemo_preload_app_name">Retail Demo Services</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dolphin_html_description">Aufnahmen und Unterhaltungen im Hintergrund werden nur dann an Google gesendet, wenn du Feedback zur Klangqualität gibst</string>
+    <string name="live_transcribe_html_description">Wenn du „Automatische Transkription“ verwendest, kannst du:&lt;br/> &lt;ol> &lt;li> Antworten auf das Transkript direkt auf dem Bildschirm eingeben&lt;/li> &lt;li> Dich benachrichtigen lassen, wenn jemand deinen Namen sagt&lt;/li> &lt;li> In Transkripten suchen&lt;/li> &lt;/ol>&lt;br/> Google verarbeitet deine Unterhaltungen, speichert sie jedoch nicht.</string>
+    <string name="dolphin_intro">Dein Smartphone achtet ständig auf Geräusche, über die du benachrichtigt werden möchtest – das kann der Warnton eines Rauchmelders sein oder ein weinendes Baby</string>
+    <string name="scribe_intro">Die App „Automatische Transkription“ zeigt das, was um dich herum gesprochen wird, als Text auf dem Bildschirm an, sodass es leichter für dich ist, dich mit Menschen in deiner Umgebung zu unterhalten</string>
+</resources>

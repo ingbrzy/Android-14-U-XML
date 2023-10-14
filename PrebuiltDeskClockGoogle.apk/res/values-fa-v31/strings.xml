@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="analog_gadget">آنالوگ</string>
+    <string name="digital_gadget">دیجیتال</string>
+    <string name="analog_widget_clover_clock_name">شبدر</string>
+    <string name="analog_widget_clover_content_description">صفحه ساعت به‌شکل شبدر</string>
+    <string name="analog_widget_config_activity_title">یکی از صفحه‌های ساعت را انتخاب کنید</string>
+    <string name="analog_widget_day_clock_name">روز</string>
+    <string name="analog_widget_day_content_description">صفحه ساعت با نمایش روز ماه</string>
+    <string name="analog_widget_numeral_clock_name">عددی</string>
+    <string name="analog_widget_numeral_content_description">صفحه ساعت با اعداد بزرگ</string>
+    <string name="analog_widget_scallop_clock_name">دالبر</string>
+    <string name="analog_widget_scallop_content_description">صفحه ساعت با نمایش روز هفته و روز ماه</string>
+    <string name="cities_widget_config_activity_subtitle">شهرها را از برگه «ساعت» می‌توان اضافه کرد</string>
+    <string name="cities_widget_config_activity_subtitle_button">شهرها را در برنامه «ساعت» انتخاب کنید</string>
+    <string name="cities_widget_preview_city_london">لندن</string>
+    <string name="cities_widget_preview_city_mountain_view">مانتین ویو</string>
+    <string name="clock_widget_opaque_label">مات</string>
+    <string name="clock_widget_transparent_label">شفاف</string>
+    <string name="digital_appwidget_config_activity_title">سبک ساعت را انتخاب کنید</string>
+    <string name="digital_cities_gadget">جهان</string>
+    <string name="digital_cities_gadget_description">شهرها را در برنامه «ساعت» انتخاب کنید</string>
+    <string name="digital_stacked_gadget">پشته‌ای</string>
+    <string name="digital_widgets_preview_alarm">دوشنبه ۰۹:۳۰</string>
+    <string name="stopwatch_gadget_description">کرونومتر را در برنامه «ساعت» کنترل کنید</string>
+</resources>

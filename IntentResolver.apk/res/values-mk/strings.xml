@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Движи се кон дома</string>
+    <string name="abc_action_bar_up_description">Движи се нагоре</string>
+    <string name="abc_action_menu_overflow_description">Повеќе опции</string>
+    <string name="abc_action_mode_done">Готово</string>
+    <string name="abc_activity_chooser_view_see_all">Прикажи ги сите</string>
+    <string name="abc_activitychooserview_choose_application">Избери апликација</string>
+    <string name="abc_capital_off">ИСКЛУЧЕНО</string>
+    <string name="abc_capital_on">ВКЛУЧЕНО</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">избриши</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">вселена</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Пребарување…</string>
+    <string name="abc_searchview_description_clear">Исчисти барање</string>
+    <string name="abc_searchview_description_query">Пребарај барање</string>
+    <string name="abc_searchview_description_search">Пребарај</string>
+    <string name="abc_searchview_description_submit">Испрати барање</string>
+    <string name="abc_searchview_description_voice">Гласовно пребарување</string>
+    <string name="abc_shareactionprovider_share_with">Сподели со</string>
+    <string name="abc_shareactionprovider_share_with_application">Сподели со %s</string>
+    <string name="abc_toolbar_collapse_description">Собери</string>
+    <string name="activity_resolver_use_always">Секогаш</string>
+    <string name="activity_resolver_use_once">Само еднаш</string>
+    <string name="activity_resolver_work_profiles_support">%1$s не поддржува работен профил</string>
+    <string name="call_notification_answer_action">Одговори</string>
+    <string name="call_notification_answer_video_action">Видео</string>
+    <string name="call_notification_decline_action">Одбиј</string>
+    <string name="call_notification_hang_up_action">Спушти</string>
+    <string name="call_notification_incoming_text">Дојдовен повик</string>
+    <string name="call_notification_ongoing_text">Тековен повик</string>
+    <string name="call_notification_screening_text">Проверка на дојдовен повик</string>
+    <string name="chooseActivity">Избирање дејство</string>
+    <string name="chooser_no_direct_share_targets">Нема препорачани луѓе со кои може да се сподели</string>
+    <string name="exclude_link">Исклучи линк</string>
+    <string name="exclude_text">Исклучи текст</string>
+    <string name="file_preview_a11y_description">Сликичка за преглед на датотеката</string>
+    <string name="forward_intent_to_owner">Ја користите апликацијата надвор од работниот профил</string>
+    <string name="forward_intent_to_work">Ја користите апликацијата во работниот профил</string>
+    <string name="image_preview_a11y_description">Сликичка за преглед на сликата</string>
+    <string name="include_link">Вклучи линк</string>
+    <string name="include_text">Опфати текст</string>
+    <string name="miniresolver_open_in_personal">Да се отвори %s во личниот профил?</string>
+    <string name="miniresolver_open_in_work">Да се отвори %s во работниот профил?</string>
+    <string name="miniresolver_use_personal_browser">Користи личен прелистувач</string>
+    <string name="miniresolver_use_work_browser">Користи работен прелистувач</string>
+    <string name="more_files">{count,plural, =1{и уште # датотека}one{и уште # датотека}other{и уште # датотеки}}</string>
+    <string name="noApplications">Нема апликации што можат да го извршат ова дејство.</string>
+    <string name="other_files">{count,plural, =1{+ # датотека}one{+ # датотека}other{+ # датотеки}}</string>
+    <string name="pin_specific_target">Закачи %1$s</string>
+    <string name="resolver_cant_access_personal_apps_explanation">Овие содржини не може да се отвораат со лични апликации</string>
+    <string name="resolver_cant_access_work_apps_explanation">Овие содржини не може да се отвораат со работни апликации</string>
+    <string name="resolver_cant_share_with_personal_apps_explanation">Овие содржини не може да се споделуваат со лични апликации</string>
+    <string name="resolver_cant_share_with_work_apps_explanation">Овие содржини не може да се споделуваат со работни апликации</string>
+    <string name="resolver_cross_profile_blocked">Блокирано од IT-администраторот</string>
+    <string name="resolver_no_personal_apps_available">Нема лични апликации</string>
+    <string name="resolver_no_work_apps_available">Нема работни апликации</string>
+    <string name="resolver_personal_tab">Лични</string>
+    <string name="resolver_personal_tab_accessibility">Личен приказ</string>
+    <string name="resolver_switch_on_work">Прекини ја паузата</string>
+    <string name="resolver_turn_on_work_apps">Работните апликации се паузирани</string>
+    <string name="resolver_work_tab">За работа</string>
+    <string name="resolver_work_tab_accessibility">Работен приказ</string>
+    <string name="screenshot_edit">Измени</string>
+    <string name="search_menu_title">Пребарување</string>
+    <string name="sharing_files">{count,plural, =1{Се споделува # датотека}one{Се споделуваат # датотека}other{Се споделуваат # датотеки}}</string>
+    <string name="sharing_files_only">{count,plural, =1{Само датотека}one{Само датотеки}other{Само датотеки}}</string>
+    <string name="sharing_files_with_link">{count,plural, =1{Се споделува датотека со линк}one{Се споделуваат # датотека со линк}other{Се споделуваат # датотеки со линк}}</string>
+    <string name="sharing_files_with_text">{count,plural, =1{Се споделува датотека со SMS}one{Се споделуваат # датотека со SMS}other{Се споделуваат # датотеки со SMS}}</string>
+    <string name="sharing_images">{count,plural, =1{Споделување слика}one{Споделување # слика}other{Споделување # слики}}</string>
+    <string name="sharing_images_only">{count,plural, =1{Само слика}one{Само слики}other{Само слики}}</string>
+    <string name="sharing_images_with_link">{count,plural, =1{Се споделува слика со линк}one{Се споделуваат # слика со линк}other{Се споделуваат # слики со линк}}</string>
+    <string name="sharing_images_with_text">{count,plural, =1{Се споделува слика со SMS}one{Се споделуваат # слика со SMS}other{Се споделуваат # слики со SMS}}</string>
+    <string name="sharing_link">Споделување линк</string>
+    <string name="sharing_text">Споделување текст</string>
+    <string name="sharing_videos">{count,plural, =1{Се споделува видео}one{Се споделува # видео}other{Се споделуваат # видеа}}</string>
+    <string name="sharing_videos_only">{count,plural, =1{Само видео}one{Само видеа}other{Само видеа}}</string>
+    <string name="sharing_videos_with_link">{count,plural, =1{Се споделува видео со линк}one{Се споделуваат # видео со линк}other{Се споделуваat # видеa со линк}}</string>
+    <string name="sharing_videos_with_text">{count,plural, =1{Се споделува видео со SMS}one{Се споделуваат # видео со SMS}other{Се споделуваат # видеа со SMS}}</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="unpin_specific_target">Откачи %1$s</string>
+    <string name="usb_device_resolve_prompt_warn">На апликацијава не ѝ е доделена дозвола за снимање, но може да снима аудио преку овој USB-уред.</string>
+    <string name="use_a_different_app">Користи различна апликација</string>
+    <string name="video_preview_a11y_description">Сликичка за преглед на видеото</string>
+    <string name="whichApplication">Активирај со</string>
+    <string name="whichApplicationLabel">Заврши го дејството</string>
+    <string name="whichApplicationNamed">Завршување на дејството со %1$s</string>
+    <string name="whichEditApplication">Измени со</string>
+    <string name="whichEditApplicationLabel">Измени</string>
+    <string name="whichEditApplicationNamed">Изменување со %1$s</string>
+    <string name="whichGiveAccessToApplicationLabel">Дозволете пристап</string>
+    <string name="whichHomeApplication">Изберете ја апликацијата Почетен</string>
+    <string name="whichHomeApplicationLabel">Сними слика</string>
+    <string name="whichHomeApplicationNamed">Користење на %1$s како апликација на почетен екран</string>
+    <string name="whichImageCaptureApplication">Сними слика со</string>
+    <string name="whichImageCaptureApplicationLabel">Сними слика</string>
+    <string name="whichImageCaptureApplicationNamed">Снимање слика со %1$s</string>
+    <string name="whichOpenHostLinksWith">Отворајте линкови на %1$s со</string>
+    <string name="whichOpenHostLinksWithApp">Отворајте линкови на %1$s со %2$s</string>
+    <string name="whichOpenLinksWith">Отворајте линкови со</string>
+    <string name="whichOpenLinksWithApp">Отворајте линкови со %1$s</string>
+    <string name="whichSendApplication">Сподели</string>
+    <string name="whichSendApplicationLabel">Сподели</string>
+    <string name="whichSendApplicationNamed">Споделување со %1$s</string>
+    <string name="whichSendToApplication">Испрати преку</string>
+    <string name="whichSendToApplicationLabel">Испрати</string>
+    <string name="whichSendToApplicationNamed">Испраќање преку %1$s</string>
+    <string name="whichViewApplication">Отвори со</string>
+    <string name="whichViewApplicationLabel">Отвори</string>
+    <string name="whichViewApplicationNamed">Отворање со %1$s</string>
+</resources>

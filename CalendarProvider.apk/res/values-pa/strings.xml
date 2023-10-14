@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="calendar_default_name">ਪੂਰਵ-ਨਿਰਧਾਰਿਤ</string>
+    <string name="calendar_info">ਕੈਲੰਡਰ ਸੰਬੰਧੀ ਜਾਣਕਾਰੀ</string>
+    <string name="calendar_info_error">ਗੜਬੜ</string>
+    <string name="calendar_info_events">ਇਵੈਂਟ: %1$d</string>
+    <string name="calendar_info_events_dirty">ਇਵੈਂਟ: %1$d, ਅਣਰੱਖਿਅਤ: %2$d</string>
+    <string name="calendar_info_no_calendars">ਕੋਈ ਕੈਲੰਡਰ ਨਹੀਂ</string>
+    <string name="calendar_storage">ਕੈਲੰਡਰ ਦੀ ਸਟੋਰੇਜ</string>
+    <string name="debug_tool_delete_button">ਹੁਣੇ ਮਿਟਾਓ</string>
+    <string name="debug_tool_email_body">ਮੇਰੇ ਕੈਲੰਡਰ ਡਾਟਾਬੇਸ ਨੂੰ ਨੱਥੀ ਕੀਤਾ ਹੈ, ਜਿਸ ਵਿੱਚ ਮੇਰੀਆਂ ਸਾਰੀਆਂ ਅਪਾਇੰਟਮੈਂਟਾਂ ਅਤੇ ਨਿੱਜੀ ਜਾਣਕਾਰੀ ਸ਼ਾਮਲ ਹਨ। ਸਾਵਧਾਨੀ ਵਰਤੋ।</string>
+    <string name="debug_tool_email_sender_picker">ਆਪਣੀ ਫ਼ਾਈਲ ਭੇਜਣ ਲਈ ਕੋਈ ਪ੍ਰੋਗਰਾਮ ਚੁਣੋ</string>
+    <string name="debug_tool_email_subject">ਕੈਲੰਡਰ ਦਾ ਡਾਟਾਬੇਸ ਨੱਥੀ ਕੀਤਾ ਗਿਆ</string>
+    <string name="debug_tool_message">"ਤੁਸੀਂ 1) ਆਪਣੇ ਕੈਲੰਡਰ ਡਾਟਾਬੇਸ ਦੀ ਇੱਕ ਕਾਪੀ SD ਕਾਰਡ/USB ਸਟੋਰੇਜ 'ਤੇ ਰੱਖਿਅਤ ਕਰਨ ਜਾ ਰਹੇ ਹੋ, ਜਿਸਨੂੰ ਕੋਈ ਵੀ ਐਪ ਪੜ੍ਹ ਸਕਦੀ ਹੈ ਅਤੇ 2) ਇਸਨੂੰ ਈਮੇਲ ਕਰਨ ਜਾ ਰਹੇ ਹੋ। ਡੀਵਾਈਸ 'ਤੇ ਸਫਲਤਾਪੂਰਵਕ ਕਾਪੀ ਕੀਤੇ ਜਾਣ 'ਤੇ ਜਾਂ ਈਮੇਲ ਪ੍ਰਾਪਤ ਹੋਣ ਤੋਂ ਤੁਰੰਤ ਬਾਅਦ ਇਸ ਨੂੰ ਮਿਟਾਉਣਾ ਨਾ ਭੁੱਲੋ।"</string>
+    <string name="debug_tool_start_button">ਸ਼ੁਰੂ ਕਰੋ</string>
+    <string name="provider_label">ਕੈਲੰਡਰ</string>
+</resources>

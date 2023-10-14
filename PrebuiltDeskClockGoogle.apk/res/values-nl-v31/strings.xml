@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="analog_gadget">Analoog</string>
+    <string name="digital_gadget">Digitaal</string>
+    <string name="analog_widget_clover_clock_name">Klaver</string>
+    <string name="analog_widget_clover_content_description">Wijzerplaat in de vorm van een klavertje</string>
+    <string name="analog_widget_config_activity_title">Wijzerplaat selecteren</string>
+    <string name="analog_widget_day_clock_name">Dag</string>
+    <string name="analog_widget_day_content_description">Wijzerplaat met de dag van de maand</string>
+    <string name="analog_widget_numeral_clock_name">Cijfers</string>
+    <string name="analog_widget_numeral_content_description">Wijzerplaat met grote cijfers</string>
+    <string name="analog_widget_scallop_clock_name">Geschulpt</string>
+    <string name="analog_widget_scallop_content_description">Wijzerplaat met de dag van de week en de maand</string>
+    <string name="cities_widget_config_activity_subtitle">Steden kunnen worden toegevoegd vanuit de Klok-app</string>
+    <string name="cities_widget_config_activity_subtitle_button">Kies steden in de Klok-app</string>
+    <string name="cities_widget_preview_city_london">Londen</string>
+    <string name="cities_widget_preview_city_mountain_view">Mountain View</string>
+    <string name="clock_widget_opaque_label">Egaal</string>
+    <string name="clock_widget_transparent_label">Transparant</string>
+    <string name="digital_appwidget_config_activity_title">Klokstijl kiezen</string>
+    <string name="digital_cities_gadget">Wereld</string>
+    <string name="digital_cities_gadget_description">Kies steden in de Klok-app</string>
+    <string name="digital_stacked_gadget">Gestapeld</string>
+    <string name="digital_widgets_preview_alarm">Ma 09:30 uur</string>
+    <string name="stopwatch_gadget_description">Bedien de stopwatch in de Klok-app</string>
+</resources>

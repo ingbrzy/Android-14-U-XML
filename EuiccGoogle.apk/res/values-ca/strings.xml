@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">Navega cap amunt</string>
+    <string name="abc_action_mode_done">Fet</string>
+    <string name="abc_capital_off">DESACTIVA</string>
+    <string name="abc_capital_on">ACTIVA</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">Supr</string>
+    <string name="abc_menu_enter_shortcut_label">Retorn</string>
+    <string name="abc_menu_function_shortcut_label">Funció+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Maj+</string>
+    <string name="abc_menu_space_shortcut_label">Espai</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menú+</string>
+    <string name="abc_search_hint">Cerca…</string>
+    <string name="abc_searchview_description_clear">Esborra la consulta</string>
+    <string name="abc_searchview_description_search">Cerca</string>
+    <string name="abc_searchview_description_submit">Envia la consulta</string>
+    <string name="abc_searchview_description_voice">Cerca per veu</string>
+    <string name="abc_toolbar_collapse_description">Replega</string>
+    <string name="activation_code_scan_button">Escaneja el codi QR</string>
+    <string name="activation_code_text">"Introdueix el codi que t'ha proporcionat el proveïdor"</string>
+    <string name="activation_code_title">Afegeix un proveïdor de xarxa</string>
+    <string name="add_profile_title">Afegeix un operador de telefonia mòbil</string>
+    <string name="asked_for_eid">"L'estàs activant en una botiga? Si un representant et demana l'EID, pots %1$s."</string>
+    <string name="back_button_error_msg">"Per evitar que es produeixin errors, no podràs sortir d'aquesta pantalla mentre la configuració estigui en progrés"</string>
+    <string name="body_check_qr_code_or_go_back">Comprova que hagis escanejat el codi QR correcte.</string>
+    <string name="body_device_is_locked">%1$s ha bloquejat el teu dispositiu.</string>
+    <string name="body_device_is_locked_no_name">El dispositiu està bloquejat.</string>
+    <string name="body_issue_with_sim_profile">Hi ha hagut un problema amb la teva SIM. Per solucionar aquest problema, contacta amb %1$s trucant al %2$s.</string>
+    <string name="body_issue_with_sim_profile_maximum_attempts">"Has arribat al nombre màxim d'intents. Per obtenir ajuda amb la connexió, contacta amb %1$s trucant al %2$s."</string>
+    <string name="body_issue_with_sim_profile_maximum_attempts_no_name">"Has arribat al nombre màxim d'intents. Per obtenir ajuda amb la connexió, contacta amb el teu operador."</string>
+    <string name="body_issue_with_sim_profile_maximum_attempts_no_tel">"Has arribat al nombre màxim d'intents. Per obtenir ajuda amb la connexió, contacta amb %1$s."</string>
+    <string name="body_issue_with_sim_profile_no_name">Hi ha hagut un problema amb la teva SIM. Per solucionar aquest problema, contacta amb el teu operador.</string>
+    <string name="body_issue_with_sim_profile_no_tel">Hi ha hagut un problema amb la teva SIM. Per solucionar aquest problema, contacta amb %1$s.</string>
+    <string name="body_issue_with_sim_profile_used_on_another_device">"Aquesta SIM s'està utilitzant en un altre dispositiu. Per solucionar aquest problema, contacta amb %1$s trucant al %2$s."</string>
+    <string name="body_issue_with_sim_profile_used_on_another_device_no_name">"Aquesta SIM s'està utilitzant en un altre dispositiu. Per solucionar aquest problema, contacta amb el teu operador."</string>
+    <string name="body_issue_with_sim_profile_used_on_another_device_no_tel">"Aquesta SIM s'està utilitzant en un altre dispositiu. Per solucionar aquest problema, contacta amb %1$s."</string>
+    <string name="body_make_sure_not_already_downloaded">"Comprova que la targeta SIM seleccionada no s'hagi baixat en aquest dispositiu o en un altre.
+
+Per obtenir més ajuda, contacta amb %1$s trucant al %2$s."</string>
+    <string name="body_make_sure_not_already_downloaded_no_name">"Comprova que la targeta SIM seleccionada no s'hagi baixat en aquest dispositiu o en un altre.
+
+Per obtenir més ajuda, contacta amb el teu operador."</string>
+    <string name="body_make_sure_not_already_downloaded_no_tel">"Comprova que la targeta SIM seleccionada no s'hagi baixat en aquest dispositiu o en un altre.
+
+Per obtenir més ajuda, contacta amb %1$s."</string>
+    <string name="body_need_wifi_connection">Cal que tinguis connexió Wi‑Fi per baixar una eSIM.</string>
+    <string name="body_need_wifi_or_mobile_connection">Cal que tinguis connexió Wi‑Fi o mòbil per baixar una eSIM.</string>
+    <string name="body_not_enough_space_to_download">No hi ha prou espai per baixar aquesta SIM.</string>
+    <string name="body_sim_has_expired">"La teva eSIM ha caducat.
+Per obtenir una SIM nova, contacta amb %1$s trucant al %2$s."</string>
+    <string name="body_sim_has_expired_no_name">"La teva eSIM ha caducat.
+Per obtenir una SIM nova, contacta amb el teu operador."</string>
+    <string name="body_sim_has_expired_no_tel">"La teva eSIM ha caducat.
+Per obtenir una SIM nova, contacta amb %1$s."</string>
+    <string name="body_something_went_wrong">"S'ha produït un error en intentar activar el número."</string>
+    <string name="bottomsheet_action_expand_halfway">Desplega fins a la meitat</string>
+    <string name="button_text_close">Tanca</string>
+    <string name="button_text_settings">Configuració</string>
+    <string name="cancel_button">Cancel·la</string>
+    <string name="cant_get_eid_please_contact_carrier">"S'ha produït un error i no s'ha pogut trobar el número EID del dispositiu en aquests moments. Contacta amb el teu operador per obtenir ajuda."</string>
+    <string name="carrier_confirm_subtitle">"Ja t'hauries d'haver registrat a la xarxa"</string>
+    <string name="carrier_confirm_title">Confirma la xarxa</string>
+    <string name="carrier_selection_msg">"Selecciona l'operador de telefonia mòbil amb qui ja tens un compte i que vols utilitzar en aquest telèfon"</string>
+    <string name="carrier_selection_psim">Utilitza una targeta SIM</string>
+    <string name="carrier_selection_title">"Confirma l'operador de telefonia mòbil"</string>
+    <string name="choose_carrier_title">Tria els operadors que vols utilitzar</string>
+    <string name="choose_number_activating">"S'està activant…"</string>
+    <string name="choose_number_could_not_activate">"No s'ha pogut activar en aquests moments"</string>
+    <string name="choose_number_error_no_space">Per utilitzar altres números o xarxes, cal que suprimeixis un número o més a Configuració per alliberar espai</string>
+    <string name="choose_number_error_perm">Per utilitzar altres números o xarxes, contacta amb el teu proveïdor de xarxa per obtenir ajuda</string>
+    <string name="choose_number_error_temp">"Per utilitzar altres números o xarxes, activa'ls més tard a Configuració"</string>
+    <string name="choose_number_item_summary_unknown">Número desconegut</string>
+    <string name="choose_number_subtitle">"{count,plural, =1{S'ha afegit 1 número al dispositiu, però no se'n pot utilitzar més d'1 alhora}other{S'han afegit # números al dispositiu, però no se'n pot utilitzar més d'1 alhora}}"</string>
+    <string name="choose_number_title">Tria el número que vols utilitzar</string>
+    <string name="choose_second_number_subtitle">Pots utilitzar un segon número en aquest dispositiu juntament amb el teu número actual</string>
+    <string name="choose_second_number_subtitle_with_psim_carrier_name">"Pots utilitzar un segon número en aquest dispositiu juntament amb el número de l'operador %1$s"</string>
+    <string name="choose_second_number_subtitle_with_psim_phone_number">Pots utilitzar un segon número en aquest dispositiu juntament amb el número%1$s</string>
+    <string name="choose_second_number_title">Tria un segon número</string>
+    <string name="common_google_play_services_enable_button">Activa</string>
+    <string name="common_google_play_services_enable_text">%1$s no funcionarà si no actives Serveis de Google Play.</string>
+    <string name="common_google_play_services_enable_title">Activa Serveis de Google Play</string>
+    <string name="common_google_play_services_install_button">Instal·la</string>
+    <string name="common_google_play_services_install_text">"%1$s no s'executarà si Serveis de Google Play no està instal·lat al dispositiu."</string>
+    <string name="common_google_play_services_install_title">Obtén Serveis de Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Disponibilitat de serveis de Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Error de Serveis de Google Play</string>
+    <string name="common_google_play_services_unknown_issue">%1$s té problemes amb Serveis de Google Play. Torna-ho a provar.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s no es pot executar sense Serveis de Google Play, que no és compatible amb el teu dispositiu.</string>
+    <string name="common_google_play_services_update_button">Actualitza</string>
+    <string name="common_google_play_services_update_text">"%1$s no s'executarà si no actualitzes Serveis de Google Play."</string>
+    <string name="common_google_play_services_update_title">Actualitza Serveis de Google Play</string>
+    <string name="common_google_play_services_updating_text">"%1$s no s'executarà sense Serveis de Google Play, que s'està actualitzant en aquest moment."</string>
+    <string name="common_google_play_services_wear_update_text">"Cal una nova versió de Serveis de Google Play. S'actualitzarà automàticament aviat."</string>
+    <string name="common_open_on_phone">Obre al telèfon</string>
+    <string name="complete_service_setup_text">"Has activat el servei de l'operador %1$s"</string>
+    <string name="complete_service_setup_title">Configuració completada (%1$s)</string>
+    <string name="complete_update_esim_notification_body_text">"Toca per completar l'actualització de programari"</string>
+    <string name="complete_update_esim_notification_title">Acaba de connectar-te a la xarxa mòbil</string>
+    <string name="confirm_acti_no_space_sub1">Per utilitzar altres números, cal que suprimeixes números del dispositiu per alliberar espai. Pots fer-ho més tard a Configuració.</string>
+    <string name="confirm_acti_no_space_sub1_multi">Per utilitzar altres números o xarxes, cal que suprimeixis números del dispositiu per alliberar espai. Pots fer-ho més tard a Configuració.</string>
+    <string name="confirm_acti_perm_error_sub1">"Per utilitzar altres números, truca al %2$s per contactar amb %1$s i obtenir ajuda. És possible que necessitis el número de l'EID per a aquest dispositiu:"</string>
+    <string name="confirm_acti_perm_error_sub1_multi">"Per utilitzar altres números o xarxes, truca al %2$s per contactar amb %1$s i obtenir ajuda. És possible que necessitis el número de l'EID per a aquest dispositiu:"</string>
+    <string name="confirm_acti_perm_error_sub1_multi_no_carrier_name">"Si vols utilitzar altres números o xarxes, contacta amb el teu proveïdor de xarxa per obtenir ajuda. És possible que necessitis el número de l'EID per a aquest dispositiu:"</string>
+    <string name="confirm_acti_perm_error_sub1_multi_no_phone">"Per utilitzar altres números o xarxes, contacta amb %1$s per obtenir ajuda. És possible que necessitis el número de l'EID per a aquest dispositiu:"</string>
+    <string name="confirm_acti_perm_error_sub1_no_carrier_name">"Per utilitzar altres números, contacta amb el teu proveïdor de xarxa per obtenir ajuda. És possible que necessitis el número de l'EID per a aquest dispositiu:"</string>
+    <string name="confirm_acti_perm_error_sub1_no_eid">Per utilitzar altres números, truca al %2$s per contactar amb %1$s i obtenir ajuda.</string>
+    <string name="confirm_acti_perm_error_sub1_no_eid_multi">Per utilitzar altres números, truca al %2$s per contactar amb %1$s i obtenir ajuda</string>
+    <string name="confirm_acti_perm_error_sub1_no_eid_multi_no_phone">Per utilitzar altres números o xarxes, contacta amb %1$s per obtenir ajuda</string>
+    <string name="confirm_acti_perm_error_sub1_no_eid_no_carrier_name">Per utilitzar altres números, contacta amb el teu proveïdor de xarxa per obtenir ajuda</string>
+    <string name="confirm_acti_perm_error_sub1_no_eid_no_phone">Per utilitzar altres números, contacta amb %1$s per obtenir ajuda</string>
+    <string name="confirm_acti_perm_error_sub1_no_phone">"Per utilitzar altres números, contacta amb %1$s per obtenir ajuda. És possible que necessitis el número de l'EID per a aquest dispositiu:"</string>
+    <string name="confirm_acti_success_sub_title">Ja hauries de poder utilitzar el número de telèfon %1$s</string>
+    <string name="confirm_acti_success_sub_title_no_phone">Ja pots utilitzar el número</string>
+    <string name="confirm_acti_success_sub_title_w_app">"Per acabar d'activar el número %1$s, cal que baixis l'aplicació de l'operador %2$s. Per ara, acabem de configurar el telèfon."</string>
+    <string name="confirm_acti_success_sub_title_w_app_no_name">"Per acabar d'activar el número %1$s, cal que baixis l'aplicació del teu proveïdor de xarxa. Per ara, acabem de configurar el telèfon."</string>
+    <string name="confirm_acti_success_sub_title_w_app_no_name_setting">"Per acabar d'activar el número %1$s, cal que baixis l'aplicació del teu proveïdor de xarxa"</string>
+    <string name="confirm_acti_success_sub_title_w_app_no_phone">"Per acabar d'activar el número, cal que baixis l'aplicació de l'operador %1$s. Per ara, acabem de configurar el telèfon."</string>
+    <string name="confirm_acti_success_sub_title_w_app_no_phone_no_name">"Per acabar d'activar el número, cal que baixis l'aplicació del teu proveïdor de xarxa. Per ara, acabem de configurar el telèfon."</string>
+    <string name="confirm_acti_success_sub_title_w_app_no_phone_no_name_setting">"Per acabar d'activar el número, cal que baixis l'aplicació del teu proveïdor de xarxa"</string>
+    <string name="confirm_acti_success_sub_title_w_app_no_phone_setting">"Per acabar d'activar el número, cal que baixis l'aplicació de l'operador %1$s"</string>
+    <string name="confirm_acti_success_sub_title_w_app_setting">"Per acabar d'activar el número %1$s, cal que baixis l'aplicació de l'operador %2$s"</string>
+    <string name="confirm_acti_success_title">Connectat a %1$s</string>
+    <string name="confirm_acti_success_title_no_carrier_name">La xarxa està activa</string>
+    <string name="confirm_acti_success_title_with_app">"Connecta't a l'operador %1$s més tard"</string>
+    <string name="confirm_acti_success_title_with_app_no_name">"Connecta't a la teva xarxa més tard"</string>
+    <string name="confirm_acti_temp_error_sub1">"Per utilitzar altres números, activa'ls més endavant a Configuració"</string>
+    <string name="confirm_acti_temp_error_sub1_multi">"Per utilitzar altres números o xarxes, activa'ls més endavant a Configuració"</string>
+    <string name="confirm_code_try_again">El codi no és correcte. Torna-ho a provar.</string>
+    <string name="confirm_transfer_single_carrier_dsds_msg">Un cop transferit, el número %1$s deixarà de funcionar al dispositiu antic. Un cop hagis configurat el dispositiu, podràs transferir un segon número inserint-hi una SIM.</string>
+    <string name="confirm_transfer_single_carrier_msg">Un cop transferit, el número %1$s deixarà de funcionar al dispositiu antic</string>
+    <string name="confirm_transfer_single_carrier_title">"Vols transferir el número de l'operador %1$s?"</string>
+    <string name="confirmation_code_body_text">Hauries de tenir un codi de verificació del teu operador. Introdueix-lo per connectar-te a la xarxa.</string>
+    <string name="confirmation_code_body_text_with_carrier">Hauries de tenir un codi de verificació de: %1$s. Introdueix-lo per connectar-te a la xarxa.</string>
+    <string name="confirmation_code_title">Introdueix el codi de verificació</string>
+    <string name="confirmation_code_what">Què és això?</string>
+    <string name="contact_carrier_description">Per configurar la teva SIM, hauràs de contactar amb %1$s al número %2$s</string>
+    <string name="contact_carrier_description_eid">"número d'EID del dispositiu."</string>
+    <string name="contact_carrier_description_eid_additional">"
+
+És possible que necessitis el"</string>
+    <string name="contact_carrier_title">Contacta amb %1$s</string>
+    <string name="continue_button">Continua</string>
+    <string name="copy">Copia</string>
+    <string name="customer_service_activate_service">"El representant d'un servei d'atenció al client pot utilitzar aquest número EID per ajudar-te a activar el servei:"</string>
+    <string name="data_plan_select_subtitle">Un cop transferit, el número deixarà de funcionar al dispositiu antic</string>
+    <string name="data_plan_select_title">Tria un número per transferir</string>
+    <string name="def_notif_activating_title">"S'està activant el teu número de l'operador %1$s…"</string>
+    <string name="def_notif_activation_fail_subtitle">"Toca per veure'n els detalls"</string>
+    <string name="def_notif_activation_fail_title">"No s'ha pogut activar el teu número de l'operador %1$s"</string>
+    <string name="def_notif_activation_success_dsds_subtitle">Selecciona les teves preferències de trucades, missatges de text i dades</string>
+    <string name="def_notif_activation_success_dsds_title">Ja hauries de poder utilitzar els números</string>
+    <string name="def_notif_activation_success_title">"S'ha activat el teu número de l'operador %1$s"</string>
+    <string name="default_display_name">SIM</string>
+    <string name="default_profile_nickname_format">%1$s %2$d</string>
+    <string name="deferred_setup_notification_description">Ready to connect to mobile network</string>
+    <string name="deferred_setup_notification_title">Set you your %1$s SIM</string>
+    <string name="detail_contact_carrier_for_more_help">Per obtenir més ajuda, contacta amb el teu operador.</string>
+    <string name="detail_contact_carrier_to_unlock">Per veure si el dispositiu es pot desbloquejar, contacta amb %1$s trucant al %2$s.</string>
+    <string name="detail_contact_carrier_to_unlock_no_name">Per veure si el dispositiu es pot desbloquejar, contacta amb el teu operador.</string>
+    <string name="detail_contact_carrier_to_unlock_no_tel">Per veure si el dispositiu es pot desbloquejar, contacta amb %1$s.</string>
+    <string name="detail_delete_a_profile_before_retrying">Per alliberar espai, ves a Configuració i esborra una SIM. Després torna-ho a provar.</string>
+    <string name="detail_may_need_eid_number">EID: %1$s</string>
+    <string name="detail_provide_info_to_carrier">"Pots proporcionar la informació següent al teu operador:
+%1$s
+%2$s"</string>
+    <string name="detail_try_adding_again">"Un cop t'hagis connectat, torna a provar d'afegir una xarxa mòbil."</string>
+    <string name="disable_carrier_dialog_text">"Aquest dispositiu es desconnectarà immediatament de la xarxa.
+
+Aquesta acció no cancel·larà cap dels plans de serveis mòbils."</string>
+    <string name="disable_carrier_dialog_text_with_carrier">"Aquest dispositiu es desconnectarà immediatament de l'operador %1$s.
+
+Aquesta acció no cancel·larà cap dels plans de serveis mòbils."</string>
+    <string name="disable_carrier_dialog_title">"Vols desactivar l'operador de telefonia mòbil?"</string>
+    <string name="disable_fail_text">"S'ha produït un error i no s'ha pogut desactivar l'operador de telefonia mòbil."</string>
+    <string name="disable_fail_title">"No es pot desactivar l'operador de telefonia mòbil"</string>
+    <string name="disable_profile_title">Desactiva</string>
+    <string name="disabled_profiles_title">Operadors de telefonia mòbil disponibles</string>
+    <string name="disabling_carrier">"S'està desactivant l'operador de telefonia mòbil…"</string>
+    <string name="done_button">Fet</string>
+    <string name="download_complete_text">Ves a Configuració per activar aquesta SIM</string>
+    <string name="download_complete_text_with_carrier">Ves a Configuració per activar %1$s</string>
+    <string name="download_complete_title">"S'ha baixat l'eSIM"</string>
+    <string name="download_esim_button">Download eSIM</string>
+    <string name="download_fail_dialog_text">"S'ha produït un error i no es pot baixar l'eSIM. Torna-ho a provar i, si el problema continua, contacta amb %1$s."</string>
+    <string name="download_fail_dialog_text_no_carrier_name">"S'ha produït un error i no es pot baixar l'eSIM. Torna-ho a provar i si el problema continua, posa't en contacte amb el teu operador de telefonia mòbil."</string>
+    <string name="download_fail_dialog_title">"No es pot baixar l'eSIM"</string>
+    <string name="download_sub_multi_carriers_text">"{count,plural, =1{Estem baixant &lt;b>%2$d números&lt;/b> de l'operador %1$s i 1 operador més. Això pot tardar una estona.}other{Estem baixant &lt;b>%2$d números&lt;/b> de l'operador %1$s i %3$d operadors més. Això pot tardar una estona.}}"</string>
+    <string name="download_sub_text">"{count,plural, =1{Estem baixant el teu número de l'operador %1$s. Això pot tardar una estona.}other{Estem baixant &lt;b>%2$d números&lt;/b> de l'operador %1$s. Això pot tardar una estona.}}"</string>
+    <string name="download_sub_title">"{count,plural, =1{S'està afegint el teu número…}other{S'estan afegint els teus números…}}"</string>
+    <string name="download_sub_transform_title">"S'està comprovant el servei…"</string>
+    <string name="download_switch_confirm_mep_dialog_message">Aquest dispositiu pot tenir 2 SIM actives alhora. Per baixar i utilitzar una altra SIM, desactiva una de les que tens actives.</string>
+    <string name="download_switch_confirm_mep_dialog_title">Desactiva una SIM per continuar</string>
+    <string name="download_web_sub_text">Aquest procés tarda generalment 1 o 2 minuts a completar-se, però pot tardar més</string>
+    <string name="download_web_sub_title">"S'està configurant el servei…"</string>
+    <string name="downloading_no_carrier_name_title">"S'està baixant l'eSIM…"</string>
+    <string name="downloading_with_carrier_name_title">"S'està baixant l'eSIM de %1$s…"</string>
+    <string name="dsds_activation_failure_body_msg1">Treu la SIM i torna-la a inserir. Si el problema continua, reinicia el dispositiu.</string>
+    <string name="dsds_activation_failure_body_msg2">Prova de tornar a activar la SIM. Si el problema continua, reinicia el dispositiu.</string>
+    <string name="dsds_activation_failure_title">"No s'ha pogut activar la SIM"</string>
+    <string name="dsds_activation_text">"S'està activant la SIM…"</string>
+    <string name="dsds_activation_text_in_esim_activation">"S'està actualitzant…"</string>
+    <string name="dsds_choose_number_text">"Hi ha %1$d números disponibles en aquest dispositiu, però no se'n pot utilitzar més d'1 alhora"</string>
+    <string name="dsds_choose_number_title">Tria el número que vols utilitzar</string>
+    <string name="dsds_choose_second_number_text">En aquest dispositiu, pots utilitzar 2 números alhora. El número %1$s ja està actiu.</string>
+    <string name="dsds_choose_second_number_title">Tria un segon número</string>
+    <string name="dsds_learn_more_button">Més informació</string>
+    <string name="dsds_notification_after_reboot_text">Toca per actualitzar la configuració de la targeta SIM</string>
+    <string name="dsds_notification_after_reboot_text_carrier">"Toca per actualitzar la configuració de l'operador %1$s"</string>
+    <string name="dsds_notification_after_reboot_title_carrier">%1$s està actiu</string>
+    <string name="dsds_notification_after_reboot_title_phone">%1$s està actiu</string>
+    <string name="dsds_notification_after_suw_text">"Tria la SIM activa o utilitza'n dues alhora"</string>
+    <string name="dsds_notification_after_suw_title">"Configura l'altra SIM"</string>
+    <string name="dsds_switch_dialog_no_switch_text">Per utilitzar les dades mòbils, les funcions de trucada i els SMS més tard, ves a la configuració de xarxa</string>
+    <string name="dsds_switch_dialog_no_switch_title">No hi ha cap SIM activa disponible</string>
+    <string name="dsds_switch_dialog_progress_text">"S'està canviant a %1$s…"</string>
+    <string name="dsds_switch_dialog_text">"Es farà servir l'operador %1$s per a les dades mòbils, les trucades i els SMS."</string>
+    <string name="dsds_switch_dialog_title">Vols utilitzar %1$s?</string>
+    <string name="eid_not_found">"No s'ha trobat el dispositiu EID"</string>
+    <string name="eid_number">Mostra els detalls</string>
+    <string name="eid_qr_code_dialog_error_msg">"El codi QR de l'EID no està disponible."</string>
+    <string name="eid_qr_code_dialog_title">"L'EID del teu dispositiu"</string>
+    <string name="enable_carrier_dialog_text">"Aquest dispositiu es connectarà a l'operador %1$s en comptes de l'operador %2$s.
+
+Aquesta acció no cancel·larà cap dels plans de serveis mòbils."</string>
+    <string name="enable_carrier_dialog_text_from_removable">"Aquest dispositiu es connectarà a l'operador %1$s en comptes de la SIM actual inserida.
+
+Aquesta acció no cancel·larà cap dels plans de serveis mòbils."</string>
+    <string name="enable_carrier_dialog_text_to_removable">"Aquest dispositiu es connectarà a la xarxa de la targeta SIM inserida en comptes de l'operador %1$s.
+
+Aquesta acció no cancel·larà cap dels plans de serveis mòbils."</string>
+    <string name="enable_carrier_dialog_title">"Vols canviar d'operador de telefonia mòbil?"</string>
+    <string name="enable_fail_text">"S'ha produït un error i no es pot canviar d'operador de telefonia mòbil."</string>
+    <string name="enable_fail_title">"No es pot canviar d'operador de telefonia mòbil"</string>
+    <string name="enable_profile_title">Activa</string>
+    <string name="enabling_carrier">"S'està connectant a la xarxa…"</string>
+    <string name="enter_manually_button">Introdueix-lo manualment.</string>
+    <string name="enter_qr_code_button_title">Vull introduir el codi manualment</string>
+    <string name="erase_sim_confirm_button">Esborra</string>
+    <string name="erase_sim_dialog_text">"Si esborres aquesta targeta SIM, el servei de l'operador %1$s se suprimirà del dispositiu.
+
+El servei de l'operador %1$s no es cancel·larà."</string>
+    <string name="erase_sim_dialog_title">Vols esborrar aquesta eSIM?</string>
+    <string name="erase_sim_fail_text">"No s'ha pogut esborrar la targeta SIM a causa d'un error.
+
+Reinicia el dispositiu i torna-ho a provar."</string>
+    <string name="erase_sim_fail_title">No es pot esborrar la SIM</string>
+    <string name="erasing_carriers">"S'estan restablint els operadors de telefonia mòbil…"</string>
+    <string name="erasing_sim">"S'està esborrant la SIM…"</string>
+    <string name="error_code_text">"Codi d'error"</string>
+    <string name="error_screen_title_multiple_carrier">Les xarxes no estan activades</string>
+    <string name="error_screen_title_single_carrier">%1$s no està activat</string>
+    <string name="error_screen_title_single_carrier_no_name">La xarxa no està activada</string>
+    <string name="esim_setup_channel_id">Activació de la xarxa</string>
+    <string name="esim_warning_title">"Baixa l'eSIM"</string>
+    <string name="esim_warning_txt_default">Aquest tipus de SIM substitueix les targetes SIM estàndard i és igual de segura</string>
+    <string name="esim_warning_txt_default_tmo_esim_primary">"Connecta't a la xarxa mòbil baixant la informació que normalment inclou la targeta SIM. Aquest tipus de SIM substitueix les targetes SIM estàndard i és igual de segura."</string>
+    <string name="euicc_settings_title">Configuració del maquinari</string>
+    <string name="euicc_title">Gestor de SIM</string>
+    <string name="expand_button_title">Opcions avançades</string>
+    <string name="find_it_here">trobar-lo aquí</string>
+    <string name="get_default_sub_title">"S'està comprovant la informació de la xarxa…"</string>
+    <string name="get_help_ask_for_eid_v2">"És possible que l'operador et demani el %1$s, que identifica aquest telèfon."</string>
+    <string name="get_help_skip_mobile_setup">Omet la configuració mòbil</string>
+    <string name="get_help_text">No trobes el teu número de telèfon? Truca a %1$s al número %2$s per obtenir ajuda</string>
+    <string name="get_help_text_multiple_carriers_no_phone">Si un dels teus operadors té més números dels que esperaves, contacta-hi per obtenir ajuda</string>
+    <string name="get_help_text_no_phone">No trobes el teu número de telèfon? Contacta amb %1$s per obtenir ajuda.</string>
+    <string name="get_help_text_single_carrier">Si no esperaves %3$d números, truca al número %2$s i contacta amb %1$s per obtenir ajuda</string>
+    <string name="get_help_text_single_carrier_no_phone">Si no esperaves %2$d números, contacta amb %1$s per obtenir ajuda</string>
+    <string name="get_help_text_single_carrier_no_phone_with_eid">"Si no esperaves %2$d números, contacta amb %1$s per obtenir ajuda. És possible que necessitis el número de l'EID per a aquest dispositiu:"</string>
+    <string name="get_help_title">Obtén ajuda amb la configuració</string>
+    <string name="get_metadata_fail_title">"No s'ha pogut carregar la informació de la xarxa mòbil"</string>
+    <string name="help_add_network_info1_msg1_v2">Tens problemes per escanejar el codi QR? %1$s</string>
+    <string name="help_add_network_info2_msg1">També pots connectar-te a la xarxa %1$s</string>
+    <string name="help_add_network_info3">Encara no has pogut resoldre el problema? Contacta amb el proveïdor de xarxa per obtenir ajuda: %1$s</string>
+    <string name="help_add_network_info3_no_phone">Encara no has pogut resoldre el problema? Contacta amb el proveïdor de xarxa per obtenir ajuda.</string>
+    <string name="help_add_network_subtitle">"Trobaràs el codi QR en un paper que se't va proporcionar amb el dispositiu o en un correu electrònic del proveïdor de xarxa."</string>
+    <string name="help_add_network_title">Ajuda per afegir una xarxa</string>
+    <string name="insert_psim_button">inserint una SIM estàndard.</string>
+    <string name="insert_text">Si tens una targeta SIM, insereix-la ara</string>
+    <string name="insert_title">"Connecta't a la xarxa mòbil"</string>
+    <string name="install_system_update_dialog_body_text">"Per baixar una SIM cal que el telèfon tingui l'actualització del sistema més recent. Aquest procés tardarà uns minuts."</string>
+    <string name="install_system_update_dialog_title">"Vols instal·lar l'actualització del sistema?"</string>
+    <string name="install_update_button">"Instal·la l'actualització"</string>
+    <string name="insufficient_space_description_q">{count,plural, =1{Per utilitzar el número, cal que suprimeixis números del dispositiu per alliberar espai. Pots fer-ho més tard a Configuració.}other{Per utilitzar els números, cal que suprimeixis números del dispositiu per alliberar espai. Pots fer-ho més tard a Configuració.}}</string>
+    <string name="legal_notices">%1$s, %2$s i %3$s</string>
+    <string name="low_battery_alert_body_text">"Per no interrompre l'actualització, connecta el telèfon a una font d'alimentació."</string>
+    <string name="low_battery_alert_title">"La bateria del telèfon s'està esgotant"</string>
+    <string name="manually_add_msg1_v2">"Si tens un codi QR, %1$s. Si el representant d'una botiga et demana el número de l'EID, pots %2$s."</string>
+    <string name="mobile_network_connection_alert_description">"Si omets aquest pas, deixaràs d'estar connectat a una xarxa mòbil. Et pots connectar més tard afegint una SIM a Configuració."</string>
+    <string name="mobile_network_connection_alert_title">Vols ometre la configuració de la xarxa mòbil?</string>
+    <string name="msg_choose_download_type">Tria una opció per activar el teu número en aquest dispositiu de manera segura</string>
+    <string name="msg_install_app_notification">Toca per continuar</string>
+    <string name="msg_portal_intro">"Hauràs d'iniciar la sessió amb el teu nom d'usuari i la teva contrasenya de l'operador %1$s"</string>
+    <string name="msg_sign_in_button">Inicia la sessió a %1$s</string>
+    <string name="msg_transfer_type_portal">"Necessitaràs el nom d'usuari i la contrasenya"</string>
+    <string name="msg_transfer_type_qr">"És possible que %1$s te n'hagi enviat un"</string>
+    <string name="mtrl_checkbox_state_description_checked">Checked</string>
+    <string name="mtrl_checkbox_state_description_indeterminate">Partially checked</string>
+    <string name="mtrl_checkbox_state_description_unchecked">Not checked</string>
+    <string name="multiple_carrier_download_number_count">{count,plural, =1{1 número}other{# números}}</string>
+    <string name="next_button">Següent</string>
+    <string name="no_licenses_found_error">"S'ha produït un error i no es poden trobar les llicències."</string>
+    <string name="no_qr_code_info_insert_btn">Altrament, insereix la targeta SIM</string>
+    <string name="no_qr_code_info_text">"Cerca el codi QR en algun document proporcionat amb el dispositiu o bé en algun correu electrònic de l'operador de telefonia mòbil. Si no tens cap codi QR, pots afegir un operador més tard."</string>
+    <string name="no_qr_code_scan_button">Escaneja un codi QR</string>
+    <string name="no_qr_code_title">Opcions de configuració</string>
+    <string name="no_thanks_button">No, gràcies</string>
+    <string name="no_wifi_dialog_message">Et cal per baixar la SIM</string>
+    <string name="no_wifi_dialog_title">"Connecta't a la Wi‑Fi"</string>
+    <string name="not_set">No definit</string>
+    <string name="notification_carrier_unknown">{count,plural, =1{Ja pots afegir 1 número addicional}other{Ja pots afegir els teus # números addicionals}}</string>
+    <string name="notification_channel_ota_update">"Actualitzacions de l'operador de telefonia mòbil"</string>
+    <string name="notification_multiple_carrier_name_known">"{count,plural, =1{Ja pots afegir el teu número de l'operador %1$s i %2$d més}other{Ja pots afegir els teus números de l'operador %1$s i %2$d més}}"</string>
+    <string name="notification_single_carrier_name_known">"{count,plural, =1{Ja pots afegir el teu número de l'operador %1$s}other{Ja pots afegir els teus números de l'operador %1$s}}"</string>
+    <string name="notification_tap_setup">Toca per configurar</string>
+    <string name="open_source_licenses">Llicències de programari lliure</string>
+    <string name="operation_code_text">"Codi d'operació"</string>
+    <string name="os_version">Versió del sistema operatiu</string>
+    <string name="ota_error_notification_msg">El servei mòbil es reprendrà després de reiniciar el dispositiu.</string>
+    <string name="ota_error_notification_title">"No s'ha pogut actualitzar l'operador de telefonia mòbil"</string>
+    <string name="ota_notification_msg">"El servei mòbil es reprendrà després de l'actualització"</string>
+    <string name="ota_notification_title">"S'està completant l'actualització de l'operador de telefonia mòbil…"</string>
+    <string name="perm_error_description_q">"{count,plural, =1{S'ha produït un error en intentar activar el número. Truca a %1$s al número %2$s per obtenir ajuda.}other{S'ha produït un error en intentar activar els números. Truca a %1$s al número %2$s per obtenir ajuda.}}"</string>
+    <string name="perm_error_description_q_multi_carrier">"S'ha produït un error en intentar activar els números. Contacta amb els teus proveïdors de xarxa per obtenir ajuda."</string>
+    <string name="perm_error_description_q_no_phone">"{count,plural, =1{S'ha produït un error en intentar activar el número. Contacta amb %1$s per obtenir ajuda.}other{S'ha produït un error en intentar activar els números. Contacta amb %1$s per obtenir ajuda.}}"</string>
+    <string name="perm_error_description_q_no_phone_no_carrier_name">"{count,plural, =1{S'ha produït un error en intentar activar el número. Contacta amb el teu proveïdor de xarxa per obtenir ajuda.}other{S'ha produït un error en intentar activar els números. Contacta amb els teus proveïdors de xarxa per obtenir ajuda.}}"</string>
+    <string name="perm_error_q_sub2_eid">És possible que necessitis el %1$s per a aquest dispositiu</string>
+    <string name="pixel_support_page_button">"pàgina d'assistència de Pixel"</string>
+    <string name="pre_activation_ota_update_complete_subtitle">"El programari s'ha actualitzat correctament. Ara pots seguir baixant la SIM."</string>
+    <string name="pre_activation_ota_update_complete_title">Actualització completada</string>
+    <string name="pre_activation_ota_update_error_msg1">El telèfon no pot baixar SIM.</string>
+    <string name="pre_activation_ota_update_error_msg2_v2">"Pots utilitzar una targeta SIM o obtenir ajuda a la
+%1$s."</string>
+    <string name="pre_activation_ota_update_error_title">"L'actualització no s'ha completat"</string>
+    <string name="pre_activation_ota_update_subtitle">"%1$d%% completat. No surtis d'aquesta pantalla mentre l'actualització està en curs."</string>
+    <string name="pre_activation_ota_update_title">"S'està actualitzant…"</string>
+    <string name="pre_activation_ota_user_consent_msg1">Cal que tinguis el gestor de SIM més recent per baixar una SIM. Aquest procés tardarà entre 4 i 5 minuts.</string>
+    <string name="pre_activation_ota_user_consent_msg2">"Per no interrompre l'actualització, no surtis d'aquesta pantalla. Mentre l'actualització està en curs, només es poden fer trucades d'emergència."</string>
+    <string name="pre_activation_ota_user_consent_title">Vols actualitzar el programari de la SIM?</string>
+    <string name="preference_copied">"\"%1$s\" s'ha copiat al porta-retalls"</string>
+    <string name="privacy_policy">Política de privadesa</string>
+    <string name="privacy_warning_message">En continuar, permets que %1$s verifiqui la informació que identifica aquest dispositiu a la xarxa.</string>
+    <string name="privileged_action_disable_sub_dialog_progress">"S'està desactivant la SIM…"</string>
+    <string name="privileged_action_disable_sub_dialog_text">Si desactives %1$s, es canviarà a %2$s com a operador actiu.</string>
+    <string name="privileged_action_disable_sub_dialog_title">Vols desactivar %1$s?</string>
+    <string name="privileged_action_enable_sub_dialog_title">Vols activar %1$s?</string>
+    <string name="privileged_action_switch_psim_dialog_title">Vols utilitzar la targeta SIM?</string>
+    <string name="privileged_action_switch_sub_dialog_confirm">Canvia a %1$s</string>
+    <string name="privileged_action_switch_sub_dialog_progress">"S'està canviant a %1$s"</string>
+    <string name="privileged_action_switch_sub_dialog_text">"Només pot haver-hi una SIM activa alhora.
+
+Encara que canviïs a %1$s, el teu servei amb %2$s no es cancel·larà."</string>
+    <string name="privileged_action_switch_sub_dialog_text_downloaded">"Només pot haver-hi 1 eSIM activa alhora.
+
+Encara que canviïs a %1$s, el teu servei amb %2$s no es cancel·larà."</string>
+    <string name="privileged_action_switch_sub_dialog_text_no_to">"Només pot haver-hi una SIM activa alhora.
+
+Encara que canviïs d'operador, el teu servei amb %1$s no es cancel·larà."</string>
+    <string name="privileged_action_switch_sub_dialog_title">Vols canviar a %1$s?</string>
+    <string name="privileged_action_turn_on_sub_dialog_progress">"S'està activant %1$s"</string>
+    <string name="profile_disabled">Desactivat</string>
+    <string name="profile_disabled_confirmation_body_text">"Per activar l'eSIM, introdueix el PIN"</string>
+    <string name="profile_disabled_confirmation_title">"L'eSIM s'ha desactivat"</string>
+    <string name="profile_enabled">Activat</string>
+    <string name="profile_enabled_with_phone_number">Activat, %1$s</string>
+    <string name="profile_list_action_bar_title">Operador de telefonia mòbil</string>
+    <string name="profile_transfer_activation_fail_available_phone_number_description">"S'ha produït un error. La SIM de %1$s s'ha transferit a aquest dispositiu, però encara no està a punt per utilitzar-se. 
+
+ Contacta amb %2$s per obtenir ajuda trucant al %3$s..
+
+Pot ser que necessitis el número d'EID per a aquest dispositiu:
+
+%4$s"</string>
+    <string name="profile_transfer_activation_fail_available_phone_number_title">No es pot activar el número</string>
+    <string name="profile_transfer_activation_fail_unavailable_phone_number_description">"S'ha produït un error. El teu número de %1$s %2$s s'ha transferit a aquest dispositiu, però no està connectat a la xarxa. 
+
+ Contacta amb %3$s per obtenir ajuda trucant al %4$s..
+
+Pot ser que necessitis el número d'EID per a aquest dispositiu:
+
+%5$s"</string>
+    <string name="profile_transfer_activation_fail_unavailable_phone_number_title">No es pot activar la xarxa mòbil</string>
+    <string name="profile_transfer_connecting_description">"S'està connectant…"</string>
+    <string name="profile_transfer_downloading_deferred_notification_content">"S'està connectant amb el servidor de %1$s…"</string>
+    <string name="profile_transfer_downloading_deferred_notification_title">"S'està baixant %1$s"</string>
+    <string name="profile_transfer_error_deferred_notification_title">"No s'ha pogut transferir %1$s"</string>
+    <string name="profile_transfer_error_title">"No s'ha pogut transferir la SIM de %1$s"</string>
+    <string name="profile_transfer_non_recoverable_error_deferred_notification_action">Més informació</string>
+    <string name="profile_transfer_non_recoverable_error_deferred_notification_content">"S'ha produït un error en intentar transferir la SIM. Truca a %1$s al número %2$s per obtenir ajuda."</string>
+    <string name="profile_transfer_non_recoverable_error_description">"S'ha produït un error en intentar transferir la SIM. Truca a %1$s al número %2$s per obtenir ajuda.
+
+Pot ser que necessitis el número d'EID per a aquest dispositiu:
+
+%3$s"</string>
+    <string name="profile_transfer_recoverable_error_deferred_notification_content">"S'ha produït un error en intentar transferir la SIM. Pots tornar-ho a provar per resoldre aquest problema."</string>
+    <string name="profile_transfer_recoverable_error_description">"S'ha produït un error en intentar transferir la SIM."</string>
+    <string name="profile_transfer_retry_button">Torna-ho a provar</string>
+    <string name="profile_transfer_success_deferred_notification_content">Ja pots utilitzar el número de telèfon %1$s</string>
+    <string name="profile_transfer_success_deferred_notification_title">"La transferència de la SIM s'ha completat correctament"</string>
+    <string name="profile_transfer_suw_recoverable_error_description">"S'ha produït un error en intentar transferir la SIM. Pots tornar-ho a provar per resoldre aquest problema."</string>
+    <string name="psim_guide_dialog_message">"La safata de la targeta SIM es troba al lateral del telèfon. Utilitza l'eina per extreure la targeta SIM o un clip per obrir la safata i inserir-hi la targeta SIM."</string>
+    <string name="psim_guide_dialog_title">Insereix una targeta SIM</string>
+    <string name="q_download_sub_text">Aquest procés pot tardar uns minuts</string>
+    <string name="q_download_sub_title">"S'està connectant a %1$s…"</string>
+    <string name="q_multiple_carrier_confirm_title">Tria les xarxes que vols activar</string>
+    <string name="q_multiple_carrier_metadata_confirm_subtitle">"{count,plural, =1{Hi ha 1 número disponible per a aquest dispositiu. El proveïdor de xarxa pot començar a aplicar càrrecs pel servei quan l'activis.}other{Hi ha # números disponibles per a aquest dispositiu. El proveïdor de xarxa pot començar a aplicar càrrecs pel servei quan l'activis.}}"</string>
+    <string name="q_result_download_metadata_text">"{count,plural, =1{Hi ha 1 número de l'operador %1$s disponible per a aquest dispositiu. %1$s pot començar a aplicar càrrecs pel servei quan et connectis.}other{Hi ha # números de l'operador %1$s disponibles per a aquest dispositiu. %1$s pot començar a aplicar càrrecs pel servei quan et connectis.}}"</string>
+    <string name="qr_scanner_end_button">No el trobes?</string>
+    <string name="qr_scanner_failed_msg">Hi ha hagut un problema amb la càmera. Torna-ho a provar.</string>
+    <string name="qr_scanner_failed_title">La càmera no està disponible</string>
+    <string name="qr_scanner_msg">"Si el teu operador de telefonia mòbil t'ha proporcionat un codi QR, escaneja'l ara mantenint-lo centrat al quadre"</string>
+    <string name="qr_scanner_msg_q">"Si %1$s t'ha proporcionat un codi QR, escaneja'l ara mantenint-lo centrat al quadre"</string>
+    <string name="qr_scanner_msg_q_no_carrier_name">"Si el teu proveïdor de xarxa t'ha proporcionat un codi QR, centra'l en aquest requadre per escanejar-lo"</string>
+    <string name="qr_scanner_title">"Afegeix l'operador de telefonia mòbil amb un codi QR"</string>
+    <string name="qr_scanner_title_q">Escaneja el codi QR de la xarxa %1$s</string>
+    <string name="qr_scanner_title_q_no_carrier_name">Escaneja el codi QR de la xarxa</string>
+    <string name="reactivate_error_dialog_body">"S'ha produït un error en intentar activar el número. Torna-ho a provar més tard o torna a inserir la targeta SIM."</string>
+    <string name="reactivate_error_dialog_title_with_carrier_name">%1$s no està activat</string>
+    <string name="reactivate_error_dialog_title_without_carrier_name">La SIM no està activada</string>
+    <string name="reason_code_text">Codi de motiu</string>
+    <string name="reboot_button_title">Reinicia el telèfon</string>
+    <string name="remove_carrier_dialog_text_disabled">"Aquest dispositiu ja no es podrà connectar a l'operador %1$s.
+
+Aquesta acció no cancel·larà cap dels plans de serveis mòbils."</string>
+    <string name="remove_carrier_dialog_text_enabled">"Aquest dispositiu es desconnectarà immediatament de l'operador %1$s.
+
+Aquesta acció no cancel·larà cap dels plans de serveis mòbils."</string>
+    <string name="remove_carrier_dialog_title">"Vols suprimir l'operador de telefonia mòbil?"</string>
+    <string name="remove_fail_text">"S'ha produït un error i no s'ha pogut suprimir l'operador de telefonia mòbil."</string>
+    <string name="remove_fail_title">"No es pot suprimir l'operador de telefonia mòbil"</string>
+    <string name="remove_profile_title">Suprimeix</string>
+    <string name="removing_carrier">"S'està suprimint l'operador de telefonia mòbil…"</string>
+    <string name="res_activate_profile_later_button">Activa més tard</string>
+    <string name="res_activation_button">Connecta</string>
+    <string name="res_continue_info1_general_multi_carriers">"{count,plural, =1{No hem pogut afegir els números de l'operador %1$s i %2$d operador més.}other{No hem pogut afegir els números de l'operador %1$s i %2$d operadors més.}}"</string>
+    <string name="res_continue_info1_general_no_carrier">{count,plural, =1{No hem pogut afegir &lt;b>1 número&lt;/b> del teu operador.}other{No hem pogut afegir els números de cap dels teus operadors.}}</string>
+    <string name="res_continue_info1_general_single_carrier">"{count,plural, =1{No hem pogut afegir &lt;b>%2$d número&lt;/b> de l'operador %1$s.}other{No hem pogut afegir &lt;b>%2$d números&lt;/b> de l'operador %1$s.}}"</string>
+    <string name="res_continue_info1_no_mem_multi_carriers">"{count,plural, =1{No hi ha prou espai per afegir els números de l'operador %1$s i %2$d operador més.}other{No hi ha prou espai per afegir els números de l'operador %1$s i %2$d operadors més.}}"</string>
+    <string name="res_continue_info1_no_mem_no_carrier">{count,plural, =1{No hi ha prou espai per afegir &lt;b>1 número&lt;/b>.}other{No hi ha prou espai per afegir els números de cap dels teus operadors.}}</string>
+    <string name="res_continue_info1_no_mem_single_carrier">"{count,plural, =1{No hi ha prou espai per afegir &lt;b>%2$d número&lt;/b> de l'operador %1$s.}other{No hi ha prou espai per afegir &lt;b>%2$d números&lt;/b> de l'operador %1$s.}}"</string>
+    <string name="res_continue_info_item_2">"Si no tens servei, posa't en contacte amb %1$s per obtenir ajuda"</string>
+    <string name="res_continue_info_item_2_no_carrier_name">"Si no tens servei, posa't en contacte amb el teu operador de telefonia mòbil per obtenir ajuda."</string>
+    <string name="res_continue_text_partial_complete_multiple_carriers">{count,plural, =1{Has afegit &lt;b>%1$d números&lt;/b> dels operadors %2$s i %3$s}=2{Has afegit &lt;b>%1$d números&lt;/b> dels operadors %2$s, %3$s i %4$d operador més}other{Has afegit &lt;b>%1$d números&lt;/b> dels operadors %2$s, %3$s i %4$d operadors més}}</string>
+    <string name="res_continue_text_partial_complete_single_carrier">"{count,plural, =1{Has afegit &lt;b>%1$d número&lt;/b> de l'operador %2$s}other{Has afegit &lt;b>%1$d números&lt;/b> de l'operador %2$s}}"</string>
+    <string name="res_continue_title_all_success">"{count,plural, =1{S'ha afegit un número de telèfon}other{S'han afegit # números}}"</string>
+    <string name="res_continue_title_partial_success">Números afegits: %1$d de %2$d</string>
+    <string name="res_download_button">Baixa</string>
+    <string name="res_enter_pin_button">Introdueix el PIN</string>
+    <string name="res_need_help_button">Necessites ajuda?</string>
+    <string name="res_start_button">Inicia</string>
+    <string name="reset_button">Restableix</string>
+    <string name="reset_dialog_carriers_body">Vols esborrar tots els operadors de telefonia mòbil del dispositiu? Aquesta acció no es pot desfer.</string>
+    <string name="reset_dialog_carriers_title">Vols restablir els operadors de telefonia mòbil?</string>
+    <string name="reset_fail_text">"S'ha produït un error i no s'han pogut restablir els operadors de telefonia mòbil."</string>
+    <string name="reset_fail_title">No es poden restablir els operadors de telefonia mòbil</string>
+    <string name="reset_screen_text_bottom">Aquesta acció no cancel·larà cap dels plans de serveis mòbils.</string>
+    <string name="reset_screen_text_top">Aquesta acció suprimirà tots els operadors de telefonia mòbil del dispositiu:</string>
+    <string name="reset_screen_title">Restableix els operadors de telefonia mòbil</string>
+    <string name="result_connect_title">Vols connectar amb %1$s?</string>
+    <string name="result_download_metadata_text">"{count,plural, =1{Hi ha 1 número de l'operador %1$s disponible per a aquest dispositiu.}other{Hi ha # números de l'operador %1$s disponibles per a aquest dispositiu.}}"</string>
+    <string name="result_download_text">"{count,plural, =1{Ja es pot afegir al telèfon el número del teu operador %1$s}other{Ja es poden afegir al telèfon &lt;b>%2$d números&lt;/b> de l'operador %1$s}}"</string>
+    <string name="result_download_title">"Vols baixar l'eSIM de %1$s?"</string>
+    <string name="scan_it_now">"escaneja'l ara"</string>
+    <string name="send_feedback">Envia suggeriments</string>
+    <string name="set_up_button">Set up</string>
+    <string name="settings_gear_label">Configuració</string>
+    <string name="sim_action_switch_sub_dialog_carrier_list_item_for_turning_off">Desactiva %1$s</string>
+    <string name="sim_action_switch_sub_dialog_info_outline_for_turning_off">Desactivar la SIM no cancel·larà el teu servei</string>
+    <string name="sim_card_label">Targeta SIM</string>
+    <string name="sim_illustration_bottom_alt_text">"Amb la pantalla orientada cap a tu, cerca el port de càrrega. La safata de la SIM es troba a la part esquerra del port de càrrega, a la part inferior del telèfon. La safata és plana i té una petita ranura a cada banda. Hi ha un forat petit a la part esquerra de la safata. Per obrir-la, insereix al forat la punta d'un clip o d'una eina extractora de SIM. Per inserir la targeta SIM, alinea la mossa amb la safata. La SIM només encaixa d'una manera."</string>
+    <string name="sim_illustration_bottom_left_alt_text">"Amb la pantalla orientada cap a tu, cerca el port de càrrega. Mou el dit cap amunt per la banda esquerra del telèfon. La safata de la targeta SIM és plana i té una petita ranura a cada banda. Hi ha un forat petit a prop de la part superior de la safata. Per obrir-la, insereix al forat la punta d'un clip o d'una eina extractora de SIM. Per inserir la targeta SIM, alinea la mossa amb la safata. La SIM només encaixa d'una manera."</string>
+    <string name="sim_illustration_top_left_alt_text">"Amb la pantalla orientada cap a tu, cerca el port de càrrega. Mou el dit cap amunt per la banda esquerra del telèfon. La safata de la targeta SIM és plana i té una petita ranura a cada banda. Hi ha un forat petit a prop de la part superior de la safata. Per obrir-la, insereix al forat la punta d'un clip o d'una eina extractora de SIM. Per inserir la targeta SIM, alinea la mossa amb la safata. La SIM només encaixa d'una manera."</string>
+    <string name="sim_locked_text">"Actualment, aquest telèfon està bloquejat per un altre operador. Hauràs de fer servir una SIM vàlida.
+
+Un cop hagis inserit la SIM, és possible que tardi uns segons a activar-se."</string>
+    <string name="sim_locked_title">La SIM no és compatible</string>
+    <string name="sim_missing_activity_esim_button_title">Baixa una eSIM nova</string>
+    <string name="sim_missing_activity_esim_transfer_button_title">"Transfereix una SIM d'un telèfon antic"</string>
+    <string name="sim_missing_activity_psim_hint">Informació sobre com pots utilitzar una targeta SIM</string>
+    <string name="sim_missing_activity_subtitle_no_psim">"Baixa l'eSIM o insereix una targeta SIM ara."</string>
+    <string name="sim_missing_activity_subtitle_psim_exists">"Per afegir una altra SIM, baixa una eSIM nova.
+
+Per utilitzar una targeta SIM diferent, primer extreu la que està actualment al telèfon"</string>
+    <string name="sim_missing_activity_subtitle_tmo_esim_primary">Pots baixar la SIM o inserir una targeta SIM ara</string>
+    <string name="sim_missing_activity_subtitle_with_psim">Per fer servir una targeta SIM nova, primer cal que treguis la que hi ha al dispositiu</string>
+    <string name="sim_missing_activity_with_tmo_esim_primary_button_title">Baixa la SIM</string>
+    <string name="sim_ready_message">"Anteriorment ja s'ha configurat un número en aquest telèfon"</string>
+    <string name="sim_ready_message_carrier_app">"Per acabar d'activar %1$s, cal que baixis l'aplicació %2$s. De moment, acabem de configurar el telèfon."</string>
+    <string name="sim_ready_message_invalid_phone_number_carrier_app">"Per acabar d'activar el número, cal que baixis l'aplicació %1$s. De moment, acabem de configurar el telèfon."</string>
+    <string name="sim_ready_title">"S'ha trobat l'eSIM"</string>
+    <string name="sim_ready_title_carrier_app">"Connecta't a l'operador %1$s més tard"</string>
+    <string name="skip_button">Omet</string>
+    <string name="status_title">Estat</string>
+    <string name="subject_code_text">Codi de tema</string>
+    <string name="sud_back_button_label">Enrere</string>
+    <string name="sud_more_button_label">Més</string>
+    <string name="sud_next_button_label">Següent</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="suw_carrier_support_to_complete_activation_no_carrier_v2">"Per activar el servei, contacta amb l'operador per obtenir ajuda."</string>
+    <string name="suw_default_failed_msg_no_carrier">"S'ha produït un error i no s'ha afegit cap número"</string>
+    <string name="suw_failed_title">"La configuració no s'ha completat"</string>
+    <string name="suw_pii_sent_msg">"Algunes dades del dispositiu que es necessiten per a la configuració s'enviaran a Google, al teu operador i als seus partners."</string>
+    <string name="suw_setting_up_phone_info">"Queda menys d'un minut"</string>
+    <string name="suw_setting_up_phone_title">"S'està configurant el telèfon…"</string>
+    <string name="suw_sim_missing_activity_for_delayed_setup_decription">"When you're done setting up your phone, go to Settings to connect to your mobile network. Or, if you have a SIM card, insert it now."</string>
+    <string name="suw_sim_missing_activity_for_delayed_setup_title">Connect to mobile network after setup</string>
+    <string name="switch_button">Canvia</string>
+    <string name="switch_confirm_mep_dialog_message">Aquest dispositiu pot tenir 2 SIM actives alhora.</string>
+    <string name="switch_confirm_mep_dialog_title">Desactiva una SIM per fer servir %1$s</string>
+    <string name="switch_confirm_message">%1$s es desconnectarà temporalment</string>
+    <string name="switch_confirm_message_no_carrier">La teva xarxa mòbil es desconnectarà temporalment</string>
+    <string name="switch_confirm_new_title">Utilitza la Wi‑Fi per baixar la SIM</string>
+    <string name="switch_confirm_no_active_profile_message">Permet que el teu proveïdor de xarxa baixi la SIM</string>
+    <string name="switch_confirm_no_active_profile_title">Aviat es baixarà la teva SIM</string>
+    <string name="switch_confirm_no_wifi_message">Això et permet utilitzar una altra xarxa</string>
+    <string name="switch_confirm_no_wifi_title">"Vols desconnectar-te de l'operador %1$s?"</string>
+    <string name="switch_confirm_no_wifi_title_no_carrier">Vols desconnectar-te de la teva xarxa mòbil?</string>
+    <string name="switch_restriction_message_to_connect_to">"Per connectar-te a %2$s en lloc de l'operador %1$s, primer extreu la SIM (%1$s) i, a continuació, torna-ho a provar."</string>
+    <string name="switch_restriction_message_to_switch_from">"Per deixar de fer servir %1$s, primer extreu la SIM de l'operador %1$s i, a continuació, torna-ho a provar."</string>
+    <string name="switch_restriction_title_remove_sim">Suprimir la SIM</string>
+    <string name="sys_notification_5g_enable_dsds_text">"Aquest dispositiu pot tenir 2 SIM actives alhora.
+
+Quan s'utilitzen 2 SIM, la connexió del telèfon es limita a 4G. %1$s"</string>
+    <string name="sys_notification_after_dsds_reboot_text">"Toca per acabar d'activar l'altra SIM"</string>
+    <string name="sys_notification_after_dsds_reboot_title">Tot llest per utilitzar 2 SIM alhora</string>
+    <string name="sys_notification_enable_dsds_text">Aquest dispositiu pot tenir 2 SIM actives alhora. Per continuar utilitzant només 1 SIM, toca \"No, gràcies\".</string>
+    <string name="sys_notification_enable_dsds_title">Vols utilitzar 2 SIM?</string>
+    <string name="sys_notification_no_thanks">No, gràcies</string>
+    <string name="sys_notification_reboot">Reinicia</string>
+    <string name="sys_notification_restart_text">Per començar, reinicia el dispositiu. A continuació, pots afegir una altra SIM.</string>
+    <string name="sys_notification_restart_title">Vols reiniciar el dispositiu?</string>
+    <string name="sys_notification_selected_text">La xarxa mòbil ha canviat</string>
+    <string name="sys_notification_switched_title">"S'ha canviat a %1$s"</string>
+    <string name="sys_notification_switched_title_no_carrier_name">"S'ha canviat a un altre operador de telefonia mòbil"</string>
+    <string name="sys_notification_title">"Canvi d'operador de telefonia mòbil"</string>
+    <string name="temp_error_description_q">"{count,plural, =1{S'ha produït un error en intentar activar el número. Pots tornar-ho a provar més tard a Configuració.}other{S'ha produït un error en intentar activar els números. Pots tornar-ho a provar més tard a Configuració.}}"</string>
+    <string name="terms_of_service">Condicions del servei</string>
+    <string name="text_bottom_transfer_carrier_info">No trobes el teu operador? Contacta-hi per rebre ajuda.</string>
+    <string name="title_app_required">"Connecta't a l'operador %1$s més tard"</string>
+    <string name="title_cannot_connect_to_network_no_name">No es pot connectar a la xarxa</string>
+    <string name="title_cannot_download">No es pot baixar la SIM</string>
+    <string name="title_choose_download_type">"Activa el teu número de l'operador %1$s"</string>
+    <string name="title_choose_transfer_type">"Tria una manera de transferir el teu número de l'operador %1$s"</string>
+    <string name="title_incorrect_qr_code">Codi QR incorrecte</string>
+    <string name="title_install_app_notification">"Baixa l'aplicació de l'operador %1$s per configurar el teu número"</string>
+    <string name="title_network_not_activated">La xarxa no està activada</string>
+    <string name="title_no_connection">No es pot accedir a Internet</string>
+    <string name="title_portal_intro">"Transfereix el teu número de l'operador %1$s"</string>
+    <string name="title_profile_already_downloaded">"La SIM ja s'ha baixat"</string>
+    <string name="title_transfer_type_portal">"Inicia la sessió al compte de l'operador %1$s"</string>
+    <string name="title_transfer_type_qr">Escaneja un codi QR</string>
+    <string name="transfer_button">Transfereix</string>
+    <string name="transfer_device_transfer_error">(no es pot transferir)</string>
+    <string name="transfer_in_device_name">A %1$s%2$s</string>
+    <string name="transfer_profile_downloading_description">Pots continuar amb la configuració del teu %1$s</string>
+    <string name="transfer_single_description_with_esim">"%1$s will be transferred to this phone.
+
+After you transfer your SIM to this phone, it will no longer work on your other device."</string>
+    <string name="transfer_single_description_with_psim">"You can convert your SIM card into an eSIM and
+transfer it to this phone. After it's been
+converted, your SIM card can't be used again."</string>
+    <string name="transfer_single_psim_hint">Learn how to use a SIM card</string>
+    <string name="transfer_single_psim_sub_info">Or, insert the SIM card now.</string>
+    <string name="transfer_single_subItem_title_with_number">No és número correcte?</string>
+    <string name="transfer_single_subItem_title_without_number_esim">"No és l'eSIM correcta?"</string>
+    <string name="transfer_single_subItem_title_without_number_unknown">No és la SIM correcta?</string>
+    <string name="transfer_single_title">Transfer %1$s SIM?</string>
+    <string name="transfer_subItem_desc">Baixa una eSIM</string>
+    <string name="transfer_subItem_title_with_number">No són els números correctes?</string>
+    <string name="transfer_subItem_title_without_number_esim">No són les eSIM correctes?</string>
+    <string name="transfer_subItem_title_without_number_unknown">No són les SIM correctes?</string>
+    <string name="transfer_title_unknown_sim">Selecciona una SIM per transferir</string>
+    <string name="transfer_title_with_number">Selecciona un número per transferir</string>
+    <string name="transfer_title_without_number">Selecciona una eSIM per transferir</string>
+    <string name="update_button">Actualitza</string>
+    <string name="use_different_network">Utilitza una altra xarxa</string>
+    <string name="use_different_network_button">Utilitza una altra xarxa</string>
+    <string name="user_consent_download_active_profile_body_text">%1$s es desactivarà durant la baixada</string>
+    <string name="user_consent_download_mobile_data_body_text">La teva SIM es baixarà amb la xarxa mòbil</string>
+    <string name="user_consent_download_no_name_body_text">La teva SIM activa es desactivarà durant la baixada</string>
+    <string name="user_consent_download_over_wifi_title">Vols utilitzar la Wi‑Fi per baixar la SIM?</string>
+    <string name="user_consent_download_ss_no_profile_title">Vols permetre que el teu operador baixi la SIM?</string>
+    <string name="user_consent_download_ss_no_profile_wifi_body_text">La SIM es baixarà amb connexió Wi‑Fi</string>
+    <string name="user_consent_download_switch_body_text">"Per baixar i utilitzar una altra SIM, desactiva %1$s.
+
+Desactivar %1$s no cancel·larà el teu servei."</string>
+    <string name="user_consent_download_switch_dsds_no_name_body_text">"Per baixar i utilitzar una altra SIM, desactiva una de les que tens actives.
+
+Desactivar la SIM no cancel·larà el teu servei."</string>
+    <string name="user_consent_download_switch_dsds_no_name_title">Vols desactivar una SIM?</string>
+    <string name="user_consent_download_switch_no_profile_body_text">"S'utilitzarà la teva SIM immediatament després de la baixada"</string>
+    <string name="user_consent_download_switch_ss_no_name_body_text">"Per baixar i utilitzar una altra SIM, desactiva la que tens activa.
+
+Desactivar la SIM no cancel·larà el teu servei."</string>
+    <string name="user_consent_download_switch_ss_no_name_title">Vols desactivar la SIM?</string>
+    <string name="user_consent_switch_dsds_body_text">"Aquest dispositiu només té 1 eSIM activa.
+
+%1$s es desactivarà, però no se't cancel·larà el servei."</string>
+    <string name="user_consent_switch_dsds_no_name_body_text">"Aquest dispositiu només té 1 eSIM activa.
+
+La teva SIM actual es desactivarà, però no se't cancel·larà el servei."</string>
+    <string name="user_consent_switch_mep_dsds_body_text">%1$s es desactivarà, però no es cancel·larà el teu servei.</string>
+    <string name="user_consent_switch_mep_dsds_no_name_body_text">La teva SIM actual es desactivarà, però no es cancel·larà el teu servei.</string>
+    <string name="user_consent_switch_no_name_title">Vols utilitzar una SIM nova?</string>
+    <string name="user_consent_switch_ss_body_text">"Aquest dispositiu només té una SIM activa.
+
+%1$s es desactivarà, però no es cancel·larà el teu servei."</string>
+    <string name="user_consent_switch_ss_no_name_body_text">"Aquest dispositiu només té una SIM activa.
+
+La teva SIM actual es desactivarà, però no es cancel·larà el teu servei."</string>
+    <string name="user_consent_switch_title">Vols utilitzar %1$s?</string>
+    <string name="v7_preference_off">DESACTIVAT</string>
+    <string name="v7_preference_on">ACTIVAT</string>
+    <string name="wait_msg">Un moment…</string>
+    <string name="wrong_code_dialog_text">"Alguns operadors requereixen un codi de verificació per a més seguretat. Pots trobar el codi:
+
+• En un paper que se't va proporcionar amb el dispositiu.
+• En un correu electrònic de l'operador.
+• En un missatge de text enviat al teu telèfon antic."</string>
+    <string name="yes_button">Sí</string>
+</resources>

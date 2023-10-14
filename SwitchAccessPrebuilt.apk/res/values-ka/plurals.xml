@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dots">
+        <item quantity="other">წერტილები %s</item>
+        <item quantity="one">წერტილი %s</item>
+    </plurals>
+    <plurals name="gestures_recorded_message">
+        <item quantity="other">ჩაწერილია %d ჟესტი</item>
+        <item quantity="one">ჩაწერილია 1 ჟესტი</item>
+    </plurals>
+    <plurals name="label_num_keys_assigned_format">
+        <item quantity="other">მინიჭებულია %d გადამრთველი</item>
+        <item quantity="one">მინიჭებულია %d გადამრთველი</item>
+    </plurals>
+    <plurals name="label_num_scanning_loops_format">
+        <item quantity="other">%d ციკლი</item>
+        <item quantity="one">%d ციკლი</item>
+    </plurals>
+    <plurals name="line_speed_summary_format">
+        <item quantity="other">%.2f სმ წამში</item>
+        <item quantity="one">1 სმ წამში</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d ახალი შეტყობინება</item>
+        <item quantity="one">%d ახალი შეტყობინება</item>
+    </plurals>
+    <plurals name="time_delay_summary_format">
+        <item quantity="other">%.2f წამი</item>
+        <item quantity="one">1 წამი</item>
+    </plurals>
+</resources>

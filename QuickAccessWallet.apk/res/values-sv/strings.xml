@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_menu">Meny</string>
+    <string name="call_notification_answer_action">Svara</string>
+    <string name="call_notification_answer_video_action">Video</string>
+    <string name="call_notification_decline_action">Avvisa</string>
+    <string name="call_notification_hang_up_action">Lägg på</string>
+    <string name="call_notification_incoming_text">Inkommande samtal</string>
+    <string name="call_notification_ongoing_text">Pågående samtal</string>
+    <string name="call_notification_screening_text">Ett inkommande samtal filtreras</string>
+    <string name="error_generic">Det gick inte att hämta dina kort. Försök igen senare.</string>
+    <string name="error_user_locked">Lås upp mobilen för att läsa in dina betalningsuppgifter</string>
+    <string name="settings">Inställningar</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

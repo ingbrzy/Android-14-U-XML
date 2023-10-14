@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">ការជូនដំណឹងថ្មី %d</item>
+        <item quantity="one">ការជូនដំណឹងថ្មី %d</item>
+    </plurals>
+    <plurals name="survey_star_rating">
+        <item quantity="other">ផ្កាយ %1$d ក្នុងចំណោមផ្កាយ %2$d</item>
+        <item quantity="one">ផ្កាយ %1$d ក្នុងចំណោមផ្កាយ %2$d</item>
+    </plurals>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sound_amplifier_html_description">Дуу өсгөгч нь чанга дуу чимээг хэт чангалахгүйгээр сул дуу чимээг чангалдаг&lt;br/>&lt;br/> &lt;b>Дуу өсгөгчийг хэрхэн ашиглах вэ?&lt;/b>&lt;br/> 1. Утастай чихэвч залгах эсвэл Bluetooth чихэвч холбоно уу&lt;br/> 2. Дуу өсгөгчийг эхлүүлнэ үү</string>
+    <string name="sound_amplifier_intro">Эргэн тойрныхоо болон төхөөрөмж дээрээ аудионы чанарыг сайжруулахын тулд чихэвчтэй Дуу өсгөгч ашиглана уу</string>
+</resources>

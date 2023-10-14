@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="analog_gadget">അനലോഗ്</string>
+    <string name="digital_gadget">ഡിജിറ്റൽ</string>
+    <string name="analog_widget_clover_clock_name">ക്ലോവർ</string>
+    <string name="analog_widget_clover_content_description">ക്ലോവർ ആകൃതിയിലുള്ള ക്ലോക്ക് ഫെയ്‌സ്</string>
+    <string name="analog_widget_config_activity_title">ക്ലോക്ക് ഫെയ്സ് തിരഞ്ഞെടുക്കുക</string>
+    <string name="analog_widget_day_clock_name">ദിവസം</string>
+    <string name="analog_widget_day_content_description">മാസത്തിലെ ദിവസം കാണിക്കുന്ന ക്ലോക്ക് ഫെയ്‌സ്</string>
+    <string name="analog_widget_numeral_clock_name">അക്കം</string>
+    <string name="analog_widget_numeral_content_description">വലിയ അക്കങ്ങളുള്ള ക്ലോക്ക് ഫെയ്‌സ്</string>
+    <string name="analog_widget_scallop_clock_name">സ്‌കാലപ്പ്</string>
+    <string name="analog_widget_scallop_content_description">ആഴ്‌ചയിലെയും മാസത്തിലെയും ദിവസം കാണിക്കുന്ന ക്ലോക്ക് ഫെയ്‌സ്</string>
+    <string name="cities_widget_config_activity_subtitle">Clock ടാബിൽ നിന്ന് നഗരങ്ങൾ ചേർക്കാനാകും</string>
+    <string name="cities_widget_config_activity_subtitle_button">Clock ആപ്പിൽ നഗരങ്ങൾ തിരഞ്ഞെടുക്കുക</string>
+    <string name="cities_widget_preview_city_london">ലണ്ടൻ</string>
+    <string name="cities_widget_preview_city_mountain_view">മൗണ്ടൻ വ്യൂ</string>
+    <string name="clock_widget_opaque_label">ദൃഢം</string>
+    <string name="clock_widget_transparent_label">സുതാര്യം</string>
+    <string name="digital_appwidget_config_activity_title">ക്ലോക്കിന്റെ സ്റ്റൈൽ തിരഞ്ഞെടുക്കുക</string>
+    <string name="digital_cities_gadget">ലോകം</string>
+    <string name="digital_cities_gadget_description">ക്ലോക്ക് ആപ്പിൽ നഗരങ്ങൾ തിരഞ്ഞെടുക്കുക</string>
+    <string name="digital_stacked_gadget">അടുക്കിയത്</string>
+    <string name="digital_widgets_preview_alarm">തിങ്കൾ 09:30</string>
+    <string name="stopwatch_gadget_description">ക്ലോക്ക് ആപ്പിൽ സ്റ്റോപ്പ്‌വാച്ച് നിയന്ത്രിക്കുക</string>
+</resources>

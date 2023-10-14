@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ndays">
+        <item quantity="other">%d दिवस</item>
+        <item quantity="one">1 दिवस</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%d तास</item>
+        <item quantity="one">1 तास</item>
+    </plurals>
+    <plurals name="Nminutes">
+        <item quantity="other">%d मिनिटे</item>
+        <item quantity="one">1 मिनिट</item>
+    </plurals>
+    <plurals name="Nweeks">
+        <item quantity="other">%d आठवडे</item>
+        <item quantity="one">1 आठवडा</item>
+    </plurals>
+    <plurals name="a11y_filter_capacity">
+        <item quantity="other">आवश्यक रूम क्षमता: %1$d आसने</item>
+        <item quantity="one">आवश्यक रूम क्षमता: एक आसन</item>
+    </plurals>
+    <plurals name="accessibility_find_time_custom_duration_hour_input">
+        <item quantity="other">%d तास</item>
+        <item quantity="one">%d तास</item>
+    </plurals>
+    <plurals name="accessibility_find_time_custom_duration_minute_input">
+        <item quantity="other">%d मिनिटे</item>
+        <item quantity="one">%d मिनिट</item>
+    </plurals>
+    <plurals name="accessibility_has_time_proposals">
+        <item quantity="other">वेळेचे प्रस्ताव आहेत</item>
+        <item quantity="one">वेळेचा प्रस्ताव आहे</item>
+    </plurals>
+    <plurals name="alternate_search_available_announce">
+        <item quantity="other">%d परिणामांसह शोध पूर्ण झाला.</item>
+        <item quantity="one">%d परिणामासह शोध पूर्ण झाला.</item>
+    </plurals>
+    <plurals name="annually_frequency_text">
+        <item quantity="other">प्रत्येक %1$d %2$s ची पुनरावृत्ती करा</item>
+        <item quantity="one">प्रत्येक %1$d %2$s ची पुनरावृत्ती करा</item>
+    </plurals>
+    <plurals name="birthday_chip_title">
+        <item quantity="other">%d वाढदिवस</item>
+        <item quantity="one">वाढदिवस</item>
+    </plurals>
+    <plurals name="calendar_daily_lower">
+        <item quantity="other">दर %d दिवसांनी</item>
+        <item quantity="one">दैनिक</item>
+    </plurals>
+    <plurals name="calendar_monthly_interval_lower">
+        <item quantity="other">दर %1$d महिन्यांनी</item>
+        <item quantity="one">मासिक</item>
+    </plurals>
+    <plurals name="calendar_weekly_lower">
+        <item quantity="other">दर %1$d आठवड्यांनी</item>
+        <item quantity="one">साप्ताहिक</item>
+    </plurals>
+    <plurals name="calendar_yearly_interval_lower">
+        <item quantity="other">दर %1$d वर्षांनी</item>
+        <item quantity="one">वार्षिक</item>
+    </plurals>
+    <plurals name="capacity_description">
+        <item quantity="other">%d लोक</item>
+        <item quantity="one">एक व्यक्ती</item>
+    </plurals>
+    <plurals name="count_duration_accessibility_description">
+        <item quantity="other">%d घटनांनंतर संपेल</item>
+        <item quantity="one">एका घटनेनंतर संपेल</item>
+    </plurals>
+    <plurals name="count_duration_label">
+        <item quantity="other">%d घटनांनंतर</item>
+        <item quantity="one">%d घटनेनंतर</item>
+    </plurals>
+    <plurals name="daily_frequency_text">
+        <item quantity="other">प्रत्येक %1$d %2$s ची पुनरावृत्ती करा</item>
+        <item quantity="one">प्रत्येक %1$d %2$s ची पुनरावृत्ती करा</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">दिवस</item>
+        <item quantity="one">दिवस</item>
+    </plurals>
+    <plurals name="days_before">
+        <item quantity="other">दिवसांपूर्वी</item>
+        <item quantity="one">दिवसापूर्वी</item>
+    </plurals>
+    <plurals name="describe_attachments">
+        <item quantity="other">संलग्नके: %1$d संलग्नके</item>
+        <item quantity="one">संलग्नके: %1$d संलग्नक</item>
+    </plurals>
+    <plurals name="done_reminders_title">
+        <item quantity="other">%d स्मरणपत्रे पूर्ण केली</item>
+        <item quantity="one">%d स्मरणपत्र पूर्ण केले:</item>
+    </plurals>
+    <plurals name="end_by_count">
+        <item quantity="other">;%d वेळा</item>
+        <item quantity="one">; एका वेळी</item>
+    </plurals>
+    <plurals name="error_working_location_duration_too_long">
+        <item quantity="other">%1$d पेक्षा जास्त दिवसांसाठी कामाची स्थाने सेट करता येऊ शकत नाहीत.</item>
+        <item quantity="one">%1$d पेक्षा जास्त दिवसासाठी कामाची स्थाने सेट करता येऊ शकत नाहीत.</item>
+    </plurals>
+    <plurals name="files_not_shared_dialog_body">
+        <item quantity="other">तुम्ही ड्राइव्हमधून समाविष्‍ट केलेल्या फाइलंमध्‍ये आपल्‍या अतिथींना कदाचित प्रवेश नसू शकतो. तुम्हाला Google ड्राइव्ह मधून फाइल शेअर करण्याची आवश्यकता असू शकते.</item>
+        <item quantity="one">तुम्ही ड्राइव्हमधून समाविष्‍ट केलेल्या फाइलमध्‍ये आपल्‍या अतिथींना कदाचित प्रवेश नसू शकतो. तुम्हाला Google ड्राइव्ह मधून फाइल शेअर करण्याची आवश्यकता असू शकते.</item>
+    </plurals>
+    <plurals name="find_a_time_invisible_attendee">
+        <item quantity="other">+%d आणखी</item>
+        <item quantity="one">+%d आणखी</item>
+    </plurals>
+    <plurals name="find_time_duration_hour_label">
+        <item quantity="other">%d तास</item>
+        <item quantity="one">%d तास</item>
+    </plurals>
+    <plurals name="find_time_duration_minute_label">
+        <item quantity="other">%d मिनिटे</item>
+        <item quantity="one">%d मिनिट</item>
+    </plurals>
+    <plurals name="fix_permissions_does_not_fix_everything_warning">
+        <item quantity="other">टीप: काही अतिथींना या फाइलंमध्‍ये कदाचित अद्याप प्रवेश नसू शकतो. तुम्हाला या फाइल Google ड्राइव्ह मधून शेअर करण्याची आवश्यकता असू शकते.</item>
+        <item quantity="one">टीप: काही अतिथींना अद्याप या फाइलमध्‍ये कदाचित प्रवेश नसू शकतो. तुम्हाला ही फाइल Google ड्राइव्ह मधून शेअर करण्याची आवश्यकता असू शकते.</item>
+    </plurals>
+    <plurals name="fix_permissions_outside_domain_warning_hedgehog">
+        <item quantity="other">"तुम्ही या फाइल ज्या Google Workspace संस्थेचा भाग आहेत, त्यामध्ये नसलेल्या &lt;br>&lt;b>%1$s
+&lt;/b>&lt;br> अतिथींसोबत शेअर करत आहात"</item>
+        <item quantity="one">तुम्ही ही फाइल ज्या Google Workspace संस्थेचा भाग आहे, त्यामध्ये नसलेल्या &lt;br>&lt;b>%1$s&lt;/b>&lt;br> अतिथींसोबत शेअर करत आहात</item>
+    </plurals>
+    <plurals name="guest_count">
+        <item quantity="other">%d अतिथी</item>
+        <item quantity="one">%d अतिथी</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">तास</item>
+        <item quantity="one">तास</item>
+    </plurals>
+    <plurals name="hours_before">
+        <item quantity="other">तासांपूर्वी</item>
+        <item quantity="one">तासापूर्वी</item>
+    </plurals>
+    <plurals name="ical_many_events_warning">
+        <item quantity="other">हे %d इव्हेंट जोडेल आणि पूर्ववत केले जाऊ शकणार नाही. तुमची खात्री आहे?</item>
+        <item quantity="one">हे %d इव्हेंट जोडेल आणि पूर्ववत केले जाऊ शकणार नाही. तुमची खात्री आहे?</item>
+    </plurals>
+    <plurals name="mark_reminders_done_title">
+        <item quantity="other">%d स्मरणपत्रे पूर्ण झाली म्हणून चिन्हांकित करायचे?</item>
+        <item quantity="one">%d स्मरणपत्र पूर्ण झाले म्हणून चिन्हांकित करायचे?</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">मिनिटे</item>
+        <item quantity="one">मिनिट</item>
+    </plurals>
+    <plurals name="minutes_before">
+        <item quantity="other">मिनिटांपूर्वी</item>
+        <item quantity="one">मिनिटापूर्वी</item>
+    </plurals>
+    <plurals name="month_view_hidden_events">
+        <item quantity="other">%d आणखी</item>
+        <item quantity="one">%d आणखी</item>
+    </plurals>
+    <plurals name="monthly_frequency_text">
+        <item quantity="other">प्रत्येक %1$d %2$s ची पुनरावृत्ती करा</item>
+        <item quantity="one">प्रत्येक %1$d %2$s ची पुनरावृत्ती करा</item>
+    </plurals>
+    <plurals name="more_guests">
+        <item quantity="other">आणि आणखी %1$d जण</item>
+        <item quantity="one">आणि आणखी %1$d जण</item>
+    </plurals>
+    <plurals name="no_room_suggestions_title">
+        <item quantity="other">कोणत्याही रूम सूचना नसणारे %1$d अतिथी</item>
+        <item quantity="one">कोणत्याही रूम सूचना नसणारा एक अतिथी</item>
+    </plurals>
+    <plurals name="num_rooms">
+        <item quantity="other">%1$d रूम</item>
+        <item quantity="one">%1$d रूम</item>
+    </plurals>
+    <plurals name="public_notification_text">
+        <item quantity="other">%1$d new notifications</item>
+        <item quantity="one">You have a notification</item>
+    </plurals>
+    <plurals name="recurrence_frequency_annually">
+        <item quantity="other">वर्षांनी</item>
+        <item quantity="one">वर्ष</item>
+    </plurals>
+    <plurals name="recurrence_frequency_daily">
+        <item quantity="other">दिवसांनी</item>
+        <item quantity="one">दिवसाने</item>
+    </plurals>
+    <plurals name="recurrence_frequency_monthly">
+        <item quantity="other">महिन्यांनी</item>
+        <item quantity="one">महिना</item>
+    </plurals>
+    <plurals name="recurrence_frequency_weekly">
+        <item quantity="other">आठवड्यांमध्ये</item>
+        <item quantity="one">आठवडा</item>
+    </plurals>
+    <plurals name="reminder_bundle_description_prefix">
+        <item quantity="other">%d स्मरणपत्रे:</item>
+        <item quantity="one">%d स्मरणपत्र:</item>
+    </plurals>
+    <plurals name="reminder_done_bundle_description_prefix">
+        <item quantity="other">%d स्मरणपत्रे पूर्ण केली:</item>
+        <item quantity="one">%d स्मरणपत्र पूर्ण केले:</item>
+    </plurals>
+    <plurals name="reminders_marked_done">
+        <item quantity="other">%d स्मरणपत्रे पूर्ण झाली म्हणून चिन्हांकित केले.</item>
+        <item quantity="one">%d स्मरणपत्र पूर्ण झाले म्हणून चिन्हांकित केले.</item>
+    </plurals>
+    <plurals name="reminders_migration_dialog_title">
+        <item quantity="other">%d रिमाइंडरचे टास्कमध्ये रूपांतर करा</item>
+        <item quantity="one">%d रिमाइंडरचे टास्कमध्ये रूपांतर करा</item>
+    </plurals>
+    <plurals name="reminders_migration_force_completed_toast">
+        <item quantity="other">रिमाइंडर हे आता टास्क आहेत. %2$s साठी %1$d रिमाइंडरचे टास्कमध्ये रूपांतर केले आहे.</item>
+        <item quantity="one">रिमाइंडर हे आता टास्क आहेत. %2$s साठी %1$d रिमाइंडरचे टास्कमध्ये रूपांतर केले आहे.</item>
+    </plurals>
+    <plurals name="reminders_migration_keep_only_dialog_title">
+        <item quantity="other">तुमचे %d रिमाइंडर हे Google Keep मध्ये उपलब्ध असतील</item>
+        <item quantity="one">तुमचा %d रिमाइंडर हा Google Keep मध्ये उपलब्ध असेल</item>
+    </plurals>
+    <plurals name="reminders_migration_keep_only_reminders_dialog_description_with_account">
+        <item quantity="other">%s म्हणून, तुमचे सर्व रिमाइंडर Google Keep मध्ये तयार केले गेले होते आणि ते टास्कमध्ये रूपांतरित करू शकत नाही. ते Calendar मधून काढून टाकले जातील, पण तुम्ही ते अजूनही Keep मध्ये व्यवस्थापित करू शकता.</item>
+        <item quantity="one">%s म्हणून, तुमचा रिमाइंडर Google Keep मध्ये तयार केला गेला होता आणि तो टास्कमध्ये रूपांतरित करू शकत नाही. तो Calendar मधून काढून टाकला जाईल, पण तुम्ही तो Keep मध्ये अजूनही व्यवस्थापित करू शकता.</item>
+    </plurals>
+    <plurals name="reminders_migration_partial_failure_some_remaining_toast">
+        <item quantity="other">%2$s साठी फक्त %1$d रिमाइंडरचे टास्कमध्ये रूपांतर केले आहे. काही रिमाइंडर शिल्लक आहेत.</item>
+        <item quantity="one">%2$s साठी फक्त %1$d रिमाइंडरचे टास्कमध्ये रूपांतर केले आहे. काही रिमाइंडर शिल्लक आहेत.</item>
+    </plurals>
+    <plurals name="reminders_migration_tooltip_remark">
+        <item quantity="other">तुमच्या %d रिमाइंडरचे टास्कमध्ये रूपांतर केले आहे.</item>
+        <item quantity="one">तुमच्या %d रिमाइंडरचे टास्कमध्ये रूपांतर केले आहे.</item>
+    </plurals>
+    <plurals name="reminders_migration_tooltip_with_keep_reminders_remark">
+        <item quantity="other">%d रिमाइंडरचे टास्कमध्ये रूपांतर केले आहे. Google Keep मध्ये तयार केलेले रिमाइंडर बदललेले नाहीत. ते Calendar मधून काढून टाकले जातील, पण तुम्ही ते अजूनही Keep मध्ये व्यवस्थापित करू शकता.</item>
+        <item quantity="one">%d रिमाइंडरचे टास्कमध्ये रूपांतर केले आहे. Google Keep मध्ये तयार केलेले रिमाइंडर बदललेले नाहीत. ते Calendar मधून काढून टाकले जातील, पण तुम्ही ते अजूनही Keep मध्ये व्यवस्थापित करू शकता.</item>
+    </plurals>
+    <plurals name="reminders_migration_voluntary_completed_keep_only_toast">
+        <item quantity="other">%2$s साठी %1$d रिमाइंडर Calendar मधून काढून टाकले आहेत, पण ते Keep मध्ये आहेत</item>
+        <item quantity="one">%2$s साठी %1$d रिमाइंडर Calendar मधून काढून टाकला आहे, पण तो Keep मध्ये आहे</item>
+    </plurals>
+    <plurals name="reminders_migration_voluntary_completed_toast">
+        <item quantity="other">%2$s साठी %1$d रिमाइंडरचे टास्कमध्ये रूपांतर केले आहे</item>
+        <item quantity="one">%2$s साठी %1$d रिमाइंडरचे टास्कमध्ये रूपांतर केले आहे</item>
+    </plurals>
+    <plurals name="reminders_title">
+        <item quantity="other">%d स्मरणपत्रे</item>
+        <item quantity="one">%d स्मरणपत्र</item>
+    </plurals>
+    <plurals name="response_count_accepted">
+        <item quantity="other">%s होय</item>
+        <item quantity="one">%s होय</item>
+    </plurals>
+    <plurals name="response_count_accepted_in_a_meeting_room">
+        <item quantity="other">मीटिंग रूममध्ये %s असतील</item>
+        <item quantity="one">मीटिंग रूममध्ये %s असेल</item>
+    </plurals>
+    <plurals name="response_count_accepted_virtually">
+        <item quantity="other">%s व्हर्च्युअली सामील होतील</item>
+        <item quantity="one">%s व्हर्च्युअली सामील होईल</item>
+    </plurals>
+    <plurals name="response_count_declined">
+        <item quantity="other">%s नाही</item>
+        <item quantity="one">%s नाही</item>
+    </plurals>
+    <plurals name="response_count_need_action">
+        <item quantity="other">%s प्रतीक्षेत</item>
+        <item quantity="one">%s प्रतीक्षेत</item>
+    </plurals>
+    <plurals name="response_count_tentative">
+        <item quantity="other">%s कदाचित</item>
+        <item quantity="one">%s कदाचित</item>
+    </plurals>
+    <plurals name="room_capacity_description">
+        <item quantity="other">%1$d लोकांसाठी कॉंफरंस रूम</item>
+        <item quantity="one">एका व्यक्तीसाठी कॉंफरंस रूम</item>
+    </plurals>
+    <plurals name="short_invisible_all_day_events">
+        <item quantity="other">+%d</item>
+        <item quantity="one">+%d</item>
+    </plurals>
+    <plurals name="smartmail_seats">
+        <item quantity="other">सीट %s</item>
+        <item quantity="one">सीट %s</item>
+    </plurals>
+    <plurals name="smartmail_time_day_offset">
+        <item quantity="other">%d दिवस</item>
+        <item quantity="one">%d दिवस</item>
+    </plurals>
+    <plurals name="survey_star_rating">
+        <item quantity="other">%2$d पैकी %1$dएक तारे</item>
+        <item quantity="one">%2$d पैकी %1$dएक तारा</item>
+    </plurals>
+    <plurals name="tasks_rollover_chip_title">
+        <item quantity="other">%d प्रलंबित टास्क</item>
+        <item quantity="one">%d प्रलंबित टास्क</item>
+    </plurals>
+    <plurals name="tasks_rollover_dialog_description">
+        <item quantity="other">मागील %d दिवसांमध्ये</item>
+        <item quantity="one">मागील %d दिवसामध्ये</item>
+    </plurals>
+    <plurals name="weekly_by_day_lower">
+        <item quantity="other">%2$s रोजी दर %1$d आठवड्यांनी</item>
+        <item quantity="one">%2$s रोजी साप्ताहिक</item>
+    </plurals>
+    <plurals name="weekly_frequency_text">
+        <item quantity="other">प्रत्येक %1$d %2$s ची पुनरावृत्ती करा</item>
+        <item quantity="one">प्रत्येक %1$d %2$s ची पुनरावृत्ती करा</item>
+    </plurals>
+    <plurals name="weeks">
+        <item quantity="other">आठवडे</item>
+        <item quantity="one">आठवडा</item>
+    </plurals>
+    <plurals name="weeks_before">
+        <item quantity="other">आठवड्‍यांपूर्वी</item>
+        <item quantity="one">आठवड्‍यापूर्वी</item>
+    </plurals>
+</resources>

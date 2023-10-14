@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="select_logpersist_summaries">
+        <item>Izslēgts</item>
+        <item>Visi reģistra buferi</item>
+        <item>Visi, izņemot radio reģistra buferus</item>
+        <item>tikai kodola žurnāla buferī</item>
+    </string-array>
+</resources>

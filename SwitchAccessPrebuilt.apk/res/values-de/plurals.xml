@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dots">
+        <item quantity="other">Punkte %s</item>
+        <item quantity="one">Punkt %s</item>
+    </plurals>
+    <plurals name="gestures_recorded_message">
+        <item quantity="other">%d Gesten aufgenommen</item>
+        <item quantity="one">1 Geste aufgenommen</item>
+    </plurals>
+    <plurals name="label_num_keys_assigned_format">
+        <item quantity="other">%d Schalter zugewiesen</item>
+        <item quantity="one">%d Schalter zugewiesen</item>
+    </plurals>
+    <plurals name="label_num_scanning_loops_format">
+        <item quantity="other">%d Schleifen</item>
+        <item quantity="one">%d Schleife</item>
+    </plurals>
+    <plurals name="line_speed_summary_format">
+        <item quantity="other">%.2f cm pro Sekunde</item>
+        <item quantity="one">1 cm pro Sekunde</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d neue Benachrichtigungen</item>
+        <item quantity="one">%d neue Benachrichtigung</item>
+    </plurals>
+    <plurals name="time_delay_summary_format">
+        <item quantity="other">%.2f Sekunden</item>
+        <item quantity="one">1 Sekunde</item>
+    </plurals>
+</resources>

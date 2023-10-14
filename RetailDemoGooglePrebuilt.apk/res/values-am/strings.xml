@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_retaildemoCommunication">መተግበሪያ ከየችርቻሮ ማሳያ አገልግሎቶች ጋር መስተጋብር እንዲፈጥር መፍቀድ። የችርቻሮ ማሳያ ብቻ ነው ይህ ፈቃድ ሊሰጠው የሚገባው። ይህ ፈቃድ የተሰጣቸው መተግበሪያዎች ለችርቻሮ ማሳያ ሁነታ የተወሰኑ እርምጃዎችን ሊቀሰቅሱ ይችላሉ።</string>
+    <string name="permlab_retaildemoCommunication">የችርቻሮ ማሳያ ተግባቦት</string>
+    <string name="retaildemo_preload_app_name">የችርቻሮ ማሳያ አገልግሎቶች</string>
+</resources>

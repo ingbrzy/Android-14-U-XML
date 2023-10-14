@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_install_failed_multi_app_desc">
+        <item quantity="other">Կարգավորումը չի ավարտվել, քանի որ %1$d պարտադիր հավելված չհաջողվեց տեղադրել: Դիմեք ձեր ցանցային ադմինիստրատորին:</item>
+        <item quantity="one">Կարգավորումը չի ավարտվել, քանի որ %1$d պարտադիր հավելված չհաջողվեց տեղադրել: Դիմեք ձեր ցանցային ադմինիստրատորին:</item>
+    </plurals>
+    <plurals name="app_install_failure_title">
+        <item quantity="other">Չհաջողվեց տեղադրել հավելվածները</item>
+        <item quantity="one">Չհաջողվեց տեղադրել հավելվածները</item>
+    </plurals>
+    <plurals name="app_install_progress_desc">
+        <item quantity="other">Տեղադրվել է %1$d հավելված՝ %2$d-ից</item>
+        <item quantity="one">Տեղադրվել է %1$d հավելված՝ %2$d-ից</item>
+    </plurals>
+    <plurals name="app_uninstall_button">
+        <item quantity="other">Ապատեղադրել հավելվածները</item>
+        <item quantity="one">Ապատեղադրել հավելվածները</item>
+    </plurals>
+    <plurals name="days_left_message">
+        <item quantity="other">Մնացել է &lt;annotation id="numeric_time_left">^1&lt;/annotation> օր</item>
+        <item quantity="one">Մնացել է &lt;annotation id="numeric_time_left">^1&lt;/annotation> օր</item>
+    </plurals>
+    <plurals name="hours_left_message">
+        <item quantity="other">Մնաց &lt;annotation id="numeric_time_left">^1&lt;/annotation> ժամ</item>
+        <item quantity="one">Մնաց &lt;annotation id="numeric_time_left">^1&lt;/annotation> ժամ</item>
+    </plurals>
+    <plurals name="number_of_additional_apps">
+        <item quantity="other">%1$d լրացուցիչ հավելված</item>
+        <item quantity="one">%1$d լրացուցիչ հավելված</item>
+    </plurals>
+    <plurals name="number_of_required_apps">
+        <item quantity="other">%1$d պահանջվող հավելված</item>
+        <item quantity="one">%1$d պահանջվող հավելված</item>
+    </plurals>
+    <plurals name="policy_apps_list_summary">
+        <item quantity="other">%d աշխատանքային հավելված հնարավոր չէ տեղադրել</item>
+        <item quantity="one">%d աշխատանքային հավելված հնարավոր չէ տեղադրել</item>
+    </plurals>
+    <plurals name="preinstalled_apps">
+        <item quantity="other">Տեղադրվել է %1$d հավելված՝ %2$d-ից</item>
+        <item quantity="one">Տեղադրվել է %1$d հավելված՝ %2$d-ից</item>
+    </plurals>
+    <plurals name="readable_name_applications">
+        <item quantity="other">Հասանելի է %1$d հավելված (տեղադրված՝ %2$d, անջատված՝%3$d)</item>
+        <item quantity="one">Հասանելի է %1$d հավելված (տեղադրված՝ %2$d, անջատված՝%3$d)</item>
+    </plurals>
+</resources>

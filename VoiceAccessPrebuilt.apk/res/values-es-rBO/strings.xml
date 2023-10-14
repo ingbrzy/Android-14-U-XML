@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="service_description_supported_languages">Acceso por voz te permite controlar tu dispositivo Android con manos libres. Usa comandos por voz para abrir apps, presionar botones, desplazarte por la pantalla, escribir y mucho más. Por el momento, solo está disponible en alemán, español, inglés, italiano y francés.</string>
+    <string name="service_summary">Controla dispositivos con voz</string>
+    <string name="voice_access_htmlDescription">Habla al Acceso por voz y controla el dispositivo sin usar las manos. Prueba lo siguiente:&lt;br> &lt;br> &lt;ul> &lt;li>volver a casa &lt;li>atrás &lt;li>mostrar notificaciones &lt;li>hacer clic en Aceptar &lt;li>abrir fotos &lt;/ul> &lt;br> Se admiten más comandos. Cuando el Acceso por voz esté escuchando, di “¿qué puedo decir?” para obtener más información.</string>
+</resources>

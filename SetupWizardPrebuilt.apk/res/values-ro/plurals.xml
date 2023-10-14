@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="account_exists_text_multiple">
+        <item quantity="other">"Următoarele conturi sunt gata:
+
+"&lt;annotation textAppearance="TextAppearance.SudDescription.Medium">^1&lt;/annotation></item>
+        <item quantity="one">"Următorul cont este gata:
+
+"&lt;annotation textAppearance="TextAppearance.SudDescription.Medium">^1&lt;/annotation></item>
+        <item quantity="few">"Următoarele conturi sunt gata:
+
+"&lt;annotation textAppearance="TextAppearance.SudDescription.Medium">^1&lt;/annotation></item>
+    </plurals>
+    <plurals name="people_contacts_sync_failure_in_contacts_title_in_portal">
+        <item quantity="other">Nu s-au putut sincroniza %1$,d din %2$,d de persoane de contact</item>
+        <item quantity="one">Nu s-a putut sincroniza %1$,d din %2$,d persoană de contact</item>
+        <item quantity="few">Nu s-au putut sincroniza %1$,d din %2$,d persoane de contact</item>
+    </plurals>
+    <plurals name="people_contacts_sync_failure_in_photos_title_in_portal">
+        <item quantity="other">Nu s-au putut sincroniza %1$,d din %2$,d de fotografii ale persoanelor de contact</item>
+        <item quantity="one">Nu s-a putut sincroniza %1$,d din %2$,d fotografie a unei persoane de contact</item>
+        <item quantity="few">Nu s-au putut sincroniza %1$,d din %2$,d fotografii ale persoanelor de contact</item>
+    </plurals>
+    <plurals name="people_contacts_sync_succeed_title_in_portal">
+        <item quantity="other">%,d de persoane de contact sincronizate cu Agenda Google</item>
+        <item quantity="one">%,d persoană de contact sincronizată cu Agenda Google</item>
+        <item quantity="few">%,d persoane de contact sincronizate cu Agenda Google</item>
+    </plurals>
+    <plurals name="qr_provision_toast">
+        <item quantity="other">Încă %d de atingeri pentru a începe configurarea folosind codul QR</item>
+        <item quantity="one">Încă %d atingere pentru a începe configurarea folosind codul QR</item>
+        <item quantity="few">Încă %d atingeri pentru a începe configurarea folosind codul QR</item>
+    </plurals>
+    <plurals name="slots_selection_text">
+        <item quantity="other">%d de numere au fost adăugate pe dispozitiv, însă numai unul poate fi folosit odată.</item>
+        <item quantity="one">%d număr a fost adăugat pe dispozitiv, însă numai unul poate fi folosit odată.</item>
+        <item quantity="few">%d numere au fost adăugate pe dispozitiv, însă numai unul poate fi folosit odată.</item>
+    </plurals>
+    <plurals name="survey_star_rating">
+        <item quantity="other">%1$d de stele din %2$d</item>
+        <item quantity="one">%1$d stea din %2$d</item>
+        <item quantity="few">%1$d stele din %2$d</item>
+    </plurals>
+</resources>

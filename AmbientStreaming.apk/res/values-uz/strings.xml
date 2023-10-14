@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Qurilmalararo xizmatlar</string>
+    <string name="app_name_generic">ilova</string>
+    <string name="app_stream_error_generic">Ilova ulashilganda xatolik yuz berdi</string>
+    <string name="app_stream_init_error_generic">Ilova Chromebook bilan ulashilmadi</string>
+    <string name="audio_permission_rationale">Ilova ulashuvi uchun telefonda mikrofon ruxsatini yoqing</string>
+    <string name="cancel_button_label">Bekor qilish</string>
+    <string name="chromebook_keyboard">Chromebook klaviaturasi</string>
+    <string name="chromebook_mouse">Chromebook sichqonchasi</string>
+    <string name="chromebook_touchscreen">Chromebook sensorli ekrani</string>
+    <string name="connect_device">Telefon masofaviy qurilmaga ulanmoqda: %1$s</string>
+    <string name="decline_button_label">Rad etish</string>
+    <string name="development_notification_channel_name">Ishlab chiqish</string>
+    <string name="device_camera_cannot_access">Qurilma kamerasi bu Chromebook orqali ochilmaydi</string>
+    <string name="done_button_label">Tayyor</string>
+    <string name="enable_button_label">Yoqish</string>
+    <string name="foreground_service_notification_channel_name">Umumiy</string>
+    <string name="foreground_service_notification_content">Sozlamalarni oʻzgartirish uchun bosing</string>
+    <string name="foreground_service_notification_title">{0,plural, =1{# ta qurilmaga ulandi}other{# ta qurilmaga ulandi}}</string>
+    <string name="interactive_streaming_generic_notification">Chromebook uchun bildirishnomalar sinxronlanmoqda va %1$s translatsiya qilinmoqda</string>
+    <string name="interactive_streaming_individual_notification">%2$s uchun %1$s translatsiyasi va bildirishnomalarni sinxronlash</string>
+    <string name="interactive_streaming_notification">Chromebook qurilmasiga translatsiya qilinmoqda</string>
+    <string name="keyboard_name">Qurilmalararo klaviatura</string>
+    <string name="lock_screen_notif_warning_content">Ekran qulfida bildirishnomalar chiqishini yoqish</string>
+    <string name="lock_screen_notif_warning_title">Bildirishnomalar uzatilmaydi</string>
+    <string name="mouse_name">Qurilmalararo sichqoncha</string>
+    <string name="new_connection_confirm">Tasdiqlash</string>
+    <string name="new_connection_deny">Rad etish</string>
+    <string name="new_connection_title">Mos qatorlarni tasdiqlang</string>
+    <string name="notification_access_missing">Bildirishnomalarga ruxsat berilmagan</string>
+    <string name="notification_access_missing_description">Chromebook qurilmasida bildirishnomalarni ochish uchun Bildirishnomalar ruxsatini yoqing</string>
+    <string name="notification_channel_name">Umumiy</string>
+    <string name="notification_listener_label">Chromebook qurilmasida ilovalarni ulashish</string>
+    <string name="open_source_licenses">Ochiq kodli dastur litsenziyalari</string>
+    <string name="phone_permission_rationale">Ilova ulashuvi uchun telefonda chaqiruv ruxsatini yoqing</string>
+    <string name="prompt_switch_languages">Telefondagi Gboard tilini almashtirish uchun shift+boʻshliq tugmalarini bosing</string>
+    <string name="settings_button">Sozlamalar</string>
+    <string name="stop_sharing_button">Strimni tugatish</string>
+    <string name="stream_termination_proximity_warning">Telefon sizdan uzoqda. Translatsiyani davom ettirish uchun uni yaqinroq keltiring.</string>
+    <string name="substitute_app_name">Tizim</string>
+    <string name="summary_disable_wirecutter">Oʻchiq</string>
+    <string name="summary_enable_wirecutter">Yoniq</string>
+    <string name="touchscreen_name">Qurilmalararo sensorli ekran</string>
+</resources>

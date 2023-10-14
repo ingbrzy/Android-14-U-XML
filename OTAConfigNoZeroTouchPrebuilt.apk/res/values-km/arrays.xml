@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sim_locked_notification_custom_content_array">
+        <item>ដើម្បីប្រើ​ស៊ីមកាតនេះ សូមដោះសោ​ទូរសព្ទរបស់អ្នក ដោយប្រើ​កម្មវិធី​ដោះសោ​ឧបករណ៍។</item>
+        <item>សូមទាក់ទង​ក្រុមហ៊ុនផ្ដល់​សេវាទូរសព្ទចល័ត​របស់អ្នក</item>
+    </string-array>
+</resources>

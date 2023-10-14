@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="desc_ProfileIcons1">Rozpustilý obrázek se dvěma tmavozelenými půlkruhy na světlezeleném pozadí</string>
+    <string name="desc_ProfileIcons10">Rozpustilý obrázek oranžového motýla na žlutém pozadí</string>
+    <string name="desc_ProfileIcons11">Černý tvar nosu se zaoblenými okraji na tmavošedém pozadí</string>
+    <string name="desc_ProfileIcons12">Černý tvar jetele se zaoblenými okraji na světlešedém pozadí</string>
+    <string name="desc_ProfileIcons13">Světlefialový zvlněný kruh na tmavofialovém pozadí</string>
+    <string name="desc_ProfileIcons14">Světlemodrý tvar jetele se zaoblenými okraji na oranžovém pozadí</string>
+    <string name="desc_ProfileIcons15">Světlezelený šestiúhelník se zaoblenými okraji na tmavozeleném pozadí</string>
+    <string name="desc_ProfileIcons16">Černý tvar diamantu se zaoblenými okraji na světlešedém pozadí</string>
+    <string name="desc_ProfileIcons17">Rozpustilý obrázek oranžového listu na žlutém pozadí</string>
+    <string name="desc_ProfileIcons18">Rozpustilý obrázek planety Saturn na broskvovém pozadí</string>
+    <string name="desc_ProfileIcons19">Rozpustilý obrázek bílo-oranžových hvězd a kruhů ve hvězdném vzoru na černém pozadí</string>
+    <string name="desc_ProfileIcons2">Abstraktní obrázek černo-bílých protínajících se válců</string>
+    <string name="desc_ProfileIcons20">Rozpustilý obrázek psa s modrýma ušima a bílou tváří na žlutém pozadí</string>
+    <string name="desc_ProfileIcons21">Rozpustilý obrázek letící bílé holubice s olivovou ratolestí na fialovém pozadí</string>
+    <string name="desc_ProfileIcons22">Rozpustilý obrázek psa s černýma ušima a bílou tváří na modrém pozadí</string>
+    <string name="desc_ProfileIcons23">Rozpustilý obrázek růžové květiny se zelenými listy na krémovém pozadí</string>
+    <string name="desc_ProfileIcons24">Abstraktní obrázek šesti modrých válců na červeném pozadí</string>
+    <string name="desc_ProfileIcons3">Abstraktní obrázek světlemodrého tvaru jetele na tmavomodrém pozadí</string>
+    <string name="desc_ProfileIcons4">Abstraktní obrázek dvou růžových trojrozměrných trojúhelníků</string>
+    <string name="desc_ProfileIcons5">Abstraktní obrázek šedozelených vrstev na žlutém pozadí</string>
+    <string name="desc_ProfileIcons6">Abstraktní obrázek růžových kamenů na zeleném pozadí</string>
+    <string name="desc_ProfileIcons7">Rozpustilý obrázek pěti bílých geometrických květin na oranžovém pozadí</string>
+    <string name="desc_ProfileIcons8">Rozpustilý obrázek tří borůvek na růžovém pozadí</string>
+    <string name="desc_ProfileIcons9">Rozpustilý obrázek citrónu s černým listem na zeleném pozadí</string>
+    <string name="display_white_balance_summary">Dynamicky přizpůsobuje displej teplejším nebo chladnějším tónům podle okolního osvětlení</string>
+    <string name="display_white_balance_title">Adaptivní tónování</string>
+    <string name="fingerprint_unlock_set_unlock_password">Pixel Imprint a heslo</string>
+    <string name="fingerprint_unlock_set_unlock_pattern">Pixel Imprint a gesto</string>
+    <string name="fingerprint_unlock_set_unlock_pin">Pixel Imprint a PIN</string>
+    <string name="fingerprint_unlock_skip_fingerprint">Pokračovat bez senzoru Pixel Imprint</string>
+    <string name="fingerprint_unlock_title">Senzor Pixel Imprint umožňuje odemknout telefon otiskem prstu. Z bezpečnostních důvodů tato možnost vyžaduje záložní zámek obrazovky.</string>
+    <string name="security_settings_fingerprint_enroll_consent_introduction_title">Povolit Allow Pixel</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Díky senzoru Pixel Imprint můžete autorizovat nákupy a přihlašovat se do aplikací pomocí otisků prstů.
+
+Dobře zvažte, čí otisky do zařízení přidáte. Tyto akce bude možné provádět pomocí všech přidaných otisků.
+
+Poznámka: Otisk prstu nelze použít k odemykání tohoto zařízení. Další informace vám poskytne administrátor vaší organizace."</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">Nastavení funkce Pixel Imprint</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Pixel Imprint</string>
+    <string name="security_settings_fingerprint_preference_title">Pixel Imprint</string>
+    <string name="suggested_fingerprint_lock_settings_summary">Používat k odemykání telefonu funkci Pixel Imprint</string>
+</resources>

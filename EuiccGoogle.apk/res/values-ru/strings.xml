@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">Перейти вверх</string>
+    <string name="abc_action_mode_done">Готово</string>
+    <string name="abc_capital_off">ВЫКЛ</string>
+    <string name="abc_capital_on">ВКЛ</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Ввод</string>
+    <string name="abc_menu_function_shortcut_label">Fn +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Shift +</string>
+    <string name="abc_menu_space_shortcut_label">Пробел</string>
+    <string name="abc_menu_sym_shortcut_label">Sym +</string>
+    <string name="abc_prepend_shortcut_label">Меню +</string>
+    <string name="abc_search_hint">Введите запрос</string>
+    <string name="abc_searchview_description_clear">Удалить запрос</string>
+    <string name="abc_searchview_description_search">Поиск</string>
+    <string name="abc_searchview_description_submit">Отправить запрос</string>
+    <string name="abc_searchview_description_voice">Голосовой поиск</string>
+    <string name="abc_toolbar_collapse_description">Свернуть</string>
+    <string name="activation_code_scan_button">Отсканировать QR-код</string>
+    <string name="activation_code_text">Введите код, полученный от оператора связи.</string>
+    <string name="activation_code_title">Добавьте оператора</string>
+    <string name="add_profile_title">Добавить оператора</string>
+    <string name="asked_for_eid">Если при активации устройства в магазине вам потребуется QR-код EID, вы можете найти его %1$s.</string>
+    <string name="back_button_error_msg">Это окно нельзя закрыть, пока установка не завершена.</string>
+    <string name="body_check_qr_code_or_go_back">Убедитесь, что сканируете правильный QR-код.</string>
+    <string name="body_device_is_locked">Ваше устройство заблокировано оператором \"%1$s\".</string>
+    <string name="body_device_is_locked_no_name">Ваше устройство заблокировано.</string>
+    <string name="body_issue_with_sim_profile">Произошла ошибка SIM-карты. Чтобы устранить проблему, обратитесь к оператору \"%1$s\" по номеру %2$s.</string>
+    <string name="body_issue_with_sim_profile_maximum_attempts">Достигнуто максимальное количество попыток. За помощью обратитесь к оператору \"%1$s\" по телефону %2$s.</string>
+    <string name="body_issue_with_sim_profile_maximum_attempts_no_name">Достигнуто максимальное количество попыток. За помощью обратитесь к своему оператору связи.</string>
+    <string name="body_issue_with_sim_profile_maximum_attempts_no_tel">Достигнуто максимальное количество попыток. За помощью обратитесь к оператору \"%1$s\".</string>
+    <string name="body_issue_with_sim_profile_no_name">Произошла ошибка SIM-карты. Чтобы устранить проблему, обратитесь к своему оператору связи.</string>
+    <string name="body_issue_with_sim_profile_no_tel">Произошла ошибка SIM-карты. Чтобы устранить проблему, обратитесь к оператору \"%1$s\".</string>
+    <string name="body_issue_with_sim_profile_used_on_another_device">Эта SIM-карта используется на другом устройстве. Чтобы устранить проблему, обратитесь к оператору \"%1$s\" по номеру %2$s.</string>
+    <string name="body_issue_with_sim_profile_used_on_another_device_no_name">Эта SIM-карта используется на другом устройстве. Чтобы устранить проблему, обратитесь к своему оператору связи.</string>
+    <string name="body_issue_with_sim_profile_used_on_another_device_no_tel">Эта SIM-карта используется на другом устройстве. Чтобы устранить проблему, обратитесь к оператору \"%1$s\".</string>
+    <string name="body_make_sure_not_already_downloaded">"Убедитесь, что выбранный профиль SIM-карты не был скачан на это или другое устройство.
+
+Если вам нужна помощь, обратитесь к оператору \"%1$s\" по номеру %2$s."</string>
+    <string name="body_make_sure_not_already_downloaded_no_name">"Убедитесь, что выбранный профиль SIM-карты не был скачан на это или другое устройство.
+
+Если вам нужна помощь, обратитесь к своему оператору связи."</string>
+    <string name="body_make_sure_not_already_downloaded_no_tel">"Убедитесь, что выбранный профиль SIM-карты не был скачан на это или другое устройство.
+
+Если вам нужна помощь, обратитесь к оператору \"%1$s\"."</string>
+    <string name="body_need_wifi_connection">Чтобы скачать профиль eSIM, требуется подключение к сети Wi-Fi.</string>
+    <string name="body_need_wifi_or_mobile_connection">Чтобы скачать профиль eSIM, требуется подключение к сети Wi-Fi или мобильному интернету.</string>
+    <string name="body_not_enough_space_to_download">Недостаточно места, чтобы скачать этот профиль SIM-карты.</string>
+    <string name="body_sim_has_expired">"Истек срок действия карты eSIM.
+Чтобы получить новую SIM-карту, обратитесь к оператору \"%1$s\" по телефону %2$s."</string>
+    <string name="body_sim_has_expired_no_name">"Истек срок действия карты eSIM.
+Чтобы получить новую SIM-карту, обратитесь к своему оператору связи."</string>
+    <string name="body_sim_has_expired_no_tel">"Истек срок действия карты eSIM.
+Чтобы получить новую SIM-карту, обратитесь к оператору \"%1$s\"."</string>
+    <string name="body_something_went_wrong">При активации номера произошла ошибка.</string>
+    <string name="bottomsheet_action_expand_halfway">Развернуть наполовину</string>
+    <string name="button_text_close">Закрыть</string>
+    <string name="button_text_settings">Настройки</string>
+    <string name="cancel_button">Отмена</string>
+    <string name="cant_get_eid_please_contact_carrier">Не удалось найти код EID. Обратитесь за помощью к своему оператору связи.</string>
+    <string name="carrier_confirm_subtitle">Вы уже должны быть зарегистрированы у оператора.</string>
+    <string name="carrier_confirm_title">Выберите оператора</string>
+    <string name="carrier_selection_msg">Выберите оператора, услугами которого хотите пользоваться на этом телефоне.</string>
+    <string name="carrier_selection_psim">Использовать SIM-карту</string>
+    <string name="carrier_selection_title">Подтвердите оператора</string>
+    <string name="choose_carrier_title">Выберите операторов связи</string>
+    <string name="choose_number_activating">Активация…</string>
+    <string name="choose_number_could_not_activate">Не удалось активировать выбранный профиль.</string>
+    <string name="choose_number_error_no_space">Чтобы использовать другие номера или сети, освободите место на устройстве. Для этого перейдите в настройки и удалите один или несколько номеров.</string>
+    <string name="choose_number_error_perm">Чтобы использовать другие номера или сети, свяжитесь со своими операторами.</string>
+    <string name="choose_number_error_temp">Чтобы использовать другие номера или сети, активируйте их в настройках.</string>
+    <string name="choose_number_item_summary_unknown">Неизвестный номер</string>
+    <string name="choose_number_subtitle">{count,plural, =1{На это устройство добавлен 1 номер. Добавленные номера можно использовать только по одному.}one{На это устройство добавлен # номер, но их можно использовать только по одному.}few{На это устройство добавлено # номера, но их можно использовать только по одному.}many{На это устройство добавлено # номеров, но их можно использовать только по одному.}other{На это устройство добавлено # номера, но их можно использовать только по одному.}}</string>
+    <string name="choose_number_title">Выберите номер</string>
+    <string name="choose_second_number_subtitle">На этом устройстве вы можете использовать второй номер телефона вместе с текущим.</string>
+    <string name="choose_second_number_subtitle_with_psim_carrier_name">На этом устройстве вы можете использовать второй номер телефона вместе с основным (%1$s).</string>
+    <string name="choose_second_number_subtitle_with_psim_phone_number">На этом устройстве вы можете использовать второй номер телефона вместе с основным (%1$s).</string>
+    <string name="choose_second_number_title">Выберите второй номер</string>
+    <string name="common_google_play_services_enable_button">Включить</string>
+    <string name="common_google_play_services_enable_text">Для работы приложения \"%1$s\" требуется включить сервисы Google Play.</string>
+    <string name="common_google_play_services_enable_title">Включите сервисы Google Play</string>
+    <string name="common_google_play_services_install_button">Установить</string>
+    <string name="common_google_play_services_install_text">Для работы приложения \"%1$s\" требуется установить сервисы Google Play.</string>
+    <string name="common_google_play_services_install_title">Установите сервисы Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Доступность сервисов Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Ошибка сервисов Google Play</string>
+    <string name="common_google_play_services_unknown_issue">Приложению \"%1$s\" не удается подключиться к сервисам Google Play. Повторите попытку.</string>
+    <string name="common_google_play_services_unsupported_text">Для работы с приложением \"%1$s\" требуются сервисы Google Play. Они не поддерживаются на вашем устройстве.</string>
+    <string name="common_google_play_services_update_button">Обновить</string>
+    <string name="common_google_play_services_update_text">Чтобы запустить приложение \"%1$s\", обновите сервисы Google Play.</string>
+    <string name="common_google_play_services_update_title">Обновите сервисы Google Play</string>
+    <string name="common_google_play_services_updating_text">Сервисы Google Play, необходимые для работы приложения \"%1$s\", в настоящий момент обновляются.</string>
+    <string name="common_google_play_services_wear_update_text">Версия сервисов Google Play устарела. Они автоматически обновятся в ближайшее время.</string>
+    <string name="common_open_on_phone">Открыть на телефоне</string>
+    <string name="complete_service_setup_text">Оператор %1$s активирован.</string>
+    <string name="complete_service_setup_title">Настройка оператора %1$s завершена</string>
+    <string name="complete_update_esim_notification_body_text">Нажмите, чтобы завершить обновление программного обеспечения.</string>
+    <string name="complete_update_esim_notification_title">Завершите подключение к мобильной сети</string>
+    <string name="confirm_acti_no_space_sub1">Чтобы использовать другие номера, вам потребуется освободить место на устройстве, удалив существующие номера. Это можно сделать в любое время в настройках.</string>
+    <string name="confirm_acti_no_space_sub1_multi">Чтобы использовать другие номера или сети, вам потребуется освободить место на устройстве, удалив существующие номера. Это можно сделать в любое время в настройках.</string>
+    <string name="confirm_acti_perm_error_sub1">Если вы хотите использовать другие номера, свяжитесь с оператором \"%1$s\" по телефону %2$s. Для этого устройства может потребоваться номер EID:</string>
+    <string name="confirm_acti_perm_error_sub1_multi">Если вы хотите использовать другие номера или сети, свяжитесь с оператором \"%1$s\" по телефону %2$s. Для этого устройства может потребоваться номер EID:</string>
+    <string name="confirm_acti_perm_error_sub1_multi_no_carrier_name">Чтобы использовать другие номера или сети, свяжитесь со своим оператором. Для этого устройства может потребоваться номер EID:</string>
+    <string name="confirm_acti_perm_error_sub1_multi_no_phone">Если вы хотите использовать другие номера или сети, свяжитесь с оператором \"%1$s\". Для этого устройства может потребоваться номер EID:</string>
+    <string name="confirm_acti_perm_error_sub1_no_carrier_name">Чтобы использовать другие номера, свяжитесь со своим оператором. Для этого устройства может потребоваться номер EID:</string>
+    <string name="confirm_acti_perm_error_sub1_no_eid">Если вы хотите использовать другие номера, свяжитесь с оператором \"%1$s\" по телефону %2$s.</string>
+    <string name="confirm_acti_perm_error_sub1_no_eid_multi">Если вы хотите использовать другие номера или сети, свяжитесь с оператором \"%1$s\" по телефону %2$s.</string>
+    <string name="confirm_acti_perm_error_sub1_no_eid_multi_no_phone">Если вы хотите использовать другие номера или сети, свяжитесь с оператором \"%1$s\".</string>
+    <string name="confirm_acti_perm_error_sub1_no_eid_no_carrier_name">Если вы хотите использовать другие номера, свяжитесь со своим оператором.</string>
+    <string name="confirm_acti_perm_error_sub1_no_eid_no_phone">Если вы хотите использовать другие номера, свяжитесь с оператором \"%1$s\".</string>
+    <string name="confirm_acti_perm_error_sub1_no_phone">Если вы хотите использовать другие номера, свяжитесь с оператором \"%1$s\". Для этого устройства может потребоваться номер EID:</string>
+    <string name="confirm_acti_success_sub_title">Номер %1$s уже можно использовать.</string>
+    <string name="confirm_acti_success_sub_title_no_phone">Номер уже активен.</string>
+    <string name="confirm_acti_success_sub_title_w_app">Чтобы активировать номер %1$s, скачайте приложение оператора \"%2$s\". А пока вы можете завершить настройку телефона.</string>
+    <string name="confirm_acti_success_sub_title_w_app_no_name">Чтобы активировать номер %1$s, скачайте приложение вашего оператора. А пока вы можете завершить настройку телефона.</string>
+    <string name="confirm_acti_success_sub_title_w_app_no_name_setting">Чтобы активировать номер %1$s, скачайте приложение вашего оператора.</string>
+    <string name="confirm_acti_success_sub_title_w_app_no_phone">Чтобы активировать номер, скачайте приложение оператора \"%1$s\". А пока вы можете завершить настройку телефона.</string>
+    <string name="confirm_acti_success_sub_title_w_app_no_phone_no_name">Чтобы активировать номер, скачайте приложение своего оператора. А пока вы можете завершить настройку телефона.</string>
+    <string name="confirm_acti_success_sub_title_w_app_no_phone_no_name_setting">Чтобы активировать номер, скачайте приложение оператора.</string>
+    <string name="confirm_acti_success_sub_title_w_app_no_phone_setting">Чтобы активировать номер, скачайте приложение оператора \"%1$s\".</string>
+    <string name="confirm_acti_success_sub_title_w_app_setting">Чтобы активировать номер %1$s, скачайте приложение оператора \"%2$s\".</string>
+    <string name="confirm_acti_success_title">Подключено к оператору \"%1$s\"</string>
+    <string name="confirm_acti_success_title_no_carrier_name">Сеть активна</string>
+    <string name="confirm_acti_success_title_with_app">Подключитесь к сети оператора \"%1$s\" позже</string>
+    <string name="confirm_acti_success_title_with_app_no_name">Подключитесь к сети оператора позже</string>
+    <string name="confirm_acti_temp_error_sub1">Чтобы использовать другие номера, активируйте их в настройках.</string>
+    <string name="confirm_acti_temp_error_sub1_multi">Чтобы использовать другие номера или сети, активируйте их в настройках.</string>
+    <string name="confirm_code_try_again">Неверный код. Повторите попытку.</string>
+    <string name="confirm_transfer_single_carrier_dsds_msg">После того как номер %1$s будет перенесен, вы больше не сможете пользоваться им на прежнем устройстве. Чтобы перенести второй номер, вставьте SIM-карту в этот телефон после настройки.</string>
+    <string name="confirm_transfer_single_carrier_msg">После того как номер %1$s будет перенесен, вы больше не сможете пользоваться им на прежнем устройстве.</string>
+    <string name="confirm_transfer_single_carrier_title">Перенести номер оператора \"%1$s\"?</string>
+    <string name="confirmation_code_body_text">Чтобы подключиться к сети, введите код подтверждения, полученный от оператора связи.</string>
+    <string name="confirmation_code_body_text_with_carrier">Чтобы подключиться к сети, введите код подтверждения, полученный от оператора связи (%1$s).</string>
+    <string name="confirmation_code_title">Введите код подтверждения</string>
+    <string name="confirmation_code_what">Что это?</string>
+    <string name="contact_carrier_description">Чтобы настроить SIM-карту, вам нужно обратиться в компанию \"%1$s\" по номеру %2$s.</string>
+    <string name="contact_carrier_description_eid">EID-код устройства.</string>
+    <string name="contact_carrier_description_eid_additional">"
+
+Вам может понадобиться:"</string>
+    <string name="contact_carrier_title">Обратитесь в компанию \"%1$s\"</string>
+    <string name="continue_button">Продолжить</string>
+    <string name="copy">Копировать</string>
+    <string name="customer_service_activate_service">Код EID может понадобиться службе поддержки, чтобы помочь вам активировать мобильную связь:</string>
+    <string name="data_plan_select_subtitle">Когда номер будет перенесен, вы не сможете пользоваться им на прежнем устройстве.</string>
+    <string name="data_plan_select_title">Выберите, какой номер перенести</string>
+    <string name="def_notif_activating_title">Активация номера от оператора \"%1$s\"…</string>
+    <string name="def_notif_activation_fail_subtitle">Нажмите, чтобы узнать больше.</string>
+    <string name="def_notif_activation_fail_title">Не удалось активировать номер от оператора \"%1$s\"</string>
+    <string name="def_notif_activation_success_dsds_subtitle">Укажите настройки для вызовов, SMS и мобильной сети.</string>
+    <string name="def_notif_activation_success_dsds_title">Номера телефонов активированы</string>
+    <string name="def_notif_activation_success_title">Номер от оператора \"%1$s\" активирован</string>
+    <string name="default_display_name">SIM-карта</string>
+    <string name="default_profile_nickname_format">%1$s %2$d</string>
+    <string name="deferred_setup_notification_description">Ready to connect to mobile network</string>
+    <string name="deferred_setup_notification_title">Set you your %1$s SIM</string>
+    <string name="detail_contact_carrier_for_more_help">Если вам нужна помощь, свяжитесь с оператором.</string>
+    <string name="detail_contact_carrier_to_unlock">Чтобы узнать, может ли устройство быть разблокировано, свяжитесь с оператором \"%1$s\" по номеру %2$s.</string>
+    <string name="detail_contact_carrier_to_unlock_no_name">Чтобы узнать, может ли устройство быть разблокировано, свяжитесь с оператором.</string>
+    <string name="detail_contact_carrier_to_unlock_no_tel">Чтобы узнать, может ли устройство быть разблокировано, свяжитесь с оператором \"%1$s\".</string>
+    <string name="detail_delete_a_profile_before_retrying">Чтобы освободить место, в настройках удалите профиль SIM-карты. Затем повторите попытку.</string>
+    <string name="detail_may_need_eid_number">EID: %1$s</string>
+    <string name="detail_provide_info_to_carrier">"Сообщите оператору следующие данные:
+%1$s
+%2$s"</string>
+    <string name="detail_try_adding_again">Подключившись, попробуйте добавить мобильную сеть ещё раз.</string>
+    <string name="disable_carrier_dialog_text">"Устройство будет сразу же отключено от сети.
+
+Это не повлияет на ваши тарифные планы."</string>
+    <string name="disable_carrier_dialog_text_with_carrier">"Устройство будет сразу же отключено от сети %1$s.
+
+Это не повлияет на ваши тарифные планы."</string>
+    <string name="disable_carrier_dialog_title">Отключить оператора?</string>
+    <string name="disable_fail_text">Не удалось отключить оператора.</string>
+    <string name="disable_fail_title">Произошла ошибка</string>
+    <string name="disable_profile_title">Отключить</string>
+    <string name="disabled_profiles_title">Доступные операторы</string>
+    <string name="disabling_carrier">Отключение оператора…</string>
+    <string name="done_button">Готово</string>
+    <string name="download_complete_text">Чтобы активировать эту SIM-карту, перейдите в настройки.</string>
+    <string name="download_complete_text_with_carrier">Чтобы подключиться к оператору \"%1$s\", перейдите в настройки.</string>
+    <string name="download_complete_title">Профиль eSIM скачан</string>
+    <string name="download_esim_button">Download eSIM</string>
+    <string name="download_fail_dialog_text">Не удалось скачать eSIM. Повторите попытку. Если проблема не исчезнет, свяжитесь с оператором (%1$s).</string>
+    <string name="download_fail_dialog_text_no_carrier_name">Не удалось скачать eSIM. Повторите попытку. Если проблема не исчезнет, свяжитесь с оператором.</string>
+    <string name="download_fail_dialog_title">Произошла ошибка</string>
+    <string name="download_sub_multi_carriers_text">{count,plural, =1{Получаем &lt;b>номера (%2$d)&lt;/b> от оператора \"%1$s\" и ещё 1. Это может занять некоторое время.}one{Получаем &lt;b>номера (%2$d)&lt;/b> от оператора \"%1$s\" и ещё %3$d. Это может занять некоторое время.}few{Получаем &lt;b>номера (%2$d)&lt;/b> от оператора \"%1$s\" и ещё %3$d. Это может занять некоторое время.}many{Получаем &lt;b>номера (%2$d)&lt;/b> от оператора \"%1$s\" и ещё %3$d. Это может занять некоторое время.}other{Получаем &lt;b>номера (%2$d)&lt;/b> от оператора \"%1$s\" и ещё %3$d. Это может занять некоторое время.}}</string>
+    <string name="download_sub_text">{count,plural, =1{Получаем номер от оператора \"%1$s\". Это может занять некоторое время.}one{Получаем &lt;b>%2$d номер&lt;/b> от оператора \"%1$s\". Это может занять некоторое время.}few{Получаем &lt;b>%2$d номера&lt;/b> от оператора \"%1$s\". Это может занять некоторое время.}many{Получаем &lt;b>%2$d номеров&lt;/b> от оператора \"%1$s\". Это может занять некоторое время.}other{Получаем &lt;b>%2$d номера&lt;/b> от оператора \"%1$s\". Это может занять некоторое время.}}</string>
+    <string name="download_sub_title">{count,plural, =1{Добавление номера…}one{Добавление номеров…}few{Добавление номеров…}many{Добавление номеров…}other{Добавление номеров…}}</string>
+    <string name="download_sub_transform_title">Проверка мобильной связи…</string>
+    <string name="download_switch_confirm_mep_dialog_message">На этом устройстве можно использовать сразу две SIM-карты. Чтобы скачать и выбрать другую, отключите активную SIM-карту.</string>
+    <string name="download_switch_confirm_mep_dialog_title">Чтобы продолжить, отключите SIM-карту</string>
+    <string name="download_web_sub_text">Настройка может занять несколько минут</string>
+    <string name="download_web_sub_title">Настройка оператора…</string>
+    <string name="downloading_no_carrier_name_title">Скачивание eSIM…</string>
+    <string name="downloading_with_carrier_name_title">Скачивание eSIM от оператора \"%1$s\"…</string>
+    <string name="dsds_activation_failure_body_msg1">Извлеките и снова вставьте SIM-карту. Если проблема не исчезнет, перезапустите устройство.</string>
+    <string name="dsds_activation_failure_body_msg2">Попробуйте включить SIM-карту ещё раз. Если проблема не исчезнет, перезапустите устройство.</string>
+    <string name="dsds_activation_failure_title">Не удалось активировать SIM-карту</string>
+    <string name="dsds_activation_text">Активация SIM-карты…</string>
+    <string name="dsds_activation_text_in_esim_activation">Обновление…</string>
+    <string name="dsds_choose_number_text">На это устройство добавлено несколько номеров (%1$d), но использовать их можно только по одному.</string>
+    <string name="dsds_choose_number_title">Выберите номер</string>
+    <string name="dsds_choose_second_number_text">На этом устройстве можно использовать сразу два номера. Номер %1$s уже активен.</string>
+    <string name="dsds_choose_second_number_title">Выберите второй номер</string>
+    <string name="dsds_learn_more_button">Подробнее</string>
+    <string name="dsds_notification_after_reboot_text">Нажмите, чтобы обновить настройки SIM-карты.</string>
+    <string name="dsds_notification_after_reboot_text_carrier">Нажмите, чтобы обновить настройки оператора \"%1$s\".</string>
+    <string name="dsds_notification_after_reboot_title_carrier">Сеть \"%1$s\" активна</string>
+    <string name="dsds_notification_after_reboot_title_phone">Номер %1$s активен</string>
+    <string name="dsds_notification_after_suw_text">Выберите активную SIM-карту или используйте обе сразу</string>
+    <string name="dsds_notification_after_suw_title">Настройте другую SIM-карту</string>
+    <string name="dsds_switch_dialog_no_switch_text">Чтобы использовать мобильный интернет, звонки и SMS, измените настройки сети.</string>
+    <string name="dsds_switch_dialog_no_switch_title">Нет активных SIM-карт</string>
+    <string name="dsds_switch_dialog_progress_text">Переключение на %1$s…</string>
+    <string name="dsds_switch_dialog_text">Сеть оператора \"%1$s\" будет использоваться для звонков, SMS и доступа к мобильному интернету.</string>
+    <string name="dsds_switch_dialog_title">Использовать %1$s?</string>
+    <string name="eid_not_found">Код EID не найден</string>
+    <string name="eid_number">Показать подробную информацию</string>
+    <string name="eid_qr_code_dialog_error_msg">QR-код для EID недоступен.</string>
+    <string name="eid_qr_code_dialog_title">Код EID вашего устройства</string>
+    <string name="enable_carrier_dialog_text">"Устройство будет отключено от сети %2$s и подключено к сети %1$s.
+
+Это не повлияет на ваши тарифные планы."</string>
+    <string name="enable_carrier_dialog_text_from_removable">"Устройство будет отключено от сети оператора, обслуживающего текущую SIM-карту, и подключено к сети \"%1$s\".
+
+Это не повлияет на ваши тарифные планы."</string>
+    <string name="enable_carrier_dialog_text_to_removable">"Устройство будет отключено от сети %1$s и подключено к сети оператора, обслуживающего вставленную SIM-карту.
+
+Это не повлияет на ваши тарифные планы."</string>
+    <string name="enable_carrier_dialog_title">Сменить оператора?</string>
+    <string name="enable_fail_text">Не удалось сменить оператора.</string>
+    <string name="enable_fail_title">Произошла ошибка</string>
+    <string name="enable_profile_title">Включить</string>
+    <string name="enabling_carrier">Подключение к сети…</string>
+    <string name="enter_manually_button">Ввести вручную</string>
+    <string name="enter_qr_code_button_title">Ввести код вручную</string>
+    <string name="erase_sim_confirm_button">Стереть</string>
+    <string name="erase_sim_dialog_text">"Если вы удалите данные этой SIM-карты, %1$s остановит обслуживание устройства.
+
+Это не повлияет на тарифный план оператора \"%1$s\"."</string>
+    <string name="erase_sim_dialog_title">Удалить эту eSIM-карту?</string>
+    <string name="erase_sim_fail_text">"Не удалось стереть данные SIM-карты из-за ошибки.
+
+Перезапустите устройство и повторите попытку."</string>
+    <string name="erase_sim_fail_title">Не удалось стереть данные SIM-карты</string>
+    <string name="erasing_carriers">Сброс операторов…</string>
+    <string name="erasing_sim">Удаление данных SIM-карты…</string>
+    <string name="error_code_text">Код ошибки</string>
+    <string name="error_screen_title_multiple_carrier">Сети не активированы</string>
+    <string name="error_screen_title_single_carrier">Сеть оператора \"%1$s\" не активирована</string>
+    <string name="error_screen_title_single_carrier_no_name">Сеть не активирована</string>
+    <string name="esim_setup_channel_id">Активация сети</string>
+    <string name="esim_warning_title">Скачайте eSIM</string>
+    <string name="esim_warning_txt_default">eSIM заменяет обычную SIM-карту и так же безопасна.</string>
+    <string name="esim_warning_txt_default_tmo_esim_primary">Скачайте данные, которые обычно хранятся на SIM-карте, и используйте их для подключения к мобильной сети. Электронные SIM-карты заменяют обычные и так же безопасны.</string>
+    <string name="euicc_settings_title">Аппаратные настройки</string>
+    <string name="euicc_title">Менеджер SIM-карт</string>
+    <string name="expand_button_title">Дополнительно</string>
+    <string name="find_it_here">здесь</string>
+    <string name="get_default_sub_title">Проверка данных сети…</string>
+    <string name="get_help_ask_for_eid_v2">Оператор связи может попросить вас назвать %1$s (он уникален для каждого устройства).</string>
+    <string name="get_help_skip_mobile_setup">Пропустить мобильные настройки</string>
+    <string name="get_help_text">Вашего номера нет в списке? Свяжитесь с оператором \"%1$s\" по телефону %2$s.</string>
+    <string name="get_help_text_multiple_carriers_no_phone">Если номеров больше, чем нужно, свяжитесь с оператором.</string>
+    <string name="get_help_text_no_phone">Вашего номера нет в списке? Свяжитесь с оператором \"%1$s\".</string>
+    <string name="get_help_text_single_carrier">Если номеров должно быть меньше %3$d, свяжитесь с оператором \"%1$s\" по номеру %2$s.</string>
+    <string name="get_help_text_single_carrier_no_phone">Если номеров должно быть меньше %2$d, свяжитесь с оператором \"%1$s\".</string>
+    <string name="get_help_text_single_carrier_no_phone_with_eid">Если номеров должно быть меньше %2$d, свяжитесь с оператором \"%1$s\". Для этого устройства может потребоваться номер EID:</string>
+    <string name="get_help_title">Помощь в настройке</string>
+    <string name="get_metadata_fail_title">Не удалось загрузить сведения о мобильной сети</string>
+    <string name="help_add_network_info1_msg1_v2">Не удалось отсканировать QR-код? %1$s</string>
+    <string name="help_add_network_info2_msg1">Вы также можете подключиться к сети с помощью %1$s.</string>
+    <string name="help_add_network_info3">Что-то не получается? Обратитесь за помощью к вашему оператору по телефону %1$s.</string>
+    <string name="help_add_network_info3_no_phone">Что-то не получается? Обратитесь за помощью к вашему оператору.</string>
+    <string name="help_add_network_subtitle">Найдите свой QR-код. Он может быть указан на листе бумаги, который прилагается к устройству, или в электронном письме от оператора.</string>
+    <string name="help_add_network_title">Добавление сети</string>
+    <string name="insert_psim_button">обычной SIM-карты</string>
+    <string name="insert_text">Вставьте SIM-карту, если она у вас есть.</string>
+    <string name="insert_title">Подключение к мобильной сети</string>
+    <string name="install_system_update_dialog_body_text">Чтобы скачать SIM-карту, необходимо установить последнее обновление системы для этого телефона. Это займет всего несколько минут.</string>
+    <string name="install_system_update_dialog_title">Установить обновление системы?</string>
+    <string name="install_update_button">Установить обновление</string>
+    <string name="insufficient_space_description_q">{count,plural, =1{Чтобы использовать этот номер, удалите сохраненные ранее – так вы освободите место на устройстве. Это можно сделать в любое время в настройках.}one{Чтобы использовать эти номера, удалите сохраненные ранее – так вы освободите место на устройстве. Это можно сделать в любое время в настройках.}few{Чтобы использовать эти номера, удалите сохраненные ранее – так вы освободите место на устройстве. Это можно сделать в любое время в настройках.}many{Чтобы использовать эти номера, удалите сохраненные ранее – так вы освободите место на устройстве. Это можно сделать в любое время в настройках.}other{Чтобы использовать эти номера, удалите сохраненные ранее – так вы освободите место на устройстве. Это можно сделать в любое время в настройках.}}</string>
+    <string name="legal_notices">%1$s, %2$s и %3$s</string>
+    <string name="low_battery_alert_body_text">Чтобы обновление не прервалось, подключите телефон к источнику питания.</string>
+    <string name="low_battery_alert_title">Батарея телефона разряжена</string>
+    <string name="manually_add_msg1_v2">Если у вас есть QR-код, %1$s. Если в магазине у вас спрашивают код EID, вы можете %2$s.</string>
+    <string name="mobile_network_connection_alert_description">Если пропустить этот шаг, мобильная сеть использоваться не будет. Вы сможете подключиться к ней позже, добавив SIM-карту в настройках.</string>
+    <string name="mobile_network_connection_alert_title">Пропустить настройку мобильной сети?</string>
+    <string name="msg_choose_download_type">Выберите способ активации номера на этом устройстве.</string>
+    <string name="msg_install_app_notification">Нажмите, чтобы продолжить</string>
+    <string name="msg_portal_intro">Вам потребуется ввести имя пользователя и пароль для аккаунта оператора \"%1$s\".</string>
+    <string name="msg_sign_in_button">Войти в аккаунт оператора \"%1$s\"</string>
+    <string name="msg_transfer_type_portal">Вам потребуется ввести имя пользователя и пароль.</string>
+    <string name="msg_transfer_type_qr">Код предоставляется оператором \"%1$s\".</string>
+    <string name="mtrl_checkbox_state_description_checked">Checked</string>
+    <string name="mtrl_checkbox_state_description_indeterminate">Partially checked</string>
+    <string name="mtrl_checkbox_state_description_unchecked">Not checked</string>
+    <string name="multiple_carrier_download_number_count">{count,plural, =1{1 номер}one{# номер}few{# номера}many{# номеров}other{# номера}}</string>
+    <string name="next_button">Далее</string>
+    <string name="no_licenses_found_error">Произошла ошибка. Найти лицензии не удалось.</string>
+    <string name="no_qr_code_info_insert_btn">Вставьте SIM-карту</string>
+    <string name="no_qr_code_info_text">Найдите свой QR-код. Он может быть на листе бумаги, который прилагается к устройству, или в электронном письме от оператора связи. Если QR-кода нет, добавьте оператора связи позже.</string>
+    <string name="no_qr_code_scan_button">Сканировать QR-код</string>
+    <string name="no_qr_code_title">Способы настройки</string>
+    <string name="no_thanks_button">Нет, спасибо</string>
+    <string name="no_wifi_dialog_message">Чтобы скачать SIM-карту, требуется подключение к сети Wi-Fi.</string>
+    <string name="no_wifi_dialog_title">Подключитесь к сети Wi‑Fi</string>
+    <string name="not_set">Не указано</string>
+    <string name="notification_carrier_unknown">{count,plural, =1{На устройство можно добавить 1 дополнительный номер.}one{На устройство можно добавить # дополнительный номер.}few{На устройство можно добавить # дополнительных номера.}many{На устройство можно добавить # дополнительных номеров.}other{На устройство можно добавить # дополнительного номера.}}</string>
+    <string name="notification_channel_ota_update">Обновления от оператора связи</string>
+    <string name="notification_multiple_carrier_name_known">{count,plural, =1{На устройство можно добавить номер от оператора \"%1$s\" и ещё несколько номеров (%2$d).}one{На устройство можно добавить номера от оператора \"%1$s\" и ещё несколько номеров (%2$d).}few{На устройство можно добавить номера от оператора \"%1$s\" и ещё несколько номеров (%2$d).}many{На устройство можно добавить номера от оператора \"%1$s\" и ещё несколько номеров (%2$d).}other{На устройство можно добавить номера от оператора \"%1$s\" и ещё несколько номеров (%2$d).}}</string>
+    <string name="notification_single_carrier_name_known">{count,plural, =1{На устройство можно добавить номер от оператора \"%1$s\"}one{На устройство можно добавить номера от оператора \"%1$s\"}few{На устройство можно добавить номера от оператора \"%1$s\"}many{На устройство можно добавить номера от оператора \"%1$s\"}other{На устройство можно добавить номера от оператора \"%1$s\"}}</string>
+    <string name="notification_tap_setup">Нажмите, чтобы настроить</string>
+    <string name="open_source_licenses">Лицензии открытого ПО</string>
+    <string name="operation_code_text">Код операции</string>
+    <string name="os_version">Версия ОС</string>
+    <string name="ota_error_notification_msg">Чтобы восстановить мобильную связь, перезагрузите устройство.</string>
+    <string name="ota_error_notification_title">Не удалось обновить eSIM</string>
+    <string name="ota_notification_msg">Мобильная связь восстановится после обновления.</string>
+    <string name="ota_notification_title">Обновление eSIM…</string>
+    <string name="perm_error_description_q">{count,plural, =1{Ошибка при активации номера. Свяжитесь с оператором \"%1$s\" по телефону %2$s.}one{Ошибка при активации номеров. Свяжитесь с оператором \"%1$s\" по телефону %2$s.}few{Ошибка при активации номеров. Свяжитесь с оператором \"%1$s\" по телефону %2$s.}many{Ошибка при активации номеров. Свяжитесь с оператором \"%1$s\" по телефону %2$s.}other{Ошибка при активации номеров. Свяжитесь с оператором \"%1$s\" по телефону %2$s.}}</string>
+    <string name="perm_error_description_q_multi_carrier">При активации номеров произошла ошибка. Обратитесь за помощью к операторам.</string>
+    <string name="perm_error_description_q_no_phone">{count,plural, =1{Ошибка при активации номера. Обратитесь за помощью к оператору \"%1$s\".}one{Ошибка при активации номеров. Обратитесь за помощью к оператору \"%1$s\".}few{Ошибка при активации номеров. Обратитесь за помощью к оператору \"%1$s\".}many{Ошибка при активации номеров. Обратитесь за помощью к оператору \"%1$s\".}other{Ошибка при активации номеров. Обратитесь за помощью к оператору \"%1$s\".}}</string>
+    <string name="perm_error_description_q_no_phone_no_carrier_name">{count,plural, =1{Ошибка при активации номера. Обратитесь за помощью к оператору.}one{Ошибка при активации номеров. Обратитесь за помощью к операторам.}few{Ошибка при активации номеров. Обратитесь за помощью к операторам.}many{Ошибка при активации номеров. Обратитесь за помощью к операторам.}other{Ошибка при активации номеров. Обратитесь за помощью к операторам.}}</string>
+    <string name="perm_error_q_sub2_eid">Для этого устройства может потребоваться %1$s.</string>
+    <string name="pixel_support_page_button">в службу поддержки Pixel</string>
+    <string name="pre_activation_ota_update_complete_subtitle">Программное обеспечение обновлено. Теперь можно продолжить скачивание SIM-карты.</string>
+    <string name="pre_activation_ota_update_complete_title">Обновление завершено</string>
+    <string name="pre_activation_ota_update_error_msg1">На этот телефон невозможно скачать SIM-карту.</string>
+    <string name="pre_activation_ota_update_error_msg2_v2">"Вы можете установить обычную SIM-карту или обратиться за помощью на этой странице:
+%1$s"</string>
+    <string name="pre_activation_ota_update_error_title">Обновление не завершено</string>
+    <string name="pre_activation_ota_update_subtitle">Выполнено: %1$d %%. Не закрывайте этот экран, пока обновление не завершится.</string>
+    <string name="pre_activation_ota_update_title">Обновление…</string>
+    <string name="pre_activation_ota_user_consent_msg1">Чтобы скачать SIM-карту, необходимо обновить Менеджер SIM-карт. Это займет 4–5 минут.</string>
+    <string name="pre_activation_ota_user_consent_msg2">Чтобы обновление не прервалось, не закрывайте этот экран. Во время обновления можно выполнять только экстренные вызовы.</string>
+    <string name="pre_activation_ota_user_consent_title">Обновить программное обеспечение SIM-карты?</string>
+    <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
+    <string name="privacy_policy">Политика конфиденциальности</string>
+    <string name="privacy_warning_message">Продолжая, вы разрешаете оператору %1$s проверить информацию, идентифицирующую устройство в сети.</string>
+    <string name="privileged_action_disable_sub_dialog_progress">Отключение SIM-карты…</string>
+    <string name="privileged_action_disable_sub_dialog_text">Если вы отключите SIM-карту %1$s, активным оператором связи станет %2$s.</string>
+    <string name="privileged_action_disable_sub_dialog_title">Отключить %1$s?</string>
+    <string name="privileged_action_enable_sub_dialog_title">Включить %1$s?</string>
+    <string name="privileged_action_switch_psim_dialog_title">Переключиться на SIM-карту?</string>
+    <string name="privileged_action_switch_sub_dialog_confirm">Переключиться на %1$s</string>
+    <string name="privileged_action_switch_sub_dialog_progress">Переключение на %1$s…</string>
+    <string name="privileged_action_switch_sub_dialog_text">"Нельзя использовать несколько SIM-карт одновременно.
+
+Вы можете переключиться на SIM-карту %1$s. Это не повлияет на ваш тарифный план у оператора \"%2$s\"."</string>
+    <string name="privileged_action_switch_sub_dialog_text_downloaded">"Нельзя использовать несколько eSIM-карт одновременно.
+
+Вы можете переключиться на SIM-карту \"%1$s\". Это действие не отменит ваш тарифный план у оператора \"%2$s\"."</string>
+    <string name="privileged_action_switch_sub_dialog_text_no_to">"Нельзя использовать несколько SIM-карт одновременно.
+
+Вы можете переключиться на SIM-карту другого оператора. Это не повлияет на ваш тарифный план у оператора \"%1$s\"."</string>
+    <string name="privileged_action_switch_sub_dialog_title">Переключиться на %1$s?</string>
+    <string name="privileged_action_turn_on_sub_dialog_progress">Включение сервиса (%1$s)…</string>
+    <string name="profile_disabled">Отключено</string>
+    <string name="profile_disabled_confirmation_body_text">Чтобы активировать eSIM-карту, введите PIN-код.</string>
+    <string name="profile_disabled_confirmation_title">eSIM-карта отключена</string>
+    <string name="profile_enabled">Включен</string>
+    <string name="profile_enabled_with_phone_number">Включен, %1$s</string>
+    <string name="profile_list_action_bar_title">Оператор</string>
+    <string name="profile_transfer_activation_fail_available_phone_number_description">"Произошла ошибка. Ваша SIM-карта \"%1$s\" перенесена на это устройство, но не готова к использованию. 
+
+ Свяжитесь с оператором \"%2$s\" по номеру %3$s..
+
+Вам может понадобиться EID-код устройства:
+
+%4$s"</string>
+    <string name="profile_transfer_activation_fail_available_phone_number_title">Не удалось активировать номер</string>
+    <string name="profile_transfer_activation_fail_unavailable_phone_number_description">"Произошла ошибка. Ваш номер %2$s (%1$s) перенесен на это устройство, но подключение к мобильной сети не установлено. 
+
+ Свяжитесь с оператором \"%3$s\" по номеру %4$s..
+
+Вам может понадобиться EID-код устройства:
+
+%5$s"</string>
+    <string name="profile_transfer_activation_fail_unavailable_phone_number_title">Не удалось активировать мобильную сеть</string>
+    <string name="profile_transfer_connecting_description">Подключение…</string>
+    <string name="profile_transfer_downloading_deferred_notification_content">Подключение к серверу %1$s…</string>
+    <string name="profile_transfer_downloading_deferred_notification_title">%1$s: скачивание…</string>
+    <string name="profile_transfer_error_deferred_notification_title">Не удалось перенести %1$s</string>
+    <string name="profile_transfer_error_title">Не удалось перенести SIM-карту %1$s</string>
+    <string name="profile_transfer_non_recoverable_error_deferred_notification_action">Подробнее</string>
+    <string name="profile_transfer_non_recoverable_error_deferred_notification_content">При переносе SIM-карты произошла ошибка. Свяжитесь с оператором \"%1$s\" по телефону %2$s.</string>
+    <string name="profile_transfer_non_recoverable_error_description">"При переносе SIM-карты произошла ошибка. Свяжитесь с оператором \"%1$s\" по номеру %2$s.
+
+Вам может понадобиться EID-код устройства:
+
+%3$s"</string>
+    <string name="profile_transfer_recoverable_error_deferred_notification_content">При переносе SIM-карты произошла ошибка. Попробуйте снова.</string>
+    <string name="profile_transfer_recoverable_error_description">При переносе SIM-карты произошла ошибка.</string>
+    <string name="profile_transfer_retry_button">Повторить</string>
+    <string name="profile_transfer_success_deferred_notification_content">Номер %1$s готов к использованию.</string>
+    <string name="profile_transfer_success_deferred_notification_title">SIM-карта перенесена</string>
+    <string name="profile_transfer_suw_recoverable_error_description">При переносе SIM-карты произошла ошибка. Повторите попытку.</string>
+    <string name="psim_guide_dialog_message">Лоток для SIM-карты находится на боковой поверхности телефона. Извлеките его с помощью инструмента для извлечения SIM-карты или канцелярской скрепки и установите SIM-карту.</string>
+    <string name="psim_guide_dialog_title">Установите SIM-карту</string>
+    <string name="q_download_sub_text">Это может занять несколько минут.</string>
+    <string name="q_download_sub_title">Подключение к сети оператора \"%1$s\"…</string>
+    <string name="q_multiple_carrier_confirm_title">Выберите сети, которые хотите использовать</string>
+    <string name="q_multiple_carrier_metadata_confirm_subtitle">{count,plural, =1{Для этого устройства доступен 1 номер. Возможно, после активации оператор связи начнет взимать плату за использование услуги.}one{Для этого устройства доступен # номер. Возможно, после активации оператор связи начнет взимать плату за использование услуги.}few{Для этого устройства доступно # номера. Возможно, после активации оператор связи начнет взимать плату за использование услуги.}many{Для этого устройства доступно # номеров. Возможно, после активации оператор связи начнет взимать плату за использование услуги.}other{Для этого устройства доступно # номера. Возможно, после активации оператор связи начнет взимать плату за использование услуги.}}</string>
+    <string name="q_result_download_metadata_text">{count,plural, =1{Для этого устройства доступен номер от оператора \"%1$s\". После подключения оператор \"%1$s\" может взимать плату за использование услуги.}one{Для этого устройства доступен # номер от оператора \"%1$s\". После подключения оператор \"%1$s\" может взимать плату за использование услуги.}few{Для этого устройства доступны # номера от оператора \"%1$s\". После подключения оператор \"%1$s\" может взимать плату за использование услуги.}many{Для этого устройства доступны # номеров от оператора \"%1$s\". После подключения оператор \"%1$s\" может взимать плату за использование услуги.}other{Для этого устройства доступно # номера от оператора \"%1$s\". После подключения оператор \"%1$s\" может взимать плату за использование услуги.}}</string>
+    <string name="qr_scanner_end_button">Не можете найти QR-код?</string>
+    <string name="qr_scanner_failed_msg">В работе камеры произошла ошибка. Повторите попытку.</string>
+    <string name="qr_scanner_failed_title">Камера недоступна</string>
+    <string name="qr_scanner_msg">Если вы получили от оператора связи QR-код, отсканируйте его. Для этого наведите камеру так, чтобы код располагался в центре рамки.</string>
+    <string name="qr_scanner_msg_q">Если вы получили от оператора связи \"%1$s\" QR-код, отсканируйте его. Для этого наведите камеру так, чтобы код располагался в центре рамки.</string>
+    <string name="qr_scanner_msg_q_no_carrier_name">Если вы получили от оператора QR-код, отсканируйте его. Для этого наведите камеру так, чтобы код располагался в центре рамки.</string>
+    <string name="qr_scanner_title">Добавьте оператора, используя QR-код</string>
+    <string name="qr_scanner_title_q">Отсканируйте QR-код, который вы получили от провайдера \"%1$s\"</string>
+    <string name="qr_scanner_title_q_no_carrier_name">Отсканируйте QR-код, полученный от оператора</string>
+    <string name="reactivate_error_dialog_body">При активации номера произошла ошибка. Попробуйте извлечь и снова установить SIM-карту или повторите попытку позже.</string>
+    <string name="reactivate_error_dialog_title_with_carrier_name">SIM-карта %1$s не активирована</string>
+    <string name="reactivate_error_dialog_title_without_carrier_name">SIM-карта не активирована</string>
+    <string name="reason_code_text">Код причины</string>
+    <string name="reboot_button_title">Перезагрузить телефон</string>
+    <string name="remove_carrier_dialog_text_disabled">"Устройство больше не сможет подключаться к сети %1$s.
+
+Это не повлияет на ваши тарифные планы."</string>
+    <string name="remove_carrier_dialog_text_enabled">"Устройство будет сразу же отключено от сети %1$s.
+
+Это не повлияет на ваши тарифные планы."</string>
+    <string name="remove_carrier_dialog_title">Удалить оператора?</string>
+    <string name="remove_fail_text">Оператор не удален.</string>
+    <string name="remove_fail_title">Ошибка</string>
+    <string name="remove_profile_title">Удалить</string>
+    <string name="removing_carrier">Удаление оператора…</string>
+    <string name="res_activate_profile_later_button">Активировать позже</string>
+    <string name="res_activation_button">Подключить</string>
+    <string name="res_continue_info1_general_multi_carriers">{count,plural, =1{Не удалось добавить номера от оператора \"%1$s\" и ещё %2$d.}one{Не удалось добавить номера от оператора \"%1$s\" и ещё %2$d.}few{Не удалось добавить номера от оператора \"%1$s\" и ещё %2$d.}many{Не удалось добавить номера от оператора \"%1$s\" и ещё %2$d.}other{Не удалось добавить номера от оператора \"%1$s\" и ещё %2$d.}}</string>
+    <string name="res_continue_info1_general_no_carrier">{count,plural, =1{Не удалось добавить &lt;b>1 номер&lt;/b>.}one{Не удалось добавить номера.}few{Не удалось добавить номера.}many{Не удалось добавить номера.}other{Не удалось добавить номера.}}</string>
+    <string name="res_continue_info1_general_single_carrier">{count,plural, =1{Не удалось добавить &lt;b>%2$d номер&lt;/b> от оператора \"%1$s\".}one{Не удалось добавить &lt;b>%2$d номер&lt;/b> от оператора \"%1$s\".}few{Не удалось добавить &lt;b>%2$d номера&lt;/b> от оператора \"%1$s\".}many{Не удалось добавить &lt;b>%2$d номеров&lt;/b> от оператора \"%1$s\".}other{Не удалось добавить &lt;b>%2$d номера&lt;/b> от оператора \"%1$s\".}}</string>
+    <string name="res_continue_info1_no_mem_multi_carriers">{count,plural, =1{Недостаточно места, чтобы добавить номера от оператора \"%1$s\" и ещё %2$d.}one{Недостаточно места, чтобы добавить номера от оператора \"%1$s\" и ещё %2$d.}few{Недостаточно места, чтобы добавить номера от оператора \"%1$s\" и ещё %2$d.}many{Недостаточно места, чтобы добавить номера от оператора \"%1$s\" и ещё %2$d.}other{Недостаточно места, чтобы добавить номера от оператора \"%1$s\" и ещё %2$d.}}</string>
+    <string name="res_continue_info1_no_mem_no_carrier">{count,plural, =1{Недостаточно места, чтобы добавить &lt;b>1 номер&lt;/b>.}one{Недостаточно места, чтобы добавить номера.}few{Недостаточно места, чтобы добавить номера.}many{Недостаточно места, чтобы добавить номера.}other{Недостаточно места, чтобы добавить номера.}}</string>
+    <string name="res_continue_info1_no_mem_single_carrier">{count,plural, =1{Недостаточно места, чтобы добавить &lt;b>%2$d номер&lt;/b> от оператора \"%1$s\".}one{Недостаточно места, чтобы добавить &lt;b>%2$d номер&lt;/b> от оператора \"%1$s\".}few{Недостаточно места, чтобы добавить &lt;b>%2$d номера&lt;/b> от оператора \"%1$s\".}many{Недостаточно места, чтобы добавить &lt;b>%2$d номеров&lt;/b> от оператора \"%1$s\".}other{Недостаточно места, чтобы добавить &lt;b>%2$d номера&lt;/b> от оператора \"%1$s\".}}</string>
+    <string name="res_continue_info_item_2">Если мобильной связи нет, свяжитесь с оператором (%1$s)</string>
+    <string name="res_continue_info_item_2_no_carrier_name">Если мобильная связь не появилась, обратитесь к своему оператору</string>
+    <string name="res_continue_text_partial_complete_multiple_carriers">{count,plural, =1{Добавлены &lt;b>номера (%1$d)&lt;/b> от операторов \"%2$s\" и \"%3$s\"}=2{Добавлены &lt;b>номера (%1$d)&lt;/b> от операторов \"%2$s\", \"%3$s\" и ещё %4$d}one{Добавлены &lt;b>номера (%1$d)&lt;/b> от операторов \"%2$s\", \"%3$s\" и ещё %4$d}few{Добавлены &lt;b>номера (%1$d)&lt;/b> от операторов \"%2$s\", \"%3$s\" и ещё %4$d}many{Добавлены &lt;b>номера (%1$d)&lt;/b> от операторов \"%2$s\", \"%3$s\" и ещё %4$d}other{Добавлены &lt;b>номера (%1$d)&lt;/b> от операторов \"%2$s\", \"%3$s\" и ещё %4$d}}</string>
+    <string name="res_continue_text_partial_complete_single_carrier">{count,plural, =1{Добавлен &lt;b>%1$d номер&lt;/b> от оператора \"%2$s\"}one{Добавлен &lt;b>%1$d номер&lt;/b> от оператора \"%2$s\"}few{Добавлено &lt;b>%1$d номера&lt;/b> от оператора \"%2$s\"}many{Добавлено &lt;b>%1$d номеров&lt;/b> от оператора \"%2$s\"}other{Добавлено &lt;b>%1$d номера&lt;/b> от оператора \"%2$s\"}}</string>
+    <string name="res_continue_title_all_success">{count,plural, =1{Номер телефона добавлен}one{Добавлен # номер телефона}few{Добавлено # номера телефона}many{Добавлено # номеров телефона}other{Добавлено # номера телефона}}</string>
+    <string name="res_continue_title_partial_success">Добавлено номеров: %1$d из %2$d</string>
+    <string name="res_download_button">Скачать</string>
+    <string name="res_enter_pin_button">Ввести PIN-код</string>
+    <string name="res_need_help_button">Нужна помощь?</string>
+    <string name="res_start_button">Начать</string>
+    <string name="reset_button">Сбросить</string>
+    <string name="reset_dialog_carriers_body">Удалить с устройства всех операторов связи? Это действие нельзя отменить.</string>
+    <string name="reset_dialog_carriers_title">Сбросить операторов?</string>
+    <string name="reset_fail_text">Не удалось сбросить операторов.</string>
+    <string name="reset_fail_title">Произошла ошибка</string>
+    <string name="reset_screen_text_bottom">Это действие не повлияет на ваши тарифные планы.</string>
+    <string name="reset_screen_text_top">С устройства будут удалены все операторы связи:</string>
+    <string name="reset_screen_title">Сброс операторов</string>
+    <string name="result_connect_title">Подключиться к сети оператора \"%1$s\"?</string>
+    <string name="result_download_metadata_text">{count,plural, =1{Для этого устройства доступен 1 номер от оператора \"%1$s\".}one{Для этого устройства доступен # номер от оператора \"%1$s\".}few{Для этого устройства доступно # номера от оператора \"%1$s\".}many{Для этого устройства доступно # номеров от оператора \"%1$s\".}other{Для этого устройства доступно # номера от оператора \"%1$s\".}}</string>
+    <string name="result_download_text">{count,plural, =1{На телефон можно добавить номер от оператора \"%1$s\".}one{На телефон можно добавить &lt;b>%2$d номер&lt;/b> от оператора \"%1$s\".}few{На телефон можно добавить &lt;b>%2$d номера&lt;/b> от оператора \"%1$s\".}many{На телефон можно добавить &lt;b>%2$d номеров&lt;/b> от оператора \"%1$s\".}other{На телефон можно добавить &lt;b>%2$d номера&lt;/b> от оператора \"%1$s\".}}</string>
+    <string name="result_download_title">Скачать eSIM оператора \"%1$s\"?</string>
+    <string name="scan_it_now">отсканируйте его.</string>
+    <string name="send_feedback">Отправить отзыв</string>
+    <string name="set_up_button">Set up</string>
+    <string name="settings_gear_label">Настройки</string>
+    <string name="sim_action_switch_sub_dialog_carrier_list_item_for_turning_off">Отключение SIM-карты оператора \"%1$s\"</string>
+    <string name="sim_action_switch_sub_dialog_info_outline_for_turning_off">Отключение SIM-карты не отменит ваш тарифный план.</string>
+    <string name="sim_card_label">SIM-карта</string>
+    <string name="sim_illustration_bottom_alt_text">Держите телефон экраном к себе и найдите разъем для зарядки. Лоток для SIM-карты находится в нижней части телефона, слева от этого разъема. У лотка плоская крышка с небольшими выступами по краям. В левой части крышки есть маленькое отверстие. Чтобы открыть лоток, вставьте в это отверстие конец канцелярской скрепки или инструмент для извлечения SIM-карты. SIM-карту можно установить в лотке только в одном положении. Для этого нужно совместить ее срезанный угол с отведенным для него местом.</string>
+    <string name="sim_illustration_bottom_left_alt_text">Держите телефон экраном к себе и найдите разъем для зарядки. Проведите пальцем вверх по левой боковой части телефона. У лотка для SIM-карты плоская крышка с небольшими выступами по краям. В верхней части крышки есть маленькое отверстие. Чтобы открыть лоток, вставьте в это отверстие конец канцелярской скрепки или инструмент для извлечения SIM-карты. SIM-карту можно установить в лотке только в одном положении. Для этого нужно совместить ее срезанный угол с отведенным для него местом.</string>
+    <string name="sim_illustration_top_left_alt_text">Держите телефон экраном к себе и найдите разъем для зарядки. Проведите пальцем вверх по левой боковой части телефона. У лотка для SIM-карты плоская крышка с небольшими выступами по краям. В верхней части крышки есть маленькое отверстие. Чтобы открыть лоток, вставьте в это отверстие конец канцелярской скрепки или инструмент для извлечения SIM-карты. SIM-карту можно установить в лотке только в одном положении. Для этого нужно совместить ее срезанный угол с отведенным для него местом.</string>
+    <string name="sim_locked_text">"Телефон привязан к другому оператору. Используйте допустимую SIM-карту.
+
+SIM-карта активируется через несколько секунд после установки."</string>
+    <string name="sim_locked_title">SIM-карта не поддерживается</string>
+    <string name="sim_missing_activity_esim_button_title">Скачать новую eSIM</string>
+    <string name="sim_missing_activity_esim_transfer_button_title">Перенос SIM-карты со старого телефона</string>
+    <string name="sim_missing_activity_psim_hint">Как использовать SIM-карту</string>
+    <string name="sim_missing_activity_subtitle_no_psim">Скачайте eSIM или вставьте SIM-карту.</string>
+    <string name="sim_missing_activity_subtitle_psim_exists">"Чтобы добавить ещё одну SIM-карту, скачайте новую eSIM.
+
+Чтобы использовать другую SIM-карту, сначала удалите ту, которая используется в настоящий момент"</string>
+    <string name="sim_missing_activity_subtitle_tmo_esim_primary">Скачайте eSIM или установите SIM-карту.</string>
+    <string name="sim_missing_activity_subtitle_with_psim">Чтобы использовать новую SIM-карту, извлеките из устройства прежнюю.</string>
+    <string name="sim_missing_activity_with_tmo_esim_primary_button_title">Скачать eSIM</string>
+    <string name="sim_ready_message">Номер уже настроен на этом телефоне</string>
+    <string name="sim_ready_message_carrier_app">Чтобы активировать номер %1$s, скачайте приложение оператора \"%2$s\". А пока давайте завершим настройку телефона.</string>
+    <string name="sim_ready_message_invalid_phone_number_carrier_app">Чтобы активировать номер, скачайте приложение оператора \"%1$s\". А пока давайте завершим настройку телефона.</string>
+    <string name="sim_ready_title">Обнаружена eSIM</string>
+    <string name="sim_ready_title_carrier_app">Подключитесь к сети оператора \"%1$s\" позже</string>
+    <string name="skip_button">Пропустить</string>
+    <string name="status_title">Статус</string>
+    <string name="subject_code_text">Код объекта</string>
+    <string name="sud_back_button_label">Назад</string>
+    <string name="sud_more_button_label">Ещё</string>
+    <string name="sud_next_button_label">Далее</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="suw_carrier_support_to_complete_activation_no_carrier_v2">Чтобы активировать услугу, свяжитесь с оператором связи.</string>
+    <string name="suw_default_failed_msg_no_carrier">Не удалось добавить номер телефона.</string>
+    <string name="suw_failed_title">Установка не завершена</string>
+    <string name="suw_pii_sent_msg">Информация с устройства, необходимая для настройки, будет отправлена в Google, вашему оператору связи и их партнерам.</string>
+    <string name="suw_setting_up_phone_info">Осталось меньше минуты…</string>
+    <string name="suw_setting_up_phone_title">Настройка телефона…</string>
+    <string name="suw_sim_missing_activity_for_delayed_setup_decription">"When you're done setting up your phone, go to Settings to connect to your mobile network. Or, if you have a SIM card, insert it now."</string>
+    <string name="suw_sim_missing_activity_for_delayed_setup_title">Connect to mobile network after setup</string>
+    <string name="switch_button">Переключиться</string>
+    <string name="switch_confirm_mep_dialog_message">У этого устройства может быть две активные SIM-карты одновременно.</string>
+    <string name="switch_confirm_mep_dialog_title">Отключите SIM-карту, чтобы пользоваться услугами %1$s</string>
+    <string name="switch_confirm_message">Устройство будет временно отключено от сети \"%1$s\".</string>
+    <string name="switch_confirm_message_no_carrier">Устройство будет временно отключено от мобильной сети.</string>
+    <string name="switch_confirm_new_title">Скачайте SIM-карту по Wi‑Fi</string>
+    <string name="switch_confirm_no_active_profile_message">SIM-карта будет скачана через имеющееся интернет-подключение.</string>
+    <string name="switch_confirm_no_active_profile_title">Скачивание SIM-карты скоро начнется</string>
+    <string name="switch_confirm_no_wifi_message">Вы сможете подключиться к другой сети.</string>
+    <string name="switch_confirm_no_wifi_title">Отключиться от сети \"%1$s\"?</string>
+    <string name="switch_confirm_no_wifi_title_no_carrier">Отключиться от мобильной сети?</string>
+    <string name="switch_restriction_message_to_connect_to">Чтобы подключиться к сети \"%2$s\" вместо сети \"%1$s\", извлеките SIM-карту \"%1$s\" и повторите попытку.</string>
+    <string name="switch_restriction_message_to_switch_from">Чтобы отключиться от сети \"%1$s\" и подключиться к другой, извлеките SIM-карту \"%1$s\" и повторите попытку.</string>
+    <string name="switch_restriction_title_remove_sim">Извлеките SIM-карту</string>
+    <string name="sys_notification_5g_enable_dsds_text">"Вы можете установить две SIM-карты одновременно.
+
+В этом случае на телефоне будет использоваться только 4G-подключение. %1$s"</string>
+    <string name="sys_notification_after_dsds_reboot_text">Нажмите, чтобы завершить активацию SIM-карты.</string>
+    <string name="sys_notification_after_dsds_reboot_title">Можно использовать 2 SIM-карты сразу</string>
+    <string name="sys_notification_enable_dsds_text">На этом устройстве можно использовать сразу две SIM-карты. Если вам достаточно одной, нажмите \"Нет, спасибо\".</string>
+    <string name="sys_notification_enable_dsds_title">Использовать 2 SIM-карты?</string>
+    <string name="sys_notification_no_thanks">Отмена</string>
+    <string name="sys_notification_reboot">Перезапустить</string>
+    <string name="sys_notification_restart_text">Чтобы начать, перезапустите устройство. После этого вы сможете добавить ещё одну SIM-карту.</string>
+    <string name="sys_notification_restart_title">Перезапустить устройство?</string>
+    <string name="sys_notification_selected_text">Мобильная сеть изменена</string>
+    <string name="sys_notification_switched_title">Вы переключились на сеть %1$s</string>
+    <string name="sys_notification_switched_title_no_carrier_name">Вы переключились на сеть другого оператора</string>
+    <string name="sys_notification_title">Переключение между операторами связи</string>
+    <string name="temp_error_description_q">{count,plural, =1{Ошибка при активации номера. Повторите попытку позже в разделе настроек.}one{Ошибка при активации номеров. Повторите попытку позже в разделе настроек.}few{Ошибка при активации номеров. Повторите попытку позже в разделе настроек.}many{Ошибка при активации номеров. Повторите попытку позже в разделе настроек.}other{Ошибка при активации номеров. Повторите попытку позже в разделе настроек.}}</string>
+    <string name="terms_of_service">Условия использования</string>
+    <string name="text_bottom_transfer_carrier_info">Вашего оператора нет в списке? Обратитесь за помощью к оператору связи.</string>
+    <string name="title_app_required">Невозможно подключиться к сети оператора \"%1$s\"</string>
+    <string name="title_cannot_connect_to_network_no_name">Не удалось подключиться к сети</string>
+    <string name="title_cannot_download">Не удалось скачать профиль SIM-карты</string>
+    <string name="title_choose_download_type">Активируйте номер от оператора \"%1$s\"</string>
+    <string name="title_choose_transfer_type">Выберите способ переноса для номера оператора \"%1$s\"</string>
+    <string name="title_incorrect_qr_code">Неправильный QR-код</string>
+    <string name="title_install_app_notification">Установите приложение оператора (%1$s) для настройки номера.</string>
+    <string name="title_network_not_activated">Сеть не активирована</string>
+    <string name="title_no_connection">Нет подключения к интернету</string>
+    <string name="title_portal_intro">Перенос номера оператора \"%1$s\"</string>
+    <string name="title_profile_already_downloaded">Профиль SIM-карты уже скачан</string>
+    <string name="title_transfer_type_portal">Войти в аккаунт оператора \"%1$s\"</string>
+    <string name="title_transfer_type_qr">Сканировать QR-код</string>
+    <string name="transfer_button">Перенести</string>
+    <string name="transfer_device_transfer_error">Невозможно перенести</string>
+    <string name="transfer_in_device_name">%2$s на %1$s</string>
+    <string name="transfer_profile_downloading_description">Вы можете продолжить настройку устройства %1$s.</string>
+    <string name="transfer_single_description_with_esim">"%1$s will be transferred to this phone.
+
+After you transfer your SIM to this phone, it will no longer work on your other device."</string>
+    <string name="transfer_single_description_with_psim">"You can convert your SIM card into an eSIM and
+transfer it to this phone. After it's been
+converted, your SIM card can't be used again."</string>
+    <string name="transfer_single_psim_hint">Learn how to use a SIM card</string>
+    <string name="transfer_single_psim_sub_info">Or, insert the SIM card now.</string>
+    <string name="transfer_single_subItem_title_with_number">Неподходящий номер?</string>
+    <string name="transfer_single_subItem_title_without_number_esim">Неподходящая eSIM-карта?</string>
+    <string name="transfer_single_subItem_title_without_number_unknown">Неподходящая SIM-карта?</string>
+    <string name="transfer_single_title">Transfer %1$s SIM?</string>
+    <string name="transfer_subItem_desc">Скачать взамен новую eSIM-карту</string>
+    <string name="transfer_subItem_title_with_number">Неподходящие номера?</string>
+    <string name="transfer_subItem_title_without_number_esim">Неподходящие eSIM-карты?</string>
+    <string name="transfer_subItem_title_without_number_unknown">Неподходящие SIM-карты?</string>
+    <string name="transfer_title_unknown_sim">Выберите SIM-карту для переноса</string>
+    <string name="transfer_title_with_number">Выберите номер для переноса</string>
+    <string name="transfer_title_without_number">Выберите eSIM для переноса</string>
+    <string name="update_button">Обновить</string>
+    <string name="use_different_network">Подключиться к другой сети</string>
+    <string name="use_different_network_button">Подключиться к другой сети</string>
+    <string name="user_consent_download_active_profile_body_text">SIM-карта оператора \"%1$s\" будет отключена во время скачивания.</string>
+    <string name="user_consent_download_mobile_data_body_text">SIM-карта будет скачана по мобильной сети.</string>
+    <string name="user_consent_download_no_name_body_text">Активная SIM-карта будет отключена во время скачивания.</string>
+    <string name="user_consent_download_over_wifi_title">Скачать SIM-карту по сети Wi-Fi?</string>
+    <string name="user_consent_download_ss_no_profile_title">Разрешить скачивание SIM-карты через вашего оператора?</string>
+    <string name="user_consent_download_ss_no_profile_wifi_body_text">SIM-карта будет скачана по сети Wi-Fi.</string>
+    <string name="user_consent_download_switch_body_text">"Чтобы скачать и выбрать другую SIM-карту, отключите активную (%1$s).
+
+При этом тариф оператора \"%1$s\" не будет отменен."</string>
+    <string name="user_consent_download_switch_dsds_no_name_body_text">"Чтобы скачать и выбрать другую SIM-карту, отключите активную.
+
+При этом тариф предыдущего оператора не будет отменен."</string>
+    <string name="user_consent_download_switch_dsds_no_name_title">Отключить SIM-карту?</string>
+    <string name="user_consent_download_switch_no_profile_body_text">SIM-карта будет активна сразу после скачивания.</string>
+    <string name="user_consent_download_switch_ss_no_name_body_text">"Чтобы скачать и выбрать другую SIM-карту, отключите активную.
+
+При этом тариф предыдущего оператора не будет отменен."</string>
+    <string name="user_consent_download_switch_ss_no_name_title">Отключить SIM-карту?</string>
+    <string name="user_consent_switch_dsds_body_text">"На этом устройстве может быть только одна активная eSIM-карта.
+
+SIM-карта \"%1$s\" будет отключена без отмены тарифа."</string>
+    <string name="user_consent_switch_dsds_no_name_body_text">"На этом устройстве может быть только одна активная eSIM-карта.
+
+Текущая SIM-карта будет отключена без отмены тарифа."</string>
+    <string name="user_consent_switch_mep_dsds_body_text">SIM-карта \"%1$s\" будет отключена без отмены тарифа.</string>
+    <string name="user_consent_switch_mep_dsds_no_name_body_text">Текущая SIM-карта будет отключена без отмены тарифа.</string>
+    <string name="user_consent_switch_no_name_title">Использовать новую SIM-карту?</string>
+    <string name="user_consent_switch_ss_body_text">"На этом устройстве может быть только одна активная SIM-карта.
+
+SIM-карта \"%1$s\" будет отключена без отмены тарифа."</string>
+    <string name="user_consent_switch_ss_no_name_body_text">"На этом устройстве может быть только одна активная SIM-карта.
+
+Текущая SIM-карта будет отключена без отмены тарифа."</string>
+    <string name="user_consent_switch_title">Выбрать SIM-карту \"%1$s\"?</string>
+    <string name="v7_preference_off">ВЫКЛ.</string>
+    <string name="v7_preference_on">ВКЛ.</string>
+    <string name="wait_msg">Подождите…</string>
+    <string name="wrong_code_dialog_text">"В целях безопасности некоторые операторы связи требуют ввести код подтверждения. Он может быть указан:
+
+• на листе бумаги, который прилагается к устройству;
+• в электронном письме от оператора;
+• в текстовом сообщении, отправленном на ваше старое устройство."</string>
+    <string name="yes_button">Да</string>
+</resources>
